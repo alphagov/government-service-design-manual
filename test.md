@@ -1,4 +1,4 @@
-<h2>This is a test</h2>
+<h1>This is a test</h1>
 This is a test of some **markdown**
 
 
