@@ -9,7 +9,7 @@
     gives us a consistent feel, whether you are in the news section of
     Inside Government or a quick answer on child benefit rates.
 
-    Then there are separate sections for the ‘mainstream’ content (this
+    Then there are separate sections for the 'mainstream' content (this
     is content for both businesses and citizens) and Inside Government
     content. These go over the different formats (eg the way we present
     the information) and go into more detail on specifics.
@@ -31,7 +31,7 @@
     familiar resource.
 
     If there are style differences for separate sections of the site,
-    you will see a ‘Style differences’ heading under the main content;
+    you will see a 'Style differences' heading under the main content;
     if not, this style is to be used across the whole of GOV.UK.
 
     1.1 Active voice
@@ -43,17 +43,17 @@
     1.2 Addressing the user
     -----------------------
 
-    Address the user as ‘you’ where possible. Content on the site often
+    Address the user as 'you' where possible. Content on the site often
     makes a direct appeal to citizens and businesses to get involved or
-    take action, eg: ‘You can contact HMRC by phone and email’ or ‘Pay
-    your car tax.’
+    take action, eg: 'You can contact HMRC by phone and email' or 'Pay
+    your car tax.'
 
     Style differences
     -----------------
 
-    Mainstream: Don’t use ‘we’, ‘I’, ‘our’, ‘us’.\
-     Inside Government: Use ‘we’ if the ‘we’ is obvious from the
-    context, eg it’s clearly a department or the government.
+    Mainstream: Don't use 'we', 'I', 'our', 'us'.\
+     Inside Government: Use 'we' if the 'we' is obvious from the
+    context, eg it's clearly a department or the government.
 
     1.3 Be concise
     --------------
@@ -69,9 +69,9 @@
 
     You should:
 
-    -   use contractions (eg can’t)
-    -   not let caveats dictate unwieldy grammar – eg say ‘You can’
-        rather than ‘You may be able to’
+    -   use contractions (eg can't)
+    -   not let caveats dictate unwieldy grammar – eg say 'You can'
+        rather than 'You may be able to'
     -   use the language people are using – use Google Insights to check
         for terms people search for
     -   not use long sentences with complicated sub-clauses
@@ -97,10 +97,10 @@
     1.6 Plain English – mandatory for all of GOV.UK
     -----------------------------------------------
 
-    Use plain English – don’t use complicated or long words when easy or
-    short ones will do – use ‘buy’ instead of ‘purchase’, ‘help’ instead
-    of ‘assist’, ‘about’ instead of ‘approximately’ and ‘like’ instead
-    of ‘such as’.
+    Use plain English – don't use complicated or long words when easy or
+    short ones will do – use 'buy' instead of 'purchase', 'help' instead
+    of 'assist', 'about' instead of 'approximately' and 'like' instead
+    of 'such as'.
 
     Write content as simply as possible so that it is usable and
     accessible to everyone in the UK, regardless of their language and
@@ -110,8 +110,8 @@
     were talking to them one-to-one but with the authority of someone
     who can actively help.
 
-    All audiences should understand our content; this isn’t ‘dumbing
-    down’, this is opening up government information to all.
+    All audiences should understand our content; this isn't 'dumbing
+    down', this is opening up government information to all.
 
 3.  2. Points of style
     ==================
@@ -119,31 +119,31 @@
     2.1 Abbreviations and acronyms
     ------------------------------
 
-    Spell out acronyms at first mention unless they’re well known, eg
+    Spell out acronyms at first mention unless they're well known, eg
     UK, DVLA, US, EU, VAT, MP etc.
 
     The first time you use an abbreviation or acronym, explain it in
     full on each page, and then refer to it by initials. For example –
-    HM Revenue & Customs (HMRC). Don’t use an acronym if you’re not
+    HM Revenue & Customs (HMRC). Don't use an acronym if you're not
     going to use it again later in the text.
 
     Quick reminder: Freedom of Information – you can make an FOI request
     but not a request under the FOI Act.
 
-    Don’t use full stops in abbreviations - BBC, not B.B.C.
+    Don't use full stops in abbreviations - BBC, not B.B.C.
 
     2.2 Americanisms
     ----------------
 
-    Organise – not organize. Exceptions include where it’s part of a
-    specific name, eg ‘4th Mechanized Brigade’.
+    Organise – not organize. Exceptions include where it's part of a
+    specific name, eg '4th Mechanized Brigade'.
 
-    You ‘fill in’ a form, not ‘fill out’ a form.
+    You 'fill in' a form, not 'fill out' a form.
 
     2.3 Ampersand
     -------------
 
-    Use ‘and’ rather than an ‘&’ unless as part of a brand name, eg HM
+    Use 'and' rather than an '&' unless as part of a brand name, eg HM
     Revenue & Customs, Foreign & Commonwealth Office.
 
     2.4 Brackets
@@ -151,27 +151,27 @@
 
     Use (round brackets), not [square brackets]. The only acceptable use
     of square brackets is for explanatory notes in reported speech. Eg a
-    minister’s speech on Inside Government:
+    minister's speech on Inside Government:
 
-    “Thank you [Foreign Minister] Mr Smith.”
+    "Thank you [Foreign Minister] Mr Smith."
 
     2.5 Bullet points and steps
     ---------------------------
 
     How to use bullet points to make text easier to read:
 
-    -   if you’re tempted to put a bold header in a bullet, try breaking
+    -   if you're tempted to put a bold header in a bullet, try breaking
         the list into subheads instead
     -   always use a lead-in sentence
     -   use lower-case at the start of the bullet
-    -   don’t use full stops within bullet points – where possible start
+    -   don't use full stops within bullet points – where possible start
         another bullet point or use commas, dashes or semi-colons to
         expand on an item
-    -   don’t put ‘or’, ‘and’ after the bullets
+    -   don't put 'or', 'and' after the bullets
     -   there should be no full stop after a bullet point
     -   bullets should always make sense running on from the lead-in
         sentence
-    -   don’t use numbered bullets – there is a steps format
+    -   don't use numbered bullets – there is a steps format
     -   use links in bullets (including downloads) if necessary
 
     Steps
@@ -186,7 +186,7 @@
     2.6 Capitalisation
     ------------------
 
-    DON’T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE
+    DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE
     HARD TO READ.
 
     Lower case is preferable but use capitalisation for:
@@ -221,20 +221,20 @@
     -   10 November to 21 December
     -   10am to 11am (not 10–11am)
 
-    When referring to ‘today’ (eg in a news article) make sure you
-    include the date as well. For example: “The minister announced today
-    (14 June, 2012) that…”
+    When referring to 'today' (eg in a news article) make sure you
+    include the date as well. For example: "The minister announced today
+    (14 June, 2012) that…"
 
     2.8 Eg, etc, and ie
     -------------------
 
-    Don’t use full stops after or between these notations. This was once
+    Don't use full stops after or between these notations. This was once
     necessary when print setting but is now cumbersome to read with
     modern documents and digital screens.
 
-    If you feel the long form is required (‘for example’ instead of
-    ‘eg’, ‘specifically’ instead of ‘ie’ etc) then this is at the
-    content designer’s discretion. User testing has shown that some
+    If you feel the long form is required ('for example' instead of
+    'eg', 'specifically' instead of 'ie' etc) then this is at the
+    content designer's discretion. User testing has shown that some
     people are not familiar with abbreviations such as eg, so consider
     your audience before abbreviating.
 
@@ -242,7 +242,7 @@
     -------------------
 
     An email address should be written out in full, in lowercase and
-    always linked. Don’t include any other words as part of the link.
+    always linked. Don't include any other words as part of the link.
 
     2.10 Geography and regions
     --------------------------
@@ -257,9 +257,9 @@
     Central America, North America, South America, Latin America.
 
     You can use a capital for a shortened version of a specific area or
-    region if it’s commonly known by that name, eg ‘the Gulf’ for the
-    Persian Gulf. If it’s not in common use in the media etc, stick with
-    lowercase eg ‘the strait’ for ‘the Strait of Hormuz’.
+    region if it's commonly known by that name, eg 'the Gulf' for the
+    Persian Gulf. If it's not in common use in the media etc, stick with
+    lowercase eg 'the strait' for 'the Strait of Hormuz'.
 
     Great Britain
     -------------
@@ -267,8 +267,8 @@
     Refers only to England, Scotland and Wales excluding Northern
     Ireland.
 
-    If you are telling users about multiple areas, use: ‘England,
-    Scotland and Wales.’
+    If you are telling users about multiple areas, use: 'England,
+    Scotland and Wales.'
 
     Britain
     -------
@@ -282,46 +282,46 @@
 
     Hyphenate:
 
-    -   re + word starting with ‘e’ eg re–elect
+    -   re + word starting with 'e' eg re–elect
     -   co-ordinate
 
-    Don’t hyphenate:
+    Don't hyphenate:
 
     -   reuse
     -   reorder
     -   reopen
     -   email
 
-    In general, if in doubt, don’t use a hyphen unless it’s confusing
+    In general, if in doubt, don't use a hyphen unless it's confusing
     without it and check the Oxford English Dictionary for Writers and
     Editors.
 
     2.12 Italics
     ------------
 
-    Don’t use italics. Use ‘single quotation marks’ if referring to a
+    Don't use italics. Use 'single quotation marks' if referring to a
     document, scheme or initiative.
 
     2.13 Legal language
     -------------------
 
-    If you are talking about a legal requirement, use: ‘must’, for
-    example: ‘your employer must pay you the National Minimum Wage
-    (NMW)’.
+    If you are talking about a legal requirement, use: 'must', for
+    example: 'your employer must pay you the National Minimum Wage
+    (NMW)'.
 
-    If you feel that ‘must’ doesn’t have enough emphasis, then use:
-    ‘legal requirement / legally entitled’ etc… For example: ‘Once your
+    If you feel that 'must' doesn't have enough emphasis, then use:
+    'legal requirement / legally entitled' etc… For example: 'Once your
     child is registered at school, you are legally responsible for
-    making sure they attend regularly’.
+    making sure they attend regularly'.
 
-    When deciding whether to use ‘must’ or ‘legally entitled’ etc…
+    When deciding whether to use 'must' or 'legally entitled' etc…
     consider how important it is for us to talk about the legal aspect,
     as well as the overall tone of voice.
 
     If a requirement is legal, but administrative, or part of a process
-    that won’t have criminal repercussions, then use: ‘need to’. For
-    example: ‘You will need to provide copies of your marriage
-    certificate’.
+    that won't have criminal repercussions, then use: 'need to'. For
+    example: 'You will need to provide copies of your marriage
+    certificate'.
 
     This may be a legal requirement, but not completing it would just
     stop the person from moving on to the next stage of a process,
@@ -347,9 +347,9 @@
     Abbreviating kilograms to kg is acceptable after first use but use
     acronym markdown.
 
-    If the measurement is more than one word, eg ‘kilometres per hour’
+    If the measurement is more than one word, eg 'kilometres per hour'
     then spell it out the first time it is used with the abbreviation.
-    From then on, abbreviate. If it is only mentioned once, don’t
+    From then on, abbreviate. If it is only mentioned once, don't
     abbreviate.
 
     Use Celsius for temperature, eg 37°C.
@@ -358,51 +358,51 @@
     ------------
 
     Write **all** numbers in numerics (including 1 to 9) except where
-    it’s part of a common expression and it would look strange, eg ‘one
-    or two of them’. Use common sense:
+    it's part of a common expression and it would look strange, eg 'one
+    or two of them'. Use common sense:
 
     One of the 13 words in this sentence is causing problems: this 1.
 
-    This sentence would be better with ‘one’ as the final word. If a
-    number starts a sentence, write it out in full ‘Thirty-four
-    hula-hoops found in researcher’s filing cupboard’ except where it
+    This sentence would be better with 'one' as the final word. If a
+    number starts a sentence, write it out in full 'Thirty-four
+    hula-hoops found in researcher's filing cupboard' except where it
     starts a heading.
 
-    For numerals over 999 – insert a comma for clarity. ‘It was over
-    9,000’ Spell out common fractions, such as one–half, but use a %
+    For numerals over 999 – insert a comma for clarity. 'It was over
+    9,000' Spell out common fractions, such as one–half, but use a %
     sign for percentages, so 50%.
 
-    Use ‘500 to 900’ and not ‘500–900’.
+    Use '500 to 900' and not '500–900'.
 
     Millions
     --------
 
     Always use million in money (and billion), eg £138 million. Use
-    millions in phrases eg “millions of people”.
+    millions in phrases eg "millions of people".
 
     2.17 Money
     ----------
 
     Use the £ symbol – £75
 
-    Don’t use decimals unless pence are included – for example use:
+    Don't use decimals unless pence are included – for example use:
     £75.50 but not £75.00.
 
-    Don’t use ‘£0.xxm’ for less than £1 million.
+    Don't use '£0.xxm' for less than £1 million.
 
-    Write out ‘pence’ in full – ‘calls will cost 4 pence per minute from
-    a landline’.
+    Write out 'pence' in full – 'calls will cost 4 pence per minute from
+    a landline'.
 
     2.18 Organisations
     ------------------
 
-    All organisations are singular, for example: ‘the government has
-    decided to sell assets’.
+    All organisations are singular, for example: 'the government has
+    decided to sell assets'.
 
-    Departments don’t take the definite article, for example: ‘DVLA’,
-    not ‘the DVLA’
+    Departments don't take the definite article, for example: 'DVLA',
+    not 'the DVLA'
 
-    Use ‘local council’, instead of ‘local authority’ where possible.
+    Use 'local council', instead of 'local authority' where possible.
 
     2.19 Quotes and speech marks
     ----------------------------
@@ -418,8 +418,8 @@
     -   in headlines
     -   links
     -   unusual terms
-    -   when referring to words or publications, for example: ‘Download
-        the publication ‘Understanding Capital Gains Tax’ (PDF 360KB)’
+    -   when referring to words or publications, for example: 'Download
+        the publication 'Understanding Capital Gains Tax' (PDF 360KB)'
 
     Double quotes
     -------------
@@ -434,8 +434,8 @@
     2.20 Singular, plural and contractions
     --------------------------------------
 
-    Use contractions eg ‘they’ve’, ‘we’ll’. Avoid using ‘should’ve’,
-    ‘could’ve’, ‘would’ve’ etc – these are hard to read.
+    Use contractions eg 'they've', 'we'll'. Avoid using 'should've',
+    'could've', 'would've' etc – these are hard to read.
 
     2.21 Search engine optimisation (SEO)
     -------------------------------------
@@ -458,13 +458,13 @@
 
     Meta description key points:
 
-    -   don’t just repeat the title – meta descriptions should cover the
+    -   don't just repeat the title – meta descriptions should cover the
         scope of the content item and sell it to the intended audience
     -   include popular keywords found with keyword tools
     -   descriptions can get rid of ambiguity if titles are similar
     -   optimal length for meta descriptions is around 150 characters
     -   use dashes and commas
-    -   don’t use full stops
+    -   don't use full stops
     -   define terms used in title if they're not popular in search
 
     2.22 Spaces
@@ -475,7 +475,7 @@
     2.23 Telephone numbers
     ----------------------
 
-    Use ‘Telephone: 011 111 111’ or ‘Mobile:’ not ‘Mob:’.
+    Use 'Telephone: 011 111 111' or 'Mobile:' not 'Mob:'.
 
     Use spaces between city and local exchange etc. Here are the
     different formats to use:
@@ -507,13 +507,13 @@
     ------------------------------
 
     These are pre-transaction pages. Use SEO to define the title, so if
-    people search for ‘registry office’, put that in and then explain
-    the proper term is ‘register office’.
+    people search for 'registry office', put that in and then explain
+    the proper term is 'register office'.
 
     Give one sentence of what the user can expect from the service –
     this will appear before the button.
 
-    **‘What you need to know’ section**\
+    **'What you need to know' section**\
      This is where you put information that the user will need to
     complete the transaction and information about how long it takes,
     how much there will be to pay etc.
@@ -539,7 +539,7 @@
     Formats
     -------
 
-    ‘Formats’ is the term we use to define the different ways of
+    'Formats' is the term we use to define the different ways of
     presenting information, for example: guides have multiple pages of
     information around a topic, answers give a single, concise answer
     etc.
@@ -550,9 +550,9 @@
     Overview
     --------
 
-    ‘Part 1’ of the guide should contain the most important information
+    'Part 1' of the guide should contain the most important information
     that the majority of users will want to read – you can have an
-    ‘overview’ but you don’t have to.
+    'overview' but you don't have to.
 
     Following chapters should contain more specific information as well
     as content for niche audiences.
@@ -563,7 +563,7 @@
     You should break content into chapters based on user needs as well
     as the natural structure of the content.
 
-    You don’t have to use chapters. If you find that you only have 3 or
+    You don't have to use chapters. If you find that you only have 3 or
     4 small chapters in a guide, consider simply having a page without
     chapters where users can scroll.
 
@@ -580,9 +580,9 @@
     -   Apply for...
     -   Appeal against...
 
-    Don’t force a linear reading pattern.
+    Don't force a linear reading pattern.
 
-    Don’t duplicate information but also don't assume people have read
+    Don't duplicate information but also don't assume people have read
     all parts of the guide.\
      You can link between different parts of the guide using slugs.
 
@@ -590,13 +590,13 @@
     -----------
 
     Answers assume prior knowledge and answer a popular – and specific –
-    need (so you don’t need to explain terms or provide context). For
-    example, the answer ‘National Minimum Wage rate’ should only give
+    need (so you don't need to explain terms or provide context). For
+    example, the answer 'National Minimum Wage rate' should only give
     the rate, not information about what the National Minimum Wage is,
     how to pay it, etc (although you should be clearly linking to
     related content that does).
 
-    Stick exclusively to the answer – don’t be tempted to include extra
+    Stick exclusively to the answer – don't be tempted to include extra
     information, however useful this might appear to be.
 
     Summary
@@ -613,7 +613,7 @@
 
     -   expand on summary with any necessary detail
     -   be strict with information you include
-    -   don’t stray off topic
+    -   don't stray off topic
     -   stick to task
     -   light touch on words even if this means compromising caveats
     -   no need to repeat info in subhead
@@ -623,13 +623,13 @@
 
     -   as close to search terms as possible
     -   avoid questions – use statements
-    -   no need for the ‘if’ (eg ‘You’re working abroad’)
+    -   no need for the 'if' (eg 'You're working abroad')
     -   H2 are primary subs
 
     Formatting
     ----------
 
-    -   don’t break up text with too many subheads
+    -   don't break up text with too many subheads
     -   use formatting options (eg callouts) but not gratuitously
     -   use accessibility formatting
 
@@ -638,13 +638,13 @@
 
     When the answer:
 
-    -   can’t be simplified – eg too many variables – such as ‘What
-        hours your child can work’
+    -   can't be simplified – eg too many variables – such as 'What
+        hours your child can work'
     -   depends on too many things, such as the age of your child and
         the type of job
-    -   can’t be summed up
+    -   can't be summed up
     -   is low popularity search – it can form part of a longer guide so
-        it doesn’t clog up the results page
+        it doesn't clog up the results page
 
     3.3 Benefits and schemes
     ------------------------
@@ -653,7 +653,7 @@
     --------
 
     -   give people the main things they want to know without going into
-        detail – eg rate and how long it’s paid for
+        detail – eg rate and how long it's paid for
     -   separate main points (not one long paragraph)
 
     Main sections
@@ -663,14 +663,14 @@
     -   resist temptation to provide information around the subject
         (especially superfluous advice)
     -   use examples for complex calculations (use example markdown)
-    -   stick to common case – any edge cases get put in ‘Further
-        information’
+    -   stick to common case – any edge cases get put in 'Further
+        information'
 
     Further information
     -------------------
 
-    -   this isn’t a dumping ground – content still needs to be useful –
-        if you can't find a place for it, don’t use it
+    -   this isn't a dumping ground – content still needs to be useful –
+        if you can't find a place for it, don't use it
     -   main information for this section: effect on other benefits,
         appeals and edge cases – also more information on how things are
         worked out
@@ -683,22 +683,22 @@
 
     ### Acronyms
 
-    Common acronyms don’t need markdown (eg VAT, UK, US, EU, MP). Don’t
-    use acronyms if you’re not going to use the acronym later in the
+    Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't
+    use acronyms if you're not going to use the acronym later in the
     text.
 
     ### Addressing the user
 
-    Always address the user as ‘you’ and don’t use ‘we’, ‘I’, ‘our’,
-    ‘us’.
+    Always address the user as 'you' and don't use 'we', 'I', 'our',
+    'us'.
 
     ### Bullets and steps
 
     This is how to do bullets:
 
     -   have a lead-in sentence
-    -   don’t end with ‘and’, ‘or’ or a semicolon
-    -   don’t use sentences within a bullet point – dashes, semicolons
+    -   don't end with 'and', 'or' or a semicolon
+    -   don't use sentences within a bullet point – dashes, semicolons
         etc are okay
     -   do use links in bullets (including downloads) if necessary
 
@@ -714,22 +714,22 @@
 
     Capitalise:
 
-    -   names of government schemes eg Right to Buy, Queen’s Awards for
+    -   names of government schemes eg Right to Buy, Queen's Awards for
         Enterprise
 
-    ### Don’t capitalise:
+    ### Don't capitalise:
 
     -   government (unless part of a name)
     -   the titles of publications – use an initial cap only, eg
-        ‘Implementing self-financing for council housing’ (unless it
+        'Implementing self-financing for council housing' (unless it
         includes a phrase which should be capitalised for other reasons
-        eg ‘Review of the Right to Buy scheme’).
+        eg 'Review of the Right to Buy scheme').
     -   seasons eg summer
     -   compass directions eg the south of England
 
     ### Contractions
 
-    -   Use as much as possible (they’ll, you’ll etc)
+    -   Use as much as possible (they'll, you'll etc)
 
     ### Dates and times
 
@@ -742,7 +742,7 @@
 
     ### Eg, etc and ie
 
-    Don’t use full stops between or after these notations.
+    Don't use full stops between or after these notations.
 
     ### Email addresses
 
@@ -750,9 +750,9 @@
 
     ### Legal language
 
-    If it is a legal requirement, use ‘must’.
+    If it is a legal requirement, use 'must'.
 
-    If this doesn’t provide enough emphasis, use ‘legal requirement’.
+    If this doesn't provide enough emphasis, use 'legal requirement'.
 
     ### Links
 
@@ -765,9 +765,9 @@
 
     ### Links to documents:
 
-    Download ‘This is the document title’ (PDF, 69KB)\
+    Download 'This is the document title' (PDF, 69KB)\
      Check all links on preview before publishing. Make sure link text
-    is helpful (eg not ‘click here’).
+    is helpful (eg not 'click here').
 
     ### Lists
 
@@ -788,9 +788,9 @@
     -   1,000
     -   all numbers are in numerics (including 1–9)
     -   use words with common sense, eg when starting a headline:
-        Thirty-four hula hoops found in researcher’s drawer
-    -   use words for common expressions, eg “the minister will be
-        looking at one or two areas”
+        Thirty-four hula hoops found in researcher's drawer
+    -   use words for common expressions, eg "the minister will be
+        looking at one or two areas"
 
     ### Quotes
 
@@ -816,10 +816,10 @@ the more task-driven content on mainstream GOV.UK. However, the premise
 is still to get to the point of the information in a succinct, concise,
 usable way. There is no space for waffle anywhere on GOV.UK.
 
-If you are giving your users more detail, you’ll need to consider
+If you are giving your users more detail, you'll need to consider
 internal links to supporting pages etc more closely. The user journey
 and architecture within a topic or audience space can become so swamped
-with detail, it becomes unusable. So there’s your challenge.
+with detail, it becomes unusable. So there's your challenge.
 
 4.1 Tone of voice
 -----------------
@@ -835,9 +835,9 @@ minister).
 
 Style differences
 
-Mainstream: Don’t use ‘we’, ‘I’, ‘our’, ‘us’.\
- Inside Government: Use ‘we’ if the ‘we’ is obvious from the context, eg
-it’s clearly a department or the government.
+Mainstream: Don't use 'we', 'I', 'our', 'us'.\
+ Inside Government: Use 'we' if the 'we' is obvious from the context, eg
+it's clearly a department or the government.
 
 4.1.2 Jargon
 ------------
@@ -847,7 +847,7 @@ will be impossible to avoid unusual words or phrases – but these must be
 explained where possible. There is no need to explain common terms of
 reference, eg climate change, but something like The Green Deal does
 need explaining, or linking to a definition. You can use supporting
-detail pages to explain complicated background if needed. It’s our job
+detail pages to explain complicated background if needed. It's our job
 to make government understandable to anyone. This includes people with
 poor literacy skills.
 
@@ -863,11 +863,11 @@ these words:
 
 -   agenda (unless it is for a meeting)
 -   advancing
--   collaborate (use ‘working with’)
+-   collaborate (use 'working with')
 -   combating
 -   countering
 -   deliver (pizzas, post and services are delivered – not abstract
-    concepts like ‘improvements’ or ‘priorities’)
+    concepts like 'improvements' or 'priorities')
 -   dialogue (we speak to people)
 -   disincentivise
 -   drive out (unless it is cattle)
@@ -878,8 +878,8 @@ these words:
 -   foster (unless it is children)
 -   impact (as a verb)
 -   initiate
--   key (unless it unlocks something. A subject/thing isn't ‘key’ – it's
-    probably ‘important’)
+-   key (unless it unlocks something. A subject/thing isn't 'key' – it's
+    probably 'important')
 -   land (as a verb. Only use if you are talking about aircraft)
 -   leverage (unless in the financial sense)
 -   liaise
@@ -907,43 +907,43 @@ out about it, we need to follow these golden rules:
 -   be specific – avoid vague words, metaphors and words that are open
     to misinterpretation
 -   adjectives can be subjective and make the text sound more emotive
-    and like ‘spin’ – don’t use them
+    and like 'spin' – don't use them
 -   include concrete subjects in sentences rather than abstract nouns,
-    for example, ‘providing funding for people to insulate their homes’
-    rather than ’encouraging the take-up of home insulation through a
-    new funding mechanism’.
+    for example, 'providing funding for people to insulate their homes'
+    rather than 'encouraging the take-up of home insulation through a
+    new funding mechanism'.
 
-(Note: words ending in ‘–ion’ and ‘–ment’ tend to make sentences longer
+(Note: words ending in '–ion' and '–ment' tend to make sentences longer
 and more complicated than they need to be)
 
 4.2.1 Active voice
 ------------------
 
-Use the active rather than the passive voice, eg ‘we are doing this’,
-rather than ‘this is being done’.
+Use the active rather than the passive voice, eg 'we are doing this',
+rather than 'this is being done'.
 
 4.2.2 Capitalisation
 --------------------
 
-Don’t capitalise words just because you think they are important. It’s
-hard on the eye and can seem pompous. So don’t write, ‘BIS is committed
-to increasing the number of Apprenticeships.’
+Don't capitalise words just because you think they are important. It's
+hard on the eye and can seem pompous. So don't write, 'BIS is committed
+to increasing the number of Apprenticeships.'
 
 Capitalise:
 
--   job titles, ministers’ role titles eg Minister for Housing, Home
+-   job titles, ministers' role titles eg Minister for Housing, Home
     Secretary
 -   names of groups and directorates eg Knowledge and Innovation Group
 -   Parliament, the House
 -   an Act or a Bill
 -   titles of specific Acts or Bills eg Housing Reform Bill
 -   names of specific, named government schemes known to people outside
-    government eg Right to Buy, Queen’s Awards for Enterprise
+    government eg Right to Buy, Queen's Awards for Enterprise
 -   specific select committees (eg Public Administration Select
     Committee)
 -   header cells in tables
 
-Don’t capitalise:
+Don't capitalise:
 
 -   government – never Government, even when referring to the elected
     administration, unless part of a specific name, eg Local Government
@@ -953,10 +953,10 @@ Don’t capitalise:
 -   department or ministry – never Department or Ministry, unless
     referring to a specific one, eg Ministry of Justice
 -   the titles of publications – only initial cap on first word and the
-    entire title in single quote marks eg ‘Implementing self-financing
-    for council housing’ (unless it includes a phrase which should be
-    capitalised for other reasons eg ‘Review of the Right to Buy
-    scheme’)
+    entire title in single quote marks eg 'Implementing self-financing
+    for council housing' (unless it includes a phrase which should be
+    capitalised for other reasons eg 'Review of the Right to Buy
+    scheme')
 -   white paper, green paper, command paper, House of Commons paper
 -   director general (note no hyphen), deputy director, director unless
     in a specific job title
@@ -968,13 +968,13 @@ Don’t capitalise:
 -   general mention of select committees (but DO cap specific ones – see
     above)
 
-DON’T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT’S QUITE HARD TO
+DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO
 READ.
 
 4.2.3 Images
 ------------
 
-What’s the actual purpose of the image? If it is a picture of a key when
+What's the actual purpose of the image? If it is a picture of a key when
 talking about online services – this is probably not that useful. If you
 use a picture of a new state-of-the-art hospital when it is opened –
 this probably is useful.
@@ -995,9 +995,9 @@ Alt text is used as an alternative to an image for people who use screen
 readers.
 
 Use alt text where you need to help users understand the visual content.
-If an image is not essential to understanding the content, use “ ”.
+If an image is not essential to understanding the content, use " ".
 
-For example: don’t tell people there is a logo on the page. However, if
+For example: don't tell people there is a logo on the page. However, if
 there is a picture of a minister in a tank, put an appropriate
 description.
 
@@ -1047,12 +1047,12 @@ seeking to achieve. They should be:
 -   succinct
 -   specific enough to allow someone to measure progress and achievement
 -   jargon-free
--   active: eg ‘increasing x’ , ‘reducing y’ , ‘preventing z’,
-    ‘protecting x from y’
+-   active: eg 'increasing x' , 'reducing y' , 'preventing z',
+    'protecting x from y'
 -   related to an outcome
 
-Use words the wider audience would use. Don’t use ‘The x report’ unless
-that search term is higher than the explanation of what ‘The x report’
+Use words the wider audience would use. Don't use 'The x report' unless
+that search term is higher than the explanation of what 'The x report'
 says.
 
 Good examples:
@@ -1069,28 +1069,28 @@ Bad examples:
 Issue (mandatory)
 -----------------
 
-This should answer the question ‘why does the government have this
-policy?’.
+This should answer the question 'why does the government have this
+policy?'.
 
 Give a short, clear and specific description of the problem or
 opportunity and a brief explanation of what the government is going to
 do or is doing about it.
 
-This section isn’t:
+This section isn't:
 
 -   about the history
 -   what led to the policy being implemented
--   the government’s actions or intended actions
+-   the government's actions or intended actions
 
 Example:
 
 The public sector – including central government, local councils and
-devolved administrations – accounts for around 3% of the UK’s carbon
+devolved administrations – accounts for around 3% of the UK's carbon
 emissions. In England alone, the government spends £2.5 billion on
 building energy and £1.2 billion on owned-vehicle fuel.
 
 Improving energy efficiency in the public sector will result in a better
-use of taxpayers’ money and help the UK meet existing climate change
+use of taxpayers' money and help the UK meet existing climate change
 agreements.
 
 Actions (mandatory)
@@ -1109,7 +1109,7 @@ Past actions go into the background section. If an action was taken in
 the past but the effects are still being felt (eg the benefits of
 successfully lobbying the EU), then it is still current. If an action
 was taken, and then replaced by related and further action, policy, etc,
-then it’s background.
+then it's background.
 
 Example:
 
@@ -1127,7 +1127,7 @@ This section should explain how this policy and set of actions came
 about. Provide essential information for understanding the context of
 the policy, issue and actions.
 
-This isn’t a dumping ground for information that doesn’t fit the other
+This isn't a dumping ground for information that doesn't fit the other
 headings, nor a history of everything, but a clear indication of how the
 policy got to where it is.
 
@@ -1148,12 +1148,12 @@ Explain who has been or will be consulted or involved in the policy, and
 in what way.
 
 List any consultations – formal or informal. Give some detail about what
-is being done and by whom, don’t just add a list of links.
+is being done and by whom, don't just add a list of links.
 
 Example:
 
-The government ran a consultation on ‘Breaking the cycle: effective
-punishment, rehabilitation and sentencing of offenders’. This set out
+The government ran a consultation on 'Breaking the cycle: effective
+punishment, rehabilitation and sentencing of offenders'. This set out
 our proposals for effectively punishing and rehabilitating offenders and
 reforming sentencing. Following that consultation, we revised our plans
 to xxx and yyyy.
@@ -1180,7 +1180,7 @@ Partner organisations (optional)
 List the organisations which have a major involvement, and what work is
 being done by them or with them.
 
-Write full sentences, don’t just list the organisations.
+Write full sentences, don't just list the organisations.
 
 Detail pages (optional)
 -----------------------
@@ -1195,10 +1195,10 @@ for 6 months, the detail page should provide further information about
 who is involved, what they are spending the money on and how.
 
 These pages must not be used as a dumping ground for material that
-doesn’t fit under other headings.
+doesn't fit under other headings.
 
-If appropriate, include a supplementary detail page called ‘evidence’ or
-‘research’. This can be used to present the most important research and
+If appropriate, include a supplementary detail page called 'evidence' or
+'research'. This can be used to present the most important research and
 statistics relating to the policy.
 
 4.4 Publications
@@ -1207,7 +1207,7 @@ statistics relating to the policy.
 Titles
 ------
 
-Titles don’t have to reflect the ‘official’ publication title. Keep them
+Titles don't have to reflect the 'official' publication title. Keep them
 short and search- and user-friendly.
 
 Front-load all titles – get all the most important words at the front of
@@ -1223,28 +1223,28 @@ You can mention the report title etc in the summary or page copy if you
 think users will search for that term.
 
 Good example:\
- ‘Improving government online services’
+ 'Improving government online services'
 
 Bad example:\
- ‘The Varney report’
+ 'The Varney report'
 
 Summary
 -------
 
 This will be seen on section pages – not the publication page itself so
-**don’t use it for essential information** unless that information is
-repeated in the body text. It’s a short, snappy overview and takes a
+**don't use it for essential information** unless that information is
+repeated in the body text. It's a short, snappy overview and takes a
 full stop.
 
 Write a 140 character summary – this will help with concise writing for
 search etc.
 
-Body text – what it’s for
+Body text – what it's for
 -------------------------
 
 The body of a publication page is used to provide a summary of the
 publication in plain, neutral language – to reassure the user that it is
-(or isn’t) what they’re looking for. Include what the publication is
+(or isn't) what they're looking for. Include what the publication is
 about and its purpose. Publications often outlive governments so keep
 the language politically neutral.
 
@@ -1280,7 +1280,7 @@ Make sure as much as possible of the following information is captured:
 -   Research (this will be used in future to show all government
     research in one place)
 -   Corporate Publication (if checked, the publication shows on the
-    organisations ‘About us’ pages)
+    organisations 'About us' pages)
 -   Order URL: (enter a URL if the publication is available to order
     from an e-commerce site)
 
@@ -1295,7 +1295,7 @@ Much like publications but check the following have been populated:
 -   countries (eg Spain, if applicable)
 -   excluded nations (eg Scotland, if applicable)
 
-Body text – what it’s for
+Body text – what it's for
 -------------------------
 
 Give a short, succinct summary of what the consultation is asking people
@@ -1332,12 +1332,12 @@ the publication as written on its front cover.
 4.6 Speeches
 ------------
 
-In the ‘type’ dropdown, select:
+In the 'type' dropdown, select:
 
 -   Transcript – only for verbatim reports of exactly what the speaker
-    said, NOT ‘check against delivery’
--   Draft – for what the speaker was supposed to say (‘check against
-    delivery’, though this is not necessary to state in the text)
+    said, NOT 'check against delivery'
+-   Draft – for what the speaker was supposed to say ('check against
+    delivery', though this is not necessary to state in the text)
 -   Speaking notes – if it is not a complete speech, eg a list of
     topics, cue cards
 -   Written statement – a written statement submitted to the House, a
@@ -1360,16 +1360,16 @@ Titles
 
 What is the actual story? Tell it in a few words.
 
-“Minister visits factory” is not a story. “Vince Cable tells factory
-workers about workplace law reforms” gives the reader a sense of what
+"Minister visits factory" is not a story. "Vince Cable tells factory
+workers about workplace law reforms" gives the reader a sense of what
 the story is about.
 
-Avoid ‘teasing headlines’, puns or wordplay – these make your story hard
+Avoid 'teasing headlines', puns or wordplay – these make your story hard
 for people to find. Use the words most people use for the situation.
 This helps your search ranking.
 
-Avoid print conventions / ‘journalese’ eg “Minister in youth
-homelessness bid” (‘bid’ is used in print where headline space is in
+Avoid print conventions / 'journalese' eg "Minister in youth
+homelessness bid" ('bid' is used in print where headline space is in
 short supply).
 
 Good example:\
@@ -1391,7 +1391,7 @@ Here's how to write effective body copy:
 
 -   the first paragraph of body copy should lead on from the
     introduction paragraph – it should not repeat the information
--   use ‘inverted pyramid’ approach with most important information at
+-   use 'inverted pyramid' approach with most important information at
     the top tapering down to lesser detail
 -   paragraphs should have no more than 5 sentences each
 -   large blocks of text should be split by regular sub-headers
@@ -1434,7 +1434,7 @@ gov.uk/government – points of style cheat sheet
 
 ### Addressing the user
 
-Use ‘we’, ‘I’, ‘our’, ‘us’, if it is clear.
+Use 'we', 'I', 'our', 'us', if it is clear.
 
 ### Headings
 
@@ -1448,29 +1448,29 @@ Capitalise:
     Ambassador Alan Maddrell
 -   Parliament, the House
 -   British Embassy (when referring to or implying one specific embassy,
-    eg ‘the British Embassy in Madrid’, “Protestors outside the British
-    Embassy”)
+    eg 'the British Embassy in Madrid', "Protestors outside the British
+    Embassy")
 -   an Act or a Bill
 -   titles of specific Acts or Bills eg Housing Reform Bill
--   names of government schemes eg Right to Buy, Queen’s Awards for
+-   names of government schemes eg Right to Buy, Queen's Awards for
     Enterprise
 -   specific select committees (eg Public Administration Select
     Committee)
 -   Her Majesty the Queen
 -   job titles for an individual
 
-Don’t capitalise:
+Don't capitalise:
 
 -   government (unless part of a name)
 -   minister (unless part of a specific job title)
 -   department or ministry, unless referring to a specific one
--   British embassy or consulate (when talking generally, eg ‘Find a
-    British embassy’)
+-   British embassy or consulate (when talking generally, eg 'Find a
+    British embassy')
 -   job titles for a generic role holder (not an individual)
--   the titles of publications, eg ‘Implementing self-financing for
-    council housing’ (unless it includes a phrase which should be
-    capitalised for other reasons eg ‘Review of the Right to Buy
-    scheme’)
+-   the titles of publications, eg 'Implementing self-financing for
+    council housing' (unless it includes a phrase which should be
+    capitalised for other reasons eg 'Review of the Right to Buy
+    scheme')
 -   white paper, green paper, command paper, House of Commons paper
 -   director general, deputy director, director unless in a specific job
     title
@@ -1494,9 +1494,9 @@ Don’t capitalise:
 -   £860,000 not £0.86 million
 -   1,000
 -   Use common sense with numbers, eg when starting a headline:
-    Thirty-four hula hoops found in researcher’s drawer
--   Use words for common expressions, eg ‘the minister will be looking
-    at one or two areas’
+    Thirty-four hula hoops found in researcher's drawer
+-   Use words for common expressions, eg 'the minister will be looking
+    at one or two areas'
 
 ### Lists
 
@@ -1508,8 +1508,8 @@ sentence, use commas to separate items, not semicolons.
 This is how to do bullets:
 
 -   have a lead-in sentence
--   don’t end them with ‘and’, ‘or’ or a semicolon
--   don’t use sentences within a bullet point – dashes, semicolons etc
+-   don't end them with 'and', 'or' or a semicolon
+-   don't use sentences within a bullet point – dashes, semicolons etc
     are okay
 
 ### Text emphasis
@@ -1518,20 +1518,20 @@ Use bold **very** sparingly.
 
 ### Quotes
 
-Use single quotes for ‘unusual terms’.
+Use single quotes for 'unusual terms'.
 
-He said, “Short quotes take double quotation marks.”
+He said, "Short quotes take double quotation marks."
 
 She said:
 
 \> This is a block quote, used for long quotes.\
  \>\
- \> Don’t forget to use the arrow between paragraphs as well.
+ \> Don't forget to use the arrow between paragraphs as well.
 
 ### Acronyms
 
-Common acronyms don’t need markdown (eg VAT, UK, US, EU, MP). Don’t use
-acronyms if you’re not going to use the acronym later in the text.
+Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't use
+acronyms if you're not going to use the acronym later in the text.
 
 Tip: for acronyms you use frequently, have a file you can copy/paste.
 
@@ -1540,11 +1540,11 @@ Tip: for acronyms you use frequently, have a file you can copy/paste.
 Use markdown where necessary.
 
 Links to documents:\
- Download ‘This is the document title’ (PDF, 69KB)
+ Download 'This is the document title' (PDF, 69KB)
 
 Check all links on preview before publishing. Make sure link text is
-helpful, not ‘click here’.
+helpful, not 'click here'.
 
 ### Footnotes
 
-Don‘t use them.
+Don't use them.
