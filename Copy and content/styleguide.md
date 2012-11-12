@@ -1,396 +1,358 @@
-#1.  Style guide: GOV.UK
+#Style guide: GOV.UK
 
 
-    This style guide is for written content on the GOV.UK website.
+This style guide is for written content on the GOV.UK website.
 
-    The first part of this guide is for the whole of GOV.UK. It covers
-    the basics: how to handle legal language, capitalisation etc. This
-    gives us a consistent feel, whether you are in the news section of
-    Inside Government or a quick answer on child benefit rates.
+The first part of this guide is for the whole of GOV.UK. It covers
+the basics: how to handle legal language, capitalisation etc. This
+gives us a consistent feel, whether you are in the news section of
+Inside Government or a quick answer on child benefit rates.
 
-    Then there are separate sections for the 'mainstream' content (this
-    is content for both businesses and citizens) and Inside Government
-    content. These go over the different formats (eg the way we present
-    the information) and go into more detail on specifics.
+Then there are separate sections for the 'mainstream' content (this
+is content for both businesses and citizens) and Inside Government
+content. These go over the different formats (eg the way we present
+the information) and go into more detail on specifics.
 
-    Ever-changing style guide
-    -------------------------
 
-    This style guide will evolve – check
-    [www.gov.uk/designprinciples](https://www.gov.uk/designprinciples)
-    for the up-to-date version.
+##1. Tone of voice
 
-2.  1. Tone of voice
-    ================
+GOV.UK is for everyone in the UK and those outside the UK who have
+an interest in how UK government policies affect them.
 
-    GOV.UK is for everyone in the UK and those outside the UK who have
-    an interest in how UK government policies affect them.
+It has a welcoming and reassuring tone and aims to be a trusted and
+familiar resource.
 
-    It has a welcoming and reassuring tone and aims to be a trusted and
-    familiar resource.
+If there are style differences for separate sections of the site,
+you will see a 'Style differences' heading under the main content;
+if not, this style is to be used across the whole of GOV.UK.
 
-    If there are style differences for separate sections of the site,
-    you will see a 'Style differences' heading under the main content;
-    if not, this style is to be used across the whole of GOV.UK.
+###1.1 Active voice
 
-    1.1 Active voice
-    ----------------
+Use the active rather than passive voice. This will help us write
+concise, clear content.
 
-    Use the active rather than passive voice. This will help us write
-    concise, clear content.
+###1.2 Addressing the user
 
-    1.2 Addressing the user
-    -----------------------
+Address the user as 'you' where possible. Content on the site often
+makes a direct appeal to citizens and businesses to get involved or
+take action, eg: 'You can contact HMRC by phone and email' or 'Pay
+your car tax.'
 
-    Address the user as 'you' where possible. Content on the site often
-    makes a direct appeal to citizens and businesses to get involved or
-    take action, eg: 'You can contact HMRC by phone and email' or 'Pay
-    your car tax.'
+###Style differences
 
-    Style differences
-    -----------------
+Mainstream: Don't use 'we', 'I', 'our', 'us'.
+Inside Government: Use 'we' if the 'we' is obvious from the context, eg it's clearly a department or the government.
 
-    Mainstream: Don't use 'we', 'I', 'our', 'us'.\
-     Inside Government: Use 'we' if the 'we' is obvious from the
-    context, eg it's clearly a department or the government.
+###1.3 Be concise
 
-    1.3 Be concise
-    --------------
+To keep content understandable, concise and relevant, it should be:
 
-    To keep content understandable, concise and relevant, it should be:
+-   informative
+-   clear and concise
+-   brisk but not terse
+-   incisive (friendliness can lead to a lack of precision and
+    unnecessary words) – but remain human (not a faceless machine)
+-   serious but not pompous
 
-    -   informative
-    -   clear and concise
-    -   brisk but not terse
-    -   incisive (friendliness can lead to a lack of precision and
-        unnecessary words) – but remain human (not a faceless machine)
-    -   serious but not pompous
+You should:
 
-    You should:
+-   use contractions (eg can't)
+-   not let caveats dictate unwieldy grammar – eg say 'You can'
+    rather than 'You may be able to'
+-   use the language people are using – use Google Insights to check
+    for terms people search for
+-   not use long sentences with complicated sub-clauses
 
-    -   use contractions (eg can't)
-    -   not let caveats dictate unwieldy grammar – eg say 'You can'
-        rather than 'You may be able to'
-    -   use the language people are using – use Google Insights to check
-        for terms people search for
-    -   not use long sentences with complicated sub-clauses
+###1.4 Gender neutral text
 
-    1.4 Gender neutral text
-    -----------------------
+Make sure text is gender neutral wherever possible.
 
-    Make sure text is gender neutral wherever possible.
+###1.5 Jargon
 
-    1.5 Jargon
-    ----------
+Avoid unnecessary jargon, legalistic prose, unexplained
+abbreviations or acronyms, rarely used Latin terms (inter alia, ad
+hoc, ibid) etc.
 
-    Avoid unnecessary jargon, legalistic prose, unexplained
-    abbreviations or acronyms, rarely used Latin terms (inter alia, ad
-    hoc, ibid) etc.
+Style differences
 
-    Style differences
-    -----------------
+[Inside Government has more information](#ig) about how to handle
+jargon
 
-    [Inside Government has more information](#ig) about how to handle
-    jargon
+###1.6 Plain English – mandatory for all of GOV.UK
 
-    1.6 Plain English – mandatory for all of GOV.UK
-    -----------------------------------------------
+Use plain English – don't use complicated or long words when easy or
+short ones will do – use 'buy' instead of 'purchase', 'help' instead
+of 'assist', 'about' instead of 'approximately' and 'like' instead
+of 'such as'.
 
-    Use plain English – don't use complicated or long words when easy or
-    short ones will do – use 'buy' instead of 'purchase', 'help' instead
-    of 'assist', 'about' instead of 'approximately' and 'like' instead
-    of 'such as'.
+Write content as simply as possible so that it is usable and
+accessible to everyone in the UK, regardless of their language and
+vocabulary skills.
 
-    Write content as simply as possible so that it is usable and
-    accessible to everyone in the UK, regardless of their language and
-    vocabulary skills.
+Write conversationally – picture your audience and write as if you
+were talking to them one-to-one but with the authority of someone
+who can actively help.
 
-    Write conversationally – picture your audience and write as if you
-    were talking to them one-to-one but with the authority of someone
-    who can actively help.
+All audiences should understand our content; this isn't 'dumbing
+down', this is opening up government information to all.
 
-    All audiences should understand our content; this isn't 'dumbing
-    down', this is opening up government information to all.
+##2. Points of style
 
-3.  2. Points of style
-    ==================
+###2.1 Abbreviations and acronyms
 
-    2.1 Abbreviations and acronyms
-    ------------------------------
+Spell out acronyms at first mention unless they're well known, eg
+UK, DVLA, US, EU, VAT, MP etc.
 
-    Spell out acronyms at first mention unless they're well known, eg
-    UK, DVLA, US, EU, VAT, MP etc.
+The first time you use an abbreviation or acronym, explain it in
+full on each page, and then refer to it by initials. For example –
+HM Revenue & Customs (HMRC). Don't use an acronym if you're not
+going to use it again later in the text.
 
-    The first time you use an abbreviation or acronym, explain it in
-    full on each page, and then refer to it by initials. For example –
-    HM Revenue & Customs (HMRC). Don't use an acronym if you're not
-    going to use it again later in the text.
+Quick reminder: Freedom of Information – you can make an FOI request
+but not a request under the FOI Act.
 
-    Quick reminder: Freedom of Information – you can make an FOI request
-    but not a request under the FOI Act.
+Don't use full stops in abbreviations - BBC, not B.B.C.
 
-    Don't use full stops in abbreviations - BBC, not B.B.C.
+###2.2 Americanisms
 
-    2.2 Americanisms
-    ----------------
+Organise – not organize. Exceptions include where it's part of a
+specific name, eg '4th Mechanized Brigade'.
 
-    Organise – not organize. Exceptions include where it's part of a
-    specific name, eg '4th Mechanized Brigade'.
+You 'fill in' a form, not 'fill out' a form.
 
-    You 'fill in' a form, not 'fill out' a form.
+###2.3 Ampersand
 
-    2.3 Ampersand
-    -------------
+Use 'and' rather than an '&' unless as part of a brand name, eg HM
+Revenue & Customs, Foreign & Commonwealth Office.
 
-    Use 'and' rather than an '&' unless as part of a brand name, eg HM
-    Revenue & Customs, Foreign & Commonwealth Office.
+###2.4 Brackets
 
-    2.4 Brackets
-    ------------
+Use (round brackets), not [square brackets]. The only acceptable use
+of square brackets is for explanatory notes in reported speech. Eg a
+minister's speech on Inside Government:
 
-    Use (round brackets), not [square brackets]. The only acceptable use
-    of square brackets is for explanatory notes in reported speech. Eg a
-    minister's speech on Inside Government:
+"Thank you [Foreign Minister] Mr Smith."
 
-    "Thank you [Foreign Minister] Mr Smith."
+###2.5 Bullet points and steps
 
-    2.5 Bullet points and steps
-    ---------------------------
+How to use bullet points to make text easier to read:
 
-    How to use bullet points to make text easier to read:
+-   if you're tempted to put a bold header in a bullet, try breaking
+    the list into subheads instead
+-   always use a lead-in sentence
+-   use lower-case at the start of the bullet
+-   don't use full stops within bullet points – where possible start
+    another bullet point or use commas, dashes or semi-colons to
+    expand on an item
+-   don't put 'or', 'and' after the bullets
+-   there should be no full stop after a bullet point
+-   bullets should always make sense running on from the lead-in
+    sentence
+-   don't use numbered bullets – there is a steps format
+-   use links in bullets (including downloads) if necessary
 
-    -   if you're tempted to put a bold header in a bullet, try breaking
-        the list into subheads instead
-    -   always use a lead-in sentence
-    -   use lower-case at the start of the bullet
-    -   don't use full stops within bullet points – where possible start
-        another bullet point or use commas, dashes or semi-colons to
-        expand on an item
-    -   don't put 'or', 'and' after the bullets
-    -   there should be no full stop after a bullet point
-    -   bullets should always make sense running on from the lead-in
-        sentence
-    -   don't use numbered bullets – there is a steps format
-    -   use links in bullets (including downloads) if necessary
+####Steps
 
-    Steps
-    -----
+-   Use steps to guide a user through a process – steps are not a
+    numbered list.
+-   You can use links and downloads (with appropriate markdown) in
+    steps.
+-   Steps end in a full stop.
 
-    -   Use steps to guide a user through a process – steps are not a
-        numbered list.
-    -   You can use links and downloads (with appropriate markdown) in
-        steps.
-    -   Steps end in a full stop.
+###2.6 Capitalisation
 
-    2.6 Capitalisation
-    ------------------
+DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE
+HARD TO READ.
 
-    DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE
-    HARD TO READ.
+Lower case is preferable but use capitalisation for:
 
-    Lower case is preferable but use capitalisation for:
+-   departments (specific ones)
+-   titles
+-   buildings
+-   place names
+-   brand names
+-   The Earth (ie our planet), Planet Earth and Earth sciences
+-   faculties, departments, institutes and schools
 
-    -   departments (specific ones)
-    -   titles
-    -   buildings
-    -   place names
-    -   brand names
-    -   The Earth (ie our planet), Planet Earth and Earth sciences
-    -   faculties, departments, institutes and schools
+For government agencies, funding bodies and other organisations, use
+initial capitals where indicated by the agency, eg, Natural
+Environmental Research Council
 
-    For government agencies, funding bodies and other organisations, use
-    initial capitals where indicated by the agency, eg, Natural
-    Environmental Research Council
+Lowercase should be used for government, never Government
 
-    Lowercase should be used for government, never Government
+For government-related caps, see the [Inside Government style
+guide](#ig).
 
-    For government-related caps, see the [Inside Government style
-    guide](#ig).
+Each section of the site has a detailed capitalisation convention:
+please refer to individual style guides.
 
-    Each section of the site has a detailed capitalisation convention:
-    please refer to individual style guides.
+###2.7 Dates and times
 
-    2.7 Dates and times
-    -------------------
+-   tax year 2011 to 2012
+-   5:30pm (not 1730hrs)
+-   midnight, not 00:00
+-   Monday to Friday, 9am to 5pm
+-   10 November to 21 December
+-   10am to 11am (not 10–11am)
 
-    -   tax year 2011 to 2012
-    -   5:30pm (not 1730hrs)
-    -   midnight, not 00:00
-    -   Monday to Friday, 9am to 5pm
-    -   10 November to 21 December
-    -   10am to 11am (not 10–11am)
+When referring to 'today' (eg in a news article) make sure you
+include the date as well. For example: "The minister announced today
+(14 June, 2012) that…"
 
-    When referring to 'today' (eg in a news article) make sure you
-    include the date as well. For example: "The minister announced today
-    (14 June, 2012) that…"
+###2.8 Eg, etc, and ie
 
-    2.8 Eg, etc, and ie
-    -------------------
+Don't use full stops after or between these notations. This was once
+necessary when print setting but is now cumbersome to read with
+modern documents and digital screens.
 
-    Don't use full stops after or between these notations. This was once
-    necessary when print setting but is now cumbersome to read with
-    modern documents and digital screens.
+If you feel the long form is required ('for example' instead of
+'eg', 'specifically' instead of 'ie' etc) then this is at the
+content designer's discretion. User testing has shown that some
+people are not familiar with abbreviations such as eg, so consider
+your audience before abbreviating.
 
-    If you feel the long form is required ('for example' instead of
-    'eg', 'specifically' instead of 'ie' etc) then this is at the
-    content designer's discretion. User testing has shown that some
-    people are not familiar with abbreviations such as eg, so consider
-    your audience before abbreviating.
+###2.9 Email addresses
 
-    2.9 Email addresses
-    -------------------
+An email address should be written out in full, in lowercase and
+always linked. Don't include any other words as part of the link.
 
-    An email address should be written out in full, in lowercase and
-    always linked. Don't include any other words as part of the link.
+###2.10 Geography and regions
 
-    2.10 Geography and regions
-    --------------------------
+Compass directions are all in lowercase: the north, the south of
+England, the south-west, north-east Scotland, south Wales.
 
-    Compass directions are all in lowercase: the north, the south of
-    England, the south-west, north-east Scotland, south Wales.
+The same applies to geopolitical regions: the west, western Europe,
+the far east, south-east Asia.
 
-    The same applies to geopolitical regions: the west, western Europe,
-    the far east, south-east Asia.
+Note the following: East End, West End (London), Middle East,
+Central America, North America, South America, Latin America.
 
-    Note the following: East End, West End (London), Middle East,
-    Central America, North America, South America, Latin America.
+You can use a capital for a shortened version of a specific area or
+region if it's commonly known by that name, eg 'the Gulf' for the
+Persian Gulf. If it's not in common use in the media etc, stick with
+lowercase eg 'the strait' for 'the Strait of Hormuz'.
 
-    You can use a capital for a shortened version of a specific area or
-    region if it's commonly known by that name, eg 'the Gulf' for the
-    Persian Gulf. If it's not in common use in the media etc, stick with
-    lowercase eg 'the strait' for 'the Strait of Hormuz'.
+####Great Britain
 
-    Great Britain
-    -------------
+Refers only to England, Scotland and Wales excluding Northern
+Ireland.
 
-    Refers only to England, Scotland and Wales excluding Northern
-    Ireland.
+If you are telling users about multiple areas, use: 'England,
+Scotland and Wales.'
 
-    If you are telling users about multiple areas, use: 'England,
-    Scotland and Wales.'
+####Britain
 
-    Britain
-    -------
+Use UK and United Kingdom in preference to Britain and British (UK
+business, UK foreign policy, ambassador and high commissioner). Note
+– British embassy, not UK embassy.
 
-    Use UK and United Kingdom in preference to Britain and British (UK
-    business, UK foreign policy, ambassador and high commissioner). Note
-    – British embassy, not UK embassy.
+###2.11 Hyphenation
 
-    2.11 Hyphenation
-    ----------------
+Hyphenate:
 
-    Hyphenate:
+-   re + word starting with 'e' eg re–elect
+-   co-ordinate
 
-    -   re + word starting with 'e' eg re–elect
-    -   co-ordinate
+Don't hyphenate:
 
-    Don't hyphenate:
+-   reuse
+-   reorder
+-   reopen
+-   email
 
-    -   reuse
-    -   reorder
-    -   reopen
-    -   email
+In general, if in doubt, don't use a hyphen unless it's confusing
+without it and check the Oxford English Dictionary for Writers and
+Editors.
 
-    In general, if in doubt, don't use a hyphen unless it's confusing
-    without it and check the Oxford English Dictionary for Writers and
-    Editors.
+###2.12 Italics
 
-    2.12 Italics
-    ------------
+Don't use italics. Use 'single quotation marks' if referring to a
+document, scheme or initiative.
 
-    Don't use italics. Use 'single quotation marks' if referring to a
-    document, scheme or initiative.
+###2.13 Legal language
 
-    2.13 Legal language
-    -------------------
+If you are talking about a legal requirement, use: 'must', for
+example: 'your employer must pay you the National Minimum Wage
+(NMW)'.
 
-    If you are talking about a legal requirement, use: 'must', for
-    example: 'your employer must pay you the National Minimum Wage
-    (NMW)'.
+If you feel that 'must' doesn't have enough emphasis, then use:
+'legal requirement / legally entitled' etc… For example: 'Once your
+child is registered at school, you are legally responsible for
+making sure they attend regularly'.
 
-    If you feel that 'must' doesn't have enough emphasis, then use:
-    'legal requirement / legally entitled' etc… For example: 'Once your
-    child is registered at school, you are legally responsible for
-    making sure they attend regularly'.
+When deciding whether to use 'must' or 'legally entitled' etc…
+consider how important it is for us to talk about the legal aspect,
+as well as the overall tone of voice.
 
-    When deciding whether to use 'must' or 'legally entitled' etc…
-    consider how important it is for us to talk about the legal aspect,
-    as well as the overall tone of voice.
+If a requirement is legal, but administrative, or part of a process
+that won't have criminal repercussions, then use: 'need to'. For
+example: 'You will need to provide copies of your marriage
+certificate'.
 
-    If a requirement is legal, but administrative, or part of a process
-    that won't have criminal repercussions, then use: 'need to'. For
-    example: 'You will need to provide copies of your marriage
-    certificate'.
+This may be a legal requirement, but not completing it would just
+stop the person from moving on to the next stage of a process,
+rather than committing a more serious offence.
 
-    This may be a legal requirement, but not completing it would just
-    stop the person from moving on to the next stage of a process,
-    rather than committing a more serious offence.
+###2.14 Links
 
-    2.14 Links
-    ----------
+Frontload and **always link to online services first.** Offer
+offline alternatives afterwards (where possible).
 
-    Frontload and **always link to online services first.** Offer
-    offline alternatives afterwards (where possible).
+Hover text: use the same capital style as the text you are marking.
 
-    Hover text: use the same capital style as the text you are marking.
+###2.15 Measurements
 
-    2.15 Measurements
-    -----------------
+Use numerals and spell out measurements at first mention:
 
-    Use numerals and spell out measurements at first mention:
+-   4 metres squared
+-   10 kilograms (except in where abbreviations can be used to save
+    space but use markdown)
 
-    -   4 metres squared
-    -   10 kilograms (except in where abbreviations can be used to save
-        space but use markdown)
+Abbreviating kilograms to kg is acceptable after first use but use
+acronym markdown.
 
-    Abbreviating kilograms to kg is acceptable after first use but use
-    acronym markdown.
+If the measurement is more than one word, eg 'kilometres per hour'
+then spell it out the first time it is used with the abbreviation.
+From then on, abbreviate. If it is only mentioned once, don't
+abbreviate.
 
-    If the measurement is more than one word, eg 'kilometres per hour'
-    then spell it out the first time it is used with the abbreviation.
-    From then on, abbreviate. If it is only mentioned once, don't
-    abbreviate.
+Use Celsius for temperature, eg 37°C.
 
-    Use Celsius for temperature, eg 37°C.
+###2.16 Numbers
 
-    2.16 Numbers
-    ------------
+Write **all** numbers in numerics (including 1 to 9) except where
+it's part of a common expression and it would look strange, eg 'one
+or two of them'. Use common sense:
 
-    Write **all** numbers in numerics (including 1 to 9) except where
-    it's part of a common expression and it would look strange, eg 'one
-    or two of them'. Use common sense:
+One of the 13 words in this sentence is causing problems: this 1.
 
-    One of the 13 words in this sentence is causing problems: this 1.
+This sentence would be better with 'one' as the final word. If a
+number starts a sentence, write it out in full 'Thirty-four
+hula-hoops found in researcher's filing cupboard' except where it
+starts a heading.
 
-    This sentence would be better with 'one' as the final word. If a
-    number starts a sentence, write it out in full 'Thirty-four
-    hula-hoops found in researcher's filing cupboard' except where it
-    starts a heading.
+For numerals over 999 – insert a comma for clarity. 'It was over
+9,000' Spell out common fractions, such as one–half, but use a %
+sign for percentages, so 50%.
 
-    For numerals over 999 – insert a comma for clarity. 'It was over
-    9,000' Spell out common fractions, such as one–half, but use a %
-    sign for percentages, so 50%.
+Use '500 to 900' and not '500–900'.
 
-    Use '500 to 900' and not '500–900'.
+####Millions
 
-    Millions
-    --------
+Always use million in money (and billion), eg £138 million. Use
+millions in phrases eg "millions of people".
 
-    Always use million in money (and billion), eg £138 million. Use
-    millions in phrases eg "millions of people".
+###2.17 Money
 
-    2.17 Money
-    ----------
+Use the £ symbol – £75
 
-    Use the £ symbol – £75
+Don't use decimals unless pence are included – for example use:
+£75.50 but not £75.00.
 
-    Don't use decimals unless pence are included – for example use:
-    £75.50 but not £75.00.
+Don't use '£0.xxm' for less than £1 million.
 
-    Don't use '£0.xxm' for less than £1 million.
-
-    Write out 'pence' in full – 'calls will cost 4 pence per minute from
-    a landline'.
+Write out 'pence' in full – 'calls will cost 4 pence per minute from
+a landline'.
 
     2.18 Organisations
     ------------------
