@@ -1,6 +1,5 @@
+#1.  Style guide: GOV.UK
 
-1.  Style guide: GOV.UK
-    ===================
 
     This style guide is for written content on the GOV.UK website.
 
