@@ -1,4 +1,4 @@
-# Design principals
+# Design principles
 1. Start with needs
 2. Do less
 3. Design with data
