@@ -1,5 +1,4 @@
 #Style guide: GOV.UK
-##Hello!
 
 
 This style guide is for written content on the GOV.UK website.
