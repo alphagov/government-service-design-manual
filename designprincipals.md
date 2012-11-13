@@ -9,6 +9,3 @@
 8. Build digital services, not websites
 9. Be consistent, not uniform
 10. Make things open: it makes things better
-
-
-this is a test
