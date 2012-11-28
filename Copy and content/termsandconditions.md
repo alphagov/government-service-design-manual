@@ -1,14 +1,17 @@
 #Terms and conditions
-Your section will begin with a short, two-line summary of what you're showing people.
+The terms and conditions of your service must be understandable to the majority of users. 
 
 ##Guidance/Tool
-This will be a full explanation of the guidance or tool.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide). 
+
+These form a template for other services to use, and cover many of the conditions that operational services published as part of GOV.UK will require.
+
+If your service requires additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means. 
+
+Adding that term or condition should be done in consultation with GOV.UK's team.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. GOV.UK continued this, with additional pieces of information added as transactions and services were incorporated into the site.
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
