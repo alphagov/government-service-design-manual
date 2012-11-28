@@ -1,14 +1,21 @@
 #Alpha/Beta warnings
-Your section will begin with a short, two-line summary of what you're showing people.
-
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+For large-scale public alpha or beta releases, we recommend including a warning that alerts users that the service is still in production.
 
 ##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+[The GOV.UK Beta warning](https://github.com/alphagov/static/blob/master/app/assets/javascripts/welcome.js) served an interstitial when users first arrived on GOV.UK during its public beta.
+
+The message read:
+
+>Welcome to GOV.UK. From 17 October this website will replace Directgov and Business Link as the best place to find government services and information.  
+
+>Until then, you can explore the website by using this experimental trial (\u2018beta\u2019) version.
+
+>PLEASE BE AWARE \u2013 this is a test website. It may contain inaccuracies or be misleading. <a href='http://www.direct.gov.uk'>Directgov</a> and <a href='http://businesslink.gov.uk'>Business Link</a> remain the official websites for government information and services.
+
+Users were then prompted to accept that they had read the warning, which set a cookie so the message was not displayed repeatedly. 
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+Users of government services might not always be used to seeing incomplete or trial version of websites in the open, and it's important to make them aware that they may not be viewing the 'canonical' information they need.
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
