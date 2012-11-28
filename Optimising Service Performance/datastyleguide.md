@@ -90,14 +90,14 @@ c) What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
 ###Worked example
 Choosing the correct visualisation is important and at GDS we reviewed what was being used in the performance dashboard. As the example below shows, Pie charts with many items are not clear. We used a stacked bar chart to better represent the data. 
 ####Before
-![Bad Pie Chart - Image 6](To be confirmed)
+![Bad Pie Chart - Image 6](https://docs.google.com/drawings/pub?id=1LWpYB-dagFps939s7RP9xRvMgqn0UsJcUv_d_RxY8Xc&w=337&h=237)
 
 * Too many segments make them hard to compare.
 * Too many colours made the chart confusing.
 * The chart includes cost recovery as a negative which cannot be represented properly in a pie.
 
 ####After
-![Good stacked chart - Image 7](To be confirmed)
+![Good stacked chart - Image 7](https://docs.google.com/drawings/pub?id=12tme8E2COvhWn2fXRrzJNtVo_a1ClwizHeMSssn2Wbw&w=337&h=237)
 
 * This stacked chart is much clearer. 
 * Comparisons can easily be made and sorting the data provides quick insight. 
@@ -145,12 +145,12 @@ f) Are your colours appropriate for the data?
 The example below is from the GDS SMT dashboard shows how avoiding chart junk and limiting the number of datasets can enhance your visualisation.
 
 ####Before
-![Poor stack bar - image 8](To be confirmed)  
+![Poor stack bar - image 8](https://docs.google.com/drawings/pub?id=1X2JceYqVi-2LhiGJXstzPgGKkhv-ACGPNhjS09KewJU&w=337&h=237)  
 
 The legend accounts for a quarter of display space. The Y axis quotes £ and not £m. The segments are profiles and proportionate for each time period, so the bright colouring adds no extra detail. The mix of bar and line is confusing with so much information in the chart.
 
 ####After
-![Good line chart - image 9](To be confirmed)  
+![Good line chart - image 9](https://docs.google.com/drawings/pub?id=1IUt51enQ6kfdXz07R1n4lC68Z3Hl-bMkMGL9cmAeIdc&w=337&h=237)  
 
 The stacked column gave a level of detail which was not needed. This has been rationalised to best suit the audience. Axes have been standardised. The legend has been relocated giving the chart more space. Heavy grid lines and axes have been removed to give a clearer display.
 
