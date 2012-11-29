@@ -1,5 +1,8 @@
 #Monitoring
-Your section will begin with a short, two-line summary of what you're showing people.
+Any online application should have some tools dedicated to alerting the
+people running the service to problems. This might involve low level
+issues involving the infrastructure underpinning the service to a sudden
+high rate of user errors.
 
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
@@ -12,3 +15,8 @@ This is the reasoning for the decision. You might want to link to relevant blog 
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
+
+* [Radiating
+  Information](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/)
+Examples of some of the monitoring dashboards used while building GOV.UK
+* 
