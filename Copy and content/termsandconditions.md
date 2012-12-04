@@ -7,7 +7,7 @@ The terms and conditions of your service must be understandable to the majority 
 
 These form a template for other services to use, and cover many of the conditions that operational services published as part of GOV.UK will require.
 
-If your service requires additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means. 
+If your service needs additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means. 
 
 Adding that term or condition should be done in consultation with GOV.UK's team.
 
