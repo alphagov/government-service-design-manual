@@ -1,5 +1,5 @@
 #Online research panels
-This section of guidance explains what research panels are, and how they can be used to help deliver 
+This section of guidance explains what research panels are, and how they can be used to help deliver user research.
 
 ##Guidance/Tool
 
