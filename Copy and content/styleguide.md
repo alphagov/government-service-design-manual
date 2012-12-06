@@ -36,7 +36,7 @@ makes a direct appeal to citizens and businesses to get involved or
 take action, eg: 'You can contact HMRC by phone and email' or 'Pay
 your car tax.'
 
-###Style differences
+Style differences
 
 Mainstream: Don't use 'we', 'I', 'our', 'us'.
 Inside Government: Use 'we' if the 'we' is obvious from the context, eg it's clearly a department or the government.
@@ -73,8 +73,7 @@ hoc, ibid) etc.
 
 Style differences
 
-[Inside Government has more information](#ig) about how to handle
-jargon
+[Inside Government has more information](#c4) about how to handle jargon
 
 ###1.6 Plain English – mandatory for all of GOV.UK
 
@@ -149,7 +148,7 @@ How to use bullet points to make text easier to read:
 -   don't use numbered bullets – there is a steps format
 -   use links in bullets (including downloads) if necessary
 
-####Steps
+Steps
 
 -   Use steps to guide a user through a process – steps are not a
     numbered list.
@@ -335,7 +334,7 @@ sign for percentages, so 50%.
 
 Use '500 to 900' and not '500–900'.
 
-####Millions
+Millions
 
 Always use million in money (and billion), eg £138 million. Use
 millions in phrases eg "millions of people".
@@ -434,12 +433,12 @@ These are pre-transaction pages. Use SEO to define the title, so if people searc
 
 Give one sentence of what the user can expect from the service – this will appear before the button.
 
-**'What you need to know' section**\
+**'What you need to know' section**
 This is where you put information that the user will need to complete the transaction and information about how long it takes, how much there will be to pay etc.
 
 You can add alternatives to the online transaction at the bottom of the page.
 
-##3 Style differences: Mainstream\
+##3. Style differences: Mainstream
 
 This is a guide to style and conventions for the mainstream parts of GOV.UK (content and tools for citizens and businesses).
 
@@ -451,18 +450,18 @@ Users are more task-driven on mainstream GOV.UK. Make sure you keep the action o
 'Formats' is the term we use to define the different ways of presenting information, for example: guides have multiple pages of information around a topic, answers give a single, concise answer etc.
 
 ###3.1 Guides
-####Overview
+Overview
 
 'Part 1' of the guide should contain the most important information that the majority of users will want to read – you can have an 'overview' but you don't have to.
 
 Following chapters should contain more specific information as well as content for niche audiences.
 
-####Chapters
+Chapters
 You should break content into chapters based on user needs as well as the natural structure of the content.
 
 You don't have to use chapters. If you find that you only have 3 or 4 small chapters in a guide, consider simply having a page without chapters where users can scroll.
 
-####Chapter titles
+Chapter titles
 For consistency across the site, the following chapter titles (and where possible, order) should be standard:
 
 - Overview
@@ -472,21 +471,20 @@ For consistency across the site, the following chapter titles (and where possibl
 
 Don't force a linear reading pattern.
 
-Don't duplicate information but also don't assume people have read all parts of the guide.\
-You can link between different parts of the guide using slugs.
+Don't duplicate information but also don't assume people have read all parts of the guide. You can link between different parts of the guide using slugs.
 
 ###3.2 Answers
 Answers assume prior knowledge and answer a popular – and specific – need (so you don't need to explain terms or provide context). For example, the answer 'National Minimum Wage rate' should only give the rate, not information about what the National Minimum Wage is, how to pay it, etc (although you should be clearly linking to related content that does).
 
 Stick exclusively to the answer – don't be tempted to include extra information, however useful this might appear to be.
 
-####Summary
+Summary
 - one or two sentence(s) summing up the answer for common case (aim for one)
 - get the basic information quickly
 - not an introduction
 - use summary tags
 
-####Body
+Body
 - expand on summary with any necessary detail
 - be strict with information you include
 - don't stray off topic
@@ -494,19 +492,18 @@ Stick exclusively to the answer – don't be tempted to include extra informatio
 - light touch on words even if this means compromising caveats
 - no need to repeat info in subhead
 
-####Subheads
+Subheads
 - as close to search terms as possible
 - avoid questions – use statements
 - no need for the 'if' (eg 'You're working abroad')
 - H2 are primary subs
 
-####Formatting
+Formatting
 - don't break up text with too many subheads
 - use formatting options (eg callouts) but not gratuitously
 - use accessibility formatting
 
-####When does an answer become a guide?
-
+When does an answer become a guide?
 When the answer:
 - can't be simplified – eg too many variables – such as 'What hours your child can work'
 - depends on too many things, such as the age of your child and the type of job
@@ -514,149 +511,125 @@ When the answer:
 - is low popularity search – it can form part of a longer guide so it doesn't clog up the results page
 
 ###3.3 Benefits and schemes
-####Overview
+Overview
 - give people the main things they want to know without going into detail – eg rate and how long it's paid for
 - separate main points (not one long paragraph)
 
-####Main sections
+Main sections
 - stick to the title and need
 - resist temptation to provide information around the subject (especially superfluous advice)
 - use examples for complex calculations (use example markdown)
 - stick to common case – any edge cases get put in 'Further information'
 
-####Further information
+Further information
 - this isn't a dumping ground – content still needs to be useful – if you can't find a place for it, don't use it
 - main information for this section: effect on other benefits, appeals and edge cases – also more information on how things are worked out
 
 ###3.4 Cheat sheets
-####GOV.UK (mainstream) points of style cheat sheet
+GOV.UK (mainstream) points of style cheat sheet
 
 Acronyms
 
-    Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't
-    use acronyms if you're not going to use the acronym later in the
-    text.
+Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't use acronyms if you're not going to use the acronym later in the text.
 
 Addressing the user
 
-    Always address the user as 'you' and don't use 'we', 'I', 'our',
-    'us'.
+Always address the user as 'you' and don't use 'we', 'I', 'our', 'us'.
 
 Bullets and steps
 
-    This is how to do bullets:
-
-    -   have a lead-in sentence
-    -   don't end with 'and', 'or' or a semicolon
-    -   don't use sentences within a bullet point – dashes, semicolons
-        etc are okay
-    -   do use links in bullets (including downloads) if necessary
+This is how to do bullets:
+- have a lead-in sentence
+- don't end with 'and', 'or' or a semicolon
+- don't use sentences within a bullet point – dashes, semicolons etc are okay
+- do use links in bullets (including downloads) if necessary
 
 Steps
 
-    Use steps to guide a user through a process – steps are not a
-    numbered list.
+Use steps to guide a user through a process – steps are not a numbered list.
 
-    You can use links and downloads (with appropriate markdown) in
-    steps.
+You can use links and downloads (with appropriate markdown) in steps.
 
 Capitalisation
 
-    Capitalise:
-
-    -   names of government schemes eg Right to Buy, Queen's Awards for
-        Enterprise
+Capitalise:
+- names of government schemes eg Right to Buy, Queen's Awards for Enterprise
 
 Don't capitalise:
 
-    -   government (unless part of a name)
-    -   the titles of publications – use an initial cap only, eg
-        'Implementing self-financing for council housing' (unless it
-        includes a phrase which should be capitalised for other reasons
-        eg 'Review of the Right to Buy scheme').
-    -   seasons eg summer
-    -   compass directions eg the south of England
+- government (unless part of a name)
+- the titles of publications – use an initial cap only, eg 'Implementing self-financing for council housing' (unless it includes a phrase which should be capitalised for other reasons eg 'Review of the Right to Buy scheme').
+- seasons eg summer
+- compass directions eg the south of England
 
 Contractions
 
-    -   Use as much as possible (they'll, you'll etc)
+- Use as much as possible (they'll, you'll etc)
 
 Dates and times
 
-    -   6 September 1976
-    -   tax year 2011 to 2012
-    -   5:30pm and 11am (not 1730hrs)
-    -   midnight, not 00:00
-    -   Monday to Friday, 9am to 5pm
-    -   10 November to 21 December
+- 6 September 1976
+- tax year 2011 to 2012
+- 5:30pm and 11am (not 1730hrs)
+- midnight, not 00:00
+- Monday to Friday, 9am to 5pm
+- 10 November to 21 December
 
 Eg, etc and ie
 
-    Don't use full stops between or after these notations.
+Don't use full stops between or after these notations.
 
 Email addresses
 
-    Always write in full (and as a hyperlink in markdown).
+Always write in full (and as a hyperlink in markdown).
 
 Legal language
 
-    If it is a legal requirement, use 'must'.
+If it is a legal requirement, use 'must'.
 
-    If this doesn't provide enough emphasis, use 'legal requirement'.
+If this doesn't provide enough emphasis, use 'legal requirement'.
 
 Links
 
-    Always link to online services first. Link to offline services after
-    (where possible).
+Always link to online services first. Link to offline services after (where possible).
 
-    Use external markdown where necessary.
+Use external markdown where necessary.
 
-    Hover text: use the same capital style as the text you are marking.
+Hover text: use the same capital style as the text you are marking.
 
 Links to documents:
 
-    Download 'This is the document title' (PDF, 69KB)\
-     Check all links on preview before publishing. Make sure link text
-    is helpful (eg not 'click here').
+Download 'This is the document title' (PDF, 69KB) 
+
+Check all links on preview before publishing. Make sure link text is helpful (eg not 'click here').
 
 Lists
 
-    Use bullets for more than a couple of items. If doing a list in a
-    sentence, use commas to separate items, not semicolons.
+Use bullets for more than a couple of items. If doing a list in a sentence, use commas to separate items, not semicolons.
 
 Measurements
 
-    Use numerals and spell out measurements at first mention eg 10
-    kilograms.\
-     Abbreviate kilograms to kg only after it is first spelt out and use
-    markdown.
+Use numerals and spell out measurements at first mention eg 10 kilograms. Abbreviate kilograms to kg only after it is first spelt out and use markdown.
 
 Numbers and money
 
-    -   £186 million (not m)
-    -   £860,000 not £0.86m
-    -   1,000
-    -   all numbers are in numerics (including 1–9)
-    -   use words with common sense, eg when starting a headline:
-        Thirty-four hula hoops found in researcher's drawer
-    -   use words for common expressions, eg "the minister will be
-        looking at one or two areas"
+- £186 million (not m)
+- £860,000 not £0.86m
+- 1,000
+- all numbers are in numerics (including 1–9)
+- use words with common sense, eg when starting a headline: Thirty-four hula hoops found in researcher's drawer
+- use words for common expressions, eg "the minister will be looking at one or two areas"
 
 Quotes
 
-    -   use single quotes for unusual terms
-    -   text emphasis
-    -   use bold **very** sparingly
+- use single quotes for unusual terms
+- text emphasis
+- use bold **very** sparingly
 
-4. Style differences:\
-Inside Government beta
-======================
-
-About this document
--------------------
+##4. Style differences: Inside Government beta
 
 This is a guide to style and conventions on Inside Government
-([www.gov.uk/government](https://www.gov.uk/government)). This style
+[www.gov.uk/government](https://www.gov.uk/government). This style
 guide is complementary to the GOV.UK style guide. Make sure you check
 [www.gov.uk/designprinciples](https://www.gov.uk/designprinciples) for
 the up-to-date version.
@@ -671,8 +644,7 @@ internal links to supporting pages etc more closely. The user journey
 and architecture within a topic or audience space can become so swamped
 with detail, it becomes unusable. So there's your challenge.
 
-4.1 Tone of voice
------------------
+###4.1 Tone of voice
 
 The site is aimed at every citizen in the UK, and those outside of the
 UK with an interest in the UK government, but particularly those with a
@@ -680,17 +652,15 @@ professional or personal interest in some aspect of government activity
 (eg an area of policy) or a part of government (eg an organisation or
 minister).
 
-4.1.1 Addressing the user
--------------------------
+###4.1.1 Addressing the user
 
 Style differences
 
-Mainstream: Don't use 'we', 'I', 'our', 'us'.\
- Inside Government: Use 'we' if the 'we' is obvious from the context, eg
+Mainstream: Don't use 'we', 'I', 'our', 'us'. 
+Inside Government: Use 'we' if the 'we' is obvious from the context, eg
 it's clearly a department or the government.
 
-4.1.2 Jargon
-------------
+###4.1.2 Jargon
 
 On [www.gov.uk/government](https://www.gov.uk/government), sometimes it
 will be impossible to avoid unusual words or phrases – but these must be
@@ -701,8 +671,7 @@ detail pages to explain complicated background if needed. It's our job
 to make government understandable to anyone. This includes people with
 poor literacy skills.
 
-4.1.3 Words to avoid
---------------------
+###4.1.3 Words to avoid
 
 We lose trust from our users if we write government 'buzzwords' and
 jargon. Often, these words are too general and vague and can lead to
@@ -711,69 +680,55 @@ use plain English and be very clear about what we are doing. In
 policies, and across GOV.UK, we can generally do that very well without
 these words:
 
--   agenda (unless it is for a meeting)
--   advancing
--   collaborate (use 'working with')
--   combating
--   countering
--   deliver (pizzas, post and services are delivered – not abstract
-    concepts like 'improvements' or 'priorities')
--   dialogue (we speak to people)
--   disincentivise
--   drive out (unless it is cattle)
--   empower
--   facilitate (instead, say something concrete about how you are
-    helping)
--   focusing
--   foster (unless it is children)
--   impact (as a verb)
--   initiate
--   key (unless it unlocks something. A subject/thing isn't 'key' – it's
-    probably 'important')
--   land (as a verb. Only use if you are talking about aircraft)
--   leverage (unless in the financial sense)
--   liaise
--   overarching
--   promote (unless you are talking about an ad campaign or something)
--   robust
--   slimming down (weight-loss is slimming down. Everything else is
-    probably removing x amount of paperwork etc)
--   streamline
--   strengthening (unless it is strengthening bridges or other
-    structures)
--   tackling (unless it is rugby, football, some other sport)
--   transforming (what are you actually doing to change it)
--   utilise
+- agenda (unless it is for a meeting)
+- advancing
+- collaborate (use 'working with')
+- combating
+- countering
+- deliver (pizzas, post and services are delivered – not abstract concepts like 'improvements' or 'priorities')
+- dialogue (we speak to people)
+- disincentivise
+- drive out (unless it is cattle)
+- empower
+- facilitate (instead, say something concrete about how you are helping)
+- focusing
+- foster (unless it is children)
+- impact (as a verb)
+- initiate
+- key (unless it unlocks something. A subject/thing isn't 'key' – it's probably 'important')
+- land (as a verb. Only use if you are talking about aircraft)
+- leverage (unless in the financial sense)
+- liaise
+- overarching
+- promote (unless you are talking about an ad campaign or something)
+- robust
+- slimming down (weight-loss is slimming down. Everything else is probably removing x amount of paperwork etc)
+- streamline
+- strengthening (unless it is strengthening bridges or other structures)
+- tackling (unless it is rugby, football, some other sport)
+- transforming (what are you actually doing to change it)
+- utilise
 
 With all of these words you can generally get rid of them by breaking
 the term into what you are actually doing. Be open and concrete.
 
-4.2 Style points across all formats
------------------------------------
+###4.2 Style points across all formats
 
 To open up government information to anyone interested enough to find
 out about it, we need to follow these golden rules:
 
--   be specific – avoid vague words, metaphors and words that are open
-    to misinterpretation
--   adjectives can be subjective and make the text sound more emotive
-    and like 'spin' – don't use them
--   include concrete subjects in sentences rather than abstract nouns,
-    for example, 'providing funding for people to insulate their homes'
-    rather than 'encouraging the take-up of home insulation through a
-    new funding mechanism'.
+- be specific – avoid vague words, metaphors and words that are open to misinterpretation
+- adjectives can be subjective and make the text sound more emotive and like 'spin' – don't use them
+- include concrete subjects in sentences rather than abstract nouns, for example, 'providing funding for people to insulate their homes' rather than 'encouraging the take-up of home insulation through a new funding mechanism'.
 
-(Note: words ending in '–ion' and '–ment' tend to make sentences longer
-and more complicated than they need to be)
+(Note: words ending in '–ion' and '–ment' tend to make sentences longer and more complicated than they need to be)
 
-4.2.1 Active voice
-------------------
+###4.2.1 Active voice
 
 Use the active rather than the passive voice, eg 'we are doing this',
 rather than 'this is being done'.
 
-4.2.2 Capitalisation
---------------------
+###4.2.2 Capitalisation
 
 Don't capitalise words just because you think they are important. It's
 hard on the eye and can seem pompous. So don't write, 'BIS is committed
@@ -781,48 +736,31 @@ to increasing the number of Apprenticeships.'
 
 Capitalise:
 
--   job titles, ministers' role titles eg Minister for Housing, Home
-    Secretary
--   names of groups and directorates eg Knowledge and Innovation Group
--   Parliament, the House
--   an Act or a Bill
--   titles of specific Acts or Bills eg Housing Reform Bill
--   names of specific, named government schemes known to people outside
-    government eg Right to Buy, Queen's Awards for Enterprise
--   specific select committees (eg Public Administration Select
-    Committee)
--   header cells in tables
+- job titles, ministers' role titles eg Minister for Housing, Home Secretary
+- names of groups and directorates eg Knowledge and Innovation Group
+- Parliament, the House
+- an Act or a Bill
+- titles of specific Acts or Bills eg Housing Reform Bill
+- names of specific, named government schemes known to people outside government eg Right to Buy, Queen's Awards for Enterprise
+- specific select committees (eg Public Administration Select Committee)
+- header cells in tables
 
 Don't capitalise:
 
--   government – never Government, even when referring to the elected
-    administration, unless part of a specific name, eg Local Government
-    Association, or Inside Government
--   minister, never Minister, unless part of a specific job title, eg
-    Minister for the Cabinet Office
--   department or ministry – never Department or Ministry, unless
-    referring to a specific one, eg Ministry of Justice
--   the titles of publications – only initial cap on first word and the
-    entire title in single quote marks eg 'Implementing self-financing
-    for council housing' (unless it includes a phrase which should be
-    capitalised for other reasons eg 'Review of the Right to Buy
-    scheme')
--   white paper, green paper, command paper, House of Commons paper
--   director general (note no hyphen), deputy director, director unless
-    in a specific job title
--   group and directorate, unless referring to a specific group or
-    directorate, eg Commercial Directorate
--   departmental board, executive board, the board
--   policy themes eg sustainable communities, promoting economic growth,
-    local enterprise zones
--   general mention of select committees (but DO cap specific ones – see
-    above)
+- government – never Government, even when referring to the elected administration, unless part of a specific name, eg Local Government Association, or Inside Government
+- minister, never Minister, unless part of a specific job title, eg Minister for the Cabinet Office
+- department or ministry – never Department or Ministry, unless referring to a specific one, eg Ministry of Justice
+- the titles of publications – only initial cap on first word and the entire title in single quote marks eg 'Implementing self-financing for council housing' (unless it includes a phrase which should be capitalised for other reasons eg 'Review of the Right to Buy scheme')
+- white paper, green paper, command paper, House of Commons paper
+- director general (note no hyphen), deputy director, director unless in a specific job title
+- group and directorate, unless referring to a specific group or directorate, eg Commercial Directorate
+- departmental board, executive board, the board
+- policy themes eg sustainable communities, promoting economic growth, local enterprise zones
+- general mention of select committees (but DO cap specific ones – see above)
 
-DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO
-READ.
+DON'T USE BLOCK CAPITALS FOR LARGE AMOUNTS OF TEXT AS IT'S QUITE HARD TO READ.
 
-4.2.3 Images
-------------
+###4.2.3 Images
 
 What's the actual purpose of the image? If it is a picture of a key when
 talking about online services – this is probably not that useful. If you
@@ -831,15 +769,13 @@ this probably is useful.
 
 Image size for featuring: 1280x684 pixels, 72 dpi
 
-4.2.4 Attribution
------------------
+###4.2.4 Attribution
 
-When attributing images, use this format:\
- Francis Maude shakes hands with Mark Serwotka. Picture: George Roberts
-/ Crown copyright.
+When attributing images, use this format:
+Francis Maude shakes hands with Mark Serwotka. Picture: George Roberts
+Crown copyright.
 
-4.2.5 Alt text
---------------
+###4.2.5 Alt text
 
 Alt text is used as an alternative to an image for people who use screen
 readers.
@@ -851,14 +787,12 @@ For example: don't tell people there is a logo on the page. However, if
 there is a picture of a minister in a tank, put an appropriate
 description.
 
-4.2.6 Captions
---------------
+###4.2.6 Captions
 
 Keep captions under 140 characters including attribution if possible.
 Exceptions can be made if necessary.
 
-4.2.7 Job titles
-----------------
+###4.2.7 Job titles
 
 In the first instance, refer to a minister by their commonly known
 title, eg Justice Secretary Kenneth Clarke. After that, refer to them by
@@ -872,34 +806,28 @@ Ministers and MPs are given their full titles without the Mr or Mrs –
 for example, Prime Minister David Cameron. Use the commonly understood
 acronym MPs where possible, not Members of Parliament.
 
-Formats
--------
-
-4.3 Policy pages
-----------------
+###4.3 Policy pages
 
 A policy is how the government plans to achieve a specific outcome.
 
 Policies on GOV.UK have 4 parts:
 
--   a title
--   a cover sheet
--   an activity tab (this is generated automatically)
--   supporting detail pages
+- a title
+- a cover sheet
+- an activity tab (this is generated automatically)
+- supporting detail pages
 
 Titles
-------
 
 Policy titles should express the specific outcome the government is
 seeking to achieve. They should be:
 
--   clear
--   succinct
--   specific enough to allow someone to measure progress and achievement
--   jargon-free
--   active: eg 'increasing x' , 'reducing y' , 'preventing z',
-    'protecting x from y'
--   related to an outcome
+- clear
+- succinct
+- specific enough to allow someone to measure progress and achievement
+- jargon-free
+- active: eg 'increasing x' , 'reducing y' , 'preventing z', 'protecting x from y'
+- related to an outcome
 
 Use words the wider audience would use. Don't use 'The x report' unless
 that search term is higher than the explanation of what 'The x report'
@@ -907,17 +835,16 @@ says.
 
 Good examples:
 
--   Expanding and improving the rail network
--   Making roads safer
--   Increasing the number of successful small businesses
+- Expanding and improving the rail network
+- Making roads safer
+- Increasing the number of successful small businesses
 
 Bad examples:
 
--   Charter for business
--   Tackling climate change
+- Charter for business
+- Tackling climate change
 
 Issue (mandatory)
------------------
 
 This should answer the question 'why does the government have this
 policy?'.
