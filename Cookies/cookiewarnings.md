@@ -6,7 +6,7 @@ In line with European Law, we notify users whenever we use cookies on Government
 
 This happens whenever users first visit GOV.UK, using the following banner:
 
->GOV.UK uses cookies to make the site simpler. [Find out more about cookies] (https://www.gov.uk/support/cookies)
+>GOV.UK uses cookies to make the site simpler. [Find out more about cookies](https://www.gov.uk/support/cookies)
 
 When a specific action sets a cookie, you will need to notify users. This will look like this: 
 
