@@ -45,10 +45,11 @@ In order for pages from your service to appear within GOV.UK search results they
 
 ### Breadcrumb navigation
 
-This appears immediately below the site header.
-All content pages on GOV.UK are given a category and subcategory. These are used to create category pages and breadcrumb navigation. Breadcrumb navigation allows people to broaden their search for information from a specific page to all pages within the same category or subcategory. It also helps them to orientate themselves within the website.
+All content pages on GOV.UK are given a category and subcategory. These are used to create category pages and breadcrumb navigation, which appears immediately below the site header. Breadcrumb navigation allows people to broaden their search for information from a specific page to all pages within the same category or subcategory. It also helps them to orientate themselves within the website.
 
 This element is optional. Not all pages require breadcrumb navigation. It depends if the actions that it supports are genuine use cases for a specific page. For example, a page that's part-way through a multi-page transaction would not benefit from breadcrumbs because the user's main goal is completing the transaction, not browsing similar content.
+
+If we decide that your page *should* have breadcrumb navigation you'll need to contact us to establish which categories should be assigned to your service. This will determine what the breadcrumb links are and on which category page the service appears.
 
 ### The main content area
 
