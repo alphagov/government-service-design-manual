@@ -18,4 +18,4 @@ That link will take users to the cookies page, and the appropriate description o
 This cookies policy was devised following extensive research during the beta of GOV.UK. It followed the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+- [Cookies blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/)
