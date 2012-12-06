@@ -1,5 +1,5 @@
 #Words to avoid
-A collection of words and phrases to avoid in the creation of policies. To be used in conjunction with the GOV.UK Style Guide
+A collection of words and phrases to avoid in the creation of policies. To be used in conjunction with the [GOV.UK Style Guide](http://gsdm.herokuapp.com/handbook/32/).
 
 ##Guidance
 
@@ -45,4 +45,5 @@ the term into what you are actually doing. Be open and concrete.
 You can read more about how this list came to exist [on the GDS blog](http://digital.cabinetoffice.gov.uk/2012/09/27/style-v2/).
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+- [Sarah Richards' blog post about the addition of the words to avoid list](http://digital.cabinetoffice.gov.uk/2012/09/27/style-v2/)
+- [The GOV.UK Style Guide](http://gsdm.herokuapp.com/handbook/32/)
