@@ -1,4 +1,4 @@
-#Summative testing
+#Lab based user testing
 Your section will begin with a short, two-line summary of what you're showing people.
 
 ##Guidance/Tool

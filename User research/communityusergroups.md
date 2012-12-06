@@ -1,4 +1,4 @@
-#Formative/secondary research
+#Community user groups
 Your section will begin with a short, two-line summary of what you're showing people.
 
 ##Guidance/Tool
