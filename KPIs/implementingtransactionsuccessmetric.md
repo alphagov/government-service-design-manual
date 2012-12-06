@@ -1,5 +1,5 @@
 #Implementing transaction success metric
-Your section will begin with a short, two-line summary of what you're showing people.
+Summary goes here
 
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
