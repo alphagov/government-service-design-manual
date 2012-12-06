@@ -8,7 +8,7 @@ This guide explains how to do implememt GOV.UK page templates to achieve this.
 
 The most up-to-date version of the template code can be found in our ['Static' repository on GitHub](https://github.com/alphagov/static/tree/master/app/views/root). The [_base.html.erb](https://github.com/alphagov/static/blob/master/app/views/root/_base.html.erb) file contains the default template code. GOV.UK page templates are written in [ERB format](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html), but can be easily converted back to plain HTML.
 
-Ruby users can make use of our [Protytping app](https://github.com/alphagov/prototyping) to quickly mock up static prototypes using GOV.UK templates and assets.
+Ruby users can also make use of our [Prototyping app](https://github.com/alphagov/prototyping) to quickly mock up static prototypes using GOV.UK templates and assets.
 
 ## Template assets
 
