@@ -18,4 +18,4 @@ Users were then prompted to accept that they had read the warning, which set a c
 Users of government services might not always be used to seeing incomplete or trial version of websites in the open, and it's important to make them aware that they may not be viewing the 'canonical' information they need.
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+- [The GOV.UK Beta warning](https://github.com/alphagov/static/blob/master/app/assets/javascripts/welcome.js)
