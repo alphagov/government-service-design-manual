@@ -1,6 +1,4 @@
-#Style guide: GOV.UK
-##Hello!
-
+#GOV.UK Style Guide
 This style guide is for written content on the GOV.UK website.
 
 The first part of this guide is for the whole of GOV.UK. It covers
@@ -354,306 +352,197 @@ Don't use '£0.xxm' for less than £1 million.
 Write out 'pence' in full – 'calls will cost 4 pence per minute from
 a landline'.
 
-    2.18 Organisations
-    ------------------
+###2.18 Organisations
+   
+All organisations are singular, for example: 'the government has decided to sell assets'.
 
-    All organisations are singular, for example: 'the government has
-    decided to sell assets'.
+Departments don't take the definite article, for example: 'DVLA', not 'the DVLA'
 
-    Departments don't take the definite article, for example: 'DVLA',
-    not 'the DVLA'
+Use 'local council', instead of 'local authority' where possible.
 
-    Use 'local council', instead of 'local authority' where possible.
+###2.19 Quotes and speech marks
 
-    2.19 Quotes and speech marks
-    ----------------------------
+In long passages of speech, open quotes for every new paragraph, but close quotes only at the end of the final paragraph.
 
-    In long passages of speech, open quotes for every new paragraph, but
-    close quotes only at the end of the final paragraph.
+Single quotes
+Use single quotes:
 
-    Single quotes
-    -------------
+- in headlines
+- links
+- unusual terms
+- when referring to words or publications, for example: 'Download the publication 'Understanding Capital Gains Tax' (PDF 360KB)'
 
-    Use single quotes:
+Double quotes
+Double quotes in body text for direct quotations.
+    
+Block quotes
+Use the block quote markdown for quotes longer than a few sentences.
 
-    -   in headlines
-    -   links
-    -   unusual terms
-    -   when referring to words or publications, for example: 'Download
-        the publication 'Understanding Capital Gains Tax' (PDF 360KB)'
+###2.20 Singular, plural and contractions
+Use contractions eg 'they've', 'we'll'. Avoid using 'should've', 'could've', 'would've' etc – these are hard to read.
 
-    Double quotes
-    -------------
+###2.21 Search engine optimisation (SEO)
+Title key points:
+- keep it short – 8 words will appear in search so think about which 8 words are going to best convey your information
+- remember you are on a single domain with large cross-overs of content
+- concise – avoid stop words like of, in, at, for, and - search engines simply ignore these terms so if you use them, make sure they are not taking up space of a keyword (but make sure it makes sense)
+- frontload keywords
+- include variations and abbreviations if they are popular in search
+- should be specific so users can differentiate from other titles in search results, and so they make sense in isolation
 
-    Double quotes in body text for direct quotations.
+Meta description key points:
+- don't just repeat the title – meta descriptions should cover the scope of the content item and sell it to the intended audience
+- include popular keywords found with keyword tools
+- descriptions can get rid of ambiguity if titles are similar
+- optimal length for meta descriptions is around 150 characters
+- use dashes and commas
+- don't use full stops
+- define terms used in title if they're not popular in search
 
-    Block quotes
-    ------------
+###2.22 Spaces
 
-    Use the block quote markdown for quotes longer than a few sentences.
+Use only 1 space after a full stop, not 2.
 
-    2.20 Singular, plural and contractions
-    --------------------------------------
+###2.23 Telephone numbers
 
-    Use contractions eg 'they've', 'we'll'. Avoid using 'should've',
-    'could've', 'would've' etc – these are hard to read.
+Use 'Telephone: 011 111 111' or 'Mobile:' not 'Mob:'.
 
-    2.21 Search engine optimisation (SEO)
-    -------------------------------------
+Use spaces between city and local exchange etc. Here are the different formats to use:
+- 01273 800 900
+- 020 7450 4000
+- 0800 890 567
+- 07771 900 900
+- 077718 300 300
+- +44 (0)20 7450 4000
+- +39 1 33 45 70 90
 
-    Title key points:
+When a number has been chosen to be memorable, group the numbers into easily remembered units, eg 0800 80 70 60.
 
-    -   keep it short – 8 words will appear in search so think about
-        which 8 words are going to best convey your information
-    -   remember you are on a single domain with large cross-overs of
-        content
-    -   concise – avoid stop words like of, in, at, for, and - search
-        engines simply ignore these terms so if you use them, make sure
-        they are not taking up space of a keyword (but make sure it
-        makes sense)
-    -   frontload keywords
-    -   include variations and abbreviations if they are popular in
-        search
-    -   should be specific so users can differentiate from other titles
-        in search results, and so they make sense in isolation
+###2.24 Titles
 
-    Meta description key points:
+Remember all the search engine optimisation points and use colons to introduce the sub clause.
 
-    -   don't just repeat the title – meta descriptions should cover the
-        scope of the content item and sell it to the intended audience
-    -   include popular keywords found with keyword tools
-    -   descriptions can get rid of ambiguity if titles are similar
-    -   optimal length for meta descriptions is around 150 characters
-    -   use dashes and commas
-    -   don't use full stops
-    -   define terms used in title if they're not popular in search
+Good example:\
+Income Tax reform: impact assessment
 
-    2.22 Spaces
-    -----------
+Bad example:\
+An assessment of the impact of proposed reforms to Income Tax
 
-    Use only 1 space after a full stop, not 2.
+###2.25 Transactions and services
 
-    2.23 Telephone numbers
-    ----------------------
+These are pre-transaction pages. Use SEO to define the title, so if people search for 'registry office', put that in and then explain the proper term is 'register office'.
 
-    Use 'Telephone: 011 111 111' or 'Mobile:' not 'Mob:'.
+Give one sentence of what the user can expect from the service – this will appear before the button.
 
-    Use spaces between city and local exchange etc. Here are the
-    different formats to use:
+**'What you need to know' section**\
+This is where you put information that the user will need to complete the transaction and information about how long it takes, how much there will be to pay etc.
 
-    -   01273 800 900
-    -   020 7450 4000
-    -   0800 890 567
-    -   07771 900 900
-    -   077718 300 300
-    -   +44 (0)20 7450 4000
-    -   +39 1 33 45 70 90
+You can add alternatives to the online transaction at the bottom of the page.
 
-    When a number has been chosen to be memorable, group the numbers
-    into easily remembered units, eg 0800 80 70 60.
+##3 Style differences: Mainstream\
 
-    2.24 Titles
-    -----------
+This is a guide to style and conventions for the mainstream parts of GOV.UK (content and tools for citizens and businesses).
 
-    Remember all the search engine optimisation points and use colons to
-    introduce the sub clause.
+This style guide is complementary to the GOV.UK style guide. Make sure you check [www.gov.uk/designprinciples](https://www.gov.uk/designprinciples) for the up-to-date version.
 
-    Good example:\
-     Income Tax reform: impact assessment
+Users are more task-driven on mainstream GOV.UK. Make sure you keep the action of the task firmly in mind.
 
-    Bad example:\
-     An assessment of the impact of proposed reforms to Income Tax
+####Formats
+'Formats' is the term we use to define the different ways of presenting information, for example: guides have multiple pages of information around a topic, answers give a single, concise answer etc.
 
-    2.25 Transactions and services
-    ------------------------------
+###3.1 Guides
+####Overview
 
-    These are pre-transaction pages. Use SEO to define the title, so if
-    people search for 'registry office', put that in and then explain
-    the proper term is 'register office'.
+'Part 1' of the guide should contain the most important information that the majority of users will want to read – you can have an 'overview' but you don't have to.
 
-    Give one sentence of what the user can expect from the service –
-    this will appear before the button.
+Following chapters should contain more specific information as well as content for niche audiences.
 
-    **'What you need to know' section**\
-     This is where you put information that the user will need to
-    complete the transaction and information about how long it takes,
-    how much there will be to pay etc.
+####Chapters
+You should break content into chapters based on user needs as well as the natural structure of the content.
 
-    You can add alternatives to the online transaction at the bottom of
-    the page.
+You don't have to use chapters. If you find that you only have 3 or 4 small chapters in a guide, consider simply having a page without chapters where users can scroll.
 
-1.  3. Style differences: Mainstream\
-    (citizen/business)
-    =================================
+####Chapter titles
+For consistency across the site, the following chapter titles (and where possible, order) should be standard:
 
-    This is a guide to style and conventions for the mainstream parts of
-    GOV.UK (content and tools for citizens and businesses).
+- Overview
+- Eligibility
+- Apply for...
+- Appeal against...
 
-    This style guide is complementary to the GOV.UK style guide. Make
-    sure you check
-    [www.gov.uk/designprinciples](https://www.gov.uk/designprinciples)
-    for the up-to-date version.
+Don't force a linear reading pattern.
 
-    Users are more task-driven on mainstream GOV.UK. Make sure you keep
-    the action of the task firmly in mind.
+Don't duplicate information but also don't assume people have read all parts of the guide.\
+You can link between different parts of the guide using slugs.
 
-    Formats
-    -------
+###3.2 Answers
+Answers assume prior knowledge and answer a popular – and specific – need (so you don't need to explain terms or provide context). For example, the answer 'National Minimum Wage rate' should only give the rate, not information about what the National Minimum Wage is, how to pay it, etc (although you should be clearly linking to related content that does).
 
-    'Formats' is the term we use to define the different ways of
-    presenting information, for example: guides have multiple pages of
-    information around a topic, answers give a single, concise answer
-    etc.
+Stick exclusively to the answer – don't be tempted to include extra information, however useful this might appear to be.
 
-    3.1 Guides
-    ----------
+####Summary
+- one or two sentence(s) summing up the answer for common case (aim for one)
+- get the basic information quickly
+- not an introduction
+- use summary tags
 
-    Overview
-    --------
+####Body
+- expand on summary with any necessary detail
+- be strict with information you include
+- don't stray off topic
+- stick to task
+- light touch on words even if this means compromising caveats
+- no need to repeat info in subhead
 
-    'Part 1' of the guide should contain the most important information
-    that the majority of users will want to read – you can have an
-    'overview' but you don't have to.
+####Subheads
+- as close to search terms as possible
+- avoid questions – use statements
+- no need for the 'if' (eg 'You're working abroad')
+- H2 are primary subs
 
-    Following chapters should contain more specific information as well
-    as content for niche audiences.
+####Formatting
+- don't break up text with too many subheads
+- use formatting options (eg callouts) but not gratuitously
+- use accessibility formatting
 
-    Chapters
-    --------
+####When does an answer become a guide?
 
-    You should break content into chapters based on user needs as well
-    as the natural structure of the content.
+When the answer:
+- can't be simplified – eg too many variables – such as 'What hours your child can work'
+- depends on too many things, such as the age of your child and the type of job
+- can't be summed up
+- is low popularity search – it can form part of a longer guide so it doesn't clog up the results page
 
-    You don't have to use chapters. If you find that you only have 3 or
-    4 small chapters in a guide, consider simply having a page without
-    chapters where users can scroll.
+###3.3 Benefits and schemes
+####Overview
+- give people the main things they want to know without going into detail – eg rate and how long it's paid for
+- separate main points (not one long paragraph)
 
-    Chapter titles
-    --------------
+####Main sections
+- stick to the title and need
+- resist temptation to provide information around the subject (especially superfluous advice)
+- use examples for complex calculations (use example markdown)
+- stick to common case – any edge cases get put in 'Further information'
 
-    For consistency across the site, the following chapter titles (and
-    where possible, order) should be standard:
+####Further information
+- this isn't a dumping ground – content still needs to be useful – if you can't find a place for it, don't use it
+- main information for this section: effect on other benefits, appeals and edge cases – also more information on how things are worked out
 
-    Overview
-    --------
+###3.4 Cheat sheets
+####GOV.UK (mainstream) points of style cheat sheet
 
-    -   Eligibility
-    -   Apply for...
-    -   Appeal against...
-
-    Don't force a linear reading pattern.
-
-    Don't duplicate information but also don't assume people have read
-    all parts of the guide.\
-     You can link between different parts of the guide using slugs.
-
-    3.2 Answers
-    -----------
-
-    Answers assume prior knowledge and answer a popular – and specific –
-    need (so you don't need to explain terms or provide context). For
-    example, the answer 'National Minimum Wage rate' should only give
-    the rate, not information about what the National Minimum Wage is,
-    how to pay it, etc (although you should be clearly linking to
-    related content that does).
-
-    Stick exclusively to the answer – don't be tempted to include extra
-    information, however useful this might appear to be.
-
-    Summary
-    -------
-
-    -   one or two sentence(s) summing up the answer for common case
-        (aim for one)
-    -   get the basic information quickly
-    -   not an introduction
-    -   use summary tags
-
-    Body
-    ----
-
-    -   expand on summary with any necessary detail
-    -   be strict with information you include
-    -   don't stray off topic
-    -   stick to task
-    -   light touch on words even if this means compromising caveats
-    -   no need to repeat info in subhead
-
-    Subheads
-    --------
-
-    -   as close to search terms as possible
-    -   avoid questions – use statements
-    -   no need for the 'if' (eg 'You're working abroad')
-    -   H2 are primary subs
-
-    Formatting
-    ----------
-
-    -   don't break up text with too many subheads
-    -   use formatting options (eg callouts) but not gratuitously
-    -   use accessibility formatting
-
-    When does an answer become a guide?
-    -----------------------------------
-
-    When the answer:
-
-    -   can't be simplified – eg too many variables – such as 'What
-        hours your child can work'
-    -   depends on too many things, such as the age of your child and
-        the type of job
-    -   can't be summed up
-    -   is low popularity search – it can form part of a longer guide so
-        it doesn't clog up the results page
-
-    3.3 Benefits and schemes
-    ------------------------
-
-    Overview
-    --------
-
-    -   give people the main things they want to know without going into
-        detail – eg rate and how long it's paid for
-    -   separate main points (not one long paragraph)
-
-    Main sections
-    -------------
-
-    -   stick to the title and need
-    -   resist temptation to provide information around the subject
-        (especially superfluous advice)
-    -   use examples for complex calculations (use example markdown)
-    -   stick to common case – any edge cases get put in 'Further
-        information'
-
-    Further information
-    -------------------
-
-    -   this isn't a dumping ground – content still needs to be useful –
-        if you can't find a place for it, don't use it
-    -   main information for this section: effect on other benefits,
-        appeals and edge cases – also more information on how things are
-        worked out
-
-    Cheat sheet
-    -----------
-
-    GOV.UK (mainstream) points of style cheat sheet
-    ===============================================
-
-    ### Acronyms
+Acronyms
 
     Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't
     use acronyms if you're not going to use the acronym later in the
     text.
 
-    ### Addressing the user
+Addressing the user
 
     Always address the user as 'you' and don't use 'we', 'I', 'our',
     'us'.
 
-    ### Bullets and steps
+Bullets and steps
 
     This is how to do bullets:
 
@@ -663,7 +552,7 @@ a landline'.
         etc are okay
     -   do use links in bullets (including downloads) if necessary
 
-    ### Steps
+Steps
 
     Use steps to guide a user through a process – steps are not a
     numbered list.
@@ -671,14 +560,14 @@ a landline'.
     You can use links and downloads (with appropriate markdown) in
     steps.
 
-    ### Capitalisation
+Capitalisation
 
     Capitalise:
 
     -   names of government schemes eg Right to Buy, Queen's Awards for
         Enterprise
 
-    ### Don't capitalise:
+Don't capitalise:
 
     -   government (unless part of a name)
     -   the titles of publications – use an initial cap only, eg
@@ -688,11 +577,11 @@ a landline'.
     -   seasons eg summer
     -   compass directions eg the south of England
 
-    ### Contractions
+Contractions
 
     -   Use as much as possible (they'll, you'll etc)
 
-    ### Dates and times
+Dates and times
 
     -   6 September 1976
     -   tax year 2011 to 2012
@@ -701,21 +590,21 @@ a landline'.
     -   Monday to Friday, 9am to 5pm
     -   10 November to 21 December
 
-    ### Eg, etc and ie
+Eg, etc and ie
 
     Don't use full stops between or after these notations.
 
-    ### Email addresses
+Email addresses
 
     Always write in full (and as a hyperlink in markdown).
 
-    ### Legal language
+Legal language
 
     If it is a legal requirement, use 'must'.
 
     If this doesn't provide enough emphasis, use 'legal requirement'.
 
-    ### Links
+Links
 
     Always link to online services first. Link to offline services after
     (where possible).
@@ -724,25 +613,25 @@ a landline'.
 
     Hover text: use the same capital style as the text you are marking.
 
-    ### Links to documents:
+Links to documents:
 
     Download 'This is the document title' (PDF, 69KB)\
      Check all links on preview before publishing. Make sure link text
     is helpful (eg not 'click here').
 
-    ### Lists
+Lists
 
     Use bullets for more than a couple of items. If doing a list in a
     sentence, use commas to separate items, not semicolons.
 
-    ### Measurements
+Measurements
 
     Use numerals and spell out measurements at first mention eg 10
     kilograms.\
      Abbreviate kilograms to kg only after it is first spelt out and use
     markdown.
 
-    ### Numbers and money
+Numbers and money
 
     -   £186 million (not m)
     -   £860,000 not £0.86m
@@ -753,7 +642,7 @@ a landline'.
     -   use words for common expressions, eg "the minister will be
         looking at one or two areas"
 
-    ### Quotes
+Quotes
 
     -   use single quotes for unusual terms
     -   text emphasis
