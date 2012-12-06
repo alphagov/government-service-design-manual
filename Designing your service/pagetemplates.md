@@ -12,7 +12,7 @@ Ruby users can also make use of our [Prototyping app](https://github.com/alphago
 
 ## Template assets
 
-The template code contains direct links to CSS and JavaScript assets hosted on the GOV.UK domain. We recomend that you leave these links as is whilst you develop your service (as opposed to linking to your own copies of these files). That way, you'll always be using the latest version of the assets and you can address any conflicts as and when they arise.
+The template code contains direct links to CSS and JavaScript assets hosted on the GOV.UK domain. We recomend that you leave these links as is whilst you develop your service (as opposed to linking to your own copies of these files). That way, you'll always be using the latest version of the assets and when they change you can identify and resolve any conflicts immediately.
 
 Once the service is ready for production we'll need to decide whether you should continue to link to the assets in this way or whether you should now use your own copies of them. Please contact the GDS team to discuss this at the appropriate time.
 
