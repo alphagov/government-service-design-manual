@@ -855,9 +855,9 @@ do or is doing about it.
 
 This section isn't:
 
--   about the history
--   what led to the policy being implemented
--   the government's actions or intended actions
+- about the history
+- what led to the policy being implemented
+- the government's actions or intended actions
 
 Example:
 
@@ -871,15 +871,13 @@ use of taxpayers' money and help the UK meet existing climate change
 agreements.
 
 Actions (mandatory)
--------------------
 
 This section details what the government is doing about the issue or to
 achieve the outcome in the policy title.
 
 Actions should be specific, measurable and time-bound.
 
-Summarise briefly what government is doing now and what it will do next
-– one short paragraph or bullet point for each action with links to
+Summarise briefly what government is doing now and what it will do next – one short paragraph or bullet point for each action with links to
 supporting detail pages where necessary.
 
 Past actions go into the background section. If an action was taken in
@@ -892,13 +890,10 @@ Example:
 
 To increase our energy efficiency, by 2015 the government will:
 
--   reduce greenhouse gas emissions by 25% from the whole estate and
-    business-related transport, by introducing x scheme
--   make sure the goods, services and suppliers it chooses are energy
-    efficient
+- reduce greenhouse gas emissions by 25% from the whole estate and business-related transport, by introducing x scheme
+- make sure the goods, services and suppliers it chooses are energy efficient
 
 Background (mandatory)
-----------------------
 
 This section should explain how this policy and set of actions came
 about. Provide essential information for understanding the context of
@@ -919,7 +914,6 @@ We consulted experts at an event in 2011 and worked with aaa and bbb to
 develop our action plan.
 
 Who we're working with (optional)
----------------------------------
 
 Explain who has been or will be consulted or involved in the policy, and
 in what way.
@@ -936,14 +930,12 @@ reforming sentencing. Following that consultation, we revised our plans
 to xxx and yyyy.
 
 Impact (optional)
------------------
 
 List (and link inline to) any impact assessment publications.
 
 Briefly summarise the main points arising from the impact assessments.
 
 Bills and legislation (optional)
---------------------------------
 
 Give summary details of relevant legislation to explain the legal
 context for the policy and if the policy will mean changes to the law.
@@ -952,7 +944,6 @@ Write full sentences, not just a list of related laws, and add links
 where relevant.
 
 Partner organisations (optional)
---------------------------------
 
 List the organisations which have a major involvement, and what work is
 being done by them or with them.
@@ -960,7 +951,6 @@ being done by them or with them.
 Write full sentences, don't just list the organisations.
 
 Detail pages (optional)
------------------------
 
 These pages are for users who want to know more about the actions listed
 on the cover sheet.
@@ -978,11 +968,9 @@ If appropriate, include a supplementary detail page called 'evidence' or
 'research'. This can be used to present the most important research and
 statistics relating to the policy.
 
-4.4 Publications
-----------------
+###4.4 Publications
 
 Titles
-------
 
 Titles don't have to reflect the 'official' publication title. Keep them
 short and search- and user-friendly.
@@ -990,23 +978,22 @@ short and search- and user-friendly.
 Front-load all titles – get all the most important words at the front of
 the sentence.
 
-Good example:\
- Income Tax reform: impact assessment
+Good example: 
+Income Tax reform: impact assessment
 
-Bad example:\
- An assessment of the impact of proposed reforms to Income Tax
+Bad example: 
+An assessment of the impact of proposed reforms to Income Tax
 
 You can mention the report title etc in the summary or page copy if you
 think users will search for that term.
 
-Good example:\
- 'Improving government online services'
+Good example:
+'Improving government online services'
 
-Bad example:\
- 'The Varney report'
+Bad example:
+'The Varney report'
 
 Summary
--------
 
 This will be seen on section pages – not the publication page itself so
 **don't use it for essential information** unless that information is
@@ -1017,7 +1004,6 @@ Write a 140 character summary – this will help with concise writing for
 search etc.
 
 Body text – what it's for
--------------------------
 
 The body of a publication page is used to provide a summary of the
 publication in plain, neutral language – to reassure the user that it is
@@ -1025,78 +1011,65 @@ publication in plain, neutral language – to reassure the user that it is
 about and its purpose. Publications often outlive governments so keep
 the language politically neutral.
 
-Good example:\
- These reports describe the effect of government proposals to reduce the
+Good example:
+These reports describe the effect of government proposals to reduce the
 amount of money spent on legal aid. The aim of the reforms is to make
 sure legal aid is still available for support and representation in
 cases where it is justified.
 
 Attachments – title field
--------------------------
 
 Use the official title of the document.
 
 Things to check
----------------
 
 Check the following have been populated:
 
--   organisation
--   ministers
--   related policies
--   countries (if applicable)
--   excluded nations (if applicable)
--   closing date
+- organisation
+- ministers
+- related policies
+- countries (if applicable)
+- excluded nations (if applicable)
+- closing date
 
 Make sure as much as possible of the following information is captured:
 
--   Publication date: 2 February 2011 (automatic)
--   Unique reference: (if your department uses a numbering scheme for
-    publications)
--   ISBN: (if your department uses ISBNs)
--   Research (this will be used in future to show all government
-    research in one place)
--   Corporate Publication (if checked, the publication shows on the
-    organisations 'About us' pages)
--   Order URL: (enter a URL if the publication is available to order
-    from an e-commerce site)
+- Publication date: 2 February 2011 (automatic)
+- Unique reference: (if your department uses a numbering scheme for publications)
+- ISBN: (if your department uses ISBNs)
+- Research (this will be used in future to show all government research in one place)
+- Corporate Publication (if checked, the publication shows on the organisations 'About us' pages)
+- Order URL: (enter a URL if the publication is available to order from an e-commerce site)
 
-4.5 Consultations
------------------
+###4.5 Consultations
 
 Much like publications but check the following have been populated:
 
--   organisation
--   ministers
--   related policies
--   countries (eg Spain, if applicable)
--   excluded nations (eg Scotland, if applicable)
+- organisation
+- ministers
+- related policies
+- countries (eg Spain, if applicable)
+- excluded nations (eg Scotland, if applicable)
 
 Body text – what it's for
--------------------------
 
 Give a short, succinct summary of what the consultation is asking people
 to comment on.
 
 How to respond
---------------
 
 On all open consultations, add information in the body copy on how to
 respond in the following format:
 
-\#\#How to respond
-
-\#\#\#Respond online\
- Add a url if there is one
-
-\#\#\#Email us\
- email@email.com
-
-\#\#\#Write to us\
- Address
+>How to respond
+>Respond online 
+>Add a url if there is one
+>Email us
+>email@email.com
+>Write to us
+>Address
 
 Attachments
------------
 
 When you upload the attachment it will automatically show the front page
 of the consultation. The type of document, number of pages and file size
@@ -1106,24 +1079,17 @@ The title field for this attachment will be displayed as the link text
 to download or open the file. This should be the full, official title of
 the publication as written on its front cover.
 
-4.6 Speeches
-------------
+###4.6 Speeches
 
 In the 'type' dropdown, select:
 
--   Transcript – only for verbatim reports of exactly what the speaker
-    said, NOT 'check against delivery'
--   Draft – for what the speaker was supposed to say ('check against
-    delivery', though this is not necessary to state in the text)
--   Speaking notes – if it is not a complete speech, eg a list of
-    topics, cue cards
--   Written statement – a written statement submitted to the House, a
-    letter to newspaper etc
--   Oral statement – often a statement to the House or a briefing to
-    camera
+- Transcript – only for verbatim reports of exactly what the speaker said, NOT 'check against delivery'
+- Draft – for what the speaker was supposed to say ('check against delivery', though this is not necessary to state in the text)
+- Speaking notes – if it is not a complete speech, eg a list of topics, cue cards
+- Written statement – a written statement submitted to the House, a letter to newspaper etc
+- Oral statement – often a statement to the House or a briefing to camera
 
-4.7 News format
----------------
+###4.7 News format
 
 News content directly follows the common style guide, with the
 exceptions listed below.
@@ -1133,7 +1099,6 @@ press release by increasing comprehensibility and user-focus, and
 removing spin.
 
 Titles
-------
 
 What is the actual story? Tell it in a few words.
 
@@ -1149,39 +1114,33 @@ Avoid print conventions / 'journalese' eg "Minister in youth
 homelessness bid" ('bid' is used in print where headline space is in
 short supply).
 
-Good example:\
- Granny in near-death wolf escape
+Good example:
+Granny in near-death wolf escape
 
-Bad example:\
- Girl goes into forest, encounters problems
+Bad example:
+Girl goes into forest, encounters problems
 
 Introductions
--------------
 
 Introductions should be 15 to 50 words. Aim to tell the story in one or
 two sentences, eg who, what, where, when, why.
 
 Body copy
----------
 
 Here's how to write effective body copy:
 
--   the first paragraph of body copy should lead on from the
-    introduction paragraph – it should not repeat the information
--   use 'inverted pyramid' approach with most important information at
-    the top tapering down to lesser detail
--   paragraphs should have no more than 5 sentences each
--   large blocks of text should be split by regular sub-headers
--   ensure copy includes keywords to boost natural search rankings
+- the first paragraph of body copy should lead on from the introduction paragraph – it should not repeat the information
+- use 'inverted pyramid' approach with most important information at the top tapering down to lesser detail
+- paragraphs should have no more than 5 sentences each
+- large blocks of text should be split by regular sub-headers
+- ensure copy includes keywords to boost natural search rankings
 
 Sub-headers
------------
 
 For news stories of fewer than than 150 words a sub-header below the
 introduction is discretionary.
 
 Article length
---------------
 
 No lower limit, although the value of a story under 150 words should be
 questioned.
@@ -1190,13 +1149,11 @@ Upper limit of 750 words – with case-by-case exceptions (eg some Budget
 pages).
 
 Quotes
-------
 
 Do not include more than 2 concurrent sentences of quotes unless the
 quotation/speech is the story.
 
 Summaries
----------
 
 Summaries end with a full stop.
 
@@ -1204,96 +1161,82 @@ Summaries do appear on news stories but not on other content types eg
 publications.
 
 Cheat sheet
------------
 
-gov.uk/government – points of style cheat sheet
-===============================================
+###4.8 gov.uk/government – points of style cheat sheet
 
-### Addressing the user
+Addressing the user
 
 Use 'we', 'I', 'our', 'us', if it is clear.
 
-### Headings
+Headings
 
 The top level of heading you can use is H2 (\#\#).
 
-### Capitalisation
+Capitalisation
 
 Capitalise:
 
--   job titles for specific people, eg Lieutenant Sanger, British
-    Ambassador Alan Maddrell
--   Parliament, the House
--   British Embassy (when referring to or implying one specific embassy,
-    eg 'the British Embassy in Madrid', "Protestors outside the British
-    Embassy")
--   an Act or a Bill
--   titles of specific Acts or Bills eg Housing Reform Bill
--   names of government schemes eg Right to Buy, Queen's Awards for
-    Enterprise
--   specific select committees (eg Public Administration Select
-    Committee)
--   Her Majesty the Queen
--   job titles for an individual
+- job titles for specific people, eg Lieutenant Sanger, British Ambassador Alan Maddrell
+- Parliament, the House
+- British Embassy (when referring to or implying one specific embassy, eg 'the British Embassy in Madrid', "Protestors outside the British Embassy")
+- an Act or a Bill
+- titles of specific Acts or Bills eg Housing Reform Bill
+- names of government schemes eg Right to Buy, Queen's Awards for Enterprise
+- specific select committees (eg Public Administration Select Committee)
+- Her Majesty the Queen
+- job titles for an individual
 
 Don't capitalise:
 
--   government (unless part of a name)
--   minister (unless part of a specific job title)
--   department or ministry, unless referring to a specific one
--   British embassy or consulate (when talking generally, eg 'Find a
-    British embassy')
--   job titles for a generic role holder (not an individual)
--   the titles of publications, eg 'Implementing self-financing for
-    council housing' (unless it includes a phrase which should be
-    capitalised for other reasons eg 'Review of the Right to Buy
-    scheme')
--   white paper, green paper, command paper, House of Commons paper
--   director general, deputy director, director unless in a specific job
-    title
--   group and directorate (unless referring to specific ones)
--   general mention of select committees (but DO cap specific ones)
--   titles of articles
+- government (unless part of a name)
+- minister (unless part of a specific job title)
+- department or ministry, unless referring to a specific one
+- British embassy or consulate (when talking generally, eg 'Find a British embassy')
+- job titles for a generic role holder (not an individual)
+- the titles of publications, eg 'Implementing self-financing for council housing' (unless it includes a phrase which should be capitalised for other reasons eg 'Review of the Right to Buy scheme')
+- white paper, green paper, command paper, House of Commons paper
+- director general, deputy director, director unless in a specific job title
+- group and directorate (unless referring to specific ones)
+- general mention of select committees (but DO cap specific ones)
+- titles of articles
 
-### Dates and times
+Dates and times
 
--   6 September 1976
--   5:30pm
--   11am (not 1100hrs)
--   midnight, not 00:00
--   Monday to Friday, 9am to 5pm
--   10 November to 21 December
--   midnight, not 00:00
+- 6 September 1976
+- 5:30pm
+- 11am (not 1100hrs)
+- midnight, not 00:00
+- Monday to Friday, 9am to 5pm
+- 10 November to 21 December
+- midnight, not 00:00
 
-### Numbers and money
+Numbers and money
 
--   £186 million (not m)
--   £860,000 not £0.86 million
--   1,000
--   Use common sense with numbers, eg when starting a headline:
-    Thirty-four hula hoops found in researcher's drawer
--   Use words for common expressions, eg 'the minister will be looking
-    at one or two areas'
+- £186 million (not m)
+- £860,000 not £0.86 million
+- 1,000
+- Use common sense with numbers, eg when starting a headline: Thirty-four hula hoops found in researcher's drawer
+- Use words for common expressions, eg 'the minister will be looking at one or two areas'
 
-### Lists
+Lists
 
 Use bullets for more than a couple of items. If doing a list in a
 sentence, use commas to separate items, not semicolons.
 
-### Bullets
+Bullets
 
 This is how to do bullets:
 
--   have a lead-in sentence
--   don't end them with 'and', 'or' or a semicolon
--   don't use sentences within a bullet point – dashes, semicolons etc
+- have a lead-in sentence
+- don't end them with 'and', 'or' or a semicolon
+- don't use sentences within a bullet point – dashes, semicolons etc
     are okay
 
-### Text emphasis
+Text emphasis
 
 Use bold **very** sparingly.
 
-### Quotes
+Quotes
 
 Use single quotes for 'unusual terms'.
 
@@ -1301,27 +1244,27 @@ He said, "Short quotes take double quotation marks."
 
 She said:
 
-\> This is a block quote, used for long quotes.\
- \>\
- \> Don't forget to use the arrow between paragraphs as well.
+>This is a block quote, used for long quotes.
+>
+>Don't forget to use the arrow between paragraphs as well.
 
-### Acronyms
+Acronyms
 
 Common acronyms don't need markdown (eg VAT, UK, US, EU, MP). Don't use
 acronyms if you're not going to use the acronym later in the text.
 
 Tip: for acronyms you use frequently, have a file you can copy/paste.
 
-### Links
+Links
 
 Use markdown where necessary.
 
-Links to documents:\
- Download 'This is the document title' (PDF, 69KB)
+Links to documents:
+Download 'This is the document title' (PDF, 69KB)
 
 Check all links on preview before publishing. Make sure link text is
 helpful, not 'click here'.
 
-### Footnotes
+Footnotes
 
 Don't use them.
