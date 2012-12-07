@@ -10,7 +10,9 @@ This will be a full explanation of the guidance or tool.
 If you're giving people code r copy to cuta and paste then here is where it will go.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+* Everyone on the team should be able to understand progress to date by using running software
+* People working on the product should be able to understand the impact of their work by seeing it working in context
+* The team should be confident that the service as a whole works before shipping those changes to the public
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
