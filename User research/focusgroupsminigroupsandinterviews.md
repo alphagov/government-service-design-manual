@@ -38,8 +38,8 @@ Normally 6-8 weeks from briefing to results. Analysis period needs to be suffici
 
 ##Cost
 
-1:1 depth interviews - approximately £ CHECK
-Focus groups - approximately £3k
+* 1:1 depth interviews - approximately £ CHECK
+* Focus groups - approximately £3k
 
 ##GDS Example 
 
