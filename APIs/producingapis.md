@@ -1,6 +1,8 @@
 #Producing APIs
 Your section will begin with a short, two-line summary of what you're showing people.
 
+Let's start with the [API Design Principles](https://github.com/alphagov/api-design-principles) and work from there?
+
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
 
