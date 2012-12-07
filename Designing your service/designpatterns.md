@@ -1,14 +1,20 @@
-#Design patterns
-Your section will begin with a short, two-line summary of what you're showing people.
+# Design patterns
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+## Forms
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+* [Anatomy of a form](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/form-anatomy.html)
+* [Buttons](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/buttons.html)
+* [Emphasised form controls](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/emphasised-form-controls.html)
+* [Hidden form controls](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/hidden-form-controls.html)
+* [Example: Registration form](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/registration-form.html)
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+## Content
 
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+* [Highlighted content](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/highlighted-content.html)
+* [Regular grid](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/regular-grid.html)
+* [Show/hide link](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/show-hide.html)
+
+## Other
+
+* [Contact details](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/contact-details.html)
+* [Progress indicator](http://govuk-prototyping.herokuapp.com/website-toolkit/design-patterns/progress-indicator.html)
