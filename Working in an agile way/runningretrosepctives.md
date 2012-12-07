@@ -31,40 +31,46 @@ Actions should:
  - have a date by which they should be completed
  - be assigned to a specific person (and not to 'the team')
  - should not be assigned to someone who is not present
+
 Subsequent retrospectives should follow up on actions to make sure they have been done. If they are consistently not getting done, there may be too many.
 
 
-##Code/Templates
-A sample retrospective for a team of 8-10 for a two-week sprint might go as follows: 
+##Templates
+This is a possible template for a sample retrospective for a team of 8-10, covering a two-week sprint.
 
-For this number and scope 90 minutes is a reasonable length of time, and it is advisable to build in about 10% "shuffle time" to move between activites to ensure it doesn't overrun.
-Each of the activities is timeboxed and it is up to the facilitator to make sure that this is adhered to.
+Each of the activities is timeboxed and it is up to the facilitator to make sure that this is adhered to. For this number and scope 90 minutes is a reasonable length of time, and it is advisable to build in about 10% "shuffle time" to move between activites to ensure it doesn't overrun.
 
-Setting the scene	5 mins
+00:00 to 00:05 (5 mins) Setting the scene
+
 Explaining the scope, and if necessary, purpose. 
 If the team don't know each other and/or are shy, you could include a <a href="http://retrospectivewiki.org/index.php?title=Check-in_Ideas">check in</a>/.
 
-Actions from the previous retrospective 		5 mins
+00:05 to 00:10 (5 mins) Actions from the previous retrospective
+
 Make sure they have been completed. If not, find out why not. Do they still need to be done? If so, why have they not been? Set a new deadline if necessary, but it's not ideal to keep carrying actions over. 
 
-Good				10 mins
+00:10 to 00:20 (10 mins) The Good
+
 Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. 
 If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding them.
 
-Discussion			10 mins
+00:20 to 00:30 (10 mins) Discussion
+
 Group the post-its and discuss the main areas. What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
 
-Bad 				15 mins
-Give the team around 15 minutes to do the same for anything that went badly.
+00:30 to 00:45 (15 mins) The Bad
 
-Discussion 			20 mins
+Give the team around 15 minutes to write post-its for anything that went badly.
+
+00:45 to 01:05 (20 mins) Discussion
+
 Again, group the post-its and discuss the main areas. Can we work out why these things went badly? Can we work out what we need to do to improve matters, or prevent specific things happening again? Can we draw out specific actions that someone here can take that will help?
 
-Actions 			20 mins
+01:05 to 01:20 (15 mins) Actions
+
 Spend some time looking at the actions we have identified, assigning them to people present and setting realistic deadlines for completion.
 
 Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion.
-
 
 
 ##Why we do this
