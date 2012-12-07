@@ -1,5 +1,7 @@
 #Sandbox and staging servers
-Your section will begin with a short, two-line summary of what you're showing people.
+* Everyone working on design, development or maintenance of a service should have a clear, easily accessible place to review the latest version of the software.
+* Those working hands-on building the software for the service should be able to run their own reasonable replica of the entire service
+* There should be a clear staging environment where changes are reviewed and tested in the context of the entire end-to-end service before they are deployed.
 
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
