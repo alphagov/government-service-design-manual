@@ -16,11 +16,6 @@ Focus groups and 1:1 interviews are useful techniques for exploring and mapping 
 Dedicated viewing facilities are often used that enable sessions to be recorded, and interested parties can observe the sessions (often via a two way mirror) in a separate room to the participants. This often results in the research having more credibility as interested parties will have been able to see the sessions, and witness the findings first hand - this also means key issues can be acted upon quicker as observers can feed straight back to their teams. Some sessions take place in community settings, encouraging less confident/harder-to-reach audiences to attend.
  
 The number of groups is often directed by the budget available, but the average project will have 4 to 6 groups, and larger ones could have 10 to 20. Besides budget, other factors that will influence the number of groups used are the number of potential users groups that need to be covered, and the number of geographic areas.
- 
-Focus groups and 1:1 interviews are techniques often used in the following types of research:
-
-* **Formative/contextual research** - enables you to understand how and why people behave/do things in a certain way. Help understand user needs before products are built. Qualitative and Quantitative methods can be used (qual to understand reasons/feeling etc, quant to understand scales/volumetrics). See section on Formative/Contextual research
-* **Concept/Alpha Testing/Development** - Qualitative and Quantitative research to measure users reactions to new product ideas. See section on Concept development.
 
 ##Weaknesses/when not to use 
 
