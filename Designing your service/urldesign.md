@@ -1,5 +1,5 @@
 #URL design
-Your section will begin with a short, two-line summary of what you're showing people.
+URLs are part of the user interface of a service. They should be designed to be descriptive and bookmarkable. Use HTTP properly. 
 
 ##Guidance/Tool
 This will be a full explanation of the guidance or tool.
