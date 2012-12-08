@@ -14,3 +14,5 @@ This is the reasoning for the decision. You might want to link to relevant blog 
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
+
+Mark Nottingham always has sensible things to say. This piece on [versioning APIs](http://www.mnot.net/blog/2012/12/04/api-evolution) is worth reading.
