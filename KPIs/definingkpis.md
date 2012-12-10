@@ -26,5 +26,32 @@ That’s fine. Again, it’s up to the service manager to define what a successf
 ###What about offline fulfilment?
 Some transactional services have parts which are digital and others which are non-digital. For example, when granting a lasting power of attorney users can start and finish the process online, but are required to print, sign and post a copy of the form in the middle of the process. In this situation it makes sense to treat the discrete digital parts of the service as separate tasks and measure completion rates for each. The purpose of measuring completion rate is to optimise and therefore each portion will need to optimised and therefore treated as a different task that users complete. Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (e.g from surveys, diary studies, focus groups).
 
+##User satisfaction
+
+###Why measure user satisfaction?
+A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Completion rate measures whether a service is working _effectively_ for users. Satisfaction provides a qualitative measure of how _satisfying_ the experience is. Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as _grudge transactions_ - but we should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
+
+User satisfaction also provides a definitive measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
+
+###Definition
+The percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
+
+Q:  Overall, how satisfied are you with your visit to the online [e.g. car tax] service today?
+
+A: 
+* Very satisfied
+* Satisfied
+* Neither satisfied or dissatisfied
+* Dissatisfied
+* Very dissatisfied
+
+###What happens if a user exits the transaction mid way through?
+A satisfaction survey should be targeted at 1 in N users in order to achieve a sufficiently large user base - a minimum of 400 - and should be made available to users either on completion or failure to complete a transaction (as defined by completion rate KPI).
+
+###What about parts of the service that are completed offline?
+Some services may have components which are completed or fulfilled offline (e.g. applying for a passport, lasting power of attorney). User satisfaction should cover the service as a whole and therefore should be measured at the point of completion. If the point of completion is offline - sometimes referred to as _offline fulfilment_ - then the survey should be triggered via an email to the user.
+
+It is still recommended that the individual parts of the service are tested to identify where specific problems are.
+
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
