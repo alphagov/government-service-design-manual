@@ -53,5 +53,59 @@ Some services may have components which are completed or fulfilled offline (e.g.
 
 It is still recommended that the individual parts of the service are tested to identify where specific problems are.
 
+##Cost per transaction
+
+###Why measure cost per transaction?
+
+The main reason for measuring cost per transaction is to get an understanding of the relative cost of channels. The Digital Efficiency Report [link] found that the average cost of a digital transaction is:
+20 times lower than the cost of a telephone transaction
+30 times lower than the cost of postal transaction
+50 times lower than a face-to-face transaction
+Understanding cost per transaction for your service will help you to accurately forecast savings and build a strong business case for channel shift.
+
+The other reason for measuring cost per transaction is to provide transparency around public services. Cost per transaction is part of the Quarterly Data Summary (QDS) efficiency data which government departments routinely report. It is also a Cabinet Office requirement to publish cost per transaction for high volume transactional services. A complete list of [government transactions](transactionalservices.alphagov.co.uk) is published online.
+
+###Definition
+The _overall cost per transaction_ is the total cost divided by the total number of completed transactions. The total cost includes all fixed and variable costs of the transaction through a given channel, including overheads. It does not include start up costs.
+
+The _digital cost per transaction_ is the total cost of providing the digital service divided by the total number of digital transactions. The cost should include non-digital aspects of service provision where these are essential (e.g. providing wet signatures or manual processing costs).
+
+###What about cost shared across channels?
+Some transactions will have costs which are common to digital and non-digital channels (e.g. printing costs for passports or driving licences). These should be included in both the overall and digital cost per transaction. 
+
+For the digital cost per transaction, you should apportion these common costs by share of volume (i.e. if digital take-up is 50% then include half of the common costs). This won’t change the relative cost comparison between channels, but it does give a truer reflection of actual costs for transparency purposes.
+
+###What happens if a user exits the transaction mid way through?
+Cost per transaction is calculated for completed transactions only. The cost of failed transactions is included in the overall figure and provides an incentive to drive down failure and improve completion rates.
+
+###What exactly should and shouldn’t be included in the cost?
+To be comprehensive, the full cost of the transaction should include:
+ 
+*  accommodation, including capital charges for freehold properties
+*  fixtures and fittings
+*  maintenance
+*  utilities
+*  office equipment, including IT systems
+*  postage, printing, telecommunications
+*  total employment costs of those providing the service, including training
+*  overheads, eg (shares of) payroll, audit, top management costs, legal services, etc
+*  raw materials and stocks
+*  research and development
+*  depreciation of start up and one-off capital items
+*  taxes: VAT, council tax, stamp duty, etc
+*  capital charges (if they were not met separately when the service was established)
+*  notional or actual insurance premiums
+*  fees to sub-contractors
+*  distribution costs, including transport
+*  advertising
+*  bad debts
+*  provisions
+ 
+but not
+ 
+*  enforcement costs
+*  replacement costs of items notionally insured
+*  start up costs (those which can be capitalised in the accounts)
+
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
