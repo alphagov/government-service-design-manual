@@ -8,7 +8,7 @@ This will be a full explanation of the guidance or tool.
 If you're giving people code r copy to cuta and paste then here is where it will go.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+The [Government Digital Strategy] (http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
