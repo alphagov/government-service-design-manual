@@ -39,7 +39,7 @@ and these browsers:
 
 whilst ensuring it was at least functional on these operating systems:
 * Android 2.3
-* Blackberry
+* Blackberry 6.0
 
 and these browsers:
 * Microsoft Internet Explorer 7
