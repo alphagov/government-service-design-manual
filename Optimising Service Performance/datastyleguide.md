@@ -41,7 +41,7 @@ d) Do you need a visualisation?
 
 Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. A guide to infographics is available [here](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0B9lK1009bUPiQ1FvcVRUVDkzcWc/edit). Most computer programmes come with a range of visualisations. There are also visualisation tools available online and a blog of free ones [here](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
 
-Each chart has its own strength. Below are the core 5 with templates, a google spreadsheet of these is available [here](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html Click on the chart to be taken to the google spreadsheet.) 
+Each chart has its own strength. Below are the core 5 with templates, a google spreadsheet of these is available [here](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html) 
 
 ###Column chart
 ![Column Chart - Image 1] (https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)  
@@ -157,7 +157,8 @@ The stacked column gave a level of detail which was not needed. This has been ra
 
 ##4. Be open and honest 
 <blockquote>
-<p>“We want transparency to become an absolutely core part of every bit of government business.” - Francis Maude</p>
+<p>“We want transparency to become an absolutely core part of every bit of government business.”  
+- Francis Maude</p>
 </blockquote>
 
 Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf) white paper agenda. Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing. 
