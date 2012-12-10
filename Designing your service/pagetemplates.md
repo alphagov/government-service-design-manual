@@ -2,7 +2,7 @@
 
 All pages on GOV.UK need to feel like they're part of the same service.
 In particular, the header and footer should be consistent across every page on the website.
-This guide explains how to do implememt GOV.UK page templates to achieve this.
+This guide explains how to do implement GOV.UK page templates to achieve this.
 
 ## The template code
 
