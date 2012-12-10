@@ -10,7 +10,7 @@ This will be a full explanation of the guidance or tool.
 If you're giving people code r copy to cuta and paste then here is where it will go.
 
 ##Why we do this
-The Government Digital Strategy (http://publications.cabinetoffice.gov.uk/digital/strategy/#persuading-those-who-are-online-to-use-government-digital-services) requires departmental digital strategies to include plans to encourage channel shift to digital services. These will be reviewed annually.  to This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+The [Government Digital Strategy] (http://publications.cabinetoffice.gov.uk/digital/strategy/#persuading-those-who-are-online-to-use-government-digital-services) requires departmental digital strategies to include plans to encourage channel shift to digital services. These will be reviewed annually.
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
