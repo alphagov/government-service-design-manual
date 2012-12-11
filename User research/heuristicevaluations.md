@@ -2,9 +2,7 @@
 
 This section of guidance looks at Heuristic evaluations and expert reviews, and how they can be used to provide
 
-##Guidance/Tool
-
-##Description
+##Guidance
 
 Heuristic evaluations and/or expert reviews are discount (low cost) usability methods that don’t involve the participation of real end users.  An ‘expert’ usability evaluator can assess a product (or web site) against a known set of ‘heuristics’, or usability guidelines (best practice).  An alternative approach is to conduct a ‘cognitive walkthrough’ against specific use cases or scenarios.  
 
@@ -31,11 +29,3 @@ Dependent on whether there is any in-house expertise available to conduct the re
 ##Timescales
 Depends on the scope of the product - for a simple website application this could be turned around in 1-2 days.
 
-##Examples
-Carer’s allowance?
-
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
-
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
