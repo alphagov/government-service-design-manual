@@ -1,5 +1,5 @@
 #Guerilla testing
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance talks about how Guerilla testing can be used to provide user research that can feed into product and service design.
 
 ##Guidance
 Guerilla user testing is a ‘discount usability’ method (low cost). The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere e.g. cafe, library, train station etc, essentially anywhere where there is significant footfall.
