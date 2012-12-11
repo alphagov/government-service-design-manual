@@ -1,5 +1,5 @@
 #Running retrospectives
-How and why we run retrospectives
+How and why we run retrospectives.
 
 ##Guidance
 A retrospective is a meeting at the end of a <a href="https://github.com/alphagov/government-service-design-manual/blob/master/Working%20in%20an%20agile%20way/structuringsprintcyclesandstandups.md">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. A retrospective can also be run to cover a larger scope, e.g. a full project retrospective.
@@ -34,6 +34,7 @@ Actions should:
 
 Subsequent retrospectives should follow up on actions to make sure they have been done. If they are consistently not getting done, there may be too many.
 
+![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)!
 
 ##Templates
 This is a possible template for a sample retrospective for a team of 8-10, covering a two-week sprint.
@@ -72,10 +73,14 @@ Spend some time looking at the actions we have identified, assigning them to peo
 
 Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion.
 
-
 ##Why we do this
 
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+One of the central principles of Agile is quick feedback loops - we want to demonstrate something to the customer as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
+
+By having a retrospective regularly, we can make small improvements often, ideally before problems start to fester, and we can identify working practices which make us more efficient, productive and happier. 
+
+Allowing structured space to vent problems and find solutions also allows the team to perform better at other times. 
+
 
 ##Further reading
 The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tips">tips for running a retrospective</a>, <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans">plans for different types of retrospectives</a> and <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tools">individual exercises that can be used as part of a retrospective</a>.
