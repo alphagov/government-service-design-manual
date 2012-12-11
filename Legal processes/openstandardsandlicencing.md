@@ -7,7 +7,7 @@ Preference should be given to using open standards with the broadest remit over 
 as prescribed in the [consultation on open standards](http://consultation.cabinetoffice.gov.uk/openstandards/)
 
 As with any software, using open source comes with an obligation to follow the terms of the software licence.
-FOSS differs from [proprietary](http://en.wikipedia.org/wiki/Proprietary_software) in that the source code may be modified,
+FOSS differs from [proprietary software](http://en.wikipedia.org/wiki/Proprietary_software) in that the source code may be modified,
 in which case the licence may demand any derived code be republished with [attribution](http://en.wikipedia.org/wiki/Attribution_(copyright),
 and under the same terms of the original licence, sometimes called [copyleft](http://en.wikipedia.org/wiki/Copyleft).
 These obligations may introduce difficulties when mixing open source software with closed source software, particularly
@@ -45,7 +45,7 @@ individual source code files, particularly those which may be takne in isolation
 
 ##Why we do this
 There are many other advantages to [developing software in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/)
-described in more detail in the [[Technical Architecture/Open source considerations]] section,
+described in more detail in the [Technical Architecture/Open source considerations]() section,
 and prescribed by the tenth GDS design principle: [Make things open: it makes things better](https://www.gov.uk/designprinciples#tenth).
 
 ##Further reading
