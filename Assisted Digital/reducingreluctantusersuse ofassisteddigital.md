@@ -54,4 +54,8 @@ The [Government Digital Strategy] (http://publications.cabinetoffice.gov.uk/digi
 
 ##Further reading
 The [Sheffield Channel Shift project](http://www.pscsf.org.uk/2012/08/channel-shift-helping-people-use-public-services-online/) showed the impact of concerted partnership working in promoting digital take-up.
-There are numerous [public sector case studies] (http://www.psfbuzz.org.uk/2011/09/pscsf-compendium-of-channel-shift-self-service-resources/#.UMc-smNNs0N) that explore channel shift
+
+Some [Cabinet Office Case studies](http://webarchive.nationalarchives.gov.uk/+/http://www.cabinetoffice.gov.uk/media/261356/channel_strategy_cases.pdf) from 2009 show how government services run by Companies House, DVLA and HMRC used customer insight to promote increased digital take-up.
+
+There are numerous [public sector case studies] (http://www.psfbuzz.org.uk/2011/09/pscsf-compendium-of-channel-shift-self-service-resources/#.UMc-smNNs0N) that explore channel shift.
+
