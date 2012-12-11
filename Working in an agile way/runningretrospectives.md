@@ -4,7 +4,7 @@ How and why we run retrospectives.
 ##Guidance
 A retrospective is a meeting at the end of a <a href="https://github.com/alphagov/government-service-design-manual/blob/master/Working%20in%20an%20agile%20way/structuringsprintcyclesandstandups.md">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. A retrospective can also be run to cover a larger scope, e.g. a full project retrospective.
 
-!(X-proo retrospective)[http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg]!
+![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)!
 
 - A retrospective takes the following form:
  - Gather data
