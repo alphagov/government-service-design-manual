@@ -58,9 +58,10 @@ It is still recommended that the individual parts of the service are tested to i
 ###Why measure cost per transaction?
 
 The main reason for measuring cost per transaction is to get an understanding of the relative cost of channels. The Digital Efficiency Report [link] found that the average cost of a digital transaction is:
-20 times lower than the cost of a telephone transaction
-30 times lower than the cost of postal transaction
-50 times lower than a face-to-face transaction
+* 20 times lower than the cost of a telephone transaction
+* 30 times lower than the cost of postal transaction
+* 50 times lower than a face-to-face transaction
+
 Understanding cost per transaction for your service will help you to accurately forecast savings and build a strong business case for channel shift.
 
 The other reason for measuring cost per transaction is to provide transparency around public services. Cost per transaction is part of the Quarterly Data Summary (QDS) efficiency data which government departments routinely report. It is also a Cabinet Office requirement to publish cost per transaction for high volume transactional services. A complete list of [government transactions](transactionalservices.alphagov.co.uk) is published online.
