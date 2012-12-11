@@ -2,7 +2,7 @@
 
 Your section will begin with a short, two-line summary of what you're showing people.
 
-##Guidance/Tool
+##Guidance
 
 Online Omnibus surveys are an effective way of interviewing a representative number of people, in a short period of time, and for a relatively low cost. Omnibus surveys of this type use online panels to gather their sample, and as with regular, offline cost are kept down by collating questions on a variety of subjects, from a number of clients, and these questions asked during the same interview, as well as the demographic information on each respondent. 
 
