@@ -42,7 +42,9 @@ Things to do...
 
 and things to avoid...
 
-- providing unstructured routes tinto your service (such as email addresses) - instead use e-forms feeding straight into your back office systems
+###Perverse incentives
+
+- providing unstructured routes into your service (such as email addresses) - instead use e-forms feeding straight into your back office systems
 - making your less efficient channels too easy (for example by pre-populating hard copy forms - especially if you don’t do this online!)
 - overloading your online transaction channels with information requests (instead define what information you need to deliver this service accurately and securely - and don’t ask for more)
 - unquestioningly maintaining or enhancing service standards for less favoured channels
