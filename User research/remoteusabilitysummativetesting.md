@@ -1,5 +1,5 @@
 #Remote usability/summative testing (quantative)
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance talks about how remote usability testing can be used to provide user research that can feed into product and service design.
 
 ##Guidance
 
