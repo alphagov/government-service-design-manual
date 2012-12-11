@@ -1,4 +1,4 @@
-#Reducing 'reluctant' users use of Assisted Digital
+##Reducing 'reluctant' users use of Assisted Digital
 We want those who are able to use our digital services to do so. For those who can and do use digital services already, we need to improve the quality of the services to make them clearly preferable to the alternatives.
 
 We also need to make people aware of the services that are available. A number of techniques can be used to raise awareness and encourage people to use digital channels. Departments will consider which methods are most appropriate to the context of their service, and the needs of their service users.
@@ -53,4 +53,5 @@ and things to avoid...
 The [Government Digital Strategy] (http://publications.cabinetoffice.gov.uk/digital/strategy/#persuading-those-who-are-online-to-use-government-digital-services) requires departmental digital strategies to include plans to encourage channel shift to digital services. These will be reviewed annually.
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+The [Sheffield Channel Shift project](http://www.pscsf.org.uk/2012/08/channel-shift-helping-people-use-public-services-online/) showed the impact of concerted partnership working in promoting digital take-up.
+There are numerous [public sector case studies] (http://www.psfbuzz.org.uk/2011/09/pscsf-compendium-of-channel-shift-self-service-resources/#.UMc-smNNs0N) that explore channel shift
