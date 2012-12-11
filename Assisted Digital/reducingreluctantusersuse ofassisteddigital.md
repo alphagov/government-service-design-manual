@@ -8,7 +8,7 @@ To encourage people to use digital channels, you need to develop (service by ser
 
 Things to do...
 
-#Promotion
+###Promotion
 - tailor your messages based on customer priorities/benefits, using insight data/segmentation (test out different ‘appeals’) - and keep your marketing plans refreshed as you progress through different segments
 - defining and publicising the benefits to users (better for you/cheaper for taxpayers/green, etc) segment by segment, and ‘myth-busting’ the barriers
 - including memorable urls prominently on all publicity, both hard and soft copy (preferably with deep links tailored to the specific service, not just to a home page).  This should include all branding opportunities -  email footers, out of hours phone messages, and all correspondence.  The urls should take precedence over traditional contact methods like phone numbers
@@ -16,28 +16,28 @@ Things to do...
 - piggy back on other campaigns/initiatives to achieve trial - and get good links onto sites people use for other things (e.g. community sites - via your advocacy/partnership - see below)
 - Use newer channels like social media to signpost people to your service
 
-#Advocacy
+###Advocacy
 - use customer journey mapping to identify any current/potential points of contact - then train frontline staff actively to offer digital service - contact centres, floorwalkers, staff out in the field (demonstrating, forwarding links, floor-walking to divert from queues, assisting with digital transactions rather than taking over, etc) . To do this you need to get good staff buy-in and ‘sell’ benefits to them
 - get opinion formers involved in initiatives from the start - recruit partners who can get involved, e.g. community groups, Family Information Services, schools (headteachers and governing bodies), children’s centres, libraries, customer service centres, etc
 - don’t neglect your offline channels - potential users will probably get reassurance by talking to or dealing with contacts they trust, and in many cases this will mean through face to face conversations
 
-#Incentivising
+###Incentivising
 - incentivising (where possible) is a useful strategy - this could mean offering lower charges where transactions are undertaken digitally (where the service runs on a cost recovery model, and you can pass on a proportion of resulting savings) or a faster turnround on the transaction. Other incentives used have included prize draws, early information on service changes or opportunities where users have signed up electronically, etc.
 - look for ‘extras’ that you can offer through your digital service to add value  to potential users - for example, easy progress tracking for digital transactors, review facilities, SMS reminders, etc
 - use registration to both learn more about users but also to offer enhanced relationships, e.g. personalised updates (not just on your website but via social media sites etc - whatever people are likely to use)
 
-#Reassuring/reinforcing
+###Reassuring/reinforcing
 - understand perceived barriers;  and focus on removing them or myth-busting them
 - put reassurance steps into your process design (for example, acknowledgement of a successfully completed application, a reference number for tracking)
 - provide helplines/webchat to support digital (rather than to shift people back to the more traditional channels)
 
-#Clarifying
+###Clarifying
 - be clear on what information a user needs to complete a transaction, and flag this up for them as early as possible. If they have everything to hand before they start this should help prevent process drop-outs.
 
-#Continuing
+###Continuing
 - once someone transacts digitally assume this is their preferred route in the future - don’t revert to paper for future contacts
 
-#Collaboration
+###Collaboration
 - explore how working together with partners (government or commercial) might help you connect with your target audiences better
 
 and things to avoid...
