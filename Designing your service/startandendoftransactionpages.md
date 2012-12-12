@@ -1,7 +1,7 @@
 #Start and end of transaction pages
-Your section will begin with a short, two-line summary of what you're showing people.
 
-# What counts as a 'transaction'?
+
+## What counts as a 'transaction'?
 
 Transactional services are those that enable exchanges of information, money, rights or goods between two or more individuals. For GOV.UK this is typically between the government and the user of the service.
 
