@@ -1,7 +1,7 @@
-#Colour palettes
+<h1>Colour palettes</h1>
 
-This is the standard GOV.UK colour palette. We recommend you use 
-the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.
+<p>This is the standard GOV.UK colour palette. We recommend you use 
+the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.</p>
 
 
 <h2>Semantic colour names</h2>
