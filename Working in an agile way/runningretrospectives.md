@@ -67,7 +67,7 @@ If anonymity is important to encourage free expression, collect them in and add 
 
 Group the post-its into common themes and discuss each of the main areas in turn. If there are too many, have the team prioritise, for example by voting with stickers. 
 
-![Voting with stickers](../images/redirects.jpeg)
+![Voting with stickers](../../images/redirects.jpeg)
 
 What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
 
