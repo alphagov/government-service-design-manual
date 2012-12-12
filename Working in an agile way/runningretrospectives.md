@@ -50,7 +50,7 @@ Each of the activities is timeboxed and it is up to the facilitator to make sure
 *00:00 to 00:05 (5 mins) Setting the scene*
 
 Explaining the scope, and if necessary, purpose. 
-If the team don't know each other and/or are shy, you could include a <a href="http://retrospectivewiki.org/index.php?title=Check-in_Ideas">check in</a>/.
+If the team don't know each other and/or are shy, you could include a <a href="http://retrospectivewiki.org/index.php?title=Check-in_Ideas" target="_blank">check in</a>.
 
 *00:05 to 00:10 (5 mins) Actions from the previous retrospective*
 
@@ -59,13 +59,17 @@ Make sure they have been completed. If not, find out why not. Do they still need
 *00:10 to 00:20 (10 mins) The Good*
 
 Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. 
-If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding them.
+If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own to the wall, possibly saying a few words about each. Don't allow this to develop into a discussion at this point - at the moment we are just gathering data.
 
-![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
+
 
 *00:20 to 00:30 (10 mins) Discussion*
 
-Group the post-its and discuss the main areas. What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
+Group the post-its into common themes and discuss each of the main areas in turn. If there are too many, have the team prioritise, for example by voting with stickers. 
+
+![Voting with stickers](../images/redirects.jpeg)
+
+What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
 
 *00:30 to 00:45 (15 mins) The Bad*
 
@@ -75,13 +79,15 @@ Give the team around 15 minutes to write post-its for anything that went badly.
 
 *00:45 to 01:05 (20 mins) Discussion*
 
-Again, group the post-its and discuss the main areas. Can we work out why these things went badly? Can we work out what we need to do to improve matters, or prevent specific things happening again? Can we draw out specific actions that someone here can take that will help?
+Again, group the post-its and prioritise if necessary, and discuss the main areas. Can we work out why these things went badly? Can we work out what we need to do to improve matters, or prevent specific things happening again? Can we draw out specific actions that someone here can take that will help?
 
 *01:05 to 01:20 (15 mins) Actions*
 
 Spend some time looking at the actions we have identified, assigning them to people present and setting realistic deadlines for completion.
 
-Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion.
+Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
+
+![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
 
 ##Why we do this
 
@@ -91,8 +97,8 @@ By having a retrospective regularly, we can make small improvements often, ideal
 
 
 ##Further reading
-The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tips">tips for running a retrospective</a>, <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans">plans for different types of retrospectives</a> and <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tools">individual exercises that can be used as part of a retrospective</a>.
+The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tips" target="_blank">tips for running a retrospective</a>, <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans" target="_blank">plans for different types of retrospectives</a> and <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tools" target="_blank">individual exercises that can be used as part of a retrospective</a>.
 
-This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives">Agile Retrospectives: Making Good Teams Great</a>.
+This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives" target="_blank">Agile Retrospectives: Making Good Teams Great</a>.
 
-All photographs by <a href="https://twitter.com/psd">Paul Downey</a>.
+Redirector photo by <a href="">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
