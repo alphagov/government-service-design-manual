@@ -19,7 +19,11 @@ It must be facilitated.
 
 The facilator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. 
 
+![A retrospective plan](_assets/planning_retro.jpg)
+
+
 - The facilitator needs to:
+ - plan the retrospective
  - ensure that everyone gets a chance to contribute
  - keep the retrospective on track
  - make sure actions are created and assigned
@@ -31,8 +35,6 @@ It is helpful to have some working agreements. These can be stated if necessary,
  - Do not speak over each other (except for the facilitator)
  - No laptops - focus should be on the meeting
 
-![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
-
 The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
 - Actions should:
  - be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
@@ -41,6 +43,8 @@ The outcome of a retrospective should be some actions that can be taken to impro
  - should not be assigned to someone who is not present
 
 Subsequent retrospectives should follow up on actions to make sure they have been done. If they are consistently not getting done, there may be too many.
+
+![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
 ##Templates
 This is a possible template for a sample retrospective for a team of 8-10, covering a two-week sprint.
