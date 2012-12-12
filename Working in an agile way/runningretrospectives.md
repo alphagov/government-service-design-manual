@@ -6,7 +6,7 @@ A retrospective is a meeting at the end of a <a href="https://github.com/alphago
 
 A retrospective can also cover a larger scope, e.g. a full project retrospective.
 
-![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)!
+![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
 - A retrospective takes the following form:
  1. Gather data
@@ -31,7 +31,7 @@ It is helpful to have some working agreements. These can be stated if necessary,
  - Do not speak over each other (except for the facilitator)
  - No laptops - focus should be on the meeting
 
-![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)!
+![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
 The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
 - Actions should:
@@ -61,7 +61,7 @@ Make sure they have been completed. If not, find out why not. Do they still need
 Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. 
 If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding them.
 
-![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)!
+![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
 
 *00:20 to 00:30 (10 mins) Discussion*
 
@@ -71,7 +71,7 @@ Group the post-its and discuss the main areas. What should we keep doing? Why di
 
 Give the team around 15 minutes to write post-its for anything that went badly.
 
-![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)!
+![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
 
 *00:45 to 01:05 (20 mins) Discussion*
 
