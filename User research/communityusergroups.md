@@ -1,5 +1,5 @@
 #Community user groups
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance looks at online research communities and how they can be used in order to provide user research to feed into product and service design.
 
 ##Guidance
 
