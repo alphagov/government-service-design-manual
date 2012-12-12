@@ -105,4 +105,4 @@ The Agile Retrospective Wiki has some very useful resources, including <a href="
 
 This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives" target="_blank">Agile Retrospectives: Making Good Teams Great</a>.
 
-Redirector photo by <a href="">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
+Retrospective plan photo by <a href="https://twitter.com/annashipman">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
