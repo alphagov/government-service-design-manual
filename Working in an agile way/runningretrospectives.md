@@ -19,7 +19,7 @@ It must be facilitated.
 
 The facilator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. 
 
-![A retrospective plan](_assets/planning_retro.jpg)
+![A retrospective plan](../_assets/planning_retro.jpg)
 
 
 - The facilitator needs to:
@@ -71,7 +71,7 @@ If anonymity is important to encourage free expression, collect them in and add 
 
 Group the post-its into common themes and discuss each of the main areas in turn. If there are too many, have the team prioritise, for example by voting with stickers. 
 
-![Voting with stickers](_assets/redirects.jpeg)
+![Voting with stickers](../_assets/redirects.jpeg)
 
 What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
 
@@ -105,4 +105,4 @@ The Agile Retrospective Wiki has some very useful resources, including <a href="
 
 This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives" target="_blank">Agile Retrospectives: Making Good Teams Great</a>.
 
-Retrospective plan photo by <a href="https://twitter.com/annashipman">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
+Retrospective plan photo by <a href="https://twitter.com/annashipman" target="_blank">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete" target="_blank">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
