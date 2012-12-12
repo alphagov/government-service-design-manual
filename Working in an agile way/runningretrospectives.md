@@ -2,25 +2,27 @@
 How and why we run retrospectives.
 
 ##Guidance
-A retrospective is a meeting at the end of a <a href="https://github.com/alphagov/government-service-design-manual/blob/master/Working%20in%20an%20agile%20way/structuringsprintcyclesandstandups.md">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. A retrospective can also be run to cover a larger scope, e.g. a full project retrospective.
+A retrospective is a meeting at the end of a <a href="https://github.com/alphagov/government-service-design-manual/blob/master/Working%20in%20an%20agile%20way/structuringsprintcyclesandstandups.md">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. 
+
+A retrospective can also cover a larger scope, e.g. a full project retrospective.
 
 ![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)!
 
 - A retrospective takes the following form:
- - Gather data
- - Generate insights
- - Decide what to do
+ 1. Gather data
+ 2. Generate insights
+ 3. Decide what to do
 
 A retrospective should be a chance for everyone in the team to contribute to improving process/productivity.
 
 It must be facilitated. 
 
-Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. The facilator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest.
+The facilator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. 
 
 - The facilitator needs to:
  - ensure that everyone gets a chance to contribute
  - keep the retrospective on track
- - make sure actions are drawn out
+ - make sure actions are created and assigned
  - manage time so that it does not run over
 
 It is helpful to have some working agreements. These can be stated if necessary, for example in the first retrospectives a team has held. 
@@ -29,7 +31,9 @@ It is helpful to have some working agreements. These can be stated if necessary,
  - Do not speak over each other (except for the facilitator)
  - No laptops - focus should be on the meeting
 
-The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon.
+![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)!
+
+The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
 - Actions should:
  - be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
  - have a date by which they should be completed
@@ -67,7 +71,7 @@ Group the post-its and discuss the main areas. What should we keep doing? Why di
 
 Give the team around 15 minutes to write post-its for anything that went badly.
 
-![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_d.jpg)!
+![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)!
 
 *00:45 to 01:05 (20 mins) Discussion*
 
@@ -83,12 +87,12 @@ Total: 80 mins with 10% shuffle time. It is OK to finish early if people have sa
 
 One of the central principles of Agile is quick feedback loops - we want to demonstrate something to the customer as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
 
-By having a retrospective regularly, we can make small improvements often, ideally before problems start to fester, and we can identify working practices which make us more efficient, productive and happier. 
-
-Allowing structured space to vent problems and find solutions also allows the team to perform better at other times. 
+By having a retrospective regularly, we can make small improvements often, ideally before problems start to fester, and we can identify working practices which make us more efficient, productive or at least happier. Agile development practices are to help us work better, and the retrospective allows us to fine-tune the process and our environment to our needs.
 
 
 ##Further reading
 The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tips">tips for running a retrospective</a>, <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans">plans for different types of retrospectives</a> and <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tools">individual exercises that can be used as part of a retrospective</a>.
+
 This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives">Agile Retrospectives: Making Good Teams Great</a>.
-Link within the Manual, or to other posts, that will help people to work on the tool.
+
+All photographs by <a href="https://twitter.com/psd">Paul Downey</a>.
