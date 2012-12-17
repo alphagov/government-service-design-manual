@@ -3,7 +3,7 @@ We want those who are able to use our digital services to do so. For those who c
 
 We also need to make people aware of the services that are available. A number of techniques can be used to raise awareness and encourage people to use digital channels. Departments will consider which methods are most appropriate to the context of their service, and the needs of their service users.
 
-##Guidance/Tool
+##Guidance
 To encourage people to use digital channels, you need to develop (service by service) an understanding of their needs, what is currently holding them back from digital use (and therefore what appeals you need to make to change their behaviour), and which channels or intermediaries they will trust to give them the right information or reassurance to use digital.  You can then tailor your promotional efforts accordingly.
 
 Things to do...
