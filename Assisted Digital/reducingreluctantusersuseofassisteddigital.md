@@ -1,4 +1,4 @@
-##Reducing 'reluctant' users use of Assisted Digital
+#Reducing 'reluctant' users use of Assisted Digital
 We want those who are able to use our digital services to do so. For those who can and do use digital services already, we need to improve the quality of the services to make them clearly preferable to the alternatives.
 
 We also need to make people aware of the services that are available. A number of techniques can be used to raise awareness and encourage people to use digital channels. Departments will consider which methods are most appropriate to the context of their service, and the needs of their service users.
