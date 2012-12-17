@@ -41,7 +41,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </pre>
 It is sufficient to include this as a single **LICENSE** [sic] file, though you may elect to include the licence in 
-individual source code files, particularly those which may be takne in isolation, such as example code.
+individual source code files, particularly those which may be taken in isolation, such as example code.
 
 ##Why we do this
 There are many other advantages to [developing software in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/)
