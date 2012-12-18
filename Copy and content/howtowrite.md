@@ -8,11 +8,10 @@
 <p>All services should follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide). The way we talk to users is the same on all GOV.UK products. The only difference is the format.</p>
 
 ###Introductions
-<p>Keep your sentences very specific, short, active (keeping the subject and verb close) and in plain English. Users won’t want to read anything at all on a tool or transaction. They will want to click, answer questions and get to the end as quickly as possible. It’s unlikely they will read much at all, so only tell them what you need to.</p>
+<p>Keep your sentences very specific, short, active (keeping the subject and verb close) and in plain English. Users won’t want to read much on a tool or transaction. They will want to click, answer questions and get to the end as quickly as possible. It’s unlikely they will read much at all, so only tell them what you need to.</p>
 [entry/exit pages]
 
-###Titles
-Service titles
+###Service titles
 <p>Don’t use terms like ‘my benefits’ etc. This will mean different things to different users. Some will think it is a list of all the benefits they have had, some will think it is an online account to manage benefits and others won’t know what to think. Don’t use puns or clever terms. Keep the service title clear, short and specific.</p>
 
 ###Page titles
