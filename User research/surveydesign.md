@@ -5,7 +5,7 @@ The abundance of free survey tools makes it cheap and easy for user research tea
  
 In order to increase the effectiveness of the survey it is important to include an introduction that explains the purpose of the survey to potential respondents, and also provide some reasons that will make them want to take part e.g. the results will be published, their feedback will help improve the website etc. As it’s unlikely that it will be possible to include monetary incentives, it’s important the introduction is worded in a manner that increases the likelihood that people will want to take part. It is also recommended that people are informed of how long the survey will take to complete as this will reduce drop out rate (people who start the survey but don’t finish).
  
-Questions
+**Questions**
  
 Screener questions should be placed at the beginning of surveys to ensure that the correct people take the survey e.g. demographic information, reason for visiting etc. Quotas may also be set so that you can control the number of people taking the survey that fall into a specific demographic group or audience type. A typical user survey will be structured in the following manner:
  
@@ -16,11 +16,11 @@ Screener questions should be placed at the beginning of surveys to ensure that t
  
 Please follow this link to an example of a user satisfaction survey. LINK TO GOV.UK SURVEY
  
-Common survey question types
+**Common survey question types**
  
 Surveys are normally composed of the following types of questions:
  
-*  Single response – these type of questions allow the respondent to select just one answer
+**Single response** (these type of questions allow the respondent to select just one answer)
  
 e.g.
  
@@ -30,7 +30,7 @@ Q. What is your gender?
 *  Female
 *  Prefer not to answer
  
-*  Multiple choice questions – respondents can select more than one answer
+**Multiple choice questions** (respondents can select more than one answer)
  
 e.g.
  
@@ -43,11 +43,11 @@ Q. Why did you visit more than one area of the site today (please tick all that 
 *  Just browsing other areas of the site
 *  Other (please specify)
  
-*  Open ended questions – respondents can write a text response
+**Open ended questions** (respondents can write a text response)
  
 Q. You rated 'ease of using the site' as fair or poor. Please tell us why you gave this rating?
  
-Scale questions – respondents are asked if they agree/disagree with a statement
+**Scale questions** (respondents are asked if they agree/disagree with a statement)
  
 Q. The site was easy to use
  
