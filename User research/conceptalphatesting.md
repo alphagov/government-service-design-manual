@@ -1,11 +1,7 @@
 #Concept/Alpha testing
-Your section will begin with a short, two-line summary of what you're showing people.
-
-##Guidance
-
 Concept Development uses qualitative and quantitative research to measure users reactions to new product ideas. 
 
-##When/how it might be used
+##Guidance
 
 Concept development is used when new product idea want to be tested on consumers. This include consumer goods such at electrical goods, but it also includes new digital offerings that users are yet to come into contact with. Qualitative techniques such as focus groups are often used to understand how people feel about new product ideas and concepts, with quantitative methods such as surveys (could be face to face or online) used to measure the extent of a particular point of view or attitude. The aim of concept testing is to make sure that there is a market for a project, and/or ensure that when a product is released, teams know enough about the target audience, and what they want from a product for it to succeed and be used.
 
