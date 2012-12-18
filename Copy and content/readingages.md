@@ -6,7 +6,7 @@
 ##Guidance
 
 <p>Users only really read 20-28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience so you may find users skim words even more.</p>
-[The style guide] and [how we write] give guidance on how to write. This page details why we do it.</p>
+[The style guide](https://www.gov.uk/designprinciples/styleguide) and [how we write](https://github.com/alphagov/government-service-design-manual/blob/master/Copy%20and%20content/howtowrite.md) give guidance on how to write. This page details why we do it.</p>
 
 <p>All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.</p>
 
@@ -57,7 +57,7 @@ These are words you use every day. They are a lot of your ‘plain English’ wo
 
 <p>Government can’t afford to be elitist and use language only those with a very good education can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.</p>
 
-<p>There is more information about GOV.UK’s thoughts on why we do this on the [how to write] page.</p>
+<p>There is more information about GOV.UK’s thoughts on why we do this on the [how to write](https://github.com/alphagov/government-service-design-manual/blob/master/Copy%20and%20content/howtowrite.md) page.</p>
 
 
 
