@@ -18,7 +18,7 @@ Concept testing can be a lengthy and lengthy process and it is not always possib
 Participants are be obtained from the target group for the product or service - this can be from the general population or harder to reach groups. 
 
 ##Timescales
-·         
+     
 Normally 6-10 weeks from briefing to results. Analysis period needs to be sufficient to be thorough.
 
 ##Cost
