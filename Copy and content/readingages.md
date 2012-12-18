@@ -5,15 +5,16 @@
 
 ##Guidance
 
-<p>Users only really read 20-28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience.</p>
-[The style guide] and [how we write] gives guidance on how to write. This page details why we do it.</p>
+<p>Users only really read 20-28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience so you may find users skim words even more.</p>
+[The style guide] and [how we write] give guidance on how to write. This page details why we do it.</p>
 
 <p>All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.</p>
 
 ###Reading age   		
 <p>You don’t read one word at a time. You bounce around. You anticipate words and fill them in.
-By the time you are 9 years old, your brain can drop up to 30% of the text and still understand. Your vocabulary will grow but this reading skill stays with you as an adult.</p>
-
+<p>By the time you are 9 years old, your brain can drop up to 30% of the text and still understand. Your vocabulary will grow but this reading skill stays with you as an adult.</p>
+<p> You should also be confident in sounding out words and blending sounds. You may not know the word, but you have the skills to be able to learn it.</p>
+<p>We talk about the reading age being around 9 years old - this is why. </p>
 ###Lowercase 
 <p>When you learn to read, you start with a mix of upper and lower case but you don’t start understanding uppercase until you are around 6 years old. </p>
 
@@ -29,14 +30,14 @@ By the time you are 9 years old, your brain can drop up to 30% of the text and s
 
 ###Plain English
 <p>By the time you are 9, you are building up your ‘common words’. Your primary set is around 5,000 words in your vocabulary; your secondary set is around 10,000 words.</p>
-These are words you use every day. They are a lot of your ‘plain English’ words. Which is why we should be obsessed with them. These are words so easy to comprehend, you learn to read them quickly and then you stop reading and start</p> recognising. 
+These are words you use every day. They are a lot of your ‘plain English’ words. Which is why we should be obsessed with them. These are words so easy to comprehend, you learn to read them quickly and then you stop reading and start recognising. </p>
 
 ###Context
 <p>We explain all unusual terms on the site. This is because you can understand 6-letter words as easily 2 letter words - if they are in context.</p>
 			
 <p>Sometimes, you can read a short word faster than a single letter - if the context is correct.</p>
 			
-<p>Not only are we giving users full information - which is obviously what we are meant to be doing - we are speeding up their reading time. By giving full context, using common words, we are allowing them to understand in the fastest possible way. </p>
+<p>Not only are we giving users full information - which is obviously what we are meant to be doing - we are speeding up their reading time. By giving full context and using common words, we are allowing them to understand in the fastest possible way. </p>
 
 <p>In tools and transactions you need to give people context. By giving them information they are expecting, you help them get through it faster. </p>
 
@@ -52,9 +53,9 @@ These are words you use every day. They are a lot of your ‘plain English’ wo
 
 ##Why we do this
 
-<p>Our audience is potentially anyone living in the UK. We need to be able to communicate in a way that most users</p> understand.
+<p>Our audience is potentially anyone living in the UK. We need to be able to communicate in a way that most users understand.</p>
 
-<p>Government can’t afford to be elitist and use language only those with a very good education can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading</p> behaviour.
+<p>Government can’t afford to be elitist and use language only those with a very good education can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.</p>
 
 <p>There is more information about GOV.UK’s thoughts on why we do this on the [how to write] page.</p>
 
