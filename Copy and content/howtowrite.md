@@ -46,9 +46,12 @@
 <p>If we make the information hard to read or the design so distracting or difficult that the user doesn’t understand what we are trying to say - they could end up doing it incorrectly or not doing it at all. This could lead to a fine. Or in very extreme cases, jail.</p>
 
 <p>Good design and words isn’t a desire or an ‘aim’ - it is our responsibility.</p>
-Further reading
+
+##Further reading
 [How users read](http://gsdm.herokuapp.com/handbook/29/)
+
 [Style guide](http://gsdm.herokuapp.com/handbook/32/)
+
 [Microcopy](http://gsdm.herokuapp.com/handbook/34/)
 
 
