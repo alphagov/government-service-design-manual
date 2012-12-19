@@ -1,5 +1,5 @@
 #Accessibility testing
-Your section will begin with a short, two-line summary of what you're showing people.
+This guidance looks at how Accessibility Testing should be conducted to ensure that new products/services are built with all users in mind.
 
 ##Guidance
 
