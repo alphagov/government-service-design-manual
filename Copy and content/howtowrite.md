@@ -2,14 +2,13 @@
 
 <p>This section gives details on naming your service, tone, style, questions and why we write in this way.</p>
 
-<p>You may want to read: [how users read](link to other bit in github), this will tell you more about user reading behaviour - which will help when designing the content for your service.</p>
+<p>You may want to read: [how users read](http://gsdm.herokuapp.com/handbook/29/), this will tell you more about user reading behaviour - which will help when designing the content for your service.</p>
 
 ##Guidance
 <p>All services should follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide). The way we talk to users is the same on all GOV.UK products. The only difference is the format.</p>
 
 ###Introductions
 <p>Keep your sentences very specific, short, active (keeping the subject and verb close) and in plain English. Users won’t want to read much on a tool or transaction. They will want to click, answer questions and get to the end as quickly as possible. It’s unlikely they will read much at all, so only tell them what you need to.</p>
-[entry/exit pages]
 
 ###Service titles
 <p>Don’t use terms like ‘my benefits’ etc. This will mean different things to different users. Some will think it is a list of all the benefits they have had, some will think it is an online account to manage benefits and others won’t know what to think. Don’t use puns or clever terms. Keep the service title clear, short and specific.</p>
@@ -19,10 +18,6 @@
 
 ###Questions
 <p>Make sure you need any question you include in your service. Don’t include questions that you think you might need later or for another part of your organisation. Keep the transaction as specific as possible to the task the user is trying to complete.</p>
-
-> [labels]
-
-
 
 ##Tone and style
 
@@ -39,13 +34,6 @@
 
 <p>In tools and transactions, it’s unlikely you will have a lot of information to break up but if you do, use subheads. </p>
 
-
->link [How users read]
-
-
-##Code/Templates
-If you're giving people code, copy to cuta and paste then here is where it will go.</p>
-
 ##Why we do this
 <p>GOV.UK is to open up government information and services to anyone who is interested or needs to interact with government.</p>
 
@@ -59,10 +47,9 @@ If you're giving people code, copy to cuta and paste then here is where it will 
 
 <p>Good design and words isn’t a desire or an ‘aim’ - it is our responsibility.</p>
 Further reading
-> [How users read]
-> [Entry/exit pages]
-> [Style guide]
-> [Microcopy]
+[How users read](http://gsdm.herokuapp.com/handbook/29/)
+[Style guide](http://gsdm.herokuapp.com/handbook/32/)
+[Microcopy](http://gsdm.herokuapp.com/handbook/34/)
 
 
 
