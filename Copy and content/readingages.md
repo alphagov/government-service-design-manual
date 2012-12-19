@@ -1,4 +1,4 @@
-##How users read
+#How users read
 
 
 <p>The style guide is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.</p>
