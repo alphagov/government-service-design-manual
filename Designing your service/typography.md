@@ -1,7 +1,7 @@
 #Typography
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
-##Guidance/Tool
+##Guidance
 We use the typeface New Transport, cut especially for Government use. This should be included via CSS. We only serve this to modern browsers, via two files: a WOFF file for the majority of browsers and an EOT file for Internet Explorer (although we only serve this to IE8). The font is hinted to display well on all browsers.
 
 We currently only use one weight of New Transport: Light. We are in the process of adding a Bold weight too, but in the meantime differentiation between copy styles should be accomplished using different type sizes. Italics should not be used. The number of different type sizes on a page should be kept to the minimum, and only one typeface/font should be used on each website.
