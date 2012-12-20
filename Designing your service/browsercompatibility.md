@@ -2,7 +2,7 @@
 
 Services must be accessible wherever people are and whatever technology they’re using by default; not as an optional extra. The user experience can vary significantly from operating system to operating system, browser version to browser version and desktop to mobile. However, don’t try to build services for every possible product but use data to inform and set your priorities for development.
 
-##Guidance/Tool
+##Guidance
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement] (http://en.wikipedia.org/wiki/Progressive_enhancement 'Progressive enhancement - Wikipedia'). This recognises that different bits of technology have different capabilities. Whilst everybody gets access to core functionality those using more sophisticated technology get an enhanced experience.
 
 Progressive enhancement is also important in delivering a consistent experience to people using mobile devices and who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK] (http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 | Statcounter Global Stats') and around 20% of traffic to GOV.UK this mode of access is no longer an optional ‘extra’. Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, we should now design with one website in mind. This should be done using a [responsive design] (http://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
@@ -59,10 +59,7 @@ This will change over time and so it is important to set thresholds for abandoni
 
 Decisions about compatibility can not be something you specify at the start of the project and then forget about. Transformed digital services need to reflect the broader internet context of the country on an ongoing basis.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
-
-##Why we do this
+##Further reading
 James Weiner writes about the [decisions made about browser support] (http://digital.cabinetoffice.gov.uk/2012/01/25/support-for-browsers/ 'Support for browsers - James Weiner, GDS') for the Beta of GOV.UK (January 2012)
 
 Ben Welby discusses [the operating systems, browsers and devices supported] (http://digital.cabinetoffice.gov.uk/2012/10/11/what-devices-are-we-supporting-at-launch-and-why/ 'What devices are we supporting at launch, and why? - Ben Welby, GDS') for the launch of GOV.UK (October 2012).
@@ -75,4 +72,3 @@ The Guardian introduce their [use of responsive design] (http://www.guardian.co.
 
 Helpful summary of [progressive enhancement] (http://www.alistapart.com/articles/understandingprogressiveenhancement/ 'Understanding progressive enhancement') (October 2008).
 
-##Further reading
