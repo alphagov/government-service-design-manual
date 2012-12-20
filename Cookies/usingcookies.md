@@ -2,7 +2,7 @@
 This short guide tells you what to keep in mind when including cookies into your services.
 
 ##Guidance
-Minimise the use of cookies throughout services, and store as little information as you require to deliver a good service to users.
+Minimise the use of cookies throughout services. Store as little information as you require for as short a time as necessary to deliver a good service to users.
 
 If your service requires new cookies to be set then you need to ensure that they can be explained simply and clearly, in a way that the majority of users can understand.
 

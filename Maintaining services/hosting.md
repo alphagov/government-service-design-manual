@@ -3,7 +3,7 @@ The software running your service will need servers to run on. This
 guide aims to help with deciding how you host your applications and the
 things to think about if selecting a vendor.
 
-## Guidance/Tool
+## Guidance
 
 The recommended approach is to involve a small cross-functional group of
 people to quickly access different options, shortlist suppliers,

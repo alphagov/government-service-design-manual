@@ -1,9 +1,7 @@
 #Ethnographic research
 This guidance looks at Ethnographic research and how it can be used in order to provide user research to feed into product and service design. 
 
-##Guidance/Tool
-
-##Description
+##Guidance
  
 Ethnographic research usually involves observing target users in their natural, real-world setting,  rather than in the artificial environment of a lab or focus group.  The aim is to gather insight into how people live; what they do; how they use things; or what they need in their everyday or professional lives.  Observations can be made at home, at work, or in leisure environments - people can be studied with their family, on their own, with work colleagues, or as part of a group of friends.  Often one participant may be recruited, but several more may be studied as part of that person’s family or friends.  
 
@@ -36,9 +34,3 @@ Ethnographic research can be expensive and time consuming, but this depends on t
 ##GDS example
  
 Ethnographic techniques were used in the recent Digital Landscape research in order to understand how why some people choose not to conduct government transactions online
-
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
-
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.

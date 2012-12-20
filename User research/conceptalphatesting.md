@@ -1,14 +1,26 @@
 #Concept/Alpha testing
-Your section will begin with a short, two-line summary of what you're showing people.
+Concept Development uses qualitative and quantitative research to measure users reactions to new product ideas. 
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+##Guidance
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+Concept development is used when new product idea want to be tested on consumers. This include consumer goods such at electrical goods, but it also includes new digital offerings that users are yet to come into contact with. Qualitative techniques such as focus groups are often used to understand how people feel about new product ideas and concepts, with quantitative methods such as surveys (could be face to face or online) used to measure the extent of a particular point of view or attitude. The aim of concept testing is to make sure that there is a market for a project, and/or ensure that when a product is released, teams know enough about the target audience, and what they want from a product for it to succeed and be used.
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+##Disadvantages
 
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+Concept testing can be a lengthy and lengthy process and it is not always possible, for all new products/service (or at least not to the same degree for all products). It could be argued that all new products should go through a concept testing stage to ensure the product is developed in a manner that fits user need, however, Concept testing can be both costly and lengthy, and budget and time restraints means that this is not always possible.
+
+##Participants
+
+Participants are be obtained from the target group for the product or service - this can be from the general population or harder to reach groups. 
+
+##Timescales
+     
+Normally 6-10 weeks from briefing to results. Analysis period needs to be sufficient to be thorough.
+
+##Cost
+
+The cost depends on the methodologies use. Please see guidance on Focus Groups and Surveys.
+
+##GDS Example 
+
+Identity Assurance concept development research
