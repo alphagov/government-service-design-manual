@@ -1,7 +1,7 @@
 #Building prototypes
 You can't really understand how to build a service until you try it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.
 
-##Guidance/Tool
+##Guidance
 This is a vital part of a process often known as "product discovery": understanding your users and their needs, developing a sense of how you might serve those needs, and estimating the effort involved in building and running a service to do so.
 
 > We built alpha.gov.uk as a prototype of what would later become the single domain www.gov.uk. It was built quickly without much concern to scalability, resilience, or any of the other considerations of a "real" product. That allowed us to get feedback early and also understand some of the trickier concepts we would have to grapple with such as the fuzzy lines between different audiences, the operational processes that would be required, and so on.
@@ -12,11 +12,4 @@ Prototyping can start on paper with sketches. Hand-drawn sketches of what a serv
 
 Running code also forces you to think about your integrations with other services and how they might work–do you need to send email? integrate with an existing database? and so on–a prototype will rarely actually include these integrations but having a clear picture of them is vital if you're going to understand the real effort involved in building and operating the service.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
-
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
-
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
