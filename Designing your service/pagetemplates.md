@@ -2,17 +2,15 @@
 
 All pages on GOV.UK need to feel like they're part of the same service.
 In particular, the header and footer should be consistent across every page on the website.
-This guide explains how to do implement GOV.UK page templates to achieve this.
+This guide explains how to use GOV.UK template code.
 
 ## The template code
 
-The most up-to-date version of the template code can be found in our ['Static' repository on GitHub](https://github.com/alphagov/static/tree/master/app/views/root). The [_base.html.erb](https://github.com/alphagov/static/blob/master/app/views/root/_base.html.erb) file contains the default template code. GOV.UK page templates are written in [ERB format](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html), but can be easily converted back to plain HTML.
-
-Ruby users can also make use of our [Prototyping app](https://github.com/alphagov/prototyping) to quickly mock up static prototypes using GOV.UK templates and assets.
+The most up-to-date version of the template code can be found in our ['Static' repository on GitHub](https://github.com/alphagov/static/tree/master/app/views/root). The [_base.html.erb](https://github.com/alphagov/static/blob/master/app/views/root/_base.html.erb) file contains the default template code. Ruby users can also make use of our [Prototyping app](https://github.com/alphagov/prototyping) to quickly mock up static prototypes using GOV.UK templates and assets.
 
 ## Template assets
 
-The template code contains direct links to CSS and JavaScript assets hosted on the GOV.UK domain. We recomend that you leave these links as is whilst you develop your service (as opposed to linking to your own copies of these files). That way, you'll always be using the latest version of the assets and when they change you can identify and resolve any conflicts immediately.
+The template code contains direct links to CSS and JavaScript assets hosted on the GOV.UK domain. We recommend that you leave these links as is whilst you develop your service (as opposed to linking to your own copies of these files). That way, you'll always be using the latest version of the assets and when they change you can identify and resolve any conflicts immediately.
 
 Once the service is ready for production we'll need to decide whether you should continue to link to the assets in this way or whether you should now use your own copies of them. Please contact the GDS team to discuss this at the appropriate time.
 

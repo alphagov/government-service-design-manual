@@ -1,3 +1,4 @@
+#Feedback and code review
 All developers should be encouraged to review each others' code and to collaborate to make it better. That helps to prevent silos of knowledge and makes for more robust, durable code. Often another developer will find ways to break a piece of code with bad input or to optimise it, and that will help improve the design and the automated tests.
 
 These conversations should take place in a forum that is open to everyone on the team and in a way that connects it back to the specific code under discussion.

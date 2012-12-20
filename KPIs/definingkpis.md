@@ -39,11 +39,11 @@ The percentage of people who answered either “very satisfied” or “satisfie
 Q:  Overall, how satisfied are you with your visit to the online [e.g. car tax] service today?
 
 A: 
-* Very satisfied
-* Satisfied
-* Neither satisfied or dissatisfied
-* Dissatisfied
-* Very dissatisfied
+ - Very satisfied
+ - Satisfied
+ - Neither satisfied or dissatisfied
+ - Dissatisfied
+ - Very dissatisfied
 
 ###What happens if a user exits the transaction mid way through?
 A satisfaction survey should be targeted at 1 in N users in order to achieve a sufficiently large user base - a minimum of 400 - and should be made available to users either on completion or failure to complete a transaction (as defined by completion rate KPI).
@@ -53,14 +53,42 @@ Some services may have components which are completed or fulfilled offline (e.g.
 
 It is still recommended that the individual parts of the service are tested to identify where specific problems are.
 
+##Digital take-up
+
+###Why measure digital take-up?
+
+Digital take-up is the fundamental measure of how digital a service is. It is a long term strategic measure of how well digital by default service transformation is working. You will monitor this on a monthly basis to track that it is on course with the desired performance trajectory. Further guidance on [setting performance goals over time](/handbook/138/) is available.
+
+###Definition
+
+The number of digital transactions in a calendar month divided by the total number of transactions in the same month, expressed as a percentage.
+
+A digital transaction is one where the primary interaction between the user and the service has been through a digital user interface. There may be transactions completed partly offline, including back-end processing, but these should be recorded as digital transactions so that the overall digital take-up of the service can be measured against use of other channels (e.g. telephone, face to face, post).
+
+###What level of digital take-up should I aim for?
+
+The Digital Landscape research found that 82% of adults in the UK are online. It therefore seems sensible to aim for something in that region. However, about [a third](http://publications.cabinetoffice.gov.uk/digital/research/#fig-2) of those online have never accessed government information or services online so this will involve a significant channel shift for most services. 
+
+###What about services for users who are more or less than 82% online?
+
+The extent to which people are online varies by age, gender and socio-economic status. The digital landscape research has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) that should act as a guide. For example, a service aimed at 16-24 year olds should aim for 97% digital take-up whereas for a service aimed at 55-64 year olds, 70% would be a more sensible figure. Use the digital landscape research to up or down weight your target level of digital take-up appropriately.
+
+###When should this level of take-up be achieved by?
+
+Digital take-up is a long term strategic measure and you should be looking to achieve the target level within five years of launch. More information on [setting performance goals over time](/handbook/138/) is available in the manual.
+
+###What about assisted digital? 
+
+Some users will never use the digital service but will still have to have access to the same level of service as those using the digital service. This is called _assisted digital_ and departments will need to determine the appropriate mix of channels to support these users. For more info on assisted digital refer to [this section]() of the manual.
+
 ##Cost per transaction
 
 ###Why measure cost per transaction?
 
 The main reason for measuring cost per transaction is to get an understanding of the relative cost of channels. The Digital Efficiency Report [link] found that the average cost of a digital transaction is:
-* 20 times lower than the cost of a telephone transaction
-* 30 times lower than the cost of postal transaction
-* 50 times lower than a face-to-face transaction
+ * 20 times lower than the cost of a telephone transaction
+ * 30 times lower than the cost of postal transaction
+ * 50 times lower than a face-to-face transaction
 
 Understanding cost per transaction for your service will help you to accurately forecast savings and build a strong business case for channel shift.
 
