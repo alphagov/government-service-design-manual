@@ -1,14 +1,18 @@
 #Accessibility skills
-Your section will begin with a short, two-line summary of what you're showing people.
+Accessibility is everyone’s responsibility. Provide training and resources to 
+help your team build accessibility into everything they do. That includes 
+planning, designing, building and managing.
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+Include at least one person with strong accessibility knowledge in your team. 
+Make them Accessibility Lead, and give them overall responsibility for educating and supporting your team’s accessibility goals.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+##Guidance
+The key skills required by an accessibility-focussed developer are:
+* Strong analytical skills;
+* A methodical approach to testing;
+* Empathy for users with different, often contradictory needs;
+* An in-depth knowledge of modern accessible development best-practices;
+* The ability to communicate at all levels.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
-
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+Accessible, usable products are the heart of everything we do at the GDS. Your service needs to be just as thoughtful to the needs of all possible users so that no one is excluded on the basis of disability.

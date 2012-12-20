@@ -1,14 +1,13 @@
 #Accessibility statements and policies
-Your section will begin with a short, two-line summary of what you're showing people.
+We’re working hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website does not include a separate accessibility statement, however.
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+The GDS team is not comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+##Guidance
+Your service should be usable by recent versions of Jaws, NVDA, VoiceOver, Window Eyes and Supernova screen readers, ZoomText, Magic, Supernova and basic operating system screen magnifiers, as well as speech recognition software including Dragon Naturally Speaking, and native operating system speech packages.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+The services we provide are for the benefit of all citizens of the United Kingdom. As such, no user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents).
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+If you want to read more about the accessibility testing we've carried out while building GOV.UK, [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/) will tell you more.
