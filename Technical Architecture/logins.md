@@ -1,4 +1,5 @@
-#Log-ins
+#User Accounts and Log-ins
+
 Adding log-ins/authentication to a service is a larger undertaking than it looks.
 
 ##Guidance
