@@ -23,7 +23,9 @@ Coding in the open lowers the barriers to collaboration with others inside and o
 
 Freedom at the point of use means open source software may be downloaded and assessed by developers without payment, prior agreement, a need to sign non-disclosure documentation, needing to waiver rights, or enter into aporia agreements on behalf of themselves or their organisation.
 
-Building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/), using closed source software increases the risks of [supplier lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) due to the inadvertent use of propriety features. Access to the source code enables support to be sourced from a number of independent suppliers, enabling better prioritisation of bug-fixes, allowing systems to be maintained outside of vendor product life-cycles, and mitigating the risk of [planned obsolescence](http://en.wikipedia.org/wiki/Planned_obsolescence) or [abandonment](http://en.wikipedia.org/wiki/Abandonware).
+Using closed source software increases the risk of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) to a single supplier.
+This is a risk, even when building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) due to the possibility of inadvertently using propriety features.
+Access to the source code enables support to be sourced from a number of independent suppliers, enabling better prioritisation of bug-fixes, allowing systems to be maintained outside of vendor product life-cycles, and mitigating the risk of [planned obsolescence](http://en.wikipedia.org/wiki/Planned_obsolescence) or [abandonment](http://en.wikipedia.org/wiki/Abandonware).
 
 Keys, passwords and other secrets need to be stored safely and securely away from source code following [Kerckhoffs's principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle).
 Whilst it is possible to publish a project initially built in private, coding in the open means confronting this separation of concerns early during development.
