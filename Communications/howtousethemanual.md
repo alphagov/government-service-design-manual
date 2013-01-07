@@ -17,7 +17,7 @@ The [projects page](http://gsdm.herokuapp.com/projects/) shows you a list of wha
 
 When you click on a project, you can see more detail about what the team is working on. [The page being filled in by the Digital by Default team](http://gsdm.herokuapp.com/projects/1/) is a good example of how to complete these.
 
-The page shows you who is currently working on the tool, and you can read more about using this feature [below]().
+The page shows you who is currently working on the tool, and you can read more about using this feature [below](http://gsdm.herokuapp.com/handbook/194/#c6).
 
 ##The guidance
 The [guides and toolkits](http://gsdm.herokuapp.com/handbook/) are a pool of knowledge about how to build digital by default services. It contains code and copy for people to reuse, as well as advice about how to build features and the reasons for it.
