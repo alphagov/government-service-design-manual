@@ -2,21 +2,18 @@
 
 User stories are an essential part of the agile toolkit, a way of organising work into managable chunks, which may be then discussed and prioritised independently of each other.
 
+User stories **only work in the context of an agile team** with embedded customer representatives.
+
+A user story is represented by a story card with a title and a few lines of text:
+
 ![A user story index card](http://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
 
-A user story is represented by a story card with a few lines of text such as:
-
+ARTICLE CONTACT INFO<br />
 As a **journalist** (actor)<br/>
 I want to **see contact information for media enquiries relating to the news article I am reading** (narrative)<br/>
 So that **I can get directly in touch with the press office about it** (goal)
 
-Some key points to note:
-
-* story cards follow a standard **structure** – title, actor, narrative and goal
-* story cards **do not capture every detail** they are a promise of further discussion at the appropriate time
-* user stories **only work in the context of an agile team** with embedded customer/user representatives
-
-A user story is a simple, collaborative tool which emphasises face-to-face communication and a focus on user needs. 
+Story cards follow a standard **structure** – title, actor, narrative and goal. They **do not capture every detail** they are a promise of further discussion at the appropriate time.
 
 ## Working outside-in using goals
 
@@ -42,9 +39,18 @@ Using user stories in this way allows us to avoid 'analysis paralysis', the pain
 
 User stories are dependent on regular face-to-face communication between developers and customer representatives. Your product/service owner and other customer representatives need to be available to developers every day, and have sufficient time to think through and answer questions. Don't underestimate how time-consuming this work can be!
 
+## Where stories come from
+
+* story writing workshop - more commonly at the start of a project, the development team and stakeholders will get together to write stories
+* user interviews with real users, ideally set up a user panel to which the dev team have ongoing access
+* user proxies embedded within your team (service manager, product owner)
+* observation - watch real users using your service
+
+See Chapter 4 of User Stories Applied [4].
+
 ## References
 
-1. Mastering the Requirements Process, Suzanne Robertson & James Robertson
-2. http://www.jconne.com/agile1whatisit/
-3. http://agilemanifesto.org/principles.html
-4. User Stories Applied, Mike Cohn
+1. Mastering the Requirements Process, 3rd Ed, Suzanne Robertson & James Robertson, 2012
+2. Agile Alliance, "Agile - What is it?", [http://www.jconne.com/agile1whatisit/](http://www.jconne.com/agile1whatisit/), accessed 7/1/2013
+3. Twelve Principles of the Agile Manifesto - [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
+4. User Stories Applied, Mike Cohn, 2004. Free chapter on "Writing User Stories" available at [http://www.mountaingoatsoftware.com/books/user-stories-applied](http://www.mountaingoatsoftware.com/books/user-stories-applied)
