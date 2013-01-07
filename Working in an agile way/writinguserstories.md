@@ -53,4 +53,4 @@ See Chapter 4 of User Stories Applied [4].
 1. Mastering the Requirements Process, 3rd Ed, Suzanne Robertson & James Robertson, 2012
 2. Agile Alliance, "Agile - What is it?", [http://www.jconne.com/agile1whatisit/](http://www.jconne.com/agile1whatisit/), accessed 7/1/2013
 3. Twelve Principles of the Agile Manifesto - [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
-4. User Stories Applied, Mike Cohn, 2004. Free chapter on "Writing User Stories" available at [http://www.mountaingoatsoftware.com/books/user-stories-applied](http://www.mountaingoatsoftware.com/books/user-stories-applied)
+4. User Stories Applied, Mike Cohn, 2004. Free chapter on "[Writing User Stories](http://www.mountaingoatsoftware.com/system/asset/file/259/User-Stories-Applied-Mike-Cohn.pdf)" available at [http://www.mountaingoatsoftware.com/books/user-stories-applied](http://www.mountaingoatsoftware.com/books/user-stories-applied)
