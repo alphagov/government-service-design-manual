@@ -1,14 +1,15 @@
-#Discussion guides
-Your section will begin with a short, two-line summary of what you're showing people.
+#Discussion Guides
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+Discussion guides are used in order to ensure that focus groups and 1:1 interviews cover the required topics, and information is obtained from the sessions that will address the needs of the research. 
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+##Where/how you might use it
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+In preparation for a focus group/1:1 interviews it is helpful to generate a list of questions that address the information that you're interested in obtaining from the sessions. These questions should be open ended, and structured in a manner that will form the basis for a draft discussion guide, and help illicit information from respondents in a sensible flow. Writing a discussion guide should be an iterative process and once the initial draft has been written it is helpful to get input from other people on the project team. 
 
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+As suggestion in the name, discussion guides should be used as a guide to the discussion, and in comparison with a structured questionnaire, questions and areas for coverage should not read out verbatim. This enables the discussion to be led by respondents’ own experience.
+
+Typically each section of the guide would include time guidance to ensure all areas can be covered and it should also indicate when stimulus is being used, and specifics participants’ tasks.
+
+##Example
+
+Link to example from one of our projects
