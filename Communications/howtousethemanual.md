@@ -41,8 +41,13 @@ Finally, [the community section](http://gsdm.herokuapp.com/community/) will help
 
 This is the least well-defined section of the alpha, but it’s clear from early testing that users do want the means of asking questions of teams working on these problems throughout government. We need feedback about what will be most useful for your team(s) here.
 
-##How to register/log in (Richard to complete)
-To start using the Manual you’ll need to register an account. To do this...
+##How to register/log in
+To start using the Manual you’ll need to register an account. To do this follow these steps:
+
+1. If you do not already have one, create an account on [github.com](http://github.com)
+2. Return to the Manual, and click the 'Sign in' link on the top right of the page
+3. Sign in using your Github account details
+4. Email the digital default team (dbd-team@digital.cabinet-office.gov.uk) and we will add you to the appropriate project
 
 ##Filling in project reports (Richard to complete)
 This is a guide to filling in a report...
