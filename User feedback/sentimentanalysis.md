@@ -1,14 +1,15 @@
 #Sentiment analysis
-Your section will begin with a short, two-line summary of what you're showing people.
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+Sentiment analysis is a method used to analyse high volumes of verbatim comments from users in order to help easily understand the attitude and tone of users’ comment.
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+##Guidance
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+The method is very simple and uses tailored software to analyse user comments and structure them in a manner that can be used to understand ‘sentiment’ towards a products or service. This enables positive and negative comments to be grouped so that actions can be assigned to resolves problems and issues raised by users. 
 
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+##Weaknesses/When not to be used
+
+Some of the free tools available can group comments very broadly, and not enable the level of granularity that enables the analysis to be useful and actionable. Furthermore, comments can sometimes be analysed incorrectly. This is especially the case when slang is used, and phrases are not meant literally, and negative words/phrases are meant positively.
+
+##Sample 
+
+Feedback can be gathered from any customer feedback point e.g. email, website, survey.
