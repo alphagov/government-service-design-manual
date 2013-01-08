@@ -1,6 +1,6 @@
 # Writing user stories
 
-User stories are an essential part of the agile toolkit, a way of organising work into managable chunks, which may be then discussed and prioritised independently of each other.
+User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other.
 
 User stories **only work in the context of an agile team** with embedded customer representatives.
 
@@ -19,9 +19,9 @@ Story cards follow a standard **structure** – title, actor, narrative and goal
 
 Building useful software systems is hard. How can we make sure we're solving the right problem? Developers love solving problems and playing around with technology, so it can be tempting to dive in to solutions before really understanding the problem. 
 
-Agile methodologies emphasise an outside-in approach .. what outcome is your service user trying to achieve? If we dive into the solution without a good  understanding our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
+Agile methodologies emphasise an outside-in approach .. what outcome is your service user trying to achieve? If we dive into the solution without a good understanding our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
 
-As a service owner writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achive? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? Suzanne and James Robertson have excellent advice on this[1]. 
+As a service owner writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? Suzanne and James Robertson have excellent advice on this[1]. 
 
 Being specific about the **ACTOR** can help you to break down interactions into logical chunks. Sometimes the actor will be a customer of your service. Sometimes the actor will be an administrator, technician or manager within your organisation. Hopefully you already have a good understanding of your customers from preliminary project work or existing research. If not, make sure you take the time to develop that understanding.
 
@@ -47,6 +47,10 @@ User stories are dependent on regular face-to-face communication between develop
 * observation - watch real users using your service
 
 See Chapter 4 of User Stories Applied [4].
+
+## Story size
+
+
 
 ## References
 
