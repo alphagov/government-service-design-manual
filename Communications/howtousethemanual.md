@@ -49,8 +49,10 @@ To start using the Manual you’ll need to register an account. To do this follo
 3. Sign in using your Github account details
 4. Email the digital default team (dbd-team@digital.cabinet-office.gov.uk) and we will add you to the appropriate project
 
-##Filling in project reports (Richard to complete)
-This is a guide to filling in a report...
+##Filling in project reports
+Project reports are the place that teams record and share their progress against the standard for each stage of the project.
+
+To add a report, click the 'Add report' link, then fill in the details of what the team has done. For example, under 'Testing the service' you would add the findings from user research and other feedback.
 
 ##Sending feedback (Katie and Andrew to complete)
 Here’s how we want you to send your feedback to us...
