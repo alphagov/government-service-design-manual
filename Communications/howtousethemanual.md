@@ -54,5 +54,46 @@ Project reports are the place that teams record and share their progress against
 
 To add a report, click the 'Add report' link, then fill in the details of what the team has done. For example, under 'Testing the service' you would add the findings from user research and other feedback.
 
-##Sending feedback (Katie and Andrew to complete)
-Here’s how we want you to send your feedback to us...
+##Sending feedback
+
+We would love to get feedback on your experiences of using the Government Service Manual.
+
+Please send us your thoughts by the 31st of January: (dbd-team@digital.cabinet-office.gov.uk)
+
+We will use your feedback to help build the beta version of this tool. 
+
+Some guiding questions...
+
+**The Standard**
+
+* Is 'the Standard' page enough to tell you about Digital by Default?
+* What would you like to see in this area?
+* We are considering providing a lens view so that information relevant to the role of person logged in is most prominently displayed. Would this be useful to you?
+* This section could link through to relevant pieces of guidance. Is this something you would like to see? Or is there anything else you would require here?
+
+
+**Projects**
+
+* Is this straightforward to fill in?
+* Do the headings make sense?
+* Is the purpose of the project overview and project journal clear or do they need more explanation?
+* How would you like to see progress displayed?
+* What would you like GDS to do in terms of monitoring and feeding back?
+
+
+**Guidance**
+
+* Is the guidance easy to navigate?
+* Would you like to see the guidance structured in any other way?
+* Is there any other guidance you want to see in the guidance?
+* Would you like access to additional help from these pages?
+
+
+**Community and Help**
+
+* What would you like to see in this section?
+
+
+
+
+
