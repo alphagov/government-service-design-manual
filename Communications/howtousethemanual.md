@@ -58,7 +58,7 @@ To add a report, click the 'Add report' link, then fill in the details of what t
 
 We would love to get feedback on your experiences of using the Government Service Manual.
 
-Please send us your thoughts by the 31st of January: (dbd-team@digital.cabinet-office.gov.uk)
+Please send us your thoughts by the 31st of January: [dbd-team@digital.cabinet-office.gov.uk](mailto:dbd-team@digital.cabinet-office.gov.uk)
 
 We will use your feedback to help build the beta version of this tool. 
 
