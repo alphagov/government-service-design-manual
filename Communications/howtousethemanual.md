@@ -54,7 +54,7 @@ Project reports are the place that teams record and share their progress against
 
 To add a report, click the 'Add report' link, then fill in the details of what the team has done. For example, under 'Testing the service' you would add the findings from user research and other feedback.
 
-##Sending feedback (Katie and Andrew to complete)
+##Sending feedback
 
 We would love to get feedback on your experiences of using the Government Service Manual.
 
