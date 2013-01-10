@@ -1,14 +1,26 @@
 #Understanding the size of the Assisted Digital audience
-Your section will begin with a short, two-line summary of what you're showing people.
+Service managers need to understand how many of their users are likely to be able to use digital services independently 
+and how many are unlikely to be able to use digital services independently. These people will need assisted digital. 
 
 ##Guidance/Tool
-This will be a full explanation of the guidance or tool.
+User research and management information can be used to to understand assisted digital needs. 
+Customer Insight practitioners or User Experience researchers use techniques such as customer segmentation 
+(link here?) and profiling to divide their customer base into groups of individuals that are similar 
+in specific relevant ways. This helps them to analyse factors in the use of a service eg. age, gender, 
+disability, interests, motivations, needs or other demographics. These techniques allow them to target 
+specific customer groups effectively, identify their related challenges, allocate resources, identify 
+marketing strategies and meet their specific needs. 
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+Customer journey mapping (link here?) is another 
+tool that enables organisations to map the touch points or life events which trigger 
+engagement with government or public services and how this interaction could be managed more effectively 
+for the user.
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+User needs for assisted digital will also vary depending on who the users are. For example, services 
+with large numbers of older people may need different assisted digital provision from services with 
+large numbers of younger people. 
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+In November 2012 we commissioned independent research on the digital landscape [insert Landscape Research link] 
+to explore internet use in general and to gain insight on the relationship between users and government online transactions. 
