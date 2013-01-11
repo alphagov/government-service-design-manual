@@ -11,5 +11,5 @@ IRC (and similar tools such as group messengers, Campfire, and so on) operate as
 and anyone on the team would be able to respond with information, suggestions of other people to talk to, and so on. Because it is network based it will also work regardless of geography so distributed teams can continue to communicate as if they were in one room.
 
 ##Further reading
-[Wikipedia on IRC](http://en.wikipedia.org/wiki/IRC)
-[Paul Graham on Makers' Schedules vs. Managers' Schedules](http://www.paulgraham.com/makersschedule.html)
+* [Wikipedia on IRC](http://en.wikipedia.org/wiki/IRC)
+* [Paul Graham on Makers' Schedules vs. Managers' Schedules](http://www.paulgraham.com/makersschedule.html)
