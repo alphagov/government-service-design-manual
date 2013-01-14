@@ -34,6 +34,10 @@
 
 <p>In tools and transactions, it’s unlikely you will have a lot of information to break up but if you do, use subheads. </p>
 
+##Guaranteed success
+<p>The only way you will know if your service works, is to test it with users. Then modify and test it again. </p>
+
+
 ##Why we do this
 <p>GOV.UK is to open up government information and services to anyone who is interested or needs to interact with government.</p>
 
