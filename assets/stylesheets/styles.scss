@@ -134,7 +134,42 @@ article .inner{
     background-position: 19px 45%;
   }
 }
-
+.guides-overview{
+  width:100%;
+  clear:both;
+}
+.guides-overview li{
+  float:left;
+  display:block;
+  height:80px;
+  width:124px;
+  padding-top:48px;
+  border-radius:62px;
+  &.discovery{
+    background-color:$pink-25;
+  }
+  &.inception{
+    background-color:$pink-50;
+  }
+  &.alpha{
+    background-color:$pink;
+  }
+  &.beta{
+    background-color:$orange;
+  }
+  &.live{
+    background-color:$grass-green;
+  }
+  &.operational{
+    background-color:$grass-green-50;
+  }
+  &.decommissioning{
+    background-color:$grey-3;
+  }
+}
+#global-nav{
+  text-align:left;
+}
 
 
 .breadcrumb{

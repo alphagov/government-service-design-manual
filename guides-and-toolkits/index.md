@@ -6,8 +6,20 @@ section: guidance
 status: draft
 ---
 
+<div class="guides-overview">
+  <ul>
+    <li class="discovery"><a href="/guides-and-toolkits/phases/discovery.html">Discovery</a></li>
+    <li class="inception"><a href="/guides-and-toolkits/phases/inception.html">Inception</a></li>
+    <li class="alpha"><a href="/guides-and-toolkits/phases/alpha.html">Alpha</a></li>
+    <li class="beta"><a href="/guides-and-toolkits/phases/beta.html">Beta</a></li>
+    <li class="live"><a href="/guides-and-toolkits/phases/live.html">Live</a></li>
+    <li class="operational"><a href="/guides-and-toolkits/phases/operational.html">Operational</a></li>
+    <li class="decommissioning"><a href="/guides-and-toolkits/phases/decommissioning.html">Decommisioning</a></li>
+  </ul>
+</div>
+
 <div class="guides-intro">
-  <div class="recently-updated">
+  <!--div class="recently-updated">
     <h2>Recently updated guides</h2>
     <ul>
       <li><a href="http://gsdm.herokuapp.com/handbook/161/">User research briefs</a></li>
@@ -16,12 +28,8 @@ status: draft
       <li><a href="http://gsdm.herokuapp.com/handbook/149/">Community user groups</a></li>
       <li><a href="http://gsdm.herokuapp.com/handbook/179/">Running retrospectives</a></li>
     </ul>
-  </div>
-  <div class="phases">
-    <ul>
-      <li><a href="/phases/alpha.html">Alpha</a></li>
-    </ul>
-  </div>
+  </div-->
+
   <div class="getting-started">
 
     <p>Whether you're a service manager, designer, developer or researcher, there'll be something here to help you make a world class digital service.</p>
