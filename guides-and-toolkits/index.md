@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Guides and toolkits
+title: Government service design manual
 subtitle: Things to help you make great services
 section: guidance
 status: draft
@@ -54,53 +54,45 @@ status: draft
 </div>
 -->
 
+<hr/>
+<h2>Detailed guidance</h2>
 
 <div class="topic">
-  <h3>Getting started</h3>
+  <h3>Accessibility</h3>
   <ul>
-      <li><a href="/handbook/29/"><span class="title">Service managers</span><span class="description">  What they do, and how to be a good one</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Building a team</span><span class="description">  Who to hire, your working environment and what your team should look like</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Agile project management</span><span class="description">  What it is, why it works and how to do it</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Useful tools and services</span><span class="description">  For sharing code, blogging, managing projects, analytics and more</span></a></li>
+      <li><a href="/guides-and-toolkits/accessibility/accessibilityrequrirements.html"><span class="title">Accesibility requirements</span><span class="description">  What they do, and how to be a good one</span></a></li>
+	  <li><a href="/guides-and-toolkits/accessibility/accessibilityrequrirements.html"><span class="title">Accesibility statements and policies</span><span class="description">  What they do, and how to be a good one</span></a></li>
+  	  <li><a href="/guides-and-toolkits/accessibility/wcag2guidelines.html"><span class="title">WCAG 2.0 guidelines</span><span class="description">  What they do, and how to be a good one</span></a></li>
   </ul>
 </div>
+
 <div class="topic">
-<h3>Understanding your audience</h3>
+  <h3>APIs</h3>
   <ul>
-      <li><a href="/handbook/29/"><span class="title">Understanding your users</span><span class="description">  User needs, user research, user feedback</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Accessibility</span><span class="description">  How to make your service acessible to all; young, old able-bodied or otherwise</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Assisted digital</span><span class="description">  Reaching people who struggle with digital channels</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Browsers and devices</span><span class="description">  Which ones to support, and how to do it</span></a></li>
+      <li><a href="/guides-and-toolkits/apis/producingapis.html"><span class="title">Producing APIs</span><span class="description">  What they do, and how to be a good one</span></a></li>
+	  <li><a href="/guides-and-toolkits/apis/usingapis.html"><span class="title">Using APIs</span><span class="description">  What they do, and how to be a good one</span></a></li>
   </ul>
 </div>
+
 <div class="topic">
-<h3>Security and the law</h3>
-<ul>
-    <li><a href="/handbook/29/"><span class="title">Identity assurance</span><span class="description">  What it is and how to design for it</span></a></li>
-    <li><a href="/handbook/29/"><span class="title">Information security</span><span class="description">  Collecting information, security principles, logins...</span></a></li>
-    <li><a href="/handbook/29/"><span class="title">Legal processes</span><span class="description"> Impact assessments, legislation, security</span></a></li>
-</ul>
-</div>
-<div class="topic">
-<h3>Designing your service</h3>
+  <h3>Assisted digital</h3>
   <ul>
-    <li><a href="/handbook/29/"><span class="title">Designing your service</span><span class="description">Design principles, design patterns, templates, typography, colour palettes...</span></a></li>
-    <li><a href="/handbook/29/"><span class="title">Copy and content</span><span class="description">  How to write for GOV.UK and the GOV.UK style guide</span></a></li>
+      <li><a href="/guides-and-toolkits/assisted-digital/assisteddigitalaudiencesize.html"><span class="title">Audience size</span><span class="description">  What they do, and how to be a good one</span></a></li>
+	  <li><a href="/guides-and-toolkits/assisted-digital/deliverymodels.html"><span class="title">Delivery models</span><span class="description">  What they do, and how to be a good one</span></a></li>
+  	  <li><a href="/guides-and-toolkits/assisted-digital/whatisassisteddigital.html"><span class="title">What is assisted digital?</span><span class="description">  What they do, and how to be a good one</span></a></li>
   </ul>
 </div>
+
 <div class="topic">
-<h3>Building your service</h3>
+  <h3>Building a team</h3>
   <ul>
-      <li><a href="/handbook/29/"><span class="title">Technical architecture</span><span class="description">  Writing and testing code, cookies, performance and load...</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">APIs</span><span class="description">Producing and consuming APIs and a list of available government APIs.</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Using open source</span><span class="description">Lorem ipsum</span></a></li>
-    </ul>
-</div>
-<div class="topic">
-<h3>Maintaining your service</h3>
-  <ul>
-      <li><a href="/handbook/29/"><span class="title">Maintaining your service</span><span class="description">  Improving conversion rates, updating software,  responding to feedback</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Monitoring performance</span><span class="description">  Analytics, KPIs</span></a></li>
+      <li><a href="/guides-and-toolkits/building-a-team/accessibilityskills.html"><span class="title">Accessibility skills</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/building-a-team/analyticsskills.html"><span class="title">Analytics skills</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/building-a-team/designskills.html"><span class="title">Design skills</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+      <li><a href="/guides-and-toolkits/building-a-team/managingconsultantsprocuredspecialists.html"><span class="title">Managing consultants/procured specialists</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	
+      <li><a href="/guides-and-toolkits/building-a-team/procuringconcultantspecialists.html"><span class="title">Procuring consultants and specialists</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	
+      <li><a href="/guides-and-toolkits/building-a-team/securityskills.html"><span class="title">Security skills</span><span class="description">  What they do, and how to be a good one</span></a></li>	  		    <li><a href="/guides-and-toolkits/building-a-team/servicemanager.html"><span class="title">Service manager</span><span class="description">  What they do, and how to be a good one</span></a></li>	 
+	  <li><a href="/guides-and-toolkits/building-a-team/whatateamlookslike.html"><span class="title">What a team looks like</span><span class="description">  What they do, and how to be a good one</span></a></li>		   <li><a href="/guides-and-toolkits/building-a-team/workingenvironment.html"><span class="title">Working environment</span><span class="description">  What they do, and how to be a good one</span></a></li>			    
   </ul>
 </div>
-  
+
