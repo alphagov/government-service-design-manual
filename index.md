@@ -27,6 +27,6 @@ current ways of working wrong. Seek to emulate best of web.
 
 We should be aiming for this outcome: *[Digital by default standard](http://gsdm.herokuapp.com/standard)
 
-[This is how we do it (structure of a digital project)](/guides-and-toolkits/phases).
+[This is how we do it (structure of a digital project - GRAPHIC)](/guides-and-toolkits/phases).
 
 

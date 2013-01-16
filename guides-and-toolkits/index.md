@@ -6,6 +6,18 @@ section: guidance
 status: draft
 ---
 
+<div class="guides-overview">
+  <ul>
+    <li class="discovery"><a href="/phases/discovery.html">Discovery</a></li>
+    <li class="inception"><a href="/phases/inception.html">Inception</a></li>
+    <li class="alpha"><a href="/phases/alpha.html">Alpha</a></li>
+    <li class="beta"><a href="/phases/beta.html">Beta</a></li>
+    <li class="live"><a href="/phases/live.html">Live</a></li>
+    <li class="operational"><a href="/phases/operational.html">Operational</a></li>
+    <li class="decommissioning"><a href="/phases/decommissioning.html">Decommisioning</a></li>
+  </ul>
+</div>
+
 <div class="guides-intro">
   <div class="recently-updated">
     <h2>Recently updated guides</h2>
@@ -17,11 +29,7 @@ status: draft
       <li><a href="http://gsdm.herokuapp.com/handbook/179/">Running retrospectives</a></li>
     </ul>
   </div>
-  <div class="phases">
-    <ul>
-      <li><a href="/phases/alpha.html">Alpha</a></li>
-    </ul>
-  </div>
+
   <div class="getting-started">
 
     <p>Whether you're a service manager, designer, developer or researcher, there'll be something here to help you make a world class digital service.</p>
