@@ -1,0 +1,27 @@
+---
+---
+
+// ===================================================
+// DESIGN PATTERN PAGE: BUTTONS
+//
+
+@import "typography";
+@import "design-patterns/buttons";
+
+// Buttons
+.btn{
+ // @include button($green);
+}
+.btn-secondary{
+  //@include button($grey-3);
+}
+
+.btn-warning{
+ // @include button($red);
+}
+
+.small{ @include core-16; }
+.x-small{ @include core-14; }
+
+
+

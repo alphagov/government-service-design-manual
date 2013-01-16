@@ -1,0 +1,18 @@
+---
+---
+
+// ===================================================
+// DESIGN PATTERN PAGE: HIDDEN FORM CONTROLS
+//
+
+@import "design-patterns/forms";
+
+// Hidden form controls
+@include hidden-form-controls;
+
+.form-example-1 {
+  @include form(left, 5.5em);
+}
+
+
+

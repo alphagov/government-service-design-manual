@@ -1,0 +1,96 @@
+// =======================================================
+// PANELS
+
+// A mixin for creating panels in the GOV.UK style
+
+// It takes the following parameters:
+
+// $colour          Background colour. Default: Light grey
+// $width           Panel width. Default: 100% (or auto if floated);
+// $float           Left, right or none. Default: none;
+// $icon            Pass an image URL. Positioned top-right. Default: none;
+// $outdent         True or false. Default: true
+//                  Outdented panels bleed into the margin so that their 
+//                  contents are aligned with the surrounding contents
+                
+
+@import "colours";
+
+@mixin panel(
+  $colour: $panel-colour, 
+  $width: "", 
+  $float: "",
+  $icon: "",
+  $outdent: true){
+
+  $horizontal-margin: -1em;
+  @if ($outdent == false){
+    $horizontal-margin: 0;
+  } 
+
+  // WIDTH
+  @if ($width != ""){
+    width: $width;
+  }
+
+  // FLOAT AND MARGIN
+  @if ($float == "left"){
+    float: left;
+    margin: 0 1em 1.5em $horizontal-margin;
+  }
+  @if ($float == "right"){
+    float: right;
+    margin: 0 $horizontal-margin 1.5em 1em;
+  }
+  @if ($float == ""){
+    margin: 1em $horizontal-margin 1.5em $horizontal-margin;
+  }
+
+  // PADDING
+  padding: 1em 1em 0.25em 1em;
+
+  // PANEL COLOUR AND ICON
+  @if ($icon == ""){
+    background-color: $colour;
+  }  
+  @if ($icon != ""){
+    background: url($icon) no-repeat scroll 98% 1em $colour;  
+    *:first-child{
+      padding-right: 2em;
+    }
+  }
+
+
+
+  // PANEL CONTENTS
+
+  // Reset top-margin for elements that appear at the top of panels
+  *:first-child{
+    margin-top: 0em;
+  }
+
+  // Bring in bulleted lists, so the bullets get sufficient space
+  ul, ol{
+      padding-left: 1em;
+  }
+
+  // Make form fields in coloured panels white, not light grey
+  @if ($colour != transparent){
+    input[type="text"],
+    textarea{
+      background-color: $white;
+    }
+  }
+
+  // Panels with an 'inner' div get
+  .inner{
+    background-color: white;
+    border: 1px solid $border-colour;
+    padding: 2em;
+    margin-bottom: 0.75em;    
+    input[type="text"],
+    textarea{
+      background-color: $canvas-colour;
+    }
+  }
+}

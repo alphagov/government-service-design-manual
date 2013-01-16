@@ -1,0 +1,15 @@
+// =======================================================
+// POPUPS
+
+@mixin popup($width: 70%, $height: 26em){
+  left: 50%; // horizontally centred
+  width: $width;
+  margin: 2em 0 0 -#{$width / 2};
+  background-color: white;
+  padding: 1em 1.5em;
+  min-height: $height;
+  position: absolute; // popup scrolls with page, so we can have long popups
+  *:first-child{
+    //margin-top: 0; // Set top margin of 1st child to zero
+  }
+}

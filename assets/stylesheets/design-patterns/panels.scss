@@ -1,0 +1,21 @@
+---
+---
+
+// ===================================================
+// DESIGN PATTERN PAGE: PANELS
+//
+
+@import "design-patterns/panels";
+
+// Panels
+.new-panel { 
+  @include panel($grass-green-25); 
+}
+
+.floated-panel {
+  @include panel($light-blue-25, 50%, right);
+}
+
+
+
+

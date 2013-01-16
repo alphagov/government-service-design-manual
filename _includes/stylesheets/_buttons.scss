@@ -1,0 +1,199 @@
+@import '_typography';
+
+// global button styles
+
+/*
+ * Old green: 28a198
+ * New green: 008270
+ */
+
+/* buttons! */
+.button,
+.button:visited {
+  display: inline;
+  border: none;
+  text-decoration: none;
+  position: relative;
+  top: -3px;
+  line-height: (20 / 16);
+  -webkit-box-shadow: 0 2px 0 #000;
+  -moz-box-shadow: 0 2px 0 #000;
+  box-shadow: 0 2px 0 #000;
+}
+
+.button:active,
+.button:focus{
+  background-color:#28A197;
+}
+
+.button,
+.button.medium {
+  padding: 0.25em 0.5em;
+}
+
+.button.medium {
+  @include core-19($line-height: (26 / 19));
+}
+
+.get-started .button .call-to-action,
+.get-started .button.big,
+.button,
+.button:visited {
+  background-color: #008270;
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 3px 0 #000;
+  -moz-box-shadow: 0 3px 0 #000;
+  box-shadow: 0 3px 0 #000;
+  font-weight: 300;
+}
+
+.get-started .button:hover span.call-to-action,
+.get-started .button.big:hover,
+.button:hover {
+  background-color: #3ABAA8;
+  color: #fff;
+}
+
+.button:active,
+.button.big:active,
+.button:active span.call-to-action {
+  -webkit-transform: translate(0, 3px);
+  -moz-transform: translate(0, 3px);
+  -o-transform: translate(0, 3px);
+  transform: translate(0, 3px);
+  box-shadow:none;
+  outline:none;
+}
+
+.get-started .button .call-to-action,
+.get-started .button.big,
+#search .button.big {
+  @include core-24($line-height: (16 / 24)); 
+  padding: 0.45em 1.7em 0.45em 0.5em;
+  background-image: image-url("icon-pointer.png");
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+/* get started buttons */
+.get-started {
+  margin:1.5em 0 0 0;
+  text-align: right;
+
+  .button {
+    display: inline-block;
+    text-decoration:none;
+    background-color: transparent;
+    box-shadow:none;
+    text-align:left;
+
+    &:active {
+      /* 
+       * this compensates for this style being pushed down twice by keeping 
+       * the inner span still 
+       */
+      .call-to-action {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0);
+      }
+
+      /* this compensates for the whole thing being pushed down by pushing back up */
+      .destination {
+        -webkit-transform: translate(0, -3px);
+        -moz-transform: translate(0, -3px);
+        -o-transform: translate(0, -3px);
+        transform: translate(0, -3px);
+      }
+    }
+
+    span {
+      cursor: pointer;
+    }
+ 
+    .destination {
+      @include core-14;
+      color:#333;
+      display: block;
+      margin-top: 0.5em;
+      max-width: 13em;
+    }
+
+    /* 
+     * In selectors such as .get-started .button.big the chained .button.big is read as
+     * .big by IE6 (see http://www.maxdesign.com.au/articles/multiple-classes/)
+     * This means it no longer has the precedence given by 2 classes and gets overwritten
+     * by the .get-started .button classes that follow.
+     * Just for IE6, add styles to this block to re-assert the styles after those that overwrite.
+    */
+    @include ie-lte(6) {
+      &.big {
+        @include core-19($line-height: (16 / 19));
+        padding: 0.45em 1.7em 0.45em 0.5em;
+        background: #008270 image-url("icon-pointer.png") 100% 50% no-repeat;
+        display: inline-block;
+        color: #fff;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+        -webkit-box-shadow: 0 3px 0 #000;
+        -moz-box-shadow: 0 3px 0 #000;
+        box-shadow: 0 3px 0 #000;
+        font-weight: 300;
+      }
+
+      &:hover {
+        background-color: #3ABAA8;
+        color: #fff;
+      }
+
+      &:active {
+        -webkit-transform: translate(0, 3px);
+        -moz-transform: translate(0, 3px);
+        -o-transform: translate(0, 3px);
+        transform: translate(0, 3px);
+        box-shadow:none;
+        outline:none;
+      }
+    }
+  }
+}
+
+a.button[rel="external"]:after {
+  content: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+input{
+  &[disabled="disabled"] {
+    opacity: 0.5;
+  }
+
+  &[type="text"],
+  &[type="search"]{
+    @include core-16($line-height: (20 / 16));
+    border: 1px solid #bbb;
+    min-width: 8em;
+    margin: 0 0.5em;
+    padding: 0.25em;
+  
+    @include ie-lte(7) {
+      width:8em;
+    }
+  }
+
+  /* below fixes a bug where IE puts a nasty black border around these elements */
+  @include ie-lte(8) {
+    &[type="submit"],
+    &[type="reset"],
+    &[type="button"] {
+      filter:chroma(color=#000000);
+    }
+  }
+}

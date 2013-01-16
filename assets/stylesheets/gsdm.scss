@@ -1,0 +1,559 @@
+---
+---
+
+// ===================================================
+// WEBSITE TOOLKIT STYLES
+//
+
+@import "colours";
+@import "typography";
+@import "conditionals";
+@import "shims";
+@import "design-patterns/panels";
+@import "design-patterns/regular-grid";
+@import "design-patterns/global-nav";
+@import "design-patterns/show-hide";
+@import "design-patterns/forms";
+
+@include global-nav($black, $border-colour);
+
+
+
+article .inner{
+  padding-right: 2em;
+}
+.categories{
+  @include regular-grid(2);
+  margin-top: 1em;
+  h2{
+    @include heading-36;
+  }
+  ul{
+    padding-left: 0;
+    li{
+      padding-left: 0;
+      list-style: none;
+      a{
+        text-decoration: none;
+        &:hover{
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+.home-page-hero{
+  border: 5px solid #ebebeb;
+  margin-bottom: 1.5em;
+  a{
+    padding: 2em;
+    display: block;
+    &:hover{
+      background: #F9F9F9;
+      p{
+        text-decoration: underline;
+        color: #2E3191;
+      }
+    }
+  }
+  img{
+    width: 55%;
+    margin-top: 0.25em;
+  }
+  p{
+    width: 36.5%;
+    float: left;
+    font-size: 24px;
+    margin: 0 2em 0 0;
+  }
+}
+
+// Home page promo slots
+.home-page-promos {
+  div{
+    box-sizing: border-box;
+    padding: 1em;
+  }
+  .action{
+    margin: 0 -16px;
+    background-color: $green;
+    a{
+      color: $white;
+      padding: 1em;
+      display: block;
+      &:hover{
+        background-color: lighten($green, 10%);
+      }
+    }
+  }
+}
+
+// Subtitle
+.subtitle{
+  margin-top: -1em;
+  color: #666;
+  margin-bottom: 1em;
+  font-size: 24px;
+}
+
+.standard-template h1{
+  display: none;
+}
+
+// The list of criteria on the home page
+.standard{
+  margin-top: -1em;
+  border: 5px solid #EBEBEB;
+  padding: 1em;
+  .service{
+    border-top: 5px solid;
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+  ul{
+    padding: 0;
+    margin-bottom: 2em;
+  }
+  li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+    line-height: 42px;
+    padding-left: 2em;
+    background-image: url("../images/progress-tick.png");
+    background-repeat: no-repeat;
+    background-position: 19px 45%;
+  }
+  h2{
+    font-size: 32px;
+    margin: -0.5em -0.5em 1em;
+    padding: 1em;
+    background: #EBEBEB;
+  }
+  h3{
+    margin-top: 0;
+    margin-left: 0.5em;
+    font-size: 32px;
+  }
+  img {
+    width: 60%;
+  }
+}
+
+
+
+.breadcrumb{
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+  background: white;
+  padding: 1em 2em 0 2em;
+  li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+
+
+// ====================================================
+// PROJECTS
+//
+
+.project-list{
+  margin: 0 0 1em 0;
+  width: 60%;
+}
+
+.nav-tabs{
+  list-style-type: none;
+  list-style-image: none;
+  border-bottom: solid 1px #A1ACB2;
+}
+
+// Departmental logo
+.organisation-logo{
+  float: right;
+  margin: 1em 2em;
+}
+
+// Project meta data
+.status-updates {
+  @include panel($light-blue-25, 31.67%, right);
+  margin: 0;  ul{
+    list-style-type: none;
+    list-style-image: none;
+    margin: 0 0 0 2.5%;
+    padding: 0;
+    li{
+      padding: 0;   
+    }
+  }
+}
+.project-meta{
+  @include panel($light-blue-25, 32%, right);
+  margin-right: 0;
+  ul{
+    list-style-type: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+    li{
+      padding: 0;
+      margin: 0;   
+    }
+  }
+  p{margin-top: 0;}
+  .team{
+    li{
+      display: inline-block;
+    }
+  }
+}
+
+@include details-and-summary;
+
+.steps{
+  list-style-image: none;
+  margin: 0;
+  padding-left: 0;
+  li{
+    list-style-type: none;
+    padding-left: 0.25em;
+    margin: 0 0 2px 0;
+    &:nth-child(odd){
+      background: #f9f9f9;
+    }
+    &.completed{
+      background: $green-25;
+    }
+  }
+  div{
+    @include copy-16;
+    display: inline-block;
+  }
+  .step-title{
+    width: 63%;
+    padding-left: 1.5em;
+  }
+  .completed .step-title{
+    background-image: url("../images/progress-tick.png");
+    background-repeat: no-repeat;
+    background-position: 0 50%;
+  }
+  .step-status{
+    width: 18%;
+  }
+  .step-action{
+    width: 15%;
+  }
+}
+
+// Tooltip
+
+ 
+a.tooltip {
+  outline: none;
+  color: $black;
+  text-decoration: none;
+  &:hover{
+    text-decoration: underline;
+    &:after{
+      content: "\25C0";
+      display: block;
+      text-decoration: none;
+      color: black;
+      z-index: 11;
+      margin-left: 10px;
+    }
+    span{
+      display: inline;
+      position: absolute;
+      color: #EEE;
+      background: #0B0C0C;
+    }
+  }
+  span {
+    z-index: 10;
+    display: none;
+    padding: 1em;
+    margin-top: -50px;
+    margin-left: 22px;
+    width:240px;    
+    box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.3)
+  }
+}
+
+
+// Add Journal Entry
+
+.add-journal-entry{
+  @include form(top);
+  form{
+    @include panel;
+    // This is only here because I couldn't figure out how to surpress Django colons in labels
+    .group{
+      color: white;
+      input, textarea{
+        margin-left: -0.3em;
+      }
+    }
+  }
+}
+
+// Guidance list
+
+.guidance-list{
+  -moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  column-gap: 20px;
+  .topic{
+    -webkit-column-break-inside:avoid;
+    -moz-column-break-inside:avoid;
+    -o-column-break-inside:avoid;
+    -ms-column-break-inside:avoid;
+    column-break-inside:avoid;
+    margin-bottom: 2.4em;
+    h3{
+      margin-top: 0;
+    }
+  }
+}
+
+.recently-updated{
+  @include panel($light-blue-25, 33%, right, $outdent: false);
+}
+
+// Search guides panel
+
+.search-guides{ 
+  @include panel($outdent: false);
+  margin-top: 3em;
+  @include form(left);
+  input[type="search"]{
+    background-color: white;
+    width: 24em;
+  }
+  label{
+    font-size: 2.4rem;
+  }
+}
+
+.page-contents {
+background-color: #F2F2F2;
+margin: 1em -1em 1.5em -1em;
+padding: 1em 1em 0.25em 1em;
+}
+
+.home-page-promos{
+  @include regular-grid(3);
+  div{
+    background: #CCE0D6;
+    height: 200px;
+  }
+}
+
+.meta-data{
+  margin-top: 0;
+  text-align: left;
+  width: 100%;
+  p{
+    display: block;
+  }
+}
+
+// Project phases
+
+.phases{
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  li{
+    padding: 0;
+    display: inline-block;
+    background-color: $panel-colour;
+    width: 20%;
+    .badge{
+      font-size: 16px;
+      color: $black;
+      padding: 0.2em 0.25em 0em 0.5em;
+      text-transform: uppercase;
+      font-weight: normal;
+    }
+    &.complete{
+      background-color: $light-blue-50;
+    }
+  }
+}
+
+// ====================================================
+// Header links
+.article h2 {
+  .headerlink{
+    display: inline-block;
+    text-indent: -9999px;
+    width: 20px;
+    margin-left: -20px;
+  }
+  &:hover .headerlink{
+    visibility: visible;
+    text-indent: 0;
+  }
+}
+
+// ====================================================
+// Alpha sticker
+.home {
+  a {
+  position: relative;
+    small{
+      position: absolute;
+      top: 0.8em;
+      text-transform: uppercase;
+      color: white;
+      -webkit-font-smoothing: subpixel-antialiased;
+      background: #d53880;
+      padding: 2px 5px 0;
+      margin-left: 10px;
+    }
+  }
+}
+
+// ====================================================
+// DESIGN PATTERNS
+//
+
+
+// Page contents
+.page-contents{
+  @include panel;
+}
+
+/* Intro panel on landing page */
+.pattern-library{
+  @include panel($green-25, 50%, right);
+}
+
+/* Container for example patterns */
+.pattern-example{
+  @include panel($highlight-colour);
+  .inner{
+    @extend %contain-floats;
+  }
+}
+/* Pattern status label */
+.pattern-status{
+  display: block;
+  float: right;
+  color: $white;
+  background-color: $fuschia;
+  padding: 0.2em 1.5em 0em 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+/* Side-by-side code examples */
+.side-by-side{
+  @include regular-grid(2);
+  .pattern-example{
+    margin: 0.8em 0 0 0;
+  }
+}
+/* Styles for inline and block code examples */
+pre,
+code{
+  color: black;
+  background-color: #f9f9f9;
+  border: 1px solid #CCC;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+pre code{
+  border: 0 solid;
+  padding: 0;
+}
+code{
+  padding: 0.3em 0.5em;
+}
+
+pre:first-child { margin-top: 0; }
+
+/* Update text.scss with these */
+hr{
+  border: 0;
+  background-color: $border-colour;
+  height: 1px;
+  margin: 2em 0;
+}
+article dd{
+  font-size: 1.16em;
+}
+
+/* Mixin argument toggle styles */
+
+.class-toggle .option:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+.class-toggle .selected{
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  &:hover{
+    cursor: default;
+    text-decoration: none;
+  }
+}
+
+.topic {
+  border-bottom: 1px solid #BFC1C3;
+  padding-bottom: 5px;
+  h3{
+    font-size: 32px;
+    margin-top: 1.4em;
+  }
+  ul{
+    list-style-type: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+    li{
+      list-style-type: none;
+      list-style-image: none;
+      overflow: hidden;
+      margin-top: 0.5em;
+      padding-top: 0.5em;
+      padding-left: 0;
+      border-top: 1px solid #BFC1C3;
+      a{
+        display: block;
+        overflow: hidden;
+        span{
+          display: block;
+          float: left;
+        }
+        .title {
+          width: 30%;
+          text-decoration: underline;
+        }
+        .description{
+          width: 68%;
+          color: #6F777B;
+        }
+        &:hover .description{
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

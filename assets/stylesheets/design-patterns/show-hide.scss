@@ -1,0 +1,20 @@
+---
+---
+
+// ===================================================
+// DESIGN PATTERN PAGE: SHOW / HIDE
+//
+
+@import "design-patterns/show-hide";
+
+// Show/hide
+@include details-and-summary;
+
+// Highlighted show/hide
+.show-hide-version-2{
+  @include details-and-summary(highlighted);
+}
+
+
+
+

@@ -1,0 +1,23 @@
+// =======================================================
+//  DESIGN PATTERNS
+
+//  If you've produced any reusable CSS during the
+//  creation of a prototype, put it in the design-patterns
+//  folder and import it here so everyone can use it.
+//  
+//  If any patterns are genuinely useful to every page we
+//  can migrate them to the core CSS in the static
+//  repository.
+
+// =======================================================
+
+@import "design-patterns/progress-indicator.scss";
+@import "design-patterns/show-hide.scss";
+@import "design-patterns/regular-grid.scss";
+@import "design-patterns/utils.scss";
+@import "design-patterns/forms.scss";
+@import "design-patterns/buttons";
+@import "design-patterns/panels.scss";
+@import "design-patterns/from-dept.scss";
+@import "design-patterns/accordion-form.scss";
+

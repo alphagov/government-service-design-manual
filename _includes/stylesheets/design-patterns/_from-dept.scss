@@ -1,0 +1,17 @@
+@mixin from-dept{
+	.from-dept {
+		height: 90px;
+		width: 90px;
+		position: absolute;
+		top: 1.2em;
+		right: 3em;
+		text-indent: -9999px;
+
+		&.dsa{
+			background: url(/shared-images/logo-dsa.gif) no-repeat 0 0;
+		}
+		&.hmrc{
+			background: url(/shared-images/logo-hmrc.gif) no-repeat 0 0;
+		}
+	}
+}

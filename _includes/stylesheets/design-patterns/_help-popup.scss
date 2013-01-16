@@ -1,0 +1,83 @@
+// ==========================================
+// HELP SYSTEM STYLES
+
+//@import "colours";
+//@import "design-patterns/help-popup";
+
+// Examples
+.example {
+background: none repeat scroll 0 0 #E7EBDA;
+margin: 0.75em -1em;
+padding: 0.5em 1em;
+}
+
+#popup.help-system{
+  @include popup(55em);
+  // Popup header style
+  h2{
+    padding: 0.8em 1em 0.8em 1.65em;
+    background-color: $highlight-colour;
+    margin: 1em -1em 1em -1.65em;
+  }
+  .content{
+    margin-top: -2.5em;
+    float: left;
+    width: 70%;
+    padding-right: 0em;
+    ul{
+      margin: 0;
+    }
+    section{
+      padding-left: 1em;
+    }
+  }
+  nav{
+    float: left;
+    margin: -1em -1em 0 1em;
+    width: 30%;
+    h2{
+    margin: 0 -0.35em 0 -1em;
+    padding-left: 1em;
+    }
+    ul{
+      margin: 0;
+      margin-top: 0.5em;
+      list-style-image: none;
+    }
+    li{
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      .active{
+        background-color: $highlight-colour;
+      }
+    }
+    > *{
+      padding-left: 2em;
+    }
+    a{
+      @include core-14;
+      text-decoration: none;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+    .current{
+      background: #e8f0f0;
+      position: relative;
+      &:before {
+        width: 0;
+        height: 0;
+        content: " ";
+        border: 1.25em solid transparent;
+        border-right-color: #e8f0f0;
+        position: absolute;
+        left: -2.5em;
+        top: 0;
+      }
+      a{
+        color: #333;
+      }
+    }
+  }
+}
