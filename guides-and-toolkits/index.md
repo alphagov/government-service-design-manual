@@ -19,7 +19,7 @@ status: draft
 </div>
 
 <div class="guides-intro">
-  <div class="recently-updated">
+  <!--div class="recently-updated">
     <h2>Recently updated guides</h2>
     <ul>
       <li><a href="http://gsdm.herokuapp.com/handbook/161/">User research briefs</a></li>
@@ -28,7 +28,7 @@ status: draft
       <li><a href="http://gsdm.herokuapp.com/handbook/149/">Community user groups</a></li>
       <li><a href="http://gsdm.herokuapp.com/handbook/179/">Running retrospectives</a></li>
     </ul>
-  </div>
+  </div-->
 
   <div class="getting-started">
 
