@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Terms and conditions
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Terms and conditions
 The terms and conditions of your service must be understandable to the majority of users. 
 

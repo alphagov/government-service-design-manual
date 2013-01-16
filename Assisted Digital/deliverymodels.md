@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Assisted Digital delivery models
+section: guidance
+subsection: Assisted Digital
+status: draft
+---
+    
 #Assisted Digital delivery models
 The Government has set out its strategy for how it intends to deliver services to people who are unable to
 use digital channels. This section explains the Government's approach, and links to further detail. 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Accessibility skills
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Accessibility skills
 Accessibility is everyone’s responsibility. Provide training and resources to 
 help your team build accessibility into everything they do. That includes 

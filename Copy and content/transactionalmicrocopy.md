@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Transactional microcopy
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Transactional microcopy
 <p>Microcopy includes the questions and common text you may use throughout a service.  </p>
 

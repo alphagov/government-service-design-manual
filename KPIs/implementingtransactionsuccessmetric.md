@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Implementing completion rate
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Implementing completion rate
 This guidance covers implementing the completion rate KPI, including what to do when and how frequently to measure. Please refer to [Defining KPIs](/handbook/134/) for a definition of completion rate.
 

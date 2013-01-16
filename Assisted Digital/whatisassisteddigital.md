@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: What is Assisted Digital?
+section: guidance
+subsection: Assisted Digital
+status: draft
+---
+    
 #What is Assisted Digital?
 A brief definition of what is meant by assisted digital. 
 

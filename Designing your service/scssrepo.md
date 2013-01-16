@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: SCSS Repositories
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #SCSS Repositories
 Your section will begin with a short, two-line summary of what you're showing people.
 

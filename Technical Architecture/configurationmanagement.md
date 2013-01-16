@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Configuration management
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 # Configuration management
 You're system is likely much larger than a single application, relying
 on other supporting infrastructure components. Even a simple application

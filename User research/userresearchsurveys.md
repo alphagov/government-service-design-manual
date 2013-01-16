@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: User research surveys
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #User research surveys
 
 This guidance looks at how user surveys can be used to provide user research to help design new products and services.

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Design skills
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Design skills
 Your section will begin with a short, two-line summary of what you're showing people.
 

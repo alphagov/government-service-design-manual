@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Fading policy
+section: guidance
+subsection: Information security
+status: draft
+---
+    
 #'Fading' policy
 Your section will begin with a short, two-line summary of what you're showing people.
 

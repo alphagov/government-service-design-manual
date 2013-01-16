@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Security skills
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Security skills
 Your section will begin with a short, two-line summary of what you're showing people.
 

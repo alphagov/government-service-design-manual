@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: This page has no title
+section: guidance
+subsection: Tools and services
+status: draft
+---
+    
 ##Available analytics tools
 There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against those criteria.
 

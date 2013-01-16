@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: What agile looks like
+section: guidance
+subsection: Working in an agile way
+status: draft
+---
+    
 #What agile looks like
 Your section will begin with a short, two-line summary of what you're showing people.
 

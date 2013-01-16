@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: IRC
+section: guidance
+subsection: Tools and services
+status: draft
+---
+    
 #IRC
 When working on the design, development and operation of a service it's essential that your team be able to be in constant contact with one another to make rapid decisions, provide support and information and to ensure everyone's aware of the project as a whole. Some of that will be achieved through regular short meetings such as a daily standup or weekly "show and tell" session, but there's also a need for an asynchronous mechanism that's more immediate and conversational than email but that allows people to dip in and out. IRC (Internet Relay Chat) is an example of an approach to online group chat that those running teams should explore either for itself or because its approach underpins most tools in this class.
 

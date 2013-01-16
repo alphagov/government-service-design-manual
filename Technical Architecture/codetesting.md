@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Testing code
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 #Testing code
 We use automated testing to ensure that our code does what is intended, to protect against mis-use of that code, and to provide assurance that iterating that code for better design or new features doesn't break existing behaviour. We also add manual testing as an extra check where appropriate.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Card sorting
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Card sorting
 Card sorting is a research method that is used to understand the way that the intended users of a web site naturally organise or think about different types of information content.  It draws on psychological theories of 'concepts and categories'.
 

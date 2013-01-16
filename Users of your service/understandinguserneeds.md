@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Understanding user needs
+section: guidance
+subsection: Users of your service
+status: draft
+---
+    
 #Understanding user needs
 Your section will begin with a short, two-line summary of what you're showing people.
 

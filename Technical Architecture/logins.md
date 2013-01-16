@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: User Accounts and Log-ins
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 #User Accounts and Log-ins
 
 Adding log-ins/authentication to a service is a larger undertaking than it looks.

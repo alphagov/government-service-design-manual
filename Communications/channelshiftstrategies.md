@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Drawing up a channel shift strategy
+section: guidance
+subsection: Communications
+status: draft
+---
+    
 #Drawing up a channel shift strategy
 We want those who are able to use our digital services to do so. For those who can and do use digital services already, we need to improve the quality of the services to make them clearly preferable to the alternatives.
 

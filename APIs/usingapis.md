@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Consuming/Using APIs
+section: guidance
+subsection: APIs
+status: draft
+---
+    
 #Consuming/Using APIs
 Don't do everything yourself (you can't). Sometimes the functionality your service needs will be provided by other parts of your organisation, other government departments or by reliable third parties via APIs.
 

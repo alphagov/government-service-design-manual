@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Using Cookies
+section: guidance
+subsection: Cookies
+status: draft
+---
+    
 #Using Cookies
 This short guide tells you what to keep in mind when including cookies into your services.
 

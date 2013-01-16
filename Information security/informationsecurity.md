@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Information Security
+section: guidance
+subsection: Information security
+status: draft
+---
+    
 # Information Security
 
 This section will include information about the Government protective

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Accessibility statements and policies
+section: guidance
+subsection: Accessibility
+status: draft
+---
+    
 #Accessibility statements and policies
 We’re working hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website does not include a separate accessibility statement, however.
 

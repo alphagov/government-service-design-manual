@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Naming conventions
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Naming conventions
 Your section will begin with a short, two-line summary of what you're showing people.
 

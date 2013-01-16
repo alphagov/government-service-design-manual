@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: URL design
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 # URL design
 URLs are part of the user interface of a service. They should be designed to be descriptive and bookmarkable, they shouldn't be used to preserve state unless it can be shared. Use HTTP properly. 
 

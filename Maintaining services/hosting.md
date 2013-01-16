@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Hosting
+section: guidance
+subsection: Maintaining services
+status: draft
+---
+    
 # Hosting
 The software running your service will need servers to run on. This
 guide aims to help with deciding how you host your applications and the

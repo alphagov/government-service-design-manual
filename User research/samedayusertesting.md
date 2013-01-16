@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Same day user testing (online qualitative)
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Same day user testing (online qualitative)
 
 This guidance talks about how same day user testing can be used to provide user research that can feed into product and service design.

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Button labels
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Button labels
 <p>A button is the one place on the page that allows your user to move closer to their goal. Here, you will find out common conventions and style guidance. </p>
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Structuring sprint cycles and stand-ups
+section: guidance
+subsection: Working in an agile way
+status: draft
+---
+    
 #Structuring sprint cycles and stand-ups
 Your section will begin with a short, two-line summary of what you're showing people.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Online research panels
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Online research panels
 This section of guidance explains what research panels are, and how they can be used to help deliver user research.
 

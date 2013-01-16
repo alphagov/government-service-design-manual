@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Setting performance goals over time
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Setting performance goals over time
 The digital by default standard sets four KPIs to measure the success of your service: completion rate, user satisfaction, digital take-up and cost per transaction. This guide aims to help you set sensible goals for these KPIs over time which you will then use to measure the performance of your service.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Designing for browsers and devices
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Designing for browsers and devices
 
 Services must be accessible wherever people are and whatever technology they’re using by default; not as an optional extra. The user experience can vary significantly from operating system to operating system, browser version to browser version and desktop to mobile. However, don’t try to build services for every possible product but use data to inform and set your priorities for development.

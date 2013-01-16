@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Open standards and licensing
+section: guidance
+subsection: Legal processes
+status: draft
+---
+    
 #Open standards and licensing
 Herein, best practice and considerations for using open standards and using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
 Please note, this is for guidance purposes only, and should not be taken as [legal advice](http://en.wikipedia.org/wiki/IANACL).

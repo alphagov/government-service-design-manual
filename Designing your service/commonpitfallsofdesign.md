@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Common pitfalls of design
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Common pitfalls of design
 Your section will begin with a short, two-line summary of what you're showing people.
 

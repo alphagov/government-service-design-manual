@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Working environment
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Working environment
 Your section will begin with a short, two-line summary of what you're showing people.
 

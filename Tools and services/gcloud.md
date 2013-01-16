@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: G-Cloud
+section: guidance
+subsection: Tools and services
+status: draft
+---
+    
 #G-Cloud
 
 G-Cloud is an online IT procurement catalogue for UK public sector bodies. It is accessed via [Cloud Store](http://gcloud.civilservice.gov.uk/)

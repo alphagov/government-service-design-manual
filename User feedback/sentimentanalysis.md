@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Sentiment analysis
+section: guidance
+subsection: User feedback
+status: draft
+---
+    
 #Sentiment analysis
 
 Sentiment analysis is a method used to analyse high volumes of verbatim comments from users in order to help easily understand the attitude and tone of users’ comment.

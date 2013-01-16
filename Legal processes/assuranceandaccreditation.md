@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Assurance and accreditation
+section: guidance
+subsection: Legal processes
+status: draft
+---
+    
 #Assurance and accreditation
 Your section will begin with a short, two-line summary of what you're showing people.
 

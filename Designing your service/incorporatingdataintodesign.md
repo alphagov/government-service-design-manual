@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Incorporating analytics data into design
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Incorporating analytics data into design
 As a service manager, you will need to hire [skilled digital analysts](/handbook/11/) to continually monitor how users are interacting with your service and report back to you on a regular basis. This guidance describes what those reports should cover, when you should ask for more detailed analysis and what you should ask for.
 

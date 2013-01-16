@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Shared asset libraries
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Shared asset libraries
 Your section will begin with a short, two-line summary of what you're showing people.
 

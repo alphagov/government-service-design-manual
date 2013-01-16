@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Community user groups
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Community user groups
 This guidance looks at online research communities and how they can be used in order to provide user research to feed into product and service design.
 

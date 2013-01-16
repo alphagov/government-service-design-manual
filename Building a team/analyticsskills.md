@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Digital analytics team skills
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Digital analytics team skills
 A good digital service needs a skilled team of digital analysts to continually monitor performance, identify where potential improvements could be made and test the impact of new designs. This guidance describes some of the skills required to do the job and provides template job descriptions to help you start building a strong team.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Defining the information your service is collecting
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Defining the information your service is collecting
 Your section will begin with a short, two-line summary of what you're showing people.
 

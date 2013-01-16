@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Words to avoid
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Words to avoid
 A collection of words and phrases to avoid in the creation of policies. To be used in conjunction with the [GOV.UK Style Guide](http://gsdm.herokuapp.com/handbook/32/).
 

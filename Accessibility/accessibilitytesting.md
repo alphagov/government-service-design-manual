@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Accessibility testing
+section: guidance
+subsection: Accessibility
+status: draft
+---
+    
 #Accessibility testing
 
 This guidance looks at how Accessibility Testing should be conducted to ensure that new products/services are built with all users in mind.

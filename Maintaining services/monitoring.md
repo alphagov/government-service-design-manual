@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Monitoring
+section: guidance
+subsection: Maintaining services
+status: draft
+---
+    
 # Monitoring
 Any online application should have some tools dedicated to alerting the
 people running the service to problems. This might involve low level

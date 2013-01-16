@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Start and end of transaction pages
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Start and end of transaction pages
 
 

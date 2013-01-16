@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Domain names
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 #Domain names
 
 The domain name for your service is an important consideration for establishing the identity of the service and building trust in it. Government services should follow a consistent pattern in their choice of domain names so we can develop trust in those services.

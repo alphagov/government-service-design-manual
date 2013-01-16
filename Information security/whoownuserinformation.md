@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Understand who owns information about users
+section: guidance
+subsection: Information security
+status: draft
+---
+    
 #Understand who owns information about users
 Your section will begin with a short, two-line summary of what you're showing people.
 

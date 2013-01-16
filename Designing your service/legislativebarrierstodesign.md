@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Legislative barriers to design
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Legislative barriers to design
 Your section will begin with a short, two-line summary of what you're showing people.
 

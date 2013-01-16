@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: This page has no title
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 ##How to write
 
 <p>This section gives details on naming your service, tone, style, questions and why we write in this way.</p>

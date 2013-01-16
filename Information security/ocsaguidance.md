@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: OCSA guidance
+section: guidance
+subsection: Information security
+status: draft
+---
+    
 #OCSA guidance
 Your section will begin with a short, two-line summary of what you're showing people.
 

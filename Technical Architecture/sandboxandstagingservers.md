@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Sandbox and staging servers
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 #Sandbox and staging servers
 
 Everyone working on design, development or maintenance of a service should have a clear, easily accessible place to review the latest version of the software. Those working hands-on building the software for the service should be able to run their own reasonable replica of the entire service. There should be a clear staging environment where changes are reviewed and tested in the context of the entire end-to-end service before they are deployed.

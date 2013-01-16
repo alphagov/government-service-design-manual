@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Load and performance testing
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 # Load and performance testing
 
 History is litered with countless Government projects which collapsed under

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: GOV.UK Style Guide
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #GOV.UK Style Guide
 This style guide is for written content on the GOV.UK website.
 

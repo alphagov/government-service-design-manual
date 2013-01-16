@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Discussion Guides
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Discussion Guides
 
 Discussion guides are used in order to ensure that focus groups and 1:1 interviews cover the required topics, and information is obtained from the sessions that will address the needs of the research. 

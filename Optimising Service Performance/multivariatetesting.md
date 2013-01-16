@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: A/B and multivariate testing
+section: guidance
+subsection: Optimising Service Performance
+status: draft
+---
+    
 #A/B and multivariate testing
 We interviewed Craig Sullivan, an industry guru on conversion optimization. He explains when he uses A/B and multivariate testing in the design process.
 

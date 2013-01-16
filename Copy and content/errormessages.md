@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Error messages
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Error messages
 Your section will begin with a short, two-line summary of what you're showing people.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Understanding the security level
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Understanding the security level
 Your section will begin with a short, two-line summary of what you're showing people.
 

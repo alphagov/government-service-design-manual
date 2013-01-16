@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Page templates
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 # Page templates
 
 All pages on GOV.UK need to feel like they're part of the same service.

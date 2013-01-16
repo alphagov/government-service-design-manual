@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Producing APIs
+section: guidance
+subsection: APIs
+status: draft
+---
+    
 #Producing APIs
 Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties". This section is a set of guiding principles for exposing a Digital service as an API.
 

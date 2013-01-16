@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Setting a baseline
+section: guidance
+subsection: Planning to monitor performance
+status: draft
+---
+    
 #Setting a baseline
 Collect and aggregate performance information from multiple sources and across multiple channels in order to establish a 'baseline' against which changes to the service will be judged. This will help you pinpoint the effect of your initiatives, and identify what worked.
 

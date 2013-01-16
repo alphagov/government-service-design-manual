@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+{% include _head.html %}
+    <link rel="stylesheet" href="/gsdm/css/styles.css" />
+  </head>
+
+
+  <body class="mainstream full-width">
+    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    <!--start header-->
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="http://static.preview.alphagov.co.uk/static/gov.uk_logotype.png" alt="GOV.UK Logo"></a>
+
+        <a href="#footer" class="visuallyhidden">Skip to footer navigation</a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search" method="get" role="search">
+          <label for="site-search-text" class="">Search</label>
+          <input type="search" name="q" placeholder="Search GOV.UK" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+        </form>
+      </div>
+    </header>
+    <!--end header-->
+
+    <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
+
+      <section id="content" role="main" class="group"><!--<div class="pattern-status">{{ page.status }}</div>-->
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <span class="home"><a href="/">Government Service Design Manual</a></span>
+            <span class="jump-link"><a href="#navigation" class="toggler" tabindex="0">menu</a></span>
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="http://gsdm.herokuapp.com/standard/" >The standard</a></li>
+                <li><a href="http://gsdm.herokuapp.com/projects/" >Projects</a></li>
+                <li><a href="http://gsdm.herokuapp.com/handbook/" >Guides &amp; toolkits</a></li>
+                <li><a href="http://gsdm.herokuapp.com/community/" >Community &amp; help</a></li>                
+                <li id="logged_in">
+                  <!-- Hello administrator-->
+                  <a href="http://gsdm.herokuapp.com/logout/">Sign out</a>
+                </li>
+                
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <header class="page-header group">
+        <hgroup><h1>{{ page.title }}</h1></hgroup></header><div class="article-container group">
+        <article role="article" class="group">
+          <div class="inner">
+              {{ content }}
+            </div>
+            </article>
+          </div>
+      </section>
+    </div><!--end wrapper-->
+    {% include _footer.html %}
+  </body>
+</html>

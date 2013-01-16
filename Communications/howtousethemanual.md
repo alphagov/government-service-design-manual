@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: How to use the Manual
+section: guidance
+subsection: Communications
+status: draft
+---
+    
 #How to use the Manual
 
 This short guide to the [Government Service Design Manual](http://gsdm.herokuapp.com/) describes how you can use it for your projects, and what kind of feedback we’ll need to take into our Beta.

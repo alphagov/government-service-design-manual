@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Defining KPIs
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Defining KPIs
 This guidance defines the four standard KPIs for digital by default services: completion rate, user satisfaction, digital take-up and cost per transaction. For details on how to implement the measurement of these KPIs, please refer to [Implementing completion rate](), [Implementing user satisfaction]() and [Implementing cost per transaction]().
 ##Completion rate

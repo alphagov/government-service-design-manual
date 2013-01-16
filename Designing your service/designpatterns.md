@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Design patterns
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 # Design patterns
 
 Design patterns are snippets of HTML, CSS and JavaScript for common interface elements, together with guidance on how best to use them.

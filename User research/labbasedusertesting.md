@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Lab based user testing
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Lab based user testing
 This guidance talks about how lab based user testing can be used to provide user research that can feed into product and service design.
 

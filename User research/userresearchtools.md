@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: User research tools
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #User research tools
 This section looks at research tools that are available (free and subscription) to enable users research teams to conducts research projects in-house.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: How users read
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #How users read
 
 

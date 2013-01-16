@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Performance Framework
+section: guidance
+subsection: Planning to monitor performance
+status: draft
+---
+    
 #Performance Framework
 How do we know if a public service is working for users? How do we know how well it’s working? How can we tell if the changes we make are improving the service?
 Harnessing the power of digital tools is vital for improving the performance of public services, but it can be difficult to know where to start. This guide aims to empower service owners to design and improve transactional public services. It is based around seven principles, with easy-to-follow checklists to help you get started. We have also included a worked example for how we have approached performance management for the new GOV.UK single government domain.

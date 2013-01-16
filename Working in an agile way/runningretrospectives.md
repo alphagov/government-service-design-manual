@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Running retrospectives
+section: guidance
+subsection: Working in an agile way
+status: draft
+---
+    
 #Running retrospectives
 How and why we run retrospectives.
 

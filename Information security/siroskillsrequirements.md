@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: SIRO skills requirements
+section: guidance
+subsection: Information security
+status: draft
+---
+    
 #SIRO skills requirements
 Your section will begin with a short, two-line summary of what you're showing people.
 

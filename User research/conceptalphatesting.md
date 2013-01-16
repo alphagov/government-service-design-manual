@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Concept/Alpha testing
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Concept/Alpha testing
 Concept Development uses qualitative and quantitative research to measure users reactions to new product ideas. 
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Service manager
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Service manager
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
 

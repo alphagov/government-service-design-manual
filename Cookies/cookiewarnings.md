@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Cookie Warnings
+section: guidance
+subsection: Cookies
+status: draft
+---
+    
 #Cookie Warnings
 How and why we notify users about cookies on GOV.UK.
 

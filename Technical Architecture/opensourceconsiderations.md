@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Open source considerations
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 #Open source considerations
 This section presents architectural practice and considerations for using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
 

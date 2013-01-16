@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Typography
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Typography
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 

@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Releasing software
+section: guidance
+subsection: Maintaining services
+status: draft
+---
+    
 # Releasing software
 Constantly improving online services means releasing changes to the
 underlying software. How often you want to do this will affect how you

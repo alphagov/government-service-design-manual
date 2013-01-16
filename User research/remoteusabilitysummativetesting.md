@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Remote usability/summative testing (quantative)
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Remote usability/summative testing (quantative)
 This guidance talks about how remote usability testing can be used to provide user research that can feed into product and service design.
 

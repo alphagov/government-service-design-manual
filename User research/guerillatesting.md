@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Guerilla testing
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Guerilla testing
 This guidance talks about how Guerilla testing can be used to provide user research that can feed into product and service design.
 

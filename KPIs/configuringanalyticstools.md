@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Configuring analytics tools
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Configuring analytics tools
 
 Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems. Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.

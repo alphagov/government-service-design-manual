@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Design principles
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Design principles
 #Start with needs*
 *user needs not government needs

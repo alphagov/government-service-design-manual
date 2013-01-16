@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Implementing cost per transaction
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Implementing cost per transaction
 This guidance covers implementing the cost per transaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](/handbook/134/) for a definition of cost per transaction.
 

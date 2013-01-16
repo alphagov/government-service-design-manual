@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: What a team looks like
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #What a team looks like
 Your section will begin with a short, two-line summary of what you're showing people.
 

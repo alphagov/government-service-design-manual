@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Data Style Guide
+section: guidance
+subsection: Optimising Service Performance
+status: draft
+---
+    
 #Data Style Guide
 
 As we surface more of the data that we monitor at the Government Digital Service (GDS), we need to make sure that the visualisations we produce are easy to understand and visually compelling. To do that, we need to have a consistent visual grammar, for use both within GDS and across government. This guide consists of four principles for good data presentation, with easy to follow checklists to help you achieve this and examples of how the principle has been employed at GDS.

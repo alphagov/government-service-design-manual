@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Vulnerability and penetration testing
+section: guidance
+subsection: Technical Architecture
+status: draft
+---
+    
 # Vulnerability and penetration testing
 
 Ensuring web based systems and applications are secure requires more than

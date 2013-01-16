@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Survey sampling methodologies
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Survey sampling methodologies
 
 When conducting quantitative research it is essential that all findings are statistically valid so that there is confidence in the findings and inferences can be made from the sample to the population. This process of collecting information from a sample is referred to as ‘sampling’ and enables researchers to understand the views, and needs of a user base, without interviewing the whole user population.

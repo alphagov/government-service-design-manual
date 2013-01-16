@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Ethnographic research
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Ethnographic research
 This guidance looks at Ethnographic research and how it can be used in order to provide user research to feed into product and service design. 
 

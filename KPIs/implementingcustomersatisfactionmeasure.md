@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Implementing user satisfaction
+section: guidance
+subsection: KPIs
+status: draft
+---
+    
 #Implementing user satisfaction
 This guidance covers implementing the user satisfaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](/handbook/134/) for a definition of user satisfaction.
 

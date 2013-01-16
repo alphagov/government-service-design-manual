@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Managing consultants/procured specialists
+section: guidance
+subsection: Building a team
+status: draft
+---
+    
 #Managing consultants/procured specialists
 Your section will begin with a short, two-line summary of what you're showing people.
 

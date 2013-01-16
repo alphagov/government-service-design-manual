@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Writing user stories
+section: guidance
+subsection: Working in an agile way
+status: draft
+---
+    
 # Writing user stories
 
 User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other.

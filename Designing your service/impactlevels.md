@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Impact levels
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 #Impact levels
 Your section will begin with a short, two-line summary of what you're showing people.
 

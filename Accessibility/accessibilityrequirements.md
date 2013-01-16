@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Accessibility requirements
+section: guidance
+subsection: Accessibility
+status: draft
+---
+    
 #Accessibility requirements
 We build services that are inclusive and easy for people to use. Your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/TR/WCAG/) (WCAG) 2.0 as a starting point.
 

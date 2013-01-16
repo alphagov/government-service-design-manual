@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Copy in offline or Assisted Digital channels
+section: guidance
+subsection: Copy and content
+status: draft
+---
+    
 #Copy in offline or Assisted Digital channels
 Your section will begin with a short, two-line summary of what you're showing people.
 

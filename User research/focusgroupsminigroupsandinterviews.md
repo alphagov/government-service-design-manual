@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Focus groups, mini groups, and 1:1 interviews
+section: guidance
+subsection: User research
+status: draft
+---
+    
 #Focus groups, mini groups, and 1:1 interviews
 Your section will begin with a short, two-line summary of what you're showing people.
 

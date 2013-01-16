@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Optimizing covnversion rate
+section: guidance
+subsection: Optimising Service Performance
+status: draft
+---
+    
 #Optimizing covnversion rate
 Conversion rate is considered a good [web KPI](http://www.kaushik.net/avinash/rules-choosing-web-analytics-key-performance-indicators/) because it focuses on outcomes and is traceable to a website’s goal. However, looking at conversion rates in isolation fails to generate user insight or suggest actions for improvement. This guidance suggests approaches that product teams may use to optimize a service post launch.
 

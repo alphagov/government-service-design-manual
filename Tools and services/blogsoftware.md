@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Blog software
+section: guidance
+subsection: Tools and services
+status: draft
+---
+    
 #Blog software
 Your section will begin with a short, two-line summary of what you're showing people.
 

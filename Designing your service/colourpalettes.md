@@ -1,3 +1,11 @@
+---
+layout: gsdm
+title: Colour palettes
+section: guidance
+subsection: Designing your service
+status: draft
+---
+    
 # Colour palettes
 
 <p>This is the standard GOV.UK colour palette. We recommend you use 
