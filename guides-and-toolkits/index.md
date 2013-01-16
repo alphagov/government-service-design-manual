@@ -1,7 +1,7 @@
 ---
 layout: gsdm
 title: Government service design manual
-subtitle: Things to help you make great services
+subtitle: Everything you need to build services to the Digital by Default standard
 section: guidance
 status: draft
 ---
@@ -100,7 +100,7 @@ status: draft
   <h3>Colours</h3>
   <ul>
       <li><a href="/guides-and-toolkits/colours/greys.html"><span class="title">Greys</span><span class="description">  What they do, and how to be a good one</span></a></li>
-      <li><a href="/guides-and-toolkits/colours/index.html">Colour palettes<span class="title">Greys</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+      <li><a href="/guides-and-toolkits/colours/index.html"><span class="title">Colour palettes</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
   </ul>
 </div>
 
