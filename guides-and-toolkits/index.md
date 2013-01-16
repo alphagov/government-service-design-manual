@@ -60,8 +60,8 @@ status: draft
 <div class="topic">
   <h3>Accessibility</h3>
   <ul>
-      <li><a href="/guides-and-toolkits/accessibility/accessibilityrequrirements.html"><span class="title">Accesibility requirements</span><span class="description">  What they do, and how to be a good one</span></a></li>
-	  <li><a href="/guides-and-toolkits/accessibility/accessibilityrequrirements.html"><span class="title">Accesibility statements and policies</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/accessibility/accessibilityrequirements.html"><span class="title">Accesibility requirements</span><span class="description">  What they do, and how to be a good one</span></a></li>
+	  <li><a href="/guides-and-toolkits/accessibility/accessibilitystatementsandpolicies.html"><span class="title">Accesibility statements and policies</span><span class="description">  What they do, and how to be a good one</span></a></li>
   	  <li><a href="/guides-and-toolkits/accessibility/wcag2guidelines.html"><span class="title">WCAG 2.0 guidelines</span><span class="description">  What they do, and how to be a good one</span></a></li>
   </ul>
 </div>
@@ -96,3 +96,33 @@ status: draft
   </ul>
 </div>
 
+<div class="topic">
+  <h3>Colours</h3>
+  <ul>
+      <li><a href="/guides-and-toolkits/colours/greys.html"><span class="title">Greys</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/colours/index.html">Colour palettes<span class="title">Greys</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>Cookies</h3>
+  <ul>
+      <li><a href="/guides-and-toolkits/cookies/cookiewarnings.html"><span class="title">Cookie warnings</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/cookies/usingcookies.html"><span class="title">Using cookies</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+  </ul>
+</div>
+
+<div class="topic">
+  <h3>Copy and content</h3>
+  <ul>
+      <li><a href="/guides-and-toolkits/copy-and-content/alphabetawarnings.html"><span class="title">Alpha and beta warnings</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/copy-and-content/commonactions.html"><span class="title">Common actions</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+      <li><a href="/guides-and-toolkits/copy-and-content/copyinofflineorassisteddigitalchannels.html"><span class="title">Copy in offline or Assisted Digital channels</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
+      <li><a href="/guides-and-toolkits/copy-and-content/errormessages.html"><span class="title">Error messages</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	   <li><a href="/guides-and-toolkits/copy-and-content/howtowrite.html"><span class="title">How to write</span><span class="description">  What they do, and how to be a good one</span></a></li>
+	  <li><a href="/guides-and-toolkits/copy-and-content/readingages.html"><span class="title">Reading ages</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
+	  <li><a href="/guides-and-toolkits/copy-and-content/styleguide.html"><span class="title">Style guide</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+	  <li><a href="/guides-and-toolkits/copy-and-content/termsandconditions.html"><span class="title">Terms and conditions</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
+	  <li><a href="/guides-and-toolkits/copy-and-content/transactionalmicrocopy.html"><span class="title">Transactional microcopy</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
+	  <li><a href="/guides-and-toolkits/copy-and-content/wordstoavoid.html"><span class="title">Words to avoid</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  	  
+  </ul>
+</div>
