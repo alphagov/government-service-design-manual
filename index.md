@@ -6,7 +6,7 @@ status: draft
 ---
 
 <div class="home-page-hero"> 
-  <a href="/standard">
+  <a href="/standard.html">
   <p>Find out what you need to do to build services that meet the government's Digital by Default standard</p> 
   <img src="../assets/images/DbD-kitemark.png" alt="Digital by Default standard" />
   </a>
