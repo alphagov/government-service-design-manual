@@ -12,23 +12,21 @@ status: draft
   </a>
 </div>
 
-<div class="home-page-promos">
-  <div>
-    <h2>Projects</h2>
-    <p>See what's happening in projects across government and post updates about your project.</p>
-    <p class="action"><a href="#">Browse all projects</a></p>
-  </div>
-  <div>
-    <h2>Guides &amp; toolkits</h2>
-    <p>Guides, tools and resources for managers, researchers, designers and developers.</p>
-    <p class="action"><a href="#">Browse all guidance</a></p>
-  </div>
-  <div>
-    <h2>Community &amp; help</h2>
-    <p>Get help from other teams, share your experiences and check for upcoming events.</p>
-    <p class="action"><a href="#">Browse community pages</a></p>
-  </div>
-</div>
+#Government Service Design Manual
 
+The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/) sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do 
+
+The Government Digital Strategy sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do so. 
+
+As part of this, the government have created the [digital service design principles](https://www.gov.uk/designprinciples), which form the basis of the new strategy. These principles were developed and used in the design of [www.gov.uk](https://www.gov.uk), the main citizen facing website of the UK government.
+
+All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides guidelines as to how this may be achieved.
+
+current ways of working wrong. Seek to emulate best of web.
+
+
+We should be aiming for this outcome: *[Digital by default standard](http://gsdm.herokuapp.com/standard)
+
+[This is how we do it (structure of a digital project)](/guides-and-toolkits/phases).
 
 
