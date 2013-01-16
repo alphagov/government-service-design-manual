@@ -13,43 +13,33 @@
 
     <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
 
-      <section id="content" role="main" class="group">
+      <section id="content" role="main" class="group"><div class="pattern-status">{{ page.status }}</div>
 
         <div class="js-toggle-nav" id="global-nav">
           <div class="inner">
-            <span class="home"><a href="/gsdm">Government Service Design Manual</a></span>
+            <span class="home"><a href="/">Government Service Design Manual</a></span>
             <nav role="navigation" class="content">
               <ul id="navigation">
-                <li><a href="/gsdm/digitalbydefault" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default</a></li>
-                <li><a href="/gsdm/guides-and-toolkits" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>
+                <li><a href="http://gsdm.herokuapp.com/standard/" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default</a></li>
+                <li><a href="http://gsdm.herokuapp.com/handbook/" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>
               </ul>
             </nav>
           </div>
         </div>
-
-        {% if page.status %}<div class="pattern-status">{{ page.status }}</div>{% endif %}
-
         <header class="page-header group">
-
-        {% if page.subsection == "Design patterns" %}  
             <div class="breadcrumb">
               <li>
-                <a href="/gsdm/guides-and-toolkits">Guides and toolkits</a>
+                <span class="divider">/</span>
+                <a href="http://gsdm.herokuapp.com/handbook/">Guides and toolkits</a>
               </li>
               <li>
                 <span class="divider">/</span>
-                <a href="/gsdm/guides-and-toolkits/design-patterns">Design patterns</a>
+                <a href="http://gsdm.herokuapp.com/handbook/43/">Design patterns</a>
               </li>
             </div>
-        {% endif %}
-
         <hgroup><h1>{{ page.title }}</h1></hgroup></header><div class="article-container group">
         <article role="article" class="group">
           <div class="inner">
-              {% if page.subtitle %}
-                <p class="subtitle">{{ page.subtitle }}</p>
-              {% endif %}
-
               {{ content }}
             </div>
             </article>

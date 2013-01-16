@@ -8,11 +8,10 @@
 
 @mixin account-management-tools{
   .account-management-tools{
-    //margin: -1em -2em 1em;
-    margin: 0 -1em 0 0;
+    margin: -1em -2em 1em;
     padding: 1em 0em;
     color: white;
-    //background: $highlight-colour;
+    background: #EAEDEF;
     color: $text-colour;
     ul{
       list-style-type: none;

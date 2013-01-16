@@ -17,5 +17,31 @@
 }
 
 
+.default-panel{
+  @include panel;
+}
+
+.panel-2{
+  @include panel($outdent: false);
+}
+
+.right-panel{
+  @include panel($float: right);
+}
+
+.panel-4{
+  @include panel($width: 50%, $float: left);
+}
+
+.info-panel{
+  @include panel($colour: $light-blue-25, $icon: 'https://djb1962t8apu5.cloudfront.net/static/icon-information.png');
+}
+.download-panel{
+  @include panel($colour: $light-blue-25, $icon: 'https://djb1962t8apu5.cloudfront.net/static/icon-file-download.png');
+}
+.calendar-panel{
+  @include panel($colour: $light-blue-25, $icon: 'https://djb1962t8apu5.cloudfront.net/static/calendar-icon.png');
+}
+
 
 

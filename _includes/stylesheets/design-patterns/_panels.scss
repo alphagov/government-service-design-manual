@@ -9,7 +9,7 @@
 // $width           Panel width. Default: 100% (or auto if floated);
 // $float           Left, right or none. Default: none;
 // $icon            Pass an image URL. Positioned top-right. Default: none;
-// $outdent         True or false. Default: true
+// $outdent         True or false. Default: false
 //                  Outdented panels bleed into the margin so that their 
 //                  contents are aligned with the surrounding contents
                 
@@ -17,37 +17,38 @@
 @import "colours";
 
 @mixin panel(
-  $colour: $panel-colour, 
+  $colour: $panel-colour,
   $width: "", 
   $float: "",
   $icon: "",
   $outdent: true){
 
-  $horizontal-margin: -1em;
-  @if ($outdent == false){
-    $horizontal-margin: 0;
-  } 
-
   // WIDTH
+  box-sizing: border-box;
   @if ($width != ""){
     width: $width;
   }
 
+  // PADDING
+  padding: 1em 1em 0.25em 1em;
+
   // FLOAT AND MARGIN
+  $horizontal-margin: 0;
+  @if $outdent {
+    $horizontal-margin: -1em;
+  }
   @if ($float == "left"){
     float: left;
-    margin: 0 1em 1.5em $horizontal-margin;
+    margin: 0 1.5em 1em 0;
   }
   @if ($float == "right"){
     float: right;
-    margin: 0 $horizontal-margin 1.5em 1em;
+    margin: 0 0 1em 1.5em;
   }
   @if ($float == ""){
     margin: 1em $horizontal-margin 1.5em $horizontal-margin;
   }
 
-  // PADDING
-  padding: 1em 1em 0.25em 1em;
 
   // PANEL COLOUR AND ICON
   @if ($icon == ""){
