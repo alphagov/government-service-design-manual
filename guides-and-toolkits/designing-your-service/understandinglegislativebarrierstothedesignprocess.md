@@ -6,7 +6,7 @@ subsection: Designing your service
 status: draft
 ---
     
-#Common pitfalls of design
+#Understanding legislative barriers to the design process
 Your section will begin with a short, two-line summary of what you're showing people.
 
 ##Guidance/Tool
