@@ -170,7 +170,43 @@ article .inner{
 #global-nav{
   text-align:left;
 }
-
+.phase-nav{
+  width:100%;
+  margin:0 -1em;
+}
+.phase-nav li{
+  display:block;
+  float:left;
+  width:49%;
+  margin:0; 
+  padding:1em;
+  &.discovery{
+    background-color:$pink-25;
+  }
+  &.inception{
+    background-color:$pink-50;
+  }
+  &.alpha{
+    background-color:$pink;
+  }
+  &.beta{
+    background-color:$orange;
+  }
+  &.live{
+    background-color:$grass-green;
+  }
+  &.operational{
+    background-color:$grass-green-50;
+  }
+  &.decommissioning{
+    background-color:$grey-3;
+  }
+}
+.alpha-phase hgroup{
+  background-color: $pink;
+  color: #fff;
+  padding-left:2em;
+}
 
 .breadcrumb{
   list-style-type: none;
