@@ -1,0 +1,136 @@
+---
+layout: gsdm
+title: Product phases
+section: guidance
+status: draft
+css: /assets/stylesheets/phases.css
+---
+
+<script type="text/JavaScript">
+$(document).ready(function (){
+  $('#slider-nav a').click(function(){
+    var integer = $(this).attr('rel');
+    $('#myslide .wrapper').animate({left:-900*(parseInt(integer)-1)})
+    $('#slider-nav a').each(function(){
+      $(this).removeClass('active');
+      if($(this).hasClass('nav-item-'+integer)){
+        $(this).addClass('active')}
+      });
+
+      $('#myslide').attr('class', function(i, c) { return c.replace(/\bsection-\d+\b/g, 'section-'+integer); });
+
+      return false;
+  });
+  // Next section arrow link
+  $('.next-section').click(function(){
+    var classes = $(this).parent().attr('class');
+    var thisSection = classes.replace('slider section-', '');
+    var nextSection = parseInt(thisSection) + 1;
+    $('.nav-item-'+nextSection).click();
+      return false;
+  });
+  // Previous section arrow link
+  $('.prev-section').click(function(){
+    var classes = $(this).parent().attr('class');
+    var thisSection = classes.replace('slider section-', '');
+    var nextSection = parseInt(thisSection) - 1;
+    $('.nav-item-'+nextSection).click();
+      return false;
+  });
+});
+</script>
+
+
+
+  <div id="slider-nav" class="slider-nav">
+     <a class="nav-item-1 active" rel="1" href="#phase1">1. Discovery</a>
+     <a class="nav-item-2" rel="2" href="#phase2">2. Alpha</a>
+     <a class="nav-item-3" rel="3" href="#phase3">3. Beta</a>
+     <a class="nav-item-4" rel="4" href="#phase4">4. Live</a>
+  </div>
+ 
+  <div id="myslide" class="slider section-1">
+    <a class="next-section" href="#" title="Go to next phase"><span>▶</span></a>
+    <a class="prev-section" href="#" title="Go to previous phase"><span>◀</span></a>
+    <div class="wrapper">
+
+      <section id="phase1">
+        <div class="infographic">
+        </div>
+        <h2>Phase 1: Discovery</h2>
+
+        <div class="team">
+          <h3>Roles required</h3>
+          <ul>
+            <li>Service manager</li>
+            <li>Technical architect</li>
+            <li>Business analyst</li>
+            <li>Delivery manager</li>
+            <li>User researcher</li>
+          </ul>
+        </div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum.</p>
+
+        <p>Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea.</p>
+
+        <h3>Typical outputs</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea.</p>
+      </section>
+      <section id="phase2">
+        <div class="infographic">
+        </div>
+        <h2>Phase 2: Alpha</h2>
+
+        <div class="team">
+          <h3>Roles required</h3>
+          <ul>
+            <li>Service manager</li>
+            <li>Technical architect</li>
+            <li>Software developer</li>
+          </ul>
+        </div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea dictumst. Nullam euismod, eros et venenatis adipiscing, libero libero cursus magna, et semper tellus ipsum eget libero.</p>
+      </section>
+      <section id="phase3">
+        <div class="infographic">
+        </div>
+        <h2>Phase 3: Beta</h2>
+
+        <div class="team">
+          <h3>Roles required</h3>
+          <ul>
+            <li>Service manager</li>
+            <li>Technical architect</li>
+            <li>Software developer</li>
+          </ul>
+        </div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea dictumst. Nullam euismod, eros et venenatis adipiscing, libero libero cursus magna, et semper tellus ipsum eget libero.</p>
+      </section>
+      <section id="phase4">
+        <div class="infographic">
+        </div>
+        <h2 >Phase 4: Live</h2>
+
+        <div class="team">
+          <h3>Roles required</h3>
+          <ul>
+            <li>Service manager</li>
+            <li>Technical architect</li>
+            <li>Software developer</li>
+          </ul>
+        </div>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra, elit sed hendrerit condimentum, libero elit tincidunt mauris, id rutrum tellus leo at urna. Fusce dui mi, lacinia sit amet blandit vitae, interdum ut eros. Nulla egestas imperdiet rutrum. Praesent vel metus ligula. In ut leo enim, in interdum urna. In hac habitasse platea dictumst. Nullam euismod, eros et venenatis adipiscing, libero libero cursus magna, et semper tellus ipsum eget libero.</p>
+      </section>
+    </div>
+  </div>
