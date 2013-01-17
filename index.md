@@ -28,7 +28,6 @@ status: draft
 <div class="guides-overview">
   <ul>
     <li class="discovery"><a href="/guides-and-toolkits/phases/discovery.html">Discovery</a></li>
-    <li class="inception"><a href="/guides-and-toolkits/phases/inception.html">Inception</a></li>
     <li class="alpha"><a href="/guides-and-toolkits/phases/alpha.html">Alpha</a></li>
     <li class="beta"><a href="/guides-and-toolkits/phases/beta.html">Beta</a></li>
     <li class="live"><a href="/guides-and-toolkits/phases/live.html">Live</a></li>
