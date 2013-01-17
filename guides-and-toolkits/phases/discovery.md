@@ -1,8 +1,11 @@
 ---
-layout: gsdm
-title: Government service design manual
-subtitle: Everything you need to build services to the Digital by Default standard
+layout: phases
+title: Discovery
+class: discovery-phase
+section: guidance
+subsection: Phases
 status: draft
+css: /gsdm/css/phases.css
 ---
 
 
