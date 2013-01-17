@@ -116,8 +116,7 @@ status: draft
   <h3>Copy and content</h3>
   <ul>
       <li><a href="/guides-and-toolkits/copy-and-content/alphabetawarnings.html"><span class="title">Alpha and beta warnings</span><span class="description">  What they do, and how to be a good one</span></a></li>
-      <li><a href="/guides-and-toolkits/copy-and-content/commonactions.html"><span class="title">Common actions</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
-      <li><a href="/guides-and-toolkits/copy-and-content/copyinofflineorassisteddigitalchannels.html"><span class="title">Copy in offline or Assisted Digital channels</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
+      <li><a href="/guides-and-toolkits/copy-and-content/buttonlabels.html"><span class="title">Button labels</span><span class="description">  What they do, and how to be a good one</span></a></li>	    	  
       <li><a href="/guides-and-toolkits/copy-and-content/errormessages.html"><span class="title">Error messages</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	   <li><a href="/guides-and-toolkits/copy-and-content/howtowrite.html"><span class="title">How to write</span><span class="description">  What they do, and how to be a good one</span></a></li>
 	  <li><a href="/guides-and-toolkits/copy-and-content/readingages.html"><span class="title">Reading ages</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
 	  <li><a href="/guides-and-toolkits/copy-and-content/styleguide.html"><span class="title">Style guide</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
@@ -152,14 +151,13 @@ status: draft
   <ul>
       <li><a href="/guides-and-toolkits/designing-your-service/browsercompatability.html"><span class="title">Browser compatibility</span><span class="description">  What they do, and how to be a good one</span></a></li>
       <li><a href="/guides-and-toolkits/designing-your-service/buildingprototypes.html"><span class="title">Building prototypes</span><span class="description">  What they do, and how to be a good one</span></a></li>
-      <li><a href="/guides-and-toolkits/designing-your-service/colourpalettes.html"><span class="title">Colour palettes</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
-      <li><a href="/guides-and-toolkits/designing-your-service/commonpitfallsofdesign.html"><span class="title">Common pitfalls of design</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
+      <li><a href="/guides-and-toolkits/designing-your-service/colourpalettes.html"><span class="title">Colour palettes</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
       <li><a href="/guides-and-toolkits/designing-your-service/designingtheinformationyoucollect.html"><span class="title">Designing the information you collect</span><span class="description">  What they do, and how to be a good one</span></a></li>
       <li><a href="/guides-and-toolkits/designing-your-service/designpatterns.html"><span class="title">Design patterns</span><span class="description">  What they do, and how to be a good one</span></a></li>
       <li><a href="/guides-and-toolkits/designing-your-service/designprincipals.html"><span class="title">Design principals</span><span class="description">  What they do, and how to be a good one</span></a></li>
   	 <li><a href="/guides-and-toolkits/designing-your-service/impactlevels.html"><span class="title">Impact levels</span><span class="description">  What they do, and how to be a good one</span></a></li>
   	 <li><a href="/guides-and-toolkits/designing-your-service/incorperatingdataintodesign.html"><span class="title">Incorperating data into design</span><span class="description">  What they do, and how to be a good one</span></a></li>	 
-  	 <li><a href="/guides-and-toolkits/designing-your-service/legislativebarrierstodesign.html"><span class="title">Legislative barriers to design</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	 
+  	 <li><a href="/guides-and-toolkits/designing-your-service/understandinglegislativebarrierstothedesignprocess.html"><span class="title">Legislative barriers to design</span><span class="description">  What they do, and how to be a good one</span></a></li> 	 
   	 <li><a href="/guides-and-toolkits/designing-your-service/pagetemplates.html"><span class="title">Page templates</span><span class="description">  What they do, and how to be a good one</span></a></li>	 
   	 <li><a href="/guides-and-toolkits/designing-your-service/scssrepo.html"><span class="title">SCSS repository</span><span class="description">  What they do, and how to be a good one</span></a></li>	
   	 <li><a href="/guides-and-toolkits/designing-your-service/sharedassetlibraries.html"><span class="title">Shared asset libraries</span><span class="description">  What they do, and how to be a good one</span></a></li>		 
