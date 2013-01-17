@@ -1,12 +1,12 @@
 ---
 layout: gsdm
-title: Legislative barriers to design
+title: Common pitfalls of design
 section: guidance
 subsection: Designing your service
 status: draft
 ---
     
-#Legislative barriers to design
+#Understanding legislative barriers to the design process
 Your section will begin with a short, two-line summary of what you're showing people.
 
 ##Guidance/Tool
