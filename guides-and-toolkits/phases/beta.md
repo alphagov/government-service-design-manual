@@ -1,8 +1,11 @@
 ---
-layout: gsdm
-title: Government service design manual
-subtitle: Everything you need to build services to the Digital by Default standard
+layout: phases
+title: Beta
+class: beta-phase
+section: guidance
+subsection: Phases
 status: draft
+css: /gsdm/css/phases.css
 ---
 
 ##What is Public Beta for?
@@ -38,5 +41,8 @@ Depends on project, but no more than a few months
 - working system that can be used, for real, by end users
 
 ##What next?
-Next phase: LivePhase
+<ul>
+	<li><a href="">Previously: Alpha</a></li>
+	<li><a href="">Next: Live</a></li>
+</ul>
 
