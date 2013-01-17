@@ -15,7 +15,7 @@ status: draft
 	The Government Digital Strategy sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do so.
 	</p>
 	<p>
-	As part of this, the government have created the <a href="https://www.gov.uk/designprinciples">digital service design principles,/a>, which form the basis of the new strategy. These principles were developed and used in the design of <a href="https://www.gov.uk">www.gov.uk</a>, the main citizen facing website of the UK government.
+	As part of this, the government have created the <a href="https://www.gov.uk/designprinciples">digital service design principles,</a>, which form the basis of the new strategy. These principles were developed and used in the design of <a href="https://www.gov.uk">www.gov.uk</a>, the main citizen facing website of the UK government.
 	</p>
 	<p>
 	All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides guidelines as to how this may be achieved.
