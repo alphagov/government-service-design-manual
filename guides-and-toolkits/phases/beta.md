@@ -38,5 +38,8 @@ Depends on project, but no more than a few months
 - working system that can be used, for real, by end users
 
 ##What next?
-Next phase: LivePhase
+<ul>
+	<li><a href="">Previously: Alpha</a></li>
+	<li><a href="">Next: Live</a></li>
+</ul>
 

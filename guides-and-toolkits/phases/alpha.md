@@ -1,15 +1,14 @@
 ---
-layout: gsdm
+layout: phases
 title: Alpha
+class: alpha-phase
 section: guidance
-subsection: Design patterns
+subsection: Phases
 status: draft
-css: /gsdm/css/design-patterns/phase.css
+css: /gsdm/css/phases.css
 ---
 
 ##Alpha Phase
-
-Previous Phase: DiscoveryPhase
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, 
 
@@ -52,7 +51,11 @@ When designing a digital system it is impossible to predict everything up-front.
 - decision to progress to next phase
 
 ##What next?
-Next phase: PublicBetaPhase
+<ul class="phase-nav">
+	<li class="discovery"><a href="">Previously: Discovery</a></li>
+	<li class="beta"><a href="">Next: Public Beta</a></li>
+</ul>
+
 
 
 
