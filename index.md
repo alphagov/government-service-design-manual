@@ -32,7 +32,6 @@ status: draft
     <li class="beta"><a href="/guides-and-toolkits/phases/beta.html">Beta</a></li>
     <li class="live"><a href="/guides-and-toolkits/phases/live.html">Live</a></li>
     <li class="operational"><a href="/guides-and-toolkits/phases/operational.html">Operational</a></li>
-    <li class="decommissioning"><a href="/guides-and-toolkits/phases/decommissioning.html">Decommisioning</a></li>
   </ul>
 </div>
 
