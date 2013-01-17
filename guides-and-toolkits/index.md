@@ -6,6 +6,28 @@ section: guidance
 status: draft
 ---
 
+<div class="guides-intro">
+
+	<p>
+	The <a href="http://publications.cabinetoffice.gov.uk/digital/">Government Digital Strategy</a> sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do 
+	</p>
+	<p>
+	The Government Digital Strategy sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do so.
+	</p>
+	<p>
+	As part of this, the government have created the <a href="https://www.gov.uk/designprinciples">digital service design principles,/a>, which form the basis of the new strategy. These principles were developed and used in the design of <a href="https://www.gov.uk">www.gov.uk</a>, the main citizen facing website of the UK government.
+	</p>
+	<p>
+	All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides guidelines as to how this may be achieved.
+	</p>
+	<p>
+	current ways of working wrong. Seek to emulate best of web.
+	</p>
+	<p>
+	We should be aiming for this outcome: <a href="/digital-by-default">Digital by default standard</a>
+	</p>
+</div>
+
 <div class="guides-overview">
   <ul>
     <li class="discovery"><a href="/guides-and-toolkits/phases/discovery.html">Discovery</a></li>
@@ -16,29 +38,6 @@ status: draft
     <li class="operational"><a href="/guides-and-toolkits/phases/operational.html">Operational</a></li>
     <li class="decommissioning"><a href="/guides-and-toolkits/phases/decommissioning.html">Decommisioning</a></li>
   </ul>
-</div>
-
-<div class="guides-intro">
-  <!--div class="recently-updated">
-    <h2>Recently updated guides</h2>
-    <ul>
-      <li><a href="http://gsdm.herokuapp.com/handbook/161/">User research briefs</a></li>
-      <li><a href="http://gsdm.herokuapp.com/handbook/46/">Incorporating data into design</a></li>
-      <li><a href="http://gsdm.herokuapp.com/handbook/179/">Running retrospectives</a></li>
-      <li><a href="http://gsdm.herokuapp.com/handbook/149/">Community user groups</a></li>
-      <li><a href="http://gsdm.herokuapp.com/handbook/179/">Running retrospectives</a></li>
-    </ul>
-  </div-->
-
-  <div class="getting-started">
-
-    <p>Whether you're a service manager, designer, developer or researcher, there'll be something here to help you make a world class digital service.</p>
-
-    <p>If you've ever wondered <a href="http://gsdm.herokuapp.com/handbook/119/">what Agile is</a>, how to conduct good <a href="http://gsdm.herokuapp.com/handbook/153/">cost-effective user research</a> or how to <a href="http://gsdm.herokuapp.com/handbook/18/">build a great team</a> around your service, these guides will help you.</p>
-
-    <p>All these guides follow the GOV.UK <a href="http://gsdm.herokuapp.com/handbook/129/">service design principles</a> and are design to help you meet the <a href="http://gsdm.herokuapp.com/standard/">Digital by Default</a> standard.</p>
-
-  </div>
 </div>
 
 <!--
