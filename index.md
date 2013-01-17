@@ -233,14 +233,14 @@ status: draft
 <div class="topic">
   <h3>Technical architecture</h3>
   <ul>
-      <li><a href="/guides-and-toolkits/technical-archetecture/codetesting.html"><span class="title">Code testing</span><span class="description">  What they do, and how to be a good one</span></a></li>
-      <li><a href="/guides-and-toolkits/technical-archetecture/configurationmanagement.html"><span class="title">Confirguration management</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
-      <li><a href="/guides-and-toolkits/technical-archetecture/domainnames.html"><span class="title">Domain names</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
-      <li><a href="/guides-and-toolkits/technical-archetecture/loadandperformancetesting.html"><span class="title">Load and performance testing</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
-      <li><a href="/guides-and-toolkits/technical-archetecture/logins.html"><span class="title">Logins</span><span class="description">  What they do, and how to be a good one</span></a></li>	
-      <li><a href="/guides-and-toolkits/technical-archetecture/opensourceconsiderations.html"><span class="title">Open source considerations</span><span class="description">  What they do, and how to be a good one</span></a></li>		    
-      <li><a href="/guides-and-toolkits/technical-archetecture/penetrationtesting.html"><span class="title">Penetration testing</span><span class="description">  What they do, and how to be a good one</span></a></li>		    	  	  	  	  
-      <li><a href="/guides-and-toolkits/technical-archetecture/sandboxandstagingservers.html"><span class="title">Sandbox and staging servers</span><span class="description">  What they do, and how to be a good one</span></a></li>		    	  	  	  	  	  
+      <li><a href="/guides-and-toolkits/technical-architecture/codetesting.html"><span class="title">Code testing</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/technical-architecture/configurationmanagement.html"><span class="title">Confirguration management</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
+      <li><a href="/guides-and-toolkits/technical-architecture/domainnames.html"><span class="title">Domain names</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
+      <li><a href="/guides-and-toolkits/technical-architecture/loadandperformancetesting.html"><span class="title">Load and performance testing</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	  
+      <li><a href="/guides-and-toolkits/technical-architecture/logins.html"><span class="title">Logins</span><span class="description">  What they do, and how to be a good one</span></a></li>	
+      <li><a href="/guides-and-toolkits/technical-architecture/opensourceconsiderations.html"><span class="title">Open source considerations</span><span class="description">  What they do, and how to be a good one</span></a></li>		    
+      <li><a href="/guides-and-toolkits/technical-architecture/penetrationtesting.html"><span class="title">Penetration testing</span><span class="description">  What they do, and how to be a good one</span></a></li>		    	  	  	  	  
+      <li><a href="/guides-and-toolkits/technical-architecture/sandboxandstagingservers.html"><span class="title">Sandbox and staging servers</span><span class="description">  What they do, and how to be a good one</span></a></li>		    	  	  	  	  	  
   </ul>
 </div>
 
