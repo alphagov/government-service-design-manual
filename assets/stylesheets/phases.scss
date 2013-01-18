@@ -12,7 +12,7 @@
 // CONTENT SLIDER
 
 $slider-width: 900px;
-$slider-height: 600px;
+$slider-height: 650px;
 $slider-sections: 4;
 
 .slider {
@@ -152,20 +152,39 @@ $slider-sections: 4;
 // Slider section content
 .infographic{
   background-color: $highlight-colour;
-  height: 100px;
+  height: 8em;
   margin: 0 -2em 0 -1em;
 }
-.phase4 .infographic{
+#phase4 .infographic{
   margin-right: -6em;
 }
-
 .team{
   background-color: $highlight-colour;
   padding: 1em;
   width: 200px;
   float: right;
   margin-left: 1em;
+  margin-top: -3em;
   h3{
     margin-top: 0;
+  }
+}
+
+.outputs{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  li{
+    margin: 0 1em 0 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    text-align: center;
+  }
+  .output{
+    width: 6em;
+    height: 6em;
+    background-color: $highlight-colour;
   }
 }
