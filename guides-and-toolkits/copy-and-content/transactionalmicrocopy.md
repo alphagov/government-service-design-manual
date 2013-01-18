@@ -13,7 +13,7 @@ status: draft
 <p>Don’t use:</p>
 <ul>
 <li>&lsquo;please&rsquo; on labels - give polite, clear, short instruction
-<li>colons after labels DESIGN
+<li>colons after labels 
 <li>Don&rsquo;t add &lsquo;your&rsquo; to labels etc, for example: your name, your address etc, use &lsquo;name&rsquo;, &lsquo;address&rsquo;, unless you have a page with multiple people where you need to differentiate - for example: &lsquo;your name&rsquo;, ‘partner name&rsquo; etc
 </li>
 
@@ -24,8 +24,8 @@ status: draft
 </li>
 
 <p>Style:</p>
-<li>first name - not Christian name
-<li>last name - not family name
+<li>first name &ndash; not Christian name
+<li>last name &ndash; not family name
 <li>middle name(s)
 <li>age
 <li>date of birth - in full, not DOB
@@ -34,13 +34,15 @@ status: draft
 ###Help text
 <p>There are 3 levels of text:</p>
 <strong>On-page help</strong>
-<p>One line under the label that will help the user to fill in that field. Example: 
+<p>One line under the label that will help the user to fill in that field.</p>
+<p>Examples: &lsquo;If you don't have your form XYZ rsquo; or &lsquo;Where to find your Unique Tax Reference Number.&rsquo;
 
 <strong>Show/hide</strong>
-<p>Use an expandable show/hide box for actions like: &lsquo;If you don't have....&rsquo; or &lsquo;Where to find your Unique Tax Reference Number&rsquo;</p>
+<p>Use an expandable show/hide box for slightly more lengthy instructions. You can use statements and questions but don't use the first person.</p>
+<p> Examples: &lsquo;If you want to apply for both of these benefits&rsquo; (in this instance, you can&rsquo;t and there is another process you have to go through.
 
 <strong>Light box</strong>
-<p>Only use a light box for help if you are explaining a concept or part of a process - don't use it for explaining any part of the service. </p>
+<p>Only use a light box for help if you are explaining a concept or part of a process - don't use it for explaining any part of the service. If you need to explain how the service works with that much text, your design is probably wrong.</p>
 
 
 ###Radio buttons
