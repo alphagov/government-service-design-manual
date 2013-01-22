@@ -8,7 +8,7 @@ baseurl:    /
 source:      ./
 destination: ./_site
 plugins:     ./_plugins
-
+exclude: Procfile, Gemfile, Gemfile.lock, config.ru
 future:      true
 lsi:         false
 pygments:    false

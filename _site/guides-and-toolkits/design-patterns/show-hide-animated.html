@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Show/hide link, animated</title>
+
+
+    
+    <!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/static/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/static/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/static/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/static/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="http://static.preview.alphagov.co.uk/static/print.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["http://static.preview.alphagov.co.uk/static/fonts-ie8.css"]},
+  c="http://static.preview.alphagov.co.uk/static/libs/goog/webfont-debug.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="http://static.preview.alphagov.co.uk/static/fonts.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="http://static.preview.alphagov.co.uk/static/libs/jquery/jquery-1.7.2.js" type="text/javascript"></script><script defer src="http://static.preview.alphagov.co.uk/static/application.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="http://static.preview.alphagov.co.uk/static/ie.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="http://static.preview.alphagov.co.uk/static/favicon.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-144x144.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-114x114.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-72x72.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-57x57.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script src="http://static.preview.alphagov.co.uk/frontend/frontend.js" type="text/javascript"></script>
+
+<link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml">
+<!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/frontend/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link rel="alternate" type="application/json" href="/api/with_tag.json?tag=find-course">
+<!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
+  </head>
+
+  <body class="mainstream full-width">
+    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+        <!--start header-->
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="http://static.preview.alphagov.co.uk/static/gov.uk_logotype-2x.png" alt="GOV.UK Logo"></a>
+
+        <a href="#footer" class="visuallyhidden">Skip to footer navigation</a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search" method="get" role="search">
+          <label for="site-search-text" class="">Search</label>
+          <input type="search" name="q" placeholder="Search GOV.UK" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+        </form>
+      </div>
+    </header>
+    <!--end header-->
+
+    <div id="wrapper" class="">
+
+      <section id="content" role="main" class="group">
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/" class="current">Government Service Design Manual</a></li>
+                <li><a href="/digital-by-default" >Digital by Default standard</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+    
+
+        <header class="page-header group">
+
+          
+            <div class="breadcrumb">
+              <li>
+                <a href="/gsdm/guides-and-toolkits">Guides and toolkits</a>
+              </li>
+              <li>
+                <span class="divider">/</span>
+                <a href="/gsdm/guides-and-toolkits/design-patterns">Design patterns</a>
+              </li>
+            </div>
+        
+
+        <hgroup><h1>Show/hide link, animated</h1></hgroup></header><div class="article-container group">
+        <article role="article" class="group">
+          <div class="inner">
+              
+
+              <p>When you click on the link it toggles some content immediately below it. The details and summary tags in HTML5 are specifically intended for this kind of thing, but the current browser behaviour is a little clunky.</p>
+
+<p>This page instead shows the type of animation which could work well.</p>
+
+<p>For example, the following code: </p>
+
+<pre><code>&lt;section&gt;
+ &lt;p class="showhide-trigger"&gt;More information about this show/hide design pattern&lt;/p&gt;
+ &lt;p class="showhide-description"&gt;This show/hide implementation reveals the additional information as if masked by a sheet in front. The transition DOES NOT re-flow any text, squash lines together, or reposition the content being revealed.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;p&gt;This is content after the show/hide design pattern. It moves up and down rather than being obscured by the description when it is shown.&lt;/p&gt;
+</code></pre>
+
+<p>Is rendered on GOV.UK like this:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+
+    <section>
+      <p class="showhide-trigger">More information about this show/hide design pattern</p>
+      <p class="showhide-description">This show/hide implementation reveals the additional information as if masked by a sheet in front. The transition DOES NOT re-flow any text, squash lines together, or reposition the content being revealed.</p>
+    </section>
+
+  </div>
+</div>
+
+<hr />
+
+<h1 id="dependencies">Dependencies</h1>
+
+<p>Include the following in your SCSS to activate the <a href="https://github.com/alphagov/prototyping/blob/master/_includes/scss/design-patterns/_show-hide.scss">show/hide mixin</a>:</p>
+
+<pre><code>@import "frontend_toolkit";
+@import "design_patterns";
+
+@include details-and-summary;
+</code></pre>
+
+<p>The optional argument; <code>highlighted</code>, creates a highlight effect on the open state 
+(you can also pass a colour variable or value if you don’t want the default grey background).</p>
+
+<p>So, for example:</p>
+
+<pre><code>@include details-and-summary(highlighted);
+</code></pre>
+
+<p>gives you:</p>
+
+<div class="pattern-example show-hide-version-2">
+  <div class="inner">
+
+    <details>
+      <summary>What happens if I click on this summary tag?</summary>
+      <p>The remaining contents of the details tag are revealed inside a highlighted panel</p>
+    </details>
+
+  </div>
+</div>
+
+<h1 id="cross-browser-support">Cross browser support</h1>
+
+<p>Cross browser support for these tags is <a href="http://caniuse.com/details">patchy right now</a>. However, there’s a <a href="https://github.com/mathiasbynens/jquery-details">JQuery plugin</a> to bridge the gap,
+ which has the added bonus of adding appropriate ARIA roles to the elements. You’ll need to add the following to
+ your pages:</p>
+
+<pre><code>&lt;script src="../javascripts/jquery.details.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+  $(function() {
+    // Add conditional classname based on support
+    $('html').addClass($.fn.details.support ? 'details' : 'no-details');
+    // Emulate &lt;details&gt; where necessary and enable open/close event handlers
+    $('details').details();
+  });
+&lt;/script&gt;
+</code></pre>
+
+<hr />
+
+<h1 id="guidance">Guidance</h1>
+
+<p>Use this pattern carefully. The objective is to declutter your interface by hiding information
+that’s only relevant to a small proportion of users. If a majority of users need that information, <em>don’t hide it</em>.</p>
+
+<p>The wording of the summary tag is critical. It must directly and unambiguously address the audience for whom the hidden information is intended.</p>
+
+<p>One way we’ve found that’s quite effective is to write the summary in the users own voice, as a question.
+This forces you to try and pre-empt what it is the user will be asking themselves at that point.</p>
+
+<p>Here’s an example to illustrate. Imagine the user has just been asked to submit some documents via a web form:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+
+    <details class="animated">
+      <summary>What if I can't submit these documents electronically?</summary>
+      <p>Don't worry, you can send in copies of your documents by post. We'll give you the address
+        and reference number to use once you've paid your licence fee.</p>
+    </details>
+
+  </div>
+</div>
+
+<p>It goes without saying that if you string a whole bunch of these together you’ve got yourself an FAQ page.</p>
+
+<hr />
+
+<h1 id="rationale">Rationale</h1>
+
+<p>One of the key challenges with this pattern is to help users understand that they won’t be taken away from the current page if they click the link.</p>
+
+<p>The ‘arrow’ style bullet is the closest thing we’ve got to a convention here. It’s the default style for details/summary tags in modern browsers and has precendents in things like expanding tree diagrams, so we’ve decided to keep it. If we use it consistently across the site then hopefully it will start to become familiar to people.</p>
+
+<hr />
+
+<h1 id="discussion">Discussion</h1>
+
+<p>OK, so I opted for details/summary tags plus a polyfill. Anyone violently object? The thing is, if we don’t use them we’re going to
+have to create the pattern using JavaScript and divs anyway.</p>
+
+<p>TO DO: Ask Leonie is she could test drive the plugin and see if it really does what it claims to.</p>
+
+<script src="../javascripts/jquery.details.js"></script>
+
+<script>
+  $(function() {
+    // Add conditional classname based on support
+    $('html').addClass($.fn.details.support ? 'details' : 'no-details');
+    // Emulate <details> where necessary and enable open/close event handlers
+    $('details').details();
+  });
+</script>
+
+
+            </div>
+            </article>
+          </div>
+		  <div>
+		  	<a href="/guides-and-toolkits/feedback.html">How to give feedback on the manual</a>
+		  </div>
+      </section>
+    </div><!--end wrapper-->
+    <footer class="group" id="footer" role="contentinfo">
+      <div class="footer-wrapper">
+        <nav class="footer-categories"><h2>Explore GOV.UK</h2>
+
+          <ul>
+<li><a href="/browse/driving">Driving, transport, and travel</a></li>
+            <li><a href="/browse/business">Businesses and self-employed</a></li>
+            <li><a href="/browse/education">Education and learning</a></li>
+            <li><a href="/browse/housing">Housing and local services</a></li>
+            <li><a href="/browse/justice">Crime, justice and the law</a></li>
+            <li><a href="/browse/tax">Money and tax</a></li>
+          </ul>
+<ul>
+<li><a href="/browse/benefits">Benefits</a></li>
+            <li><a href="/browse/employing-people">Employing people</a></li>
+            <li><a href="/browse/working">Working, jobs and pensions</a></li>
+            <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages, parenting and care</a></li>
+          </ul>
+<div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">&copy; Crown Copyright</a>
+          </div>
+        </nav><div class="footer-meta">
+          <ul>
+<li><a href="/help">Help</a></li>
+            <li><a href="/help/cookies">Cookies</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+          </ul>
+<div class="colophon">Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</div>
+          <p>Where indicated, content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a></p>
+
+        </div>
+      </div>
+    </footer>
+
+
+  </body>
+</html>

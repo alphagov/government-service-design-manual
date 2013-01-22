@@ -1,0 +1,514 @@
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/*
+ * Old green: 28a198
+ * New green: 008270
+ */
+/* buttons! */
+/* line 12, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button,
+.button:visited {
+  display: inline;
+  border: none;
+  text-decoration: none;
+  position: relative;
+  top: -3px;
+  line-height: 1.25;
+  -webkit-box-shadow: 0 2px 0 black;
+  -moz-box-shadow: 0 2px 0 black;
+  box-shadow: 0 2px 0 black; }
+
+/* line 25, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button:active,
+.button:focus {
+  background-color: #28A197; }
+
+/* line 30, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button,
+.button.medium {
+  padding: 0.25em 0.5em; }
+
+/* line 34, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button.medium {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 19px;
+  font-size: 1.9rem;
+  line-height: 1.36842;
+  font-weight: 400;
+  text-transform: none; }
+  @media (max-width: 640px) {
+    /* line 34, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .button.medium {
+      font-size: 1.6rem;
+      line-height: 1.25; } }
+
+/* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button .call-to-action,
+.get-started .button.big,
+.button,
+.button:visited {
+  background-color: #008270;
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 3px 0 black;
+  -moz-box-shadow: 0 3px 0 black;
+  box-shadow: 0 3px 0 black;
+  font-weight: 300; }
+
+/* line 55, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button:hover span.call-to-action,
+.get-started .button.big:hover,
+.button:hover {
+  background-color: #3ABAA8;
+  color: #fff; }
+
+/* line 62, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button:active,
+.button.big:active,
+.button:active span.call-to-action {
+  -webkit-transform: translate(0, 3px);
+  -moz-transform: translate(0, 3px);
+  -o-transform: translate(0, 3px);
+  transform: translate(0, 3px);
+  box-shadow: none;
+  outline: none; }
+
+/* line 73, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button .call-to-action,
+.get-started .button.big,
+#search .button.big {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 0.66667;
+  font-weight: 400;
+  text-transform: none;
+  padding: 0.45em 1.7em 0.45em 0.5em;
+  background-image: image-url("icon-pointer.png");
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  display: inline-block; }
+  @media (max-width: 640px) {
+    /* line 73, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button .call-to-action,
+    .get-started .button.big,
+    #search .button.big {
+      font-size: 2rem;
+      line-height: 1.2; } }
+
+/* get started buttons */
+/* line 83, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started {
+  margin: 1.5em 0 0 0;
+  text-align: right; }
+  /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  .get-started .button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: transparent;
+    box-shadow: none;
+    text-align: left;
+    /* 
+     * In selectors such as .get-started .button.big the chained .button.big is read as
+     * .big by IE6 (see http://www.maxdesign.com.au/articles/multiple-classes/)
+     * This means it no longer has the precedence given by 2 classes and gets overwritten
+     * by the .get-started .button classes that follow.
+     * Just for IE6, add styles to this block to re-assert the styles after those that overwrite.
+    */ }
+    /* line 94, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button:active {
+      /* 
+       * this compensates for this style being pushed down twice by keeping 
+       * the inner span still 
+       */
+      /* this compensates for the whole thing being pushed down by pushing back up */ }
+      /* line 99, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      .get-started .button:active .call-to-action {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0); }
+      /* line 107, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      .get-started .button:active .destination {
+        -webkit-transform: translate(0, -3px);
+        -moz-transform: translate(0, -3px);
+        -o-transform: translate(0, -3px);
+        transform: translate(0, -3px); }
+    /* line 115, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button span {
+      cursor: pointer; }
+    /* line 119, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button .destination {
+      font-family: "nta", "GDS-Regular", sans-serif;
+      font-size: 14px;
+      font-size: 1.4rem;
+      line-height: 1.42857;
+      font-weight: 400;
+      -webkit-font-smoothing: subpixel-antialiased;
+      text-transform: none;
+      color: #333;
+      display: block;
+      margin-top: 0.5em;
+      max-width: 13em; }
+      @media (max-width: 640px) {
+        /* line 119, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+        .get-started .button .destination {
+          font-size: 1.2rem;
+          line-height: 1.25; } }
+
+/* line 167, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+a.button[rel="external"]:after {
+  content: none;
+  margin-left: 0;
+  margin-right: 0; }
+
+/* line 173, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+input {
+  /* below fixes a bug where IE puts a nasty black border around these elements */ }
+  /* line 174, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  input[disabled="disabled"] {
+    opacity: 0.5; }
+  /* line 179, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  input[type="text"], input[type="search"] {
+    font-family: "nta", "GDS-Regular", sans-serif;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.25;
+    font-weight: 300;
+    text-transform: none;
+    border: 1px solid #bbbbbb;
+    min-width: 8em;
+    margin: 0 0.5em;
+    padding: 0.25em; }
+    @media (max-width: 640px) {
+      /* line 179, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      input[type="text"], input[type="search"] {
+        font-size: 1.4rem;
+        line-height: 1.14286; } }
+
+/* Example use:
+    <details>
+      <summary>Wanna know more?</sumary>
+      <p>Of course you do!</p>
+    </details>
+*/
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+/* Cross-browser shims
+
+  Ways of normalising properties across browsers.
+ */
+/* Usage:
+   @include inline-block
+
+   or
+
+   @include inline-block("250px")
+
+   which gives a min-height to the inline-block elements.
+*/
+/* Contain floats usage:
+
+   .this-has-floated-children {
+     @extend %contain-floats;
+   }
+
+*/
+/* Example use:
+    <details>
+      <summary>Wanna know more?</sumary>
+      <p>Of course you do!</p>
+    </details>
+*/
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/* line 414, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn {
+  background: #006435;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #00180c;
+  -moz-box-shadow: 0 2px 0 #00180c;
+  box-shadow: 0 2px 0 #00180c;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: white; }
+  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:hover, .btn:focus {
+    background: #004b27; }
+  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #006435;
+    -moz-box-shadow: 0 0 0 #006435;
+    box-shadow: 0 0 0 #006435; }
+  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn.disabled:hover {
+      cursor: default;
+      background-color: #006435; }
+    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #00180c;
+      -moz-box-shadow: 0 0.2em 0 #00180c;
+      box-shadow: 0 0.2em 0 #00180c; }
+  /* line 43, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:hover, .btn:focus, .btn:visited {
+    color: white; }
+
+/* line 417, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn-secondary {
+  background: #dee0e2;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #b5babe;
+  -moz-box-shadow: 0 2px 0 #b5babe;
+  box-shadow: 0 2px 0 #b5babe;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: #0b0c0c; }
+  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:hover, .btn-secondary:focus {
+    background: #d0d3d6; }
+  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #dee0e2;
+    -moz-box-shadow: 0 0 0 #dee0e2;
+    box-shadow: 0 0 0 #dee0e2; }
+  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-secondary.disabled:hover {
+      cursor: default;
+      background-color: #dee0e2; }
+    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-secondary.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #b5babe;
+      -moz-box-shadow: 0 0.2em 0 #b5babe;
+      box-shadow: 0 0.2em 0 #b5babe; }
+  /* line 50, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:visited {
+    color: #0b0c0c; }
+
+/* line 420, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn-warning {
+  background: #b10e1e;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #6a0812;
+  -moz-box-shadow: 0 2px 0 #6a0812;
+  box-shadow: 0 2px 0 #6a0812;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: white; }
+  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:hover, .btn-warning:focus {
+    background: #990c1a; }
+  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #b10e1e;
+    -moz-box-shadow: 0 0 0 #b10e1e;
+    box-shadow: 0 0 0 #b10e1e; }
+  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-warning.disabled:hover {
+      cursor: default;
+      background-color: #b10e1e; }
+    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-warning.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #6a0812;
+      -moz-box-shadow: 0 0.2em 0 #6a0812;
+      box-shadow: 0 0.2em 0 #6a0812; }
+  /* line 43, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:hover, .btn-warning:focus, .btn-warning:visited {
+    color: white; }
+
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+/* line 9 */
+.icons.big {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .icons.big > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 23.125%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .icons.big > *:nth-child(4n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .icons.big > * *:first-child {
+      margin-top: 0; }
+  /* line 11 */
+  .icons.big .icon {
+    height: 8em; }
+/* line 13 */
+.icons.small {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .icons.small > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 18%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .icons.small > *:nth-child(5n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .icons.small > * *:first-child {
+      margin-top: 0; }
+  /* line 15 */
+  .icons.small .icon {
+    height: 6em; }
+/* line 17 */
+.icons .icon {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  display: block; }
+  /* line 17, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_utils.scss */
+  .icons .icon * {
+    vertical-align: middle; }
+  /* line 23, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_utils.scss */
+  .icons .icon span {
+    display: inline-block;
+    height: 100%;
+    width: 1px;
+    text-decoration: none; }
+/* line 20 */
+.icons a {
+  border: 1px solid #bfc1c3;
+  display: block;
+  text-decoration: none; }
+  /* line 24 */
+  .icons a:hover {
+    background-color: #d5e8f3; }
+/* line 28 */
+.icons img {
+  margin: 1em 0; }
+/* line 31 */
+.icons p {
+  background: #f8f8f8;
+  display: block;
+  padding: .5em;
+  margin: 0;
+  text-align: center;
+  text-decoration: underline; }
