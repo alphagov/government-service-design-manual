@@ -17,9 +17,7 @@ $(document).ready(function (){
       if($(this).hasClass('nav-item-'+integer)){
         $(this).addClass('active')}
       });
-
       $('#myslide').attr('class', function(i, c) { return c.replace(/\bsection-\d+\b/g, 'section-'+integer); });
-
       return false;
   });
   // Next section arrow link

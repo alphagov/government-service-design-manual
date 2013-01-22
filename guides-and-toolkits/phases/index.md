@@ -3,11 +3,12 @@ layout: gsdm
 title: Government service design manual
 subtitle: Everything you need to build services to the Digital by Default standard
 status: draft
+css: /assets/stylesheets/phases.css
 ---
 
 #Structure of a Digital by Default project
 
-[big picture at the top please]
+<img class="phase-diagram" src="/assets/images/phases-diagram.png" alt="Diagram showing the four main development phases of a Digital by Default service" />
 
 Citizens increasingly web savvy, more demanding.
 

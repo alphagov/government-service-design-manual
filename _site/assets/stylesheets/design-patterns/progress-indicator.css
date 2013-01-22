@@ -1,17 +1,17 @@
 /* Progress indicator */
 /* Progress indicator */
-/* line 12, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 12, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator {
   padding: 0; }
 
-/* line 15, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 15, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol {
   list-style-type: decimal;
   list-style-position: inside;
   margin: 0;
   padding: 0; }
 
-/* line 21, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 21, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li {
   background-color: #f8f8f8;
   float: left;
@@ -25,31 +25,31 @@ nav.progress-indicator ol li {
   border-right: none;
   border-left: none; }
 
-/* line 40, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 40, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:first-child {
   border-left: solid 1px #bfc1c3;
   margin-left: 0;
   padding-left: 1em; }
 
-/* line 45, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 45, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li.active {
   background-color: white; }
 
-/* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 51, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li.done {
   color: #777; }
 
-/* line 54, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 54, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:last-child {
   border-right: 1px solid #bfc1c3;
   padding-right: 1em; }
 
-/* line 59, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:last-child::before,
 nav.progress-indicator ol li:last-child::after {
   display: none; }
 
-/* line 63, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 63, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:before,
 nav.progress-indicator ol li:after {
   border: solid transparent;
@@ -60,7 +60,7 @@ nav.progress-indicator ol li:after {
   pointer-events: none;
   z-index: 10; }
 
-/* line 72, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 72, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:after {
   border-left-color: #f8f8f8;
   border-width: 18px;
@@ -68,7 +68,7 @@ nav.progress-indicator ol li:after {
   right: -36px;
   margin-top: -29px; }
 
-/* line 79, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 79, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li:before {
   border-left-color: #bfc1c3;
   border-width: 18px;
@@ -76,15 +76,15 @@ nav.progress-indicator ol li:before {
   right: -37px;
   margin-top: -29px; }
 
-/* line 86, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 86, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 nav.progress-indicator ol li.active:after {
   border-left-color: white; }
 
-/* line 89, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 89, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 .lte-ie8 nav.progress-indicator ol li {
   padding: 0.25em 1em; }
 
-/* line 92, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+/* line 92, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
 .lte-ie8 nav.progress-indicator .step-count {
   display: block;
   position: relative;
@@ -95,16 +95,16 @@ nav.progress-indicator ol li.active:after {
 /* line 9 */
 .alt {
   /* Progress indicator */ }
-  /* line 12, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 12, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator {
     padding: 0; }
-  /* line 15, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 15, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol {
     list-style-type: decimal;
     list-style-position: inside;
     margin: 0;
     padding: 0; }
-  /* line 21, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 21, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li {
     background-color: white;
     float: left;
@@ -117,27 +117,27 @@ nav.progress-indicator ol li.active:after {
     position: relative;
     border-right: none;
     border-left: none; }
-  /* line 40, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 40, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:first-child {
     border-left: solid 1px #006435;
     margin-left: 0;
     padding-left: 1em; }
-  /* line 45, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 45, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li.active {
     background-color: #006435;
     color: white; }
-  /* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 51, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li.done {
     color: #777; }
-  /* line 54, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 54, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:last-child {
     border-right: 1px solid #006435;
     padding-right: 1em; }
-  /* line 59, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:last-child::before,
   .alt nav.progress-indicator ol li:last-child::after {
     display: none; }
-  /* line 63, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 63, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:before,
   .alt nav.progress-indicator ol li:after {
     border: solid transparent;
@@ -147,27 +147,27 @@ nav.progress-indicator ol li.active:after {
     position: absolute;
     pointer-events: none;
     z-index: 10; }
-  /* line 72, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 72, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:after {
     border-left-color: white;
     border-width: 18px;
     top: 29px;
     right: -36px;
     margin-top: -29px; }
-  /* line 79, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 79, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li:before {
     border-left-color: #006435;
     border-width: 18px;
     top: 29px;
     right: -37px;
     margin-top: -29px; }
-  /* line 86, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 86, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt nav.progress-indicator ol li.active:after {
     border-left-color: #006435; }
-  /* line 89, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 89, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt .lte-ie8 nav.progress-indicator ol li {
     padding: 0.25em 1em; }
-  /* line 92, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
+  /* line 92, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_progress-indicator.scss */
   .alt .lte-ie8 nav.progress-indicator .step-count {
     display: block;
     position: relative;
