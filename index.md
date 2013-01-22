@@ -25,6 +25,7 @@ status: draft
 	</p>
 </div>
 
+
 <div class="guides-overview">
   <ul>
     <li class="discovery"><a href="/guides-and-toolkits/phases/discovery.html">Discovery</a></li>
