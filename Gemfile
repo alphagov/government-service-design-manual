@@ -7,3 +7,6 @@ gem "RedCloth", "4.2.9"
 gem "sass"
 gem "coderay"
 gem "govuk_frontend_toolkit"
+gem 'rack-jekyll'
+gem 'thin'
+gem 'foreman'
