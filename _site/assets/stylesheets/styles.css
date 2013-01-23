@@ -1986,8 +1986,7 @@ article dd {
         /* line 615 */
         .topic ul li a .description {
           width: 68%;
-          color: #6F777B;
-          display: none; }
+          color: #6F777B; }
         /* line 620 */
         .topic ul li a:hover .description {
           text-decoration: underline; }

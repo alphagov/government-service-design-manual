@@ -618,7 +618,7 @@ article dd{
         .description{
           width: 68%;
           color: #6F777B;
-          display: none; // temporarily hidden until we have content for this object
+          //display: none; // temporarily hidden until we have content for this object
         }
         &:hover .description{
           text-decoration: underline;
