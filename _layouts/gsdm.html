@@ -14,12 +14,27 @@
 
       <section id="content" role="main" class="group">
 
+        <!--
         <div class="js-toggle-nav" id="global-nav">
           <div class="inner">
             <nav role="navigation" class="content">
               <ul id="navigation">
                 <li><a href="/" {% if page.section == 'guidance' %}class="current"{% endif %}>Government Service Design Manual</a></li>
                 <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default standard</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      -->
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <span class="home"><a href="/" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual</a></span>
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default</a></li>
+                <li><a href="/guides-and-toolkits" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>    
+                <li><a href="/feedback" {% if page.section == 'feedback' %}class="current"{% endif %}>Feedback</a></li>
               </ul>
             </nav>
           </div>
@@ -32,11 +47,11 @@
         {% if page.subsection == "Design patterns" %}  
             <div class="breadcrumb">
               <li>
-                <a href="/gsdm/guides-and-toolkits">Guides and toolkits</a>
+                <a href="/guides-and-toolkits">Guides and toolkits</a>
               </li>
               <li>
                 <span class="divider">/</span>
-                <a href="/gsdm/guides-and-toolkits/design-patterns">Design patterns</a>
+                <a href="/guides-and-toolkits/design-patterns">Design patterns</a>
               </li>
             </div>
         {% endif %}
@@ -52,9 +67,6 @@
             </div>
             </article>
           </div>
-		  <div>
-		  	<a href="/guides-and-toolkits/feedback.html">How to give feedback on the manual</a>
-		  </div>
       </section>
     </div><!--end wrapper-->
     {% include _footer.html %}

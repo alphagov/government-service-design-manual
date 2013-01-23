@@ -2,7 +2,7 @@
 layout: gsdm
 title: Government Service Design Manual
 subtitle: Everything you need to build services to the Digital by Default standard
-section: guidance
+section: home
 status: draft
 ---
 
@@ -25,7 +25,7 @@ status: draft
 	</p>
 </div>
 
-<a href="guides-and-toolkits/phases"><img class="phase-diagram" src="/assets/images/phases-diagram.png" alt="Diagram showing the four main development phases of a Digital by Default service" /></a>
+<a href="guides-and-toolkits/phases"><img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a Digital by Default service" /></a>
 
 <!--
 <div class="guides-overview">

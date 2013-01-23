@@ -97,6 +97,7 @@ $gutter-one-third:  $gutter*(1/3); // equivalent to 10px
       #navigation{
         margin: 0;
         padding: 0;
+        float: right;
       }
 
       .current {
