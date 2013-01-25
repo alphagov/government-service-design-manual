@@ -9,7 +9,7 @@ status: draft
 #Design skills
 A good digital service needs needs talented, flexible designers and to help build user centred products.
 
-##Guidance/Tool
+##Guidance
 Designers and front-end developers should work together in one team, designing in-browser. This is a better way of working and avoids silos. They should either already do this style of working or at least understand it.
 
 When building a team ask to see examples of work and ask the designers to talk you through their contribution.
