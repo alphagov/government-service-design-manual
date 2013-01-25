@@ -21,7 +21,7 @@ Job description - [Mid weight Designer](https://docs.google.com/a/digital.cabine
 Job description - [Mid weight Front-end developer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1Aa3mZn3131Y7byIykLftOhmIoCUe4u--faWFBJQkFqM/edit)
 
 ##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
+Finding talented people is hard. But to build world class digital services we need to build a world class design team. This is the ideal opportunity to gain experience working on large digital products used by millions of people every day. Let's be clear about the impact of your work, making better digital services has a positive impact on millions of people.Avoid the terms “ux” and “creative”. Especially avoid “creative directors”. They will attract the wrong sort of people.
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
