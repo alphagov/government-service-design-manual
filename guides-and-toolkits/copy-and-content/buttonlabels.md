@@ -59,3 +59,9 @@ If you're giving people code r copy to cuta and paste then here is where it will
 
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
+
+
+# See also
+
+* [Transaction design](/guides-and-toolkits/designing-your-service/startandendoftransactionpages.html)
+* [Buttons design pattern](/guides-and-toolkits/design-patterns/buttons.html)
