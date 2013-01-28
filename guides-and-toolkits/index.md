@@ -36,10 +36,10 @@ section: guidance
 <div class="topic">
 <h3>Understanding your audience</h3>
   <ul>
-      <li><a href="/handbook/29/"><span class="title">Understanding your users</span><span class="description">  User needs, user research, user feedback</span></a></li>
+      <li><a href="/guides-and-toolkits/understanding-your-users/"><span class="title">Understanding your users</span><span class="description">  User needs, user research, user feedback</span></a></li>
       <li><a href="/guides-and-toolkits/accessibility"><span class="title">Accessibility</span><span class="description">  How to make your service acessible to all; young, old able-bodied or otherwise</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Assisted digital</span><span class="description">  Reaching people who struggle with digital channels</span></a></li>
-      <li><a href="/handbook/29/"><span class="title">Browsers and devices</span><span class="description">  Which ones to support, and how to do it</span></a></li>
+      <li><a href="/guides-and-toolkits/assisted-digital"><span class="title">Assisted digital</span><span class="description">  Reaching people who struggle with digital channels</span></a></li>
+      <li><a href="/guides-and-toolkits/designing-your-service/browsercompatibility.html"><span class="title">Browsers and devices</span><span class="description">  Which ones to support, and how to do it</span></a></li>
   </ul>
 </div>
 <div class="topic">

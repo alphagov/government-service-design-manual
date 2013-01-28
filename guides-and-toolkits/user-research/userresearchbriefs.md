@@ -35,3 +35,7 @@ A Research brief should contain the following information:
 
 The follow link will take you to an example of how a research brief should be written.
 
+## See also
+
+[Working with consultants and specialists](/guides-and-toolkits/building-a-team/workingwithconsultantsandspecialists.html)
+
