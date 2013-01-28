@@ -4,7 +4,8 @@ title: Emphasised form controls
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/emphasised-form-controls.css
+css: /assets/stylesheets/design-patterns/emphasised-form-controls.css
+js: /assets/javascripts/design-patterns/emphasised_form_controls.js
 ---
 
 The pattern below gives selected radio buttons and checkboxes a highlight colour and makes their clickable area larger. Use this to emphasise important decisions.
@@ -46,12 +47,5 @@ The pattern below gives selected radio buttons and checkboxes a highlight colour
           </label>
         </li>
       </ul>
-
-
-<script type="text/javascript">
-$(function() {
-  {% include javascripts/design-patterns/_emphasised_form_controls.js %}
-});
-</script>
 
 

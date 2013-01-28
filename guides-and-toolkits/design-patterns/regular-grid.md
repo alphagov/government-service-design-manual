@@ -4,7 +4,7 @@ title: Regular grid
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/regular-grid.css
+css: /assets/stylesheets/design-patterns/regular-grid.css
 ---
 
 A mixin for creating a regular grid of elements. All widths are expressed as percentages of the parent element.

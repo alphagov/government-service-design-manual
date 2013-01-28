@@ -4,7 +4,7 @@ title: Form example - Registration
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/forms.css
+css: /assets/stylesheets/design-patterns/forms.css
 ---
 
 This example incorporates most of the basic form elements and lets you play wth different label alignments.

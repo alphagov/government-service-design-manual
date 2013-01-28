@@ -4,7 +4,7 @@ title: Accordion form
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/accordion-form.css
+css: /assets/stylesheets/design-patterns/accordion-form.css
 ---
 
 One of a number of ways of breaking a long form up into a series of manageable steps.

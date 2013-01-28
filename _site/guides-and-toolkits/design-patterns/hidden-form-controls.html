@@ -40,10 +40,12 @@
 
 
 
-<link rel="stylesheet" href="/gsdm/css/design-patterns/hidden-form-controls.css" />
+<link rel="stylesheet" href="/assets/stylesheets/design-patterns/hidden-form-controls.css" />
 
 
 
+
+<script defer src="/assets/javascripts/design-patterns/hidden-form-controls.css" type="text/javascript"></script>
 
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -231,7 +233,7 @@ even if another radio is subsequently checked</p>
   </li>
 </ul>
 
-<script src="../javascripts/jquery.details.js"></script>
+<script src="/assets/javascripts/jquery.details.js"></script>
 
 <script>
   $(function() {
@@ -241,7 +243,30 @@ even if another radio is subsequently checked</p>
     $('details').details();
 
 
-    Included file 'javascripts/design-patterns/_hidden_form_controls.js' not found in _includes directory
+    // If a hidden-control radio-button set changes...
+    $(".hidden-controls input[type='radio']").change(function(e){
+      // If a hidden control radio is checked...
+      var isChecked = $(this).closest(".hidden-controls").find('summary input').attr("checked");
+      if(!isChecked){
+        // Set the details tag to 'closed'
+        $(this).closest(".hidden-controls").find('details').removeAttr('open');
+      }
+    });
+
+    // VERSION FOR BROWSERS THAT DON'T SUPPORT DETAILS / SUMMARY
+
+    // If a hidden-control label is clicked
+    $(".no-details .hidden-controls label").click(function(){
+      // If a hidden control label is checked...
+      var isChecked = $(this).children("input").attr("checked");
+      if(!isChecked){
+        // Set the details tag to 'open'
+        $(this).closest(".hidden-controls").find('details').attr('open', 'open');
+      } else {
+        // Set the details tag to 'closed'
+        $(this).closest(".hidden-controls").find('details').removeAttr('open');
+      }
+    });
 
 
   });

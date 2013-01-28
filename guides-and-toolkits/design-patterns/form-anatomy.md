@@ -3,7 +3,7 @@ layout: gsdm
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/forms.css
+css: /assets/stylesheets/design-patterns/forms.css
 title: Anatomy of a form
 ---
 

@@ -4,7 +4,8 @@ title: Hidden form controls
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/hidden-form-controls.css
+css: /assets/stylesheets/design-patterns/hidden-form-controls.css
+js:  /assets/javascripts/design-patterns/hidden-form-controls.css
 ---
 
 This pattern uses the details and summary tags to reveal content when a link or form label is clicked.
@@ -112,7 +113,7 @@ even if another radio is subsequently checked
 
 * All browsers: If you have more than one hidden control in a set of radio buttons it gets confused.
 
-<script src="../javascripts/jquery.details.js"></script>
+<script src="/assets/javascripts/jquery.details.js"></script>
 <script>
   $(function() {
     // Add conditional classname based on support
@@ -121,7 +122,30 @@ even if another radio is subsequently checked
     $('details').details();
 
 
-    {% include javascripts/design-patterns/_hidden_form_controls.js %}
+    // If a hidden-control radio-button set changes...
+    $(".hidden-controls input[type='radio']").change(function(e){
+      // If a hidden control radio is checked...
+      var isChecked = $(this).closest(".hidden-controls").find('summary input').attr("checked");
+      if(!isChecked){
+        // Set the details tag to 'closed'
+        $(this).closest(".hidden-controls").find('details').removeAttr('open');
+      }
+    });
+
+    // VERSION FOR BROWSERS THAT DON'T SUPPORT DETAILS / SUMMARY
+
+    // If a hidden-control label is clicked
+    $(".no-details .hidden-controls label").click(function(){
+      // If a hidden control label is checked...
+      var isChecked = $(this).children("input").attr("checked");
+      if(!isChecked){
+        // Set the details tag to 'open'
+        $(this).closest(".hidden-controls").find('details').attr('open', 'open');
+      } else {
+        // Set the details tag to 'closed'
+        $(this).closest(".hidden-controls").find('details').removeAttr('open');
+      }
+    });
 
 
   });

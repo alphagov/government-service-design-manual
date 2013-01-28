@@ -4,7 +4,7 @@ title: Panel styles
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/panels.css
+css: /assets/stylesheets/design-patterns/panels.css
 ---
 
 One way to visually emphasise or highlight content is to put it in a panel.

@@ -4,7 +4,7 @@ title: Progress indicator
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/progress-indicator.css
+css: /assets/stylesheets/design-patterns/progress-indicator.css
 ---
 
 Use this near the top of multi-page transactions to help users understand how

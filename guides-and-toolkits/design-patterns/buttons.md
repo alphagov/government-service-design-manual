@@ -4,7 +4,7 @@ title: Buttons
 section: guidance
 subsection: Design patterns
 status: draft
-css: /gsdm/css/design-patterns/buttons.css
+css: /assets/stylesheets/design-patterns/buttons.css
 ---
 
 Here's how to create buttons in the GOV.UK style.
