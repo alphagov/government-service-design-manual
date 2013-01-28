@@ -4,7 +4,7 @@ CAPTCHA stands for "Completely Automated Public Turing test to tell Computers an
 
 CAPTCHAs exist to prevent bots (automated software) from completing a form or accessing a system.
 
-CAPTCHAs put the burden of detecting bots on the user, contributing to a bad user experience. **They should be avoided where possible**. Instead of asking the user to prove they're not a bot, the burden should be on us to automatically detect the telltale signs of a bot.
+**Using CAPTCHAs should be avoided where possible**, as they put the burden of detecting bots on the user and contributing to a bad user experience. Instead of asking the user to prove they're not a bot, the burden should be on us to automatically detect the telltale signs of a bot.
 
 There are alternative, completely invisible methods of detecting automated form completion, and combinations of those methods may provide an adequate barrier as an alternative to a visual CAPTCHA.
 
