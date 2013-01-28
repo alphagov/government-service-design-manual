@@ -12,4 +12,5 @@ Different transactions pose different risks if a bot got in. Choose security mea
 
 Smashing Magazine (not known for its security expertise, admittedly) has an article about the Honeypot Method and Recording User Time Expenditure as two ways of automated bot detection. http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/
 
-Accessibility Where a visual CAPTCHA is an absolute necessity, remember to include an alternative audible CAPTCHA for the visually impaired.
+**Accessibility**
+Where a visual CAPTCHA is an absolute necessity, remember to include an alternative audible CAPTCHA for the visually impaired.
