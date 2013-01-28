@@ -7,21 +7,14 @@ status: draft
 ---
 
 <div class="guides-intro">
-
 	<p>
-	The <a href="http://publications.cabinetoffice.gov.uk/digital/">Government Digital Strategy</a> sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do 
+	The <a href="http://publications.cabinetoffice.gov.uk/digital/">Government Digital Strategy</a> sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do, by meeting the new <a href="/digital-by-default">Digital by default service standard</a>.
 	</p>
 	<p>
-	As part of this, the government have created the <a href="https://www.gov.uk/designprinciples">digital service design principles,</a>, which form the basis of the new strategy. These principles were developed and used in the design of <a href="https://www.gov.uk">www.gov.uk</a>, the main citizen facing website of the UK government.
+	All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides help and guidance in how to meet the standard.
 	</p>
 	<p>
-	All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides guidelines as to how this may be achieved.
-	</p>
-	<p>
-	current ways of working wrong. Seek to emulate best of web.
-	</p>
-	<p>
-	We should be aiming for this outcome: <a href="/digital-by-default">Digital by default standard</a>
+		Doing this requires working in a very different way from before...
 	</p>
 </div>
 

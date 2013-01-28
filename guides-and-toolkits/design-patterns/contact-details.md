@@ -49,6 +49,7 @@ Remember to add the relevant [hCard](http://microformats.org/wiki/hcard) classes
 # Discussion
 
 Q: Does the envelope design work for telephone numbers, email addresses etc.?
+<br> No - lose the envelope. BT
 
 Q: What's our policy on publishing email addresses?
 
