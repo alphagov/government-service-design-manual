@@ -246,14 +246,6 @@ status: draft
       <li><a href="/guides-and-toolkits/tools-and-services/versioncontrol.html"><span class="title">Version control</span><span class="description">  What they do, and how to be a good one</span></a></li>
   </ul>
 </div>
-
-<div class="topic">
-  <h3>User feedback</h3>
-  <ul>
-      <li><a href="/guides-and-toolkits/user-feedback/sentimentanalysis.html"><span class="title">Greys</span><span class="description">  What they do, and how to be a good one</span></a></li>
-  </ul>
-</div>
-
 <div class="topic">
   <h3>User research</h3>
   <ul>
@@ -271,8 +263,9 @@ status: draft
 	  <li><a href="/guides-and-toolkits/user-research/remoteusabilitysummativetesting.html"><span class="title">Remote usability summative research</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	 
 	  <li><a href="/guides-and-toolkits/user-research/samedayusertesting.html"><span class="title">Same day user research</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	 
 	  <li><a href="/guides-and-toolkits/user-research/samplingmethodologies.html"><span class="title">Sampling methodologies</span><span class="description">  What they do, and how to be a good one</span></a></li>	 
+	  <li><a href="/guides-and-toolkits/user-feedback/sentimentanalysis.html"><span class="title">Sentiment Analysis</span><span class="description">  What they do, and how to be a good one</span></a></li>
 	  <li><a href="/guides-and-toolkits/user-research/surveydesign.html"><span class="title">Survey design</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
-	  <li><a href="/guides-and-toolkits/user-research/userresearchbriefs.html"><span class="title">User research briefs</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  	
+	  <li><a href="/guides-and-toolkits/user-research/userresearchbriefs.html"><span class="title">User research briefs</span><span class="description">  What they do, and how to be a good one</span></a></li>
 	  <li><a href="/guides-and-toolkits/user-research/userresearchsurveys.html"><span class="title">User research surveys</span><span class="description">  What they do, and how to be a good one</span></a></li>	  		  	   	  	  	  	  
 	  <li><a href="/guides-and-toolkits/user-research/userresearchtools.html"><span class="title">User research tools</span><span class="description">  What they do, and how to be a good one</span></a></li>	  		  	   	  	  	  	  	  
   </ul>
