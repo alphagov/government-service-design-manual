@@ -24,16 +24,17 @@
       /* line 36, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
       .accordion-form .section.current .accordion-actions {
         list-style-image: none;
+        list-style-type: none;
         padding: 0.6em 1em 0.4em 1em;
         margin: 1em -2em 0 -2em;
         background-color: #f9f9f9; }
-    /* line 44, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+    /* line 45, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
     .accordion-form .section.complete {
       display: block; }
-      /* line 47, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+      /* line 48, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
       .accordion-form .section.complete .accordion-header {
         display: none; }
-      /* line 51, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+      /* line 52, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
       .accordion-form .section.complete .accordion-summary {
         display: block;
         margin-bottom: 0.5em;
@@ -42,23 +43,23 @@
         background-image: url("../images/progress-tick.png");
         background-repeat: no-repeat;
         background-position: 10px 50%; }
-        /* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+        /* line 60, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
         .accordion-form .section.complete .accordion-summary p {
           margin: 0; }
-          /* line 61, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+          /* line 62, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
           .accordion-form .section.complete .accordion-summary p .edit {
             float: right;
             margin-right: -1em; }
 
-/* line 78, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+/* line 79, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
 .js-enabled .section .accordion-header {
   display: none; }
-/* line 81, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+/* line 82, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
 .js-enabled .section .accordion-content {
   max-height: 0;
   overflow: hidden;
   visibility: hidden;
   position: relative; }
-/* line 87, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
+/* line 88, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_accordion-form.scss */
 .js-enabled .section .accordion-summary {
   display: none; }

@@ -82,7 +82,7 @@ $(function() {
   $(".next-part").click(function() {
       $(this).closest(".section").removeClass('current').addClass('complete')
       .next(".section").addClass('current');
-
+      return false;
     });
 
 });

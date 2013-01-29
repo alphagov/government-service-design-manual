@@ -267,7 +267,7 @@ Here's an example:
 
 # Hints
 
-Hints can be placed above above or below the relevant control as follows:
+Hints can be placed above or below the relevant control, like this:
 
 <div class="pattern-example">
   <div class="inner">
