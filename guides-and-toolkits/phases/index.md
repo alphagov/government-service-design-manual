@@ -1,8 +1,9 @@
 ---
 layout: gsdm
-title: Product phases
+title: Service redesign: phases
 subtitle: How a Digital by Default project is structured
 section: guidance
+subsection: phases
 status: draft
 css: /assets/stylesheets/phases.css
 ---
@@ -41,8 +42,6 @@ $(document).ready(function (){
 
 
 <p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.</p>
-
-<h2>Explore the service phases</h2>
 
   <div id="slider-nav" class="slider-nav">
      <a class="nav-item-1 active" rel="1" href="#phase1">1. Discovery</a>
