@@ -10,7 +10,7 @@ status: draft
 
 It goes without saying that security of Government services is incredibly
 important. The Government Information Security community and processes
-exist to help service owners both meet their obligations to those
+exist to help service managers both meet their obligations to those
 processess, and more importantly to help build world class services.
 
 The important thing to note about building trustworthy and secure systems is

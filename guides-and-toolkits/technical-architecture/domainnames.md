@@ -16,7 +16,7 @@ The user's experience of government services will always start and end on www.go
 
 New services should live at {servicename}.services.gov.uk. The user should interact with the service at that domain name, but www.{servicename}.services.gov.uk should work as a redirect to that name as users are likely to try and type that into their browser.
 
-Service Owners should make arrangements to manage [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) for that domain and control of it will be delegated by GDS as part of the approval and review process for new services. Service Owners should also arrange SSL certificates for those domain names and ensure their service is protected by Transport Layer Security (ie. available at https://{servicename}.services.gov.uk)
+service managers should make arrangements to manage [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) for that domain and control of it will be delegated by GDS as part of the approval and review process for new services. service managers should also arrange SSL certificates for those domain names and ensure their service is protected by Transport Layer Security (ie. available at https://{servicename}.services.gov.uk)
 
 ##Why we do this
 

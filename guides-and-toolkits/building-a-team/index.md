@@ -34,6 +34,6 @@ How can teams work with specialists and SMEs and what can you do to make sure th
 
 ## Your working environment
 
-Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service owner do to ensure they get the best out of their agile team?
+Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service manager do to ensure they get the best out of their agile team?
 
 [Read more >](workingenvironment.html)
