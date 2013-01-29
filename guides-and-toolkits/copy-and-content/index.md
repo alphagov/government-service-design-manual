@@ -6,7 +6,6 @@ subsection: Designing your service
 status: draft
 ---
 
-
 <ul>
   <li><a href="/guides-and-toolkits/copy-and-content/alphabetawarnings.html">Alpha and beta warnings</a></li>
   <li><a href="/guides-and-toolkits/copy-and-content/commonactions.html">Common actions</a></li>    

@@ -1,1 +1,5 @@
-Sorry, search doesn't work yet.
+---
+layout: gsdm
+---
+
+#Sorry, search doesn't work yet.
