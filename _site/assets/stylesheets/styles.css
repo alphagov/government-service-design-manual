@@ -634,25 +634,26 @@ article .inner {
 
 /* line 224 */
 .phase-diagram {
-  width: 100%; }
+  width: 100%;
+  margin: 0 -1em 0 -1em; }
 
-/* line 232 */
+/* line 233 */
 .project-list {
   margin: 0 0 1em 0;
   width: 60%; }
 
-/* line 237 */
+/* line 238 */
 .nav-tabs {
   list-style-type: none;
   list-style-image: none;
   border-bottom: solid 1px #a1acb2; }
 
-/* line 244 */
+/* line 245 */
 .organisation-logo {
   float: right;
   margin: 1em 2em; }
 
-/* line 250 */
+/* line 251 */
 .status-updates {
   box-sizing: border-box;
   width: 31.67%;
@@ -681,17 +682,17 @@ article .inner {
     .status-updates .inner input[type="text"],
     .status-updates .inner textarea {
       background-color: #f8f8f8; }
-  /* line 252 */
+  /* line 253 */
   .status-updates ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0 0 0 2.5%;
     padding: 0; }
-    /* line 257 */
+    /* line 258 */
     .status-updates ul li {
       padding: 0; }
 
-/* line 262 */
+/* line 263 */
 .project-meta {
   box-sizing: border-box;
   width: 32%;
@@ -720,20 +721,20 @@ article .inner {
     .project-meta .inner input[type="text"],
     .project-meta .inner textarea {
       background-color: #f8f8f8; }
-  /* line 265 */
+  /* line 266 */
   .project-meta ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 270 */
+    /* line 271 */
     .project-meta ul li {
       padding: 0;
       margin: 0; }
-  /* line 275 */
+  /* line 276 */
   .project-meta p {
     margin-top: 0; }
-  /* line 277 */
+  /* line 278 */
   .project-meta .team li {
     display: inline-block; }
 
@@ -816,23 +817,23 @@ details {
 .no-details details summary {
   display: block; }
 
-/* line 285 */
+/* line 286 */
 .steps {
   list-style-image: none;
   margin: 0;
   padding-left: 0; }
-  /* line 289 */
+  /* line 290 */
   .steps li {
     list-style-type: none;
     padding-left: 0.25em;
     margin: 0 0 2px 0; }
-    /* line 293 */
+    /* line 294 */
     .steps li:nth-child(odd) {
       background: #f9f9f9; }
-    /* line 296 */
+    /* line 297 */
     .steps li.completed {
       background: #cce0d6; }
-  /* line 300 */
+  /* line 301 */
   .steps div {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 16px;
@@ -846,40 +847,40 @@ details {
     padding-bottom: 0.7rem;
     display: inline-block; }
     @media (max-width: 640px) {
-      /* line 300 */
+      /* line 301 */
       .steps div {
         font-size: 1.4rem;
         line-height: 1.14286; } }
     @media (min-width: 641px) {
-      /* line 300 */
+      /* line 301 */
       .steps div {
         padding-top: 0.5rem;
         padding-bottom: 0.5rem; } }
-  /* line 304 */
+  /* line 305 */
   .steps .step-title {
     width: 63%;
     padding-left: 1.5em; }
-  /* line 308 */
+  /* line 309 */
   .steps .completed .step-title {
     background-image: url("../images/progress-tick.png");
     background-repeat: no-repeat;
     background-position: 0 50%; }
-  /* line 313 */
+  /* line 314 */
   .steps .step-status {
     width: 18%; }
-  /* line 316 */
+  /* line 317 */
   .steps .step-action {
     width: 15%; }
 
-/* line 324 */
+/* line 325 */
 a.tooltip {
   outline: none;
   color: #0b0c0c;
   text-decoration: none; }
-  /* line 328 */
+  /* line 329 */
   a.tooltip:hover {
     text-decoration: underline; }
-    /* line 330 */
+    /* line 331 */
     a.tooltip:hover:after {
       content: "\25C0";
       display: block;
@@ -887,13 +888,13 @@ a.tooltip {
       color: black;
       z-index: 11;
       margin-left: 10px; }
-    /* line 338 */
+    /* line 339 */
     a.tooltip:hover span {
       display: inline;
       position: absolute;
       color: #EEE;
       background: #0B0C0C; }
-  /* line 345 */
+  /* line 346 */
   a.tooltip span {
     z-index: 10;
     display: none;
@@ -1185,7 +1186,7 @@ a.tooltip {
 .add-journal-entry .inline select,
 .add-journal-entry .inline textarea {
   margin-right: 0.5em; }
-/* line 361 */
+/* line 362 */
 .add-journal-entry form {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1211,14 +1212,14 @@ a.tooltip {
     .add-journal-entry form .inner input[type="text"],
     .add-journal-entry form .inner textarea {
       background-color: #f8f8f8; }
-  /* line 364 */
+  /* line 365 */
   .add-journal-entry form .group {
     color: white; }
-    /* line 366 */
+    /* line 367 */
     .add-journal-entry form .group input, .add-journal-entry form .group textarea {
       margin-left: -0.3em; }
 
-/* line 375 */
+/* line 376 */
 .guidance-list {
   -moz-column-count: 2;
   -moz-column-gap: 20px;
@@ -1226,7 +1227,7 @@ a.tooltip {
   -webkit-column-gap: 20px;
   column-count: 2;
   column-gap: 20px; }
-  /* line 382 */
+  /* line 383 */
   .guidance-list .topic {
     -webkit-column-break-inside: avoid;
     -moz-column-break-inside: avoid;
@@ -1234,11 +1235,11 @@ a.tooltip {
     -ms-column-break-inside: avoid;
     column-break-inside: avoid;
     margin-bottom: 2.4em; }
-    /* line 389 */
+    /* line 390 */
     .guidance-list .topic h3 {
       margin-top: 0; }
 
-/* line 395 */
+/* line 396 */
 .recently-updated {
   box-sizing: border-box;
   width: 33%;
@@ -1267,7 +1268,7 @@ a.tooltip {
     .recently-updated .inner textarea {
       background-color: #f8f8f8; }
 
-/* line 401 */
+/* line 402 */
 .search-guides {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1646,21 +1647,21 @@ a.tooltip {
       /* line 321, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
       .search-guides .inline.option.group label {
         padding-left: 0; }
-  /* line 405 */
+  /* line 406 */
   .search-guides input[type="search"] {
     background-color: white;
     width: 24em; }
-  /* line 409 */
+  /* line 410 */
   .search-guides label {
     font-size: 2.4rem; }
 
-/* line 414 */
+/* line 415 */
 .page-contents {
   background-color: #F2F2F2;
   margin: 1em -1em 1.5em -1em;
   padding: 1em 1em 0.25em 1em; }
 
-/* line 420 */
+/* line 421 */
 .home-page-promos {
   margin: 0;
   padding: 0;
@@ -1695,59 +1696,59 @@ a.tooltip {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .home-page-promos > * *:first-child {
       margin-top: 0; }
-  /* line 422 */
+  /* line 423 */
   .home-page-promos div {
     background: #CCE0D6;
     height: 200px; }
 
-/* line 428 */
+/* line 429 */
 .meta-data {
   margin-top: 0;
   text-align: left;
   width: 100%; }
-  /* line 432 */
+  /* line 433 */
   .meta-data p {
     display: block; }
 
-/* line 439 */
+/* line 440 */
 .phases {
   list-style-type: none;
   list-style-image: none;
   margin: 0;
   padding: 0;
   width: 100%; }
-  /* line 445 */
+  /* line 446 */
   .phases li {
     padding: 0;
     display: inline-block;
     background-color: #dee0e2;
     width: 20%; }
-    /* line 450 */
+    /* line 451 */
     .phases li .badge {
       font-size: 16px;
       color: #0b0c0c;
       padding: 0.2em 0.25em 0em 0.5em;
       text-transform: uppercase;
       font-weight: normal; }
-    /* line 457 */
+    /* line 458 */
     .phases li.complete {
       background-color: #96c6e2; }
 
-/* line 466 */
+/* line 467 */
 .article h2 .headerlink {
   display: inline-block;
   text-indent: -9999px;
   width: 20px;
   margin-left: -20px; }
-/* line 472 */
+/* line 473 */
 .article h2:hover .headerlink {
   visibility: visible;
   text-indent: 0; }
 
-/* line 481 */
+/* line 482 */
 .home a {
   position: relative; }
-  /* line 483 */
+  /* line 484 */
   .home a small {
     position: absolute;
     top: 0.8em;
@@ -1758,7 +1759,7 @@ a.tooltip {
     padding: 2px 5px 0;
     margin-left: 10px; }
 
-/* line 502 */
+/* line 503 */
 .page-contents {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1786,7 +1787,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Intro panel on landing page */
-/* line 507 */
+/* line 508 */
 .pattern-library {
   box-sizing: border-box;
   width: 50%;
@@ -1816,7 +1817,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Container for example patterns */
-/* line 512 */
+/* line 513 */
 .pattern-example {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1844,7 +1845,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Pattern status label */
-/* line 519 */
+/* line 520 */
 .pattern-status {
   display: block;
   float: right;
@@ -1855,7 +1856,7 @@ a.tooltip {
   text-transform: uppercase; }
 
 /* Side-by-side code examples */
-/* line 529 */
+/* line 530 */
 .side-by-side {
   margin: 0;
   padding: 0;
@@ -1890,12 +1891,12 @@ a.tooltip {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .side-by-side > * *:first-child {
       margin-top: 0; }
-  /* line 531 */
+  /* line 532 */
   .side-by-side .pattern-example {
     margin: 0.8em 0 0 0; }
 
 /* Styles for inline and block code examples */
-/* line 537 */
+/* line 538 */
 pre,
 code {
   color: black;
@@ -1907,62 +1908,61 @@ code {
   padding: 6px 10px;
   border-radius: 3px; }
 
-/* line 547 */
+/* line 548 */
 pre code {
   border: 0 solid;
   padding: 0; }
 
-/* line 551 */
+/* line 552 */
 code {
   padding: 0.3em 0.5em; }
 
-/* line 555 */
+/* line 556 */
 pre:first-child {
   margin-top: 0; }
 
 /* Update text.scss with these */
-/* line 558 */
+/* line 559 */
 hr {
   border: 0;
   background-color: #bfc1c3;
   height: 1px;
   margin: 2em 0; }
 
-/* line 564 */
+/* line 565 */
 article dd {
   font-size: 1.16em; }
 
 /* Mixin argument toggle styles */
-/* line 570 */
+/* line 571 */
 .class-toggle .option:hover {
   cursor: pointer;
   text-decoration: underline; }
 
-/* line 574 */
+/* line 575 */
 .class-toggle .selected {
   text-decoration: none;
   color: red;
   font-weight: bold; }
-  /* line 578 */
+  /* line 579 */
   .class-toggle .selected:hover {
     cursor: default;
     text-decoration: none; }
 
-/* line 584 */
+/* line 585 */
 .topic {
   border-bottom: 1px solid #bfc1c3;
   padding-bottom: 5px; }
-  /* line 587 */
+  /* line 588 */
   .topic h3 {
-    font-size: 32px;
     margin-top: 1.4em; }
-  /* line 591 */
+  /* line 592 */
   .topic ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 596 */
+    /* line 597 */
     .topic ul li {
       list-style-type: none;
       list-style-image: none;
@@ -1971,22 +1971,22 @@ article dd {
       padding-top: 0.5em;
       padding-left: 0;
       border-top: 1px solid #bfc1c3; }
-      /* line 604 */
+      /* line 605 */
       .topic ul li a {
         display: block;
         overflow: hidden; }
-        /* line 607 */
+        /* line 608 */
         .topic ul li a span {
           display: block;
           float: left; }
-        /* line 611 */
+        /* line 612 */
         .topic ul li a .title {
           width: 30%;
           text-decoration: underline; }
-        /* line 615 */
+        /* line 616 */
         .topic ul li a .description {
           width: 68%;
           color: #6F777B; }
-        /* line 620 */
+        /* line 621 */
         .topic ul li a:hover .description {
           text-decoration: underline; }
