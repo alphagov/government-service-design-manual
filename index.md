@@ -257,6 +257,7 @@ status: draft
 <div class="topic">
   <h3>User research</h3>
   <ul>
+  	  <li><a href="/guides-and-toolkits/user-research/introductiontouserresearch.html"><span class="title">An introduction to user research</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
       <li><a href="/guides-and-toolkits/user-research/cardsorting.html"><span class="title">Card sorting</span><span class="description">  What they do, and how to be a good one</span></a></li>
       <li><a href="/guides-and-toolkits/user-research/communityusergroups.html"><span class="title">Community user groups</span><span class="description">  What they do, and how to be a good one</span></a></li>	  
       <li><a href="/guides-and-toolkits/user-research/conceptalphatesting.html"><span class="title">Concept / alpha testing</span><span class="description">  What they do, and how to be a good one</span></a></li>		  
@@ -265,7 +266,6 @@ status: draft
 	  <li><a href="/guides-and-toolkits/user-research/focusgroupsminigroupsandinterviews.html"><span class="title">focus-groups / mini-groups and interviews</span><span class="description">  What they do, and how to be a good one</span></a></li>
 	  <li><a href="/guides-and-toolkits/user-research/guerillatesting.html"><span class="title">Guerilla testing</span><span class="description">  What they do, and how to be a good one</span></a></li>
 	  <li><a href="/guides-and-toolkits/user-research/heuristicevaluations.html"><span class="title">Heuristic evaluations</span><span class="description">  What they do, and how to be a good one</span></a></li>
-	  <li><a href="/guides-and-toolkits/user-research/introductiontouserresearch.html"><span class="title">Introduction to user research</span><span class="description">  What they do, and how to be a good one</span></a></li>	  	  
 	  <li><a href="/guides-and-toolkits/user-research/labbasedusertesting.html"><span class="title">lab-based user research</span><span class="description">  What they do, and how to be a good one</span></a></li>	 <li><a href="/guides-and-toolkits/user-research/onlineomnibussurveying.html"><span class="title">Online omnibus surveying</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	  	  	  
 	  <li><a href="/guides-and-toolkits/user-research/onlineresearchpanels.html"><span class="title">Online research panels</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	  	  	  	  
 	  <li><a href="/guides-and-toolkits/user-research/remoteusabilitysummativetesting.html"><span class="title">Remote usability summative research</span><span class="description">  What they do, and how to be a good one</span></a></li>	 	 
