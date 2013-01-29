@@ -42,6 +42,14 @@ On [the cookies page at GOV.UK](https://www.gov.uk/support/cookies) you can see 
 ##Why we do this
 This cookies policy was devised following extensive research during the beta of GOV.UK. It followed the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
 
+##Cookies on existing transactions
+
+The GOV.UK cookies policy does not cover 3rd party transactions. Unfortunately, most existing transactions were built before the updated EU Privacy Directive came into force, so weren't built with it in mind (hence not having cookie policies). 
+
+New and redesigned services will be expected to notify users that cookies are being set beforehand, using a 'sets a cookie' line of text near the action that triggers the cookie (this text should be linked to the appropriate part of the cookie information page).  You can see an example of how that works on GOV.UK here: https://www.gov.uk/dvla-offices
+
+Where a user can't be notified before the cookie is set (i.e. if it's set when the user firsts visits the transaction using implied consent), the transaction should use a banner similar to that on GOV.UK to tell people that this is the case and link them to the further information.
+
 ##Further reading
 Link within the Manual, or to other posts, that will help people to work on the tool.
 
