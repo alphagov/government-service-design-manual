@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Service redesign: phases
+title: Service redesign
 subtitle: How a Digital by Default project is structured
 section: guidance
 subsection: phases
@@ -41,7 +41,9 @@ $(document).ready(function (){
 </script>
 
 
-<p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.</p>
+Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
+
+Explore the four development phases of a digital service below.
 
   <div id="slider-nav" class="slider-nav">
      <a class="nav-item-1 active" rel="1" href="#phase1">1. Discovery</a>
@@ -56,8 +58,8 @@ $(document).ready(function (){
     <div class="wrapper">
 
       <section id="phase1">
-        <!-- <div class="infographic">
-        </div> -->
+        <div class="infographic">
+        </div>
         <h2>Phase 1: Discovery</h2>
 
         <div class="team">
@@ -72,27 +74,34 @@ $(document).ready(function (){
           </ul>
         </div>
 
-        <p>The objective of this phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.</p>
+        <p>The objective of this short phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.</p>
 
         <p>This is achieved through research, workshops and interviews. Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas.</p>
 
         <p>A small team will be required and the phase should not take longer than a week. At the end of the phase a decision should be made whether to proceeed to the Alpha phase.</p>
 
+        <h3>Typical outputs and activities</h3>
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            User needs
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            List of user needs
           </li>
           <li>
-            <div class="output">
-            </div>
-              Personas
+            <img class="output" src="/assets/images/pictograms/user-needs.png" />
+            User personas
           </li>
           <li>
-            <div class="output">
-            </div>
-              Wireframes
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Rough wireframes
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Stakeholder interviews
+          </li>
+
+          <li>
+            <img class="output" src="/assets/images/pictograms/discovery-small.png" />
+            Team size
           </li>
         </ul>
 
@@ -121,16 +130,32 @@ $(document).ready(function (){
 
         <p>You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a Beta.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            Prototype
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            User story backlog
           </li>
           <li>
-            <div class="output">
-            </div>
-            Backlog
+            <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+            Design and build
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Working prototype
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/presentation.png" />
+            Show and tell
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Retrospective
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/alpha-medium.png" />
+            Team size
           </li>
         </ul>
 
@@ -159,18 +184,35 @@ $(document).ready(function (){
 
         <p>You will now know what size team you need to deliver the service. The Beta phase should typically take a couple of months at most.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            Prototype
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            User story backlog
           </li>
           <li>
-            <div class="output">
-            </div>
-            Backlog
+            <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+            Design and build
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Working service
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/presentation.png" />
+            Show and tell
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Retrospective
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/beta-large.png" />
+            Team size
           </li>
         </ul>
+
       </section>
       <section id="phase4">
         <div class="infographic">
@@ -193,13 +235,23 @@ $(document).ready(function (){
 
         <p>The team may need to be reconfigured to reflect the operational requirements of the service.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
+            <img class="output" src="/assets/images/pictograms/website.png" />
             Live service
           </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            User feedback
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/live-larger.png" />
+            Team size
+          </li>
         </ul>
+
       </section>
     </div>
   </div>

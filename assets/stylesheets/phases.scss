@@ -62,7 +62,7 @@ $slider-sections: 4;
   padding:0.5em 1em;
   display:block;
   float:left;
-  margin-right:5px;
+  margin: 1em 5px 0 0;
   &:hover{
     background: darken($highlight-colour, 5%);
   }
@@ -152,8 +152,9 @@ $slider-sections: 4;
 // Slider section content
 .infographic{
   background-color: $highlight-colour;
-  height: 8em;
+  height: 2em;
   margin: 0 -2em 0 -1em;
+  display: none;
 }
 #phase4 .infographic{
   margin-right: -6em;
@@ -175,16 +176,16 @@ $slider-sections: 4;
   padding: 0;
   overflow: hidden;
   li{
-    margin: 0 1em 0 0;
+    margin: 0 2em 0 0;
     padding: 0;
     list-style-type: none;
     list-style-image: none;
     float: left;
     text-align: center;
+    width: 100px;
   }
   .output{
-    width: 6em;
-    height: 6em;
+    display: block;
     background-color: $highlight-colour;
   }
 }

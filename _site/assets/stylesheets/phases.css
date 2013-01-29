@@ -39,7 +39,7 @@
   padding: 0.5em 1em;
   display: block;
   float: left;
-  margin-right: 5px; }
+  margin: 1em 5px 0 0; }
   /* line 63 */
   .slider-nav a:hover {
     background: #ebebeb; }
@@ -184,14 +184,15 @@
 /* line 150 */
 .infographic {
   background-color: #f8f8f8;
-  height: 8em;
-  margin: 0 -2em 0 -1em; }
+  height: 2em;
+  margin: 0 -2em 0 -1em;
+  display: none; }
 
-/* line 155 */
+/* line 156 */
 #phase4 .infographic {
   margin-right: -6em; }
 
-/* line 158 */
+/* line 159 */
 .team {
   background-color: #f8f8f8;
   padding: 1em;
@@ -199,25 +200,25 @@
   float: right;
   margin-left: 1em;
   margin-top: -3em; }
-  /* line 165 */
+  /* line 166 */
   .team h3 {
     margin-top: 0; }
 
-/* line 170 */
+/* line 171 */
 .outputs {
   margin: 0;
   padding: 0;
   overflow: hidden; }
-  /* line 174 */
+  /* line 175 */
   .outputs li {
-    margin: 0 1em 0 0;
+    margin: 0 2em 0 0;
     padding: 0;
     list-style-type: none;
     list-style-image: none;
     float: left;
-    text-align: center; }
-  /* line 182 */
+    text-align: center;
+    width: 100px; }
+  /* line 184 */
   .outputs .output {
-    width: 6em;
-    height: 6em;
+    display: block;
     background-color: #f8f8f8; }

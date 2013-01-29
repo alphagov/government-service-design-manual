@@ -1,4 +1,127 @@
-<script type="text/JavaScript">
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Service redesign</title>
+
+
+    
+    <!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/static/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/static/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/static/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/static/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="http://static.preview.alphagov.co.uk/static/print.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["http://static.preview.alphagov.co.uk/static/fonts-ie8.css"]},
+  c="http://static.preview.alphagov.co.uk/static/libs/goog/webfont-debug.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="http://static.preview.alphagov.co.uk/static/fonts.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="http://static.preview.alphagov.co.uk/static/libs/jquery/jquery-1.7.2.js" type="text/javascript"></script><script defer src="http://static.preview.alphagov.co.uk/static/application.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="http://static.preview.alphagov.co.uk/static/ie.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="http://static.preview.alphagov.co.uk/static/favicon.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-144x144.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-114x114.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-72x72.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-57x57.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script src="http://static.preview.alphagov.co.uk/frontend/frontend.js" type="text/javascript"></script>
+
+<link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml">
+<!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/frontend/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link rel="alternate" type="application/json" href="/api/with_tag.json?tag=find-course">
+<!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+
+<link rel="stylesheet" href="/assets/stylesheets/phases.css" />
+
+
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
+  </head>
+
+  <body class="mainstream full-width">
+    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+        <!--start header-->
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="http://static.preview.alphagov.co.uk/static/gov.uk_logotype-2x.png" alt="GOV.UK Logo"></a>
+
+        <a href="#footer" class="visuallyhidden">Skip to footer navigation</a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search.html" method="get" role="search">
+          <label for="site-search-text" class="">Search</label>
+          <input type="search" name="q" placeholder="Search GOV.UK" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+        </form>
+      </div>
+    </header>
+    <!--end header-->
+
+    <div id="wrapper" class="">
+
+      <section id="content" role="main" class="group">
+
+        <!--
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/" class="current">Government Service Design Manual</a></li>
+                <li><a href="/digital-by-default" >Digital by Default standard</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      -->
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <span class="home"><a href="/" >Government Service Design Manual</a></span>
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/digital-by-default" >Digital by Default Standard</a></li>
+                <!--
+                <li><a href="/guides-and-toolkits" class="current">Guides &amp; toolkits</a></li>   
+                --> 
+                <li><a href="/feedback" >Feedback</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+        <header class="page-header group">
+        
+            <div class="breadcrumb">
+              <li>
+                <a href="/guides-and-toolkits">Guides and toolkits</a>
+              </li>
+              <li>
+                <span class="divider">/</span>
+                <a href="./">phases</a>
+              </li>
+            </div>
+        
+
+        <hgroup><h1>Service redesign</h1></hgroup></header><div class="article-container group">
+        <article role="article" class="group">
+          <div class="inner">
+              
+                <p class="subtitle">How a Digital by Default project is structured</p>
+              
+
+              <script type="text/JavaScript">
 $(document).ready(function (){
   $('#slider-nav a').click(function(){
     var integer = $(this).attr('rel');
@@ -32,6 +155,8 @@ $(document).ready(function (){
 
 <p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.</p>
 
+<p>Explore the four development phases of a digital service below.</p>
+
 <div id="slider-nav" class="slider-nav">
      <a class="nav-item-1 active" rel="1" href="#phase1">1. Discovery</a>
      <a class="nav-item-2" rel="2" href="#phase2">2. Alpha</a>
@@ -45,8 +170,8 @@ $(document).ready(function (){
     <div class="wrapper">
 
       <section id="phase1">
-        <!-- <div class="infographic">
-        </div> -->
+        <div class="infographic">
+        </div>
         <h2>Phase 1: Discovery</h2>
 
         <div class="team">
@@ -61,27 +186,34 @@ $(document).ready(function (){
           </ul>
         </div>
 
-        <p>The objective of this phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.</p>
+        <p>The objective of this short phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.</p>
 
         <p>This is achieved through research, workshops and interviews. Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas.</p>
 
         <p>A small team will be required and the phase should not take longer than a week. At the end of the phase a decision should be made whether to proceeed to the Alpha phase.</p>
 
+        <h3>Typical outputs and activities</h3>
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            User needs
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            List of user needs
           </li>
           <li>
-            <div class="output">
-            </div>
-              Personas
+            <img class="output" src="/assets/images/pictograms/user-needs.png" />
+            User personas
           </li>
           <li>
-            <div class="output">
-            </div>
-              Wireframes
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Rough wireframes
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Stakeholder interviews
+          </li>
+
+          <li>
+            <img class="output" src="/assets/images/pictograms/discovery-small.png" />
+            Team size
           </li>
         </ul>
 
@@ -110,16 +242,32 @@ $(document).ready(function (){
 
         <p>You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a Beta.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            Prototype
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            User story backlog
           </li>
           <li>
-            <div class="output">
-            </div>
-            Backlog
+            <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+            Design and build
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Working prototype
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/presentation.png" />
+            Show and tell
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Retrospective
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/alpha-medium.png" />
+            Team size
           </li>
         </ul>
 
@@ -148,18 +296,35 @@ $(document).ready(function (){
 
         <p>You will now know what size team you need to deliver the service. The Beta phase should typically take a couple of months at most.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
-            Prototype
+            <img class="output" src="/assets/images/pictograms/backlog.png" />
+            User story backlog
           </li>
           <li>
-            <div class="output">
-            </div>
-            Backlog
+            <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+            Design and build
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/prototype.png" />
+            Working service
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/presentation.png" />
+            Show and tell
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            Retrospective
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/beta-large.png" />
+            Team size
           </li>
         </ul>
+
       </section>
       <section id="phase4">
         <div class="infographic">
@@ -182,13 +347,23 @@ $(document).ready(function (){
 
         <p>The team may need to be reconfigured to reflect the operational requirements of the service.</p>
 
+        <h3>Typical outputs and activities</h3>
+
         <ul class="outputs">
           <li>
-            <div class="output">
-            </div>
+            <img class="output" src="/assets/images/pictograms/website.png" />
             Live service
           </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/discussion.png" />
+            User feedback
+          </li>
+          <li>
+            <img class="output" src="/assets/images/pictograms/live-larger.png" />
+            Team size
+          </li>
         </ul>
+
       </section>
     </div>
   </div>
@@ -224,3 +399,48 @@ Progression between phases, delivering value early & taking on complexity & risk
 * [Decommisioning phase](/guides-and-toolkits/phases/decommisioning.html)
 
 -->
+
+            </div>
+            </article>
+          </div>
+      </section>
+    </div><!--end wrapper-->
+    <footer class="group" id="footer" role="contentinfo">
+      <div class="footer-wrapper">
+        <nav class="footer-categories"><h2>Explore GOV.UK</h2>
+
+          <ul>
+<li><a href="/browse/driving">Driving, transport, and travel</a></li>
+            <li><a href="/browse/business">Businesses and self-employed</a></li>
+            <li><a href="/browse/education">Education and learning</a></li>
+            <li><a href="/browse/housing">Housing and local services</a></li>
+            <li><a href="/browse/justice">Crime, justice and the law</a></li>
+            <li><a href="/browse/tax">Money and tax</a></li>
+          </ul>
+<ul>
+<li><a href="/browse/benefits">Benefits</a></li>
+            <li><a href="/browse/employing-people">Employing people</a></li>
+            <li><a href="/browse/working">Working, jobs and pensions</a></li>
+            <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages, parenting and care</a></li>
+          </ul>
+<div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">&copy; Crown Copyright</a>
+          </div>
+        </nav><div class="footer-meta">
+          <ul>
+<li><a href="/help">Help</a></li>
+            <li><a href="/help/cookies">Cookies</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+          </ul>
+<div class="colophon">Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</div>
+          <p>Where indicated, content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a></p>
+
+        </div>
+      </div>
+    </footer>
+
+
+  </body>
+</html>
