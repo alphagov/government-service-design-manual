@@ -8,45 +8,27 @@ status: draft
     
 ## What agile looks like
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the is making (whether that's in the form of project mangement software or whiteboards).
 
 [Read more >](whatagilelookslike.html)
 
 ## User stories
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Users are the heart of every digital by default service. This means having a clear understanding of what needs a feature being developed must meet. User stories are the prompts that help a team to produce these features, and writing them well can make a huge difference to the quality and speed of development.
 
 [Find out how to write effective user stories](writinguserstories.html)
 
 ## Sprints and standups
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Agile product development is usually broken into small units of work called Sprints. At GDS a sprint lasts a week and runs from Wednesday to Thursday, however other agile development teams may run longer sprints.
+
+Standup take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they pan to work on, and reveal any blockers for progress.
 
 [Find out how to structure sprint cycles and standups](structuringsprintcyclesandstandups.html)
 
 ## Retrospectives
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Retrospectives are run at the end of sprints to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
 
 [Find out how to run a restrospective](runningretrospectives.html)
 
