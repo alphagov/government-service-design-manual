@@ -7,7 +7,7 @@ status: draft
 css: /assets/stylesheets/design-patterns/accordion-form.css
 ---
 
-One of a number of ways of breaking a long form up into a series of manageable steps.
+One of a number of ways of breaking a long form up into a series of manageable steps..
 
 In an accordion form, the steps are arranged vertically on a single page, but only one
 step is ever 'open' at a time. As each step is completed the next one opens.
