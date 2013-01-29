@@ -7,7 +7,7 @@ status: draft
 ---
 
 #Understanding user needs
-If you understand your user needs, you will create a digital product or service that works for your users. Use data to find out what your user needs are, and work out the optimal way of answering those needs with your product.
+If you understand your user needs, you will create a digital service that works for your users. Use data to find out what your user needs are, and work out the optimal way of answering those needs with your service.
 
 ##Guidance/Tool
 Any thinking about a service, whether online or offline, must start with the question: What is the user need?
@@ -17,7 +17,7 @@ Defining a user need must be strict and honest. For GDS, it’s the need the *us
 ###Design with data
 Data can help tell you what your user needs are. Take search:
 
-What core search terms drive traffic to your product? Examine external search engine data to understand the queries that are driving people to your site for answers.
+What core search terms drive traffic to your service? Examine external search engine data to understand the queries that are driving people to your site for answers.
 
 Look at site-search. If people are searching within your site, they are expecting to find that information on it. Pay attention to the specific queries and the variations on core terms - they can tell you reams about the elements of a topic that people are trying to find out. 
 
@@ -29,7 +29,7 @@ Look at site-search. If people are searching within your site, they are expectin
 
 Scrutinising core search terms and variations within site-search helps you define the specifics of your user needs. This will inform how you provide the solution, the hierarchy of information within that solution, and the language you use (it should be the language of users).
 
-Other metrics can help you understand your user needs. Analyse the level of engagement people have with different parts of your product. As well as volume of traffic, measure the interaction.
+Other metrics can help you understand your user needs. Analyse the level of engagement people have with different parts of your service. As well as volume of traffic, measure the interaction.
 
 ***
 
@@ -40,7 +40,7 @@ Other metrics can help you understand your user needs. Analyse the level of enga
 Using a combination of search and metrics analysis, we could identify the bones of the user need from a page containing surplus content.
 
 ###Work out your proposition
-You need to set the boundaries of what your product can and should offer, to prevent a bottomless list of user needs. This is especially true of a government website such as GOV.UK. As well as identifying user needs, we identified which of those needs the government must answer. This led to the ‘It’s in if...’ criteria:
+You need to set the boundaries of what your service can and should offer, to prevent a bottomless list of user needs. This is especially true of a government website such as GOV.UK. As well as identifying user needs, we identified which of those needs the government must answer. This led to the ‘It’s in if...’ criteria:
 
 - it’s something that only the government does
 - there is clear demand for it from users (ie. through search and traffic logs) or the government is legally obliged to provide it
@@ -50,12 +50,12 @@ You need to set the boundaries of what your product can and should offer, to pre
 - it’s straightforward advice that helps people to comply with their statutory obligations (eg. what records you should keep for your HMRC tax return) or provides certain kinds of advice and support to businesses, but excludes general life or business advice that is provided by third parties
 
 ##Code/Templates
-Expressing a user need mustn’t imply the solution. The user need should be expressed as a user story, so the product team can discuss and explore possible solutions.
+Expressing a user need mustn’t imply the solution. The user need should be expressed as a user story, so the service team can discuss and explore possible solutions.
 
 1. Define the user need
 2. Write the user story from the perspective of the user
 3. Define the acceptance criteria
-4. Solution is explored and delivered by the product team
+4. Solution is explored and delivered by the service team
 
 *As a [type of user], I want to [insert the task/desire] so that I [insert the benefit]*
 
@@ -64,7 +64,7 @@ The ‘so that’ is optional.
 ##Why we do this
 > 1. Start with needs (user needs not government needs)
 
-The first of the [GDS Design Principles](https://www.gov.uk/designprinciples "GDS Design Principles") is about user needs. It underpins everything. By concentrating on meeting true user needs, you will create a digital product or service that works effectively for the people who are using it. It’s that simple!
+The first of the [GDS Design Principles](https://www.gov.uk/designprinciples "GDS Design Principles") is about user needs. It underpins everything. By concentrating on meeting true user needs, you will create a digital service that works effectively for the people who are using it. It’s that simple!
 
 ##Further reading
 [What was the evidence? Users’ information needs and analytics](http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/ "What was the evidence? Users’ information needs and analytics")

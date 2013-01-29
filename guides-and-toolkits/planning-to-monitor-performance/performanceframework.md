@@ -90,7 +90,7 @@ Typical segments include:
 * New vs. repeat visitors: are first time users behaving differently to those who have used the service before?
 * Geographical region: how popular is the digital service by region and how does that compare with online penetration in general?
 * Product type: does the user experience vary depending on the type of product or service?
-* Value: is performance dependent on the monetary value of the product or service being sought?
+* Value: is performance dependent on the monetary value of the service being sought?
 
 Dashboards are objective-focused and will help inform decisions, often with the help of real-time data.
 Reports provide regular, scheduled snapshots of data and tend to require extra context and time to digest.

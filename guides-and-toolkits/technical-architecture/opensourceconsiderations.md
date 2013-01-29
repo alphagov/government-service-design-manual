@@ -27,7 +27,7 @@ Keep infrastructure code and secrets, including passwords and deployment configu
 
 A successful open source project will garner contributions from a large number of sources, both inside and outside of a single organisation.
 Allow developers time to review contributions, and answer issues and discussion raised by others using the software.
-Larger open source projects often evolve an extension model to enable others to continue to use the product in a variety of often unexpected and possibly undesirable ways whilst keeping the core project coherent under the editorship of a small, trusted group of [committers](http://en.wikipedia.org/wiki/Committer).
+Larger open source projects often evolve an extension model to enable others to continue to use the service in a variety of often unexpected and possibly undesirable ways whilst keeping the core project coherent under the editorship of a small, trusted group of [committers](http://en.wikipedia.org/wiki/Committer).
 
 Take every opportunity to contribute back to open source projects you use.
 Contributions may be in the form of source code, patches, bug reports, feature requests, sponsorship of developers and support staff, engaging in community discussion groups, and giving public attribution to projects.

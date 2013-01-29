@@ -20,7 +20,7 @@ For those working on GOV.UK we use the [Vagrant](http://www.vagrantup.com/) tool
 
 ##Why we do this
 * Everyone on the team should be able to understand progress to date by using running software
-* People working on the product should be able to understand the impact of their work by seeing it working in context
+* People working on the service should be able to understand the impact of their work by seeing it working in context
 * The team should be confident that the service as a whole works before shipping those changes to the public
 
 ##Further reading

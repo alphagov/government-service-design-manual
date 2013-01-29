@@ -10,7 +10,7 @@ status: draft
 Once you have created structures to deal with user feedback (see the “Helpdesk” article), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.
 
 ##Treating Contacts as Defects##
-One very ambitious improvement model that you can use treats each contact from a user as ultimately due to a defect in the product itself, either in your support model for it or in the communications processes you use to handle contacts. While this perhaps overstates the reality for some kinds of contacts--is a user’s email of thanks and appreciation genuinely a defect?--it is an excellent way to focus critical thinking on how you provide service.  
+One very ambitious improvement model that you can use treats each contact from a user as ultimately due to a defect in the service itself, either in your support model for it or in the communications processes you use to handle contacts. While this perhaps overstates the reality for some kinds of contacts--is a user’s email of thanks and appreciation genuinely a defect?--it is an excellent way to focus critical thinking on how you provide service.  
 
 ##Stratifying Contact Data##
 Your ability to act quickly and constructively on user feedback will ultimately depend on the degree to which you can stratify contacts for analysis.  
@@ -51,4 +51,4 @@ Depending on the nature of your contact handling systems, you may be able to use
 ##Improvement Projects##
 Once the contact-level improvement data has been sent to the right group, you can begin doing analysis for process improvement. You may want to marry your contact level data with cost data to help prioritise which areas to target first, but you may also simply use the number (or percentage) of affected users as a prioritisation mechanism. 
 
-In any case, you will want to have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle contacts and those who built the product or service into improvement projects will yield better and faster results.
+In any case, you will want to have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle contacts and those who built the service into improvement projects will yield better and faster results.

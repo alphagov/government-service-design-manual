@@ -18,7 +18,7 @@ This guidance covers implementing the completion rate KPI, including what to do 
 </table>
 
 ##How frequently should I measure task completion rate?
-The user survey (alpha) and usability testing (beta) should be carried out at least once but it is recommended that these methods are used to support the ongoing development of the product even after launch. Digital analytics measurement is a continual process and should carry on indefinitely after launch.
+The user survey (alpha) and usability testing (beta) should be carried out at least once but it is recommended that these methods are used to support the ongoing development of the service even after launch. Digital analytics measurement is a continual process and should carry on indefinitely after launch.
 
 ##What level of completion should I aim for?
 You should aim for a 100% rate of completion.
@@ -28,7 +28,7 @@ The minimum you should plan to achieve by launch is 80%. This will be measured v
 ##What about post launch?
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The focus of the product team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. Completion rates will need to be piped automatically from the product’s digital analytics into the [Performance Platform](http://www.gov.uk/performance) and will be publicly available from the point of launch.
+The focus of the service team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. Completion rates will need to be piped automatically from the product’s digital analytics into the [Performance Platform](http://www.gov.uk/performance) and will be publicly available from the point of launch.
 
 ##Further reading
 [Available analytics tools](/handbook/96/)

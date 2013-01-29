@@ -44,7 +44,7 @@ This guidance looks at how Accessibility Testing should be conducted to ensure t
 
 ##Guidance
 
-Accessibility testing is much like usability testing, in that it is about ensuring that a product or service is easy to use for it’s intended audience. That audience  includes ‘disabled’ users who may access the product / service via a range of assistive technologies such as screen readers, voice recognition software, trackball devices etc
+Accessibility testing is much like usability testing, in that it is about ensuring that a service is easy to use for it’s intended audience. That audience  includes ‘disabled’ users who may access the service via a range of assistive technologies such as screen readers, voice recognition software, trackball devices etc
 
 It’s important to take a range of disabilities into account when you are testing any product or service including those with;
 
@@ -73,7 +73,7 @@ Accessibility testing with ‘real’ participants with a range of ‘disabiliti
 
 ##Weaknesses/when not to use
 
-Often cannot be conducted early on in the product lifecycle. The product or service must be fairly robust in order for it to be evaluated by people using assistive technologies e.g. a screen reader, such as Jaws, will read out the contents of a web page so the code needs to be well structured. Real content needs to be in place rather than ‘dummy text’, if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms etc must be in place if motor skills are being assessed.
+Often cannot be conducted early on in the service lifecycle. The service must be fairly robust in order for it to be evaluated by people using assistive technologies e.g. a screen reader, such as Jaws, will read out the contents of a web page so the code needs to be well structured. Real content needs to be in place rather than ‘dummy text’, if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms etc must be in place if motor skills are being assessed.
 
 Full lab-based accessibility testing is not required for every project. An accessibility audit would be a more efficient and cost-effective way to review a site.
 

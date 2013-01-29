@@ -19,7 +19,7 @@ Concept testing can be a lengthy and lengthy process and it is not always possib
 
 ##Participants
 
-Participants are be obtained from the target group for the product or service - this can be from the general population or harder to reach groups. 
+Participants are be obtained from the target group for the service - this can be from the general population or harder to reach groups. 
 
 ##Timescales
      

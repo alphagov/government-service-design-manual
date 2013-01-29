@@ -16,13 +16,13 @@ Guerilla testing works well to quickly validate how effective a design is on it�
 
 This approach is quick and relatively easy to set up. Participants are not recruited but are ‘approached’ by those persons conducting the sessions. The sessions themselves are short, typically between 15-30 minutes and are loosely structured around specific key research objectives. The output is typically ‘qualitative’ so insight is often rich and detailed.
 
-Anyone on the product team can conduct ‘guerilla testing’ on their site or service but often the best scenario is for a UX researcher to run the sessions with the designer or developer. The researcher can help with defining the tasks, moderating the sessions as well as provide a level of ‘objectivity’ by not being the person who designed or built what is being evaluated.  Involving the designer / developer in the sessions enables them to see  first hand ‘real’ people interacting with their product, where there are areas for improvement and how they might go about resolving any issues.
+Anyone on the service team can conduct ‘guerilla testing’ on their site or service but often the best scenario is for a UX researcher to run the sessions with the designer or developer. The researcher can help with defining the tasks, moderating the sessions as well as provide a level of ‘objectivity’ by not being the person who designed or built what is being evaluated.  Involving the designer / developer in the sessions enables them to see  first hand ‘real’ people interacting with their product, where there are areas for improvement and how they might go about resolving any issues.
 
 This approach also does away with any lengthy reporting back. Insights can be observed, taken away and fed back into the design process almost immediately. However, a brief summary with key findings and recommendations can be written up as a more formal record. It is a method that suits the ‘agile framework’ well.
 
 ##Where/how you might use it
 
-Guerilla testing can be used throughout the product lifecycle. As it is cheap to set up, run and report back on, it is a method that can be used frequently.
+Guerilla testing can be used throughout the service lifecycle. As it is cheap to set up, run and report back on, it is a method that can be used frequently.
 
 There are a few logistics that should be taken into consideration before conducting any guerilla testing;
 
@@ -46,7 +46,7 @@ There is no cost other than time.
 
 ##Timescales
 
-Depends on the scope of the product but between 1-2 days (incl conducting sessions and any reporting back)
+Depends on the scope of the service but between 1-2 days (incl conducting sessions and any reporting back)
 
 ##GDS Example
 

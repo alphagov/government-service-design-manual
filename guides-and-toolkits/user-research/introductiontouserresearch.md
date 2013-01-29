@@ -25,7 +25,7 @@ Secondary data, also known as desk research, can be used, and involves the analy
 The diagram below illustrates the typical product lifecycle, showing the stages at which user research should be conducted. This chart can be used as a reference to ensure that user needs are being factored into design at every stage. Typically this will involve some initial fact finding in the early stages to see understand the user needs, including who they are, how they currently do things, how they’d like to do them, and what information is currently available. 
 
 If there is already an existing product, it is sensible to collect benchmarking information (satisfaction, task completion etc) so that the performance of the new product can be measured. Following this, prototypes/wireframes should be reviewed by usability experts, and tested with users, and benchmarks gathered.
-Finally there should be continuous testing and benchmarking to ensure the product continues to perform as expect, and meets the need of the target audience.
+Finally there should be continuous testing and benchmarking to ensure the service continues to perform as expect, and meets the need of the target audience.
 
 Chart 1
 

@@ -17,7 +17,7 @@ From a traditional perspective, user testing measures how well participants resp
 
 A product or service is usually assessed by asking small samples of the ‘target audience, in one to one sessions, to complete specific but realistic tasks. The facilitator observes how well the participants are able to complete those tasks, noting down the areas or features that cause the participant problems. Often the facilitator will ask participants to think aloud whilst completing those tasks in order to understand their decision processes better.
 
-User testing can be conducted on low-fi assets e.g. paper prototypes, wireframes and hi-fi assets e.g. html/css prototypes, live digital services. It’s most effective when conducted early within the lifecycle of a product but can be conducted towards the end of the product lifecycle to validate any usability improvements.
+User testing can be conducted on low-fi assets e.g. paper prototypes, wireframes and hi-fi assets e.g. html/css prototypes, live digital services. It’s most effective when conducted early within the lifecycle of a product but can be conducted towards the end of the service lifecycle to validate any usability improvements.
 
 ##Where/how you might use it
 

@@ -29,7 +29,7 @@ It is up to the service manager to decide whether saving progress midway through
 It should not be possible to start a transaction mid way through, unless from a previously saved point. This means that pages beyond the start page should be hidden from search engines.
 
 ###What happens if there are multiple endpoints to a transaction?
-That’s fine. Again, it’s up to the service manager to define what a successful outcome for users is for the specific version of the product being tested and for the chosen method of measurement. More info on implementing completion rate measurement is available.
+That’s fine. Again, it’s up to the service manager to define what a successful outcome for users is for the specific version of the service being tested and for the chosen method of measurement. More info on implementing completion rate measurement is available.
 
 ###What about offline fulfilment?
 Some transactional services have parts which are digital and others which are non-digital. For example, when granting a lasting power of attorney users can start and finish the process online, but are required to print, sign and post a copy of the form in the middle of the process. In this situation it makes sense to treat the discrete digital parts of the service as separate tasks and measure completion rates for each. The purpose of measuring completion rate is to optimise and therefore each portion will need to optimised and therefore treated as a different task that users complete. Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (e.g from surveys, diary studies, focus groups).
