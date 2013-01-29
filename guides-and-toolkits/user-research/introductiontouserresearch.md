@@ -6,7 +6,7 @@ subsection: Understanding your audience
 status: draft
 ---
 
-This guidance is aimed to provide a broad overview of the types of methods and techniques that are available to conduct user research. More detailed guidance on each of these techniques is available in the DbD standard tool. 
+This guidance is aimed to provide a broad overview of the types of methods and techniques that are available to conduct user research. More detailed guidance on each of these techniques is available in the manual. 
 
 ##Guidance
 

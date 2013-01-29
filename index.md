@@ -45,8 +45,6 @@ status: draft
 -->
 
 <hr/>
-<h2>Detailed guidance</h2>
-
 <div class="topic">
   <h3>Accessibility</h3>
   <ul>
