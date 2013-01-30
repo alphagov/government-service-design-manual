@@ -10,7 +10,7 @@ status: draft
 A brief definition of what is meant by assisted digital. 
 
 ##Guidance
-Action 9 of the Government Digital Strategy committed that, in the move to digital by default, 
+[Action 9](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-09) of the Government Digital Strategy committed that, in the move to digital by default, 
 we would put in place a cross-government approach to assisted digital support for the 18% of adults 
 in the UK who are offline (never or very rarely use the internet) and for those who have limited digital capability.
 
