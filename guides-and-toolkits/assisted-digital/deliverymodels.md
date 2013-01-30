@@ -11,13 +11,13 @@ The Government has set out its strategy for how it intends to deliver services t
 use digital channels. This section explains the Government's approach, and links to further detail. 
 
 ##Cross-government approach
-The Cross-Government Approach to Assisted Digital complements Action 8 (insert new link once text is edited) 
+The Cross-Government Approach to Assisted Digital complements [Action 8](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-08) 
 of the Government Digital Strategy and strengthens the commitment to raising awareness and use of digital 
 services over more traditional channels. 
 
 The approach has a strong bias towards procuring external resource or support from the private and 
 voluntary sectors and is open to other potential routes rather than in-house provision. In exceptional 
-\circumstances, departments may seek an exemption from this requirement; for example, where a business 
+circumstances, departments may seek an exemption from this requirement; for example, where a business 
 case for external support does not evidence a cost versus benefits value.  Any such exceptions would 
 require agreement at cross-government level. 
 
@@ -44,13 +44,12 @@ in place to ensure consistency and collaboration across departments, organisatio
 Before commencing any work to procure or develop a digital service or assisted digital support for 
 accessing that service, the organisations responsible for devising the policy and delivery framework will 
 need to consider carrying out an Equality Impact Assessment or Impact Assessment in line with their Public 
-Sector Equality Duty, under the Equality Act 2010, and the Equality Act 2010 (Specific Duties) Regulations 2011 
-(need up to date link). This will support  good decision making and encourages public bodies to understand 
+Sector Equality Duty, under the Equality Act 2010, and the [Equality Act 2010 (Specific Duties) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/2260/contents/made). This will support  good decision making and encourages public bodies to understand 
 how different people will be affected by their activities, so that their policies and services are appropriate 
 and accessible to all and meet different people’s needs.  
 
 ##Further reading
-Assisted digital strategy document (link)
+[Assisted digital strategy document](http://publications.cabinetoffice.gov.uk/digital/assisted/)
 
 21 major services are in planning to become Digital by Default by March 2015 - more details on these 
 can be found in Departmental Digital Strategies#.  In addition, all services with over 100,000 transactions 

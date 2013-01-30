@@ -30,5 +30,5 @@ with large numbers of older people may need different assisted digital provision
 large numbers of younger people. 
 
 ##Further reading
-In November 2012 we commissioned independent research on the digital landscape [insert Landscape Research link] 
+In November 2012 we commissioned independent research on the [digital landscape](http://publications.cabinetoffice.gov.uk/digital/research/)
 to explore internet use in general and to gain insight on the relationship between users and government online transactions. 
