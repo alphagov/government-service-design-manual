@@ -66,9 +66,6 @@ results.
 
 ## Further reading
 
-* Matt Cutts from Google on page speed -
-http://www.mattcutts.com/blog/site-speed/
-* Distributed Denial of Service attacks -
-http://en.wikipedia.org/wiki/Denial-of-service_attack
-* Capacity Planning Presentation -
-http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676
+[Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
+[Distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
+[Capacity Planning Presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)
