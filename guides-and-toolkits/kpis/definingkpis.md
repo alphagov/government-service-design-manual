@@ -10,6 +10,7 @@ status: draft
 This guidance defines the four standard KPIs for digital by default services: completion rate, user satisfaction, digital take-up and cost per transaction. For details on how to implement the measurement of these KPIs, please refer to [Implementing completion rate](), [Implementing user satisfaction]() and [Implementing cost per transaction]().
 
 ##Completion rate
+
 ###Why measure completion rate?
 Completion, or conversion, rate measures the extent to which users successfully achieve their goals in relation to a specific service. This metric is continually monitored by service managers, who take steps to improve and optimise the service over time. This is the ultimate measure of success for a service as it reflects the ability for users to easily and effectively get what they want. Completion rates fall when users are having problems getting what they want from, or navigating through, the digital service which can lead to avoidable contact through other channels, or completing transactions through other channels. This in turn leads to low levels of digital take-up and a high cost per transaction.
 
