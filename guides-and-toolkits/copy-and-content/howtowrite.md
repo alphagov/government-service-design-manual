@@ -64,7 +64,7 @@ If we make the information hard to read or the design so distracting or difficul
 Good design and words isn’t a desire or an ‘aim’ - it is our responsibility.
 
 ##Further reading
-[How users read](http://gsdm.herokuapp.com/handbook/29/)
+[How users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html)
 
 [Style guide](http://gsdm.herokuapp.com/handbook/32/)
 
