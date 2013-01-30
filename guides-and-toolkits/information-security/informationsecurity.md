@@ -61,7 +61,7 @@ they are numbers between 0 and 6 for each of the three following critera:
 * Integrity - the potential impact if the accuracy or completeness of the information is compromised,
 * Availability - the potential impact if the information becomes inaccessible.
 
-More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
+More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
 
 ### Agile Design
 
