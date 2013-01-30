@@ -7,15 +7,15 @@ status: draft
 ---
     
 #Words to avoid
-A collection of words and phrases to avoid in the creation of policies. To be used in conjunction with the [GOV.UK Style Guide](http://gsdm.herokuapp.com/handbook/32/).
+A collection of words and phrases to avoid in the creation of policies. To be used in conjunction with the [GOV.UK Style Guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html).
 
 ##Guidance
 
-We lose trust from our users if we write government 'buzzwords' and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We need to be concrete, use plain English and be very clear about what we are doing. 
+Users will lose truse in a service if we write government 'buzzwords' and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We need to be concrete, use plain English and be very clear about what we are doing. 
 
 ##Words to avoid
 
-In policies, and across GOV.UK, we can generally do that very well without these words:
+Across government services we can generally do that very well without these words:
 
 -   agenda (unless it is for a meeting)
 -   advancing
