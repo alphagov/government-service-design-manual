@@ -8,7 +8,7 @@ status: draft
     
 ##How to write
 
-<p>This section gives details on naming your service, tone, style, questions and why we write in this way.</p>
+This section gives details on naming your service, tone, style, questions and why we write in this way.
 
 You may want to read: [how users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
