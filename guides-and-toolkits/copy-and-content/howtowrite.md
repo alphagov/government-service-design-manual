@@ -66,9 +66,9 @@ Good design and words isn’t a desire or an ‘aim’ - it is our responsibilit
 ##Further reading
 [How users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html)
 
-[Style guide](http://gsdm.herokuapp.com/handbook/32/)
+[Style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html)
 
-[Microcopy](http://gsdm.herokuapp.com/handbook/34/)
+[Microcopy](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html)
 
 
 
