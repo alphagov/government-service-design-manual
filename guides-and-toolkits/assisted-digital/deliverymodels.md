@@ -49,7 +49,7 @@ how different people will be affected by their activities, so that their policie
 and accessible to all and meet different people’s needs.  
 
 ##Further reading
-Assisted digital strategy document (link)
+[Assisted digital strategy document](http://publications.cabinetoffice.gov.uk/digital/assisted/)
 
 21 major services are in planning to become Digital by Default by March 2015 - more details on these 
 can be found in Departmental Digital Strategies#.  In addition, all services with over 100,000 transactions 
