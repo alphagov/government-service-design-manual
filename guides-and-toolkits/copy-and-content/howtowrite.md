@@ -10,7 +10,7 @@ status: draft
 
 <p>This section gives details on naming your service, tone, style, questions and why we write in this way.</p>
 
-<p>You may want to read: [how users read](http://gsdm.herokuapp.com/handbook/29/), this will tell you more about user reading behaviour - which will help when designing the content for your service.</p>
+You may want to read: [how users read](http://gsdm.herokuapp.com/handbook/29/) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
 <p>All services should follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide). The way we talk to users is the same on all GOV.UK products. The only difference is the format.</p>
