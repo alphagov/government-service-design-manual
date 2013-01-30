@@ -36,6 +36,7 @@ The eConsultancy Conversion Report 2010 found that businesses whose online conve
 > Analyse conversion for different segments, specifically, new versus repeat visitors, channel used to access site, product and RFM (Recency, Frequency, Monetary value).
 
 It gives the following examples of segments:
+
 * Purchased any product: Compare the activity of those that have purchased (happy with the brand) to those that have not. This is most powerful when trying to understand what non-customers are doing on the site. Put any inactive users into a reactivation programme.
 * Repeat Visitors: Understand the difference between the user behaviour of returning prospects and first time visitors.
 * Channel used to access site: How the user entered your site is a big clue to how they need to be treated. If they entered with the search term “cheap holiday” send them emails on cheap deals. If they entered via a PPC ad promoting a “luxury break” send them an email about luxury breaks.
