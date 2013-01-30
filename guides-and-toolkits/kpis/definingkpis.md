@@ -7,7 +7,7 @@ status: draft
 ---
     
 #Defining KPIs
-This guidance defines the four standard KPIs for digital by default services: completion rate, user satisfaction, digital take-up and cost per transaction. For details on how to implement the measurement of these KPIs, please refer to [Implementing completion rate](), [Implementing user satisfaction]() and [Implementing cost per transaction]().
+This guidance defines the four standard KPIs for digital by default services: completion rate, user satisfaction, digital take-up and cost per transaction. For details on how to implement the measurement of these KPIs, please refer to [Implementing completion rate](http://gsdm.herokuapp.com/guides-and-toolkits/kpis/implementingtransactionsuccessmetric.html), [Implementing user satisfaction](http://gsdm.herokuapp.com/guides-and-toolkits/kpis/implementingcustomersatisfactionmeasure.html) and [Implementing cost per transaction](http://gsdm.herokuapp.com/guides-and-toolkits/kpis/implementingcostpertransactionmeasure.html).
 
 ##Completion rate
 
