@@ -11,7 +11,7 @@ The Government has set out its strategy for how it intends to deliver services t
 use digital channels. This section explains the Government's approach, and links to further detail. 
 
 ##Cross-government approach
-The Cross-Government Approach to Assisted Digital complements Action 8 (insert new link once text is edited) 
+The Cross-Government Approach to Assisted Digital complements [Action 8](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-08) 
 of the Government Digital Strategy and strengthens the commitment to raising awareness and use of digital 
 services over more traditional channels. 
 
