@@ -14,18 +14,18 @@ There are various web analytics tools available to help you measure how people a
 
 When you are deciding which analytics tool to use you should consider the following criteria.
 
-*Cost: you should consider the total cost of ownership as well as cost in comparison to turnover of service
-*Scalability (will data be sampled at high volumes?)
-*Data ownership (do you solely own the data?
-*1st party cookies only
-*Profiles and custom variables (do you pay more for additional profiles/custom variables?)
-*Admin system (does it provide a strong admin system for user access?)
-*Hosting (is it vendor hosted or in house?)
-*Multi-channel (can it track offline channel usage?)
-*Standard reports (does it provide a comprehensive set of standard reports including social interactions and multimedia capturing?)
-*Open API (does it provide an open API with no export restrictions?)
-*Funnel analysis (can it measure transactions through funnel analysis and measure goals?)
-*Support and training
+* Cost: you should consider the total cost of ownership as well as cost in comparison to turnover of service
+* Scalability (will data be sampled at high volumes?)
+* Data ownership (do you solely own the data?
+* 1st party cookies only
+* Profiles and custom variables (do you pay more for additional profiles/custom variables?)
+* Admin system (does it provide a strong admin system for user access?)
+* Hosting (is it vendor hosted or in house?)
+* Multi-channel (can it track offline channel usage?)
+* Standard reports (does it provide a comprehensive set of standard reports including social interactions and multimedia capturing?)
+* Open API (does it provide an open API with no export restrictions?)
+* Funnel analysis (can it measure transactions through funnel analysis and measure goals?)
+* Support and training
 
 For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for in addition.
 
