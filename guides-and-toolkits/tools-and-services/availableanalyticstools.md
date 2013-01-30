@@ -7,10 +7,13 @@ status: draft
 ---
     
 ##Available analytics tools
+
 There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against those criteria.
 
 ###High level requirements
+
 When you are deciding which analytics tool to use you should consider the following criteria.
+
 * Cost: you should consider the total cost of ownership as well as cost in comparison to turnover of service
 * Scalability (will data be sampled at high volumes?)
 * Data ownership (do you solely own the data?)
@@ -27,6 +30,7 @@ When you are deciding which analytics tool to use you should consider the follow
 For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for in addition.
 
 ##Vendor comparison
+
 The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s Web Analytics Buyer’s Guide 2012 and input from colleagues in GDS, HMRC (Business Link) and DH (NHS Choices). Of course, there are other vendors in the market place, including open source solutions such as Piwik.
 
 <table>
