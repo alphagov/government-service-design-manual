@@ -13,11 +13,12 @@ This section gives details on naming your service, tone, style, questions and wh
 You may want to read: [how users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
-<p>All services should follow the [GOV.UK style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html)
+
+All services should follow the [GOV.UK style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html)
 The way we talk to users is the same on all GOV.UK products. The only difference is the format.
 
 ###Introductions
-Services should be intuitive and government services should present exceptional UX. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.</p>
+Services should be intuitive and government services should present exceptional UX. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.
 
 <p>If you do have to add text, keep your sentences very specific, short, active (keeping the subject and verb close) and in plain English. Users won’t want to read much on a tool or transaction. They will want to click, answer questions and get to the end as quickly as possible. It’s unlikely they will read much at all, so only tell them what you need to.</p>
 
