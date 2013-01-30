@@ -10,7 +10,7 @@ status: draft
 <p>Microcopy includes the questions and common text you may use throughout a service.  </p>
 
 ##Guidance
-*Don’t use*:
+**Don’t use**:
 <ul>
 <li>&lsquo;please&rsquo; on labels - give polite, clear, short instruction
 <li>colons after labels 
