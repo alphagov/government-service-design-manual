@@ -10,14 +10,14 @@ status: draft
 <p>Microcopy includes the questions and common text you may use throughout a service.  </p>
 
 ##Guidance
-<p>Don’t use:</p>
+*Don’t use*:
 <ul>
 <li>&lsquo;please&rsquo; on labels - give polite, clear, short instruction
 <li>colons after labels 
 <li>Don&rsquo;t add &lsquo;your&rsquo; to labels etc, for example: your name, your address etc, use &lsquo;name&rsquo;, &lsquo;address&rsquo;, unless you have a page with multiple people where you need to differentiate - for example: &lsquo;your name&rsquo;, ‘partner name&rsquo; etc
 </li>
 
-<p>Use:</p>
+Use:</p>
 <li>sentence case 
 <li>address the user directly 
 <li>the cap convention in the style guide [link]
