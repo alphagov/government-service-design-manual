@@ -100,7 +100,7 @@ article .inner{
   img{
     float: right;
     width: 30%;
-    margin: -11em 0 0 0;
+    margin: -3em 0 0 0;
     border: 5px solid #EBEBEB;
     padding: 2.5em;
   }
@@ -226,6 +226,7 @@ article .inner{
 
 .phase-diagram{
   width: 100%;
+  margin: 0 -1em 0 -1em;
 }
 
 // ====================================================
@@ -588,7 +589,7 @@ article dd{
   border-bottom: 1px solid #BFC1C3;
   padding-bottom: 5px;
   h3{
-    font-size: 32px;
+    //font-size: 32px;
     margin-top: 1.4em;
   }
   ul{
