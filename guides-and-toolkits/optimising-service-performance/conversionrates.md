@@ -12,11 +12,11 @@ Conversion rate is considered a good [web KPI](http://www.kaushik.net/avinash/ru
 ##Methods for improving conversion rate
 The eConsultancy Conversion Report 2010 lists the following methods for improving conversion rates:
 * A/B testing
-* Customer journey analysis
+* User journey analysis
 * Multivariate testing
 * Cart abandonment analysis
 * User testing
-* Online surveys/customer feedback
+* Online surveys/user feedback
 * Event-triggered/behavioural email
 * Segmentation
 * Copy optimisation

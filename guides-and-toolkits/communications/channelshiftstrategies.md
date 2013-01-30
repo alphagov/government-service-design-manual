@@ -17,7 +17,7 @@ To encourage people to use digital channels, you need to develop (service by ser
 Things to do...
 
 ###Promotion
-- tailor your messages based on customer priorities/benefits, using insight data/segmentation (test out different ‘appeals’) - and keep your marketing plans refreshed as you progress through different segments
+- tailor your messages based on user priorities/benefits, using insight data/segmentation (test out different ‘appeals’) - and keep your marketing plans refreshed as you progress through different segments
 - defining and publicising the benefits to users (better for you/cheaper for taxpayers/green, etc) segment by segment, and ‘myth-busting’ the barriers
 - including memorable urls prominently on all publicity, both hard and soft copy (preferably with deep links tailored to the specific service, not just to a home page).  This should include all branding opportunities -  email footers, out of hours phone messages, and all correspondence.  The urls should take precedence over traditional contact methods like phone numbers
 - creating/looking for sign-up opportunities (if applicable) to create a relationship with users; his way you can keep users updated as you improve - and also consider deploying ‘pass it on’ messages to successful users, to encourage word of mouth spread to their acquaintances
@@ -25,7 +25,7 @@ Things to do...
 - Use newer channels like social media to signpost people to your service
 
 ###Advocacy
-- use customer journey mapping to identify any current/potential points of contact - then train frontline staff actively to offer digital service - contact centres, floorwalkers, staff out in the field (demonstrating, forwarding links, floor-walking to divert from queues, assisting with digital transactions rather than taking over, etc) . To do this you need to get good staff buy-in and ‘sell’ benefits to them
+- use user journey mapping to identify any current/potential points of contact - then train frontline staff actively to offer digital service - contact centres, floorwalkers, staff out in the field (demonstrating, forwarding links, floor-walking to divert from queues, assisting with digital transactions rather than taking over, etc) . To do this you need to get good staff buy-in and ‘sell’ benefits to them
 - get opinion formers involved in initiatives from the start - recruit partners who can get involved, e.g. community groups, Family Information Services, schools (headteachers and governing bodies), children’s centres, libraries, customer service centres, etc
 - don’t neglect your offline channels - potential users will probably get reassurance by talking to or dealing with contacts they trust, and in many cases this will mean through face to face conversations
 
@@ -65,7 +65,7 @@ The [Government Digital Strategy] (http://publications.cabinetoffice.gov.uk/digi
 ##Further reading
 The [Sheffield Channel Shift project](http://www.pscsf.org.uk/2012/08/channel-shift-helping-people-use-public-services-online/) showed the impact of concerted partnership working in promoting digital take-up.
 
-Some [Cabinet Office Case studies](http://webarchive.nationalarchives.gov.uk/+/http://www.cabinetoffice.gov.uk/media/261356/channel_strategy_cases.pdf) from 2009 show how government services run by Companies House, DVLA and HMRC used customer insight to promote increased digital take-up.
+Some [Cabinet Office Case studies](http://webarchive.nationalarchives.gov.uk/+/http://www.cabinetoffice.gov.uk/media/261356/channel_strategy_cases.pdf) from 2009 show how government services run by Companies House, DVLA and HMRC used user insight to promote increased digital take-up.
 
 There are numerous [public sector case studies] (http://www.psfbuzz.org.uk/2011/09/pscsf-compendium-of-channel-shift-self-service-resources/#.UMc-smNNs0N) that explore channel shift.
 

@@ -5,7 +5,7 @@ section: guidance
 subsection: Assisted Digital
 status: draft
 ---
-    
+
 #Understanding the size of the Assisted Digital audience
 Service managers need to understand how many of their users are likely to be able to use digital services independently 
 and how many are unlikely to be able to use digital services independently. These people will need assisted digital. 

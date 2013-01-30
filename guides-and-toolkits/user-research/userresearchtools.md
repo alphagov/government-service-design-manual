@@ -33,7 +33,7 @@ Optimal Workshop - http://www.optimalworkshop.com/optimalsort.htm
 LiveMinds - http://www.liveminds.co.uk/
 VisionsLive - http://www.visionslive.com/
 
-**Community groups** - Enables in-house research team to manage a community of customers and/or stakeholders. These are normally come part of a larger online research tools package. Available tools are below:
+**Community groups** - Enables in-house research team to manage a community of users and/or stakeholders. These are normally come part of a larger online research tools package. Available tools are below:
 
 LiveMinds - http://www.liveminds.co.uk/
 Bloomfire - http://www.bloomfire.com/

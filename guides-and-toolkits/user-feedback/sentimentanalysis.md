@@ -20,4 +20,4 @@ Some of the free tools available can group comments very broadly, and not enable
 
 ##Sample 
 
-Feedback can be gathered from any customer feedback point e.g. email, website, survey.
+Feedback can be gathered from any user feedback point e.g. email, website, survey.

@@ -103,7 +103,7 @@ Total: 80 mins with 10% shuffle time. It is OK to finish early if people have sa
 
 ##Why we do this
 
-One of the central principles of Agile is quick feedback loops - we want to demonstrate something to the customer as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
+One of the central principles of Agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
 
 By having a retrospective regularly, we can make small improvements often, ideally before problems start to fester, and we can identify working practices which make us more efficient, productive or at least happier. Agile development practices are to help us work better, and the retrospective allows us to fine-tune the process and our environment to our needs.
 
