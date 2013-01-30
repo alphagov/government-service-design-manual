@@ -53,7 +53,6 @@ status: draft
 
 <strong>LINK TO DESIGN VERSION ON THIS</strong>
 
-
 Optional/mandatory
 DESIGN
 
