@@ -11,7 +11,7 @@ A collection of words and phrases to avoid in the creation of policies. To be us
 
 ##Guidance
 
-Users will lose truse in a service if we write government 'buzzwords' and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We need to be concrete, use plain English and be very clear about what we are doing. 
+Users will lose trust if we write government 'buzzwords' and jargon. Often, these words are too general and vague and can lead to misinterpretation or empty, meaningless text. We need to be concrete, use plain English and be very clear about what we are doing. 
 
 ##Words to avoid
 
