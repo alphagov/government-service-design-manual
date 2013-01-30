@@ -13,7 +13,7 @@ status: draft
 You may want to read: [how users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
-<p>All services should follow the [GOV.UK style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html).
+<p>All services should follow the [GOV.UK style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html)
 The way we talk to users is the same on all GOV.UK products. The only difference is the format.
 
 ###Introductions
