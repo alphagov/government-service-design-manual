@@ -49,6 +49,6 @@ Avinash Kaushik also sees value in pushing beyond a simple conversion rate, alth
 ##Retention rate
 The [McKinsey e-performance report](https://www.mckinseyquarterly.com/E-performance_The_path_to_rational_exuberance_975) also sees value in considering new versus repeat users and stresses the importance of customer retention. It looks at conversion within the broader process of attraction, conversion and retention. That is, getting users into a service, getting them through it and getting them to re-use it.
 
-> Perhaps our most important finding is the power of retention. A 10 percent increase in the rate at which visitors are converted into repeat customers drives a 10 percent improvement in the net present value of a company’s expected cash flows
+*Perhaps our most important finding is the power of retention. A 10 percent increase in the rate at which visitors are converted into repeat customers drives a 10 percent improvement in the net present value of a company’s expected cash flows*
 
 An analysis of costs and revenues per visitor, per customer and per repeat customer shows that repeat customers are cheaper to acquire and worth more. McKinsey says more effort is needed to ensure customer loyalty. In practical terms this may mean keeping information so a user never has to provide the same information twice, or emailing users to remind them to use a service again.
