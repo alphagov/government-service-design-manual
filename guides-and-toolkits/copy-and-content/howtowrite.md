@@ -13,7 +13,8 @@ status: draft
 You may want to read: [how users read](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/readingages.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
-<p>All services should follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide). The way we talk to users is the same on all GOV.UK products. The only difference is the format.</p>
+<p>All services should follow the [GOV.UK style guide](http://gsdm.herokuapp.com/guides-and-toolkits/copy-and-content/styleguide.html).
+The way we talk to users is the same on all GOV.UK products. The only difference is the format.</p>
 
 ###Introductions
 <p>Services should be intuitive and government services should present exceptional UX. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.</p>
