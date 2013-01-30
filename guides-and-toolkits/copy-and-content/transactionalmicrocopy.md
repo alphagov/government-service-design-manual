@@ -11,7 +11,7 @@ status: draft
 
 ##Guidance
 **Don’t use**:
-<ul>
+
 <li>&lsquo;please&rsquo; on labels - give polite, clear, short instruction
 <li>colons after labels 
 <li>Don&rsquo;t add &lsquo;your&rsquo; to labels etc, for example: your name, your address etc, use &lsquo;name&rsquo;, &lsquo;address&rsquo;, unless you have a page with multiple people where you need to differentiate - for example: &lsquo;your name&rsquo;, ‘partner name&rsquo; etc
