@@ -17,7 +17,7 @@ services over more traditional channels.
 
 The approach has a strong bias towards procuring external resource or support from the private and 
 voluntary sectors and is open to other potential routes rather than in-house provision. In exceptional 
-\circumstances, departments may seek an exemption from this requirement; for example, where a business 
+circumstances, departments may seek an exemption from this requirement; for example, where a business 
 case for external support does not evidence a cost versus benefits value.  Any such exceptions would 
 require agreement at cross-government level. 
 
@@ -44,8 +44,7 @@ in place to ensure consistency and collaboration across departments, organisatio
 Before commencing any work to procure or develop a digital service or assisted digital support for 
 accessing that service, the organisations responsible for devising the policy and delivery framework will 
 need to consider carrying out an Equality Impact Assessment or Impact Assessment in line with their Public 
-Sector Equality Duty, under the Equality Act 2010, and the Equality Act 2010 (Specific Duties) Regulations 2011 
-(need up to date link). This will support  good decision making and encourages public bodies to understand 
+Sector Equality Duty, under the Equality Act 2010, and the [Equality Act 2010 (Specific Duties) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/2260/contents/made). This will support  good decision making and encourages public bodies to understand 
 how different people will be affected by their activities, so that their policies and services are appropriate 
 and accessible to all and meet different people’s needs.  
 
