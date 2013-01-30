@@ -23,7 +23,7 @@ status: draft
 <li>the cap convention in the style guide [link]
 </li>
 
-<p>Style:</p>
+**Style:**
 <li>first name &ndash; not Christian name
 <li>last name &ndash; not family name
 <li>middle name(s)
@@ -32,6 +32,7 @@ status: draft
 </li>
 
 ###Help text
+
 <p>There are 3 levels of text:</p>
 <strong>On-page help</strong>
 <p>One line under the label that will help the user to fill in that field.</p>
@@ -46,6 +47,7 @@ status: draft
 
 
 ###Radio buttons
+
 <p>Use: Yes [button] No [button] (note caps)</p>
 <p>Keep to the same convention (yes first) on the page.</p> 
 
