@@ -17,8 +17,6 @@ This guidance covers implementing the user satisfaction KPI, including what to d
 <tr><td>May</td><td></td><td></td><td></td><td>Do drivers analysis to understand what is driving satisfaction for users</td></tr>
 </table>
 
-
-
 ##What about post launch?
 You should run a survey continuously, and report satisfaction on a monthly basis. The results should be fed into the development of the service, for example analysis of reasons for dissatisfaction. You should also carry out a more comprehensive user satisfaction survey every six months.
 
