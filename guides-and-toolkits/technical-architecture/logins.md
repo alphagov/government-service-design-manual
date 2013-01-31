@@ -30,4 +30,4 @@ If you need to build a system for a broad range of citizens and businesses, or y
 
 ##Examples
 
-The ELMS license application system on business link required a login to complete an application. In building a new version of the system for GOV.UK we removed that requirement and it would appear that usage rates have increased considerably. We're trying to gather data on that change. There is still a login system for approved users in local authorities who need to process those applications.
+The ELMS license application system on business link required a login to complete an application. In building a new version of the system for [GOV.UK](https://www.gov.uk/browse/business/licences) we removed that requirement and it would appear that usage rates have increased considerably. We're trying to gather data on that change. There is still a login system for approved users in local authorities who need to process those applications.
