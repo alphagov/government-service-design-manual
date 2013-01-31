@@ -7,7 +7,7 @@ status: draft
 ---
     
 #Implementing completion rate
-This guidance covers implementing the completion rate KPI, including what to do when and how frequently to measure. Please refer to [Defining KPIs](/handbook/134/) for a definition of completion rate.
+This guidance covers implementing the completion rate KPI, including what to do when and how frequently to measure. Please refer to [Defining KPIs](/guides-and-toolkits/kpis/definingkpis.html) for a definition of completion rate.
 
 ##Guidance/Tool
 <table>
