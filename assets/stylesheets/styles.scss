@@ -2,7 +2,7 @@
 ---
 
 // ===================================================
-// WEBSITE TOOLKIT STYLES
+// GOVERNMENT SERVICE DESIGN MANUAL
 //
 
 @import "colours";
@@ -18,6 +18,15 @@
 @include global-nav($black, $border-colour);
 
 
+// Semantic colour names
+$alpha-colour: $pink;
+$discovery-colour: $pink-25;
+$inception-colour: $pink-50;
+$alpha-colour: $pink;
+$beta-colour: $orange;
+$live-colour: $grass-green;
+$operational-colour: $grass-green-50;
+$decommissioning-colour: $grey-3;
 
 article .inner{
   padding-right: 2em;
@@ -146,25 +155,25 @@ article .inner{
   padding-top:48px;
   border-radius:62px;
   &.discovery{
-    background-color:$pink-25;
+    background-color:$discovery-colour;
   }
   &.inception{
-    background-color:$pink-50;
+    background-color:$inception-colour;
   }
   &.alpha{
-    background-color:$pink;
+    background-color:$alpha-colour;
   }
   &.beta{
-    background-color:$orange;
+    background-color:$beta-colour;
   }
   &.live{
-    background-color:$grass-green;
+    background-color:$live-colour;
   }
   &.operational{
-    background-color:$grass-green-50;
+    background-color:$operational-colour;
   }
   &.decommissioning{
-    background-color:$grey-3;
+    background-color:$decommissioning-colour;
   }
 }
 #global-nav{
@@ -181,29 +190,29 @@ article .inner{
   margin:0; 
   padding:1em;
   &.discovery{
-    background-color:$pink-25;
+    background-color:$discovery-colour;
   }
   &.inception{
-    background-color:$pink-50;
+    background-color:$inception-colour;
   }
   &.alpha{
-    background-color:$pink;
+    background-color:$alpha-colour;
   }
   &.beta{
-    background-color:$orange;
+    background-color:$beta-colour;
   }
   &.live{
-    background-color:$grass-green;
+    background-color:$live-colour;
   }
   &.operational{
-    background-color:$grass-green-50;
+    background-color:$operational-colour;
   }
   &.decommissioning{
-    background-color:$grey-3;
+    background-color:$decommissioning-colour;
   }
 }
 .alpha-phase hgroup{
-  background-color: $pink;
+  background-color: $alpha-colour;
   color: #fff;
   padding-left:2em;
 }
@@ -627,4 +636,8 @@ article dd{
       }
     }
   }
+}
+
+.alpha-label{
+
 }

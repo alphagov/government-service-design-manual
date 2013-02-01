@@ -379,11 +379,11 @@
   #global-nav.open .toggler.current {
     background: #0b0c0c; }
 
-/* line 19 */
+/* line 28 */
 article .inner {
   padding-right: 2em; }
 
-/* line 22 */
+/* line 31 */
 .categories {
   margin: 0;
   padding: 0;
@@ -419,7 +419,7 @@ article .inner {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .categories > * *:first-child {
       margin-top: 0; }
-  /* line 25 */
+  /* line 34 */
   .categories h2 {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 36px;
@@ -432,80 +432,80 @@ article .inner {
     padding-bottom: 7px;
     padding-bottom: 0.7rem; }
     @media (max-width: 640px) {
-      /* line 25 */
+      /* line 34 */
       .categories h2 {
         font-size: 2.4rem;
         line-height: 1.04167; } }
     @media (min-width: 641px) {
-      /* line 25 */
+      /* line 34 */
       .categories h2 {
         padding-top: 0.6rem;
         padding-bottom: 0.9rem; } }
-  /* line 28 */
+  /* line 37 */
   .categories ul {
     padding-left: 0; }
-    /* line 30 */
+    /* line 39 */
     .categories ul li {
       padding-left: 0;
       list-style: none; }
-      /* line 33 */
+      /* line 42 */
       .categories ul li a {
         text-decoration: none; }
-        /* line 35 */
+        /* line 44 */
         .categories ul li a:hover {
           text-decoration: underline; }
 
-/* line 42 */
+/* line 51 */
 .home-page-hero {
   border: 5px solid #ebebeb;
   margin-bottom: 1.5em; }
-  /* line 45 */
+  /* line 54 */
   .home-page-hero a {
     padding: 2em;
     display: block; }
-    /* line 48 */
+    /* line 57 */
     .home-page-hero a:hover {
       background: #F9F9F9; }
-      /* line 50 */
+      /* line 59 */
       .home-page-hero a:hover p {
         text-decoration: underline;
         color: #2E3191; }
-  /* line 56 */
+  /* line 65 */
   .home-page-hero img {
     width: 55%;
     margin-top: 0.25em; }
-  /* line 60 */
+  /* line 69 */
   .home-page-hero p {
     width: 36.5%;
     float: left;
     font-size: 24px;
     margin: 0 2em 0 0; }
 
-/* line 70 */
+/* line 79 */
 .home-page-promos div {
   box-sizing: border-box;
   padding: 1em; }
-/* line 74 */
+/* line 83 */
 .home-page-promos .action {
   margin: 0 -16px;
   background-color: #006435; }
-  /* line 77 */
+  /* line 86 */
   .home-page-promos .action a {
     color: white;
     padding: 1em;
     display: block; }
-    /* line 81 */
+    /* line 90 */
     .home-page-promos .action a:hover {
       background-color: #009750; }
 
-/* line 89 */
+/* line 98 */
 .subtitle {
   margin-top: -1em;
   color: #666;
   margin-bottom: 1em;
   font-size: 24px; }
 
-/* line 97 */
+/* line 106 */
 .standard-intro img {
   float: right;
   width: 30%;
@@ -513,7 +513,7 @@ article .inner {
   border: 5px solid #ebebeb;
   padding: 2.5em; }
 
-/* line 107 */
+/* line 116 */
 .standard ul {
   display: inline-block;
   vertical-align: middle;
@@ -522,13 +522,13 @@ article .inner {
   padding-left: 0;
   width: 73%;
   border-left: 5px solid #dee0e2; }
-/* line 116 */
+/* line 125 */
 .standard h3 {
   margin-top: 0;
   width: 20%;
   display: inline-block;
   font-size: 42px; }
-/* line 123 */
+/* line 132 */
 .standard li {
   list-style: none;
   padding: 0;
@@ -539,12 +539,12 @@ article .inner {
   background-repeat: no-repeat;
   background-position: 19px 45%; }
 
-/* line 134 */
+/* line 143 */
 .guides-overview {
   width: 100%;
   clear: both; }
 
-/* line 138 */
+/* line 147 */
 .guides-overview li {
   float: left;
   display: block;
@@ -552,73 +552,73 @@ article .inner {
   width: 124px;
   padding-top: 48px;
   border-radius: 62px; }
-  /* line 145 */
+  /* line 154 */
   .guides-overview li.discovery {
     background-color: #f6d7e5; }
-  /* line 148 */
+  /* line 157 */
   .guides-overview li.inception {
     background-color: #eb9bbe; }
-  /* line 151 */
+  /* line 160 */
   .guides-overview li.alpha {
     background-color: #d53880; }
-  /* line 154 */
+  /* line 163 */
   .guides-overview li.beta {
     background-color: #f47738; }
-  /* line 157 */
+  /* line 166 */
   .guides-overview li.live {
     background-color: #85994b; }
-  /* line 160 */
+  /* line 169 */
   .guides-overview li.operational {
     background-color: #c2cca3; }
-  /* line 163 */
+  /* line 172 */
   .guides-overview li.decommissioning {
     background-color: #dee0e2; }
 
-/* line 167 */
+/* line 176 */
 #global-nav {
   text-align: left; }
 
-/* line 170 */
+/* line 179 */
 .phase-nav {
   width: 100%;
   margin: 0 -1em; }
 
-/* line 174 */
+/* line 183 */
 .phase-nav li {
   display: block;
   float: left;
   width: 49%;
   margin: 0;
   padding: 1em; }
-  /* line 180 */
+  /* line 189 */
   .phase-nav li.discovery {
     background-color: #f6d7e5; }
-  /* line 183 */
+  /* line 192 */
   .phase-nav li.inception {
     background-color: #eb9bbe; }
-  /* line 186 */
+  /* line 195 */
   .phase-nav li.alpha {
     background-color: #d53880; }
-  /* line 189 */
+  /* line 198 */
   .phase-nav li.beta {
     background-color: #f47738; }
-  /* line 192 */
+  /* line 201 */
   .phase-nav li.live {
     background-color: #85994b; }
-  /* line 195 */
+  /* line 204 */
   .phase-nav li.operational {
     background-color: #c2cca3; }
-  /* line 198 */
+  /* line 207 */
   .phase-nav li.decommissioning {
     background-color: #dee0e2; }
 
-/* line 202 */
+/* line 211 */
 .alpha-phase hgroup {
   background-color: #d53880;
   color: #fff;
   padding-left: 2em; }
 
-/* line 208 */
+/* line 217 */
 .breadcrumb {
   list-style-type: none;
   list-style-image: none;
@@ -626,34 +626,34 @@ article .inner {
   padding: 0;
   background: white;
   padding: 1em 2em 0 2em; }
-  /* line 215 */
+  /* line 224 */
   .breadcrumb li {
     display: inline-block;
     margin: 0;
     padding: 0; }
 
-/* line 224 */
+/* line 233 */
 .phase-diagram {
   width: 100%;
   margin: 0 -1em 0 -1em; }
 
-/* line 233 */
+/* line 242 */
 .project-list {
   margin: 0 0 1em 0;
   width: 60%; }
 
-/* line 238 */
+/* line 247 */
 .nav-tabs {
   list-style-type: none;
   list-style-image: none;
   border-bottom: solid 1px #a1acb2; }
 
-/* line 245 */
+/* line 254 */
 .organisation-logo {
   float: right;
   margin: 1em 2em; }
 
-/* line 251 */
+/* line 260 */
 .status-updates {
   box-sizing: border-box;
   width: 31.67%;
@@ -682,17 +682,17 @@ article .inner {
     .status-updates .inner input[type="text"],
     .status-updates .inner textarea {
       background-color: #f8f8f8; }
-  /* line 253 */
+  /* line 262 */
   .status-updates ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0 0 0 2.5%;
     padding: 0; }
-    /* line 258 */
+    /* line 267 */
     .status-updates ul li {
       padding: 0; }
 
-/* line 263 */
+/* line 272 */
 .project-meta {
   box-sizing: border-box;
   width: 32%;
@@ -721,20 +721,20 @@ article .inner {
     .project-meta .inner input[type="text"],
     .project-meta .inner textarea {
       background-color: #f8f8f8; }
-  /* line 266 */
+  /* line 275 */
   .project-meta ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 271 */
+    /* line 280 */
     .project-meta ul li {
       padding: 0;
       margin: 0; }
-  /* line 276 */
+  /* line 285 */
   .project-meta p {
     margin-top: 0; }
-  /* line 278 */
+  /* line 287 */
   .project-meta .team li {
     display: inline-block; }
 
@@ -817,23 +817,23 @@ details {
 .no-details details summary {
   display: block; }
 
-/* line 286 */
+/* line 295 */
 .steps {
   list-style-image: none;
   margin: 0;
   padding-left: 0; }
-  /* line 290 */
+  /* line 299 */
   .steps li {
     list-style-type: none;
     padding-left: 0.25em;
     margin: 0 0 2px 0; }
-    /* line 294 */
+    /* line 303 */
     .steps li:nth-child(odd) {
       background: #f9f9f9; }
-    /* line 297 */
+    /* line 306 */
     .steps li.completed {
       background: #cce0d6; }
-  /* line 301 */
+  /* line 310 */
   .steps div {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 16px;
@@ -847,40 +847,40 @@ details {
     padding-bottom: 0.7rem;
     display: inline-block; }
     @media (max-width: 640px) {
-      /* line 301 */
+      /* line 310 */
       .steps div {
         font-size: 1.4rem;
         line-height: 1.14286; } }
     @media (min-width: 641px) {
-      /* line 301 */
+      /* line 310 */
       .steps div {
         padding-top: 0.5rem;
         padding-bottom: 0.5rem; } }
-  /* line 305 */
+  /* line 314 */
   .steps .step-title {
     width: 63%;
     padding-left: 1.5em; }
-  /* line 309 */
+  /* line 318 */
   .steps .completed .step-title {
     background-image: url("../images/progress-tick.png");
     background-repeat: no-repeat;
     background-position: 0 50%; }
-  /* line 314 */
+  /* line 323 */
   .steps .step-status {
     width: 18%; }
-  /* line 317 */
+  /* line 326 */
   .steps .step-action {
     width: 15%; }
 
-/* line 325 */
+/* line 334 */
 a.tooltip {
   outline: none;
   color: #0b0c0c;
   text-decoration: none; }
-  /* line 329 */
+  /* line 338 */
   a.tooltip:hover {
     text-decoration: underline; }
-    /* line 331 */
+    /* line 340 */
     a.tooltip:hover:after {
       content: "\25C0";
       display: block;
@@ -888,13 +888,13 @@ a.tooltip {
       color: black;
       z-index: 11;
       margin-left: 10px; }
-    /* line 339 */
+    /* line 348 */
     a.tooltip:hover span {
       display: inline;
       position: absolute;
       color: #EEE;
       background: #0B0C0C; }
-  /* line 346 */
+  /* line 355 */
   a.tooltip span {
     z-index: 10;
     display: none;
@@ -1183,7 +1183,7 @@ a.tooltip {
 .add-journal-entry .inline select,
 .add-journal-entry .inline textarea {
   margin-right: 0.5em; }
-/* line 362 */
+/* line 371 */
 .add-journal-entry form {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1209,14 +1209,14 @@ a.tooltip {
     .add-journal-entry form .inner input[type="text"],
     .add-journal-entry form .inner textarea {
       background-color: #f8f8f8; }
-  /* line 365 */
+  /* line 374 */
   .add-journal-entry form .group {
     color: white; }
-    /* line 367 */
+    /* line 376 */
     .add-journal-entry form .group input, .add-journal-entry form .group textarea {
       margin-left: -0.3em; }
 
-/* line 376 */
+/* line 385 */
 .guidance-list {
   -moz-column-count: 2;
   -moz-column-gap: 20px;
@@ -1224,7 +1224,7 @@ a.tooltip {
   -webkit-column-gap: 20px;
   column-count: 2;
   column-gap: 20px; }
-  /* line 383 */
+  /* line 392 */
   .guidance-list .topic {
     -webkit-column-break-inside: avoid;
     -moz-column-break-inside: avoid;
@@ -1232,11 +1232,11 @@ a.tooltip {
     -ms-column-break-inside: avoid;
     column-break-inside: avoid;
     margin-bottom: 2.4em; }
-    /* line 390 */
+    /* line 399 */
     .guidance-list .topic h3 {
       margin-top: 0; }
 
-/* line 396 */
+/* line 405 */
 .recently-updated {
   box-sizing: border-box;
   width: 33%;
@@ -1265,7 +1265,7 @@ a.tooltip {
     .recently-updated .inner textarea {
       background-color: #f8f8f8; }
 
-/* line 402 */
+/* line 411 */
 .search-guides {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1642,21 +1642,21 @@ a.tooltip {
       /* line 319, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
       .search-guides .inline.option.group label {
         padding-left: 0; }
-  /* line 406 */
+  /* line 415 */
   .search-guides input[type="search"] {
     background-color: white;
     width: 24em; }
-  /* line 410 */
+  /* line 419 */
   .search-guides label {
     font-size: 2.4rem; }
 
-/* line 415 */
+/* line 424 */
 .page-contents {
   background-color: #F2F2F2;
   margin: 1em -1em 1.5em -1em;
   padding: 1em 1em 0.25em 1em; }
 
-/* line 421 */
+/* line 430 */
 .home-page-promos {
   margin: 0;
   padding: 0;
@@ -1691,59 +1691,59 @@ a.tooltip {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .home-page-promos > * *:first-child {
       margin-top: 0; }
-  /* line 423 */
+  /* line 432 */
   .home-page-promos div {
     background: #CCE0D6;
     height: 200px; }
 
-/* line 429 */
+/* line 438 */
 .meta-data {
   margin-top: 0;
   text-align: left;
   width: 100%; }
-  /* line 433 */
+  /* line 442 */
   .meta-data p {
     display: block; }
 
-/* line 440 */
+/* line 449 */
 .phases {
   list-style-type: none;
   list-style-image: none;
   margin: 0;
   padding: 0;
   width: 100%; }
-  /* line 446 */
+  /* line 455 */
   .phases li {
     padding: 0;
     display: inline-block;
     background-color: #dee0e2;
     width: 20%; }
-    /* line 451 */
+    /* line 460 */
     .phases li .badge {
       font-size: 16px;
       color: #0b0c0c;
       padding: 0.2em 0.25em 0em 0.5em;
       text-transform: uppercase;
       font-weight: normal; }
-    /* line 458 */
+    /* line 467 */
     .phases li.complete {
       background-color: #96c6e2; }
 
-/* line 467 */
+/* line 476 */
 .article h2 .headerlink {
   display: inline-block;
   text-indent: -9999px;
   width: 20px;
   margin-left: -20px; }
-/* line 473 */
+/* line 482 */
 .article h2:hover .headerlink {
   visibility: visible;
   text-indent: 0; }
 
-/* line 482 */
+/* line 491 */
 .home a {
   position: relative; }
-  /* line 484 */
+  /* line 493 */
   .home a small {
     position: absolute;
     top: 0.8em;
@@ -1754,7 +1754,7 @@ a.tooltip {
     padding: 2px 5px 0;
     margin-left: 10px; }
 
-/* line 503 */
+/* line 512 */
 .page-contents {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1782,7 +1782,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Intro panel on landing page */
-/* line 508 */
+/* line 517 */
 .pattern-library {
   box-sizing: border-box;
   width: 50%;
@@ -1812,7 +1812,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Container for example patterns */
-/* line 513 */
+/* line 522 */
 .pattern-example {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1840,7 +1840,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Pattern status label */
-/* line 520 */
+/* line 529 */
 .pattern-status {
   display: block;
   float: right;
@@ -1851,7 +1851,7 @@ a.tooltip {
   text-transform: uppercase; }
 
 /* Side-by-side code examples */
-/* line 530 */
+/* line 539 */
 .side-by-side {
   margin: 0;
   padding: 0;
@@ -1886,12 +1886,12 @@ a.tooltip {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .side-by-side > * *:first-child {
       margin-top: 0; }
-  /* line 532 */
+  /* line 541 */
   .side-by-side .pattern-example {
     margin: 0.8em 0 0 0; }
 
 /* Styles for inline and block code examples */
-/* line 538 */
+/* line 547 */
 pre,
 code {
   color: black;
@@ -1903,61 +1903,61 @@ code {
   padding: 6px 10px;
   border-radius: 3px; }
 
-/* line 548 */
+/* line 557 */
 pre code {
   border: 0 solid;
   padding: 0; }
 
-/* line 552 */
+/* line 561 */
 code {
   padding: 0.3em 0.5em; }
 
-/* line 556 */
+/* line 565 */
 pre:first-child {
   margin-top: 0; }
 
 /* Update text.scss with these */
-/* line 559 */
+/* line 568 */
 hr {
   border: 0;
   background-color: #bfc1c3;
   height: 1px;
   margin: 2em 0; }
 
-/* line 565 */
+/* line 574 */
 article dd {
   font-size: 1.16em; }
 
 /* Mixin argument toggle styles */
-/* line 571 */
+/* line 580 */
 .class-toggle .option:hover {
   cursor: pointer;
   text-decoration: underline; }
 
-/* line 575 */
+/* line 584 */
 .class-toggle .selected {
   text-decoration: none;
   color: red;
   font-weight: bold; }
-  /* line 579 */
+  /* line 588 */
   .class-toggle .selected:hover {
     cursor: default;
     text-decoration: none; }
 
-/* line 585 */
+/* line 594 */
 .topic {
   border-bottom: 1px solid #bfc1c3;
   padding-bottom: 5px; }
-  /* line 588 */
+  /* line 597 */
   .topic h3 {
     margin-top: 1.4em; }
-  /* line 592 */
+  /* line 601 */
   .topic ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 597 */
+    /* line 606 */
     .topic ul li {
       list-style-type: none;
       list-style-image: none;
@@ -1966,22 +1966,22 @@ article dd {
       padding-top: 0.5em;
       padding-left: 0;
       border-top: 1px solid #bfc1c3; }
-      /* line 605 */
+      /* line 614 */
       .topic ul li a {
         display: block;
         overflow: hidden; }
-        /* line 608 */
+        /* line 617 */
         .topic ul li a span {
           display: block;
           float: left; }
-        /* line 612 */
+        /* line 621 */
         .topic ul li a .title {
           width: 30%;
           text-decoration: underline; }
-        /* line 616 */
+        /* line 625 */
         .topic ul li a .description {
           width: 68%;
           color: #6F777B; }
-        /* line 621 */
+        /* line 630 */
         .topic ul li a:hover .description {
           text-decoration: underline; }
