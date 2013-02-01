@@ -33,25 +33,6 @@ The pattern below gives selected radio buttons and checkboxes a highlight colour
   </div>
 </div>
 
-<div class="pattern-example">
-  <div class="inner">
-    <div class="form-example-1">
-
-      <p class="emphasised option group">
-        <label>
-          <input type="radio" name="LPAtypeRadios" id="optionsRadios1" value="option1">
-          Create an LPA for property and financial affairs
-        </label>
-        <label>
-          <input type="radio" name="LPAtypeRadios" id="optionsRadios2" value="option2">
-          Create an LPA for health and welfare
-        </label>
-      </p>
-
-    </div>
-  </div>
-</div>
-
       <ul class="emphasised option group">
         <li>
           <label id="optionsRadios1">

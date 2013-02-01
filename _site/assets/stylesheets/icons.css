@@ -266,7 +266,7 @@ input {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
-/* line 414, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn {
   background: #006435;
   -webkit-border-radius: 0.25em;
@@ -310,7 +310,7 @@ input {
   .btn:hover, .btn:focus, .btn:visited {
     color: white; }
 
-/* line 417, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 415, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn-secondary {
   background: #dee0e2;
   -webkit-border-radius: 0.25em;
@@ -354,7 +354,7 @@ input {
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:visited {
     color: #0b0c0c; }
 
-/* line 420, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 418, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn-warning {
   background: #b10e1e;
   -webkit-border-radius: 0.25em;

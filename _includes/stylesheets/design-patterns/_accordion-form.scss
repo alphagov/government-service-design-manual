@@ -23,6 +23,8 @@
           padding: 0.5em 1em;
           background-color: $turquoise;
           color: $white;
+          -webkit-font-smoothing: subpixel-antialiased;
+          font-weight: normal;
         }
         // Content
         .accordion-content{
