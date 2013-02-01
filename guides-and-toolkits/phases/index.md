@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Service redesign
+title: Service development phases
 subtitle: How a Digital by Default project is structured
 section: guidance
 subsection: phases

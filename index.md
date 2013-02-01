@@ -60,6 +60,7 @@ Explore the full set of guides and toolkits in this manual.
   <h3>1. Getting started</h3>
   <ul>
       <li><a href="/guides-and-toolkits/building-a-team/servicemanager.html"><span class="title">Service managers</span><span class="description">  What they do, and how to be a good one</span></a></li>
+      <li><a href="/guides-and-toolkits/phases"><span class="title">Service development phases</span><span class="description">  How a Digital by Default project is structured</span></a></li>
       <li><a href="/guides-and-toolkits/building-a-team/"><span class="title">Building a team</span><span class="description">  Who to hire, your working environment and what your team should look like</span></a></li>
       <li><a href="/guides-and-toolkits/working-in-an-agile-way/"><span class="title">Working in an agile way</span><span class="description">  What it is, why it works and how to do it</span></a></li>
       <li><a href="/guides-and-toolkits/tools-and-services/"><span class="title">Useful tools and services</span><span class="description">  For sharing code, blogging, managing projects, analytics and more</span></a></li>
