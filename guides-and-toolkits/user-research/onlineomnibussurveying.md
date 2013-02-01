@@ -28,9 +28,9 @@ Online panels are ideal for obtaining a representative sample of respondents (20
 
 ##Cost
 
-Omnibus surveys are costed by the type of questions clients want to ask. Pre-coded questions are the cheapest (approximately £300 per question), and open ended or questions with video clips the most expensive (approximately £600 per question).
+Omnibus surveys are costed by the type of questions clients want to ask. Pre-coded questions are the cheapest (approximately &pound;300 per question), and open ended or questions with video clips the most expensive (approximately &pound;600 per question).
 
-A set of ten questions on an Online Omnibus would cost approximately £5,000, depending on question type.
+A set of ten questions on an Online Omnibus would cost approximately &pound;5,000, depending on question type.
 
 ##Timescales
 

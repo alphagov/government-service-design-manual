@@ -26,7 +26,7 @@ The G-Cloud framework is currently updated every six months, enabling new entran
 
 You should not use G-Cloud where the service required is standardised, and is an off-the-shelf product requiring no customisation. 
 
-Additionally, you should not use G-Cloud for procurements over the threshold (currently £113K) where the spend value would require a compliant EU procurement, or procurements with an aggregate spend in excess of this amount. This does not prevent an organisation using G-Cloud to procure any services under the threshold.
+Additionally, you should not use G-Cloud for procurements over the threshold (currently &pound;113K) where the spend value would require a compliant EU procurement, or procurements with an aggregate spend in excess of this amount. This does not prevent an organisation using G-Cloud to procure any services under the threshold.
 
 Greater diligence is required when procuring ‘Cloud Services’ as these are more likely to less straightforward.
 

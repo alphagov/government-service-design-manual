@@ -155,7 +155,7 @@ The example below is from the GDS SMT dashboard shows how avoiding chart junk an
 ####Before
 ![Poor stack bar - image 8](https://docs.google.com/drawings/pub?id=1X2JceYqVi-2LhiGJXstzPgGKkhv-ACGPNhjS09KewJU&w=337&h=237)  
 
-The legend accounts for a quarter of display space. The Y axis quotes £ and not £m. The segments are profiles and proportionate for each time period, so the bright colouring adds no extra detail. The mix of bar and line is confusing with so much information in the chart.
+The legend accounts for a quarter of display space. The Y axis quotes &pound; and not &pound;m. The segments are profiles and proportionate for each time period, so the bright colouring adds no extra detail. The mix of bar and line is confusing with so much information in the chart.
 
 ####After
 ![Good line chart - image 9](https://docs.google.com/drawings/pub?id=1IUt51enQ6kfdXz07R1n4lC68Z3Hl-bMkMGL9cmAeIdc&w=337&h=237)  

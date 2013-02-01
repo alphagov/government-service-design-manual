@@ -48,7 +48,7 @@ It is also important to note that reaching hard-to-reach groups can be more time
  
 ##Cost
  
-The costs can vary depending on scale, reach and method – as detailed previously, online surveys are generally cheap, while face to face interviews are more costly. Cost ranges from free (just in-house resource) to £100k+. 
+The costs can vary depending on scale, reach and method – as detailed previously, online surveys are generally cheap, while face to face interviews are more costly. Cost ranges from free (just in-house resource) to &pound;100k+. 
 
 ##Timescales
  
