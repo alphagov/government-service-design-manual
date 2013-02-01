@@ -7,7 +7,7 @@ status: draft
 ---
     
 #Implementing user satisfaction
-This guidance covers implementing the user satisfaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](/handbook/134/) for a definition of user satisfaction.
+This guidance covers implementing the user satisfaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](/guides-and-toolkits/kpis/definingkpis.html) for a definition of user satisfaction.
 
 ##Guidance/Tool
 <table>
@@ -16,9 +16,6 @@ This guidance covers implementing the user satisfaction KPI, including what to d
 <tr><td>Should</td><td>Develop a plan to measure user satisfaction throughout product development</td><td></td><td>Identify why people are dissatisfied or not completing transactions and take steps to improve</td><td>Carry out a more comprehensive user demographics, usage and attitudes survey every six months</td></tr>
 <tr><td>May</td><td></td><td></td><td></td><td>Do drivers analysis to understand what is driving satisfaction for users</td></tr>
 </table>
-
-##How frequently should I measure user satisfaction?
-An initial measure of user satisfaction must be taken during alpha testing to establish a benchmark. A further measure should be taken during beta testing and ideally will be above 80%. If user satisfaction is less than 80%, the service manager will need to develop a plan to achieve this level within six months of launch. The service will not necessarily be prevented from launching if such a plan is in place.
 
 ##What level of user satisfaction should I aim for?
 You should plan to reach a minimum level of user satisfaction of 80% within six months of launch. If you have not reached this level prior to launch, you must develop a plan including:

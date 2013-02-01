@@ -92,7 +92,7 @@ wide range of different components, including:
 
 * Technical requirements of your software applications
 * Future capacity requirements
-* Customer support
+* User support
 * Relisance and redundancy
 * Mandated Government information security requirements
 * Government network connectivity

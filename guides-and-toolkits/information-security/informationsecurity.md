@@ -36,7 +36,7 @@ training and specialist skills.
 * Senior Information Risk Owner (SIRO) - generally a senior member of the lead organisation providing the service. Ultimately responsible for the risk profile of the service: have all the risks been identified, are there appropriate mitigations in place so that the risks can be accepted, and so on.
 * Accreditor - more hands on than the SIRO, the accreditor or accreditors will work with the project team to help with understanding the process, identify risks and suggest mitigations.
 * CLAS Consultant - part of the formal Accreditation process. Responsible for much of the formal documentation.
-* CESG - the government agency (an offshoot of GCHQ) responsible for Information Security. Can provide technical assistance or consultation on project issues.
+* CESG - the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
 
 ### Assurance vs Accreditation
 
@@ -61,7 +61,7 @@ they are numbers between 0 and 6 for each of the three following critera:
 * Integrity - the potential impact if the accuracy or completeness of the information is compromised,
 * Availability - the potential impact if the information becomes inaccessible.
 
-More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
+More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
 
 ### Agile Design
 

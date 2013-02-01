@@ -22,4 +22,3 @@ Adding that term or condition should be done in consultation with GOV.UK's team.
 ##Why we do this
 Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. GOV.UK continued this, with additional pieces of information added as transactions and services were incorporated into the site.
 
-##Further reading

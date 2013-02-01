@@ -10,20 +10,20 @@ status: draft
 <p>Microcopy includes the questions and common text you may use throughout a service.  </p>
 
 ##Guidance
-<p>Don’t use:</p>
-<ul>
+**Don’t use**:
+
 <li>&lsquo;please&rsquo; on labels - give polite, clear, short instruction
 <li>colons after labels 
 <li>Don&rsquo;t add &lsquo;your&rsquo; to labels etc, for example: your name, your address etc, use &lsquo;name&rsquo;, &lsquo;address&rsquo;, unless you have a page with multiple people where you need to differentiate - for example: &lsquo;your name&rsquo;, ‘partner name&rsquo; etc
 </li>
 
-<p>Use:</p>
+**Use**:
 <li>sentence case 
 <li>address the user directly 
 <li>the cap convention in the style guide [link]
 </li>
 
-<p>Style:</p>
+**Style:**
 <li>first name &ndash; not Christian name
 <li>last name &ndash; not family name
 <li>middle name(s)
@@ -32,6 +32,7 @@ status: draft
 </li>
 
 ###Help text
+
 <p>There are 3 levels of text:</p>
 <strong>On-page help</strong>
 <p>One line under the label that will help the user to fill in that field.</p>
@@ -46,11 +47,11 @@ status: draft
 
 
 ###Radio buttons
+
 <p>Use: Yes [button] No [button] (note caps)</p>
 <p>Keep to the same convention (yes first) on the page.</p> 
 
 <strong>LINK TO DESIGN VERSION ON THIS</strong>
-
 
 Optional/mandatory
 DESIGN

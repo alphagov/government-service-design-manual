@@ -8,7 +8,7 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
-##Alpha Phase
+##Alpha Phase 
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, 
 

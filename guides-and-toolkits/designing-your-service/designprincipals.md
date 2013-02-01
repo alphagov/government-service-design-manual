@@ -7,7 +7,9 @@ status: draft
 ---
     
 #Design principles
+
 #Start with needs*
+
 *user needs not government needs
 
 The design process must start with identifying and thinking about real user needs. We should design around those — not around the way the ‘official process’ is at the moment. We must understand those needs thoroughly — interrogating data, not just making assumptions — and we should remember that what users ask for is not always what they need.
