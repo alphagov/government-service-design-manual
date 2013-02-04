@@ -26,7 +26,7 @@ status: draft
 <figure style="margin-top: 0">
 <img src="/assets/images/team-size.png" />
 <figcaption>
-  The team size changes over time.
+  The team size changes over time
 </figcaption>
 </figure>
 

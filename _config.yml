@@ -10,10 +10,10 @@ destination: ./_site
 plugins:     ./_plugins
 exclude: Procfile, Gemfile, Gemfile.lock, config.ru
 future:      true
-lsi:         false
+lsi:         true
 pygments:    false
 markdown:    kramdown
-permalink:   date
+permalink:   /:categories/:title/
 
 maruku:
   use_tex:    false

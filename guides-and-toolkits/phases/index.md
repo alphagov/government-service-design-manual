@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Service redesign
+title: Service development phases
 subtitle: How a Digital by Default project is structured
 section: guidance
 subsection: phases
@@ -65,7 +65,7 @@ Explore the four development phases of a digital service in more detail below.
         <h2>Phase 1: Discovery</h2>
 
         <div class="team">
-          <h3>The team</h3>
+          <h3>Capabilities</h3>
           <ul>
             <li>Service manager</li>
             <li>Product manager</li>
@@ -114,7 +114,7 @@ Explore the four development phases of a digital service in more detail below.
         <h2>Phase 2: Alpha</h2>
 
         <div class="team">
-          <h3>The team</h3>
+          <h3>Capabilities</h3>
           <ul>
             <li>Service manager</li>
             <li>Product manager</li>
@@ -168,7 +168,7 @@ Explore the four development phases of a digital service in more detail below.
         <h2>Phase 3: Beta</h2>
 
         <div class="team">
-          <h3>The team</h3>
+          <h3>Capabilities</h3>
           <ul>
             <li>Service manager</li>
             <li>Product manager</li>

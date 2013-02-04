@@ -160,9 +160,6 @@
       list-style-image: none; 
       }
     }
-    ol{
-      margin-left: -2.2em;
-    }
     li{
       @include core-16;
     }
@@ -235,7 +232,8 @@
     textarea,
     .uneditable-field{
       @include inline-block;
-      vertical-align: middle;
+      vertical-align: 2px;
+      margin-right: 0.5em;
       margin-left: 0.5em;
     }
     input[type="checkbox"]{

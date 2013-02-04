@@ -45,7 +45,7 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
-/* line 414, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn {
   background: #006435;
   -webkit-border-radius: 0.25em;
@@ -63,33 +63,33 @@
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   color: white; }
-  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn:hover, .btn:focus {
     background: #004b27; }
-  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn:active {
     top: 2px;
     -webkit-box-shadow: 0 0 0 #006435;
     -moz-box-shadow: 0 0 0 #006435;
     box-shadow: 0 0 0 #006435; }
-  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn.disabled {
     opacity: 0.5; }
-    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn.disabled:hover {
       cursor: default;
       background-color: #006435; }
-    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn.disabled:active {
       top: 0;
       -webkit-box-shadow: 0 0.2em 0 #00180c;
       -moz-box-shadow: 0 0.2em 0 #00180c;
       box-shadow: 0 0.2em 0 #00180c; }
-  /* line 43, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 43, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn:hover, .btn:focus, .btn:visited {
     color: white; }
 
-/* line 417, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 415, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn-secondary {
   background: #dee0e2;
   -webkit-border-radius: 0.25em;
@@ -107,33 +107,33 @@
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   color: #0b0c0c; }
-  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-secondary:hover, .btn-secondary:focus {
     background: #d0d3d6; }
-  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-secondary:active {
     top: 2px;
     -webkit-box-shadow: 0 0 0 #dee0e2;
     -moz-box-shadow: 0 0 0 #dee0e2;
     box-shadow: 0 0 0 #dee0e2; }
-  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-secondary.disabled {
     opacity: 0.5; }
-    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn-secondary.disabled:hover {
       cursor: default;
       background-color: #dee0e2; }
-    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn-secondary.disabled:active {
       top: 0;
       -webkit-box-shadow: 0 0.2em 0 #b5babe;
       -moz-box-shadow: 0 0.2em 0 #b5babe;
       box-shadow: 0 0.2em 0 #b5babe; }
-  /* line 50, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 50, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:visited {
     color: #0b0c0c; }
 
-/* line 420, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 418, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn-warning {
   background: #b10e1e;
   -webkit-border-radius: 0.25em;
@@ -151,33 +151,33 @@
   text-decoration: none;
   -webkit-font-smoothing: antialiased;
   color: white; }
-  /* line 19, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-warning:hover, .btn-warning:focus {
     background: #990c1a; }
-  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-warning:active {
     top: 2px;
     -webkit-box-shadow: 0 0 0 #b10e1e;
     -moz-box-shadow: 0 0 0 #b10e1e;
     box-shadow: 0 0 0 #b10e1e; }
-  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-warning.disabled {
     opacity: 0.5; }
-    /* line 28, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn-warning.disabled:hover {
       cursor: default;
       background-color: #b10e1e; }
-    /* line 32, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
     .btn-warning.disabled:active {
       top: 0;
       -webkit-box-shadow: 0 0.2em 0 #6a0812;
       -moz-box-shadow: 0 0.2em 0 #6a0812;
       box-shadow: 0 0.2em 0 #6a0812; }
-  /* line 43, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  /* line 43, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
   .btn-warning:hover, .btn-warning:focus, .btn-warning:visited {
     color: white; }
 
-/* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+/* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 details {
   display: block;
   box-sizing: border-box;
@@ -185,23 +185,23 @@ details {
   margin: 1em -1em 1.5em -1em;
   background-color: transparent;
   margin: 0 -1em 0 -1em; }
-  /* line 69, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 69, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   details *:first-child {
     margin-top: 0em; }
-  /* line 74, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 74, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   details ul, details ol {
     padding-left: 1em; }
-  /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 87, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   details .inner {
     background-color: white;
     border: 1px solid #bfc1c3;
     padding: 2em;
     margin-bottom: 0.75em; }
-    /* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    /* line 93, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
     details .inner input[type="text"],
     details .inner textarea {
       background-color: #f8f8f8; }
-  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
   details summary {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 19px;
@@ -216,31 +216,31 @@ details {
     margin-bottom: 0.5em;
     margin-top: 0.2em; }
     @media (max-width: 640px) {
-      /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+      /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
       details summary {
         font-size: 1.6rem;
         line-height: 1.25; } }
-    /* line 34, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    /* line 34, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
     details summary:hover {
       color: #1D97FF; }
-    /* line 35, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    /* line 35, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
     details summary:focus {
       background-color: #FFBF47;
       outline: 3px solid #ffbf47; }
-  /* line 40, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  /* line 40, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
   details[open] {
     margin: 0 -1em 0 -1em; }
-    /* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    /* line 51, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
     details[open] summary:focus {
       outline: none;
       background-color: transparent; }
 
 /* Styles for browsers that don't yet natively support details/summary */
-/* line 58, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+/* line 58, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 .no-details details > * {
   display: none; }
 
-/* line 59, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+/* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 .no-details details > summary:before {
   float: left;
   margin-top: 1px;
@@ -248,45 +248,45 @@ details {
   width: 20px;
   content: '► '; }
 
-/* line 60, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+/* line 60, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 .no-details details.open > summary:before {
   content: '▼ '; }
 
-/* line 61, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+/* line 61, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 .no-details details summary {
   display: block; }
 
-/* line 358, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 356, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .hidden-controls details {
   padding-top: 0; }
-  /* line 360, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 358, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .hidden-controls details summary {
     text-decoration: none;
     margin-bottom: 0; }
-    /* line 363, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 361, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .hidden-controls details summary:hover {
       color: #333;
       font-weight: 300; }
-    /* line 367, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 365, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .hidden-controls details summary::-webkit-details-marker {
       display: none; }
-  /* line 371, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 369, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .hidden-controls details[open] {
     padding-top: 0; }
-  /* line 374, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 372, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .hidden-controls details textarea {
     margin: 0 0 0.75em 0; }
 
 /* Styles for browsers that don't yet natively support details/summary */
-/* line 380, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 378, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .no-details .hidden-controls details > summary:before {
   display: none; }
 
-/* line 381, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 379, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .no-details .hidden-controls details.open > summary:before {
   display: none; }
 
-/* line 35, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 35, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="text"],
 .form-example-1 input[type="email"],
 .form-example-1 input[type="date"],
@@ -307,14 +307,14 @@ details {
   font-size: 1em;
   line-height: 1.2;
   padding: 0.3em 0 0.1em 0.4em; }
-/* line 46, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 46, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 textarea {
   min-height: 10em;
   height: auto; }
-/* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 51, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 details {
   padding: 0 1em 0 1em; }
-/* line 56, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 56, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 label {
   color: #0b0c0c;
   font-family: "nta", "GDS-Regular", sans-serif;
@@ -324,27 +324,27 @@ details {
   font-weight: 400;
   text-transform: none; }
   @media (max-width: 640px) {
-    /* line 56, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 56, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 label {
       font-size: 1.6rem;
       line-height: 1.25; } }
-/* line 61, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 61, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .option.group {
   padding-bottom: 0.5em;
   padding-left: 1em;
   margin-left: -1em; }
-  /* line 65, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 65, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .option.group label {
     width: auto;
     float: none;
     text-align: left;
     margin: 0.25em 0; }
-  /* line 71, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 71, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .option.group li {
     list-style-type: none;
     list-style-image: none;
     margin: 0; }
-/* line 79, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 79, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .hint {
   clear: left;
   display: block;
@@ -355,36 +355,36 @@ details {
   font-weight: 300;
   text-transform: none; }
   @media (max-width: 640px) {
-    /* line 79, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 79, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 .hint {
       font-size: 1.4rem;
       line-height: 1.14286; } }
-  /* line 84, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 84, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .hint:last-child {
     padding-top: 0.25em; }
-  /* line 85, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 85, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .hint:first-child {
     padding-bottom: 0.25em; }
-/* line 88, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 88, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .inline .help {
   float: left; }
-/* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 93, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 label abbr {
   border-bottom: none;
   color: #0b0c0c; }
-/* line 100, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 100, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .action.group .button,
 .form-example-1 .action.group .btn {
   margin-right: 0.5em; }
-/* line 104, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 104, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .inline.option label {
   float: left;
   margin-right: 1em; }
-/* line 110, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 110, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .inline .group {
   float: left;
   margin-top: 0; }
-/* line 116, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 116, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 legend {
   font-family: "nta", "GDS-Regular", sans-serif;
   font-size: 24px;
@@ -395,18 +395,18 @@ details {
   margin-bottom: 0.5em;
   color: #0b0c0c; }
   @media (max-width: 640px) {
-    /* line 116, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 116, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 legend {
       font-size: 2rem;
       line-height: 1.2; } }
-/* line 121, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 121, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 fieldset {
   margin: 0;
   margin-top: 2em; }
-  /* line 125, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 125, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 fieldset fieldset {
     margin-top: 0; }
-    /* line 127, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 127, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 fieldset fieldset legend {
       font-family: "nta", "GDS-Regular", sans-serif;
       font-size: 19px;
@@ -416,65 +416,62 @@ details {
       text-transform: none;
       color: #0b0c0c; }
       @media (max-width: 640px) {
-        /* line 127, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+        /* line 127, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
         .form-example-1 fieldset fieldset legend {
           font-size: 1.6rem;
           line-height: 1.25; } }
-    /* line 133, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 133, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 fieldset fieldset .inline .group,
     .form-example-1 fieldset fieldset .inline.option label {
       margin-top: -1em; }
-/* line 140, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 140, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .validation-summary {
   border: 3px solid #df3034;
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
   margin: 1em -1em 1.5em -1em;
   background-color: #fef7f7; }
-  /* line 69, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 69, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   .form-example-1 .validation-summary *:first-child {
     margin-top: 0em; }
-  /* line 74, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 74, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   .form-example-1 .validation-summary ul, .form-example-1 .validation-summary ol {
     padding-left: 1em; }
-  /* line 81, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 81, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   .form-example-1 .validation-summary input[type="text"],
   .form-example-1 .validation-summary textarea {
     background-color: white; }
-  /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  /* line 87, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
   .form-example-1 .validation-summary .inner {
     background-color: white;
     border: 1px solid #bfc1c3;
     padding: 2em;
     margin-bottom: 0.75em; }
-    /* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    /* line 93, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
     .form-example-1 .validation-summary .inner input[type="text"],
     .form-example-1 .validation-summary .inner textarea {
       background-color: #f8f8f8; }
-  /* line 143, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 143, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation-summary h1 {
     margin-bottom: 0; }
-  /* line 146, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 146, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation-summary a {
     color: #df3034;
     text-decoration: none; }
-    /* line 149, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 149, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 .validation-summary a:hover {
       text-decoration: underline; }
-  /* line 153, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 153, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation-summary ul, .form-example-1 .validation-summary ol {
     color: #df3034; }
-  /* line 156, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 156, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation-summary ul {
     padding-left: 2.2em; }
-    /* line 158, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 158, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 .validation-summary ul li {
       list-style-type: none;
       list-style-image: none; }
-  /* line 163, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
-  .form-example-1 .validation-summary ol {
-    margin-left: -2.2em; }
-  /* line 166, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 163, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation-summary li {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 16px;
@@ -483,17 +480,17 @@ details {
     font-weight: 300;
     text-transform: none; }
     @media (max-width: 640px) {
-      /* line 166, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+      /* line 163, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
       .form-example-1 .validation-summary li {
         font-size: 1.4rem;
         line-height: 1.14286; } }
-/* line 172, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 169, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .validation {
   background-color: #fef7f7;
   border-left: 3px solid #df3034;
   margin: 0 -1em 0.5em -1em;
   padding: 0.75em 1em 1em 1em; }
-  /* line 177, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 174, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .validation .validation-message {
     color: #df3034;
     font-family: "nta", "GDS-Regular", sans-serif;
@@ -505,136 +502,137 @@ details {
     display: block;
     padding-bottom: 0.5em; }
     @media (max-width: 640px) {
-      /* line 177, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+      /* line 174, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
       .form-example-1 .validation .validation-message {
         font-size: 1.4rem;
         line-height: 1.14286; } }
-/* line 193, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 190, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="text"] {
   min-width: 2em; }
-/* line 194, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 191, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="email"] {
   width: 20em; }
-/* line 195, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 192, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="url"] {
   width: 99%; }
-/* line 197, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 194, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.search {
   width: 15em; }
-/* line 198, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 195, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.password {
   width: 15em; }
-/* line 199, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 196, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.email {
   width: 20em; }
-/* line 200, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 197, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.name {
   width: 15em; }
-/* line 201, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 198, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.url {
   width: 99%; }
-/* line 202, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 199, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.full-name {
   width: 20em; }
-/* line 203, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 200, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.street {
   width: 15em; }
-/* line 204, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 201, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.town {
   width: 15em; }
-/* line 205, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 202, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input.postcode {
   width: 5em; }
-/* line 206, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 203, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 textarea.big {
   width: 20em;
   height: 8em; }
-/* line 208, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 205, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 textarea.full-size {
   width: 99%;
   height: 15em; }
-/* line 214, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 211, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 label {
   display: -moz-inline-stack;
   display: inline-block;
   text-align: left;
   padding-top: 0.25em;
   width: 5.5em; }
-  /* line 224, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 221, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 label.visuallyhidden + input,
   .form-example-1 label.visuallyhidden + select,
   .form-example-1 label.visuallyhidden + textarea {
     margin-left: 6.25em; }
-/* line 230, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 227, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .hint {
   margin-left: 7.75em; }
-/* line 231, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 228, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .action.group {
   padding-left: 6em; }
-/* line 236, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 233, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input,
 .form-example-1 select,
 .form-example-1 textarea,
 .form-example-1 .uneditable-field {
   display: -moz-inline-stack;
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: 2px;
+  margin-right: 0.5em;
   margin-left: 0.5em; }
-/* line 241, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 239, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="checkbox"] {
   margin-left: 0.25em; }
-/* line 244, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 242, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 input[type="radio"] {
   margin-left: 0.25em; }
-/* line 252, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 250, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 fieldset legend {
   display: block;
   padding-left: 4.5em; }
-/* line 257, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 255, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 fieldset fieldset {
   margin-top: 2em; }
-  /* line 259, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 257, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 fieldset fieldset legend {
     padding-left: 0;
     line-height: 0; }
-    /* line 263, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 261, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 fieldset fieldset legend span {
       width: 5.5em;
       text-align: left;
       position: relative;
       float: left; }
-  /* line 277, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 275, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 fieldset fieldset .inline .group {
     margin-bottom: 0.5em; }
-/* line 287, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 285, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .option.group label {
   display: block;
   padding-left: 6em;
   padding-top: 0; }
-/* line 292, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 290, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .option.group .validation-message {
   width: 5.5em;
   display: block;
   float: left; }
-/* line 300, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+/* line 298, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .form-example-1 .inline {
   padding-left: 7.25em; }
-  /* line 302, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 300, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .inline label {
     width: auto;
     float: none;
     margin-left: 0.5em;
     text-align: left; }
-    /* line 311, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 309, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 .inline label.visuallyhidden + input,
     .form-example-1 .inline label.visuallyhidden + select,
     .form-example-1 .inline label.visuallyhidden + textarea {
       margin-left: 0.5em;
       margin-right: 0; }
-  /* line 318, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+  /* line 316, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
   .form-example-1 .inline.option.group {
     padding-left: 6.75em;
     padding-top: 0.25em; }
-    /* line 321, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+    /* line 319, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
     .form-example-1 .inline.option.group label {
       padding-left: 0; }
