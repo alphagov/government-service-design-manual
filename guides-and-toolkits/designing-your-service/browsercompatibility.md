@@ -15,15 +15,21 @@ Services must be accessible wherever people are and whatever technology they’r
 ###Verified browsers 
 
 These are the browsers we recommend testing on when developing your service.  
+
 This list is based upon usage statistics for www.gov.uk as a whole, and considers any browser with a usage by 2%+ of users to be significant. 
+
 An exception is made for IE6, as this is still in large-scale use through-out government departments.
 
+Two distint levels of support are given and denoted next to each browser as F or C and are defined as:
+* COMPLIENT
+* FUNCTIONAL
 
+####Desktop
 * Windows 7
-** Microsoft Internet Explorer 7
-** Microsoft Internet Explorer 8
+** Microsoft Internet Explorer 7 (C)
+** Microsoft Internet Explorer 8 (C)
 * Windows XP
-** Internet Explorer 6
+** Internet Explorer 6 (F)
 * Windows Vista
 * MacOS
 * iOS
@@ -35,6 +41,9 @@ these browsers:
 * Microsoft Internet Explorer 8
 * Microsoft Internet Explorer 9
 * Mozilla Firefox (versions above 5)
+
+####Mobile
+
 
 whilst ensuring it was at least functional on these operating systems:
 * Android 2.3
