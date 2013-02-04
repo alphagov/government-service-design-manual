@@ -8,7 +8,6 @@ status: draft
 
 
 
-* [Design principles](/guides-and-toolkits/designing-your-service/designprinciples.html)
 * [Designing transacions](/guides-and-toolkits/designing-your-service/startandendoftransactionpages.html)
 * [Design patterns](/guides-and-toolkits/design-patterns/)
 * [Colour palettes](/guides-and-toolkits/colours/)
