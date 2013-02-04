@@ -11,6 +11,39 @@ status: draft
 Services must be accessible wherever people are and whatever technology they’re using by default; not as an optional extra. The user experience can vary significantly from operating system to operating system, browser version to browser version and desktop to mobile. However, don’t try to build services for every possible product but use data to inform and set your priorities for development.
 
 ##Guidance
+
+###Verified browsers 
+
+These are the browsers we recommend testing on when developing your service.  
+This list is based upon usage statistics for www.gov.uk as a whole, and considers any browser with a usage by 2%+ of users to be significant. 
+An exception is made for IE6, as this is still in large-scale use through-out government departments.
+
+
+* Windows 7
+** Microsoft Internet Explorer 7
+** Microsoft Internet Explorer 8
+* Windows XP
+** Internet Explorer 6
+* Windows Vista
+* MacOS
+* iOS
+* Android 4.x
+
+these browsers:
+* Apple Safari (latest version)
+* Google Chrome (latest version)
+* Microsoft Internet Explorer 8
+* Microsoft Internet Explorer 9
+* Mozilla Firefox (versions above 5)
+
+whilst ensuring it was at least functional on these operating systems:
+* Android 2.3
+* Blackberry 6.0 and above
+
+and these browsers:
+* Microsoft Internet Explorer 7
+* Microsoft Internet Explorer 6
+* 
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement 'Progressive enhancement - Wikipedia'). This recognises that different bits of technology have different capabilities. Whilst everybody gets access to core functionality those using more sophisticated technology get an enhanced experience.
 
 Progressive enhancement is also important in delivering a consistent experience to people using mobile devices and who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK](http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 | Statcounter Global Stats') and around 20% of traffic to GOV.UK this mode of access is no longer an optional ‘extra’. Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, we should now design with one website in mind. This should be done using a [responsive design](http://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
@@ -36,29 +69,7 @@ The device market has similar complexity. Masked by the big 4 platforms, Apple's
 
 In the first month of launch GOV.UK was accessed by 2,963 different browser versions and 900 separate devices. Recognising that it is impossible to build services that have been tested across every possible combination of browser and operating system we used data from DirectGov, BusinessLink and some departments, wider data from external sources and the opinions of GDS developers to identify our priorities. This produced a two tier approach: we want the site to work well in the most common situations, and to be functional in other high profile but less popular circumstances (functional means all content being viewable (no overlapping areas) and any interactive elements not preventing access to content).
 
-###GOV.UK
-Based on our known audience (using data from DirectGov, BusinessLink and some departments) and wider data from external sources we decided to make sure GOV.UK worked well on the following operating systems:
-* Windows 7
-* Windows XP
-* Windows Vista
-* MacOS
-* iOS
-* Android 4.x
 
-these browsers:
-* Apple Safari (latest version)
-* Google Chrome (latest version)
-* Microsoft Internet Explorer 8
-* Microsoft Internet Explorer 9
-* Mozilla Firefox (versions above 5)
-
-whilst ensuring it was at least functional on these operating systems:
-* Android 2.3
-* Blackberry 6.0 and above
-
-and these browsers:
-* Microsoft Internet Explorer 7
-* Microsoft Internet Explorer 6
 
 ###Continuous compatibility
 We need to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer versions 6 and 7 have only been used by a minority (almost 5% of the total visits to GOV.UK since launch) this still accounts for a significant number of individuals who government services must take into account. 
