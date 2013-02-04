@@ -17,12 +17,6 @@ This guidance covers implementing the user satisfaction KPI, including what to d
 <tr><td>May</td><td></td><td></td><td></td><td>Do drivers analysis to understand what is driving satisfaction for users</td></tr>
 </table>
 
-##What level of user satisfaction should I aim for?
-You should plan to reach a minimum level of user satisfaction of 80% within six months of launch. If you have not reached this level prior to launch, you must develop a plan including:
-* Results of previous surveys
-* Actions based on the results of previous surveys and testing (e.g usability testing)
-* Timelines setting out when the actions will be taken
-
 ##What about post launch?
 You should run a survey continuously, and report satisfaction on a monthly basis. The results should be fed into the development of the service, for example analysis of reasons for dissatisfaction. You should also carry out a more comprehensive user satisfaction survey every six months.
 
