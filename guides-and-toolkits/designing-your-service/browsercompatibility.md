@@ -20,16 +20,18 @@ This list is based upon usage statistics for www.gov.uk as a whole, and consider
 
 An exception is made for IE6, as this is still in large-scale use through-out government departments.
 
-Two distint levels of support are given and denoted next to each browser as F or C and are defined as:
+Two distinct levels of support are given and denoted next to each browser as F or C and are defined as:
 * COMPLIENT
 * FUNCTIONAL
 
+Where "lastest version" is listed, it means the lastest stable version plus one version back, as these browsers regularly self-update.
+
 ####Desktop
 * Windows 7
-** Microsoft Internet Explorer 7 (C)
-** Microsoft Internet Explorer 8 (C)
+  * Microsoft Internet Explorer 7 (C)
+  * Microsoft Internet Explorer 8 (C)
 * Windows XP
-** Internet Explorer 6 (F)
+  *Internet Explorer 6 (F)
 * Windows Vista
 * MacOS
 * iOS
