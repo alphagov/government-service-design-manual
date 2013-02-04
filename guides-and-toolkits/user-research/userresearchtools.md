@@ -57,7 +57,7 @@ Participants can be obtained internally through websites, emails, and other user
 
 ##Cost##
 
-Some tools are free, but licences for others can range from &pound;15k to 20k.
+Some tools are free, but licences for others can range from £15k to 20k.
 
 ##Timescales##
 

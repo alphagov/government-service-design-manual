@@ -42,7 +42,7 @@ In order to test new products that are still in development it is necessary to e
 
 ##Cost
 
-If users are recruited via an online panel the cost will be approximately &pound;1.5k - this is for general internet users. Costs will increase if hard to reach audiences are required, possibly as high as &pound;3k. 
+If users are recruited via an online panel the cost will be approximately £1.5k - this is for general internet users. Costs will increase if hard to reach audiences are required, possibly as high as £3k. 
 
 ##Timescales
 

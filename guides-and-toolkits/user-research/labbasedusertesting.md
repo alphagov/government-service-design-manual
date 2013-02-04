@@ -36,9 +36,9 @@ Between 5-8 participants, per round of user testing is sufficient to highlight t
 ##Cost
 
 Costs will vary according to your target audience e.g. niche expertise, hard to reach etc.
-The easiest way to recruit participants is to use a market research recruitment agency. Expect to pay from &pound;150-&pound;200 per recruit (includes finders fee and cash incentive).
+The easiest way to recruit participants is to use a market research recruitment agency. Expect to pay from £150-£200 per recruit (includes finders fee and cash incentive).
 
-Lab hire per day varies depending on location and facilities. Expect to pay between &pound;800-&pound;1200 per day.
+Lab hire per day varies depending on location and facilities. Expect to pay between £800-£1200 per day.
 
 ##Timescales
 

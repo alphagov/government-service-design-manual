@@ -344,17 +344,17 @@ Use '500 to 900' and not '500–900'.
 
 Millions
 
-Always use million in money (and billion), eg &pound;138 million. Use
+Always use million in money (and billion), eg £138 million. Use
 millions in phrases eg "millions of people".
 
 ###2.17 Money
 
-Use the &pound; symbol – &pound;75
+Use the £ symbol – £75
 
 Don't use decimals unless pence are included – for example use:
-&pound;75.50 but not &pound;75.00.
+£75.50 but not £75.00.
 
-Don't use '&pound;0.xxm' for less than &pound;1 million.
+Don't use '£0.xxm' for less than £1 million.
 
 Write out 'pence' in full – 'calls will cost 4 pence per minute from
 a landline'.
@@ -621,8 +621,8 @@ Use numerals and spell out measurements at first mention eg 10 kilograms. Abbrev
 
 Numbers and money
 
-- &pound;186 million (not m)
-- &pound;860,000 not &pound;0.86m
+- £186 million (not m)
+- £860,000 not £0.86m
 - 1,000
 - all numbers are in numerics (including 1–9)
 - use words with common sense, eg when starting a headline: Thirty-four hula hoops found in researcher's drawer
@@ -871,8 +871,8 @@ Example:
 
 The public sector – including central government, local councils and
 devolved administrations – accounts for around 3% of the UK's carbon
-emissions. In England alone, the government spends &pound;2.5 billion on
-building energy and &pound;1.2 billion on owned-vehicle fuel.
+emissions. In England alone, the government spends £2.5 billion on
+building energy and £1.2 billion on owned-vehicle fuel.
 
 Improving energy efficiency in the public sector will result in a better
 use of taxpayers' money and help the UK meet existing climate change
@@ -965,7 +965,7 @@ on the cover sheet.
 
 They should provide supporting detail about the issue and actions.
 
-For example, if the actions include a programme costing &pound;x and running
+For example, if the actions include a programme costing £x and running
 for 6 months, the detail page should provide further information about
 who is involved, what they are spending the money on and how.
 
@@ -1220,8 +1220,8 @@ Dates and times
 
 Numbers and money
 
-- &pound;186 million (not m)
-- &pound;860,000 not &pound;0.86 million
+- £186 million (not m)
+- £860,000 not £0.86 million
 - 1,000
 - Use common sense with numbers, eg when starting a headline: Thirty-four hula hoops found in researcher's drawer
 - Use words for common expressions, eg 'the minister will be looking at one or two areas'

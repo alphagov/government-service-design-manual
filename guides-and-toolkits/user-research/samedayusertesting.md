@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Same day user research (online qualitative)
+title: Same day user testing (online qualitative)
 section: guidance
 subsection: User research
 status: draft
@@ -43,7 +43,7 @@ Testing is normally conducted using the online panel that is available through t
  
 ##Cost
  
-This type of research is very cheap - approximately &pound;150-&pound;200.
+This type of research is very cheap - approximately £150-£200.
  
 ##Timescales
  

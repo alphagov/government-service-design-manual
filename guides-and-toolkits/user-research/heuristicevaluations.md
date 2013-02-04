@@ -32,7 +32,7 @@ The fundamental weakness of any expert review is that it doesn’t involve use b
 None are involved.  Ideally two usability experts are involved in the review.
 
 ##Cost
-Dependent on whether there is any in-house expertise available to conduct the review.  An agency can be commissioned, with costs upwards of &pound;2K depending on the service scope.
+Dependent on whether there is any in-house expertise available to conduct the review.  An agency can be commissioned, with costs upwards of £2K depending on the service scope.
 
 ##Timescales
 Depends on the scope of the service - for a simple website application this could be turned around in 1-2 days.

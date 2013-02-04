@@ -41,8 +41,8 @@ Normally 6-8 weeks from briefing to results. Analysis period needs to be suffici
 
 To outsource to an external agency the costs are likely to be:
 
-* 1:1 depth interviews - approximately &pound;1.5k per interview (based on a session of 8-10 interviews)
-* Focus groups - approximately &pound;3k
+* 1:1 depth interviews - approximately £1.5k per interview (based on a session of 8-10 interviews)
+* Focus groups - approximately £3k
 
 ##GDS Example 
 
