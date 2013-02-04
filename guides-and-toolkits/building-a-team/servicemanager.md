@@ -27,6 +27,10 @@ Cabinet Office will help departments to recruit suitably skilled individuals. Ne
 
 The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager
 
+##Sample job description
+
+[Download an example job description for this role (PDF)](/assets/documents/service-manager-job-description.pdf)
+
 ##Further reading
 
 [Building a team](/guides-and-toolkits/building-a-team/)
