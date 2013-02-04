@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+{% include _head.html %}
+    <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
+  </head>
+
+  <body class="mainstream full-width">
+    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+    {% include _header.html %}
+
+    <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
+
+      <section id="content" role="main" class="group">
+
+        <!--
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/" {% if page.section == 'guidance' %}class="current"{% endif %}>Government Service Design Manual</a></li>
+                <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default standard</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      -->
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <span class="home"><a href="/" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual<small>alpha</small></a></span>
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default Standard</a></li>
+                <!--
+                <li><a href="/guides-and-toolkits" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>   
+                --> 
+                <li><a href="/feedback" {% if page.section == 'feedback' %}class="current"{% endif %}>Feedback</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+        <header class="page-header group">
+        {% if page.section == "guidance" %}
+            <div class="breadcrumb">
+              <li>
+                <a href="/guides-and-toolkits">Guides and toolkits</a>
+              </li>
+              <li>
+                <span class="divider">/</span>
+                <a href="./">{{page.subsection}}</a>
+              </li>
+            </div>
+        {% endif %}
+
+        <hgroup><h1>{{ page.title }}</h1></hgroup></header><div class="article-container group">
+        <article role="article" class="group">
+          <div class="inner">
+              {% if page.subtitle %}
+                <p class="subtitle">{{ page.subtitle }}</p>
+              {% endif %}
+
+              {{ content }}
+            </div>
+            </article>
+          </div>
+      </section>
+    </div><!--end wrapper-->
+    {% include _footer.html %}
+  </body>
+</html>
