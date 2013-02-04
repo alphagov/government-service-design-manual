@@ -1,16 +1,20 @@
-Caveat: I'm not a security expert and this needs input from that perspective before publishing.
+Note: this should probably be looked at by someone who can suggest alternatives (maybe GarethR)
 
-CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart"
+[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for "Completely Automated Public Turing test to tell Computers and Humans Apart". These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form.  They are usually used to prevent bots (automated software) from completing a form or accessing a system.
 
-CAPTCHAs exist to prevent bots (automated software) from completing a form or accessing a system.
+**CAPTCHAs should not be used unless absolutely necessary.**
 
-**Using CAPTCHAs should be avoided where possible**, as they put the burden of detecting bots on the user and contributing to a bad user experience. Instead of asking the user to prove they're not a bot, the burden should be on us to automatically detect the telltale signs of a bot.
+CAPTCHAs introduce significant problems to online services:
+* Usability - they put the burden of detecting bots on the user rather than the system. As CAPTCHAs are designed to be hard to read and understand, this makes the service much more difficult to use
+* Accessibility - they are inaccessible by design. This effectively makes the service unusable by people with certain disabilities. Even CAPTCHAs that provide audio versions do not completely resolve this issue.
 
-There are alternative, completely invisible methods of detecting automated form completion, and combinations of those methods may provide an adequate barrier as an alternative to a visual CAPTCHA.
+Additionally, if a 3rd party CAPTCHA service is used, there are further problems to consider:
+* Privacy - 3rd party CAPTCHA services set cookies, collect analytics and can track users across multiple sites. This introduces significant privacy concerns.
+* Performance - use of a 3rd party CAPTCHA service ties your performance to theirs. If their service goes offline, so does access to your service.
+* Security - the security of your service is tied to that of the 3rd party. If they are compromised, so is your service and it's users.
 
-Different transactions pose different risks if a bot got in. Choose security measures relative to the risk. Use unobtrusive alternatives to visual CAPTCHAs where possible. Government is a target – be responsive to the need to change security measures as attackers learn our systems.
+Most of the reasons for using CAPTCHAs can be achieved though other means such as rate limiting. The approach used should be tailored to the risks posed for each service.
 
-Smashing Magazine (not known for its security expertise, admittedly) has an article about the Honeypot Method and Recording User Time Expenditure as two ways of automated bot detection. http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/
-
-**Accessibility**
-Where a visual CAPTCHA is an absolute necessity, remember to include an alternative audible CAPTCHA for the visually impaired.
+Further reading:
+* http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/
+* http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html
