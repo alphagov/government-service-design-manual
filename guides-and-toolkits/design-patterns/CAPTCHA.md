@@ -18,3 +18,4 @@ Most of the reasons for using CAPTCHAs can be achieved though other means such a
 Further reading:
 * http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/
 * http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html
+* http://thenextweb.com/insider/2013/01/30/good-news-music-fans-ticketmaster-is-ditching-its-captcha-conundrums-for-something-simpler/
