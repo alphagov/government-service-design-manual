@@ -7,7 +7,7 @@ status: draft
 ---
     
 #Implementing cost per transaction
-This guidance covers implementing the cost per transaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](/guides-and-toolkits/kpis/definingkpis.html) for a definition of cost per transaction.
+This guidance covers implementing the cost per transaction KPI, including what to do, when to do it and how frequently to measure. Please refer to [Defining KPIs](http://gsdm.herokuapp.com/guides-and-toolkits/kpis/definingkpis.html) for a definition of cost per transaction.
 
 ##Guidance/Tool
 <table>
