@@ -1,6 +1,6 @@
 [CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for "Completely Automated Public Turing test to tell Computers and Humans Apart". These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form.  They are usually used to prevent bots (automated software) from completing a form or accessing a system.
 
-**CAPTCHAs should not be used unless absolutely necessary.**
+**CAPTCHAs should not be used.**
 
 CAPTCHAs introduce significant problems to online services:
 * Usability - they put the burden of detecting bots on the user rather than the system. As CAPTCHAs are designed to be hard to read and understand, this makes the service much more difficult to use
