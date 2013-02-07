@@ -3,6 +3,8 @@
 <!--<![endif]--><head>
 {% include _head.html %}
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
+    <script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
   <body class="mainstream full-width">
@@ -34,8 +36,8 @@
               <ul id="navigation">
                 <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default Standard</a></li>
                 <!--
-                <li><a href="/guides-and-toolkits" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>   
-                --> 
+                <li><a href="/guides-and-toolkits" {% if page.section == 'guidance' %}class="current"{% endif %}>Guides &amp; toolkits</a></li>
+                -->
                 <li><a href="/feedback" {% if page.section == 'feedback' %}class="current"{% endif %}>Feedback</a></li>
               </ul>
             </nav>
@@ -69,5 +71,11 @@
       </section>
     </div><!--end wrapper-->
     {% include _footer.html %}
+    <script type="text/javascript">
+      jQuery(function ($) {
+        $('.inner').annotator()
+                   .annotator('setupPlugins');
+      });
+    </script>
   </body>
 </html>
