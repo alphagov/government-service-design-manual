@@ -646,23 +646,23 @@ article dd{
   overflow: hidden;
   margin-bottom: 2em;
   p{
-width: 46%;
-margin: 1em 0 1em 0;
-float: left;
-font-size: 19px;
-line-height: 1.5em;
+    width: 46%;
+    margin: 1em 0 1em 0;
+    float: left;
+    font-size: 19px;
+    line-height: 1.5em;
   }
-  a{
-display: block;
-float: right;
-padding: 1.5em 0 1em 1.5em;
-width: 45%;
+  .logo{
+    display: block;
+    float: right;
+    padding: 1.5em 0 1em 1.5em;
+    width: 45%;
     &:hover{
       background-color: $light-blue-25;
     }
-  }
-  img{
-    width: 100%;
+    img{
+      width: 100%;
+    }
   }
 }
 
@@ -682,12 +682,14 @@ width: 45%;
   a{
     display: block;
     padding: 0.5em;
-    background-color: $green;
-    color: white;
-    &:hover{
-      background-color: lighten($green, 10%);
-    }
+    background-color: $highlight-colour;
+    border-top: 3px solid $green;
   }
+}
+
+.secondary-promos{
+  @include regular-grid(3);
+  margin: 3em 0 0 0;
 }
 
 .hero.topic{

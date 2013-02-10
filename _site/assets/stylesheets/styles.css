@@ -1999,17 +1999,17 @@ article dd {
     font-size: 19px;
     line-height: 1.5em; }
   /* line 652 */
-  .dbd-promo a {
+  .dbd-promo .logo {
     display: block;
     float: right;
     padding: 1.5em 0 1em 1.5em;
     width: 45%; }
     /* line 657 */
-    .dbd-promo a:hover {
+    .dbd-promo .logo:hover {
       background-color: #d5e8f3; }
-  /* line 661 */
-  .dbd-promo img {
-    width: 100%; }
+    /* line 660 */
+    .dbd-promo .logo img {
+      width: 100%; }
 
 /* line 666 */
 .home {
@@ -2061,22 +2061,56 @@ article dd {
   .roles a {
     display: block;
     padding: 0.5em;
-    background-color: #006435;
-    color: white; }
-    /* line 684 */
-    .roles a:hover {
-      background-color: #009750; }
+    background-color: #f8f8f8;
+    border-top: 3px solid #006435; }
 
-/* line 691 */
+/* line 687 */
+.secondary-promos {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1;
+  margin: 3em 0 0 0; }
+  /* line 16, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .secondary-promos > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 31.66667%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .secondary-promos > *:nth-child(3n) {
+      margin-right: 0; }
+    /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .secondary-promos > * *:first-child {
+      margin-top: 0; }
+
+/* line 693 */
 .hero.topic h3 {
   font-size: 48px;
   font-weight: normal;
   margin-bottom: 0.5em; }
-/* line 696 */
+/* line 698 */
 .hero.topic a h3 {
   text-decoration: none; }
 
-/* line 702 */
+/* line 704 */
 .topic a[title]:after {
   content: attr(title);
   position: absolute;
@@ -2084,16 +2118,16 @@ article dd {
   color: #6F777B;
   text-decoration: none;
   width: 64%; }
-  /* line 709 */
+  /* line 711 */
   .topic a[title]:after:hover {
     text-decoration: underline; }
 
-/* line 714 */
+/* line 716 */
 .topic {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
-  /* line 718 */
+  /* line 720 */
   .topic p {
     font-size: 16px;
     margin-top: 0.5em;
