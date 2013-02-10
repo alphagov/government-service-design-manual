@@ -25,7 +25,7 @@ status: draft
       <li><a href="/researchers">Researchers</a></li>
       <li><a href="/content-designers">Content designers</a></li>
       <li><a href="/analysts">Analysts</a></li>
-      <li><a href="/guides-and-toolkits"><strong>See all guides...</strong></a></li>
+      <li><a href="/all-guides"><strong>See all guides...</strong></a></li>
     </ul>
   </div>
   <div class="topic">
