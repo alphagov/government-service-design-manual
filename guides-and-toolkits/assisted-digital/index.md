@@ -1,8 +1,11 @@
 ---
 layout: gsdm
 title: Assisted digital
+subtitle: Getting digital services to hard to reach audiences
 section: guidance
-subsection: Understanding your audience
+audience: 
+  primary: designer, researcher, service-manager
+type: guide
 status: draft
 ---
 

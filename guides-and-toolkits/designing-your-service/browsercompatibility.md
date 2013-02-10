@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Designing for browsers and devices
+title: Browsers and devices
+subtitle: Which ones to test with, and how best to support them
 section: guidance
-subsection: Designing your service
+audience: 
+  primary: designer, developer
+type: resource
 status: draft
 ---
     

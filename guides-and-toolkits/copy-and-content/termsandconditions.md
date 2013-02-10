@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: Terms and conditions
+title: Writing terms and conditions
+subtitle: How to make them clear and easy to understand
 section: guidance
-subsection: Copy and content
+audience:
+  primary: content-designer
 status: draft
 ---
     

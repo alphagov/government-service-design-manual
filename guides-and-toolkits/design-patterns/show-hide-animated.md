@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Show/hide link, animated
-section: guidance
 subsection: Design patterns
 status: draft
 ---

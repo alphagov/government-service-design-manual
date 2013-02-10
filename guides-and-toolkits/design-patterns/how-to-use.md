@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Design pattern library
-section: guidance
 subsection: Design patterns
 status: draft
 ---

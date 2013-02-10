@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Incorporating analytics data into design
+title: Designing with data
+subtitle: How to use analytics to make design decisions
 section: guidance
-subsection: Designing your service
+audience:
+  primary: analyst
+  secondary: designer
 status: draft
 ---
     

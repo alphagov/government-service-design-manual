@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: Consuming/Using APIs
+title: APIs
+subtitle: Using and creating Application Programming Interfaces
 section: guidance
-subsection: APIs
+audience:
+  primary: developer, tech-arch
 status: draft
 ---
     

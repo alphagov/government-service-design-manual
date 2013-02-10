@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Button labels
+title: Button text
+subtitle: How to write effective button text
 section: guidance
-subsection: Copy and content
+audience:
+  primary: designer
+  secondary: content-designer
 status: draft
 ---
     

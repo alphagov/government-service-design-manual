@@ -1,8 +1,10 @@
 ---
 layout: gsdm
 title: GOV.UK Style Guide
+subtitle: How to write content for the GOV.UK website
 section: guidance
-subsection: Copy and content
+audience: 
+    primary: content-designer
 status: draft
 ---
     

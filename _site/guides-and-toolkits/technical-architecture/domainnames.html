@@ -2,7 +2,7 @@
 <!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
 <!--<![endif]--><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>Domain names</title>
+<title>Domain names and URLs</title>
 
 
     
@@ -48,7 +48,7 @@
     <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
-  <body class="mainstream full-width">
+  <body class="mainstream full-width guidance">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
         <!--start header-->
@@ -71,19 +71,6 @@
 
       <section id="content" role="main" class="group">
 
-        <!--
-        <div class="js-toggle-nav" id="global-nav">
-          <div class="inner">
-            <nav role="navigation" class="content">
-              <ul id="navigation">
-                <li><a href="/" class="current">Government Service Design Manual</a></li>
-                <li><a href="/digital-by-default" >Digital by Default standard</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
-      -->
-
         <div class="js-toggle-nav" id="global-nav">
           <div class="inner">
             <span class="home"><a href="/" >Government Service Design Manual<small>alpha</small></a></span>
@@ -97,7 +84,9 @@
           </div>
         </div>
 
+
         <header class="page-header group">
+          <!--
         
             <div class="breadcrumb">
               <li>
@@ -105,14 +94,17 @@
               </li>
               <li>
                 <span class="divider">/</span>
-                <a href="./">Technical Architecture</a>
+                <a href="./"></a>
               </li>
             </div>
         
+      -->
 
-        <hgroup><h1>Domain names</h1></hgroup></header><div class="article-container group">
+        <hgroup><h1>Domain names and URLs</h1></hgroup></header><div class="article-container group">
         <article role="article" class="group">
           <div class="inner">
+              
+                <p class="subtitle">How to construct good URLs</p>
               
 
               <h1 id="domain-names">Domain names</h1>
@@ -133,6 +125,37 @@
 
 <p>By providing a consistent but distinct set of domain names for services we establish trust in the approach as a whole, but ensure that each service can be independently managed and ring-fenced.</p>
 
+<h1 id="url-design">URL design</h1>
+<p>URLs are part of the user interface of a service. They should be designed to be descriptive and bookmarkable, they shouldn’t be used to preserve state unless it can be shared. Use HTTP properly. </p>
+
+<h2 id="guidance">Guidance</h2>
+
+<p>URLs are a fundamental building block of any digital service. They are part of its user interface, providing a way for users to navigate the service and to understand how it’s structured. For services that need to be indexed in search engines they are also an important piece of data that search indexers take into account for ranking pages.</p>
+
+<p>URLs should be designed for clarity, and according to the practices set out in the HTTP specifications. They should be easy for moderately skilled humans to read as well as for machines to process. They should provide ways to point to the specific pieces of information or entry points for interactions within your service.</p>
+
+<p>HTTP expects URLs to be used in conjunction with verbs (primarily GET and POST) and it is important to get these right in order to build a flexible, effective digital service.</p>
+
+<ul>
+  <li>A GET should be used to retrieve information about a resource from a server. It should not change the state of that resource. A user executing a GET for a URL should get a simple, appropriate response without side effects. A search usually makes sense to be executed via a GET.</li>
+  <li>A POST should be used where the state of a resource is expected to change. Submitting a form is usually done with a POST where you expect to store or process that data.</li>
+</ul>
+
+<p>URLs are a commitment and shouldn’t be changed without careful thought. If you’re changing your URLs then you should redirect from the old ones to the new ones as users may well have linked to or bookmarked the old URLs and will expect a consistent service.</p>
+
+<h2 id="why-we-do-this-1">Why we do this</h2>
+
+<blockquote>
+  <p>The “Smart Answers” on GOV.UK are designed for sharing. Having calculated your maternity or paternity entitlements you may well want to share the outcome with your partner or save it to come back later. The URLs contain all your previous answers and so sending that URL to anyone else will allow them to see exactly the same outcome you saw.</p>
+</blockquote>
+
+<h2 id="further-reading">Further reading</h2>
+
+<ul>
+  <li>No Link Left Behind, Paul Downey on <a href="http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/">how we saved all the DG and BL URLs</a></li>
+  <li>Kyle Neath of Github.com talks about <a href="http://warpspire.com/posts/url-design/">their URL design</a></li>
+  <li>Tim Berners-Lee, the creator of the web is commonly heard saying <a href="http://www.w3.org/Provider/Style/URI.html">Cool URIs Don’t Change</a></li>
+</ul>
 
             </div>
             </article>

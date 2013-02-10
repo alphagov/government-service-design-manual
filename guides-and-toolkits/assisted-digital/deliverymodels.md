@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: Assisted Digital delivery models
-section: guidance
-subsection: Assisted Digital
 status: draft
 ---
     

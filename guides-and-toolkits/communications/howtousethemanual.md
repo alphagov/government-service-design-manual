@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: How to use the Manual
-section: guidance
 subsection: Communications
 status: draft
 ---

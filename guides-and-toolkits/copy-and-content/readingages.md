@@ -1,8 +1,10 @@
 ---
 layout: gsdm
 title: How users read
+subtitle: Reading age, reading online, plain English, learning disabilities
 section: guidance
-subsection: Copy and content
+audience: 
+  primary: content-designer
 status: draft
 ---
     
@@ -32,7 +34,6 @@ status: draft
 
 <p>At that point, you recognise the shape of the word. This speeds up comprehension and speed of reading. So we don’t want people to read. We want people to recognise the ‘shape’ of the word and understand. It’s a lot faster. </p>
 
-
 <p>Caps are reputed to be 13-18% harder for users to read. So we try to avoid them.</p>
 <p>Also, in modern usage it sounds like we are shouting. We are government. We should not be shouting.</p>
 

@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Emphasised form controls
-section: guidance
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/emphasised-form-controls.css

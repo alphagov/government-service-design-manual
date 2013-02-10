@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Accordion form
-section: guidance
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/accordion-form.css

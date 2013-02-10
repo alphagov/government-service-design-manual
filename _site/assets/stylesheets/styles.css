@@ -485,21 +485,21 @@ article .inner {
 .home-page-promos div {
   box-sizing: border-box;
   border-top: 3px solid #006435;
-  padding: 1em 0; }
-/* line 85 */
+  padding: 1em 0 0 0; }
+/* line 84 */
 .home-page-promos .action {
   margin: 0 -16px;
   background-color: #006435; }
-  /* line 88 */
+  /* line 87 */
   .home-page-promos .action a {
     color: white;
     padding: 1em;
     display: block; }
-    /* line 92 */
+    /* line 91 */
     .home-page-promos .action a:hover {
       background-color: #009750; }
 
-/* line 99 */
+/* line 98 */
 .home-page-promos {
   margin: 0;
   padding: 0;
@@ -535,14 +535,14 @@ article .inner {
     .home-page-promos > * *:first-child {
       margin-top: 0; }
 
-/* line 104 */
+/* line 103 */
 .subtitle {
   margin-top: -1em;
   color: #666;
   margin-bottom: 1em;
   font-size: 24px; }
 
-/* line 112 */
+/* line 111 */
 .standard-intro img {
   float: right;
   width: 30%;
@@ -550,7 +550,7 @@ article .inner {
   border: 5px solid #ebebeb;
   padding: 2.5em; }
 
-/* line 122 */
+/* line 121 */
 .standard ul {
   display: inline-block;
   vertical-align: middle;
@@ -559,13 +559,13 @@ article .inner {
   padding-left: 0;
   width: 73%;
   border-left: 5px solid #dee0e2; }
-/* line 131 */
+/* line 130 */
 .standard h3 {
   margin-top: 0;
   width: 20%;
   display: inline-block;
   font-size: 42px; }
-/* line 138 */
+/* line 137 */
 .standard li {
   list-style: none;
   padding: 0;
@@ -576,12 +576,12 @@ article .inner {
   background-repeat: no-repeat;
   background-position: 19px 45%; }
 
-/* line 149 */
+/* line 148 */
 .guides-overview {
   width: 100%;
   clear: both; }
 
-/* line 153 */
+/* line 152 */
 .guides-overview li {
   float: left;
   display: block;
@@ -589,73 +589,73 @@ article .inner {
   width: 124px;
   padding-top: 48px;
   border-radius: 62px; }
-  /* line 160 */
+  /* line 159 */
   .guides-overview li.discovery {
     background-color: #f6d7e5; }
-  /* line 163 */
+  /* line 162 */
   .guides-overview li.inception {
     background-color: #eb9bbe; }
-  /* line 166 */
+  /* line 165 */
   .guides-overview li.alpha {
     background-color: #d53880; }
-  /* line 169 */
+  /* line 168 */
   .guides-overview li.beta {
     background-color: #f47738; }
-  /* line 172 */
+  /* line 171 */
   .guides-overview li.live {
     background-color: #85994b; }
-  /* line 175 */
+  /* line 174 */
   .guides-overview li.operational {
     background-color: #c2cca3; }
-  /* line 178 */
+  /* line 177 */
   .guides-overview li.decommissioning {
     background-color: #dee0e2; }
 
-/* line 182 */
+/* line 181 */
 #global-nav {
   text-align: left; }
 
-/* line 185 */
+/* line 184 */
 .phase-nav {
   width: 100%;
   margin: 0 -1em; }
 
-/* line 189 */
+/* line 188 */
 .phase-nav li {
   display: block;
   float: left;
   width: 49%;
   margin: 0;
   padding: 1em; }
-  /* line 195 */
+  /* line 194 */
   .phase-nav li.discovery {
     background-color: #f6d7e5; }
-  /* line 198 */
+  /* line 197 */
   .phase-nav li.inception {
     background-color: #eb9bbe; }
-  /* line 201 */
+  /* line 200 */
   .phase-nav li.alpha {
     background-color: #d53880; }
-  /* line 204 */
+  /* line 203 */
   .phase-nav li.beta {
     background-color: #f47738; }
-  /* line 207 */
+  /* line 206 */
   .phase-nav li.live {
     background-color: #85994b; }
-  /* line 210 */
+  /* line 209 */
   .phase-nav li.operational {
     background-color: #c2cca3; }
-  /* line 213 */
+  /* line 212 */
   .phase-nav li.decommissioning {
     background-color: #dee0e2; }
 
-/* line 217 */
+/* line 216 */
 .alpha-phase hgroup {
   background-color: #d53880;
   color: #fff;
   padding-left: 2em; }
 
-/* line 223 */
+/* line 222 */
 .breadcrumb {
   list-style-type: none;
   list-style-image: none;
@@ -663,34 +663,34 @@ article .inner {
   padding: 0;
   background: white;
   padding: 1em 2em 0 2em; }
-  /* line 230 */
+  /* line 229 */
   .breadcrumb li {
     display: inline-block;
     margin: 0;
     padding: 0; }
 
-/* line 239 */
+/* line 238 */
 .phase-diagram {
   width: 100%;
   margin: 0 -1em 0 -1em; }
 
-/* line 248 */
+/* line 247 */
 .project-list {
   margin: 0 0 1em 0;
   width: 60%; }
 
-/* line 253 */
+/* line 252 */
 .nav-tabs {
   list-style-type: none;
   list-style-image: none;
   border-bottom: solid 1px #a1acb2; }
 
-/* line 260 */
+/* line 259 */
 .organisation-logo {
   float: right;
   margin: 1em 2em; }
 
-/* line 266 */
+/* line 265 */
 .status-updates {
   box-sizing: border-box;
   width: 31.67%;
@@ -719,17 +719,17 @@ article .inner {
     .status-updates .inner input[type="text"],
     .status-updates .inner textarea {
       background-color: #f8f8f8; }
-  /* line 268 */
+  /* line 267 */
   .status-updates ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0 0 0 2.5%;
     padding: 0; }
-    /* line 273 */
+    /* line 272 */
     .status-updates ul li {
       padding: 0; }
 
-/* line 278 */
+/* line 277 */
 .project-meta {
   box-sizing: border-box;
   width: 32%;
@@ -758,20 +758,20 @@ article .inner {
     .project-meta .inner input[type="text"],
     .project-meta .inner textarea {
       background-color: #f8f8f8; }
-  /* line 281 */
+  /* line 280 */
   .project-meta ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 286 */
+    /* line 285 */
     .project-meta ul li {
       padding: 0;
       margin: 0; }
-  /* line 291 */
+  /* line 290 */
   .project-meta p {
     margin-top: 0; }
-  /* line 293 */
+  /* line 292 */
   .project-meta .team li {
     display: inline-block; }
 
@@ -854,23 +854,23 @@ details {
 .no-details details summary {
   display: block; }
 
-/* line 301 */
+/* line 300 */
 .steps {
   list-style-image: none;
   margin: 0;
   padding-left: 0; }
-  /* line 305 */
+  /* line 304 */
   .steps li {
     list-style-type: none;
     padding-left: 0.25em;
     margin: 0 0 2px 0; }
-    /* line 309 */
+    /* line 308 */
     .steps li:nth-child(odd) {
       background: #f9f9f9; }
-    /* line 312 */
+    /* line 311 */
     .steps li.completed {
       background: #cce0d6; }
-  /* line 316 */
+  /* line 315 */
   .steps div {
     font-family: "nta", "GDS-Regular", sans-serif;
     font-size: 16px;
@@ -884,40 +884,40 @@ details {
     padding-bottom: 0.7rem;
     display: inline-block; }
     @media (max-width: 640px) {
-      /* line 316 */
+      /* line 315 */
       .steps div {
         font-size: 1.4rem;
         line-height: 1.14286; } }
     @media (min-width: 641px) {
-      /* line 316 */
+      /* line 315 */
       .steps div {
         padding-top: 0.5rem;
         padding-bottom: 0.5rem; } }
-  /* line 320 */
+  /* line 319 */
   .steps .step-title {
     width: 63%;
     padding-left: 1.5em; }
-  /* line 324 */
+  /* line 323 */
   .steps .completed .step-title {
     background-image: url("../images/progress-tick.png");
     background-repeat: no-repeat;
     background-position: 0 50%; }
-  /* line 329 */
+  /* line 328 */
   .steps .step-status {
     width: 18%; }
-  /* line 332 */
+  /* line 331 */
   .steps .step-action {
     width: 15%; }
 
-/* line 340 */
+/* line 339 */
 a.tooltip {
   outline: none;
   color: #0b0c0c;
   text-decoration: none; }
-  /* line 344 */
+  /* line 343 */
   a.tooltip:hover {
     text-decoration: underline; }
-    /* line 346 */
+    /* line 345 */
     a.tooltip:hover:after {
       content: "\25C0";
       display: block;
@@ -925,13 +925,13 @@ a.tooltip {
       color: black;
       z-index: 11;
       margin-left: 10px; }
-    /* line 354 */
+    /* line 353 */
     a.tooltip:hover span {
       display: inline;
       position: absolute;
       color: #EEE;
       background: #0B0C0C; }
-  /* line 361 */
+  /* line 360 */
   a.tooltip span {
     z-index: 10;
     display: none;
@@ -1220,7 +1220,7 @@ a.tooltip {
 .add-journal-entry .inline select,
 .add-journal-entry .inline textarea {
   margin-right: 0.5em; }
-/* line 377 */
+/* line 376 */
 .add-journal-entry form {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1246,14 +1246,14 @@ a.tooltip {
     .add-journal-entry form .inner input[type="text"],
     .add-journal-entry form .inner textarea {
       background-color: #f8f8f8; }
-  /* line 380 */
+  /* line 379 */
   .add-journal-entry form .group {
     color: white; }
-    /* line 382 */
+    /* line 381 */
     .add-journal-entry form .group input, .add-journal-entry form .group textarea {
       margin-left: -0.3em; }
 
-/* line 391 */
+/* line 390 */
 .guidance-list {
   -moz-column-count: 2;
   -moz-column-gap: 20px;
@@ -1261,7 +1261,7 @@ a.tooltip {
   -webkit-column-gap: 20px;
   column-count: 2;
   column-gap: 20px; }
-  /* line 398 */
+  /* line 397 */
   .guidance-list .topic {
     -webkit-column-break-inside: avoid;
     -moz-column-break-inside: avoid;
@@ -1269,11 +1269,11 @@ a.tooltip {
     -ms-column-break-inside: avoid;
     column-break-inside: avoid;
     margin-bottom: 2.4em; }
-    /* line 405 */
+    /* line 404 */
     .guidance-list .topic h3 {
       margin-top: 0; }
 
-/* line 411 */
+/* line 410 */
 .recently-updated {
   box-sizing: border-box;
   width: 33%;
@@ -1302,7 +1302,7 @@ a.tooltip {
     .recently-updated .inner textarea {
       background-color: #f8f8f8; }
 
-/* line 417 */
+/* line 416 */
 .search-guides {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1679,69 +1679,69 @@ a.tooltip {
       /* line 319, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
       .search-guides .inline.option.group label {
         padding-left: 0; }
-  /* line 421 */
+  /* line 420 */
   .search-guides input[type="search"] {
     background-color: white;
     width: 24em; }
-  /* line 425 */
+  /* line 424 */
   .search-guides label {
     font-size: 2.4rem; }
 
-/* line 430 */
+/* line 429 */
 .page-contents {
   background-color: #F2F2F2;
   margin: 1em -1em 1.5em -1em;
   padding: 1em 1em 0.25em 1em; }
 
-/* line 436 */
+/* line 435 */
 .meta-data {
   margin-top: 0;
   text-align: left;
   width: 100%; }
-  /* line 440 */
+  /* line 439 */
   .meta-data p {
     display: block; }
 
-/* line 447 */
+/* line 446 */
 .phases {
   list-style-type: none;
   list-style-image: none;
   margin: 0;
   padding: 0;
   width: 100%; }
-  /* line 453 */
+  /* line 452 */
   .phases li {
     padding: 0;
     display: inline-block;
     background-color: #dee0e2;
     width: 20%; }
-    /* line 458 */
+    /* line 457 */
     .phases li .badge {
       font-size: 16px;
       color: #0b0c0c;
       padding: 0.2em 0.25em 0em 0.5em;
       text-transform: uppercase;
       font-weight: normal; }
-    /* line 465 */
+    /* line 464 */
     .phases li.complete {
       background-color: #96c6e2; }
 
-/* line 474 */
+/* line 473 */
 .article h2 .headerlink {
   display: inline-block;
   text-indent: -9999px;
   width: 20px;
   margin-left: -20px; }
-/* line 480 */
+/* line 479 */
 .article h2:hover .headerlink {
   visibility: visible;
   text-indent: 0; }
 
-/* line 489 */
-.home a {
+/* line 488 */
+#global-nav .home a {
   position: relative; }
-  /* line 491 */
-  .home a small {
+  /* line 490 */
+  #global-nav .home a small {
     position: absolute;
     top: 0.8em;
     text-transform: uppercase;
@@ -1751,7 +1751,7 @@ a.tooltip {
     padding: 2px 5px 0;
     margin-left: 10px; }
 
-/* line 510 */
+/* line 509 */
 .page-contents {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1779,7 +1779,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Intro panel on landing page */
-/* line 515 */
+/* line 514 */
 .pattern-library {
   box-sizing: border-box;
   width: 50%;
@@ -1809,7 +1809,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Container for example patterns */
-/* line 520 */
+/* line 519 */
 .pattern-example {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -1837,7 +1837,7 @@ a.tooltip {
       background-color: #f8f8f8; }
 
 /* Pattern status label */
-/* line 527 */
+/* line 526 */
 .pattern-status {
   display: block;
   float: right;
@@ -1848,7 +1848,7 @@ a.tooltip {
   text-transform: uppercase; }
 
 /* Side-by-side code examples */
-/* line 537 */
+/* line 536 */
 .side-by-side {
   margin: 0;
   padding: 0;
@@ -1883,12 +1883,12 @@ a.tooltip {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .side-by-side > * *:first-child {
       margin-top: 0; }
-  /* line 539 */
+  /* line 538 */
   .side-by-side .pattern-example {
     margin: 0.8em 0 0 0; }
 
 /* Styles for inline and block code examples */
-/* line 545 */
+/* line 544 */
 pre,
 code {
   color: black;
@@ -1900,62 +1900,63 @@ code {
   padding: 6px 10px;
   border-radius: 3px; }
 
-/* line 555 */
+/* line 554 */
 pre code {
   border: 0 solid;
   padding: 0; }
 
-/* line 559 */
+/* line 558 */
 code {
   padding: 0.3em 0.5em; }
 
-/* line 563 */
+/* line 562 */
 pre:first-child {
   margin-top: 0; }
 
 /* Update text.scss with these */
-/* line 566 */
+/* line 565 */
 hr {
   border: 0;
   background-color: #bfc1c3;
   height: 1px;
   margin: 2em 0; }
 
-/* line 572 */
+/* line 571 */
 article dd {
   font-size: 1.16em; }
 
 /* Mixin argument toggle styles */
-/* line 578 */
+/* line 577 */
 .class-toggle .option:hover {
   cursor: pointer;
   text-decoration: underline; }
 
-/* line 582 */
+/* line 581 */
 .class-toggle .selected {
   text-decoration: none;
   color: red;
   font-weight: bold; }
-  /* line 586 */
+  /* line 585 */
   .class-toggle .selected:hover {
     cursor: default;
     text-decoration: none; }
 
-/* line 592 */
+/* line 591 */
 .topic {
   border-bottom: 1px solid #bfc1c3;
   padding-bottom: 5px; }
-  /* line 595 */
+  /* line 594 */
   .topic h3 {
     margin-top: 1em; }
-  /* line 598 */
+  /* line 597 */
   .topic ul {
     list-style-type: none;
     list-style-image: none;
     margin: 0;
     padding: 0; }
-    /* line 603 */
+    /* line 602 */
     .topic ul li {
+      font-size: 16px;
       list-style-type: none;
       list-style-image: none;
       overflow: hidden;
@@ -1983,8 +1984,119 @@ article dd {
         .topic ul li a:hover .description {
           text-decoration: underline; }
 
-/* line 636 */
+/* line 639 */
+.dbd-promo {
+  font-size: 16px;
+  border-top: 3px solid #006435;
+  border-bottom: 3px solid #006435;
+  overflow: hidden;
+  margin-bottom: 2em; }
+  /* line 645 */
+  .dbd-promo p {
+    width: 46%;
+    margin: 1em 0 1em 0;
+    float: left;
+    font-size: 19px;
+    line-height: 1.5em; }
+  /* line 652 */
+  .dbd-promo a {
+    display: block;
+    float: right;
+    padding: 1.5em 0 1em 1.5em;
+    width: 45%; }
+    /* line 657 */
+    .dbd-promo a:hover {
+      background-color: #d5e8f3; }
+  /* line 661 */
+  .dbd-promo img {
+    width: 100%; }
+
+/* line 666 */
+.home {
+  /*
+  h1{
+    width: 40%;
+  }
+  .subtitle {
+    width: 29%;
+  }
+  */ }
+
+/* line 677 */
+.roles {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .roles > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 31.66667%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .roles > *:nth-child(3n) {
+      margin-right: 0; }
+    /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .roles > * *:first-child {
+      margin-top: 0; }
+  /* line 679 */
+  .roles a {
+    display: block;
+    padding: 0.5em;
+    background-color: #006435;
+    color: white; }
+    /* line 684 */
+    .roles a:hover {
+      background-color: #009750; }
+
+/* line 691 */
+.hero.topic h3 {
+  font-size: 48px;
+  font-weight: normal;
+  margin-bottom: 0.5em; }
+/* line 696 */
+.hero.topic a h3 {
+  text-decoration: none; }
+
+/* line 702 */
+.topic a[title]:after {
+  content: attr(title);
+  position: absolute;
+  left: 35%;
+  color: #6F777B;
+  text-decoration: none;
+  width: 64%; }
+  /* line 709 */
+  .topic a[title]:after:hover {
+    text-decoration: underline; }
+
+/* line 714 */
 .topic {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
+  /* line 718 */
+  .topic p {
+    font-size: 16px;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0;
+    border-top: 1px solid #bfc1c3; }

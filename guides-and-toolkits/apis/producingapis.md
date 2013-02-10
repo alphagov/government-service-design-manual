@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: Producing APIs
-section: guidance
-subsection: APIs
 status: draft
 ---
     

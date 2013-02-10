@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: Drawing up a channel shift strategy
+title: Channel shift
+subtitle: How to draw up a channel shift strategy for your service
 section: guidance
-subsection: Communications
+audience: 
+  primary: service-manager
 status: draft
 ---
     

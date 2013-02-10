@@ -1,8 +1,12 @@
 ---
 layout: gsdm
-title: Design principles
+title: GOV.UK design principles
+subtitle: Discover the ten principles that inform everything we make
 section: guidance
-subsection: Designing your service
+type: guide
+audience: 
+  primary: designer, service-manager
+  secondary: developer, tech-arch, analyst, researcher
 status: draft
 ---
     

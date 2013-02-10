@@ -6,65 +6,39 @@ section: home
 status: draft
 ---
 
-<!--
-<div class="guides-intro">
+<div class="dbd-promo">
+  <a href="/digital-by-default"><img src="/assets/images/DbD-kitemark.png" alt="Read the Digital by Default standard" /></a>
   <p>
-  The <a href="http://publications.cabinetoffice.gov.uk/digital/">Government Digital Strategy</a> sets out how government will redesign its digital services to make them so straightforward and convenient that all those who can use them prefer to do, by meeting the new <a href="/digital-by-default">Digital by default service standard</a>.
-  </p>
-  <p>
-  All central government departments are committed to fulfilling the actions laid out in the Government Digital Strategy.  This manual provides help and guidance in how to meet the standard.
-  </p>
-  <p>
-    Doing this requires working in a very different way from before...
-  </p>
+    <strong>The way we make government services is changing</strong>
+    By 2014 all new government services must meet the new <em>Digital by Default</em> standard.
+    This manual explains what the standard is and shows you how to meet it.
+  </p> 
 </div>
-
-<div class="home-page-hero"> 
-  <a href="/digital-by-default/">
-  <p>Find out what you need to do to build services that meet the government's Digital by Default standard</p> 
-  <img src="/assets/images/DbD-kitemark.png" alt="Digital by Default standard" />
-  </a>
-</div>
-
 
 <div class="home-page-promos">
-  <div>
-    <h2>Service development</h2>
-    <p>Learn how to sucessfully bring your service through the four main phases of development</p>
-    <p class="action"><a href="guides-and-toolkits/phases">Find out more</a></p>
+  <div class="topic">
+    <h3>Guides and resources for...</h3>
+    <ul>
+      <li><a href="/service-managers">Service managers</a></li>
+      <li><a href="/designers">Designers</a></li>
+      <li><a href="/developers">Developers</a></li>
+      <li><a href="/researchers">Researchers</a></li>
+      <li><a href="/content-designers">Content designers</a></li>
+      <li><a href="/analysts">Analysts</a></li>
+      <li><a href="/guides-and-toolkits"><strong>See all guides...</strong></a></li>
+    </ul>
   </div>
-  <div>
-    <h2>Design principles</h2>
-    <p>Ten principles to help you design and build great Digital by Default public services.</p>
-    <p class="action"><a href="https://www.gov.uk/designprinciples">Read the principles</a></p>
-  </div>
-  <div>
-    <h2>Working in an agile way</h2>
-    <p>Learn how to iterate your service rapidly in response to user feedback.</p>
-    <p class="action"><a href="/guides-and-toolkits/working-in-an-agile-way/">Learn about agile</a></p>
+  <div class="topic">
+    <h3>Common questions</h3>
+    <ul>
+      <li><a href="/about">What is this website?</a></li>
+      <li><a href="/digital-by-default">What is the <em>Digital by Default</em> standard?</a></li>
+    </ul>
   </div>
 </div>
--->
 
 <!--
-
-<div class="home-page-promos">
-  <div>
-    <h3>Service managers</h3>
-    <p>What they do, and how to be a good one</p>
-  </div>
-  <div>
-    <h3>Developing your service</h3>
-    <p>How a Digital by Default project is structured</p>
-  </div>
-  <div>
-    <h3>Building your team</h3>
-    <p>The skills and working environment you'll need</p>
-  </div>
-</div>
--->
-
-<div class="hero topic">
+<div class="topic">
   <h3>Getting started</h3>
   <ul>
       <li><a href="/digital-by-default"><span class="title">The Digital by Default standard</span><span class="description">  All new government services must meet this standard by 2014</span></a></li>
@@ -72,9 +46,6 @@ status: draft
       <li><a href="/guides-and-toolkits/phases"><span class="title">Service development phases</span><span class="description">  How a Digital by Default project is structured</span></a></li>
       <li><a href="/guides-and-toolkits/building-a-team/"><span class="title">Building a team</span><span class="description">  Who to hire, your working environment and what your team should look like</span></a></li>
       <li><a href="/guides-and-toolkits/working-in-an-agile-way/"><span class="title">Working in an agile way</span><span class="description">  What it is, why it works and how to do it</span></a></li>
-      <!--
-      <li><a href="/guides-and-toolkits/tools-and-services/"><span class="title">Useful tools and services</span><span class="description">  For sharing code, blogging, managing projects, analytics and more</span></a></li>
-      -->
   </ul>
 </div>
 <div class="topic">
@@ -89,7 +60,6 @@ status: draft
 <div class="topic">
 <h3>Understanding security and the law</h3>
 <ul>
-    <!--<li><a href=""><span class="title">Identity assurance</span><span class="description">  What it is and how to design for it</span></a></li>-->
     <li><a href="/guides-and-toolkits/information-security"><span class="title">Information security</span><span class="description">  Collecting information, security principles, logins...</span></a></li>
     <li><a href="/guides-and-toolkits/legal-processes"><span class="title">Legal processes</span><span class="description"> Impact assessments, legislation, security</span></a></li>
 </ul>
@@ -102,7 +72,6 @@ status: draft
     <li><a href="/guides-and-toolkits/copy-and-content"><span class="title">Copy and content</span><span class="description">  How to write for GOV.UK and the GOV.UK style guide</span></a></li>
       <li><a href="/guides-and-toolkits/technical-architecture"><span class="title">Technical architecture</span><span class="description">  Writing and testing code, cookies, performance and load...</span></a></li>
       <li><a href="/guides-and-toolkits/apis/"><span class="title">APIs</span><span class="description">Producing and consuming APIs and a list of available government APIs.</span></a></li>
-      <!--<li><a href="/guides-and-toolkits/apis"><span class="title">Using open source</span><span class="description">Lorem ipsum</span></a></li>-->
     </ul>
 </div>
 <div class="topic">
@@ -112,3 +81,4 @@ status: draft
       <li><a href="/guides-and-toolkits/monitoring-performance"><span class="title">Monitoring performance</span><span class="description">  Analytics, KPIs</span></a></li>
   </ul>
 </div>
+-->

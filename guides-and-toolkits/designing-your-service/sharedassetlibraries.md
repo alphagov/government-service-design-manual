@@ -1,6 +1,7 @@
 ---
 layout: gsdm
 title: Shared asset libraries
+subtitle: (TO DO)
 section: guidance
 subsection: Designing your service
 status: draft

@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Panel styles
-section: guidance
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/panels.css

@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: Understanding the size of the Assisted Digital audience
-section: guidance
-subsection: Assisted Digital
 status: draft
 ---
 

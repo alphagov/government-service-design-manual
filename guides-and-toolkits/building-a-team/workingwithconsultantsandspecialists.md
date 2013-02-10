@@ -1,8 +1,10 @@
 ---
 layout: gsdm
 title: Working with consultants and specialists
+subtitle: TO DO
 section: guidance
-subsection: Building a team
+audience: 
+  primary: service-manager
 status: draft
 ---
     

@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: What is Assisted Digital?
-section: guidance
-subsection: Assisted Digital
 status: draft
 ---
     

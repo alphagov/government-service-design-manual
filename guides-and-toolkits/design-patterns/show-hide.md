@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Show/hide link
-section: guidance
 subsection: Design patterns
 status: draft
 css: ../css/design-patterns/show-hide.css

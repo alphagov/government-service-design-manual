@@ -1,8 +1,11 @@
 ---
 layout: gsdm
 title: Building prototypes
+subtitle: An essential part of the design process
 section: guidance
-subsection: Designing your service
+audience: 
+  primary: designer
+type: guide
 status: draft
 ---
     

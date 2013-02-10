@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: What a team looks like
-section: guidance
 subsection: Building a team
 status: draft
 ---

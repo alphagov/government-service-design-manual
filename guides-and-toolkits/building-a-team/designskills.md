@@ -1,7 +1,6 @@
 ---
 layout: gsdm
-title: Design skills
-section: guidance
+title: The role of the designer
 subsection: Building a team
 status: draft
 ---

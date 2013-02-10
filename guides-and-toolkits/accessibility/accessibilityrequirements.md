@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Accessibility requirements
-section: guidance
 subsection: Accessibility
 status: draft
 ---

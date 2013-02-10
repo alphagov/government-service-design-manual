@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: WCAG 2.0 guidelines
-section: guidance
-subsection: Accessibility
 status: draft
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Sass Repositories
+title: Sass repositories
+subtitle: A library of CSS mixins in the Sass format
 section: guidance
-subsection: Designing your service
+audience:
+  primary: designer
+type: resource
 status: draft
 ---
     

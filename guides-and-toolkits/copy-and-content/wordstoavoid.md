@@ -1,8 +1,11 @@
 ---
 layout: gsdm
 title: Words to avoid
+subtitle: How to avoid jargon and buzzwords when writing for GOV.UK
 section: guidance
-subsection: Copy and content
+type: guide
+audience:
+  primary: content-designer
 status: draft
 ---
     

@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Accessibility testing
-section: guidance
 subsection: Accessibility
 status: draft
 ---

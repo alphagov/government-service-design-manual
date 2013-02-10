@@ -1,9 +1,12 @@
 ---
 layout: gsdm
-title: Service development phases
-subtitle: How a Digital by Default project is structured
+title: Discovery, Alpha, Beta, Live
+subtitle: The four phases of service develpment
 section: guidance
-subsection: phases
+audience:
+  primary: service-manager
+secondary-audience: designer, developer, tech-arch, researcher, analyst
+type: guide
 status: draft
 css: /assets/stylesheets/phases.css
 ---

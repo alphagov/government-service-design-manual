@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: Alpha/Beta warnings
+title: Alpha and Beta templates
+subtitle: How to warn users that the service is not fully developed
 section: guidance
-subsection: Copy and content
+audience:
+  primary: content-designer, designer
 status: draft
 ---
     

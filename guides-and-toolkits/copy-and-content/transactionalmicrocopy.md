@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Transactional microcopy
+title: Writing for transactions
+subtitle: How to write microcopy for transactional services
 section: guidance
-subsection: Copy and content
+type: guide
+audience:
+  primary: designer, content-designer
 status: draft
 ---
     

@@ -1,8 +1,12 @@
 ---
 layout: gsdm
 title: Understanding your users
+subtitle: Techniques for understanding your user's needs
 section: guidance
-subsection: Understanding your audience
+audience:
+  primary: researcher, designer, service-manager
+  secondary: developer, tech-arch, analyst
+type: guide
 status: draft
 ---
 

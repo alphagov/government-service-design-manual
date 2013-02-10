@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: How to write
+title: How to write for GOV.UK
+subtitle: Tone of voice, writing style, use of headings and more
 section: guidance
-subsection: Copy and content
+audience: 
+  primary: content-designer
 status: draft
 ---
     

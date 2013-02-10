@@ -1,8 +1,10 @@
 ---
 layout: gsdm
-title: Service managers
+title: The role of the service manager
+subtitle: What they do, and how to be a good one
 section: guidance
-subsection: Building a team
+audience: 
+  primary: service-manager
 status: draft
 ---
     

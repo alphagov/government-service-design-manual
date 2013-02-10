@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Accessibility skills
-section: guidance
 subsection: Building a team
 status: draft
 ---

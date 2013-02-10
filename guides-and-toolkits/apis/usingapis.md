@@ -1,8 +1,6 @@
 ---
 layout: gsdm
 title: Consuming/Using APIs
-section: guidance
-subsection: APIs
 status: draft
 ---
     

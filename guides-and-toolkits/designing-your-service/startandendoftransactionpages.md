@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Start and end of transaction pages
+title: Designing transactions
+subtitle: Starting and ending transactions, showing progress etc.
 section: guidance
-subsection: Designing your service
+audience: 
+  primary: designer
+type: guide
 status: draft
 ---
     

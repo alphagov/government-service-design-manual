@@ -1,8 +1,11 @@
 ---
 layout: gsdm
 title: Typography
+subtitle: Creating clear, easy to read type for the web
 section: guidance
-subsection: Designing your service
+audience:
+  primary: designer
+type: resource
 status: draft
 ---
     
@@ -12,7 +15,7 @@ Services should use clear, easy to read type, with consistent styles and a clear
 ##Guidance
 We use the typeface New Transport, cut especially for Government use. This should be included via CSS. We only serve this to modern browsers, via two files: a WOFF file for the majority of browsers and an EOT file for Internet Explorer (although we only serve this to IE8). The font is hinted to display well on all browsers.
 
-We currently only use one weight of New Transport: Light. We are in the process of adding a Bold weight too, but in the meantime differentiation between copy styles should be accomplished using different type sizes. Italics should not be used. The number of different type sizes on a page should be kept to the minimum, and only one typeface/font should be used on each website.
+We currently use two weights of New Transport: Light and Bold. Italics should not be used. The number of different type sizes on a page should be kept to the minimum, and only one typeface/font should be used on each website.
 
 If the service uses numbers in columns or tables, you should change these to use the tabular number version of Transport New. This replaces the standard numbers with new versions that are spaced more evenly. The main noticable difference is a base on the character 1. GDS has used this on the Performance Platform and Trade Tariff.
 

@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Copy and content
-section: guidance
 subsection: Designing your service
 status: draft
 ---

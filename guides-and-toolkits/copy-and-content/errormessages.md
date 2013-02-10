@@ -1,8 +1,11 @@
 ---
 layout: gsdm
 title: Error messages
+subtitle: How to write helpful messages for users when things go wrong
 section: guidance
-subsection: Copy and content
+audience:
+  primary: content-designer
+  secondary: designer
 status: draft
 ---
     

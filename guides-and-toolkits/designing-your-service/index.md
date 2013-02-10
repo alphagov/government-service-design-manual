@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Designing your service
-section: guidance
 subsection: Designing your service
 status: draft
 ---
@@ -16,4 +15,3 @@ status: draft
 * [Sass repositories](/guides-and-toolkits/designing-your-service/scssrepo.html)
 * [Building prototypes](/guides-and-toolkits/designing-your-service/buildingprototypes.html)
 * [Incorporating data into design](/guides-and-toolkits/designing-your-service/incorporatingdataintodesign.html)
-* [URLs](/guides-and-toolkits/designing-your-service/urldesign.html)

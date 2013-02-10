@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Hidden form controls
-section: guidance
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/hidden-form-controls.css

@@ -82,8 +82,7 @@ article .inner{
   div{
     box-sizing: border-box;
     border-top: 3px solid $green;
-    //padding-bottom: 1.5em;
-    padding: 1em 0;
+    padding: 1em 0 0 0;
   }
   .action{
     margin: 0 -16px;
@@ -488,7 +487,7 @@ padding: 1em 1em 0.25em 1em;
 
 // ====================================================
 // Alpha sticker
-.home {
+#global-nav .home {
   a {
   position: relative;
     small{
@@ -604,6 +603,7 @@ article dd{
     margin: 0;
     padding: 0;
     li{
+      font-size: 16px;
       list-style-type: none;
       list-style-image: none;
       overflow: hidden;
@@ -636,8 +636,93 @@ article dd{
 }
 
 
+
+
+
+.dbd-promo{
+  font-size: 16px;
+  border-top: 3px solid $green;
+  border-bottom: 3px solid $green;
+  overflow: hidden;
+  margin-bottom: 2em;
+  p{
+width: 46%;
+margin: 1em 0 1em 0;
+float: left;
+font-size: 19px;
+line-height: 1.5em;
+  }
+  a{
+display: block;
+float: right;
+padding: 1.5em 0 1em 1.5em;
+width: 45%;
+    &:hover{
+      background-color: $light-blue-25;
+    }
+  }
+  img{
+    width: 100%;
+  }
+}
+
+.home {
+  /*
+  h1{
+    width: 40%;
+  }
+  .subtitle {
+    width: 29%;
+  }
+  */
+}
+
+.roles{
+  @include regular-grid(3);
+  a{
+    display: block;
+    padding: 0.5em;
+    background-color: $green;
+    color: white;
+    &:hover{
+      background-color: lighten($green, 10%);
+    }
+  }
+}
+
+.hero.topic{
+  h3{
+    font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 0.5em;
+  }
+  a h3{
+    text-decoration: none;
+  }
+}
+
+
+.topic a[title]:after{
+  content: attr(title);
+  position: absolute;
+  left: 35%;
+  color: #6F777B;
+  text-decoration: none;
+  width: 64%;
+  &:hover{
+    text-decoration: underline;
+  }    
+}
+
 .topic{
   border-top: 3px solid $green;
   border-bottom: 0;
   padding-bottom: 1.5em;
+  p{
+    font-size: 16px;
+    margin-top: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0;
+    border-top: 1px solid #BFC1C3;
+  }
 }

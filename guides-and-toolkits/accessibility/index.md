@@ -1,14 +1,14 @@
 ---
 layout: gsdm
 title: Accessibility
+subtitle: How to make services that everyone can use
 section: guidance
-subsection: Understanding your audience
+type: guide
 status: draft
 ---
 
-* [Accessibility requirements](#accessibility-requirements)
-* [Accessibility statements and policies](#accessibility-statements-and-policies)
-* [Accessibility testing](#accessibility-testing)
+* Table of contents
+{:toc}
 
 #Accessibility requirements
 We build services that are inclusive and easy for people to use. Your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/TR/WCAG/) (WCAG) 2.0 as a starting point.

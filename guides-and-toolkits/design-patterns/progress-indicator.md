@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Progress indicator
-section: guidance
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/progress-indicator.css

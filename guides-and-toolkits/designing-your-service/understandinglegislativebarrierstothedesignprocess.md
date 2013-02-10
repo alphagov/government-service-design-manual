@@ -1,8 +1,10 @@
 ---
 layout: gsdm
 title: Common pitfalls of design
+subtitle: (TO DO)
 section: guidance
-subsection: Designing your service
+audience: 
+  primary: designer
 status: draft
 ---
     

@@ -1,8 +1,11 @@
 ---
 layout: gsdm
-title: Page templates
+title: Templates and code
+subtitle: HTML page templates for GOV.UK
+audience:
+  primary: designer, developer
+type: resource
 section: guidance
-subsection: Designing your service
 status: draft
 ---
     

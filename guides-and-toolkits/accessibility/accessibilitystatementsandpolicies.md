@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Accessibility statements and policies
-section: guidance
 subsection: Accessibility
 status: draft
 ---

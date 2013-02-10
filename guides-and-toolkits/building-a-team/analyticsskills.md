@@ -1,7 +1,6 @@
 ---
 layout: gsdm
 title: Digital analytics team skills
-section: guidance
 subsection: Building a team
 status: draft
 ---
