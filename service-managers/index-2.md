@@ -63,16 +63,7 @@ hero: The Digital by Default Standard
 
 <!--
 <div class="home-page-promos">
-  <div class="topic">
-    <h3>The Digital by Default standard</h3>
-    <ul><li>
-    <a href="guides-and-toolkits/design-principles">This is the standard your service will need to meet before it goes live</a>
-  </li></ul>
-  </div>
-  <div class="topic">
-    <h3>The role of the service manager</h3>
-    <ul><li><a href="guides-and-toolkits/design-principles">What they do and how to be a good one</a></li></ul>
-  </div>
+  
   <div class="topic">
     <h3>Our design principles</h3>
     <ul><li><a href="guides-and-toolkits/design-principles">Everything we make is founded on these ten principles</a></li></ul>

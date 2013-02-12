@@ -23,7 +23,7 @@ The [guides and toolkits](http://gsdm.herokuapp.com/handbook/) are a pool of kno
 
 When it’s released, teams across government will be able to contribute new approaches and tools. For now it’s been populated by GDS staff. 
 
-Not every heading is full of content - around half of the guidance has been returned at time of writing - but if you want to see good examples of guidance then take a look at the pages about [Colour palettes](/guides-and-toolkits/colours).
+Not every heading is full of content - around half of the guidance has been returned at time of writing - but if you want to see good examples of guidance then take a look at the pages about [Colour palettes](/guides/colours).
 
 ##Sending feedback
 
