@@ -50,7 +50,7 @@ Where "lastest version" is listed, it means the lastest stable version plus one 
 
 ####Mobile (and other smaller screen devices)
 * iOS
-* Apple Safari
+  * Apple Safari
 * Android 4.x
 
 whilst ensuring it was at least functional on these operating systems:

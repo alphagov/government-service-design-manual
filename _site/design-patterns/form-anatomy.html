@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
+<!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Anatomy of a form</title>
+
+
+    
+    <!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/static/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/static/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/static/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/static/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><link href="http://static.preview.alphagov.co.uk/static/print.css" media="print" rel="stylesheet" type="text/css">
+<!--[if IE 8]>
+<script type="text/javascript">
+  (function(){if(window.opera){return;}
+  setTimeout(function(){var a=document,g,b={families:(g=
+  ["nta"]),urls:["http://static.preview.alphagov.co.uk/static/fonts-ie8.css"]},
+  c="http://static.preview.alphagov.co.uk/static/libs/goog/webfont-debug.js",d="script",
+  e=a.createElement(d),f=a.getElementsByTagName(d)[0],h=g.length;WebFontConfig
+  ={custom:b},e.src=c,f.parentNode.insertBefore(e,f);for(;h--;a.documentElement
+  .className+=' wf-'+g[h].replace(/\s/g,'').toLowerCase()+'-n4-loading');},0)
+  })()
+</script>
+<![endif]--><!--[if gte IE 9]><!--><link href="http://static.preview.alphagov.co.uk/static/fonts.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]--><script src="http://static.preview.alphagov.co.uk/static/libs/jquery/jquery-1.7.2.js" type="text/javascript"></script><script defer src="http://static.preview.alphagov.co.uk/static/application.js" type="text/javascript"></script><!--[if lt IE 9]>
+      <script src="http://static.preview.alphagov.co.uk/static/ie.js" type="text/javascript"></script>
+    <![endif]--><link rel="shortcut icon" href="http://static.preview.alphagov.co.uk/static/favicon.ico" type="image/x-icon">
+<!-- For third-generation iPad with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-144x144.png">
+<!-- For iPhone with high-resolution Retina display: --><link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-114x114.png">
+<!-- For first- and second-generation iPad: --><link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-72x72.png">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --><link rel="apple-touch-icon-precomposed" href="http://static.preview.alphagov.co.uk/static/apple-touch-icon-57x57.png">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<script src="http://static.preview.alphagov.co.uk/frontend/frontend.js" type="text/javascript"></script>
+
+<link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml">
+<!--[if gt IE 8]><!--><link href="http://static.preview.alphagov.co.uk/frontend/application.css" media="screen" rel="stylesheet" type="text/css">
+<!--<![endif]--><link rel="alternate" type="application/json" href="/api/with_tag.json?tag=find-course">
+<!--[if IE 6]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 7]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--><!--[if IE 8]><link href="http://static.preview.alphagov.co.uk/frontend/application-ie8.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+
+
+
+<link rel="stylesheet" href="/assets/stylesheets/design-patterns/forms.css" />
+
+
+
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
+    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+  </head>
+
+  <body class="mainstream full-width ">
+    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+
+        <!--start header-->
+    <header role="banner" class="group" id="global-header"><div class="header-wrapper group">
+        <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="http://static.preview.alphagov.co.uk/static/gov.uk_logotype-2x.png" alt="GOV.UK Logo"></a>
+
+        <a href="#footer" class="visuallyhidden">Skip to footer navigation</a>
+
+        <a href="#search" class="button search-toggle">Search</a>
+
+        <form id="search" class="site-search" action="/search.html" method="get" role="search">
+          <label for="site-search-text" class="">Search</label>
+          <input type="search" name="q" placeholder="Search GOV.UK" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
+        </form>
+      </div>
+    </header>
+    <!--end header-->
+
+    <div id="wrapper" class="">
+
+      <section id="content" role="main" class="group">
+
+        <div class="js-toggle-nav" id="global-nav">
+          <div class="inner">
+            <span class="home"><a href="/" >Government Service Design Manual<small>alpha</small></a></span>
+            <nav role="navigation" class="content">
+              <ul id="navigation">
+                <li><a href="/digital-by-default" >Digital by Default Standard</a></li>
+                <li><a href="/about" >About the manual</a></li>
+                <li><a href="/feedback" >Feedback</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+
+        <header class="page-header group">
+          <!--
+        
+      -->
+
+        <hgroup><h1>Anatomy of a form</h1></hgroup></header><div class="article-container group">
+        <article role="article" class="group">
+          <div class="inner">
+              
+
+              <p>Examples, markup and styles for most basic form elements.</p>
+
+<div class="page-contents">
+  <h2>On this page:</h2>
+  <ul>
+    <li><a href="#styling-forms">Styling forms</a></li>
+    <li><a href="#basic-structure">Basic structure</a></li>
+    <li><a href="#radio-buttons-and-checkboxes">Radio buttons and checkboxes</a></li>
+    <li><a href="#aligning-controls-in-a-row">Aligning controls in a row</a></li>
+    <li><a href="#fieldsets-and-legends">Fieldsets and legends</a></li>
+    <li><a href="#nested-fieldsets">Nested fieldsets</a></li>
+    <li><a href="#hints">Hints</a></li>
+    <li><a href="#hidden-labels">Hidden labels</a></li>
+    <li><a href="#buttons">Buttons</a></li>
+    <li><a href="#validation-messages">Validation messages</a></li>
+    <li><a href="#putting-it-all-together">Putting it all together</a></li>
+    <li><a href="#rationale">Rationale</a></li>
+  </ul>
+</div>
+
+<h1 id="styling-forms">Styling forms</h1>
+
+<p>The <a href="https://github.com/alphagov/prototyping/blob/master/_includes/scss/design-patterns/_forms.scss">forms mixin</a> provides a configurable framework for styling basic forms.</p>
+
+<p>Use it in your Sass like this: <code>.form-example-1 { @include form }</code></p>
+
+<p>The mixin accepts the following arguments:</p>
+
+<p><code>$label-alignment</code> top, left or right. Default is top.</p>
+
+<p><code>$label-width</code> a value in em. Default is 8em.</p>
+
+<p><code>$legend-colour</code> a colour value or variable. Default is $text-colour.</p>
+
+<p>To see these in action, check out the <a href="registration-form.html">registration form example</a></p>
+
+<div class="application-notice info-notice">
+<p>Note - the forms CSS is pretty large. You don't really want to be including it more than once in the same file.</p>
+</div>
+
+<h1 id="basic-structure">Basic structure</h1>
+
+<p>Wrap each control in an element with a class of ‘group’.</p>
+
+<div class="pattern-example">
+  <div class="inner">
+
+    <div class="form-example-1">
+      <p class="group">
+        <label for="label">Label</label>
+        <input id="label" type="text" />
+      </p>
+    </div>
+
+  </div>
+  <pre><code>  &lt;p class="group"&gt;
+    &lt;label for="label"&gt;Label&lt;/label&gt;
+    &lt;input id="label" type="text"&gt;
+  &lt;/p&gt;
+</code></pre>
+</div>
+
+<h1 id="radio-buttons-and-checkboxes">Radio buttons and checkboxes</h1>
+
+<p>Wrap the radio or checkbox in its label and wrap the whole thing in an ‘option group’ element.</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+      <p class="option group">
+        <label for="checkbox1"><input id="checkbox1" type="checkbox" /> Job offers</label>
+        <label for="checkbox2"><input id="checkbox2" type="checkbox" /> Networking</label>
+        <label for="checkbox3"><input id="checkbox3" type="checkbox" /> Business opportunities</label>
+      </p>
+
+    </div>
+  </div>
+  <pre><code>      &lt;p class="option group"&gt;
+        &lt;label for="checkbox1"&gt;&lt;input  id="checkbox1"type="checkbox"&gt; Job offers&lt;/label&gt;
+        &lt;label for="checkbox2"&gt;&lt;input  id="checkbox2"type="checkbox"&gt; Networking&lt;/label&gt;
+        &lt;label for="checkbox2"&gt;&lt;input  id="checkbox3"type="checkbox"&gt; Business opportunities&lt;/label&gt;
+      &lt;/p&gt;
+</code></pre>
+
+<p>or use a list&hellip;</p>
+
+<pre><code>      &lt;ul class="option group"&gt;
+        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Job offers&lt;/label&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Networking&lt;/label&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Business opportunities&lt;/label&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+</code></pre>
+</div>
+
+<h1 id="aligning-controls-in-a-row">Aligning controls in a row</h1>
+
+<p>You might occasionally need to arrange form controls in a row. To do this, wrap the controls in an
+‘inline group’ element. For example:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+        <fieldset>
+          <legend><span>Gender</span></legend>
+          <p class="inline option group">
+            <label for="male"><input id="male" type="radio" name="gender" /> Male</label>
+            <label for="female"><input id="female" type="radio" name="gender" /> Female</label>
+          </p>
+        </fieldset>
+
+    </div>
+  </div>
+<pre><code>    &lt;fieldset&gt;
+      &lt;legend&gt;&lt;span&gt;Gender&lt;/span&gt;&lt;/legend&gt;
+      &lt;p class="inline option group"&gt;
+        &lt;label for="male"&gt;&lt;input  id="male" type="radio" name="gender"&gt; Male&lt;/label&gt;
+        &lt;label for="female"&gt;&lt;input  id="female" type="radio" name="gender"&gt; Female&lt;/label&gt;
+      &lt;/p&gt;
+    &lt;/fieldset&gt;
+</code></pre>
+</div>
+
+<h1 id="fieldsets-and-legends">Fieldsets and legends</h1>
+
+<p>Use these to break up forms into logical sections</p>
+
+<div class="pattern-example">
+  <div class="inner">
+
+    <div class="form-example-1">
+
+        <fieldset>
+          <legend>Name</legend>
+          <p class="group">
+            <label for="first-name">First name</label>
+            <input id="first-name" type="text" class="name" />
+          </p>
+          <p class="group">
+            <label for="last-name">Last name</label>
+            <input id="last-name" type="text" class="name" />
+          </p>
+        </fieldset>
+
+    </div>
+
+  </div>
+  <pre><code>    &lt;fieldset&gt;
+      &lt;legend&gt;Name&lt;/legend&gt;
+      &lt;p class="group"&gt;
+        &lt;label for="first-name"&gt;First name&lt;/label&gt;
+        &lt;input id="first-name" type="text" class="name"&gt;
+      &lt;/p&gt;
+      &lt;p class="group"&gt;
+        &lt;label for="last-name"&gt;Last name&lt;/label&gt;
+        &lt;input id="last-name" type="text" class="name"&gt;
+      &lt;/p&gt;
+    &lt;/fieldset&gt;
+</code></pre>
+</div>
+
+<h1 id="nested-fieldsets">Nested fieldsets</h1>
+
+<p>There are times when you might want to treat a set of form controls like they were a single, compound control 
+(a date-of-birth selector for example). One way to do this is with a nested fieldset. On GOV.UK, when you
+nest a fieldset inside another, the legend is styled like a label.</p>
+
+<div class="application-notice info-notice">
+<p>Note - if you're planning on doing this with left or right aligned form labels you'll need to wrap your
+legend text in a span. Blame inconsistent and generally poor support for legend positioning in browsers.</p>
+</div>
+
+<p>Here’s an example:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+
+    <div id="form-example-2" class="left">
+
+      <fieldset>
+        <legend>Your details</legend>
+        <p class="group">
+          <label for="full-name">Full name</label>
+          <input id="full-name" type="text" class="full-name" />
+        </p>
+        <fieldset>
+          <legend><span>Date of birth</span></legend>
+          <div class="inline group">
+            <p class="group">
+              <label for="day" class="visuallyhidden">Day</label>
+              <select id="day" type="text">
+                <option value="Day">Day</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+            <p class="group">
+              <label for="month" class="visuallyhidden">Month</label>
+              <select id="month" type="text">
+                <option value="Month">Month</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+            <p class="group">
+              <label for="year" class="visuallyhidden">Year</label>
+              <select id="year" type="text">
+                <option value="Year">Year</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+          </div>
+        </fieldset>
+      </fieldset>
+
+    </div>
+
+  </div>
+  <pre><code>  &lt;fieldset&gt;
+    &lt;legend&gt;Your details&lt;/legend&gt;
+    &lt;p class="group"&gt;
+      &lt;label for="full-name"&gt;Full name&lt;/label&gt;
+      &lt;input id="full-name" type="text" class="full-name"&gt;
+    &lt;/p&gt;
+    &lt;fieldset&gt;
+      &lt;legend&gt;&lt;span&gt;Date of birth&lt;/span&gt;&lt;/legend&gt;
+      &lt;div class="inline group"&gt;
+        &lt;p class="group"&gt;
+          &lt;label for="day" class="visuallyhidden"&gt;Day&lt;/label&gt;
+          &lt;select id="day" type="text"&gt;
+            &lt;option value="Day"&gt;Day&lt;/option&gt;
+            &lt;!-- Other options go here --&gt;
+          &lt;/select&gt;
+        &lt;/p&gt;
+        &lt;p class="group"&gt;
+          &lt;label for="month" class="visuallyhidden"&gt;Month&lt;/label&gt;
+          &lt;select id="month" type="text"&gt;
+            &lt;option value="Month"&gt;Month&lt;/option&gt;
+            &lt;!-- Other options go here --&gt;
+          &lt;/select&gt;
+        &lt;/p&gt;
+        &lt;p class="group"&gt;
+          &lt;label for="year" class="visuallyhidden"&gt;Year&lt;/label&gt;
+          &lt;select id="year" type="text"&gt;
+            &lt;option value="Year"&gt;Year&lt;/option&gt;
+            &lt;!-- Other options go here --&gt;
+          &lt;/select&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/fieldset&gt;
+  &lt;/fieldset&gt;
+</code></pre>
+</div>
+
+<h1 id="hints">Hints</h1>
+
+<p>Hints can be placed above or below the relevant control, like this:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+      <p class="group">
+        <label for="telephone">Telephone</label>
+        <input id="telephone" type="text" class="telephone" />
+        <span class="hint">Include your country code</span>
+      </p>
+
+      <p class="group">
+        <label for="telephone">Code</label>
+        <input id="telephone" type="text" class="telephone" />
+        <span class="inline hint">The three numbers on the back of the card</span>
+      </p>
+
+    </div>
+  </div>
+  <pre><code>  &lt;p class="group"&gt;
+    &lt;label for="telephone"&gt;Telephone&lt;/label&gt;
+    &lt;input id="telephone" type="text" class="telephone"&gt;
+    &lt;span class="hint"&gt;Include your country code&lt;/span&gt;
+  &lt;/p&gt;
+</code></pre>
+</div>
+
+<h1 id="hidden-labels">Hidden labels</h1>
+
+<p>Use the ‘visuallyhidden’ class to hide labels (you need a good reason to do this though).</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+      <p class="group">
+        <label for="street1">Street</label>
+        <input id="street1" type="text" class="street" />
+      </p>
+      <p class="group">
+        <label for="street2" class="visuallyhidden">Street line two</label>
+        <input id="street2" type="text" class="street" />
+      </p>
+      <p class="group">
+        <label for="town">Town/City</label>
+        <input id="town" type="text" class="town" />
+      </p>
+      <p class="group">
+        <label for="postcode">Postcode</label>
+        <input id="postcode" type="text" class="postcode" />
+      </p>
+
+    </div>
+  </div>
+  <pre><code>  &lt;p class="group"&gt;
+    &lt;label for="street1"&gt;Street&lt;/label&gt;
+    &lt;input id="street1" type="text" class="street"&gt;
+  &lt;/p&gt;
+  &lt;p class="group"&gt;
+    &lt;label for="street2" class="visuallyhidden"&gt;Street line two&lt;/label&gt;
+    &lt;input id="street2" type="text" class="street"&gt;
+  &lt;/p&gt;
+  &lt;p class="group"&gt;
+    &lt;label for="town"&gt;Town/City&lt;/label&gt;
+    &lt;input id="town" type="text" class="town"&gt;
+  &lt;/p&gt;
+  &lt;p class="group"&gt;
+    &lt;label for="postcode"&gt;Postcode&lt;/label&gt;
+    &lt;input id="postcode" type="text" class="postcode"&gt;
+  &lt;/p&gt;
+</code></pre>
+</div>
+
+<h1 id="buttons">Buttons</h1>
+
+<p>Nest rows of buttons in an ‘action group’ element.</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+        <p class="action group">
+          <input class="btn" type="submit" value="Submit" />
+          <input class="btn-secondary" type="submit" value="Cancel" />
+        </p>
+
+    </div>
+  </div>
+<pre><code>    &lt;p class="action group"&gt;
+      &lt;input class="btn" type="submit" value="Submit"&gt;
+      &lt;input class="btn-secondary" type="submit" value="Cancel"&gt;
+    &lt;/p&gt;
+</code></pre>
+</div>
+
+<h1 id="validation-messages">Validation messages</h1>
+
+<p>Summarise any validation errors at the top of your page like this:</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+      <div class="validation-summary">
+        <h1>Please check the form</h1>
+        <ul>
+          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error2">Select at least one area of interest</a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+  <pre><code>&lt;div class="validation-summary"&gt;
+  &lt;h1&gt;Please check the form&lt;/h1&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="#error1"&gt;Confirm your email address&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="#error2"&gt;Select at least one area of interest&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</code></pre>
+</div>
+
+<p>Each link should jump the user down to the corresponding form control. Add a ‘validation’ class to the control group and insert a ‘validation-message’ element.</p>
+
+<div class="pattern-example">
+  <div class="inner">
+    <div class="form-example-1">
+
+      <p class="validation group">
+        <span class="validation-message" id="error1">Confirm your email address</span>
+        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <input id="email-confirm" type="text" class="email" />
+      </p>
+
+    </div>
+  </div>
+  <pre><code>&lt;p class="validation group"&gt;
+  &lt;span class="validation-message" id="error1"&gt;Confirm your email address&lt;/span&gt;
+  &lt;label for="email-confirm"&gt;Confirm email &lt;abbr title="Mandatory"&gt;*&lt;/abbr&gt;&lt;/label&gt;
+  &lt;input id="email-confirm" type="text" class="email"&gt;
+&lt;/p&gt;
+</code></pre>
+</div>
+
+<h1 id="cross-browser-support">Cross browser support</h1>
+
+<ul>
+  <li>Chrome: No problems</li>
+  <li>IE 8: V-aligned - all good</li>
+  <li>IE 8: H-aligned - slightly ragged alignment</li>
+  <li>IE 7: Nested fieldsets - legends are hidden in H-aligned forms</li>
+  <li>IE 7: Validated option groups - lots of extra left padding</li>
+  <li>IE 6: Option groups are aligning horizontally in vertically-aligned forms</li>
+  <li>IE 6: Nested fieldsets layout is broken and legends are hidden</li>
+  <li>IE 6: Labels with nested controls need ‘for’ attributes to work</li>
+</ul>
+
+<h1 id="putting-it-all-together">Putting it all together</h1>
+
+<p>To see all the examples above in a single form, check out the <a href="contact-form.html">contact form example</a>.</p>
+
+<h1 id="rationale">Rationale</h1>
+
+<h2 id="text-input-fields">Text input fields</h2>
+
+<ul>
+  <li>Light grey background: To make them stand out equally on a white page or coloured panel</li>
+  <li>Inset border style: By convention people type into ‘holes’ cut into the interface</li>
+</ul>
+
+<h2 id="label-positioning">Label positioning</h2>
+
+<p>The framework provides support for top, left or right alignment because there are valid cases for the use of all three. The table below (from a <a href="http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/">great article on form design</a> in Smashing Magazine) outlines the relative advantages of each approach:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Top</th>
+      <th>Right</th>
+      <th>Left</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Speed of completion</td>
+      <td>Fastest</td>
+      <td> </td>
+      <td>Slowest</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Horizontal space required</td>
+      <td>Least</td>
+      <td> </td>
+      <td>Most</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Vertical space required</td>
+      <td>Most</td>
+      <td> </td>
+      <td>Least</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Label text space available</td>
+      <td>Most</td>
+      <td> </td>
+      <td>Least</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Proximity to input</td>
+      <td>Closest</td>
+      <td> </td>
+      <td>Least close</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>User eye movement</td>
+      <td>Down</td>
+      <td>Down + right</td>
+      <td>Down + right</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Time to move from label to input</td>
+      <td>50ms</td>
+      <td>240ms</td>
+      <td>500ms</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>Ideal for…</td>
+      <td>Simple forms</td>
+      <td>Less simple forms</td>
+      <td>Complex forms</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="validation-messages-1">Validation messages</h2>
+
+<p>When a form is submitted, any validation messages are summarised at the top of the page.
+The messages link down to the part of the form they relate to.
+This helps users of assistive technology navigate around the form.</p>
+
+<p>The red bar connects the summary to the messages in the form and aids quick scanning of the form for errors.</p>
+
+<script>
+  $(function() {
+
+    // Style toggle for pattern examples
+    // Takes the text of the clicked 'option' and assigns it as
+    // a class to the element named in the 'data-for' attribute
+    $('.class-toggle .option').click(function(){
+      $('.class-toggle .option').removeClass('selected');
+      $(this).addClass('selected');
+      var selectedClass = $(this).text();
+      var selectedElement = "#" + $(this).parents('.class-toggle').data("for");
+      $(selectedElement).removeClass().addClass(selectedClass);
+      return false;
+    });
+
+
+
+  });
+</script>
+
+
+            </div>
+            </article>
+          </div>
+      </section>
+    </div><!--end wrapper-->
+    <footer class="group" id="footer" role="contentinfo">
+      <div class="footer-wrapper">
+        <nav class="footer-categories"><h2>Explore GOV.UK</h2>
+
+          <ul>
+<li><a href="/browse/driving">Driving, transport, and travel</a></li>
+            <li><a href="/browse/business">Businesses and self-employed</a></li>
+            <li><a href="/browse/education">Education and learning</a></li>
+            <li><a href="/browse/housing">Housing and local services</a></li>
+            <li><a href="/browse/justice">Crime, justice and the law</a></li>
+            <li><a href="/browse/tax">Money and tax</a></li>
+          </ul>
+<ul>
+<li><a href="/browse/benefits">Benefits</a></li>
+            <li><a href="/browse/employing-people">Employing people</a></li>
+            <li><a href="/browse/working">Working, jobs and pensions</a></li>
+            <li><a href="/browse/citizenship">Citizenship and life in the UK</a></li>
+            <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages, parenting and care</a></li>
+          </ul>
+<div class="copyright">
+            <a href="http://www.nationalarchives.gov.uk/information-management/our-services/crown-copyright.htm">&copy; Crown Copyright</a>
+          </div>
+        </nav><div class="footer-meta">
+          <ul>
+<li><a href="/help">Help</a></li>
+            <li><a href="/help/cookies">Cookies</a></li>
+            <li><a href="/feedback">Feedback</a></li>
+          </ul>
+<div class="colophon">Built by the <a href="http://digital.cabinetoffice.gov.uk/">Government Digital Service</a>
+</div>
+          <p>Where indicated, content is available under the <a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/">Open Government Licence</a></p>
+
+        </div>
+      </div>
+    </footer>
+
+
+    <script type="text/javascript">
+      // jQuery(function ($) {
+      //   $('.inner').annotator()
+      //              .annotator('setupPlugins');
+      // });
+    </script>
+  </body>
+</html>

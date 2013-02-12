@@ -1,0 +1,697 @@
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/*
+ * Old green: 28a198
+ * New green: 008270
+ */
+/* buttons! */
+/* line 12, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button,
+.button:visited {
+  display: inline;
+  border: none;
+  text-decoration: none;
+  position: relative;
+  top: -3px;
+  line-height: 1.25;
+  -webkit-box-shadow: 0 2px 0 black;
+  -moz-box-shadow: 0 2px 0 black;
+  box-shadow: 0 2px 0 black; }
+
+/* line 25, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button:active,
+.button:focus {
+  background-color: #28A197; }
+
+/* line 30, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button,
+.button.medium {
+  padding: 0.25em 0.5em; }
+
+/* line 34, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button.medium {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 19px;
+  font-size: 1.9rem;
+  line-height: 1.36842;
+  font-weight: 400;
+  text-transform: none; }
+  @media (max-width: 640px) {
+    /* line 34, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .button.medium {
+      font-size: 1.6rem;
+      line-height: 1.25; } }
+
+/* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button .call-to-action,
+.get-started .button.big,
+.button,
+.button:visited {
+  background-color: #008270;
+  color: #fff;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 3px 0 black;
+  -moz-box-shadow: 0 3px 0 black;
+  box-shadow: 0 3px 0 black;
+  font-weight: 300; }
+
+/* line 55, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button:hover span.call-to-action,
+.get-started .button.big:hover,
+.button:hover {
+  background-color: #3ABAA8;
+  color: #fff; }
+
+/* line 62, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.button:active,
+.button.big:active,
+.button:active span.call-to-action {
+  -webkit-transform: translate(0, 3px);
+  -moz-transform: translate(0, 3px);
+  -o-transform: translate(0, 3px);
+  transform: translate(0, 3px);
+  box-shadow: none;
+  outline: none; }
+
+/* line 73, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started .button .call-to-action,
+.get-started .button.big,
+#search .button.big {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 0.66667;
+  font-weight: 400;
+  text-transform: none;
+  padding: 0.45em 1.7em 0.45em 0.5em;
+  background-image: image-url("icon-pointer.png");
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  display: inline-block; }
+  @media (max-width: 640px) {
+    /* line 73, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button .call-to-action,
+    .get-started .button.big,
+    #search .button.big {
+      font-size: 2rem;
+      line-height: 1.2; } }
+
+/* get started buttons */
+/* line 83, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+.get-started {
+  margin: 1.5em 0 0 0;
+  text-align: right; }
+  /* line 87, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  .get-started .button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: transparent;
+    box-shadow: none;
+    text-align: left;
+    /* 
+     * In selectors such as .get-started .button.big the chained .button.big is read as
+     * .big by IE6 (see http://www.maxdesign.com.au/articles/multiple-classes/)
+     * This means it no longer has the precedence given by 2 classes and gets overwritten
+     * by the .get-started .button classes that follow.
+     * Just for IE6, add styles to this block to re-assert the styles after those that overwrite.
+    */ }
+    /* line 94, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button:active {
+      /* 
+       * this compensates for this style being pushed down twice by keeping 
+       * the inner span still 
+       */
+      /* this compensates for the whole thing being pushed down by pushing back up */ }
+      /* line 99, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      .get-started .button:active .call-to-action {
+        -webkit-transform: translate(0, 0);
+        -moz-transform: translate(0, 0);
+        -o-transform: translate(0, 0);
+        transform: translate(0, 0); }
+      /* line 107, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      .get-started .button:active .destination {
+        -webkit-transform: translate(0, -3px);
+        -moz-transform: translate(0, -3px);
+        -o-transform: translate(0, -3px);
+        transform: translate(0, -3px); }
+    /* line 115, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button span {
+      cursor: pointer; }
+    /* line 119, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+    .get-started .button .destination {
+      font-family: "nta", "GDS-Regular", sans-serif;
+      font-size: 14px;
+      font-size: 1.4rem;
+      line-height: 1.42857;
+      font-weight: 400;
+      -webkit-font-smoothing: subpixel-antialiased;
+      text-transform: none;
+      color: #333;
+      display: block;
+      margin-top: 0.5em;
+      max-width: 13em; }
+      @media (max-width: 640px) {
+        /* line 119, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+        .get-started .button .destination {
+          font-size: 1.2rem;
+          line-height: 1.25; } }
+
+/* line 167, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+a.button[rel="external"]:after {
+  content: none;
+  margin-left: 0;
+  margin-right: 0; }
+
+/* line 173, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+input {
+  /* below fixes a bug where IE puts a nasty black border around these elements */ }
+  /* line 174, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  input[disabled="disabled"] {
+    opacity: 0.5; }
+  /* line 179, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+  input[type="text"], input[type="search"] {
+    font-family: "nta", "GDS-Regular", sans-serif;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.25;
+    font-weight: 300;
+    text-transform: none;
+    border: 1px solid #bbbbbb;
+    min-width: 8em;
+    margin: 0 0.5em;
+    padding: 0.25em; }
+    @media (max-width: 640px) {
+      /* line 179, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/_buttons.scss */
+      input[type="text"], input[type="search"] {
+        font-size: 1.4rem;
+        line-height: 1.14286; } }
+
+/* Example use:
+    <details>
+      <summary>Wanna know more?</sumary>
+      <p>Of course you do!</p>
+    </details>
+*/
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+/* Cross-browser shims
+
+  Ways of normalising properties across browsers.
+ */
+/* Usage:
+   @include inline-block
+
+   or
+
+   @include inline-block("250px")
+
+   which gives a min-height to the inline-block elements.
+*/
+/* Contain floats usage:
+
+   .this-has-floated-children {
+     @extend %contain-floats;
+   }
+
+*/
+/* Example use:
+    <details>
+      <summary>Wanna know more?</sumary>
+      <p>Of course you do!</p>
+    </details>
+*/
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn {
+  background: #006435;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #00180c;
+  -moz-box-shadow: 0 2px 0 #00180c;
+  box-shadow: 0 2px 0 #00180c;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: white; }
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:hover, .btn:focus {
+    background: #004b27; }
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #006435;
+    -moz-box-shadow: 0 0 0 #006435;
+    box-shadow: 0 0 0 #006435; }
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn.disabled:hover {
+      cursor: default;
+      background-color: #006435; }
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #00180c;
+      -moz-box-shadow: 0 0.2em 0 #00180c;
+      box-shadow: 0 0.2em 0 #00180c; }
+  /* line 43, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn:hover, .btn:focus, .btn:visited {
+    color: white; }
+
+/* line 415, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn-secondary {
+  background: #dee0e2;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #b5babe;
+  -moz-box-shadow: 0 2px 0 #b5babe;
+  box-shadow: 0 2px 0 #b5babe;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: #0b0c0c; }
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:hover, .btn-secondary:focus {
+    background: #d0d3d6; }
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #dee0e2;
+    -moz-box-shadow: 0 0 0 #dee0e2;
+    box-shadow: 0 0 0 #dee0e2; }
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-secondary.disabled:hover {
+      cursor: default;
+      background-color: #dee0e2; }
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-secondary.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #b5babe;
+      -moz-box-shadow: 0 0.2em 0 #b5babe;
+      box-shadow: 0 0.2em 0 #b5babe; }
+  /* line 50, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:visited {
+    color: #0b0c0c; }
+
+/* line 418, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
+.btn-warning {
+  background: #b10e1e;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: 0 2px 0 #6a0812;
+  -moz-box-shadow: 0 2px 0 #6a0812;
+  box-shadow: 0 2px 0 #6a0812;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.35em 0.5em 0.15em 0.5em;
+  position: relative;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  color: white; }
+  /* line 19, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:hover, .btn-warning:focus {
+    background: #990c1a; }
+  /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:active {
+    top: 2px;
+    -webkit-box-shadow: 0 0 0 #b10e1e;
+    -moz-box-shadow: 0 0 0 #b10e1e;
+    box-shadow: 0 0 0 #b10e1e; }
+  /* line 26, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning.disabled {
+    opacity: 0.5; }
+    /* line 28, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-warning.disabled:hover {
+      cursor: default;
+      background-color: #b10e1e; }
+    /* line 32, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+    .btn-warning.disabled:active {
+      top: 0;
+      -webkit-box-shadow: 0 0.2em 0 #6a0812;
+      -moz-box-shadow: 0 0.2em 0 #6a0812;
+      box-shadow: 0 0.2em 0 #6a0812; }
+  /* line 43, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_buttons.scss */
+  .btn-warning:hover, .btn-warning:focus, .btn-warning:visited {
+    color: white; }
+
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+/* line 19 */
+html {
+  font-size: 62.5%; }
+
+/* line 23 */
+html, body, h0, h1, h2, h3, h4, h5, h6, p {
+  display: block;
+  padding: 0;
+  margin: 0; }
+
+/* line 29 */
+p {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 1.45;
+  font-weight: 400;
+  -webkit-font-smoothing: subpixel-antialiased;
+  letter-spacing: 0;
+  text-transform: none;
+  color: #444; }
+
+@media (max-width: 640px) {
+  /* line 41 */
+  p {
+    font-size: 1.3rem;
+    line-height: 1.1538461538; } }
+/* line 48 */
+.heading h0 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 80px;
+  font-size: 8rem;
+  line-height: 1;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-indent: -0.04em;
+  padding-top: 6px;
+  padding-top: 0.6rem;
+  padding-bottom: 14px;
+  padding-bottom: 1.4rem; }
+
+@media (max-width: 640px) {
+  /* line 63 */
+  .heading h0 {
+    font-size: 5.3rem;
+    line-height: 1.0377358491; } }
+@media (max-width: 640px) {
+  /* line 69 */
+  .heading h0 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem; } }
+/* line 76 */
+.heading h1 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 48px;
+  font-size: 4.8rem;
+  line-height: 1.04167;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-indent: -0.04em;
+  padding-top: 7px;
+  padding-top: 0.7rem;
+  padding-bottom: 13px;
+  padding-bottom: 1.3rem; }
+
+@media (max-width: 640px) {
+  /* line 91 */
+  .heading h1 {
+    font-size: 3.2rem;
+    line-height: 1.1; } }
+@media (max-width: 640px) {
+  /* line 97 */
+  .heading h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem; } }
+/* line 103 */
+.heading h2 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 36px;
+  font-size: 3.6rem;
+  line-height: 1.1111111111;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-indent: -0.04em;
+  padding-top: 6px;
+  padding-top: 0.6rem;
+  padding-bottom: 9px;
+  padding-bottom: 0.9rem; }
+
+@media (max-width: 640px) {
+  /* line 118 */
+  .heading h2 {
+    font-size: 2.4rem;
+    line-height: 1.0416666667; } }
+@media (max-width: 640px) {
+  /* line 124 */
+  .heading h2 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem; } }
+/* line 130 */
+.heading h3 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 27px;
+  font-size: 2.7rem;
+  line-height: 1.11112;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-indent: -0.04em;
+  padding-top: 4px;
+  padding-top: 0.4rem;
+  padding-bottom: 6px;
+  padding-bottom: 0.6rem; }
+
+@media (max-width: 640px) {
+  /* line 145 */
+  .heading h3 {
+    font-size: 1.8rem;
+    line-height: 1.1111111111; } }
+@media (max-width: 640px) {
+  /* line 151 */
+  .heading h3 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem; } }
+/* line 157 */
+.heading h4 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 1.25;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  text-indent: -0.04em;
+  padding-top: 6px;
+  padding-top: 0.6rem;
+  padding-bottom: 14px;
+  padding-bottom: 0.4rem; }
+
+@media (max-width: 640px) {
+  /* line 172 */
+  .heading h4 {
+    font-size: 1.6rem;
+    line-height: 1.25; } }
+@media (max-width: 640px) {
+  /* line 178 */
+  .heading h4 {
+    padding-top: 0.9rem;
+    padding-bottom: 0.6rem; } }
+/* line 185 */
+.copy h4 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 1.25;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  padding-top: 6px;
+  padding-top: 0.6rem;
+  padding-bottom: 4px;
+  padding-bottom: 0.4rem; }
+
+@media (max-width: 640px) {
+  /* line 199 */
+  .copy h4 {
+    font-size: 1.6rem;
+    line-height: 1.25; } }
+@media (max-width: 640px) {
+  /* line 205 */
+  .copy h4 {
+    padding-top: 0.9rem;
+    padding-bottom: 0.6rem; } }
+/* line 211 */
+.copy h5 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 19px;
+  font-size: 1.9rem;
+  line-height: 1.31579;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  padding-top: 0;
+  padding-bottom: 5px;
+  padding-bottom: 0.5rem; }
+
+@media (max-width: 640px) {
+  /* line 224 */
+  .copy h5 {
+    font-size: 1.3rem;
+    line-height: 1.1538461538; } }
+@media (max-width: 640px) {
+  /* line 230 */
+  .copy h5 {
+    padding-top: 0.2rem;
+    padding-bottom: 0.8rem; } }
+/* line 237 */
+.pullout-aside h6 {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1.25;
+  font-weight: 300;
+  letter-spacing: 0;
+  text-transform: none;
+  padding-top: 5px;
+  padding-top: 0.5rem;
+  padding-bottom: 5px;
+  padding-bottom: 0.5rem; }
+
+@media (max-width: 640px) {
+  /* line 251 */
+  .pullout-aside h6 {
+    font-size: 1.3rem;
+    line-height: 1.1538461538; } }
+@media (max-width: 640px) {
+  /* line 257 */
+  .pullout-aside h6 {
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem; } }
+/* line 264 */
+.caption-button p {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 1.4285714286;
+  font-weight: 400;
+  -webkit-font-smoothing: subpixel-antialiased;
+  letter-spacing: 0;
+  text-transform: none;
+  padding-top: 5px;
+  padding-top: 0.5rem;
+  padding-bottom: 5px;
+  padding-bottom: 0.5rem; }
+
+@media (max-width: 640px) {
+  /* line 279 */
+  .caption-button p {
+    font-size: 1.2rem;
+    line-height: 1.25; } }
+@media (max-width: 640px) {
+  /* line 285 */
+  .caption-button p {
+    padding-top: 0.8rem;
+    padding-bottom: 0.7rem; } }
+/* line 291 */
+#no-baseline {
+  float: left;
+  width: 45%;
+  padding: 0 2.5% 20px; }
+
+/* line 304 */
+#no-baseline h0,
+#no-baseline h1,
+#no-baseline h2,
+#no-baseline h3,
+#no-baseline h4,
+#no-baseline h5,
+#no-baseline h6,
+#no-baseline .caption-button p {
+  margin-top: 20px; }
+
+/* line 308 */
+#baseline {
+  float: left;
+  width: 45%;
+  padding: 0 2.5% 20px;
+  background-position: top left;
+  background-image: -webkit-linear-gradient(transparent 4px, #eeeeee 1px);
+  background-size: 100% 5px; }
+
+/* line 324 */
+#baseline h0,
+#baseline h1,
+#baseline h2,
+#baseline h3,
+#baseline h4,
+#baseline h5,
+#baseline h6,
+#baseline .caption-button p {
+  margin-top: 20px;
+  background: rgba(0, 0, 255, 0.1); }
