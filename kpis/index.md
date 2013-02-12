@@ -35,3 +35,9 @@ status: draft
 # Setting a baseline
 
 [Setting a baseline](settingabaseline.html)
+
+# Incorporating data into design
+
+[Incorporating data into design](incorporatingdataintodesign.html)
+
+

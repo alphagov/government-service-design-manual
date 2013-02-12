@@ -25,6 +25,7 @@ status: draft
 * [Buttons](buttons.html)
 * [Emphasised form controls](emphasised-form-controls.html)
 * [Hidden form controls](hidden-form-controls.html)
+* [Error messages](errormessages.html)
 * [Example: Registration form](registration-form.html)
 
 ## Content
