@@ -2,7 +2,7 @@
 <!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
 <!--<![endif]--><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>The Digital by Default Standard</title>
+<title>Open standards and licensing</title>
 
 
     
@@ -48,7 +48,7 @@
     <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
-  <body class="mainstream full-width dbd">
+  <body class="mainstream full-width guidance">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
         <!--start header-->
@@ -76,7 +76,7 @@
             <span class="home"><a href="/" >Government Service Design Manual<small>alpha</small></a></span>
             <nav role="navigation" class="content">
               <ul id="navigation">
-                <li><a href="/digital-by-default" class="current">Digital by Default Standard</a></li>
+                <li><a href="/digital-by-default" >Digital by Default Standard</a></li>
                 <li><a href="/about" >About the manual</a></li>
                 <li><a href="/feedback" >Feedback</a></li>
               </ul>
@@ -88,66 +88,79 @@
         <header class="page-header group">
           <!--
         
+            <div class="breadcrumb">
+              <li>
+                <a href="/guides">Guides and toolkits</a>
+              </li>
+              <li>
+                <span class="divider">/</span>
+                <a href="./"></a>
+              </li>
+            </div>
+        
       -->
 
-        <hgroup><h1>The Digital by Default Standard</h1></hgroup></header><div class="article-container group">
+        <hgroup><h1>Open standards and licensing</h1></hgroup></header><div class="article-container group">
         <article role="article" class="group">
           <div class="inner">
               
-                <p class="subtitle">Services so good that people prefer to use them</p>
-              
 
-              <div class="standard-intro">
-  <img src="../assets/images/DbD-kitemark.png" alt="Digital by Default service standard" />
+              <h1 id="open-standards-and-licensing">Open standards and licensing</h1>
+<p>Herein, best practice and considerations for using open standards and using, publishing and contributing to free and open source software (<a href="http://en.wikipedia.org/wiki/Free_and_open-source_software">FOSS</a>).
+Please note, this is for guidance purposes only, and should not be taken as <a href="http://en.wikipedia.org/wiki/IANACL">legal advice</a>.</p>
 
-  <p>All new or redesigned transactional services going live after <br> April 2014 must meet the Digital by Default service standard.</p>
-</div>
+<h2 id="guidance">Guidance</h2>
+<p>Preference should be given to using open standards with the broadest remit over local standards
+as prescribed in the <a href="http://consultation.cabinetoffice.gov.uk/openstandards/">consultation on open standards</a></p>
 
-<div class="standard">
-<h2>Each Digital by Default service is:</h2>
+<p>As with any software, using open source comes with an obligation to follow the terms of the software licence.
+FOSS differs from <a href="http://en.wikipedia.org/wiki/Proprietary_software">proprietary software</a> in that the source code may be modified,
+in which case the licence may demand any derived code be republished with [attribution](http://en.wikipedia.org/wiki/Attribution_(copyright),
+and under the same terms of the original licence, sometimes called <a href="http://en.wikipedia.org/wiki/Copyleft">copyleft</a>.
+These obligations may introduce difficulties when mixing open source software with closed source software, particularly
+when combining <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> software with software developed behind closed doors
+or using <a href="http://www.gnu.org/licenses/agpl-3.0.html">GNU AFFERO</a> licensed software in proprietary services.
+These risks may be mitigated by <a href="http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/">developing software in the open</a>.</p>
 
-<h3>Usable</h3>
+<p>Software should be published as open source, under a <a href="http://en.wikipedia.org/wiki/Permissive_free_software_licence">permissive free software licence</a> such as <a href="http://opensource.org/licenses/BSD-2-Clause">BSD</a> or <a href="http://opensource.org/licenses/MIT">MIT</a>.</p>
+
+<h2 id="templates">Templates</h2>
+<p>The following text is the <a href="http://opensource.org/licenses/MIT">MIT licence</a> used by GDS when publishing software in the open:</p>
+<pre>
+Copyright (C) 2012 HM Government (Government Digital Service)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+</pre>
+<p>It is sufficient to include this as a single <strong>LICENSE</strong> [sic] file, though you may elect to include the licence in 
+individual source code files, particularly those which may be taken in isolation, such as example code.</p>
+
+<h2 id="why-we-do-this">Why we do this</h2>
+<p>There are many other advantages to <a href="http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/">developing software in the open</a>
+described in more detail in the <a href="">Technical Architecture/Open source considerations</a> section,
+and prescribed by the tenth GDS design principle: <a href="https://www.gov.uk/designprinciples#tenth">Make things open: it makes things better</a>.</p>
+
+<h2 id="further-reading">Further reading</h2>
 <ul>
-  <li><a href="/guides/users-of-your-service/understandinguserneeds.html">Able to meet the needs of its users</a></li>
-  <li>Designed for inclusion</li>
-  <li><a href="/guides/assisted-digital/whatisassisteddigital.html">Supported by a plan for assisting digital use</a></li>
-  <li><a href="/guides/designing-your-service/browsercompatibility.html">Device and platform independent</a></li>
-  <li>Seamlessly integrated with any non-digital steps</li>
-  <li><a href="/guides/designing-your-service/index.html">Part of GOV.UK in look, tone and feel</a></li>
-  <li>Easy to use</li>
+  <li><a href="https://fossbazaar.org/">fossbazaar.org</a> is an interest group for the governance of FOSS in organizations.</li>
+  <li>the <a href="http://www.ifosslr.org/">International Free and Open Source Software Law Review</a> is a collaborative legal publication aiming to increase knowledge and understanding among lawyers about Free and Open Source Software issues. Topics covered include copyright, licence implementation, licence interpretation, software patents, open standards, case law and statutory changes.</li>
+  <li><a href="http://www.fossology.org/">fossology</a> is one of a number of open source tools useful when assessing open source used by a project.</li>
 </ul>
-
-<h3>Agile</h3>
-<ul>
-  <li><a href="/guides/building-a-team/servicemanager.html">Owned by a single, skilled and empowered service manager</a></li>
-  <li><a href="/guides/building-a-team/index.html">Built and operated by a multidisciplinary team</a></li>
-  <li><a href="/guides/working-in-an-agile-way/">Delivered using an Agile methodology</a></li>
-  <li><a href="/guides/user-research/introductiontouserresearch.html">Continuously improved based on user research and performance data</a></li>
-  <li>Able to support multivariant experiments</li>  
-  <li><a href="/guides/phases/index.html">Tested with real users at the alpha and public beta phases</a></li>
-  <li>Able to be updated and improved on a daily basis</li>    
-  <li>Tested in an environment identical to the live service</li>
-</ul>
-
-<h3>Effective</h3>
-<ul>
-  <li><a href="/guides/kpis/implementingcustomersatisfactionmeasure.html">Achieving high levels of user satisfaction</a></li>
-  <li><a href="/guides/kpis/implementingcostpertransactionmeasure.html">Achieving a low cost per transaction</a></li>
-  <li><a href="/guides/kpis/implementingtransactionsuccessmetric.html">Showing a consistently high transaction success rate</a></li>
-  <li><a href="/guides/communications/channelshiftstrategies.md">Reaching high levels of digital take-up</a></li>
-  <li>Successfully tested by the minister responsible</li>
-</ul>
-
-<h3>Open</h3>
-<ul>
-  <li>Publishing new, reusable code under an appropriate license</li>
-  <li><a href="/guides/apis/">Using open standards and common platforms where they exist</a></li>
-  <li>Sharing progress and knowledge with stakeholders, colleagues and the public</li>
-  <li>Safe and secure</li>
-  <li>Built to an appropriate security level</li>
-</ul>
-
-</div>
 
             </div>
             </article>

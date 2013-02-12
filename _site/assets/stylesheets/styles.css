@@ -2082,7 +2082,7 @@ article dd {
   }*/
   overflow: hidden;
   *zoom: 1;
-  margin: 3em 0 0 0; }
+  margin: 2em 0 0 0; }
   /* line 16, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
   .secondary-promos > * {
     display: block;
@@ -2093,24 +2093,42 @@ article dd {
     float: left;
     width: 31.66667%;
     margin-right: 2.5%;
-    margin-bottom: 1em; }
+    margin-bottom: 1em;
+    min-height: 165px; }
     /* line 38, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .secondary-promos > *:nth-child(3n) {
       margin-right: 0; }
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .secondary-promos > * *:first-child {
       margin-top: 0; }
+  /* line 690 */
+  .secondary-promos div {
+    background: #cce0d6; }
+  /* line 693 */
+  .secondary-promos h3 {
+    background: #006435;
+    padding: 0.5em 1em;
+    color: white;
+    font-weight: normal;
+    margin: 0; }
+  /* line 700 */
+  .secondary-promos p {
+    margin: 0; }
+  /* line 703 */
+  .secondary-promos a {
+    display: block;
+    padding: 1em; }
 
-/* line 693 */
+/* line 710 */
 .hero.topic h3 {
   font-size: 48px;
   font-weight: normal;
   margin-bottom: 0.5em; }
-/* line 698 */
+/* line 715 */
 .hero.topic a h3 {
   text-decoration: none; }
 
-/* line 704 */
+/* line 721 */
 .topic a[title]:after {
   content: attr(title);
   position: absolute;
@@ -2118,16 +2136,16 @@ article dd {
   color: #6F777B;
   text-decoration: none;
   width: 64%; }
-  /* line 711 */
+  /* line 728 */
   .topic a[title]:after:hover {
     text-decoration: underline; }
 
-/* line 716 */
+/* line 733 */
 .topic {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
-  /* line 720 */
+  /* line 737 */
   .topic p {
     font-size: 16px;
     margin-top: 0.5em;
