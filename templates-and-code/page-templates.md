@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Templates and code
+title: Page templates
 subtitle: HTML page templates for GOV.UK
 audience:
   primary: designer, developer
