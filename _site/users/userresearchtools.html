@@ -211,8 +211,14 @@ Subscription tools - <a href="http://www.smart-survey.co.uk/">Smart Survey</a>, 
 
     <script type="text/javascript">
       jQuery(function ($) {
-        $('.inner').annotator()
-                   .annotator('setupPlugins');
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
       });
     </script>
   </body>

@@ -260,8 +260,14 @@ The end point of any transaction should be a page on the GOV.UK domain. These pa
 
     <script type="text/javascript">
       jQuery(function ($) {
-        $('.inner').annotator()
-                   .annotator('setupPlugins');
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
       });
     </script>
   </body>

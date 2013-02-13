@@ -329,8 +329,14 @@ Link within the Manual, or to other posts, that will help people to work on the 
 
     <script type="text/javascript">
       jQuery(function ($) {
-        $('.inner').annotator()
-                   .annotator('setupPlugins');
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
       });
     </script>
   </body>
