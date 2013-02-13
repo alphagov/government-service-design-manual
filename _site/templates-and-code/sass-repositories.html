@@ -44,8 +44,8 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
   <body class="mainstream full-width guidance">
@@ -107,31 +107,41 @@
                 <p class="subtitle">A library of CSS mixins in the Sass format</p>
               
 
-              <h1 id="sass-repositories">Sass Repositories</h1>
+              <p>Sass lets us share blocks of code and techniques. GOV.UK has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.</p>
 
-<p>Sass lets us share blocks of code and techniques. GOV.UK has a collection of Sass files which are bundled up into a gem that enable us to quiclly build pages that conform to our styles.</p>
+<ul id="markdown-toc">
+  <li><a href="#categories-of-sass-mixins">Categories of Sass mixins</a>    <ul>
+      <li><a href="#typography-and-colours">Typography and Colours</a></li>
+      <li><a href="#responsive-design">Responsive Design</a></li>
+      <li><a href="#cross-browser">Cross Browser</a></li>
+    </ul>
+  </li>
+  <li><a href="#further-reading">Further reading</a></li>
+</ul>
 
-<h2 id="guidancetool">Guidance/Tool</h2>
+<h1 id="categories-of-sass-mixins">Categories of Sass mixins</h1>
 
 <p>Within the <code>govuk_frontend_toolkit</code> gem we have a collection of Sass which is designed to enable you to easily add GOV.UK styles. They can be categorised into three different things:</p>
 
-<p>1, GOV.UK Typography and Colours
-2, Mixins for responsive designs
-3, Mixins for cross browser CSS</p>
+<blockquote>
+  <ol>
+    <li>GOV.UK Typography and Colours</li>
+    <li>Mixins for responsive designs</li>
+    <li>Mixins for cross browser CSS</li>
+  </ol>
+</blockquote>
 
-<p>The first is the key bit which makes GOV.UK projects look the same. There are a collection of pre-defined font-sizes that we use on GOV.UK. There is a mixin for each one, for example <code>heading-26</code>. These also include a standard amount of whitespace around the text to help with vertical rythm on the page, spacing things out nicely.</p>
+<p>The first is the key bit which makes GOV.UK projects look the same. There are a collection of pre-defined font-sizes that we use on GOV.UK. There is a mixin for each one, for example <code>heading-26</code>. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.</p>
 
-<p>The second is a way to develop responsive sites while not giving older browsers a bad experiance. That is to still deliver a desktop stylesheet to older versions of IE which don’t understand media queries, and serve the correct media queries to modern devices. As a side effect of this approach we also have a very easy way of writing IE specific CSS in the middle of our stylesheets without using hacks.</p>
+<p>The second is a way to develop responsive sites while not giving older browsers a bad experience. That is to still deliver a desktop stylesheet to older versions of IE which don’t understand media queries, and serve the correct media queries to modern devices. As a side effect of this approach we also have a very easy way of writing IE specific CSS in the middle of our stylesheets without using hacks.</p>
 
 <p>The third is a way to keep browser specific styles out of our projects. We encapsulate new or non-standardised CSS into mixins. In this way we can easily update all the instances of a new CSS property without having to do a search and replace across all of our projects.</p>
 
-<h2 id="codetemplates">Code/Templates</h2>
+<p>For a full list of the different Sass techniques we have available look at the <a href="https://github.com/alphagov/govuk_frontend_toolkit">readme on the <code>govuk_frontend_toolkit</code> gem</a>.</p>
 
-<p>For a full list of the different Sass techniques we have avilable look at the <a href="https://github.com/alphagov/govuk_frontend_toolkit">readme on the <code>govuk_frontend_toolkit</code> gem</a>.</p>
+<h2 id="typography-and-colours">Typography and Colours</h2>
 
-<h3 id="typography-and-colours">Typography and Colours</h3>
-
-<p>Some of the typography mixins we have avialbe are: <code>heading-36</code>, <code>heading-24</code>, <code>copy-19</code>. They can be used as such:</p>
+<p>Some of the typography mixins we have available are: <code>heading-36</code>, <code>heading-24</code>, <code>copy-19</code>. They can be used as such:</p>
 
 <pre><code>h1 {
   @include heading-36;
@@ -146,9 +156,9 @@ p {
 }
 </code></pre>
 
-<h3 id="responsive-design">Responsive Design</h3>
+<h2 id="responsive-design">Responsive Design</h2>
 
-<p>It is generally advised to write your markup with a mobile and up attitude. That is to add desktop styles to an otherwise narrow screen stylesheet. In this way you only add styles for desktop and don’t reset desktop styles for a mobile device. This can be done as such:</p>
+<p>It is generally advised to write your markup with a mobile and up attitude. That is, add desktop styles to an otherwise narrow screen stylesheet. In this way you only add styles for desktop and don’t reset desktop styles for a mobile device. This can be done as such:</p>
 
 <pre><code>.navigation {
   background: $panel-colour;
@@ -168,9 +178,9 @@ p {
 }
 </code></pre>
 
-<h3 id="cross-browser">Cross Browser</h3>
+<h2 id="cross-browser">Cross Browser</h2>
 
-<p>There are two types of cross browser techinque. There are ones which are just for encapsulating vendor prefixes. Then there are the ones for using different method to achive a consistant effect. An example of these are:</p>
+<p>There are two types of cross browser technique. There are ones which are just for encapsulating vendor prefixes. Then there are the ones for using different method to achieve a consistent effect. An example of these are:</p>
 
 <pre><code>.related-box {
   float: left;
@@ -179,11 +189,11 @@ p {
 }
 </code></pre>
 
-<p>The <code>border-radius</code> line here is designed to use the different border-radius implementations to create a standard border-radius. The <code>contain-floats</code> however, uses a cross-browser techinque to ensure that the element wraps all of the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don’t want to use different techinques everywhere.</p>
+<p>The <code>border-radius</code> line here is designed to use the different border-radius implementations to create a standard border-radius. The <code>contain-floats</code> however, uses a cross-browser techinque to ensure that the element wraps all of the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don’t want to use different techniques everywhere.</p>
 
-<h2 id="further-reading">Further reading</h2>
+<h1 id="further-reading">Further reading</h1>
 
-<p>For more information checkout the Readme on the <a href="https://github.com/alphagov/govuk_frontend_toolkit"><code>govuk_frontend_toolkit</code> gem</a></p>
+<p>For more information check out the Readme on the <a href="https://github.com/alphagov/govuk_frontend_toolkit"><code>govuk_frontend_toolkit</code> gem</a></p>
 
             </div>
             </article>
@@ -228,10 +238,10 @@ p {
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+        $('.inner').annotator()
+                   .annotator('setupPlugins');
+      });
     </script>
   </body>
 </html>
