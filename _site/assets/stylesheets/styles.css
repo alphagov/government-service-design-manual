@@ -563,7 +563,7 @@ article .inner {
 /* line 131 */
 .standard h3 {
   margin-top: 0;
-  width: 16%;
+  width: 20%;
   display: inline-block;
   font-size: 32px; }
 /* line 138 */
@@ -2185,7 +2185,7 @@ article dd {
   padding-top: 2em; }
 /* line 779 */
 .dbd .page-header h1 {
-  background: #ffbf47 url("/assets/images/DbD-kitemark.png") no-repeat 0.5em;
+  background: url("/assets/images/DbD-kitemark.png") no-repeat 0.5em;
   height: 190px;
   background-size: Auto 74%;
   text-indent: -9999px; }
@@ -2195,7 +2195,7 @@ article dd {
 
 /* line 792 */
 .standard h4 {
-  margin-left: 9.4em;
+  margin-left: 11.4em;
   font-weight: bold; }
 
 /* line 798 */

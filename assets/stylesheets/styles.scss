@@ -133,7 +133,7 @@ article .inner{
   }
   h3{
     margin-top: 0;
-    width: 16%;
+    width: 20%;
     display: inline-block;
     font-size: 32px;
   }
@@ -780,7 +780,7 @@ article dd{
       padding-top: 2em;
     }
     h1{
-      background: $yellow url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
+      background: url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
       height: 190px;
       background-size: Auto 74%;
       text-indent: -9999px;
@@ -793,7 +793,7 @@ article dd{
 }
 
 .standard h4{
-  margin-left: 9.4em;
+  margin-left: 11.4em;
   font-weight: bold;
 }
 
