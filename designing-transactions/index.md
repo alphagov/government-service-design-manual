@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Designing transactions
 subtitle: Starting and ending transactions, showing progress etc.
 section: guidance

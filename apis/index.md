@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: APIs
 subtitle: Using and creating Application Programming Interfaces
 section: guidance

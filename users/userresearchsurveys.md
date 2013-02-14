@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: User research surveys
 section: guidance
 subsection: User research

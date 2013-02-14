@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Design pattern library
 subsection: Design patterns
 status: draft

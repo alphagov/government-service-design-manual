@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Testing code
 subtitle: How to ensure your code does what it's supposed to
 section: guidance

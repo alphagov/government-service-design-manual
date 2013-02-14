@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Designing with data
 subtitle: How to use analytics to make design decisions
 section: guidance

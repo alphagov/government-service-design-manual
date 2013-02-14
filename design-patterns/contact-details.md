@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Contact details
 subsection: Design patterns
 status: draft

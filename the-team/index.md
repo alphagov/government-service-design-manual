@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: The team
 subtitle: 
 status: draft

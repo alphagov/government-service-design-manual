@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Discussion Guides
 section: guidance
 subsection: User research

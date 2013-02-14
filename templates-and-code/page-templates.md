@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Page templates
 subtitle: HTML page templates for GOV.UK
 audience:

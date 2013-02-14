@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Sandbox and staging servers
 section: guidance
 type: guide

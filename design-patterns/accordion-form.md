@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Accordion form
 subsection: Design patterns
 status: draft

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: An introduction to user research
 section: guidance
 type: guide

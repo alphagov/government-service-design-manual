@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Performance Framework
 section: guidance
 subsection: Planning to monitor performance

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Accessibility skills
 subsection: Building a team
 status: draft

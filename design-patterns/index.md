@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Design patterns
 subtitle: Common interface elements for digital services
 section: guidance

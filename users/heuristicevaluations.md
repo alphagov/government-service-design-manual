@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Heuristic evaluations/expert reviews
 section: guidance
 subsection: User research

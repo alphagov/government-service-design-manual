@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Structuring sprint cycles and stand-ups
 section: guidance
 subsection: Working in an agile way

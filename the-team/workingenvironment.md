@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Your working environment
 subtitle: The physical space and tools that bring out the best in an agile team (TO DO)
 section: guidance

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Show/hide link
 subsection: Design patterns
 status: draft

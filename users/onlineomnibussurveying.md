@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Online Omnibus surveying
 section: guidance
 subsection: User research

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 section: home
 ---
 

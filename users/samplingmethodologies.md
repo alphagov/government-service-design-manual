@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Survey sampling methodologies
 section: guidance
 subsection: User research

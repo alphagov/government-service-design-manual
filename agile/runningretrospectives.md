@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Running retrospectives
 section: guidance
 subsection: Working in an agile way

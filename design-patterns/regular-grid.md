@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Regular grid
 subsection: Design patterns
 status: draft

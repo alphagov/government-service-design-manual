@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Lab based user testing
 section: guidance
 subsection: User research

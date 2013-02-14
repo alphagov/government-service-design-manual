@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Focus groups, mini groups, and 1:1 interviews
 section: guidance
 subsection: User research

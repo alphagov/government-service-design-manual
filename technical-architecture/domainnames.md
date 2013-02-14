@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Domain names and URLs
 subtitle: How to construct good URLs
 section: guidance

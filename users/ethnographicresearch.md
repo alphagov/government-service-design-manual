@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Ethnographic research
 section: guidance
 subsection: User research

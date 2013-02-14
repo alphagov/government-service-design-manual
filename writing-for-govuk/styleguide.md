@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: GOV.UK Style Guide
 subtitle: How to write content for the GOV.UK website
 section: guidance

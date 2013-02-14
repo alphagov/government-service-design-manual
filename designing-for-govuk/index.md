@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Building prototypes
 subtitle: An essential part of the design process
 section: guidance

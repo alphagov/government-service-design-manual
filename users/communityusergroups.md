@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Community user groups
 section: guidance
 subsection: User research

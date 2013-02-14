@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: A/B and multivariate experiments
 section: guidance
 subsection: Optimising Service Performance

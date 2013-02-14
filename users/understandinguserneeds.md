@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Understanding user needs
 section: guidance
 type: guide

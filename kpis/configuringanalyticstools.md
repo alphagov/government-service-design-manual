@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Analytics tools
 section: guidance
 subsection: KPIs

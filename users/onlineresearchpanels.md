@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Online research panels
 section: guidance
 subsection: User research

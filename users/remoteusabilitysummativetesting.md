@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Remote usability/summative testing (quantative)
 section: guidance
 subsection: User research

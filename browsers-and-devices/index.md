@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
 section: guidance

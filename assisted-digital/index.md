@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Assisted digital
 subtitle: Getting digital services to hard to reach audiences
 section: guidance

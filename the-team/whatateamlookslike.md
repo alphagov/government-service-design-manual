@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: What a team looks like
 subsection: Building a team
 status: draft

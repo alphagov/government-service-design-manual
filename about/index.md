@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: About the manual
 subtitle: What it is and why it matters
 section: about

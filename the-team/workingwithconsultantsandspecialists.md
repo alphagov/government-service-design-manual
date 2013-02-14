@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Working with consultants and specialists
 subtitle: TO DO
 section: guidance

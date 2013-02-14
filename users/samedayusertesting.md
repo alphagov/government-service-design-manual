@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Same day user testing (online qualitative)
 section: guidance
 subsection: User research

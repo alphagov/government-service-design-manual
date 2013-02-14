@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Give feedback
 subtitle: Help improve the Government Service Design Manual
 section: feedback

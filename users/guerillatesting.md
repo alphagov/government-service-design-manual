@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Guerilla testing
 section: guidance
 subsection: User research

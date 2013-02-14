@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Cookies
 subtitle: How to use them, and how to tell users about them
 section: guidance

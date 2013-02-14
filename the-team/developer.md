@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Development skills
 subsection: Building a team
 status: draft

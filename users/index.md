@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 section: guidance

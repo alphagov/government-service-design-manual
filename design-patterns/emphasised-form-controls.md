@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Emphasised form controls
 subsection: Design patterns
 status: draft

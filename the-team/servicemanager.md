@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: How to be a service manager
 subtitle: Learn what they do, and how to be a good one
 section: guidance

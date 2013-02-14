@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Buttons
 subsection: Design patterns
 status: draft

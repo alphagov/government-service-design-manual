@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: GOV.UK design principles
 subtitle: Discover the ten principles that inform everything we make
 section: guidance

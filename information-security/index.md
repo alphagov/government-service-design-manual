@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Information Security
 section: guidance
 type: guide

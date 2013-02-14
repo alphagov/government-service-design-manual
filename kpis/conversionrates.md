@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Optimizing conversion rate
 section: guidance
 subsection: Optimising Service Performance

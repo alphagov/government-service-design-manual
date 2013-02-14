@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: What agile looks like
 section: guidance
 subsection: Working in an agile way

@@ -108,6 +108,7 @@ article .inner{
   color: #666;
   margin-bottom: 1em;
   font-size: 24px;
+  font-weight: normal;
 }
 
 .standard-intro{    
@@ -795,3 +796,29 @@ article dd{
   margin-left: 9.4em;
   font-weight: bold;
 }
+
+header.page-header hgroup {
+  h1{/*
+    background: #FFBF47;
+    margin: -0.35em -0.66em;
+    padding: 0.5em;*/
+  }
+}
+
+.default .article-container .inner{
+  margin-left:  25%;
+  .intro{
+    margin: 0 0 0 -36%;
+    font-size: 24px;
+    padding: 0;
+  }
+  h2{
+    font-weight: 400;
+    border-bottom: 5px solid $green;
+    margin: 2em 0 2em -36%;
+    &.subtitle{
+      margin-top: -1em;
+    }
+  }
+}
+

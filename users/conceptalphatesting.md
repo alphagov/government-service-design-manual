@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Concept/Alpha testing
 section: guidance
 subsection: User research

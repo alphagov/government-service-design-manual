@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Sentiment analysis
 section: guidance
 subsection: User feedback

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Vulnerability and penetration testing
 section: guidance
 type: guide

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Digital analytics team skills
 subsection: Building a team
 status: draft

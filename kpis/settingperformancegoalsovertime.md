@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Setting performance goals over time
 section: guidance
 subsection: KPIs

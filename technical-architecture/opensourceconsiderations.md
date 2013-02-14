@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Open source considerations
 section: guidance
 type: guide

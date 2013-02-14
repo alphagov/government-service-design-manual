@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: All guides
 subtitle: A list of all guides
 section: home

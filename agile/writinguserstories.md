@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Writing user stories
 section: guidance
 subsection: Working in an agile way

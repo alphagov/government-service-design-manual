@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Card sorting
 section: guidance
 subsection: User research

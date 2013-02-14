@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Accessibility testing
 subsection: Accessibility
 status: draft

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Typography
 subtitle: Creating clear, easy to read type for the web
 section: guidance

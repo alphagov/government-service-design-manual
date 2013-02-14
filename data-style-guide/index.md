@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Data Style Guide
 section: guidance
 subsection: Optimising Service Performance

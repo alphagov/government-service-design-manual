@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Shared asset libraries
 subtitle: (TO DO)
 section: guidance

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: How users read
 subtitle: Reading age, reading online, plain English, learning disabilities
 section: guidance

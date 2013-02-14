@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: User research briefs
 section: guidance
 type: guide

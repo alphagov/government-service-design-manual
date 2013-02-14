@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: User Accounts and Log-ins
 section: guidance
 type: guide

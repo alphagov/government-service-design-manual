@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Error messages
 subtitle: How to write helpful messages for users when things go wrong
 section: guidance

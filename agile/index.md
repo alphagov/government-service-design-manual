@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Working in an agile way
 subtitle: What it is, why it works and how to do it
 section: guidance

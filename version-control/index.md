@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Version control
 subtitle: 
 section: guidance

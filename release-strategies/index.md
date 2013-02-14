@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Releasing software
 section: guidance
 subsection: Maintaining services

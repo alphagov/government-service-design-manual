@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Discovery, Alpha, Beta, Live
 subtitle: The four phases of service develpment
 section: guidance

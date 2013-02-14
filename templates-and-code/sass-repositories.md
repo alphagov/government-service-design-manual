@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Sass repositories
 subtitle: A library of CSS mixins in the Sass format
 section: guidance
