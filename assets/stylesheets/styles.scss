@@ -824,3 +824,28 @@ header.page-header hgroup {
   }
 }
 
+
+.hide-headers thead{
+  display: none;
+}
+
+article table{
+  margin: 1em 0 2em 0;
+  width: 100%;
+}
+
+.left{
+  width: 31%;
+  float: left;
+  margin-left: -36%;
+  img{
+    width: 100%;
+  }
+  &:active{
+    width: 50%;
+    position: absolute;
+    img{
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    }
+  }
+}

@@ -5,23 +5,28 @@ section: guidance
 subsection: Working in an agile way
 status: draft
 ---
-    
-# Writing user stories
 
-User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other.
+User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
 
-User stories **only work in the context of an agile team** with embedded user representatives.
+## Story cards
 
-A user story is represented by a story card with a title and a few lines of text:
-
+{:.left}
 ![A user story index card](http://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
 
-ARTICLE CONTACT INFO<br />
-As a **journalist** (actor)<br/>
-I want to **see contact information for media enquiries relating to the news article I am reading** (narrative)<br/>
-So that **I can get directly in touch with the press office about it** (goal)
+A user story is represented by a story card with a title and a few lines of text.
 
-Story cards follow a standard **structure** – title, actor, narrative and goal. They **do not capture every detail** they are a promise of further discussion at the appropriate time.
+Story cards follow a standard structure – title, actor, narrative and goal. They do not capture every detail. Rather, they are a promise of further discussion at the appropriate time.
+
+{:.hide-headers}
+|-------------------------------------------------------------------------------------------
+| Name    | 
+|-------------------------------------------------------------------------------------------
+| **Actor:**     | As a      | journalist
+| **Narrative:** | I want to | see contact information relating to the news article I am reading
+| **Goal:**      | So that   | I can get directly in touch with the press office about it
+|-------------------------------------------------------------------------------------------
+
+
 
 ## Working outside-in using goals
 

@@ -2223,3 +2223,28 @@ padding: 0.5em;*/ }
     .default .article-container .inner h2.subtitle {
       margin-top: -1em;
       border: 0 solid; }
+
+/* line 825 */
+.hide-headers thead {
+  display: none; }
+
+/* line 829 */
+article table {
+  margin: 1em 0 2em 0;
+  width: 100%; }
+
+/* line 834 */
+.left {
+  width: 31%;
+  float: left;
+  margin-left: -36%; }
+  /* line 838 */
+  .left img {
+    width: 100%; }
+  /* line 841 */
+  .left:active {
+    width: 50%;
+    position: absolute; }
+    /* line 844 */
+    .left:active img {
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); }
