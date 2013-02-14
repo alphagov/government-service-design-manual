@@ -2208,16 +2208,18 @@ padding: 0.5em;*/ }
 /* line 805 */
 .default .article-container .inner {
   margin-left: 25%; }
-  /* line 807 */
-  .default .article-container .inner .intro {
+  /* line 808 */
+  .default .article-container .inner .intro,
+  .default .article-container .inner p:first-of-type {
     margin: 0 0 0 -36%;
     font-size: 24px;
     padding: 0; }
-  /* line 812 */
+  /* line 813 */
   .default .article-container .inner h2 {
     font-weight: 400;
     border-bottom: 5px solid #006435;
     margin: 2em 0 2em -36%; }
-    /* line 816 */
+    /* line 817 */
     .default .article-container .inner h2.subtitle {
-      margin-top: -1em; }
+      margin-top: -1em;
+      border: 0 solid; }

@@ -807,7 +807,8 @@ header.page-header hgroup {
 
 .default .article-container .inner{
   margin-left:  25%;
-  .intro{
+  .intro,
+  p:first-of-type{
     margin: 0 0 0 -36%;
     font-size: 24px;
     padding: 0;
@@ -818,6 +819,7 @@ header.page-header hgroup {
     margin: 2em 0 2em -36%;
     &.subtitle{
       margin-top: -1em;
+      border: 0 solid;
     }
   }
 }

@@ -8,14 +8,13 @@ audience:
 status: draft
 ---
 
-{:.intro}
 History is littered with countless Government projects which collapsed under
 load or which worked slowly enough to frustrate users. As a Government service it is important that your systems and applications are
-performant and can deal with exected (and unexpected) levels of traffic. This
+performant and can deal with expected (and unexpected) levels of traffic. This
 means doing some capacity planning work up front but it also means doing
 specific load and performance testing. 
 
-## Guidance/Tool
+## Guidance
 
 ### Capacity planning
 
@@ -65,8 +64,6 @@ results.
 
 ## Further reading
 
-[Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
-
-[Distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
-
-[Capacity Planning Presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)
+* [Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
+* [Distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
+* [Capacity Planning Presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)
