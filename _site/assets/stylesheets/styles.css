@@ -1993,7 +1993,7 @@ article dd {
   margin-bottom: 2em; }
   /* line 645 */
   .dbd-promo p {
-    width: 46%;
+    width: 47%;
     margin: 1em 0 1em 0;
     float: left;
     font-size: 19px;
@@ -2003,7 +2003,7 @@ article dd {
     display: block;
     float: right;
     padding: 1.5em 0 1em 1.5em;
-    width: 45%; }
+    width: 44%; }
     /* line 657 */
     .dbd-promo .logo:hover {
       background-color: #d5e8f3; }
@@ -2060,9 +2060,9 @@ article dd {
   /* line 679 */
   .roles a {
     display: block;
-    padding: 0.5em;
-    background-color: #f8f8f8;
-    border-top: 3px solid #006435; }
+    padding: 0.5em 0;
+    border-top: 3px solid #006435;
+    font-size: 16px; }
 
 /* line 687 */
 .secondary-promos {
@@ -2119,16 +2119,32 @@ article dd {
     display: block;
     padding: 1em; }
 
-/* line 710 */
-.hero.topic h3 {
-  font-size: 48px;
-  font-weight: normal;
-  margin-bottom: 0.5em; }
-/* line 715 */
-.hero.topic a h3 {
-  text-decoration: none; }
+/* line 709 */
+.hero.topic {
+  padding: 0;
+  border-top: 0 solid; }
+  /* line 712 */
+  .hero.topic a {
+    padding: 1em;
+    display: block;
+    background-color: #006435;
+    text-decoration: none; }
+    /* line 717 */
+    .hero.topic a h3, .hero.topic a p {
+      color: white; }
+    /* line 720 */
+    .hero.topic a p {
+      font-size: 19px; }
+    /* line 723 */
+    .hero.topic a:hover {
+      background-color: #009750; }
+  /* line 727 */
+  .hero.topic h3 {
+    font-size: 48px;
+    font-weight: normal;
+    margin-bottom: 0.5em; }
 
-/* line 721 */
+/* line 735 */
 .topic a[title]:after {
   content: attr(title);
   position: absolute;
@@ -2136,19 +2152,32 @@ article dd {
   color: #6F777B;
   text-decoration: none;
   width: 64%; }
-  /* line 728 */
+  /* line 742 */
   .topic a[title]:after:hover {
     text-decoration: underline; }
 
-/* line 733 */
+/* line 747 */
 .topic {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
-  /* line 737 */
+  /* line 751 */
   .topic p {
+    /*
     font-size: 16px;
     margin-top: 0.5em;
     padding-top: 0.5em;
     padding-left: 0;
-    border-top: 1px solid #bfc1c3; }
+    border-top: 1px solid #BFC1C3; */ }
+
+/* line 761 */
+.topic.wide {
+  width: 65.5%;
+  margin-right: 0; }
+  /* line 764 */
+  .topic.wide li {
+    display: inline-block;
+    width: 48.3%; }
+    /* line 767 */
+    .topic.wide li:nth-child(odd) {
+      margin-right: 1em; }

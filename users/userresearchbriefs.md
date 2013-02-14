@@ -2,7 +2,9 @@
 layout: gsdm
 title: User research briefs
 section: guidance
-subsection: User research
+type: guide
+audience:
+  primary: researcher
 status: draft
 ---
     

@@ -2,7 +2,9 @@
 layout: gsdm
 title: Load and performance testing
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
 status: draft
 ---
     

@@ -2,7 +2,9 @@
 layout: gsdm
 title: An introduction to user research
 section: guidance
-subsection: Understanding your audience
+type: guide
+audience:
+  primary: researcher
 status: draft
 ---
 

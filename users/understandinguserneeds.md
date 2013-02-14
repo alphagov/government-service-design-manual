@@ -2,7 +2,9 @@
 layout: gsdm
 title: Understanding user needs
 section: guidance
-subsection: Users of your service
+type: guide
+audience:
+  primary: researcher
 status: draft
 ---
 

@@ -5,7 +5,7 @@ subtitle: Common interface elements for digital services
 section: guidance
 audience: 
   primary: designer
-  secomdary: researcher
+  secondary: researcher
 type: resource
 status: draft
 ---

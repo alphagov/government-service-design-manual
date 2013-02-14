@@ -646,7 +646,7 @@ article dd{
   overflow: hidden;
   margin-bottom: 2em;
   p{
-    width: 46%;
+    width: 47%;
     margin: 1em 0 1em 0;
     float: left;
     font-size: 19px;
@@ -656,7 +656,7 @@ article dd{
     display: block;
     float: right;
     padding: 1.5em 0 1em 1.5em;
-    width: 45%;
+    width: 44%;
     &:hover{
       background-color: $light-blue-25;
     }
@@ -681,9 +681,9 @@ article dd{
   @include regular-grid(3);
   a{
     display: block;
-    padding: 0.5em;
-    background-color: $highlight-colour;
+    padding: 0.5em 0;
     border-top: 3px solid $green;
+    font-size: 16px;
   }
 }
 
@@ -710,13 +710,27 @@ article dd{
 }
 
 .hero.topic{
+  padding: 0;
+  border-top: 0 solid;
+  a{
+    padding: 1em;
+    display: block;
+    background-color: $green;
+    text-decoration: none;
+    h3, p{
+      color: white;
+    }
+    p{
+      font-size: 19px;
+    }
+    &:hover{
+      background-color: lighten($green, 10%);
+    }
+  }
   h3{
     font-size: 48px;
     font-weight: normal;
     margin-bottom: 0.5em;
-  }
-  a h3{
-    text-decoration: none;
   }
 }
 
@@ -738,10 +752,23 @@ article dd{
   border-bottom: 0;
   padding-bottom: 1.5em;
   p{
+    /*
     font-size: 16px;
     margin-top: 0.5em;
     padding-top: 0.5em;
     padding-left: 0;
-    border-top: 1px solid #BFC1C3;
+    border-top: 1px solid #BFC1C3; */
+  }
+}
+
+.topic.wide{
+  width: 65.5%;
+  margin-right: 0;
+  li{
+    display: inline-block;
+    width: 48.3%;
+    &:nth-child(odd){
+      margin-right: 1em;
+    }
   }
 }

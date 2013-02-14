@@ -3,6 +3,7 @@ layout: gsdm
 title: Domain names and URLs
 subtitle: How to construct good URLs
 section: guidance
+type: guide
 audience:
   primary: developer, tech-arch
 status: draft

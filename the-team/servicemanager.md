@@ -1,7 +1,7 @@
 ---
 layout: gsdm
-title: The role of the service manager
-subtitle: What they do, and how to be a good one
+title: How to be a service manager
+subtitle: Learn what they do, and how to be a good one
 section: guidance
 type: guide
 theme: getting-started

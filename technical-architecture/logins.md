@@ -2,7 +2,10 @@
 layout: gsdm
 title: User Accounts and Log-ins
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
+  secondary: designer
 status: draft
 ---
     

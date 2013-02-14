@@ -2,7 +2,9 @@
 layout: gsdm
 title: Vulnerability and penetration testing
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
 status: draft
 ---
     

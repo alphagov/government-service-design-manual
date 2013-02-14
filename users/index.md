@@ -1,6 +1,6 @@
 ---
 layout: gsdm
-title: Understanding your users
+title: Know your users
 subtitle: Techniques for understanding your user's needs
 section: guidance
 audience:
