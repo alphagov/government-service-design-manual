@@ -44,8 +44,8 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
   <body class="mainstream full-width guidance">
@@ -104,10 +104,32 @@
         <article role="article" class="group">
           <div class="inner">
               
+                <p class="subtitle">Get the templates and code you need to build consistent services</p>
+              
 
-              <ul>
+              <p>Sharing templates and code ensures that services remain consistent, and that teams don’t spend time finding solutions for problems that other digital services have already solved.</p>
+
+<h1 id="page-templates">Page templates</h1>
+
+<p>HTML page templates for GOV.UK</p>
+
+<ul>
   <li><a href="page-templates.html">Page templates</a></li>
+</ul>
+
+<h1 id="sass-repositories">Sass repositories</h1>
+
+<p>A library of CSS mixins in the Sass format</p>
+
+<ul>
   <li><a href="sass-repositories.html">Sass repositories</a></li>
+</ul>
+
+<h1 id="shared-asset-libraries">Shared asset libraries</h1>
+
+<p>(TO DO)</p>
+
+<ul>
   <li><a href="sharedassetlibraries.html">Shared asset libraries</a></li>
 </ul>
 
@@ -155,10 +177,16 @@
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
     </script>
   </body>
 </html>

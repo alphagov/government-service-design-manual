@@ -48,8 +48,8 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
   <body class="mainstream full-width ">
@@ -328,10 +328,16 @@ Link within the Manual, or to other posts, that will help people to work on the 
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
     </script>
   </body>
 </html>

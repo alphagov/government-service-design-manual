@@ -48,8 +48,8 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
   <body class="mainstream full-width guidance">
@@ -111,8 +111,7 @@
                 <p class="subtitle">Hex values and Sass variable names for the GOV.UK colours</p>
               
 
-              <p>This is the standard GOV.UK colour palette. We recommend you use 
-the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.</p>
+              <p>This is the standard GOV.UK colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.</p>
 
 
 
@@ -343,10 +342,16 @@ the Sass variables where possible in case the colour values are updated. The var
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
     </script>
   </body>
 </html>
