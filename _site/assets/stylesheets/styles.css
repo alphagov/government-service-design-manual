@@ -562,9 +562,9 @@ article .inner {
 /* line 130 */
 .standard h3 {
   margin-top: 0;
-  width: 20%;
+  width: 16%;
   display: inline-block;
-  font-size: 42px; }
+  font-size: 32px; }
 /* line 137 */
 .standard li {
   list-style: none;
@@ -2005,13 +2005,10 @@ article dd {
     padding: 1.5em 0 1em 1.5em;
     width: 44%; }
     /* line 657 */
-    .dbd-promo .logo:hover {
-      background-color: #d5e8f3; }
-    /* line 660 */
     .dbd-promo .logo img {
       width: 100%; }
 
-/* line 666 */
+/* line 663 */
 .home {
   /*
   h1{
@@ -2022,7 +2019,7 @@ article dd {
   }
   */ }
 
-/* line 677 */
+/* line 674 */
 .roles {
   margin: 0;
   padding: 0;
@@ -2057,14 +2054,14 @@ article dd {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .roles > * *:first-child {
       margin-top: 0; }
-  /* line 679 */
+  /* line 676 */
   .roles a {
     display: block;
     padding: 0.5em 0;
     border-top: 3px solid #006435;
     font-size: 16px; }
 
-/* line 687 */
+/* line 684 */
 .secondary-promos {
   margin: 0;
   padding: 0;
@@ -2101,50 +2098,50 @@ article dd {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .secondary-promos > * *:first-child {
       margin-top: 0; }
-  /* line 690 */
+  /* line 687 */
   .secondary-promos div {
     background: #cce0d6; }
-  /* line 693 */
+  /* line 690 */
   .secondary-promos h3 {
     background: #006435;
     padding: 0.5em 1em;
     color: white;
     font-weight: normal;
     margin: 0; }
-  /* line 700 */
+  /* line 697 */
   .secondary-promos p {
     margin: 0; }
-  /* line 703 */
+  /* line 700 */
   .secondary-promos a {
     display: block;
     padding: 1em; }
 
-/* line 709 */
+/* line 706 */
 .hero.topic {
   padding: 0;
   border-top: 0 solid; }
-  /* line 712 */
+  /* line 709 */
   .hero.topic a {
     padding: 1em;
     display: block;
     background-color: #006435;
     text-decoration: none; }
-    /* line 717 */
+    /* line 714 */
     .hero.topic a h3, .hero.topic a p {
       color: white; }
-    /* line 720 */
+    /* line 717 */
     .hero.topic a p {
       font-size: 19px; }
-    /* line 723 */
+    /* line 720 */
     .hero.topic a:hover {
       background-color: #009750; }
-  /* line 727 */
+  /* line 724 */
   .hero.topic h3 {
     font-size: 48px;
     font-weight: normal;
     margin-bottom: 0.5em; }
 
-/* line 735 */
+/* line 732 */
 .topic a[title]:after {
   content: attr(title);
   position: absolute;
@@ -2152,16 +2149,16 @@ article dd {
   color: #6F777B;
   text-decoration: none;
   width: 64%; }
-  /* line 742 */
+  /* line 739 */
   .topic a[title]:after:hover {
     text-decoration: underline; }
 
-/* line 747 */
+/* line 744 */
 .topic {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
-  /* line 751 */
+  /* line 748 */
   .topic p {
     /*
     font-size: 16px;
@@ -2170,14 +2167,32 @@ article dd {
     padding-left: 0;
     border-top: 1px solid #BFC1C3; */ }
 
-/* line 761 */
+/* line 758 */
 .topic.wide {
   width: 65.5%;
   margin-right: 0; }
-  /* line 764 */
+  /* line 761 */
   .topic.wide li {
     display: inline-block;
     width: 48.3%; }
-    /* line 767 */
+    /* line 764 */
     .topic.wide li:nth-child(odd) {
       margin-right: 1em; }
+
+/* line 775 */
+.dbd .page-header hgroup {
+  padding-top: 2em; }
+/* line 778 */
+.dbd .page-header h1 {
+  background: #ffbf47 url("/assets/images/DbD-kitemark.png") no-repeat 0.5em;
+  height: 190px;
+  background-size: Auto 74%;
+  text-indent: -9999px; }
+/* line 785 */
+.dbd .subtitle {
+  display: none; }
+
+/* line 791 */
+.standard h4 {
+  margin-left: 9.4em;
+  font-weight: bold; }
