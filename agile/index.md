@@ -10,12 +10,14 @@ audience:
 theme: getting-started
 status: draft
 ---
-    
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet lacus a nunc dictum dapibus in vitae nunc. Nunc nec sem nibh, sed posuere risus. Sed suscipit porta dui, sed placerat purus iaculis in. Proin pretium nunc tincidunt massa bibendum tempus.
+
 ## What agile looks like
 
 An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the is making (whether that's in the form of project mangement software or whiteboards).
 
-[Read more >](whatagilelookslike.html)
+[What does agile look like?](whatagilelookslike.html)
 
 ## User stories
 
