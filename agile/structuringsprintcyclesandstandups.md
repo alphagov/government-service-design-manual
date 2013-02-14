@@ -6,14 +6,10 @@ subsection: Working in an agile way
 status: draft
 ---
     
-#Structuring sprint cycles and stand-ups
-Your section will begin with a short, two-line summary of what you're showing people.
+Your page should begin with a short, two-line summary.
 
-##Guidance/Tool
-This will be a full explanation of the guidance or tool.
-
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
+##Guidance
+The guidance in full.
 
 ##Why we do this
 This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.

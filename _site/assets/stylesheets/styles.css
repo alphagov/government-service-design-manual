@@ -2242,9 +2242,12 @@ article table {
   .left img {
     width: 100%; }
   /* line 841 */
+  .left:hover {
+    cursor: pointer; }
+  /* line 844 */
   .left:active {
     width: 50%;
     position: absolute; }
-    /* line 844 */
+    /* line 847 */
     .left:active img {
       box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); }

@@ -841,6 +841,9 @@ article table{
   img{
     width: 100%;
   }
+  &:hover{
+    cursor: pointer;
+  }
   &:active{
     width: 50%;
     position: absolute;
