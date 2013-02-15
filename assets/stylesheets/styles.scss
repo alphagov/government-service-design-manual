@@ -808,15 +808,24 @@ header.page-header hgroup {
 .default .article-container .inner{
   margin-left:  25%;
   .intro,
+  p:first-of-type,
+  h2{
+    margin-left: -36%;
+  }
+}
+
+
+.article-container .inner > {
+  .intro,
   p:first-of-type{
-    margin: 0 0 0 -36%;
+    margin: 0;
     font-size: 24px;
     padding: 0;
   }
   h2{
     font-weight: 400;
     border-bottom: 5px solid $green;
-    margin: 2em 0 2em -36%;
+    margin: 2em 0 2em 0;
     &.subtitle{
       margin-top: -1em;
       border: 0 solid;
@@ -824,6 +833,12 @@ header.page-header hgroup {
   }
 }
 
+
+#markdown-toc{
+  li ul {
+    display: none;
+  }
+}
 
 .hide-headers thead{
   display: none;
@@ -843,12 +858,20 @@ article table{
   }
   &:hover{
     cursor: pointer;
+    &:after{
+      content: "Click to enlarge";
+      color: $secondary-text-colour;
+      font-size: 16px;
+    }
   }
   &:active{
     width: 50%;
     position: absolute;
     img{
       box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    }
+    &:after{
+      content: "";
     }
   }
 }
