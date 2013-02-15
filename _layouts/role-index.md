@@ -1,20 +1,29 @@
 ---
-layout: gsdm
+layout: wide
 section: home
 ---
+
+{% assign resources = false %}
+{% assign width = ' wide' %}
+{% for p in site.pages %}{% if p.audience.primary contains page.audience and p.type == 'resource' %}
+{% assign resources = true %}
+{% assign width = '' %}
+{% endif %}{% endfor %}
 
 <div class="home-page-promos">
   <div class="hero topic">
 
   {% for p in site.pages %}
     {% if p.title == page.hero %}
-    <h3>{{ p.title }}</h3>
-    <p><a href="{{ p.url }}">{{ p.subtitle }}</a></p>
+    <a href="{{ p.url }}">
+      <h3>{{ p.title }}</h3>
+      <p>{{ p.subtitle }}</p>
+    </a>
     {% endif %}
   {% endfor %}
 
   </div>
-  <div class="topic">
+  <div class="topic{{ width }}">
     <h3>Guides</h3>
     <ul>
     {% for p in site.pages %}
@@ -26,6 +35,8 @@ section: home
     {% endfor %}
     </ul>
   </div>
+
+{% if resources %}
   <div class="topic">
     <h3>Resources</h3>
     <ul>
@@ -38,6 +49,8 @@ section: home
     {% endfor %}
     </ul>
   </div>
+{% endif %}
+
 </div>
 
 
@@ -53,5 +66,7 @@ section: home
 {% endfor %}
 </ul>
 </div>
+
+{% include _role-links.html %}
 
 <p><strong><a href="/all-guides">See all guides...</a></strong></p>

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: CAPTCHA
 subsection: Design patterns
 status: draft

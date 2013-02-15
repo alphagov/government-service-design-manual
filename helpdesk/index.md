@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Acting on user feedback
 section: guidance
 subsection: Maintaining services

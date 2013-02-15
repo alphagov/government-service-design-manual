@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: The role of the designer
 subsection: Building a team
 status: draft

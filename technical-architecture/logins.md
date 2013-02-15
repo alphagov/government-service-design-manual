@@ -1,12 +1,14 @@
 ---
-layout: gsdm
-title: User Accounts and Log-ins
+layout: default
+title: User accounts and log-ins
+subtitle: How to do them and how to avoid them
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
+  secondary: designer
 status: draft
 ---
-    
-#User Accounts and Log-ins
 
 Adding log-ins/authentication to a service is a larger undertaking than it looks.
 

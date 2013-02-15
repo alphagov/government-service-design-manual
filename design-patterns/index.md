@@ -1,11 +1,11 @@
 ---
-layout: gsdm
+layout: wide
 title: Design patterns
 subtitle: Common interface elements for digital services
 section: guidance
 audience: 
   primary: designer
-  secomdary: researcher
+  secondary: researcher
 type: resource
 status: draft
 ---
@@ -25,6 +25,7 @@ status: draft
 * [Buttons](buttons.html)
 * [Emphasised form controls](emphasised-form-controls.html)
 * [Hidden form controls](hidden-form-controls.html)
+* [Error messages](errormessages.html)
 * [Example: Registration form](registration-form.html)
 
 ## Content

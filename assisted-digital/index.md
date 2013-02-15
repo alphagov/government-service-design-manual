@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Assisted digital
 subtitle: Getting digital services to hard to reach audiences
 section: guidance
@@ -10,13 +10,18 @@ status: draft
 theme: understanding-your-audience
 ---
 
-* Table of contents
-{:toc}
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
 
-#What is Assisted Digital?
+{% include _toc.md %}
+
+## What is Assisted Digital?
 A brief definition of what is meant by assisted digital. 
 
-##Guidance
+### Guidance
 [Action 9](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-09) of the Government Digital Strategy committed that, in the move to digital by default, 
 we would put in place a cross-government approach to assisted digital support for the 18% of adults 
 in the UK who are offline (never or very rarely use the internet) and for those who have limited digital capability.
@@ -27,7 +32,7 @@ access a service face to face, by phone, or in another appropriate non-digital w
 inputting their data into the digital system on their behalf, or helping them put their data into the 
 digital service themselves. This support will be designed around the specific needs of service users.
 
-##Why we do this
+### Why we do this
 Government recognises that citizens have different levels of digital capability and consequently 
 will need different kinds of support depending on their ability and the type of digital transaction 
 or service that is being accessed.  Good assisted digital support might also encourage and equip people 
@@ -38,15 +43,15 @@ straightforward and convenient that all those who can use them will do so, whils
 not excluded. Assisted digital support is the way that more challenged users will access the services 
 they are entitled to and can do the things that government requires of them. 
 
-##Further reading
+### Further reading
 Assisted digital strategy document (link)
 
 
-#Understanding the size of the Assisted Digital audience
+## Understanding the size of the Assisted Digital audience
 Service managers need to understand how many of their users are likely to be able to use digital services independently 
 and how many are unlikely to be able to use digital services independently. These people will need assisted digital. 
 
-##Guidance/Tool
+### Guidance/Tool
 User research and management information can be used to to understand assisted digital needs. 
 Customer Insight practitioners or User Experience researchers use techniques such as customer segmentation 
 (link here?) and profiling to divide their customer base into groups of individuals that are similar 
@@ -60,20 +65,20 @@ tool that enables organisations to map the touch points or life events which tri
 engagement with government or public services and how this interaction could be managed more effectively 
 for the user.
 
-##Why we do this
+### Why we do this
 User needs for assisted digital will also vary depending on who the users are. For example, services 
 with large numbers of older people may need different assisted digital provision from services with 
 large numbers of younger people. 
 
-##Further reading
+### Further reading
 In November 2012 we commissioned independent research on the [digital landscape](http://publications.cabinetoffice.gov.uk/digital/research/)
 to explore internet use in general and to gain insight on the relationship between users and government online transactions. 
 
-#Assisted Digital delivery models
+## Assisted Digital delivery models
 The Government has set out its strategy for how it intends to deliver services to people who are unable to
 use digital channels. This section explains the Government's approach, and links to further detail. 
 
-##Cross-government approach
+### Cross-government approach
 The Cross-Government Approach to Assisted Digital complements [Action 8](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-08) 
 of the Government Digital Strategy and strengthens the commitment to raising awareness and use of digital 
 services over more traditional channels. 
@@ -91,7 +96,7 @@ and white-labelling as an option. The goal is to  identify the best methods for 
 type of support they need in a holistic way rather than grouping services based on departmental branding 
 and transaction names. 
 
-##The Standard
+### The Standard
 The proposition, design and development of an assisted digital service must meet essential criteria 
 to quality assure the standard for assisted digital support. Central government will collaboratively 
 develop a requirements framework with complementary performance and assessment criteria.   
@@ -99,7 +104,7 @@ develop a requirements framework with complementary performance and assessment c
 The need for a quality mark and approved/accredited providers to promote consistency and enable adequate 
 signposting to assisted digital support will be fully explored.
 
-##Why we do this
+### Why we do this
 A comprehensive programme plan is in development to include work with all stakeholders representing 
 the requirements of assisted digital users. Appropriate governance via a programme board will be put 
 in place to ensure consistency and collaboration across departments, organisations and services providers.
@@ -111,7 +116,7 @@ Sector Equality Duty, under the Equality Act 2010, and the [Equality Act 2010 (S
 how different people will be affected by their activities, so that their policies and services are appropriate 
 and accessible to all and meet different people’s needs.  
 
-##Further reading
+### Further reading
 [Assisted digital strategy document](http://publications.cabinetoffice.gov.uk/digital/assisted/)
 
 21 major services are in planning to become Digital by Default by March 2015 - more details on these 

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Implementing user satisfaction
 section: guidance
 subsection: KPIs

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Setting a baseline
 section: guidance
 subsection: Planning to monitor performance

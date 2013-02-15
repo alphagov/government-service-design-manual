@@ -1,8 +1,10 @@
 ---
-layout: gsdm
+layout: default
 title: Open source considerations
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
 status: draft
 ---
     

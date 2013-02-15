@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 subsection: Design patterns
 status: draft
 css: /assets/stylesheets/design-patterns/forms.css

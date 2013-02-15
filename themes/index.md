@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 section: home
 title: Guides by theme
 ---

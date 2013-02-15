@@ -1,24 +1,22 @@
 ---
-layout: gsdm
+layout: default
 title: Load and performance testing
 section: guidance
-subsection: Technical Architecture
+type: guide
+audience:
+  primary: developer, tech-arch
 status: draft
 ---
-    
-# Load and performance testing
 
-History is litered with countless Government projects which collapsed under
-load or which worked slowly enough to frustrate users.
-
-As a Government service it is important that your systems and applications are
-performant and can deal with exected (and unexpected) levels of traffic. This
+History is littered with countless Government projects which collapsed under
+load or which worked slowly enough to frustrate users. As a Government service it is important that your systems and applications are
+performant and can deal with expected (and unexpected) levels of traffic. This
 means doing some capacity planning work up front but it also means doing
 specific load and performance testing. 
 
-## Guidance/Tool
+## Guidance
 
-### Capaicity planning
+### Capacity planning
 
 Capacity planning is the process of determining what amount of
 infrastructure and software is required to run a live system.
@@ -66,8 +64,6 @@ results.
 
 ## Further reading
 
-[Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
-
-[Distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
-
-[Capacity Planning Presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)
+* [Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
+* [Distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
+* [Capacity Planning Presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)

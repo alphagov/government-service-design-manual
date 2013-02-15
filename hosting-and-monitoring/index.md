@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Hosting
 section: guidance
 subsection: Maintaining services

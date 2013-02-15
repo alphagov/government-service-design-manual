@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Implementing cost per transaction
 section: guidance
 subsection: KPIs

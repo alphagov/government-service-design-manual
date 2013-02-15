@@ -1,3 +1,7 @@
+
+  
+
+
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
 <!--<![endif]--><head>
@@ -44,11 +48,11 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
-  <body class="mainstream full-width guidance">
+  <body class="mainstream full-width  default  guidance">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
         <!--start header-->
@@ -84,40 +88,22 @@
           </div>
         </div>
 
-
         <header class="page-header group">
-          <!--
-        
-            <div class="breadcrumb">
-              <li>
-                <a href="/guides">Guides and toolkits</a>
-              </li>
-              <li>
-                <span class="divider">/</span>
-                <a href="./">Technical Architecture</a>
-              </li>
-            </div>
-        
-      -->
 
         <hgroup><h1>Load and performance testing</h1></hgroup></header><div class="article-container group">
         <article role="article" class="group">
           <div class="inner">
               
 
-              <h1 id="load-and-performance-testing">Load and performance testing</h1>
-
-<p>History is litered with countless Government projects which collapsed under
-load or which worked slowly enough to frustrate users.</p>
-
-<p>As a Government service it is important that your systems and applications are
-performant and can deal with exected (and unexpected) levels of traffic. This
+              <p>History is littered with countless Government projects which collapsed under
+load or which worked slowly enough to frustrate users. As a Government service it is important that your systems and applications are
+performant and can deal with expected (and unexpected) levels of traffic. This
 means doing some capacity planning work up front but it also means doing
 specific load and performance testing. </p>
 
-<h2 id="guidancetool">Guidance/Tool</h2>
+<h2 id="guidance">Guidance</h2>
 
-<h3 id="capaicity-planning">Capaicity planning</h3>
+<h3 id="capacity-planning">Capacity planning</h3>
 
 <p>Capacity planning is the process of determining what amount of
 infrastructure and software is required to run a live system.
@@ -165,16 +151,17 @@ results.</p>
 
 <h2 id="further-reading">Further reading</h2>
 
-<p><a href="http://www.mattcutts.com/blog/site-speed/">Matt Cutts from Google on page speed</a></p>
-
-<p><a href="http://en.wikipedia.org/wiki/Denial-of-service_attack">Distributed Denial of Service attacks</a></p>
-
-<p><a href="http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676">Capacity Planning Presentation</a></p>
+<ul>
+  <li><a href="http://www.mattcutts.com/blog/site-speed/">Matt Cutts from Google on page speed</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Denial-of-service_attack">Distributed Denial of Service attacks</a></li>
+  <li><a href="http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676">Capacity Planning Presentation</a></li>
+</ul>
 
             </div>
             </article>
           </div>
       </section>
+
     </div><!--end wrapper-->
     <footer class="group" id="footer" role="contentinfo">
       <div class="footer-wrapper">
@@ -214,10 +201,16 @@ results.</p>
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
     </script>
   </body>
 </html>

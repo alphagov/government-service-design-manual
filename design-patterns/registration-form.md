@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Form example - Registration
 subsection: Design patterns
 status: draft

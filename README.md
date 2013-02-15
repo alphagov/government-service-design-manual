@@ -58,3 +58,19 @@ Used: To group links on landing pages
 Used on index pages to determine what page should be promoted in the 'hero' slot
 Takes the page title of a page.
 Any items appearing in the 'hero' slot will be removed from other lists on the page.
+
+
+## assets: local
+
+Use this on a page if you need to work temporarily offline.
+The page will reference locally stored copies of the main template files instead of the ones in
+the GOV.UK preview environment. Note that the local versions will most likely be out of date.
+
+
+## Table of contents
+
+For longer pages you may want to add a table of contents.
+
+Just add this line after your intro paragraph:
+
+{ nomarkdown } {% include _toc.md %} { endnomarkdown }

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Open standards and licensing
 section: guidance
 type: guide

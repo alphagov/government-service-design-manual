@@ -1,7 +1,11 @@
 ---
-layout: gsdm
+layout: default
 title: Testing code
+subtitle: How to ensure your code does what it's supposed to
 section: guidance
+type: guide
+audience:
+  primary: developer, tech-arch
 subsection: Technical Architecture
 status: draft
 ---

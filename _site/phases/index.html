@@ -1,3 +1,7 @@
+
+  
+
+
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
 <!--<![endif]--><head>
@@ -48,11 +52,11 @@
 
 <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-    <!--<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">-->
+<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
+    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
   </head>
 
-  <body class="mainstream full-width guidance">
+  <body class="mainstream full-width  wide  guidance">
     <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
         <!--start header-->
@@ -88,27 +92,13 @@
           </div>
         </div>
 
-
         <header class="page-header group">
-          <!--
-        
-            <div class="breadcrumb">
-              <li>
-                <a href="/guides">Guides and toolkits</a>
-              </li>
-              <li>
-                <span class="divider">/</span>
-                <a href="./"></a>
-              </li>
-            </div>
-        
-      -->
 
         <hgroup><h1>Discovery, Alpha, Beta, Live</h1></hgroup></header><div class="article-container group">
         <article role="article" class="group">
           <div class="inner">
               
-                <p class="subtitle">The four phases of service develpment</p>
+                <h2 class="subtitle">The four phases of service develpment</h2>
               
 
               <script type="text/JavaScript">
@@ -396,6 +386,7 @@ Progression between phases, delivering value early & taking on complexity & risk
             </article>
           </div>
       </section>
+
     </div><!--end wrapper-->
     <footer class="group" id="footer" role="contentinfo">
       <div class="footer-wrapper">
@@ -435,10 +426,16 @@ Progression between phases, delivering value early & taking on complexity & risk
 
 
     <script type="text/javascript">
-      // jQuery(function ($) {
-      //   $('.inner').annotator()
-      //              .annotator('setupPlugins');
-      // });
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
     </script>
   </body>
 </html>

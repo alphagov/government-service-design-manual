@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Defining KPIs
 section: guidance
 subsection: KPIs

@@ -108,6 +108,7 @@ article .inner{
   color: #666;
   margin-bottom: 1em;
   font-size: 24px;
+  font-weight: normal;
 }
 
 .standard-intro{    
@@ -134,7 +135,7 @@ article .inner{
     margin-top: 0;
     width: 20%;
     display: inline-block;
-    font-size:  42px;
+    font-size: 32px;
   }
 
   li{
@@ -646,7 +647,7 @@ article dd{
   overflow: hidden;
   margin-bottom: 2em;
   p{
-    width: 46%;
+    width: 47%;
     margin: 1em 0 1em 0;
     float: left;
     font-size: 19px;
@@ -656,10 +657,7 @@ article dd{
     display: block;
     float: right;
     padding: 1.5em 0 1em 1.5em;
-    width: 45%;
-    &:hover{
-      background-color: $light-blue-25;
-    }
+    width: 44%;
     img{
       width: 100%;
     }
@@ -681,9 +679,9 @@ article dd{
   @include regular-grid(3);
   a{
     display: block;
-    padding: 0.5em;
-    background-color: $highlight-colour;
+    padding: 0.5em 0;
     border-top: 3px solid $green;
+    font-size: 16px;
   }
 }
 
@@ -710,13 +708,27 @@ article dd{
 }
 
 .hero.topic{
+  padding: 0;
+  border-top: 0 solid;
+  a{
+    padding: 1em;
+    display: block;
+    background-color: $green;
+    text-decoration: none;
+    h3, p{
+      color: white;
+    }
+    p{
+      font-size: 19px;
+    }
+    &:hover{
+      background-color: lighten($green, 10%);
+    }
+  }
   h3{
     font-size: 48px;
     font-weight: normal;
     margin-bottom: 0.5em;
-  }
-  a h3{
-    text-decoration: none;
   }
 }
 
@@ -738,10 +750,128 @@ article dd{
   border-bottom: 0;
   padding-bottom: 1.5em;
   p{
+    /*
     font-size: 16px;
     margin-top: 0.5em;
     padding-top: 0.5em;
     padding-left: 0;
-    border-top: 1px solid #BFC1C3;
+    border-top: 1px solid #BFC1C3; */
+  }
+}
+
+.topic.wide{
+  width: 65.5%;
+  margin-right: 0;
+  li{
+    display: inline-block;
+    width: 48.3%;
+    &:nth-child(odd){
+      margin-right: 1em;
+    }
+  }
+}
+
+
+
+
+.dbd {
+  .page-header {
+    hgroup{
+      padding-top: 2em;
+    }
+    h1{
+      background: url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
+      height: 190px;
+      background-size: Auto 74%;
+      text-indent: -9999px;
+    }
+  }
+  .subtitle{
+    display: none;
+  }
+
+}
+
+.standard h4{
+  margin-left: 11.4em;
+  font-weight: bold;
+}
+
+header.page-header hgroup {
+  h1{/*
+    background: #FFBF47;
+    margin: -0.35em -0.66em;
+    padding: 0.5em;*/
+  }
+}
+
+.default .article-container .inner{
+  margin-left:  25%;
+  .intro,
+  p:first-of-type,
+  h2{
+    margin-left: -36%;
+  }
+}
+
+
+.article-container .inner > {
+  .intro,
+  p:first-of-type{
+    margin: 0;
+    font-size: 24px;
+    padding: 0;
+  }
+  h2{
+    font-weight: 400;
+    border-bottom: 5px solid $green;
+    margin: 2em 0 2em 0;
+    &.subtitle{
+      margin-top: -1em;
+      border: 0 solid;
+    }
+  }
+}
+
+
+#markdown-toc{
+  li ul {
+    display: none;
+  }
+}
+
+.hide-headers thead{
+  display: none;
+}
+
+article table{
+  margin: 1em 0 2em 0;
+  width: 100%;
+}
+
+.left{
+  width: 31%;
+  float: left;
+  margin-left: -36%;
+  img{
+    width: 100%;
+  }
+  &:hover{
+    cursor: pointer;
+    &:after{
+      content: "Click to enlarge";
+      color: $secondary-text-colour;
+      font-size: 16px;
+    }
+  }
+  &:active{
+    width: 50%;
+    position: absolute;
+    img{
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    }
+    &:after{
+      content: "";
+    }
   }
 }

@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Hidden form controls
 subsection: Design patterns
 status: draft

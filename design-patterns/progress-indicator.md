@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: wide
 title: Progress indicator
 subsection: Design patterns
 status: draft

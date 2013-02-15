@@ -1,5 +1,5 @@
 ---
-layout: gsdm
+layout: default
 title: Accessibility
 subtitle: How to make services that everyone can use
 section: guidance
