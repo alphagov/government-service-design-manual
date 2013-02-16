@@ -1,51 +1,36 @@
-README.md
 
-# YAML page meta data schema
+
+YAML page meta data schema
+==========================
 
 Pages in a Jekyll site begin with a section of YAML meta data,
 which specifies how the page should be rendered, where it should be linked from and so on.
 
 We've used a mixture of built in and custom tags, as follows:
 
-|--------
-| Tag | Values | Purpose |
-|--------
-| layout: | default, wide | Determines which page template to use |
-|--------
 
 
 
-## layout:
 
-Determines which page template to use.
-Options: gsdm
+* `layout` — Page layout. Can be 'default' or 'wide'
+* `title` — Page tite. Used at the top of the page, and in links to the page
+* `subtitle` — Page subtitle. Used below page title, and optionally in links to the page
 
-## title:
+* `audience` — Audience for the content. Split into primary and secondary audience. Takes a list of roles (designer, developer etc.)
+  * `primary`
+  * `secondary`
 
-The page title.
-Used:
-  In the title tag
-  On the page
-  As the text for links to the page
 
-## subtitle:
+====================   ======================================================
+Tag                    Options
+====================   ======================================================
+layout:                Page layout
+title:                 Page tite. Used at the top of the page, and in links to the page
+subtitle:              Page subtitle. Used below page title, and optionally in links to the page
+audience: primary:     Primary audience. Link to page will appear in top half of audience index page
+audience: secondary:   Secondary audience. Link to page will appear in bottom half of audience index page
+====================   ======================================================
 
-The page subtitle.
-Used:
-  Below the title on the page
-  On the title attribute of links to the page
-  In conjunction with the title in promo links to the page
-
-## audience:
-
-  primary:
-  secondary:
-
-Who this content is intended for.
-Can be one or more of: service-manager, designer, developer, tech-arch, researcher, analyst, content-designer
-Used to populate the role-specific landing pages
-  If the audience is primary, the page is promoted in the top half of the page
-  If the audience is secondary, the page will appear in the 'More guides from the manual' section
 
 
 ## status:

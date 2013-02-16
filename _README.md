@@ -7,34 +7,32 @@ which specifies how the page should be rendered, where it should be linked from 
 
 We've used a mixture of built in and custom tags, as follows:
 
-|--------
-| Tag | Values | Purpose |
-|--------
-| layout: | default, wide | Determines which page template to use |
-|--------
 
 
 
-## layout:
 
-Determines which page template to use.
-Options: gsdm
+* `layout` — Page layout. Can be 'default' or 'wide'
+* `title` — Page tite. Used at the top of the page, and in links to the page
+* `subtitle` — Page subtitle. Used below page title, and optionally in links to the page
 
-## title:
+* `audience` — Audience for the content. Split into primary and secondary audience. Takes a list of roles (designer, developer etc.)
+  * `primary`
+  * `secondary`
 
-The page title.
-Used:
-  In the title tag
-  On the page
-  As the text for links to the page
+==================   ======================================================
+Command              Description
+==================   ======================================================
+gh-browse            Manually browse the GitHub API by URL
+gh-list-members      List members of a GitHub organisation (may be removed)
+gh-login             Login to GitHub, generating an OAuth login token
+gh-migrate-project   Migrate an entire project between GitHub instances
+gh-migrate-teams     Migrate organisation teams between GitHub instances
+gh-org               Interact with organisations 
+gh-repo              Interact with repositories
+gh-status            Submit commit build status to GitHub
+==================   ======================================================
 
-## subtitle:
 
-The page subtitle.
-Used:
-  Below the title on the page
-  On the title attribute of links to the page
-  In conjunction with the title in promo links to the page
 
 ## audience:
 
