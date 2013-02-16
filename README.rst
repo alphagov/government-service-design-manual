@@ -8,65 +8,40 @@ which specifies how the page should be rendered, where it should be linked from 
 
 We've used a mixture of built in and custom tags, as follows:
 
+Content page meta data
+----------------------
+
+====================   ====================================   =========================================================================================================================================================================================================================================================
+Key                    Values                                 Description
+====================   ====================================   =========================================================================================================================================================================================================================================================
+layout:                default, wide                          Page layout
+title:                                                        Page tite. Used at the top of the page, and in links to the page
+subtitle:                                                     Page subtitle. Used below page title, and optionally in links to the page
+status:                draft, experimental etc.               Triggers a label in the top-right of the content area
+type:                  guide, resource                        Used to differentiate content types so they can be grouped on index pages
+section:               home, dbd, about                       Added as class to the body tag. Used to set global navigation and section-specific styles
+audience: primary:     designer, developer, researcher etc.   Primary audience. Link to page will appear in top half of audience index page
+audience: secondary:                                          Secondary audience. Link to page will appear in bottom half of audience index page
+assets:                local                                  Use this on a page if you need to work temporarily offline. The page will reference locally stored copies of the main template files instead of the ones in the GOV.UK preview environment. Note that the local versions will most likely be out of date.
+====================   ====================================   =========================================================================================================================================================================================================================================================
+
+Index page meta data
+--------------------
+
+Index pages are pages that list out links to content pages, for example, the role specific pages that are built using the ``audience`` keys in the YAML meta data.
+
+====================   ===============================================   =====================================================================================================================================================
+Key                    Values                                            Description
+====================   ===============================================   =====================================================================================================================================================
+hero:                  Takes the value of the ``title`` key of a page    Use this to select a page for the hero promo on an index page. Any items appearing in the 'hero' slot will be removed from other lists on the page.
+====================   ===============================================   =====================================================================================================================================================
 
 
+Table of contents
+=================
 
-
-* `layout` — Page layout. Can be 'default' or 'wide'
-* `title` — Page tite. Used at the top of the page, and in links to the page
-* `subtitle` — Page subtitle. Used below page title, and optionally in links to the page
-
-* `audience` — Audience for the content. Split into primary and secondary audience. Takes a list of roles (designer, developer etc.)
-  * `primary`
-  * `secondary`
-
-
-====================   ======================================================
-Tag                    Options
-====================   ======================================================
-layout:                Page layout
-title:                 Page tite. Used at the top of the page, and in links to the page
-subtitle:              Page subtitle. Used below page title, and optionally in links to the page
-audience: primary:     Primary audience. Link to page will appear in top half of audience index page
-audience: secondary:   Secondary audience. Link to page will appear in bottom half of audience index page
-====================   ======================================================
-
-
-
-## status:
-
-Options: draft, experimental, mandatory…
-Triggers a flag at the top-right of the content area
-
-
-## type:
-
-What kind of content is on the page
-Options:  guide   Something to be read (words, pictures...)
-    resource    Something to be used (code, web assets...)
-Used: To group links on landing pages
-
-## hero:
-
-Used on index pages to determine what page should be promoted in the 'hero' slot
-Takes the page title of a page.
-Any items appearing in the 'hero' slot will be removed from other lists on the page.
-
-## section:
-
-Added as class to the body tag. Used for global navigation and section-specific styles
-
-## assets: local
-
-Use this on a page if you need to work temporarily offline.
-The page will reference locally stored copies of the main template files instead of the ones in
-the GOV.UK preview environment. Note that the local versions will most likely be out of date.
-
-
-## Table of contents
-
-For longer pages you may want to add a table of contents.
+On longer pages you may want to add a table of contents to the top.
 
 Just add this line after your intro paragraph:
 
-{ nomarkdown } {% include _toc.md %} { endnomarkdown }
+{% include _toc.md %}
