@@ -10,8 +10,8 @@ section: home
 {% assign width = '' %}
 {% endif %}{% endfor %}
 
-<div class="home-page-promos">
-  <div class="hero topic">
+<div class="primary-links">
+  <div class="hero link-list">
 
   {% for p in site.pages %}
     {% if p.title == page.hero %}
@@ -23,7 +23,7 @@ section: home
   {% endfor %}
 
   </div>
-  <div class="topic{{ width }}">
+  <div class="link-list{{ width }}">
     <h3>Guides</h3>
     <ul>
     {% for p in site.pages %}
@@ -37,7 +37,7 @@ section: home
   </div>
 
 {% if resources %}
-  <div class="topic">
+  <div class="link-list">
     <h3>Resources</h3>
     <ul>
     {% for p in site.pages %}
@@ -54,7 +54,7 @@ section: home
 </div>
 
 
-<div class="topic">
+<div class="link-list">
   <h3>More guides from the manual</h3>
 <ul>
 {% for p in site.pages %}

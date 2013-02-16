@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: wide
 title: All guides
 subtitle: A list of all guides
 section: home
 status: draft
 ---
 
-<div class="topic">
+<div class="link-list">
   <h3>All guides</h3>
 <ul>
 {% for p in site.pages %}

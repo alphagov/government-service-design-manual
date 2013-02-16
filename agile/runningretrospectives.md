@@ -4,6 +4,7 @@ title: Running retrospectives
 section: guidance
 subsection: Working in an agile way
 status: draft
+assets: local
 ---
     
 How and why we run retrospectives.

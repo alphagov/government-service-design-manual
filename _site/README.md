@@ -7,6 +7,14 @@ which specifies how the page should be rendered, where it should be linked from 
 
 We've used a mixture of built in and custom tags, as follows:
 
+|--------
+| Tag | Values | Purpose |
+|--------
+| layout: | default, wide | Determines which page template to use |
+|--------
+
+
+
 ## layout:
 
 Determines which page template to use.
@@ -59,6 +67,9 @@ Used on index pages to determine what page should be promoted in the 'hero' slot
 Takes the page title of a page.
 Any items appearing in the 'hero' slot will be removed from other lists on the page.
 
+## section:
+
+Added as class to the body tag. Used for global navigation and section-specific styles
 
 ## assets: local
 

@@ -5,7 +5,7 @@ title: Guides by theme
 ---
 
 
-<div class="topic">
+<div class="link-list">
   <h3>Getting started</h3>
 <ul>
 {% for p in site.pages %}
@@ -18,7 +18,7 @@ title: Guides by theme
 </ul>
 </div>
 
-<div class="topic">
+<div class="link-list">
   <h3>Understanding your audience</h3>
 <ul>
 {% for p in site.pages %}
@@ -31,7 +31,7 @@ title: Guides by theme
 </ul>
 </div>
 
-<div class="topic">
+<div class="link-list">
   <h3>Security and the law</h3>
 <ul>
 {% for p in site.pages %}
@@ -44,7 +44,7 @@ title: Guides by theme
 </ul>
 </div>
 
-<div class="topic">
+<div class="link-list">
   <h3>Designing and building your service</h3>
 <ul>
 {% for p in site.pages %}
@@ -57,7 +57,7 @@ title: Guides by theme
 </ul>
 </div>
 
-<div class="topic">
+<div class="link-list">
   <h3>Maintaining and improving your service</h3>
 <ul>
 {% for p in site.pages %}

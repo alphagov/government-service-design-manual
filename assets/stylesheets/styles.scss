@@ -19,6 +19,9 @@
 
 
 // Semantic colour names
+$main-colour: $green;
+$secondary-colour: $green-25;
+
 $alpha-colour: $pink;
 $discovery-colour: $pink-25;
 $inception-colour: $pink-50;
@@ -28,465 +31,18 @@ $live-colour: $grass-green;
 $operational-colour: $grass-green-50;
 $decommissioning-colour: $grey-3;
 
-article .inner{
-  padding-right: 2em;
-}
-.categories{
-  @include regular-grid(2);
-  margin-top: 1em;
-  h2{
-    @include heading-36;
-  }
-  ul{
-    padding-left: 0;
-    li{
-      padding-left: 0;
-      list-style: none;
-      a{
-        text-decoration: none;
-        &:hover{
-          text-decoration: underline;
-        }
-      }
-    }
-  }
-}
-.home-page-hero{
-  border: 5px solid #ebebeb;
-  margin-bottom: 1.5em;
-  a{
-    padding: 2em;
-    display: block;
-    &:hover{
-      background: #F9F9F9;
-      p{
-        text-decoration: underline;
-        color: #2E3191;
-      }
-    }
-  }
-  img{
-    width: 55%;
-    margin-top: 0.25em;
-  }
-  p{
-    width: 36.5%;
-    float: left;
-    font-size: 24px;
-    margin: 0 2em 0 0;
-  }
-}
 
-// Home page promo slots
-.home-page-promos {
-  div{
-    box-sizing: border-box;
-    border-top: 3px solid $green;
-    padding: 1em 0 0 0;
-  }
-  .action{
-    margin: 0 -16px;
-    background-color: $green;
-    a{
-      color: $white;
-      padding: 1em;
-      display: block;
-      &:hover{
-        background-color: lighten($green, 10%);
-      }
-    }
-  }
-}
 
-.home-page-promos{
-  @include regular-grid(3);
-}
 
-// Subtitle
-.subtitle{
-  margin-top: -1em;
-  color: #666;
-  margin-bottom: 1em;
-  font-size: 24px;
-  font-weight: normal;
-}
+// ====================================================
+// DEFAULT PAGE STYLES
+//
 
-.standard-intro{    
-  img{
-    float: right;
-    width: 30%;
-    margin: -3em 0 0 0;
-    border: 5px solid #EBEBEB;
-    padding: 2.5em;
-  }
-}
-
-.standard{
-  ul{
-    display: inline-block;
-    vertical-align: middle;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    padding-left: 0;
-    width:  73%;
-    border-left: 5px solid $grey-3;
-  }
-  h3{
-    margin-top: 0;
-    width: 20%;
-    display: inline-block;
-    font-size: 32px;
-  }
-
-  li{
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    line-height: 42px;
-    padding-left: 2.5em;
-    background-image: url("../images/progress-tick.png");
-    background-repeat: no-repeat;
-    background-position: 19px 45%;
-  }
-}
-.guides-overview{
-  width:100%;
-  clear:both;
-}
-.guides-overview li{
-  float:left;
-  display:block;
-  height:80px;
-  width:124px;
-  padding-top:48px;
-  border-radius:62px;
-  &.discovery{
-    background-color:$discovery-colour;
-  }
-  &.inception{
-    background-color:$inception-colour;
-  }
-  &.alpha{
-    background-color:$alpha-colour;
-  }
-  &.beta{
-    background-color:$beta-colour;
-  }
-  &.live{
-    background-color:$live-colour;
-  }
-  &.operational{
-    background-color:$operational-colour;
-  }
-  &.decommissioning{
-    background-color:$decommissioning-colour;
-  }
-}
+// Global navigation
 #global-nav{
   text-align:left;
 }
-.phase-nav{
-  width:100%;
-  margin:0 -1em;
-}
-.phase-nav li{
-  display:block;
-  float:left;
-  width:49%;
-  margin:0; 
-  padding:1em;
-  &.discovery{
-    background-color:$discovery-colour;
-  }
-  &.inception{
-    background-color:$inception-colour;
-  }
-  &.alpha{
-    background-color:$alpha-colour;
-  }
-  &.beta{
-    background-color:$beta-colour;
-  }
-  &.live{
-    background-color:$live-colour;
-  }
-  &.operational{
-    background-color:$operational-colour;
-  }
-  &.decommissioning{
-    background-color:$decommissioning-colour;
-  }
-}
-.alpha-phase hgroup{
-  background-color: $alpha-colour;
-  color: #fff;
-  padding-left:2em;
-}
 
-.breadcrumb{
-  list-style-type: none;
-  list-style-image: none;
-  margin: 0;
-  padding: 0;
-  background: white;
-  padding: 1em 2em 0 2em;
-  li{
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-  }
-}
-
-
-
-.phase-diagram{
-  width: 100%;
-  margin: 0 -1em 0 -1em;
-}
-
-// ====================================================
-// PROJECTS
-//
-
-.project-list{
-  margin: 0 0 1em 0;
-  width: 60%;
-}
-
-.nav-tabs{
-  list-style-type: none;
-  list-style-image: none;
-  border-bottom: solid 1px #A1ACB2;
-}
-
-// Departmental logo
-.organisation-logo{
-  float: right;
-  margin: 1em 2em;
-}
-
-// Project meta data
-.status-updates {
-  @include panel($light-blue-25, 31.67%, right);
-  margin: 0;  ul{
-    list-style-type: none;
-    list-style-image: none;
-    margin: 0 0 0 2.5%;
-    padding: 0;
-    li{
-      padding: 0;   
-    }
-  }
-}
-.project-meta{
-  @include panel($light-blue-25, 32%, right);
-  margin-right: 0;
-  ul{
-    list-style-type: none;
-    list-style-image: none;
-    margin: 0;
-    padding: 0;
-    li{
-      padding: 0;
-      margin: 0;   
-    }
-  }
-  p{margin-top: 0;}
-  .team{
-    li{
-      display: inline-block;
-    }
-  }
-}
-
-@include details-and-summary;
-
-.steps{
-  list-style-image: none;
-  margin: 0;
-  padding-left: 0;
-  li{
-    list-style-type: none;
-    padding-left: 0.25em;
-    margin: 0 0 2px 0;
-    &:nth-child(odd){
-      background: #f9f9f9;
-    }
-    &.completed{
-      background: $green-25;
-    }
-  }
-  div{
-    @include copy-16;
-    display: inline-block;
-  }
-  .step-title{
-    width: 63%;
-    padding-left: 1.5em;
-  }
-  .completed .step-title{
-    background-image: url("../images/progress-tick.png");
-    background-repeat: no-repeat;
-    background-position: 0 50%;
-  }
-  .step-status{
-    width: 18%;
-  }
-  .step-action{
-    width: 15%;
-  }
-}
-
-// Tooltip
-
- 
-a.tooltip {
-  outline: none;
-  color: $black;
-  text-decoration: none;
-  &:hover{
-    text-decoration: underline;
-    &:after{
-      content: "\25C0";
-      display: block;
-      text-decoration: none;
-      color: black;
-      z-index: 11;
-      margin-left: 10px;
-    }
-    span{
-      display: inline;
-      position: absolute;
-      color: #EEE;
-      background: #0B0C0C;
-    }
-  }
-  span {
-    z-index: 10;
-    display: none;
-    padding: 1em;
-    margin-top: -50px;
-    margin-left: 22px;
-    width:240px;    
-    box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.3)
-  }
-}
-
-
-// Add Journal Entry
-
-.add-journal-entry{
-  @include form(top);
-  form{
-    @include panel;
-    // This is only here because I couldn't figure out how to surpress Django colons in labels
-    .group{
-      color: white;
-      input, textarea{
-        margin-left: -0.3em;
-      }
-    }
-  }
-}
-
-// Guidance list
-
-.guidance-list{
-  -moz-column-count: 2;
-  -moz-column-gap: 20px;
-  -webkit-column-count: 2;
-  -webkit-column-gap: 20px;
-  column-count: 2;
-  column-gap: 20px;
-  .topic{
-    -webkit-column-break-inside:avoid;
-    -moz-column-break-inside:avoid;
-    -o-column-break-inside:avoid;
-    -ms-column-break-inside:avoid;
-    column-break-inside:avoid;
-    margin-bottom: 2.4em;
-    h3{
-      margin-top: 0;
-    }
-  }
-}
-
-.recently-updated{
-  @include panel($light-blue-25, 33%, right, $outdent: false);
-}
-
-// Search guides panel
-
-.search-guides{ 
-  @include panel($outdent: false);
-  margin-top: 3em;
-  @include form(left);
-  input[type="search"]{
-    background-color: white;
-    width: 24em;
-  }
-  label{
-    font-size: 2.4rem;
-  }
-}
-
-.page-contents {
-background-color: #F2F2F2;
-margin: 1em -1em 1.5em -1em;
-padding: 1em 1em 0.25em 1em;
-}
-
-.meta-data{
-  margin-top: 0;
-  text-align: left;
-  width: 100%;
-  p{
-    display: block;
-  }
-}
-
-// Project phases
-
-.phases{
-  list-style-type: none;
-  list-style-image: none;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  li{
-    padding: 0;
-    display: inline-block;
-    background-color: $panel-colour;
-    width: 20%;
-    .badge{
-      font-size: 16px;
-      color: $black;
-      padding: 0.2em 0.25em 0em 0.5em;
-      text-transform: uppercase;
-      font-weight: normal;
-    }
-    &.complete{
-      background-color: $light-blue-50;
-    }
-  }
-}
-
-// ====================================================
-// Header links
-.article h2 {
-  .headerlink{
-    display: inline-block;
-    text-indent: -9999px;
-    width: 20px;
-    margin-left: -20px;
-  }
-  &:hover .headerlink{
-    visibility: visible;
-    text-indent: 0;
-  }
-}
-
-// ====================================================
 // Alpha sticker
 #global-nav .home {
   a {
@@ -504,15 +60,384 @@ padding: 1em 1em 0.25em 1em;
   }
 }
 
+// Reset right padding of main page
+article .inner{
+  padding-right: 2em; 
+}
+
+// Page subtitle
+.subtitle{
+  margin: -1em 0 1em 0;
+  color: $secondary-text-colour;
+  @include core-24;
+}
+
+// Breadcrumbs
+.breadcrumb{
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+  background: white;
+  padding: 1em 2em 0 2em;
+  li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.article-container .inner {
+  // 1st para is bigger
+  .intro,
+  > p:first-of-type{
+    margin: 0;
+    font-size: 24px;
+    padding: 0;
+  }
+  // H2's get distinct style
+  h2{
+    font-weight: 400;
+    border-bottom: 5px solid $main-colour;
+    margin: 2em 0 2em 0;
+    &.subtitle{
+      margin-top: -1em;
+      border: 0 solid;
+    }
+  }
+}
+
+// Default page layout has wide left margin to reduce line length
+.default .article-container .inner{
+  margin-left:  25%;
+  .intro,
+  > p:first-of-type,
+  h2{
+    margin-left: -36%;
+  }
+}
+
+
+
+// Table of contents
+#markdown-toc{
+  li ul {
+    display: none;
+  }
+}
+
+// Data tables
+article table{
+  margin: 1em 0 2em 0;
+  width: 100%;
+}
+.hide-headers thead{
+  display: none;
+}
+
+// Throw images into left margin
+.left{
+  width: 31%;
+  float: left;
+  margin-left: -36%;
+  img{
+    width: 100%;
+  }
+  &:hover{
+    cursor: pointer;
+    &:after{
+      content: "Click to enlarge";
+      color: $secondary-text-colour;
+      font-size: 16px;
+    }
+  }
+  &:active{
+    width: 50%;
+    position: absolute;
+    img{
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+    }
+    &:after{
+      content: "";
+    }
+  }
+}
+
 // ====================================================
-// DESIGN PATTERNS
+// HOME PAGE
 //
 
-
-// Page contents
-.page-contents{
-  @include panel;
+// Main promo on home page
+.dbd-promo{
+  font-size: 16px;
+  border-top: 3px solid $main-colour;
+  border-bottom: 3px solid $main-colour;
+  overflow: hidden;
+  margin-bottom: 2em;
+  p{
+    width: 47%;
+    margin: 1em 0 1em 0;
+    float: left;
+    font-size: 19px;
+    line-height: 1.5em;
+  }
+  .logo{
+    display: block;
+    float: right;
+    padding: 1.5em 0 1em 1.5em;
+    width: 44%;
+    img{
+      width: 100%;
+    }
+  }
 }
+
+// Secondary promos
+.secondary-promos{
+  @include regular-grid(3, 165px);
+  margin: 2em 0 0 0;
+  div{
+    background: $secondary-colour;
+  }
+  h3{
+    background: $main-colour;
+    padding: 0.5em 1em;
+    color: white;
+    font-weight: normal;
+    margin: 0;
+  }
+  p{
+    margin: 0;   
+  }
+  a{
+    display: block;
+    padding: 1em;
+  }
+}
+
+// Links to role index pages
+.roles{
+  @include regular-grid(3);
+  a{
+    display: block;
+    padding: 0.5em 0;
+    border-top: 3px solid $main-colour;
+    font-size: 16px;
+  }
+}
+
+
+// ====================================================
+// DIGITAL BY DEFAULT STANDARD PAGE
+//
+
+.dbd {
+  // Swap standard header for DbD kitemark
+  .page-header {
+    hgroup{
+      padding-top: 2em;
+    }
+    h1{
+      background: url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
+      height: 190px;
+      background-size: Auto 74%;
+      text-indent: -9999px;
+    }
+  }
+  .subtitle{
+    display: none;
+  }
+  // The list of criteria
+  .standard{
+    ul{
+      display: inline-block;
+      vertical-align: middle;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      padding-left: 0;
+      width:  73%;
+      border-left: 5px solid $grey-3;
+    }
+    li{
+      list-style: none;
+      line-height: (40 / 24);
+      padding-left: 1em;
+      //background-image: url("../images/progress-tick.png");
+      //background-repeat: no-repeat;
+      //background-position: 19px 45%;
+      &:before{
+        content: "✓";
+        color: $green;
+        margin-right: 1em;
+      }
+    }  
+    h3{
+      display: inline-block;
+      margin-right: 1em;
+      width: 18%;
+      @include heading-36;
+      text-align: right;
+    }
+    h4{
+      margin-left: 11.4em;
+      font-weight: bold;
+    }
+  }
+}
+
+
+// ====================================================
+// DISCOVERY, ALPHA, BETA, LIVE PAGE
+//
+
+.phase-diagram{
+  width: 100%;
+  margin: 0 -1em 0 -1em;
+}
+
+.phase-nav{
+  width:100%;
+  margin:0 -1em;
+  li{
+    display: block;
+    float: left;
+    width: 49%;
+    margin: 0; 
+    padding: 1em;
+    &.discovery{
+      background-color:$discovery-colour;
+    }
+    &.inception{
+      background-color:$inception-colour;
+    }
+    &.alpha{
+      background-color:$alpha-colour;
+    }
+    &.beta{
+      background-color:$beta-colour;
+    }
+    &.live{
+      background-color:$live-colour;
+    }
+    &.operational{
+      background-color:$operational-colour;
+    }
+    &.decommissioning{
+      background-color:$decommissioning-colour;
+    }
+  }
+}
+
+// ====================================================
+// INDEX PAGES
+//
+
+// Primary links
+.primary-links {
+  @include regular-grid(3);
+  div{
+    box-sizing: border-box;
+    border-top: 3px solid $main-colour;
+    padding: 1em 0 0 0;
+  }
+}
+
+// Lists of links
+.link-list {
+  border-top: 3px solid $main-colour;
+  border-bottom: 0;
+  padding-bottom: 1.5em;
+  h3{
+    margin-top: 1em;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+    li{
+      font-size: 16px;
+      list-style-type: none;
+      list-style-image: none;
+      overflow: hidden;
+      margin-top: 0.5em;
+      padding-top: 0.5em;
+      padding-left: 0;
+      border-top: 1px solid $grey-3;
+      a{
+        display: block;
+        overflow: hidden;
+        span{
+          display: block;
+          float: left;
+        }
+        .title {
+          width: 34%;
+          text-decoration: underline;
+        }
+        .description{
+          width: 64%;
+          color: $secondary-text-colour;
+        }
+        &:hover .description{
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  // Run lists over two columns
+  &.wide{
+    width: 65.5%;
+    margin-right: 0;
+    li{
+      display: inline-block;
+      width: 48.3%;
+      &:nth-child(odd){
+        margin-right: 1em;
+      }
+    }
+  }
+  // Use title attribute to show page subtitle
+  a[title]:after{
+    content: attr(title);
+    position: absolute;
+    left: 35%;
+    color: #6F777B;
+    text-decoration: none;
+    width: 64%;
+    &:hover{
+      text-decoration: underline;
+    }    
+  }
+  // Big blocky version for hero promo
+  &.hero{
+    padding: 0;
+    border-top: 0 solid;
+    a{
+      padding: 1em;
+      display: block;
+      background-color: $main-colour;
+      text-decoration: none;
+      h3, p{
+        color: white;
+      }
+      p{
+        font-size: 19px;
+      }
+      &:hover{
+        background-color: lighten($main-colour, 10%);
+      }
+    }
+    h3{
+      font-size: 48px;
+      font-weight: normal;
+      margin-bottom: 0.5em;
+    }
+  }
+}
+
+
+// ====================================================
+// DESIGN PATTERN PAGES
+//
 
 /* Intro panel on landing page */
 .pattern-library{
@@ -577,7 +502,6 @@ article dd{
 }
 
 /* Mixin argument toggle styles */
-
 .class-toggle .option:hover{
   cursor: pointer;
   text-decoration: underline;
@@ -592,286 +516,38 @@ article dd{
   }
 }
 
-.topic {
-  border-bottom: 1px solid #BFC1C3;
-  padding-bottom: 5px;
-  h3{
-    margin-top: 1em;
-  }
-  ul{
-    list-style-type: none;
-    list-style-image: none;
-    margin: 0;
-    padding: 0;
-    li{
-      font-size: 16px;
-      list-style-type: none;
-      list-style-image: none;
-      overflow: hidden;
-      margin-top: 0.5em;
-      padding-top: 0.5em;
-      padding-left: 0;
-      border-top: 1px solid #BFC1C3;
-      a{
-        display: block;
-        overflow: hidden;
-        span{
-          display: block;
-          float: left;
-        }
-        .title {
-          width: 34%;
-          text-decoration: underline;
-        }
-        .description{
-          width: 64%;
-          color: #6F777B;
-          //display: none; // temporarily hidden until we have content for this object
-        }
-        &:hover .description{
-          text-decoration: underline;
-        }
-      }
-    }
-  }
-}
 
+// ====================================================
+// Tooltip 
 
-
-
-
-.dbd-promo{
-  font-size: 16px;
-  border-top: 3px solid $green;
-  border-bottom: 3px solid $green;
-  overflow: hidden;
-  margin-bottom: 2em;
-  p{
-    width: 47%;
-    margin: 1em 0 1em 0;
-    float: left;
-    font-size: 19px;
-    line-height: 1.5em;
-  }
-  .logo{
-    display: block;
-    float: right;
-    padding: 1.5em 0 1em 1.5em;
-    width: 44%;
-    img{
-      width: 100%;
-    }
-  }
-}
-
-.home {
-  /*
-  h1{
-    width: 40%;
-  }
-  .subtitle {
-    width: 29%;
-  }
-  */
-}
-
-.roles{
-  @include regular-grid(3);
-  a{
-    display: block;
-    padding: 0.5em 0;
-    border-top: 3px solid $green;
-    font-size: 16px;
-  }
-}
-
-.secondary-promos{
-  @include regular-grid(3, 165px);
-  margin: 2em 0 0 0;
-  div{
-    background: $green-25;
-  }
-  h3{
-    background: $green;
-    padding: 0.5em 1em;
-    color: white;
-    font-weight: normal;
-    margin: 0;
-  }
-  p{
-    margin: 0;   
-  }
-  a{
-    display: block;
-    padding: 1em;
-  }
-}
-
-.hero.topic{
-  padding: 0;
-  border-top: 0 solid;
-  a{
-    padding: 1em;
-    display: block;
-    background-color: $green;
-    text-decoration: none;
-    h3, p{
-      color: white;
-    }
-    p{
-      font-size: 19px;
-    }
-    &:hover{
-      background-color: lighten($green, 10%);
-    }
-  }
-  h3{
-    font-size: 48px;
-    font-weight: normal;
-    margin-bottom: 0.5em;
-  }
-}
-
-
-.topic a[title]:after{
-  content: attr(title);
-  position: absolute;
-  left: 35%;
-  color: #6F777B;
+a.tooltip {
+  outline: none;
+  color: $black;
   text-decoration: none;
-  width: 64%;
   &:hover{
     text-decoration: underline;
-  }    
-}
-
-.topic{
-  border-top: 3px solid $green;
-  border-bottom: 0;
-  padding-bottom: 1.5em;
-  p{
-    /*
-    font-size: 16px;
-    margin-top: 0.5em;
-    padding-top: 0.5em;
-    padding-left: 0;
-    border-top: 1px solid #BFC1C3; */
-  }
-}
-
-.topic.wide{
-  width: 65.5%;
-  margin-right: 0;
-  li{
-    display: inline-block;
-    width: 48.3%;
-    &:nth-child(odd){
-      margin-right: 1em;
-    }
-  }
-}
-
-
-
-
-.dbd {
-  .page-header {
-    hgroup{
-      padding-top: 2em;
-    }
-    h1{
-      background: url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
-      height: 190px;
-      background-size: Auto 74%;
-      text-indent: -9999px;
-    }
-  }
-  .subtitle{
-    display: none;
-  }
-
-}
-
-.standard h4{
-  margin-left: 11.4em;
-  font-weight: bold;
-}
-
-header.page-header hgroup {
-  h1{/*
-    background: #FFBF47;
-    margin: -0.35em -0.66em;
-    padding: 0.5em;*/
-  }
-}
-
-.default .article-container .inner{
-  margin-left:  25%;
-  .intro,
-  p:first-of-type,
-  h2{
-    margin-left: -36%;
-  }
-}
-
-
-.article-container .inner > {
-  .intro,
-  p:first-of-type{
-    margin: 0;
-    font-size: 24px;
-    padding: 0;
-  }
-  h2{
-    font-weight: 400;
-    border-bottom: 5px solid $green;
-    margin: 2em 0 2em 0;
-    &.subtitle{
-      margin-top: -1em;
-      border: 0 solid;
-    }
-  }
-}
-
-
-#markdown-toc{
-  li ul {
-    display: none;
-  }
-}
-
-.hide-headers thead{
-  display: none;
-}
-
-article table{
-  margin: 1em 0 2em 0;
-  width: 100%;
-}
-
-.left{
-  width: 31%;
-  float: left;
-  margin-left: -36%;
-  img{
-    width: 100%;
-  }
-  &:hover{
-    cursor: pointer;
     &:after{
-      content: "Click to enlarge";
-      color: $secondary-text-colour;
-      font-size: 16px;
+      content: "\25C0";
+      display: block;
+      text-decoration: none;
+      color: black;
+      z-index: 11;
+      margin-left: 10px;
+    }
+    span{
+      display: inline;
+      position: absolute;
+      color: #EEE;
+      background: #0B0C0C;
     }
   }
-  &:active{
-    width: 50%;
-    position: absolute;
-    img{
-      box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
-    }
-    &:after{
-      content: "";
-    }
+  span {
+    z-index: 10;
+    display: none;
+    padding: 1em;
+    margin-top: -50px;
+    margin-left: 22px;
+    width:240px;    
+    box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.3)
   }
 }

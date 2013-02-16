@@ -94,23 +94,67 @@
         <article role="article" class="group">
           <div class="inner">
               
-                <h2 class="subtitle">(TO DO)</h2>
+                <h2 class="subtitle">How gov.uk uses shared asset libraries, and where we provide our code</h2>
               
 
-              <h1 id="shared-asset-libraries">Shared asset libraries</h1>
-<p>Your section will begin with a short, two-line summary of what you’re showing people.</p>
-
-<h2 id="guidancetool">Guidance/Tool</h2>
-<p>This will be a full explanation of the guidance or tool.</p>
-
-<h2 id="codetemplates">Code/Templates</h2>
-<p>If you’re giving people code r copy to cuta and paste then here is where it will go.</p>
+              <p>Shared asset libraries are helpful for using the same frontend and
+branding on multiple services. This guide will show you how to go
+about getting the code used on <a href="https://www.gov.uk">gov.uk</a> into your
+services.</p>
 
 <h2 id="why-we-do-this">Why we do this</h2>
-<p>This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.</p>
 
-<h2 id="further-reading">Further reading</h2>
-<p>Link within the Manual, or to other posts, that will help people to work on the tool.</p>
+<p>When building services around patterns and consistency, it’s important
+to share your frontend assets so that they can be easily reused as
+required.</p>
+
+<p>There’s are two additional benefits to this approach:</p>
+
+<ul>
+  <li>Single serve assets are
+<a href="http://developer.yahoo.com/performance/rules.html#num_http">recommended by Yahoo! as a performance best practice</a>;</li>
+  <li>All used libraries are kept at known versions, which guarantees
+compatibility and reduces the risk of security vulnerabilities
+through external server compromise.</li>
+</ul>
+
+<h2 id="where-to-find-our-code">Where to find our code</h2>
+
+<p>The templates on gov.uk are constantly in flux as we react to user
+feedback and evolving best practice, so the best place to find them is
+on our open source frontend libraries - more explanation of these to
+follow:</p>
+
+<ul>
+  <li><a href="https://github.com/alphagov/static">Static</a></li>
+  <li><a href="https://github.com/alphagov/frontend">Frontend</a></li>
+  <li><a href="https://github.com/alphagov/govuk_frontend_toolkit">govuk_frontend_toolkit</a></li>
+</ul>
+
+<h3 id="static">Static</h3>
+
+<p>The <a href="https://github.com/alphagov/static">static repository</a> contains
+our
+<a href="https://github.com/alphagov/static/tree/master/app/views/root">wrapper templates</a>,
+our
+<a href="https://github.com/alphagov/static/tree/master/app/assets/stylesheets">basic CSS</a>,
+and our
+<a href="https://github.com/alphagov/static/tree/master/app/assets/javascripts">basic Javascript</a>. Anything
+added to this repository is built to be used across the entire gov.uk
+website and is used to provide a consistent look and feel.</p>
+
+<h3 id="frontend">Frontend</h3>
+
+<p>The <a href="https://github.com/alphagov/frontend">frontend repository</a>
+contains the wrapper templates and views for many of the various pages
+used across gov.uk. It gives a good indication as to how to structure
+HTML and assets together.</p>
+
+<h3 id="govukfrontendtoolkit">govuk_frontend_toolkit</h3>
+
+<p>Please see
+<a href="/guides/designing-your-service/scssrepo.html">Sass repositories</a> for
+more information on this repository.</p>
 
             </div>
             </article>
