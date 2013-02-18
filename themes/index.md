@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: wide
 section: home
 title: Guides by theme
 ---
