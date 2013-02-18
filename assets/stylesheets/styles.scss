@@ -91,7 +91,6 @@ article .inner{
   // 1st para is bigger
   .intro,
   > p:first-of-type{
-    margin: 0;
     font-size: 24px;
     padding: 0;
   }

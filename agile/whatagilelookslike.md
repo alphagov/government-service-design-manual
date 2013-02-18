@@ -12,8 +12,10 @@ theme: agile
 status: draft
 ---
 
+{:.intro}
 Agile is a liberating way of working.  It does not preclude the use of existing skills and knowledge but it does require teams, users and stakeholders to adopt new ways of working together.  
 
+{:.intro}
 This short guide lists a few of the behaviours common to agile projects that point towards successful delivery and learning. 
 
 ## Understand your users 
