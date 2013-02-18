@@ -97,39 +97,34 @@
                 <h2 class="subtitle">Using and creating Application Programming Interfaces</h2>
               
 
-              <ul id="markdown-toc">
-  <li><a href="#producing-apis">Producing APIs</a>    <ul>
-      <li><a href="#guidance">Guidance</a>        <ul>
-          <li><a href="#build-an-api-by-building-with-the-api">Build an API by building with the API</a></li>
-          <li><a href="#just-use-the-web">Just use The Web</a></li>
-          <li><a href="#give-each-thing-a-bookmarkable-uri">Give each thing a bookmarkable URI</a></li>
-          <li><a href="#use-http-methods-as-tim-intended">Use HTTP methods as Tim intended</a></li>
-          <li><a href="#representations-are-for-the-consumer">Representations are for the consumer</a></li>
-          <li><a href="#names-reinforce-conventions">Names reinforce conventions</a></li>
-          <li><a href="#document-by-discovery--and-example">Document by discovery … and example</a></li>
-          <li><a href="#explicitly-set-expectations">Explicitly set expectations</a></li>
-          <li><a href="#be-public-by-default">Be public by default</a></li>
-          <li><a href="#communicate-breaking-changes">Communicate breaking changes</a></li>
-        </ul>
-      </li>
-      <li><a href="#further-reading">Further reading</a></li>
+              <p>Martha Lane Fox’s report report called for government to act as a “wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces <a href="http://en.wikipedia.org/wiki/Application_programming_interface">APIs</a> to third parties”. This section is a set of guiding principles for exposing a Digital service as an API.</p>
+
+<h2 class="no_toc" id="contents">Contents</h2>
+
+<ul id="markdown-toc">
+  <li><a href="#contents">Contents</a></li>
+  <li><a href="#guidance">Guidance</a>    <ul>
+      <li><a href="#build-an-api-by-building-with-the-api">Build an API by building with the API</a></li>
+      <li><a href="#just-use-the-web">Just use The Web</a></li>
+      <li><a href="#give-each-thing-a-bookmarkable-uri">Give each thing a bookmarkable URI</a></li>
+      <li><a href="#use-http-methods-as-tim-intended">Use HTTP methods as Tim intended</a></li>
+      <li><a href="#representations-are-for-the-consumer">Representations are for the consumer</a></li>
+      <li><a href="#names-reinforce-conventions">Names reinforce conventions</a></li>
+      <li><a href="#document-by-discovery--and-example">Document by discovery … and example</a></li>
+      <li><a href="#explicitly-set-expectations">Explicitly set expectations</a></li>
+      <li><a href="#be-public-by-default">Be public by default</a></li>
+      <li><a href="#communicate-breaking-changes">Communicate breaking changes</a></li>
     </ul>
   </li>
   <li><a href="#consumingusing-apis">Consuming/Using APIs</a>    <ul>
-      <li><a href="#guidance-1">Guidance</a>        <ul>
-          <li><a href="#code-integration">Code Integration</a></li>
-          <li><a href="#testing">Testing</a></li>
-          <li><a href="#service-agreements-and-resilience">Service Agreements and Resilience</a></li>
-        </ul>
-      </li>
-      <li><a href="#why-we-do-this">Why we do this</a></li>
-      <li><a href="#further-reading-1">Further reading</a></li>
+      <li><a href="#guidance-1">Guidance</a></li>
+      <li><a href="#code-integration">Code Integration</a></li>
+      <li><a href="#testing">Testing</a></li>
+      <li><a href="#service-agreements-and-resilience">Service Agreements and Resilience</a></li>
     </ul>
   </li>
+  <li><a href="#further-reading">Further reading</a></li>
 </ul>
-
-<h1 id="producing-apis">Producing APIs</h1>
-<p>Martha Lane Fox’s report report called for government to act as a “wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces <a href="http://en.wikipedia.org/wiki/Application_programming_interface">APIs</a> to third parties”. This section is a set of guiding principles for exposing a Digital service as an API.</p>
 
 <h2 id="guidance">Guidance</h2>
 
@@ -143,6 +138,7 @@ This is a particular risk in the absence of a developer community driving <a hre
 but leads to services being exposed <a href="http://www.w3.org/TR/webarch/">on The Web</a>.</p>
 
 <h3 id="just-use-the-web">Just use The Web</h3>
+
 <p>Consider an API to be a part of a Web site.
 Provide links to machine-friendly formats from human readable pages,
 and enable agents to easily construct URLs which link to human-friendly representations of pages.</p>
@@ -231,14 +227,10 @@ Eschew changes to the semantics of content, e.g. don’t change a <code>title</c
 When changing URIs, continue to honour old consumers, possibly use a <a href="http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/">redirection</a>.
 <a href="http://www.w3.org/Provider/Style/URI.html">Cool URIs don’t change</a>.</p>
 
-<h2 id="further-reading">Further reading</h2>
-<p>This guide is an outline of the alpha <a href="https://github.com/alphagov/api-design-principles">GDS API Design Principles</a>.
-The <a href="http://groups.google.com/group/api-craft">API Craft Group</a> is a reasonably active public forum for discussing publishing APIs.</p>
-
-<h1 id="consumingusing-apis">Consuming/Using APIs</h1>
+<h2 id="consumingusing-apis">Consuming/Using APIs</h2>
 <p>Don’t do everything yourself (you can’t). Sometimes the functionality your service needs will be provided by other parts of your organisation, other government departments or by reliable third parties via APIs.</p>
 
-<h2 id="guidance-1">Guidance</h2>
+<h3 id="guidance-1">Guidance</h3>
 <p>Most modern digital services are built on top of a wide range of APIs. This allows each part of the service to focus on its core responsibility rather than constantly reinventing the wheel.</p>
 
 <h3 id="code-integration">Code Integration</h3>
@@ -262,11 +254,9 @@ The <a href="http://groups.google.com/group/api-craft">API Craft Group</a> is a 
 
 <p>You should be clear with your users about what is happening. If a third party payment provider isn’t available you might queue the transaction to try again later. That will mean you can’t offer users the same guarantee that their payment will be processed correctly and you should tell them so.</p>
 
-<h2 id="why-we-do-this">Why we do this</h2>
-<p>This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.</p>
-
-<h2 id="further-reading-1">Further reading</h2>
-<p>Link within the Manual, or to other posts, that will help people to work on the tool.</p>
+<h2 id="further-reading">Further reading</h2>
+<p>This guide is an outline of the alpha <a href="https://github.com/alphagov/api-design-principles">GDS API Design Principles</a>.
+The <a href="http://groups.google.com/group/api-craft">API Craft Group</a> is a reasonably active public forum for discussing publishing APIs.</p>
 
             </div>
             </article>

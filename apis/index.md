@@ -3,17 +3,16 @@ layout: default
 title: APIs
 subtitle: Using and creating Application Programming Interfaces
 section: guidance
+type: guide
 audience:
   primary: developer, tech-arch
 theme: design-and-build
 status: draft
 ---
-
-* Table of contents
-{:toc}
     
-#Producing APIs
 Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties". This section is a set of guiding principles for exposing a Digital service as an API.
+
+{% include _toc.md %}
 
 ##Guidance
 
@@ -27,6 +26,7 @@ Building a Web site forces a need to model data around bookmarkable resources; b
 but leads to services being exposed [on The Web](http://www.w3.org/TR/webarch/).
 
 ### Just use The Web
+
 Consider an API to be a part of a Web site.
 Provide links to machine-friendly formats from human readable pages,
 and enable agents to easily construct URLs which link to human-friendly representations of pages.
@@ -109,14 +109,11 @@ Where a revolutionary change is unavoidable, communicate a breaking change by ch
 When changing URIs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/).
 [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
 
-##Further reading
-This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
-The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
 
-#Consuming/Using APIs
+##Consuming/Using APIs
 Don't do everything yourself (you can't). Sometimes the functionality your service needs will be provided by other parts of your organisation, other government departments or by reliable third parties via APIs.
 
-##Guidance
+### Guidance
 Most modern digital services are built on top of a wide range of APIs. This allows each part of the service to focus on its core responsibility rather than constantly reinventing the wheel.
 
 ### Code Integration
@@ -140,8 +137,7 @@ The details of that fallback will vary according to your service. It may be that
 
 You should be clear with your users about what is happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
 
-##Why we do this
-This is the reasoning for the decision. You might want to link to relevant blog posts or legislation here.
 
 ##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
+This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
+The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
