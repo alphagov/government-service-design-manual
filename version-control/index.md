@@ -14,7 +14,7 @@ status: draft
 
 All software development projects must use a version control system. Version control allows you to track changes to code over time, meaning that you can quickly step back to an earlier version where necessary and you can annotate your changes with explanatory details to help future developers understand the process. Version control will also provide tools to audit who has made changes to the code and what has changed.
 
-Those updating the code should make small, discrete "commits" of changes that are grouped according to their intention. They should be committed with a clear message explaining what the intention of the change was and (where appropriate) providing links to any supporting information such as development stories, bug reports, or third-party documentation.
+Those updating the code should make small, discrete 'commits' of changes that are grouped according to their intention. They should be committed with a clear message explaining what the intention of the change was and (where appropriate) providing links to any supporting information such as development stories, bug reports, or third-party documentation.
 
 > It's a good idea to also use version control for other aspects of your work, not just code. We use the same version control tools to manage this document as we do our code, and the Government Digital Strategy was also produced that way.
 
