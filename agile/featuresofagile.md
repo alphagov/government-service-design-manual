@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Structuring sprint cycles and stand-ups
+title: Features of agile
 section: guidance
 subsection: Working in an agile way
 status: draft
