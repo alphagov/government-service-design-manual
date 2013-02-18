@@ -4,6 +4,17 @@ title: Features of agile
 section: guidance
 subsection: Working in an agile way
 status: draft
+
+layout: default
+title: Working in an agile way
+subtitle: What it is, why it works and how to do it
+section: guidance
+type: guide
+audience:
+  primary: service-manager
+  secondary: designer, developer, tech-arch, analyst, researcher
+theme: getting-started
+status: draft
 ---
     
 Your page should begin with a short, two-line summary.
