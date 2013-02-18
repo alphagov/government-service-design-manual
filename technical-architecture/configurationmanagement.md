@@ -9,7 +9,7 @@ status: draft
 ---
     
 # Configuration management
-You're system is likely much larger than a single application, relying
+Your system is likely much larger than a single application, relying
 on other supporting infrastructure components. Even a simple application
 probably requires some configuration, to provide database credentials or
 a web servvice endpoint for instance. In order to build robust, scalable
@@ -19,13 +19,13 @@ and portable systems this configuration data should be well managed.
 
 Configuration management tools help with documenting and maintaining the
 configuration and dependencies of a software system. Although this could
-be done using hand made software it's common to use existing tools.
+be done using hand-made software, it's common to use existing tools.
 Three examples of existing open source configuration management tools
 are CFEngine, Chef and Puppet.
 
 ### Infrastructure as code
 
-One approach to managing configuration is to describe than configuration
+One approach to managing configuration is to describe the configuration
 and the software dependencies in code. This brings with it all the
 advantages of programming in general, including:
 
@@ -39,7 +39,7 @@ against the servers, networks and software in question.
 
 ### Build for portability
 
-Moving software systems between providers can be difficult and time
+Moving software systems between providers can be difficult and time-
 consuming. Even with compatible providers and simpler procurement rules
 it's possible to build lockin with simple technical inertia.
 Configuration management encourages a deep understanding of the
