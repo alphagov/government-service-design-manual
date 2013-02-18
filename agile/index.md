@@ -31,7 +31,7 @@ Agile product development is usually broken into small units of work called Spri
 
 Standup take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they pan to work on, and reveal any blockers for progress.
 
-[Find out how to structure sprint cycles and standups](structuringsprintcyclesandstandups.html)
+[Find out how to structure sprint cycles and standups](featuresofagile.html)
 
 ## Retrospectives
 
