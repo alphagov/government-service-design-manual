@@ -124,6 +124,9 @@ article .inner{
   li ul {
     display: none;
   }
+  li:first-child{
+    display: none; // Hide the header for the 'Toc' itself. The {:.no_toc} tag is supposed to address this but appears to not work.
+  }
 }
 
 // Data tables
