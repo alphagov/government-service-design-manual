@@ -11,7 +11,7 @@ theme: getting-started
 status: draft
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet lacus a nunc dictum dapibus in vitae nunc. Nunc nec sem nibh, sed posuere risus. Sed suscipit porta dui, sed placerat purus iaculis in. Proin pretium nunc tincidunt massa bibendum tempus.
+Agile methodologies help teams build world-class, user-focused services quickly and affordably. It can be a very different way of working for teams used to long-specifications and procurement processes, but it's essential for delivering high-quality services to a standard that many users expect.
 
 ## What agile looks like
 
@@ -25,9 +25,9 @@ Users are the heart of every digital by default service. This means having a cle
 
 [Find out how to write effective user stories](writinguserstories.html)
 
-## Sprints and standups
+## Features of agile
 
-Agile product development is usually broken into small units of work called Sprints. At GDS a sprint lasts a week and runs from Wednesday to Thursday, however other agile development teams may run longer sprints.
+Agile product development is usually broken into small units of work called Sprints. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer sprints.
 
 Standup take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they pan to work on, and reveal any blockers for progress.
 
