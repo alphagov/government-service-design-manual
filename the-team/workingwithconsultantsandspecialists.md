@@ -13,7 +13,7 @@ status: draft
 assets: local
 ---
     
-Consultants and specialists can help fill the gaps in capability you identify throughout your service's lifespan. However, the benefit of their skills and perspective comes with a challenge in procuring and onboarding them.
+Consultants and specialists can help fill the gaps in capability you identify throughout your service's lifespan. However, the benefit of their skills and perspective can come with the challenge of procuring and inducting them.
 
 ## How do you identify the skills you require?
 
