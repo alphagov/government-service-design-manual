@@ -7,6 +7,12 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* CSS 3 Mixins
 
   Add them as you need them. This should let us manage vendor prefixes in one place.
@@ -15,6 +21,12 @@
 
   Ways of normalising properties across browsers.
  */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Usage:
    @include inline-block
 
@@ -31,6 +43,12 @@
    }
 
 */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Example use:
     <details>
       <summary>Wanna know more?</sumary>
@@ -44,6 +62,12 @@
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn {

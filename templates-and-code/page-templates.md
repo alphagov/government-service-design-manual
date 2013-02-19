@@ -10,13 +10,9 @@ section: guidance
 status: draft
 ---
 
-* TOC
-{:toc}
-    
-# Page templates
+All pages on GOV.UK need to feel like they're part of the same service. In particular, the header and footer should be consistent across every page on the website. This guide explains how to use GOV.UK template code.
 
-All pages on GOV.UK need to feel like they're part of the same service. In particular, the header and footer should be consistent across every page on the website.
-This guide explains how to use GOV.UK template code and copy.
+{% include _toc.md %}
 
 ## The template code
 

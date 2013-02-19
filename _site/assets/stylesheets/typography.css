@@ -1,3 +1,9 @@
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* CSS 3 Mixins
 
   Add them as you need them. This should let us manage vendor prefixes in one place.
@@ -10,6 +16,12 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 @font-face {
   font-family: GDS-Regular;
   src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
@@ -17,6 +29,12 @@
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /*
  * Old green: 28a198
@@ -164,7 +182,6 @@
       font-size: 1.4rem;
       line-height: 1.42857;
       font-weight: 400;
-      -webkit-font-smoothing: subpixel-antialiased;
       text-transform: none;
       color: #333;
       display: block;
@@ -220,6 +237,30 @@ input {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 @font-face {
   font-family: GDS-Regular;
   src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
@@ -227,6 +268,12 @@ input {
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* CSS 3 Mixins
 
@@ -236,6 +283,12 @@ input {
 
   Ways of normalising properties across browsers.
  */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Usage:
    @include inline-block
 
@@ -252,6 +305,12 @@ input {
    }
 
 */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Example use:
     <details>
       <summary>Wanna know more?</sumary>
@@ -265,6 +324,12 @@ input {
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn {

@@ -1,3 +1,15 @@
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* line 8 */
 .swatches {
   margin: 0;
@@ -752,25 +764,25 @@
     margin-top: 0; }
 
 /* line 36 */
-.department-for-energy-and-climate-change {
+.department-of-energy-climate-change {
   background-color: #009ddb; }
   /* line 38 */
-  .department-for-energy-and-climate-change * {
+  .department-of-energy-climate-change * {
     /* Set text colour depending on background colour */
     color: white; }
   /* line 46 */
-  .department-for-energy-and-climate-change h4 {
+  .department-of-energy-climate-change h4 {
     margin-top: 0; }
 
 /* line 36 */
-.department-for-culture-media-and-sport {
+.department-for-culture-media-sport {
   background-color: #d40072; }
   /* line 38 */
-  .department-for-culture-media-and-sport * {
+  .department-for-culture-media-sport * {
     /* Set text colour depending on background colour */
     color: white; }
   /* line 46 */
-  .department-for-culture-media-and-sport h4 {
+  .department-for-culture-media-sport h4 {
     margin-top: 0; }
 
 /* line 36 */
@@ -841,7 +853,7 @@
 
 /* line 36 */
 .scotland-office {
-  background-color: #002663; }
+  background-color: #112148; }
   /* line 38 */
   .scotland-office * {
     /* Set text colour depending on background colour */

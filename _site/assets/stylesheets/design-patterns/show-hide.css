@@ -13,6 +13,12 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* line 22, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
 details {
   display: block;

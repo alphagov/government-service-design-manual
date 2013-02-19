@@ -7,10 +7,28 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Cross-browser shims
 
   Ways of normalising properties across browsers.
  */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Usage:
    @include inline-block
 
@@ -27,11 +45,17 @@
    }
 
 */
-/* line 49, /Users/timpaul/.rvm/gems/ruby-1.9.2-p320/gems/govuk_frontend_toolkit-0.10.0/app/assets/stylesheets/_shims.scss */
+/* line 49, /Users/timpaul/.rvm/gems/ruby-1.9.2-p320/gems/govuk_frontend_toolkit-0.12.3/app/assets/stylesheets/_shims.scss */
 #global-nav .inner:after, .pattern-example .inner:after {
   content: "";
   display: block;
   clear: both; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_utils.scss */
 #global-nav .inner:after, .pattern-example .inner:after {
@@ -40,6 +64,18 @@
   height: 0;
   clear: both;
   visibility: hidden; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* line 59, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_utils.scss */
 #global-nav .inner:after, .pattern-example .inner:after {
@@ -63,6 +99,12 @@
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
 
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 @font-face {
   font-family: GDS-Regular;
   src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
@@ -70,6 +112,12 @@
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* CSS 3 Mixins
 
@@ -79,6 +127,12 @@
 
   Ways of normalising properties across browsers.
  */
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
 /* Usage:
    @include inline-block
 
@@ -95,11 +149,17 @@
    }
 
 */
-/* line 49, /Users/timpaul/.rvm/gems/ruby-1.9.2-p320/gems/govuk_frontend_toolkit-0.10.0/app/assets/stylesheets/_shims.scss */
+/* line 49, /Users/timpaul/.rvm/gems/ruby-1.9.2-p320/gems/govuk_frontend_toolkit-0.12.3/app/assets/stylesheets/_shims.scss */
 #global-nav .inner:after, .pattern-example .inner:after {
   content: "";
   display: block;
   clear: both; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* Example use:
     <details>
@@ -114,6 +174,12 @@
 @font-face {
   font-family: GDS-Logo;
   src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
 
 /* line 412, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_forms.scss */
 .btn {
