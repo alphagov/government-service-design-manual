@@ -555,40 +555,42 @@ article table {
       font-size: 16px; }
   /* line 153 */
   .left:active {
-    width: 50%;
+    width: auto;
     position: absolute; }
     /* line 156 */
     .left:active img {
-      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5); }
-    /* line 159 */
+      box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+      width: auto;
+      max-width: 800px; }
+    /* line 161 */
     .left:active:after {
       content: ""; }
 
-/* line 170 */
+/* line 172 */
 .dbd-promo {
   font-size: 16px;
   border-top: 3px solid #006435;
   border-bottom: 3px solid #006435;
   overflow: hidden;
   margin-bottom: 2em; }
-  /* line 176 */
+  /* line 178 */
   .dbd-promo p {
     width: 47%;
     margin: 1em 0 1em 0;
     float: left;
     font-size: 19px;
     line-height: 1.5em; }
-  /* line 183 */
+  /* line 185 */
   .dbd-promo .logo {
     display: block;
     float: right;
     padding: 1.5em 0 1em 1.5em;
     width: 44%; }
-    /* line 188 */
+    /* line 190 */
     .dbd-promo .logo img {
       width: 100%; }
 
-/* line 195 */
+/* line 197 */
 .secondary-promos {
   margin: 0;
   padding: 0;
@@ -625,25 +627,25 @@ article table {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .secondary-promos > * *:first-child {
       margin-top: 0; }
-  /* line 198 */
+  /* line 200 */
   .secondary-promos div {
     background: #cce0d6; }
-  /* line 201 */
+  /* line 203 */
   .secondary-promos h3 {
     background: #006435;
     padding: 0.5em 1em;
     color: white;
     font-weight: normal;
     margin: 0; }
-  /* line 208 */
+  /* line 210 */
   .secondary-promos p {
     margin: 0; }
-  /* line 211 */
+  /* line 213 */
   .secondary-promos a {
     display: block;
     padding: 1em; }
 
-/* line 218 */
+/* line 220 */
 .roles {
   margin: 0;
   padding: 0;
@@ -678,26 +680,26 @@ article table {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .roles > * *:first-child {
       margin-top: 0; }
-  /* line 220 */
+  /* line 222 */
   .roles a {
     display: block;
     padding: 0.5em 0;
     border-top: 3px solid #006435;
     font-size: 16px; }
 
-/* line 236 */
+/* line 238 */
 .dbd .page-header hgroup {
   padding-top: 2em; }
-/* line 239 */
+/* line 241 */
 .dbd .page-header h1 {
   background: url("/assets/images/DbD-kitemark.png") no-repeat 0.5em;
   height: 190px;
   background-size: Auto 74%;
   text-indent: -9999px; }
-/* line 246 */
+/* line 248 */
 .dbd .subtitle {
   display: none; }
-/* line 251 */
+/* line 253 */
 .dbd .standard ul {
   display: inline-block;
   vertical-align: middle;
@@ -706,17 +708,17 @@ article table {
   padding-left: 0;
   width: 73%;
   border-left: 5px solid #dee0e2; }
-/* line 260 */
+/* line 262 */
 .dbd .standard li {
   list-style: none;
   line-height: 1.66667;
   padding-left: 1em; }
-  /* line 267 */
+  /* line 269 */
   .dbd .standard li:before {
     content: "✓";
     color: #006435;
     margin-right: 1em; }
-/* line 273 */
+/* line 275 */
 .dbd .standard h3 {
   display: inline-block;
   margin-right: 1em;
@@ -733,59 +735,59 @@ article table {
   padding-bottom: 0.7rem;
   text-align: right; }
   @media (max-width: 640px) {
-    /* line 273 */
+    /* line 275 */
     .dbd .standard h3 {
       font-size: 2.4rem;
       line-height: 1.04167; } }
   @media (min-width: 641px) {
-    /* line 273 */
+    /* line 275 */
     .dbd .standard h3 {
       padding-top: 0.6rem;
       padding-bottom: 0.9rem; } }
-/* line 280 */
+/* line 282 */
 .dbd .standard h4 {
   margin-left: 11.4em;
   font-weight: bold; }
 
-/* line 292 */
+/* line 294 */
 .phase-diagram {
   width: 100%;
   margin: 0 -1em 0 -1em; }
 
-/* line 297 */
+/* line 299 */
 .phase-nav {
   width: 100%;
   margin: 0 -1em; }
-  /* line 300 */
+  /* line 302 */
   .phase-nav li {
     display: block;
     float: left;
     width: 49%;
     margin: 0;
     padding: 1em; }
-    /* line 306 */
+    /* line 308 */
     .phase-nav li.discovery {
       background-color: #f6d7e5; }
-    /* line 309 */
+    /* line 311 */
     .phase-nav li.inception {
       background-color: #eb9bbe; }
-    /* line 312 */
+    /* line 314 */
     .phase-nav li.alpha {
       background-color: #d53880; }
-    /* line 315 */
+    /* line 317 */
     .phase-nav li.beta {
       background-color: #f47738; }
-    /* line 318 */
+    /* line 320 */
     .phase-nav li.live {
       background-color: #85994b; }
-    /* line 321 */
+    /* line 323 */
     .phase-nav li.operational {
       background-color: #c2cca3; }
-    /* line 324 */
+    /* line 326 */
     .phase-nav li.decommissioning {
       background-color: #dee0e2; }
 
-/* line 335 */
+/* line 337 */
 .primary-links {
   margin: 0;
   padding: 0;
@@ -820,25 +822,25 @@ article table {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .primary-links > * *:first-child {
       margin-top: 0; }
-  /* line 337 */
+  /* line 339 */
   .primary-links div {
     box-sizing: border-box;
     border-top: 3px solid #006435;
     padding: 1em 0 0 0; }
 
-/* line 345 */
+/* line 347 */
 .link-list {
   border-top: 3px solid #006435;
   border-bottom: 0;
   padding-bottom: 1.5em; }
-  /* line 349 */
+  /* line 351 */
   .link-list h3 {
     margin-top: 1em; }
-  /* line 352 */
+  /* line 354 */
   .link-list ul {
     margin: 0;
     padding: 0; }
-    /* line 355 */
+    /* line 357 */
     .link-list ul li {
       font-size: 16px;
       list-style-type: none;
@@ -848,37 +850,37 @@ article table {
       padding-top: 0.5em;
       padding-left: 0;
       border-top: 1px solid #dee0e2; }
-      /* line 364 */
+      /* line 366 */
       .link-list ul li a {
         display: block;
         overflow: hidden; }
-        /* line 367 */
+        /* line 369 */
         .link-list ul li a span {
           display: block;
           float: left; }
-        /* line 371 */
+        /* line 373 */
         .link-list ul li a .title {
           width: 34%;
           text-decoration: underline; }
-        /* line 375 */
+        /* line 377 */
         .link-list ul li a .description {
           width: 64%;
           color: #6f777b; }
-        /* line 379 */
+        /* line 381 */
         .link-list ul li a:hover .description {
           text-decoration: underline; }
-  /* line 386 */
+  /* line 388 */
   .link-list.wide {
     width: 65.5%;
     margin-right: 0; }
-    /* line 389 */
+    /* line 391 */
     .link-list.wide li {
       display: inline-block;
       width: 48.3%; }
-      /* line 392 */
+      /* line 394 */
       .link-list.wide li:nth-child(odd) {
         margin-right: 1em; }
-  /* line 398 */
+  /* line 400 */
   .link-list a[title]:after {
     content: attr(title);
     position: absolute;
@@ -886,36 +888,36 @@ article table {
     color: #6F777B;
     text-decoration: none;
     width: 64%; }
-    /* line 405 */
+    /* line 407 */
     .link-list a[title]:after:hover {
       text-decoration: underline; }
-  /* line 410 */
+  /* line 412 */
   .link-list.hero {
     padding: 0;
     border-top: 0 solid; }
-    /* line 413 */
+    /* line 415 */
     .link-list.hero a {
       padding: 1em;
       display: block;
       background-color: #006435;
       text-decoration: none; }
-      /* line 418 */
+      /* line 420 */
       .link-list.hero a h3, .link-list.hero a p {
         color: white; }
-      /* line 421 */
+      /* line 423 */
       .link-list.hero a p {
         font-size: 19px; }
-      /* line 424 */
+      /* line 426 */
       .link-list.hero a:hover {
         background-color: #009750; }
-    /* line 428 */
+    /* line 430 */
     .link-list.hero h3 {
       font-size: 48px;
       font-weight: normal;
       margin-bottom: 0.5em; }
 
 /* Intro panel on landing page */
-/* line 442 */
+/* line 444 */
 .pattern-library {
   box-sizing: border-box;
   width: 50%;
@@ -945,7 +947,7 @@ article table {
       background-color: #f8f8f8; }
 
 /* Container for example patterns */
-/* line 447 */
+/* line 449 */
 .pattern-example {
   box-sizing: border-box;
   padding: 1em 1em 0.25em 1em;
@@ -973,7 +975,7 @@ article table {
       background-color: #f8f8f8; }
 
 /* Pattern status label */
-/* line 454 */
+/* line 456 */
 .pattern-status {
   display: block;
   float: right;
@@ -984,7 +986,7 @@ article table {
   text-transform: uppercase; }
 
 /* Side-by-side code examples */
-/* line 464 */
+/* line 466 */
 .side-by-side {
   margin: 0;
   padding: 0;
@@ -1019,12 +1021,12 @@ article table {
     /* line 41, /Users/timpaul/code/gds/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
     .side-by-side > * *:first-child {
       margin-top: 0; }
-  /* line 466 */
+  /* line 468 */
   .side-by-side .pattern-example {
     margin: 0.8em 0 0 0; }
 
 /* Styles for inline and block code examples */
-/* line 472 */
+/* line 474 */
 pre,
 code {
   color: black;
@@ -1036,56 +1038,56 @@ code {
   padding: 6px 10px;
   border-radius: 3px; }
 
-/* line 482 */
+/* line 484 */
 pre code {
   border: 0 solid;
   padding: 0; }
 
-/* line 486 */
+/* line 488 */
 code {
   padding: 0.3em 0.5em; }
 
-/* line 490 */
+/* line 492 */
 pre:first-child {
   margin-top: 0; }
 
 /* Update text.scss with these */
-/* line 493 */
+/* line 495 */
 hr {
   border: 0;
   background-color: #bfc1c3;
   height: 1px;
   margin: 2em 0; }
 
-/* line 499 */
+/* line 501 */
 article dd {
   font-size: 1.16em; }
 
 /* Mixin argument toggle styles */
-/* line 504 */
+/* line 506 */
 .class-toggle .option:hover {
   cursor: pointer;
   text-decoration: underline; }
 
-/* line 508 */
+/* line 510 */
 .class-toggle .selected {
   text-decoration: none;
   color: red;
   font-weight: bold; }
-  /* line 512 */
+  /* line 514 */
   .class-toggle .selected:hover {
     cursor: default;
     text-decoration: none; }
 
-/* line 522 */
+/* line 524 */
 a.tooltip {
   outline: none;
   color: #0b0c0c;
   text-decoration: none; }
-  /* line 526 */
+  /* line 528 */
   a.tooltip:hover {
     text-decoration: underline; }
-    /* line 528 */
+    /* line 530 */
     a.tooltip:hover:after {
       content: "\25C0";
       display: block;
@@ -1093,13 +1095,13 @@ a.tooltip {
       color: black;
       z-index: 11;
       margin-left: 10px; }
-    /* line 536 */
+    /* line 538 */
     a.tooltip:hover span {
       display: inline;
       position: absolute;
       color: #EEE;
       background: #0B0C0C; }
-  /* line 543 */
+  /* line 545 */
   a.tooltip span {
     z-index: 10;
     display: none;

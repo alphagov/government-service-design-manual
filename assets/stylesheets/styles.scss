@@ -154,10 +154,12 @@ article table{
     }
   }
   &:active{
-    width: 50%;
+    width: auto;
     position: absolute;
     img{
       box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
+      width: auto;
+      max-width: 800px;
     }
     &:after{
       content: "";

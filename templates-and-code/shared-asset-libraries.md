@@ -3,7 +3,10 @@ layout: default
 title: Shared asset libraries
 subtitle: How gov.uk uses shared asset libraries, and where we provide our code
 section: guidance
-subsection: Designing your service
+type: guide
+audience:
+  primary: designer, developer
+  secondary: tech-arch
 status: draft
 ---
 
@@ -61,3 +64,25 @@ HTML and assets together.
 Please see
 [Sass repositories](/guides/designing-your-service/scssrepo.html) for
 more information on this repository.
+
+
+## Linking to shared assets
+
+The template code contains direct links to CSS and JavaScript assets hosted on
+the GOV.UK domain. We recommend that you leave these links as is whilst you
+develop your service (as opposed to linking to your own copies of these files).
+That way, you'll always be using the latest version of the assets and when they
+change you can identify and resolve any conflicts immediately.
+
+Once the service is ready for production we'll need to decide whether you should
+continue to link to the assets in this way or whether you should now use your
+own copies of them. Please contact the GDS team to discuss this at the
+appropriate time.
+
+## Keeping shared assets up-to-date
+
+GOV.UK is continuously being improved, which means that template and asset code
+changes regularly. All services on GOV.UK are expected to keep their templates
+and assets up-to-date. How you do this will depend on how you implement the
+templates and where your service is hosted. Please contact the GDS team to
+discuss options.
