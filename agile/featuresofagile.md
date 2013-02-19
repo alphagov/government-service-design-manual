@@ -12,6 +12,8 @@ theme: agile
 status: draft
 ---
 
+Here are some of the common features of the agile development methods we've used at GDS.
+
 ## Sprints
 
 Sprints are the rhythmic foundation of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)). They usually last 1-2 weeks.

@@ -208,6 +208,19 @@
       </div>
     </footer>
 
+    <script type="text/javascript">
+      jQuery(function ($) {
+          // Customise the default plugin options with the third argument.
+          $('#content').annotator()
+                       .annotator('setupPlugins', {}, {
+                         // Disable the tags plugin
+                         Tags: false,
+                         // Filter plugin options
+                         Filter: false
+                       });
+      });
+    </script>
+    <div>&nbsp;</div>
 
   </body>
 </html>

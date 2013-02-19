@@ -35,6 +35,7 @@
           </div>
         </div>
 
+
         {% if page.status %}<div class="page-status {{ page.status }}">{{ page.status }}</div>{% endif %}
 
         <header class="page-header group">
@@ -57,17 +58,5 @@
     </section>
     </div><!--end wrapper-->
     {% include _footer.html %}
-    <script type="text/javascript">
-      jQuery(function ($) {
-          // Customise the default plugin options with the third argument.
-          $('#content').annotator()
-                       .annotator('setupPlugins', {}, {
-                         // Disable the tags plugin
-                         Tags: false,
-                         // Filter plugin options
-                         Filter: false
-                       });
-      });
-    </script>
   </body>
 </html>
