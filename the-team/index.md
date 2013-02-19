@@ -60,6 +60,12 @@ What kind of people will need to be part of your team, and when? What should you
 * [Accessibility](accessibility.html)
 
 
+## Working with consultants and specialists
+
+How should you go about procuring specialists, and what can you do to make sure their onboarding is as smooth as possible?
+
+[Read more >](workingwithconsultantsandspecialists.html)
+
 
 
 ## Your working environment
@@ -74,11 +80,3 @@ What kind of people will need to be part of your team, and when? What should you
 Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service manager do to ensure they get the best out of their agile team?
 
 [Read more >](workingenvironment.html)
-
-
-
-## Working with consultants and specialists
-
-How should you go about procuring specialists, and what can you do to make sure their onboarding is as smooth as possible?
-
-[Read more >](workingwithconsultantsandspecialists.html)
