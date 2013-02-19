@@ -9,15 +9,14 @@ type: resource
 theme: understanding-your-audience
 status: draft
 ---
-    
-#Designing for browsers and devices
 
-Services should be universally accessible, regardless of how the user is choosing to access digital services.  
-Due to the large range of browsers, devices and resolutions of access routes, it is to be expected and accepted that the experience will differ as technical capabilities and appropriate user experience on these browsers vary, as such, it is expected that you will verify that your service works across a representative range of these devices and browsers and accomodations for creating acceptable experiences across each should be made, as appropriate.
+Services should be universally accessible, regardless of how the user is choosing to access digital services.
 
 ##Guidance
 
-###Verified browsers 
+Due to the large range of browsers, devices and resolutions of access routes, it is to be expected and accepted that the experience will differ as technical capabilities and appropriate user experience on these browsers vary, as such, it is expected that you will verify that your service works across a representative range of these devices and browsers and accomodations for creating acceptable experiences across each should be made, as appropriate.
+
+##Verified browsers 
 
 These are the browsers we recommend testing on when developing your service.  This recommended testing list expects testing on a sample of browsers created within the last 3 years that cover the largest representation of the user base.  
 
@@ -33,7 +32,7 @@ Two distinct levels of support are given and denoted next to each browser as F o
 
 Where "lastest version" is listed, it means the lastest stable version plus one version back, as these browsers regularly self-update.
 
-####Desktop
+###Desktop
 * Windows 7
   * Internet Explorer 7 (C)
   * Internet Explorer 8 (C)
@@ -48,7 +47,7 @@ Where "lastest version" is listed, it means the lastest stable version plus one 
   * Google Chrome (latest version)
   * Mozilla FireFox (latest version)
 
-####Mobile (and other smaller screen devices)
+###Mobile (and other smaller screen devices)
 * iOS
   * Apple Safari
 * Android 4.x
@@ -58,7 +57,7 @@ whilst ensuring it was at least functional on these operating systems:
 * Blackberry 6.0 and above
 
 
-###Developing services that are universally accessible
+##Developing services that are universally accessible
 
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement 'Progressive enhancement - Wikipedia'). This recognises that different bits of technology have different capabilities. Whilst everybody gets access to core functionality those using more sophisticated technology get an enhanced experience.
 
@@ -79,7 +78,7 @@ This data may sometimes support the case for deprioritising certain development 
 In addition channel shift means you must also consider your potential audience. It is anticipated that operating system, browser and device data from GOV.UK will be published as part of the GDS performance platform and this will provide a valuable insight into the audience for government services. Before launch we noted a marked difference between the existing non-government and government audiences so you should also investigate the data provided by [NetMarketShare](http://www.netmarketshare.com 'NetMarketShare') and [GlobalStats](http://gs.statcounter.com 'Statcounter GlobalStats') who can provide UK and global trends.
 
 
-###Continuous compatibility
+##Continuous compatibility
 We need to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer versions 6 and 7 have only been used by a minority (almost 5% of the total visits to GOV.UK since launch) this still accounts for a significant number of individuals who government services must take into account. 
 
 This will change over time and so it is important to set thresholds for abandoning support and for adopting new and emergent platforms. The iPad Mini, Kindle Fire, Windows 8 and Internet Explorer 10 highlight this dilemma - they are recently launched products so do not appear in any data but it is likely that they will enjoy widespread mainstream usage. 

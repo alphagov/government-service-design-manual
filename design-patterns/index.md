@@ -10,16 +10,22 @@ type: resource
 status: draft
 ---
 
-<div class="pattern-library">
-  <h2>What is this?</h2>
-  <p>Design patterns are reusable bits of web interface like form controls, navigation and calendars.</p>
-  <p>The patterns here are experimental and are currently only available via the GOV.UK Prototyping app.</p>
+Design patterns are reusable bits of web interface like form controls, navigation and calendars.
 
-  <p><a href="how-to-use.html">Find out how to use these patterns</a>.</p>
+## How to use the patterns
 
-</div>
+Each pattern is specified as a bundle of HTML, JavaScript and CSS, with accompanying guidance on
+their appropriate use.
 
-## Forms
+All the code is available via the [Git repository for this site](). The CSS for each pattern 
+is available in the Sass format and, where possible, mixins have been created to make using and
+adapting the patterns as easy as possible.
+
+All the patterns in the library make use of the [GOV.UK frontend toolkit](/templates-and-code/sass-repositories.html), so you'll need to have this installed as well.
+
+## List of patterns
+
+### Forms
 
 * [Anatomy of a form](form-anatomy.html)
 * [Buttons](buttons.html)
@@ -28,13 +34,13 @@ status: draft
 * [Error messages](errormessages.html)
 * [Example: Registration form](registration-form.html)
 
-## Content
+### Content
 
 * [Highlighted content](highlighted-content.html)
 * [Regular grid](regular-grid.html)
 * [Show/hide link](show-hide.html)
 
-## Other
+### Other
 
 * [Contact details](contact-details.html)
 * [Progress indicator](progress-indicator.html)

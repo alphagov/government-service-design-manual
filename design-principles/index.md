@@ -9,6 +9,7 @@ audience:
   secondary: developer, tech-arch, analyst, researcher
 theme: design-and-build
 status: draft
+assets: local
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
