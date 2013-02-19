@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working in an agile way
+title: Agile
 subtitle: What it is, why it works and how to do it
 section: guidance
 type: guide
@@ -15,7 +15,7 @@ Agile methodologies help teams build world-class, user-focused services quickly 
 
 ## What agile looks like
 
-An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the is making (whether that's in the form of project mangement software or whiteboards).
+An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the team is making (whether that's in the form of project management software or whiteboards).
 
 [What does agile look like?](whatagilelookslike.html)
 
@@ -27,7 +27,7 @@ Users are the heart of every digital by default service. This means having a cle
 
 ## Features of agile
 
-Agile product development is usually broken into small units of work called Sprints. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer sprints.
+Agile product development is usually broken into small units of work called sprints. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer sprints.
 
 Standup take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they pan to work on, and reveal any blockers for progress.
 
@@ -35,7 +35,7 @@ Standup take place daily, and are an opportunity for teams to discuss the previo
 
 ## Retrospectives
 
-Retrospectives are run at the end of sprints to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
+Retrospectives are run at the end of each sprint to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
 
 [Find out how to run a restrospective](runningretrospectives.html)
 
