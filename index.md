@@ -3,7 +3,6 @@ layout: wide
 title: Government Service Design Manual
 subtitle: Everything you need to build services to the Digital by Default standard
 section: home
-status: draft
 assets: local
 ---
 

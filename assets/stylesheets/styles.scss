@@ -166,6 +166,7 @@ article table{
       content: "Click to enlarge";
       color: $secondary-text-colour;
       font-size: 16px;
+      margin-left: 23%;
     }
   }
   &:active{
@@ -175,6 +176,7 @@ article table{
       box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
       width: auto;
       max-width: 800px;
+      margin-top: -20%;
     }
     &:after{
       content: "";
