@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The team
-subtitle: 
+subtitle: What you'll need to build a successful service
 status: draft
 type: guide
 audience:
@@ -50,7 +50,7 @@ Agile teams are multidisciplinary, meet regularly, and often work close together
 
 An effective team is multidisciplinery and centred around a service manager. What kind of people will need to be part of your team and when? What should you be looking for in potential team-members?
 
-* [Service manager](service-manager.html)
+* [Service manager](servicemanager.html)
 * [Designer](designer.html)
 * [Developer](developer.html)
 * [Analyst](analyst.html)
