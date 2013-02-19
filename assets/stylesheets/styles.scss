@@ -65,6 +65,21 @@ article .inner{
   padding-right: 2em; 
 }
 
+// Page status label
+.page-status{
+  display: block;
+  float: right;
+  color: $white;
+  background-color: $green;
+  padding: 0.2em 1.5em 0em 1.5em;
+  text-align: center;
+  text-transform: uppercase;
+  // Custom label colours for each status
+  &.draft{
+    background-color: $fuschia;
+  }
+}
+
 // Page subtitle
 .subtitle{
   margin: -1em 0 1em 0;
@@ -455,16 +470,7 @@ article table{
     @extend %contain-floats;
   }
 }
-/* Pattern status label */
-.pattern-status{
-  display: block;
-  float: right;
-  color: $white;
-  background-color: $fuschia;
-  padding: 0.2em 1.5em 0em 1.5em;
-  text-align: center;
-  text-transform: uppercase;
-}
+
 /* Side-by-side code examples */
 .side-by-side{
   @include regular-grid(2);
