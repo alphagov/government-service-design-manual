@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The team
-subtitle: 
+subtitle: What you'll need to build a successful service
 status: draft
 type: guide
 audience:
@@ -33,10 +33,13 @@ theme: getting-started
 </figcaption>
 </figure>
 
-Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. An agile team will combine the designers, developers, researchers and content specilists required to deliver a phase of a project. They may expand or contract in size as it progresses to meet emerging user needs, and are assembled by one suitably-skilled service owner.
+Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specilists to deliver a project, and may expand or contract in size as services are developed.
 
+## What a team looks like
 
+What does an effective team look like? What skills are typically needed to deliver great digital services, and how are they structured?
 
+[Read more >](whatateamlookslike.html)
 
 
 ## The skills your team will need
@@ -48,9 +51,9 @@ Agile teams are multidisciplinary, meet regularly, and often work close together
 </figcaption>
 </figure>
 
-An effective team is multidisciplinery and centred around a service manager. What kind of people will need to be part of your team and when? What should you be looking for in potential team-members?
+What kind of people will need to be part of your team, and when? What should you be looking for in potential team-members, and what will they be doing on a day-to-day basis?
 
-* [Service manager](service-manager.html)
+* [Service manager](servicemanager.html)
 * [Designer](designer.html)
 * [Developer](developer.html)
 * [Analyst](analyst.html)
@@ -76,6 +79,6 @@ Whiteboard, wall space and proximity can make a big impact on the effectiveness 
 
 ## Working with consultants and specialists
 
-How can teams work with specialists and SMEs and what can you do to make sure their onboarding is smooth?
+How should you go about procuring specialists, and what can you do to make sure their onboarding is as smooth as possible?
 
 [Read more >](workingwithconsultantsandspecialists.html)
