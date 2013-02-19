@@ -1,0 +1,5 @@
+Food safety data when you checkin on Foursquare
+
+Food Alerts tries to tell you how the establishment you just checked in to on Foursquare fares on the UK Food Standards Agency's [six point Food Hygiene Rating scheme](http://ratings.food.gov.uk/) (before you place an order).
+
+It uses the FSA's [open data API](http://ratings.food.gov.uk/open-data/en-GB) and matches them to places on Foursquare, then uses the [Pushover app](https://pushover.net/) for iphone and android to tell you the rating.

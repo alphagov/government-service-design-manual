@@ -1,0 +1,167 @@
+/* line 5 */
+.temp {
+  border: 2px solid red; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+/* Regular grid */
+/* line 14 */
+.regular-grid p {
+  background-color: #dee0e2;
+  border: 1px solid #bfc1c3;
+  text-align: center;
+  padding: 1em; }
+
+/* line 20 */
+.example-1 {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .example-1 > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 23.125%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-1 > *:nth-child(4n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-1 > * *:first-child {
+      margin-top: 0; }
+
+/* line 21 */
+.example-2 {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .example-2 > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 18%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-2 > *:nth-child(5n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-2 > * *:first-child {
+      margin-top: 0; }
+
+/* line 22 */
+.example-3 {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .example-3 > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 10.3125%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-3 > *:nth-child(8n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-3 > * *:first-child {
+      margin-top: 0; }
+
+/* line 23 */
+.example-4 {
+  margin: 0;
+  padding: 0;
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+  overflow: hidden;
+  *zoom: 1; }
+  /* line 16, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+  .example-4 > * {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    width: 48.75%;
+    margin-right: 2.5%;
+    margin-bottom: 1em; }
+    /* line 38, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-4 > *:nth-child(2n) {
+      margin-right: 0; }
+    /* line 41, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_regular-grid.scss */
+    .example-4 > * *:first-child {
+      margin-top: 0; }

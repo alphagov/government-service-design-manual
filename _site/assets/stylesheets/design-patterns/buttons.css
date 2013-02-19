@@ -1,0 +1,45 @@
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+/* CSS 3 Mixins
+
+  Add them as you need them. This should let us manage vendor prefixes in one place.
+ */
+/* line 20 */
+.small {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 16px;
+  font-size: 1.6rem;
+  line-height: 1.25;
+  font-weight: 300;
+  text-transform: none; }
+  @media (max-width: 640px) {
+    /* line 20 */
+    .small {
+      font-size: 1.4rem;
+      line-height: 1.14286; } }
+
+/* line 21 */
+.x-small {
+  font-family: "nta", "GDS-Regular", sans-serif;
+  font-size: 14px;
+  font-size: 1.4rem;
+  line-height: 1.42857;
+  font-weight: 400;
+  text-transform: none; }
+  @media (max-width: 640px) {
+    /* line 21 */
+    .x-small {
+      font-size: 1.2rem;
+      line-height: 1.25; } }

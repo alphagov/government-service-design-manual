@@ -1,0 +1,236 @@
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+/* line 15 */
+.slider {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  height: 650px;
+  margin-bottom: 1em; }
+  /* line 21 */
+  .slider h2 {
+    margin-top: 1em; }
+  /* line 25 */
+  .slider .wrapper {
+    width: 3600px;
+    position: absolute;
+    height: 650px; }
+  /* line 32 */
+  .slider section {
+    box-sizing: border-box;
+    width: 900px;
+    float: left;
+    padding: 1em 2em 0 1em; }
+  /* line 38 */
+  .slider #phase1 {
+    padding-left: 0; }
+
+/* line 46 */
+.active {
+  background: #bfc1c3;
+  padding: 0.5em 1em;
+  display: block;
+  float: left;
+  outline: none;
+  text-decoration: none; }
+
+/* line 56 */
+.slider-nav a {
+  background: #f8f8f8;
+  border-top: 5px solid #f8f8f8;
+  padding: 0.5em 1em;
+  display: block;
+  float: left;
+  margin: 1em 5px 0 0; }
+  /* line 63 */
+  .slider-nav a:hover {
+    background: #ebebeb; }
+
+/* line 69 */
+.nav-item-1 {
+  width: 10%; }
+
+/* line 70 */
+.nav-item-2 {
+  width: 15%; }
+
+/* line 71 */
+.nav-item-3 {
+  width: 25%; }
+
+/* line 72 */
+.nav-item-4 {
+  width: 32%; }
+
+/* line 74 */
+.nav-item-1:hover {
+  border-color: #912b88; }
+
+/* line 75 */
+.nav-item-2:hover {
+  border-color: #d53880; }
+
+/* line 76 */
+.nav-item-3:hover {
+  border-color: #f47738; }
+
+/* line 77 */
+.nav-item-4:hover {
+  border-color: #85994b; }
+
+/* line 80 */
+.nav-item-1.active,
+.nav-item-1.active:hover {
+  background: #912b88;
+  color: white;
+  border-color: #912b88; }
+
+/* line 82 */
+.nav-item-2.active,
+.nav-item-2.active:hover {
+  background: #d53880;
+  color: #0b0c0c;
+  border-color: #d53880; }
+
+/* line 84 */
+.nav-item-3.active,
+.nav-item-3.active:hover {
+  background: #f47738;
+  color: #0b0c0c;
+  border-color: #f47738; }
+
+/* line 86 */
+.nav-item-4.active,
+.nav-item-4.active:hover {
+  background: #85994b;
+  color: white;
+  border-color: #85994b; }
+
+/* line 89 */
+.slider {
+  border-top: 5px solid;
+  border-bottom: 5px solid; }
+
+/* line 94 */
+.slider.section-1 {
+  box-shadow: none; }
+
+/* line 98 */
+.slider.section-1 {
+  border-color: #912b88; }
+
+/* line 99 */
+.slider.section-2 {
+  border-color: #d53880; }
+
+/* line 100 */
+.slider.section-3 {
+  border-color: #f47738; }
+
+/* line 101 */
+.slider.section-4 {
+  border-color: #85994b; }
+
+/* line 104 */
+.next-section,
+.prev-section {
+  display: block;
+  width: 72px;
+  height: 650px;
+  position: absolute;
+  z-index: 100;
+  text-align: center;
+  padding-top: 305px; }
+  /* line 112 */
+  .next-section span,
+  .prev-section span {
+    display: none;
+    background-color: #333;
+    font-size: 40px;
+    width: 60px;
+    height: 60px;
+    color: white;
+    line-height: 70px; }
+  /* line 121 */
+  .next-section:hover,
+  .prev-section:hover {
+    text-decoration: none; }
+    /* line 123 */
+    .next-section:hover span,
+    .prev-section:hover span {
+      display: block; }
+
+/* line 128 */
+.next-section {
+  box-shadow: inset -10px -10px 10px -10px #bfc1c3;
+  right: 0; }
+  /* line 131 */
+  .next-section span {
+    text-indent: 7px;
+    margin-right: 10px; }
+
+/* line 136 */
+.prev-section {
+  box-shadow: inset 10px 0px 10px -10px #bfc1c3;
+  left: 0; }
+  /* line 139 */
+  .prev-section span {
+    text-indent: -7px;
+    margin-left: 10px; }
+
+/* line 145 */
+.section-4 .next-section,
+.section-1 .prev-section {
+  display: none; }
+
+/* line 150 */
+.infographic {
+  background-color: #f8f8f8;
+  height: 2em;
+  margin: 0 -2em 0 -1em;
+  display: none; }
+
+/* line 156 */
+#phase4 .infographic {
+  margin-right: -6em; }
+
+/* line 159 */
+.team {
+  background-color: #f8f8f8;
+  padding: 1em;
+  width: 200px;
+  float: right;
+  margin-left: 1em;
+  margin-top: -3em; }
+  /* line 166 */
+  .team h3 {
+    margin-top: 0; }
+
+/* line 171 */
+.outputs {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+  /* line 175 */
+  .outputs li {
+    margin: 0 2em 0 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    text-align: center;
+    width: 100px; }
+  /* line 184 */
+  .outputs .output {
+    display: block;
+    background-color: #f8f8f8; }

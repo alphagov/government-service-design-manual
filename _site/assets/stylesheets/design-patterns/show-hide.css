@@ -1,0 +1,200 @@
+@charset "UTF-8";
+/* Example use:
+    <details>
+      <summary>Wanna know more?</sumary>
+      <p>Of course you do!</p>
+    </details>
+*/
+@font-face {
+  font-family: GDS-Regular;
+  src: local("NTA-Light"), local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@font-face {
+  font-family: GDS-Logo;
+  src: local("HelveticaNeue"), local("Helvetica Neue"), local("Arial"), local("Helvetica"); }
+
+@-ms-viewport {
+  width: device-width; }
+
+@-o-viewport {
+  width: device-width; }
+
+/* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+details {
+  display: block;
+  box-sizing: border-box;
+  padding: 1em 1em 0.25em 1em;
+  margin: 1em -1em 1.5em -1em;
+  background-color: transparent;
+  margin: 0 -1em 0 -1em; }
+  /* line 69, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  details *:first-child {
+    margin-top: 0em; }
+  /* line 74, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  details ul, details ol {
+    padding-left: 1em; }
+  /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+  details .inner {
+    background-color: white;
+    border: 1px solid #bfc1c3;
+    padding: 2em;
+    margin-bottom: 0.75em; }
+    /* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    details .inner input[type="text"],
+    details .inner textarea {
+      background-color: #f8f8f8; }
+  /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  details summary {
+    font-family: "nta", "GDS-Regular", sans-serif;
+    font-size: 19px;
+    font-size: 1.9rem;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    color: #2E3191;
+    cursor: pointer;
+    display: block;
+    text-decoration: underline;
+    margin-bottom: 0.5em;
+    margin-top: 0.2em; }
+    @media (max-width: 640px) {
+      /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+      details summary {
+        font-size: 1.6rem;
+        line-height: 1.25; } }
+    /* line 34, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    details summary:hover {
+      color: #1D97FF; }
+    /* line 35, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    details summary:focus {
+      background-color: #FFBF47;
+      outline: 3px solid #ffbf47; }
+  /* line 40, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  details[open] {
+    margin: 0 -1em 0 -1em; }
+    /* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    details[open] summary:focus {
+      outline: none;
+      background-color: transparent; }
+
+/* Styles for browsers that don't yet natively support details/summary */
+/* line 58, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+.no-details details > * {
+  display: none; }
+
+/* line 59, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+.no-details details > summary:before {
+  float: left;
+  margin-top: 1px;
+  margin-right: -1px;
+  width: 20px;
+  content: '► '; }
+
+/* line 60, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+.no-details details.open > summary:before {
+  content: '▼ '; }
+
+/* line 61, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+.no-details details summary {
+  display: block; }
+
+/* line 11 */
+.show-hide-version-2 {
+  /* Styles for browsers that don't yet natively support details/summary */ }
+  /* line 22, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  .show-hide-version-2 details {
+    display: block;
+    box-sizing: border-box;
+    padding: 1em 1em 0.25em 1em;
+    margin: 1em -1em 1.5em -1em;
+    background-color: transparent;
+    margin: 0 -1em 0 -1em; }
+    /* line 69, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    .show-hide-version-2 details *:first-child {
+      margin-top: 0em; }
+    /* line 74, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    .show-hide-version-2 details ul, .show-hide-version-2 details ol {
+      padding-left: 1em; }
+    /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+    .show-hide-version-2 details .inner {
+      background-color: white;
+      border: 1px solid #bfc1c3;
+      padding: 2em;
+      margin-bottom: 0.75em; }
+      /* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+      .show-hide-version-2 details .inner input[type="text"],
+      .show-hide-version-2 details .inner textarea {
+        background-color: #f8f8f8; }
+    /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    .show-hide-version-2 details summary {
+      font-family: "nta", "GDS-Regular", sans-serif;
+      font-size: 19px;
+      font-size: 1.9rem;
+      line-height: 1.31579;
+      font-weight: 400;
+      text-transform: none;
+      color: #2E3191;
+      cursor: pointer;
+      display: block;
+      text-decoration: underline;
+      margin-bottom: 0.5em;
+      margin-top: 0.2em; }
+      @media (max-width: 640px) {
+        /* line 26, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+        .show-hide-version-2 details summary {
+          font-size: 1.6rem;
+          line-height: 1.25; } }
+      /* line 34, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+      .show-hide-version-2 details summary:hover {
+        color: #1D97FF; }
+      /* line 35, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+      .show-hide-version-2 details summary:focus {
+        background-color: #FFBF47;
+        outline: 3px solid #ffbf47; }
+    /* line 40, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+    .show-hide-version-2 details[open] {
+      box-sizing: border-box;
+      padding: 1em 1em 0.25em 1em;
+      margin: 1em -1em 1.5em -1em;
+      background-color: #f8f8f8;
+      margin: 0 -1em 0 -1em; }
+      /* line 69, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+      .show-hide-version-2 details[open] *:first-child {
+        margin-top: 0em; }
+      /* line 74, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+      .show-hide-version-2 details[open] ul, .show-hide-version-2 details[open] ol {
+        padding-left: 1em; }
+      /* line 81, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+      .show-hide-version-2 details[open] input[type="text"],
+      .show-hide-version-2 details[open] textarea {
+        background-color: white; }
+      /* line 87, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+      .show-hide-version-2 details[open] .inner {
+        background-color: white;
+        border: 1px solid #bfc1c3;
+        padding: 2em;
+        margin-bottom: 0.75em; }
+        /* line 93, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_panels.scss */
+        .show-hide-version-2 details[open] .inner input[type="text"],
+        .show-hide-version-2 details[open] .inner textarea {
+          background-color: #f8f8f8; }
+      /* line 51, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+      .show-hide-version-2 details[open] summary:focus {
+        outline: none;
+        background-color: transparent; }
+  /* line 58, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  .show-hide-version-2 .no-details details > * {
+    display: none; }
+  /* line 59, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  .show-hide-version-2 .no-details details > summary:before {
+    float: left;
+    margin-top: 1px;
+    margin-right: -1px;
+    width: 20px;
+    content: '► '; }
+  /* line 60, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  .show-hide-version-2 .no-details details.open > summary:before {
+    content: '▼ '; }
+  /* line 61, /Users/richardpope/code/government-service-design-manual/_includes/stylesheets/design-patterns/_show-hide.scss */
+  .show-hide-version-2 .no-details details summary {
+    display: block; }
