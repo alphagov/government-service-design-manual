@@ -9,7 +9,7 @@ audience:
 theme: getting-started
 ---
 
-
+<!--
 <style>
  img{
   width: 100%;
@@ -22,20 +22,15 @@ theme: getting-started
   text-align: center;
  }
 </style>
+-->
 
-
-
-
-<figure style="margin-top: 0">
-<img src="/assets/images/team-size.png" />
-<figcaption>
-  The team size changes over time
-</figcaption>
-</figure>
 
 Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specilists to deliver a project, and may expand or contract in size as services are developed.
 
 ## What a team looks like
+
+{:.left}
+![The team size changes over time](/assets/images/team-size.png)
 
 What does an effective team look like? What skills are typically needed to deliver great digital services, and how are they structured?
 
@@ -44,12 +39,8 @@ What does an effective team look like? What skills are typically needed to deliv
 
 ## The skills your team will need
 
-<figure>
-<img src="/assets/images/team-skills.png" />
-<figcaption>
-  Some of the skills an effective team needs
-</figcaption>
-</figure>
+{:.left}
+![Some of the skills an effective team needs](/assets/images/team-skills.png)
 
 What kind of people will need to be part of your team, and when? What should you be looking for in potential team-members, and what will they be doing on a day-to-day basis?
 
@@ -67,16 +58,13 @@ How should you go about procuring specialists, and what can you do to make sure 
 [Read more >](workingwithconsultantsandspecialists.html)
 
 
-
 ## Your working environment
 
-<figure>
-<img src="/assets/images/team-assets.png" />
-<figcaption>
-  Some of the things an effective team needs
-</figcaption>
-</figure>
 
 Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service manager do to ensure they get the best out of their agile team?
 
 [Read more >](workingenvironment.html)
+
+
+{:.figure}
+![Some of the things an effective team needs](/assets/images/team-assets.png)

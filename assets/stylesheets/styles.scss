@@ -184,6 +184,12 @@ article table{
   }
 }
 
+.figure:after{
+    img{
+        content: attr(alt);  
+    }
+}
+
 // ====================================================
 // HOME PAGE
 //

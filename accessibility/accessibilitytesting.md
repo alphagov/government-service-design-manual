@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Accessibility testing
-subsection: Accessibility
 status: draft
+type: guide
+audience:
+  primary: researcher
 ---
-    
-#Accessibility testing
 
-This guidance looks at how Accessibility Testing should be conducted to ensure that new products/services are built with all users in mind.
+This guidance looks at how accessibility testing should be conducted to ensure that new products/services are built with all users in mind.
 
 ##Guidance
 

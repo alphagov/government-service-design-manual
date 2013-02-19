@@ -62,4 +62,4 @@ There needs to be a moment at the end of the sprint where the team get to demons
 
 ### Sprint Retrospective
 
-These meetings are important opportunities to iterate the team's working process. [Anna Shipman from GDS has written detailed guidance about how to run retrospectives](http://gsdm.herokuapp.com/agile/runningretrospectives.html).
+These meetings are important opportunities to iterate the team's working process. [Anna Shipman from GDS has written detailed guidance about how to run retrospectives](runningretrospectives.html).
