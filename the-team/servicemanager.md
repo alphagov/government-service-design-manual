@@ -23,7 +23,7 @@ We are adopting that model, requiring each transactional digital service handlin
 These Service Managers will:
 
 - be experienced leaders, with an in-depth understanding of their service (built on continuity of involvement over a period of years) and equipped to represent their service and its users’ needs at all levels within the organisation. For high-profile services these will be at Senior Civil Servant level
-- be accountable for the quality and usage of their service, and able to iterate the service based on user feedback at least every month
+- be accountable for the quality and usage of their service, and able to iterate the service daily based on user feedback and performance data
 - be able to lead effectively on the change management and process re-engineering required to implement successful services
 - have the digital literacy to engage with technical staff and suppliers to define the best system and platform configurations to achieve business/user objectives
 - encourage the maximum possible take-up of their digital service by effective marketing, and specify/manage the requirements for assisted digital activity to supplement this
