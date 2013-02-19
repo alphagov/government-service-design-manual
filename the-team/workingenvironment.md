@@ -19,8 +19,17 @@ Working spaces for digital projects vary wildly, but there are some things you c
 
 Those working in creative and technical fields often need plenty of space for focussed, detailed work. It's not uncommon to see people spending a significant chunk of their day with headphones on to facilitate focus, or locked in conversation with just one person with whom they're pairing. Equally, you might see lots of short meetings throughout a day, often around walls covered in notes or reference material. This is important to ensure the quality of the work, but can be alien in cultures that are much more used to formal meetings or conference calls. 
 
-## Whiteboard and wall space
-[Richard Pope to provide]
+## Hacking the environment
+
+The room a team works is a tool. It is just as important as the choice of project management tracker or choice of programming language.
+
+Teams should spend a week at the beginning of a project making sure they have everything they need and addressing any problems. This might include setting up the project wall, configuring collaboration software like email groups or project trackers, building and installing up dashboards, putting up whiteboards, or simply moving desks about so the team can sit together.
+
+This process is known as 'hacking the environment'.
+
+## Sit together
+
+This might seem like an obvious one, but teams working together to deliver a product should sit close together. Short, informal conversations are an important way to test assumptions, and this gets much harder when a team is distributed across an office, or a building.
 
 ## Communication tools
 
