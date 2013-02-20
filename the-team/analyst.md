@@ -1,12 +1,5 @@
 ---
 layout: default
-title: Digital analytics team skills
-subsection: Building a team
-status: draft
----
-
----
-layout: default
 title: Analytics skills
 subtitle: Understanding user data
 section: guidance
