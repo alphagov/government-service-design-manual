@@ -3,9 +3,10 @@ layout: wide
 title: Error messages
 subtitle: How to write helpful messages for users when things go wrong
 section: guidance
-audience:
-  primary: content-designer
-  secondary: designer
+subsection: Design patterns
+type: resource
+audience: 
+    primary: designer, developer, content designer
 status: draft
 ---
     

@@ -3,10 +3,11 @@ layout: wide
 title: Design patterns
 subtitle: Common interface elements for digital services
 section: guidance
-audience: 
-  primary: designer
-  secondary: researcher
+subsection: Design patterns
 type: resource
+audience: 
+    primary: designer, developer
+status: draft
 status: draft
 ---
 

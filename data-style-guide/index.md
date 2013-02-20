@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data visualisation style guide
+subtitle: Creating valuable and meaningful graphics to help analyse data
 section: guidance
 type: guide
 audience:
