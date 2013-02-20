@@ -1,9 +1,16 @@
 ---
 layout: default
 title: Hosting
+subtitle: Where your service will live
 section: guidance
 subsection: Maintaining services
 status: draft
+type: 
+audience: 
+    primary: tech-arch, developer
+    secondary:
+theme: Running a service
+assets: local
 ---
 
 * Table of contents

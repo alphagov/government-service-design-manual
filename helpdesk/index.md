@@ -1,9 +1,16 @@
 ---
 layout: default
 title: Acting on user feedback
+subtitle: How to incorporate user contacts into design
 section: guidance
 subsection: Maintaining services
 status: draft
+type: guide
+audience: 
+    primary: designer, service-manager 
+theme: design
+status: draft
+assets: local
 ---
 
 * Toc
