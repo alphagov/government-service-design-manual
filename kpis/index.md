@@ -1,43 +1,32 @@
 ---
 layout: default
 title: KPIs
-subtitle:
+subtitle: Data you need to measure and monitor
 section: guidance
+subsection: KPIs
 type: guide
 audience: 
     primary: service-manager, analyst
+theme: Measurement
 status: draft
+assets: local
 ---
 
-# Defining KPIs
+The [digital by default standard](digital-by-default.html) sets four Key Performance Indicators (KPIs) to measure the success of your service: [cost per transaction](implementingcostpertransactionmeasure.html), [customer satisfaction](implementingcustomersatisfactionmeasure.html), [transaction success](implementingtransactionsuccessmetric.html) and [digital take-up](digital-takeup.html).
 
-[Defining KPIs](definingkpis.html)
+For each KPI you will work with GDS to set a sensible goal to reach within five years of the service going live. 
 
-# Implementing the KPIs
+Once live, service performance will be monitored and displayed on the [performance platform](https://www.gov.uk/performance).
 
-* [Cost per transaction](implementingcostpertransactionmeasure.html)
-* [Customer satisfaction](implementingcustomersatisfactionmeasure.html)
-* [Transaction success](implementingtransactionsuccessmetric.html)
-* [Digital take-up](digital-takeup.html)
+# The KPIs
+Understand more about how to measure and implement the KPIs:
 
-# Configuring analytics tools
+* [cost per transaction](implementingcostpertransactionmeasure.html)
+* [customer satisfaction](implementingcustomersatisfactionmeasure.html)
+* [transaction success](implementingtransactionsuccessmetric.html)
+* [digital take-up](digital-takeup.html)
 
-[Configuring analytics tools](configuringanalyticstools.html)
+# What else should you measure?
+The Performance framework describes how to define other metrics you should measure and monitor.
 
-# Setting performance goals over time
-
-[Setting performance goals over time](settingperformancegoalsovertime.html)
-
-# Performance framework
-
-[Performance framework](performanceframework.html)
-
-# Setting a baseline
-
-[Setting a baseline](settingabaseline.html)
-
-# Incorporating data into design
-
-[Incorporating data into design](incorporatingdataintodesign.html)
-
-
+[Read more >](performanceframework.html)
