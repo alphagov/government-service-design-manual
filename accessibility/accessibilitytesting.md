@@ -1,10 +1,16 @@
 ---
 layout: default
 title: Accessibility testing
-status: draft
+subtitle: Testing to see if your service is inclusive
+section: guidance
+subsection: Accessibility 
 type: guide
-audience:
-  primary: researcher
+audience: 
+    primary: researcher
+    secondary: designer, developer
+theme: Measurement
+status: draft
+assets: local
 ---
 
 This guidance looks at how accessibility testing should be conducted to ensure that new products/services are built with all users in mind.
