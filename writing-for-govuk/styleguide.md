@@ -3,6 +3,7 @@ layout: default
 title: GOV.UK Style Guide
 subtitle: How to write content for the GOV.UK website
 section: guidance
+type: guide
 audience: 
     primary: content-designer
 status: draft

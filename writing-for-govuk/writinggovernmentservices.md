@@ -3,6 +3,7 @@ layout: default
 title: Writing government services
 subtitle: Tone of voice, writing style, use of headings and more
 section: guidance
+type: guide
 audience: 
   primary: content-designer
 status: draft

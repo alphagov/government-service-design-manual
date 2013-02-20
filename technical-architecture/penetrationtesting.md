@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vulnerability and penetration testing
+subtitle: Identifying insecurities in your service
 section: guidance
 type: guide
 audience:

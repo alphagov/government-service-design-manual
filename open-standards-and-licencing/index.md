@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Open standards and licensing
+subtitle: Building services using common standards
 section: guidance
 type: guide
 audience:

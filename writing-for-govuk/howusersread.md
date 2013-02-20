@@ -3,6 +3,7 @@ layout: default
 title: How users read
 subtitle: Reading age, reading online, plain English, learning disabilities
 section: guidance
+type: guide
 audience: 
   primary: content-designer
 status: draft
