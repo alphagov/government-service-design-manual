@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Card sorting
+subtitle: Ways of framing or interpreting information
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #Card sorting

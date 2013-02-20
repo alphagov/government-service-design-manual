@@ -1,9 +1,14 @@
 ---
 layout: default
 title: Focus groups, mini groups, and 1:1 interviews
+subtitle: Getting input into products and services
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
 ---
     
 #Focus groups, mini groups, and 1:1 interviews
