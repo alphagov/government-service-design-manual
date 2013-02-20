@@ -8,12 +8,14 @@ module Jekyll
       i = sorted_collection.first
  
       if sort_attr != nil
+        sorted_collection.reject!{|i| i.to_liquid[sort_attr].nil? }
         if i.to_liquid[sort_attr].instance_of? String and not case_sensitive
           sorted_collection.sort_by! { |i| i.to_liquid[sort_attr].downcase }
         else
           sorted_collection.sort_by! { |i| i.to_liquid[sort_attr] }
         end
       else
+        sorted_collection.reject!(&:nil?)
         if i.instance_of? String and not case_sensitive
           sorted_collection.sort_by! { |i| i.downcase }
         else
