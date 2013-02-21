@@ -44,7 +44,7 @@ The software and the team continue to learn through delivery and iterate and imp
 
 ## Small, agile teams
 
-[The unit of delivery is the team] (http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
+![The unit of delivery is the team] (http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
 
 Small teams of between five to ten people are often more productive and predictable than larger teams. Forget man-days and think about the team as the unit of delivery.  
 
