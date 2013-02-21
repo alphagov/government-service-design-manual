@@ -8,7 +8,7 @@ status: draft
 
 This website is a resource to help you and your team achieve the Digital by Default Standard. 
 
-Remember, this site is an ‘alpha’ prototype. We are continuing to work on the material on this site, and will add more guidance and features before it is launched in April 2013.
+Remember, this site is an ‘alpha’ prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features before it is launched in April 2013.
 
 ## The Digital by Default Service Standard
 
