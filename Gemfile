@@ -10,4 +10,3 @@ gem "govuk_frontend_toolkit", "0.12.3"
 gem 'rack-jekyll'
 gem 'thin'
 gem 'foreman'
-gem 'kramdown'
