@@ -89,6 +89,8 @@ Typically teams plan together, usually on at least two levels:
 These plans are usually reviewed after every sprint and adjusted based on “the weather yesterday”, new facts and requirements that will inevitably be uncovered along the way.
 
 ##Bad smells
+
+![Do go here!](http://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
 Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  The have a bad smell about them and undermine your project and its chances of success.
 
 >* *Your team is not full time*.  If your core team of prodcut manager, scrum master, and key memebers of your multi-disciplinary team are not on the project full-time and spread over many projects then expect diffuculties on the project.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
