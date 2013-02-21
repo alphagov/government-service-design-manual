@@ -25,7 +25,7 @@ Creating a service standard was [one of the actions set out in the Government Di
 
 The [Government Service Design Manual](all-guides.html) is a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build service features and successful teams. Ultimately, it exists to help teams across Government meet the Digital by Default service standard.
 
-After it’s released in April 2013, teams across government will contribute new approaches and tools as they go through the process of redesigning their services. For now it’s been populated by what GDS has learned so far.
+For now, it has been populated with what GDS has learned so far. After it’s release in April 2013, service teams in Departments will contribute new approaches and tools as they go through the process of redesigning their services.
 
 
 
