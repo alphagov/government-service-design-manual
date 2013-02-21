@@ -9,7 +9,6 @@ secondary-audience: designer, developer, tech-arch, researcher, analyst
 theme: getting-started
 type: guide
 status: draft
-css: /assets/stylesheets/phases.css
 ---
 
 
