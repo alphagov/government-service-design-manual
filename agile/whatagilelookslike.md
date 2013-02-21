@@ -75,6 +75,8 @@ Don’t be afraid to fail or experiment.  Learn to fail, and create a culture th
 
 ##Continuous Planning
 
+![Planning session](http://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
+
 It’s a myth that you don’t plan on agile projects.  The freedom of agile projects does not come free: you have to plan.  You just plan differently and continuously.
 
 Agile planning is based as much as possible on solid, historical data, not speculation. The plan must continuously demonstrate its accuracy: nobody on an agile project will take it for granted that the plan is workable.
