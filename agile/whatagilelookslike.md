@@ -62,6 +62,8 @@ A good team can estimate their output, or velocity, very effectively and consist
 
 ## Fail fast
 
+![Failing, so fix it!](http://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
+
 Releasing little pieces of code often improves quality and visibility and reduces cost to market, but using agile techniques does not guarantee success. You can still fail!  What agile methodologies do allow you to do is to spot problems earlier and resolve them.  
 
 Here’s a few examples of how:
