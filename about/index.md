@@ -8,26 +8,24 @@ status: draft
 
 This website is a resource to help you and your team achieve the Digital by Default Standard. 
 
-Remember, this site is an ‘alpha’ prototype. The guidance is incomplete, and shouldn’t yet be considered canonical.
+Remember, this site is an ‘alpha’ prototype. We are continuing to work on the material on this site, and will add more guidance and features before it is launched in April 2013.
 
-## The Standard
+## The Digital by Default Service Standard
 
-The [Digital by Default standard](/digital-by-default) is a list of criteria that services and teams must meet before they go live. This list is very much under discussion, but it gives you a sense of what’s currently under consideration.
+The [Digital by Default service standard](/digital-by-default) is a list of criteria that services and teams must meet before they go live, and are linked to from GOV.UK. The final list is currently under discussion, but this page gives you a sense of what’s currently under consideration. We will publish the agreed Standard in April 2013.
 
-Creating a standard for services to meet was [one of the actions in the Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/#initial-outline-of-proposed-digital-by-default-transactional-service-standard), and that includes things like basing development around users needs, iterating a service based on feedback, and making plans to meet key performance indicators.
+The Digital by Default Service Standard has been designed to achieve two things. Consistently excellent digital government services. And teams across Government capable of designing, building and running them.
 
-The Digital by Default Service Standard will achieve two things. Consistently excellent digital government services. And teams across Government capable of designing, building and running them.
+Creating a service standard was [one of the actions set out in the Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/#initial-outline-of-proposed-digital-by-default-transactional-service-standard). It will include things like basing development around user needs, repeatedly iterating a service based on feedback, and making plans to meet key performance indicators.
 
-## The guidance
+## The Government Service Design Manual
 
 {:.left}
 ![Screen shot of the guidance home](http://alphagov.files.wordpress.com/2013/01/screen-shot-2013-01-07-at-15-45-48-e1357574909251.png)
 
-The [guides and toolkits](all-guides.html) are a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build features and the reasons for it.
+The [Government Service Design Manual](all-guides.html) is a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build service features and successful teams.
 
-When it’s released, teams across government will be able to contribute new approaches and tools. For now it’s been populated by GDS staff. 
-
-Not every heading is full of content - around half of the guidance has been returned at time of writing - but if you want to see good examples of guidance then take a look at the pages about [Colour palettes](colour-palettes/index.html).
+After it’s released in April 2013, teams across government will contribute new approaches and tools as they go through the process of redesigning their services. For now it’s been populated by what GDS has learned so far.
 
 
 
