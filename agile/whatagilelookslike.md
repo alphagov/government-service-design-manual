@@ -13,10 +13,10 @@ status: draft
 ---
 
 {:.intro}
-Agile is a liberating way of working.  It does not preclude the use of existing skills and knowledge but it does require teams, users and stakeholders to adopt new ways of working together.  
+Agile is a liberating way of working.  It does not preclude the use of existing skills and knowledge. But it does require teams, users and stakeholders to adopt new ways of working together.  
 
 {:.intro}
-This short guide lists a few of the behaviours common to agile projects that point towards successful delivery and learning. 
+This short guide lists a few of the behaviours common to agile projects that support successful delivery and learning. 
 
 ## Understand your users 
 
@@ -24,7 +24,7 @@ This short guide lists a few of the behaviours common to agile projects that poi
 ![Real people will use your product](http://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
 
 
-Prioritise features for them over everyone else -- including your big, scary stakeholders, and seek their feedback early and often.  Really listen to them.  Even when they they tell you things you don’t want to hear or disagree with.  If possible use data from real people using your product to influence the direction of the project. Your focus on the user should be relentless
+Prioritise features for them over everyone else -- including your big, scary stakeholders, and seek their feedback early and often.  Really listen to them.  Even when they tell you things you don’t want to hear or disagree with.  If possible, use data from real people using your product to influence the direction of the project. Your focus on the user should be relentless.
 
 ## “What do you want next Friday? What have we learned last week?”
 
@@ -52,7 +52,7 @@ A good team includes members with all of the skills necessary to successfully de
 
 *Product Manager* - responsible for delivering return on investment, usually by creating products that users love.  The team delivers the Product Manager’s vision.
 
-*Delivery Manager* (/Scrum master / Project Manager) - is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
+*Delivery Manager* (a.k.a. Scrum master or Project Manager) - is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
 
 *Team member* - Self organising, multi-disciplinary team that delivers prioritised user stories. Responsible for estimation.
 
@@ -93,14 +93,14 @@ These plans are usually reviewed after every sprint and adjusted based on “the
 ##Bad smells
 
 ![Do go here!](http://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
-Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  The have a bad smell about them and undermine your project and its chances of success.
+Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  They have a bad smell about them and undermine your project and its chances of success.
 
->* *Your team is not full time*.  If your core team of prodcut manager, scrum master, and key memebers of your multi-disciplinary team are not on the project full-time and spread over many projects then expect diffuculties on the project.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
+>* *Your team is not full time*.  If your core team of prodcut manager, scrum master, and key members of your multi-disciplinary team are not on the project full-time and spread over many projects then expect diffuculties.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
 
->* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project get going, conscioulsy 'hack the environment' to create a working environment condusive to team working.  Yes you might upset a few people and a challenge some long-standing working practices but this is so, so important and really should not be a big ask.
+>* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project gets going, consciously 'hack the environment' to create a working environment conducive to team working.  You might upset a few people and challenge some long-standing working practices. But this is so, so important, and really should not be a big ask.
 
 >* *There's no continous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continiously deploy and run automated tests as you do.
 
->* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to the QA department, then they've propably not got the right attitude to deliverying production-ready software.  You need to bake in a quality culture into the team.
+>* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've not got the right attitude to delivering production-ready software.  You need to embed a quality culture into the team.
 
-This is by no means an exhaustive list, but in my experience these are most common.
+This is by no means an exhaustive list, but these are most common things to watch out for.
