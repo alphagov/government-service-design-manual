@@ -14,9 +14,6 @@ status: draft
 
 Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
 
-{:.left}
-![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
-
 <img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a Digital by Default service" />
 
 Explore the four development phases of a digital service in more detail below.
