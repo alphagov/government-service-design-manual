@@ -5,8 +5,6 @@ subtitle: Build to the GOV.UK style
 section: guidance
 subsection: Design patterns
 type: resource
-audience: 
-    primary: designer, developer
 status: draft
 css: /assets/stylesheets/design-patterns/hidden-form-controls.css
 js:  /assets/javascripts/design-patterns/hidden-form-controls.css
