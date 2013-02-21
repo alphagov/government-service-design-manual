@@ -1,18 +1,10 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>{{ page.title }}</title>
 
-{% if page.assets == 'local' %}
-    {% comment %} References local assets, for working temporarily offline {% endcomment %}
-    {% include _head.local.html %}
-{% else %}
-    {% comment %} References assets on static.preview, {% endcomment %}
-    {% include _head.static.preview.html %}
-{% endif %}
+{% include _head.local.html %}
 
 {% if page.css  %}
-
 <link rel="stylesheet" href="{{ page.css }}" />
-
 {% endif %}
 
 {% if page.js  %}
