@@ -19,9 +19,9 @@ Here are some of the common features of the agile development methods we've used
 Sprints are the rhythmic foundation of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)). They usually last 1-2 weeks.
 
 Factors in deciding the length of your sprints include:
-* how long is the project? If it’s only a couple of months then shorter sprints give you greater flexibility and visibility of what’s going on and an opportunity to iterate and adaptively plan
-* shorter sprints allow teams that are new to Scrum get used to the regular meeting formats and familiarise themselves with the process. For those teams that a familiar with Scrum then moving to longer sprint cycles reduces the overhead of Sprint Planning, Review and [Retrospectives](http://gsdm.herokuapp.com/agile/runningretrospectives.html)
-* if you choose to release to production only at the end of each sprint (it’s optional, but perfectly OK), then how often do you want to ship production ready code? 
+>* how long is the project? If it’s only a couple of months then shorter sprints give you greater flexibility and visibility of what’s going on and an opportunity to iterate and adaptively plan
+>* shorter sprints allow teams that are new to Scrum get used to the regular meeting formats and familiarise themselves with the process. For those teams that a familiar with Scrum then moving to longer sprint cycles reduces the overhead of Sprint Planning, Review and [Retrospectives](http://gsdm.herokuapp.com/agile/runningretrospectives.html)
+>* if you choose to release to production only at the end of each sprint (it’s optional, but perfectly OK), then how often do you want to ship production ready code? 
 
 Teams commonly start with a Sprint 0, which is used to get the development and working environments setup, agree some of the design principles (technical, product, interaction, content) and prepare the backlog for the first sprint.
 
@@ -34,9 +34,9 @@ Note: There are other agile methodologies that do not rely on sprinting such as 
 A daily meeting with all of the team. It should take no more than 15 minutes and typically takes less time. It’s best if you do it standing up, in a semi-circle in front of the project wall. This helps keep it short and allows participants to point at story cards on the wall to keep things on topic. 
 
 The normal format is each person answers the following 3 questions:
-* What I worked on/delivered yesterday
-* What I am working on today (and help I might need)
-* What’s blocking me (i.e. stopping me delivering a story card)
+>* What I worked on/delivered yesterday
+>* What I am working on today (and help I might need)
+>* What’s blocking me (i.e. stopping me delivering a story card)
 
 (It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to chose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
 
