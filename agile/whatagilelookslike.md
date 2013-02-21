@@ -30,7 +30,7 @@ It perhaps sounds like over-simplifying the complexity of software development a
 
 The process of delivering incremental, production-ready software allows a team to deliver value to their users and stakeholders regularly.  It shortens the feedback loops that might otherwise have been longer using a waterfall methodology.  An iterative delivery cycle also forces the team to think about what the most important features are to deliver next and focuses the mind on useable software.
 
-At the end of each delivery cycle, or sprint teams should run a [retrospective](/agile/runningretrospectives.html) to review ‘what worked, what could be improved’ for in the next sprint.  
+At the end of each delivery cycle, or sprint, teams should run a [retrospective](/agile/runningretrospectives.html) to review ‘what worked, what could be improved’ in the next sprint.  
 
 The software and the team continue to learn through delivery and iterate and improve throughout the project.
 
@@ -75,3 +75,15 @@ Typically teams plan together, usually on at least two levels:
 >* at the iteration level, they plan for the next features to implement, in priority order. If features are too large to be estimated or delivered within a single iteration, they break them down further.
 
 These plans are usually reviewed after every sprint and adjusted based on “the weather yesterday”, new facts and requirements that will inevitably be uncovered along the way.
+
+##Bad smells
+Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  The have a bad smell about them and undermine your project and its chances of success.
+
+>* *Your team is not full time*.  If your core team of prodcut manager, scrum master, and key memebers of your multi-disciplinary team are not on the project full-time and spread over many projects then expect diffuculties on the project.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
+
+>* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project get going, conscioulsy 'hack the environment' to create a working environment condusive to team working.  Yes you might upset a few people and a challenge some long-standing working practices but this is so, so important and really should not be a big ask.
+
+>* *There's no continous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continiously deploy and run automated tests as you do.
+
+>* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to the QA department, then they've propably not got the right attitude to deliverying production-ready software.  You need to bake in a quality culture into the team.
+
