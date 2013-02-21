@@ -29,7 +29,7 @@ Prioritise features for them over everyone else -- including your big, scary sta
 ## “What do you want next Friday? What have we learned last week?”
 
 
-![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](http://farm9.staticflickr.com/8043/8100964765_acf4032d09_n.jpg)
+![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](http://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
 
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
@@ -43,6 +43,8 @@ At the end of each delivery cycle, or sprint, teams should run a [retrospective]
 The software and the team continue to learn through delivery and iterate and improve throughout the project.
 
 ## Small, agile teams
+
+[The unit of delivery is the team] (http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
 
 Small teams of between five to ten people are often more productive and predictable than larger teams. Forget man-days and think about the team as the unit of delivery.  
 
