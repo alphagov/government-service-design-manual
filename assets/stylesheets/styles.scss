@@ -17,10 +17,9 @@
 
 @include global-nav($black, $border-colour);
 
-
 // Semantic colour names
-$main-colour: $green;
-$secondary-colour: $green-25;
+$main-colour: $mellow-red;
+$secondary-colour: $red;
 
 $alpha-colour: $pink;
 $discovery-colour: $pink-25;
@@ -31,12 +30,19 @@ $live-colour: $grass-green;
 $operational-colour: $grass-green-50;
 $decommissioning-colour: $grey-3;
 
-
-
+@import "category-index";
 
 // ====================================================
 // DEFAULT PAGE STYLES
 //
+
+html {
+  background-color: #fff;
+}
+
+#wrapper {
+  background-color: transparent;
+}
 
 // Global navigation
 #global-nav{
@@ -66,25 +72,27 @@ article .inner{
 }
 
 // Page status label
-.page-status{
-  display: block;
+.page-status {
+  position: relative;
   float: right;
+  margin-right: 0;
+  // padding: 0.2em 1.5em 0em 1.5em;
+  padding: 11px 15px 10px;
+
+  @include bold-14;
+
   color: $white;
-  background-color: $green;
-  padding: 0.2em 1.5em 0em 1.5em;
+  background: $green;
+
   text-align: center;
+  text-decoration: none;
   text-transform: uppercase;
+  letter-spacing: 0.2em;
+
   // Custom label colours for each status
   &.draft{
     background-color: $fuschia;
   }
-}
-
-// Page subtitle
-.subtitle{
-  margin: -1em 0 1em 0;
-  color: $secondary-text-colour;
-  @include core-24;
 }
 
 // Breadcrumbs
@@ -102,39 +110,46 @@ article .inner{
   }
 }
 
-.article-container .inner {
-  // 1st para is bigger
-  .intro,
-  > p:first-of-type{
-    font-size: 24px;
-    padding: 0;
-  }
-  // H2's get distinct style
-  h2{
-    font-weight: 400;
-    border-bottom: 5px solid $main-colour;
-    margin: 2em 0 2em 0;
-    &.subtitle{
-      margin-top: -1em;
-      border: 0 solid;
+// Page subtitle
+.subtitle{
+  margin: 1em 0 1em 0;
+  color: $secondary-text-colour;
+  @include core-24;
+}
+
+.article-container {
+  width:  75%;
+  float: right;
+
+  .inner {
+    padding: 0 2em;
+  
+    // 1st para is bigger
+    .intro,
+    > p:first-of-type{
+      @include core-24;
+      padding: 0;
+    }
+
+    .intro {
+      margin: 0 0 1.5em 0;
+    }
+
+    // H2's get distinct style
+    h2{
+      font-weight: 400;
+      border-bottom: 5px solid $main-colour;
+      margin: 2em 0 2em 0;
+      &.subtitle{
+        margin-top: -1em;
+        border: 0 solid;
+      }
     }
   }
 }
 
-// Default page layout has wide left margin to reduce line length
-.default .article-container .inner{
-  margin-left:  25%;
-  .intro,
-  > p:first-of-type,
-  h2{
-    margin-left: -36%;
-  }
-}
-
-
-
 // Table of contents
-#markdown-toc{
+#markdown-toc {
   li ul {
     display: none;
   }
