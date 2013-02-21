@@ -81,7 +81,7 @@ Each of the activities is timeboxed, and it is up to the facilitator to make sur
 
 ### 00:00 to 00:05 (5 mins) Setting the scene
 
-Explaining the scope, and if necessary, purpose. If the team don't know each other and/or are shy, you could include a <a href="http://retrospectivewiki.org/index.php?title=Check-in_Ideas" target="_blank">check in</a>.
+Explaining the scope, and if necessary, purpose. If the team don't know each other and/or are shy, you could include brief introductions.
 
 ### 00:05 to 00:10 (5 mins) Actions from the previous retrospective
 
