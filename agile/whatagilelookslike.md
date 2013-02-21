@@ -20,9 +20,17 @@ This short guide lists a few of the behaviours common to agile projects that poi
 
 ## Understand your users 
 
+{:.left}
+![Real people will use your product](http://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
+
+
 Prioritise features for them over everyone else -- including your big, scary stakeholders, and seek their feedback early and often.  Really listen to them.  Even when they they tell you things you don’t want to hear or disagree with.  If possible use data from real people using your product to influence the direction of the project. Your focus on the user should be relentless
 
 ## “What do you want next Friday? What have we learned last week?”
+
+
+[A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](http://farm9.staticflickr.com/8043/8100964765_acf4032d09_n.jpg)
+
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
 
