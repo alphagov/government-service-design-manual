@@ -87,3 +87,4 @@ Teams new to agile should be wary of these familiar situations and reactions to 
 
 >* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to the QA department, then they've propably not got the right attitude to deliverying production-ready software.  You need to bake in a quality culture into the team.
 
+This is by no means an exhaustive list, but in my experience these are most common.
