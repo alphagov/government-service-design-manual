@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 section: guidance
@@ -15,7 +15,7 @@ status: draft
 
 The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a Digital by Default service.
 
-[Read more >](understandinguserneeds.html)
+[Understanding user needs](understandinguserneeds.html)
 
 
 ## An introduction to user research
