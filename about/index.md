@@ -23,11 +23,11 @@ The Digital by Default Service Standard will achieve two things. Consistently ex
 {:.left}
 ![Screen shot of the guidance home](http://alphagov.files.wordpress.com/2013/01/screen-shot-2013-01-07-at-15-45-48-e1357574909251.png)
 
-The [guides and toolkits](http://gsdm.herokuapp.com/handbook/) are a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build features and the reasons for it.
+The [guides and toolkits](all-guides.html) are a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build features and the reasons for it.
 
 When it’s released, teams across government will be able to contribute new approaches and tools. For now it’s been populated by GDS staff. 
 
-Not every heading is full of content - around half of the guidance has been returned at time of writing - but if you want to see good examples of guidance then take a look at the pages about [Colour palettes](/guides/colours).
+Not every heading is full of content - around half of the guidance has been returned at time of writing - but if you want to see good examples of guidance then take a look at the pages about [Colour palettes](colour-palettes/index.html).
 
 
 
