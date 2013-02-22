@@ -10,7 +10,7 @@ type: resource
 css: /assets/stylesheets/colours.css
 ---
 
-This is the standard GOV.UK colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.
+This is the standard [GOV.UK](www.gov.uk) colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the [GOV.UK](www.gov.uk) Front-end Toolkit.
 
 ## Semantic colour names
 
