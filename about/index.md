@@ -6,9 +6,9 @@ section: about
 status: draft
 ---
 
-This website is a resource to help you and your team achieve the Digital by Default Standard. 
+This website is a resource to help you and your service achieve the Digital by Default Standard. 
 
-Remember, this site is an ‘alpha’ prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features before it is launched in April 2013.
+Remember, this site is currently a prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features before it is launched in April 2013.
 
 ## The Digital by Default Service Standard
 
@@ -25,7 +25,7 @@ Creating a service standard was [one of the actions set out in the Government Di
 
 The [Government Service Design Manual](all-guides.html) is a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build service features and successful teams. Ultimately, it exists to help teams across Government meet the Digital by Default service standard.
 
-For now, it has been populated with what GDS has learned so far. After it’s release in April 2013, service teams in Departments will contribute new approaches and tools as they go through the process of redesigning their services.
+For now, it has been populated with what GDS has learned so far. After it is released in April 2013, service teams in Departments will contribute new approaches and tools as they go through the process of redesigning their services.
 
 
 
