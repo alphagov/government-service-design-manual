@@ -9,22 +9,18 @@ audience:
 status: draft
 ---
 
-As we surface more of the data that we monitor at the Government Digital Service (GDS), we need to make sure that the visualisations we produce are easy to understand and visually compelling. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.
+As we surface more data about government services, we need to make sure that the visualisations of it are easy to understand, visually compelling and drive action. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.
 
 ## Introduction
 
-This guide consists of four principles for good data presentation, with easy to follow checklists to help you achieve this and examples of how the principle has been employed at GDS.
-
-### Style over time
-
-The principles and examples found in the style guide are likely to evolve over time, as we find new challenges and applications for them. The most latest version can be found at [url].
+This guide sets out four principles of good data presentation, with easy to follow checklists to help you achieve this. For context, we've added examples of how the principles have been employed at GDS. The principles and examples found in this guide are likely to evolve over time, as we find new challenges and applications for them.
 
 ### Best Practice
-There are many examples of best practice style guides already in place. One of these, The Economist has a clearly defined house style allowing readers to readily identify and understand their visualisations. They publish a new visualisation each day in their Graphic Detail [here](http://www.economist.com/blogs/graphicdetail). This guide attempts to build on the best practice from a range of organisations.
+There are many examples of best practice style guides already in place. For example, [The Economist](http://www.economist.com/) has a clearly defined house style that allows its readers to readily identify and understand their visualisations. They publish a new visualisation every day in their [Graphic Detail](http://www.economist.com/blogs/graphicdetail). This guide attempts to build on the best practice from a range of organisations.
 
 ### GDS Example
 
-|The GDS Data Insight Platform includes innovative visualisations (using HTML5 D3 Javascript) which monitor GOV.UK. This example has a trend line and colours which vary by performance. GOV.UK visualisations stand out from the crowd - for more on the Data Insight Platform see this excellent [blog](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/) .   
+The [GDS Performance Platform](www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](www.gov.uk) visualisations are designed to stand out from the crowd.   
 ![Graph Image](http://alphagov.files.wordpress.com/2012/10/rounded_corner_style.jpeg?w=300)
 
 ###Contents
@@ -35,13 +31,13 @@ There are many examples of best practice style guides already in place. One of t
 
 ##1. Telling the story
 
-To best tell the story you need to understand your audience and the data. 
+To effectively tell the story behind the numbers, you need to understand both your audience and the data. 
 
 Only use visualisations if they make the story clearer. In many cases, a good table or words may communicate better. If there are very few data points (e.g. top rate income tax down 5%, all other rates unchanged), it’s clearer to write a sentence than draw a picture. If every item must be read precisely (to several decimal places) then a table is best.
 
-A good table will be clear and uncluttered. The data should be easy to read with the same decimal places or rounding and sorted into a logical order. Do not use too many different types of font and make sure your data is referenced.
+A good table will be clear and uncluttered. The data should be easy to read with the same decimal places or rounding and sorted into a logical order. Don't use too many different types of font, and make sure your data is referenced.
 
-But visualisations often are the right answer and the data is the most important feature. It should tell its own story and it is best to not try to say too much in one go. Avoid jargon and keep charts simple, cutting down on unnecessary items. Explanatory text will be needed in some cases but should not simply repeat the story being told in the visualisation. A well written chart title can reinforce the story of the data and reduce the amount of additional text needed.  
+But visualisations often are the right answer and the data is the most important feature. It should tell its own story and it is best to not try to say too much in one go. Keep charts simple, cutting down on unnecessary items and jargon. Explanatory text will be needed in some cases, but it should not simply repeat the story being told in the visualisation. A well written chart title can reinforce the story of the data and reduce the amount of additional text needed.  
 
 
 ### Checklist
@@ -121,12 +117,13 @@ Choosing the correct visualisation is important and at GDS we reviewed what was 
 
 Keep in mind these useful tips when creating your charts. 
 
-* Start axes at zero unless good reason not to (i.e. data is clustered at high values).  
+* Start axes at zero unless there's good reason not to (i.e. data is clustered at high values).  
 * Do not say too much, limit the number of data sets.  
 * If needed, put legend at the top of the chart in the same order as the data in the chart.  
 * Maximise the space available to the chart and remove chartjunk.  
 * Include units of measurement in the chart title or directly on the axis, avoid doing both.  
-* Keep colours simple, do not repeat/alternate or use opposites. Use the GDS [palette](https://docs.google.com/a/digital.cabinet-office.gov.uk/spreadsheet/ccc?key=0AtlK1009bUPidEJVVEtVc0dURnJySnNoX2s5VGhYemc#gid=0)   * Use the same colour when reporting a single data set  
+* Keep colours simple, do not repeat/alternate or use opposites. Use the GDS Colour palette.  
+* Use the same colour when reporting a single data set  
 
 Keeping your visualisation simple will help the data tell its own story. 
 
@@ -147,7 +144,7 @@ Poor colour choice can change how the data is perceived in a visualisation. For 
 Colour blindness makes it difficult for a user to differentiate between data sets. Labelling charts directly and different line styles can help. If your visualisations are likely to be printed it is important the colours work in greyscale as not all users will have high quality printers.  
 
 ###Checklist
-a) Have you removed any [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?  
+a) Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?  
 b) Have you got the right amount of supporting information?  
 c) Have you got the right amount of data?  
 d) Have you used the GDS colour palette?  
@@ -155,7 +152,7 @@ e) Will the colours work for people with colour blindness or greyscale?
 f) Are your colours appropriate for the data?  
 
 ###Worked Example - GDS Performance Dashboard
-The example below is from the GDS SMT dashboard shows how avoiding chart junk and limiting the number of datasets can enhance your visualisation.
+The example below from GDS' senior management dashboard shows how avoiding chart junk and limiting the number of datasets can enhance your visualisation.
 
 ####Before
 ![Poor stack bar - image 8](https://docs.google.com/drawings/pub?id=1X2JceYqVi-2LhiGJXstzPgGKkhv-ACGPNhjS09KewJU&w=337&h=237)  
@@ -202,7 +199,7 @@ d) Have you been open and transparent with data?
 
 ###Further Reading/Viewing
 
-The [GDS Performance Framework](https://www.gov.uk/designprinciples/performanceframework) provides context for data visualisation within performance management.
+For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/). 
 
 This [chart chooser](http://www.verstaresearch.com/types-of-chart.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
