@@ -29,7 +29,7 @@ It’s important to take a range of disabilities into account when you are testi
 
 *  Motor skills impairments e.g. those affected by arthritis, strokes, RSI
 
-The Section III of the Disability Discrimination Act (DDA), also states that websites should be accessible to blind and disabled users and the Code of Practice for this section of the DDA was published on 27th May 2002.
+The Section III of the Disability Discrimination Act (DDA), also states that websites should be accessible to blind and disabled users. The Code of Practice for this section of the DDA was published on 27th May 2002. The elements most relevant to website designs are set out here.[http://www.webcredible.co.uk/user-friendly-resources/web-accessibility/uk-website-legal-requirements.shtml]
 
 NB. This does not include Accessibility Audits
 
