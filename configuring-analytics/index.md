@@ -19,15 +19,15 @@ assets: local
 
 ##Available analytics tools
 
-There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against those criteria.
+There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against them.
 
 ###High level requirements
 
-When you are deciding which analytics tool to use you should consider the following criteria.
+When deciding which analytics tool is most appropriate for your service, you should consider the following criteria:
 
 * Cost: you should consider the total cost of ownership as well as cost in comparison to turnover of service
 * Scalability (will data be sampled at high volumes?)
-* Data ownership (do you solely own the data?
+* Data ownership (do you solely own the data?)
 * 1st party cookies only
 * Profiles and custom variables (do you pay more for additional profiles/custom variables?)
 * Admin system (does it provide a strong admin system for user access?)
@@ -38,11 +38,11 @@ When you are deciding which analytics tool to use you should consider the follow
 * Funnel analysis (can it measure transactions through funnel analysis and measure goals?)
 * Support and training
 
-For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for in addition.
+For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for any additional features.
 
 ##Vendor comparison
 
-The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s Web Analytics Buyer’s Guide 2012 and input from colleagues in GDS, HMRC (Business Link) and DH (NHS Choices). Of course, there are other vendors in the market place, including open source solutions such as Piwik.
+The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s [Web Analytics Buyer’s Guide 2012](http://econsultancy.com/uk/reports/web-analytics-buyers-guide) and input from GDS and other government departments. There are numerous other vendors in the market place, including open source solutions such as Piwik, which may also be worth considering.
 
 <table>
 <tr><th></th><th>Google Analytics Premium</th><th>Adobe Omniture</th><th>WebTrends</th><th>Digital Analytics (Comscore)</th></tr>
