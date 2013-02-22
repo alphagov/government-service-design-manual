@@ -1,0 +1,16 @@
+// Breadcrumbs
+
+.breadcrumb {
+  list-style-type: none;
+  list-style-image: none;
+  margin: 0;
+  padding: 0;
+  background: white;
+  padding: 1em 2em 0 2em;
+  
+  li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+}

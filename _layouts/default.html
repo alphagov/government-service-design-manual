@@ -1,62 +1,29 @@
-{% if page.layoutClass %}
-  {% capture layout %} {{ page.layoutClass }} {% endcapture %}
-{% else %}
-  {% capture layout %} default {% endcapture %}
+---
+layout: default-wrapper
+---
+
+{% if page.status %}
+<div class="page-status {{ page.status }}">{{ page.status }}</div>
 {% endif %}
 
-<!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en" class="">
-<!--<![endif]--><head>
-{% include _head.html %}
-    <link rel="stylesheet" href="/assets/stylesheets/styles.css" />
-<script src="http://assets.annotateit.org/annotator/v1.2.5/annotator-full.min.js"></script>
-    <link rel="stylesheet" href="http://assets.annotateit.org/annotator/v1.2.5/annotator.min.css">
-  </head>
+<article role="article" class="group">
+  <header class="page-header group">
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+    </hgroup>
+  </header>
 
-  <body class="mainstream full-width {{ layout }} {{ page.section }}">
-    <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+  <div class="article-container group">
+    <div class="inner">
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
 
-    {% include _header.html %}
+      {{ content }}
+    </div>
 
-    <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
-
-      <section id="content" role="main" class="group">
-
-        <div class="js-toggle-nav" id="global-nav">
-          <div class="inner">
-            <span class="home"><a href="/" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual<small>alpha</small></a></span>
-            <nav role="navigation" class="content">
-              <ul id="navigation">
-                <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default Standard</a></li>
-                <li><a href="/about" {% if page.section == 'about' %}class="current"{% endif %}>About the manual</a></li>
-                <li><a href="/feedback" {% if page.section == 'feedback' %}class="current"{% endif %}>Feedback</a></li>
-              </ul>
-            </nav>
-          </div>
-        </div>
-
-
-        {% if page.status %}<div class="page-status {{ page.status }}">{{ page.status }}</div>{% endif %}
-
-        <header class="page-header group">
-
-        <hgroup><h1>{{ page.title }}</h1></hgroup></header><div class="article-container group">
-        <article role="article" class="group">
-          <div class="inner">
-              {% if page.subtitle %}
-                <h2 class="subtitle">{{ page.subtitle }}</h2>
-              {% endif %}
-
-              {{ content }}
-          </div>
-          <ul class="github-links">
-            <li><a href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
-            <li><a href="https://github.com/alphagov/government-service-design-manual/edit/master{{ page.url | replace:'.html','.md' }}">Edit page on GitHub</a>
-          </ul>
-        </article>
-      </div>
-    </section>
-    </div><!--end wrapper-->
-    {% include _footer.html %}
-  </body>
-</html>
+    <ul class="github-links">
+      <li><a href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
+      <li><a href="https://github.com/alphagov/government-service-design-manual/edit/master{{ page.url | replace:'.html','.md' }}">Edit page on GitHub</a>
+    </ul>
+</article>

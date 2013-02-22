@@ -1,7 +1,10 @@
 ---
 layout: wide
 title: Progress indicator
+subtitle: Build to the GOV.UK style 
+section: guidance
 subsection: Design patterns
+type: resource
 status: draft
 css: /assets/stylesheets/design-patterns/progress-indicator.css
 ---

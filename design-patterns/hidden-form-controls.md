@@ -1,7 +1,10 @@
 ---
 layout: wide
 title: Hidden form controls
+subtitle: Build to the GOV.UK style 
+section: guidance
 subsection: Design patterns
+type: resource
 status: draft
 css: /assets/stylesheets/design-patterns/hidden-form-controls.css
 js:  /assets/javascripts/design-patterns/hidden-form-controls.css

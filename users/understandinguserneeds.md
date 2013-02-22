@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Understanding user needs
+subtitle: How to focus a service on users
 section: guidance
-type: guide
-audience:
-  primary: researcher
+subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
 ---
 
 #Understanding user needs

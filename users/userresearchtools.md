@@ -1,9 +1,14 @@
 ---
 layout: default
 title: User research tools
+subtitle: Products available to researchers
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
 ---
     
 #User research tools

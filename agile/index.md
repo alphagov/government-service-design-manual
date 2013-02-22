@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: Agile
 subtitle: What it is, why it works and how to do it
 section: guidance

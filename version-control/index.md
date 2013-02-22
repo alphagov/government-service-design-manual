@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Version control
-subtitle: 
+subtitle: Ensure the clean release of new code
 section: guidance
 type: guide
 audience:

@@ -1,11 +1,15 @@
 ---
 layout: default
 title: An introduction to user research
+subtitle: Basing your service on user needs and user input
 section: guidance
-type: guide
-audience:
-  primary: researcher
+subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
 
 This guidance is aimed to provide a broad overview of the types of methods and techniques that are available to conduct user research. More detailed guidance on each of these techniques is available in the manual. 

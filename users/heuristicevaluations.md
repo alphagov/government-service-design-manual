@@ -1,9 +1,14 @@
 ---
 layout: default
 title: Heuristic evaluations/expert reviews
+subtitle: Getting input into products and services
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
 ---
     
 #Heuristic evaluations/expert reviews

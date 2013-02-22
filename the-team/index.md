@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: The team
 subtitle: What you'll need to build a successful service
 status: draft

@@ -1,7 +1,10 @@
 ---
 layout: wide
 title: Panel styles
+subtitle: Build to the GOV.UK style 
+section: guidance
 subsection: Design patterns
+type: resource
 status: draft
 css: /assets/stylesheets/design-patterns/panels.css
 ---

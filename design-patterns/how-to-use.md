@@ -1,7 +1,10 @@
 ---
 layout: wide
 title: Design pattern library
+subtitle: Build to the GOV.UK style 
+section: guidance
 subsection: Design patterns
+type: resource
 status: draft
 ---
 

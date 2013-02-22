@@ -1,10 +1,18 @@
 ---
 layout: default
 title: Analytics tools
+subtitle: 
 section: guidance
 subsection: KPIs
+type: 
+audience: 
+    primary: analysts
+    secondary: service-managers
+theme: Measurement
 status: draft
+assets: local
 ---
+
 
 * Toc
 {:toc}

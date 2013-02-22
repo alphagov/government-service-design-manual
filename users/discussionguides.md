@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Discussion Guides
+subtitle: Tools to help steer user research
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #Discussion Guides

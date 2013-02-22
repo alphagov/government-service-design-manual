@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: KPIs
 subtitle: Data you need to measure and monitor
 section: guidance

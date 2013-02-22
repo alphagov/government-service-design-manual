@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Survey sampling methodologies
+subtitle: How to draw an effective selection of user
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #Survey sampling methodologies

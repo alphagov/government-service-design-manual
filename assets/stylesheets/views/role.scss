@@ -1,0 +1,105 @@
+// ====================================================
+// ROLE PAGES
+//
+
+// Primary links
+.primary-links {
+  @include regular-grid(3);
+  div{
+    box-sizing: border-box;
+    border-top: 3px solid $main-colour;
+    padding: 1em 0 0 0;
+  }
+}
+
+// Lists of links
+.link-list {
+  border-top: 3px solid $main-colour;
+  border-bottom: 0;
+  padding-bottom: 1.5em;
+  h3{
+    margin-top: 1em;
+  }
+  ul{
+    margin: 0;
+    padding: 0;
+    li{
+      font-size: 16px;
+      list-style-type: none;
+      list-style-image: none;
+      overflow: hidden;
+      margin-top: 0.5em;
+      padding-top: 0.5em;
+      padding-left: 0;
+      border-top: 1px solid $grey-3;
+      a{
+        display: block;
+        overflow: hidden;
+        span{
+          display: block;
+          float: left;
+        }
+        .title {
+          width: 34%;
+          text-decoration: underline;
+        }
+        .description{
+          width: 64%;
+          color: $secondary-text-colour;
+        }
+        &:hover .description{
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  // Run lists over two columns
+  &.wide{
+    width: 65.5%;
+    margin-right: 0;
+    li{
+      display: inline-block;
+      width: 48.3%;
+      &:nth-child(odd){
+        margin-right: 1em;
+      }
+    }
+  }
+  // Use title attribute to show page subtitle
+  a[title]:after{
+    content: attr(title);
+    position: absolute;
+    left: 35%;
+    color: #6F777B;
+    text-decoration: none;
+    width: 64%;
+    &:hover{
+      text-decoration: underline;
+    }    
+  }
+  // Big blocky version for hero promo
+  &.hero{
+    padding: 0;
+    border-top: 0 solid;
+    a{
+      padding: 1em;
+      display: block;
+      background-color: $main-colour;
+      text-decoration: none;
+      h3, p{
+        color: white;
+      }
+      p{
+        font-size: 19px;
+      }
+      &:hover{
+        background-color: lighten($main-colour, 10%);
+      }
+    }
+    h3{
+      font-size: 48px;
+      font-weight: normal;
+      margin-bottom: 0.5em;
+    }
+  }
+}

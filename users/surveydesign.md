@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Survey design
+subtitle: Making an effective survey
 section: guidance
 subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #Survey design

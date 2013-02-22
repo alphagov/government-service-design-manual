@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Information Security
+subtitle: Ensuring user data stays secure
 section: guidance
 type: guide
 audience:

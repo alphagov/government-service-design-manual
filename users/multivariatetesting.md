@@ -1,9 +1,14 @@
 ---
 layout: default
 title: A/B and multivariate experiments
+subtitle: Getting input into products and services
 section: guidance
-subsection: Optimising Service Performance
+subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
 ---
     
 #A/B and multivariate experiments

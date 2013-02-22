@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Designing for GOV.UK
-subtitle:
+subtitle: General guidance for those developing for GOV.UK
 section: guidance
 audience: 
   primary: designer

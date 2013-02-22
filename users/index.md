@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 section: guidance
@@ -11,9 +11,6 @@ theme: understanding-your-audience
 status: draft
 ---
 
-
-## User needs
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -21,7 +18,7 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[Read more >](understandinguserneeds.html)
+[Understanding user needs](understandinguserneeds.html)
 
 
 ## An introduction to user research

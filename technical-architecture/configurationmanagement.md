@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Configuration management
+subtitle: Manage a team's approach to configuration
 section: guidance
 type: guide
 audience:
@@ -12,7 +13,7 @@ status: draft
 Your system is likely much larger than a single application, relying
 on other supporting infrastructure components. Even a simple application
 probably requires some configuration, to provide database credentials or
-a web servvice endpoint for instance. In order to build robust, scalable
+a web service endpoint for instance. In order to build robust, scalable
 and portable systems this configuration data should be well managed.
 
 ## Guidance/Tool

@@ -1,11 +1,15 @@
 ---
 layout: default
 title: User research briefs
+subtitle: Documents that explain research requirements
 section: guidance
-type: guide
-audience:
-  primary: researcher
+subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #User research briefs

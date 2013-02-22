@@ -1,9 +1,15 @@
 ---
 layout: default
 title: Sentiment analysis
+subtitle: Understanding user's feelings about a service
 section: guidance
-subsection: User feedback
+subsection: User research
+type: guide 
+audience: 
+    primary: research 
 status: draft
+assets: local
+
 ---
     
 #Sentiment analysis
