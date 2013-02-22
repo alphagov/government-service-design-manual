@@ -19,6 +19,8 @@ The delivery manager (the ScrumMaster in Scrum) is all about setting the team up
 
 Equally important in an agile team and particularly important to the delivery manager is continuous improvement. Their role in this is to facilitate project meetings- including daily stand-ups, sprint planning meetings, and organising retrospectives. They also track progress and produce artefacts for showing this, like burn down/up charts. They must be able to estimate how much effort is required in producing the features the Product Manager wants.   
 
+![example burn-up chart](burn-up.png)
+
 ## Skills
 
 Delivery managers need to have: 
@@ -31,14 +33,17 @@ Delivery managers need to have:
 
 A delivery manager will also need the following skills: 
 
-* strong organisational skills * collaborative approach to working 
+* strong organisational skills 
+* collaborative approach to working 
 * good at prioritising time-critical work 
 * an understanding of the wider digital landscape 
-*[other e.g. managing tight resource constraints?
+* *other e.g. managing tight resource constraints?*
 
-Job description templates
-Delivery Manager
+## Job description templates
+[Delivery Manager](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1fF_PnQeSQg75EvJzH316HoSee3J86ywd2j2EcXPbXuE/edit) (Google drive link. You will need permission to view.)
 
-Further reading
-Good health check from the Scrum Alliance for delivery managers.
-Blog - A day in the life of a delivery manager
+
+## Further reading
+[Good health check](http://www.scrumalliance.org/articles/103-the-managers-role-in-agile) from the Scrum Alliance for delivery managers.
+
+[Blog](http://digital.cabinetoffice.gov.uk/2012/12/12/a-day-in-the-life-of-a-delivery-manager/) - A day in the life of a delivery manager
