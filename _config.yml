@@ -1,5 +1,5 @@
 safe:        false
-auto:        true
+auto:        false
 server:      false
 #server_port: 4000
 baseurl:    /
@@ -10,7 +10,7 @@ destination: ./_site
 plugins:     ./_plugins
 exclude: Procfile, Gemfile, Gemfile.lock, config.ru
 future:      true
-lsi:         true
+lsi:         false
 pygments:    false
 markdown:    kramdown
 permalink:   /:categories/:title/
