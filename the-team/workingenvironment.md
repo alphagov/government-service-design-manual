@@ -23,7 +23,7 @@ Those working in creative and technical fields often need plenty of space for fo
 
 The room a team works in is a tool. It is just as important as the choice of project management tools or choice of programming language.
 
-Teams should dedicate time at the beginning of a project to making sure they have everything they need and addressing any problems. This might include setting up a project wall, configuring collaboration software like email groups or project trackers, building and installing up dashboards, putting up whiteboards, or simply moving desks about so the team can sit together.
+Teams should dedicate time at the beginning of a project to making sure they have everything they need and addressing any problems. This might include setting up a project wall, configuring collaboration software like email groups or project trackers, building and installing dashboards, putting up whiteboards, or simply moving desks about so the team can sit together. Removing those dividers between desks makes a big difference and allows conversation between the team to flow more freely. If large monitors are getting in the way remove them. You might also want to think about getting desk tidies [like these](http://www.muji.eu/pages/online.asp?Sec=9&Sub=38&PID=163). The difference a tidy environment makes to ability of a team to think and work is striking. 
 
 This process is known as 'hacking the environment'.
 
