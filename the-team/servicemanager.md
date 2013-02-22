@@ -26,11 +26,11 @@ These Service Managers will:
 * oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the digital by default service standard, identifying and mitigating risks, and be empowered to deliver on all aspects
 * actively participate in networking with other Service Managers inside and outside government, and share good practice and learning
 
-## Get help hiring services manager
+## Help with hiring service managers
 
 The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager.
 
-As a result, Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by Cabinet Office through a specialist training programme run by the Government Digital Service. This will include the hands-on process of designing and prototyping a digital service.
+Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 
 ##Sample job description
 
