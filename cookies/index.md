@@ -67,5 +67,5 @@ Where a user can't be notified before the cookie is set (i.e. if it's set when t
 
 
 ##Further reading
-[Cookies blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/)
+This [blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](www.gov.uk).
 
