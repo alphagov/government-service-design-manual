@@ -49,7 +49,7 @@ What kind of people will need to be part of your team, and when? What should you
 * [Developer](developer.html)
 * [Analyst](analyst.html)
 * [Accessibility](accessibility.html)
-* [Delivery manager](deliverymanager.html)
+* [Delivery manager](delivery-manager.html)
 
 
 ## Working with consultants and specialists
