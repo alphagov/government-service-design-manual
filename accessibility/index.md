@@ -28,7 +28,7 @@ Your service should be tested by disabled people, older people, and people who u
 
 ## Accessibility statements and policies
 
-We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website does not include a separate accessibility statement, however, as we are not comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development.
+We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website does not include a separate accessibility statement, however, as we are not comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development. This [blogpost by GDS accessibility expert Léonie Watson](http://digital.cabinetoffice.gov.uk/2013/02/11/beyond-box-ticking/) explains in more detail why we took this decision. 
 
 
 ## Assistive technologies
