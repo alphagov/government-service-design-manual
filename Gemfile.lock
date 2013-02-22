@@ -74,8 +74,7 @@ GEM
     rack (1.4.4)
     rack-cache (1.2)
       rack (>= 0.4)
-    rack-jekyll (0.3.5)
-      jekyll
+    rack-slashenforce (0.0.2)
       rack
     rack-ssl (1.3.3)
       rack
@@ -128,6 +127,6 @@ DEPENDENCIES
   govuk_frontend_toolkit (= 0.12.3)
   jekyll
   kramdown
-  rack-jekyll
+  rack-slashenforce
   sass
   thin
