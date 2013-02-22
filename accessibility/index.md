@@ -17,7 +17,7 @@ The services we provide are for the benefit of all citizens of the United Kingdo
 
 ## Accessibility standard
 
-Your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/TR/WCAG/) (WCAG) 2.0 as a starting point.
+As a starting point, your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/TR/WCAG/) (WCAG) 2.0.
 
 ## Accessibility testing
 
