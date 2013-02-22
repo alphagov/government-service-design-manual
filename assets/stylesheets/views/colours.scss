@@ -1,12 +1,6 @@
----
----
-
 // ===================================================
 // COLOUR PALETTE PAGE
 //
-
-@import "colours";
-@import "design-patterns/regular-grid";
 
 .swatches{
   @include regular-grid(3);
