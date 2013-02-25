@@ -13,15 +13,9 @@ status: draft
 assets: local
 ---
 
-
-* Toc
-{:toc}
-
-##Available analytics tools
-
 There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against them.
 
-###High level requirements
+## High level requirements
 
 When deciding which analytics tool is most appropriate for your service, you should consider the following criteria:
 
@@ -40,7 +34,7 @@ When deciding which analytics tool is most appropriate for your service, you sho
 
 For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for any additional features.
 
-##Vendor comparison
+## Vendor comparison
 
 The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s [Web Analytics Buyer’s Guide 2012](http://econsultancy.com/uk/reports/web-analytics-buyers-guide) and input from GDS and other government departments. There are numerous other vendors in the market place, including open source solutions such as Piwik, which may also be worth considering.
 
@@ -62,32 +56,32 @@ SDK mobile is  extra for Apps; but mobile site use is no extra.</td><td>Based on
 <tr><td>Expert review</td><td>If you are running a lot of PPC, media campaigns, marketing then Google Analytics Premium is a good option as this is a fixed cost regardless of the volume of visits you have to the site.</td><td>Adobe Omniture is the biggest one out there. However, there are downsides, this is expensive and any additional functionality you require comes at a cost from different modules.</td><td>Webtrends is great to keep an accurate (or as close as it can be) record of traffic to the site. and this records it on a session by session basis. and whilst not out of the box you can create any number of scenario and funnel reports for transactional activities.</td><td>Comscore is a great all-rounder and is an easy install across multiple pages. This measures every activity and for a very busy site can get very expensive as they charge per call.</td></tr>
 </table>
 
-
-
-    
-#Configuring analytics tools
+## Configuring analytics tools
 
 Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems. Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
 
-##Guidance
+You will need to answer the following questions:
 
 * Have you installed web analytics software?
 * Have you configured your web analytics software with the appropriate [conversion funnels](http://en.wikipedia.org/wiki/Conversion_funnel)?
 * Do you have the capability to run user satisfaction surveys?
 * Do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing](http://en.wikipedia.org/wiki/Multivariate_testing)?
 
-There are a number of open source products available as well as paid alternatives. If you are using a third party supplier, ensure that you have access to the raw data behind the measures specified in the contract and make sure data is not thrown away after a short period of time.
-
-##Why we do this
+## Examples
 ![Page conversion funnel](https://assets.digital.cabinet-office.gov.uk/designprinciples/page_hits-41db2fb9ab658ba4ee0d577a3d847e78.png)
 We are using Google Analytics to measure how users interact with GOV.UK pages. We want to know how far down the page they are reading so that we can tweak the content, if necessary.
+
 This involved triggering events that can be picked up by Google Analytics at various points down the page: 25%, 50%, 75% and 100%.
+
 The funnel visualisation shows the proportion of users who move on to the next page and the number who exit the site (ie the drop out rate).
 
-!['Register to vote' conversion funnel](https://assets.digital.cabinet-office.gov.uk/designprinciples/funnel-conversion-5f179f569db3adde3c0cb02e58385cb5.png) We are developing a new service to allow people to join the Electoral Register online. The service is in [alpha](http://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha) at the time of writing but we have already installed Google Analytics and configured it to measure how users flow through the transaction.
+!['Register to vote' conversion funnel](https://assets.digital.cabinet-office.gov.uk/designprinciples/funnel-conversion-5f179f569db3adde3c0cb02e58385cb5.png) 
+
+We are developing a new service to allow people to join the Electoral Register online. The service is in [alpha](http://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha) at the time of writing but we have already installed Google Analytics and configured it to measure how users flow through the transaction.
+
 The funnel visualisations show at each stage the proportion of users proceeding through and the number who exit the process. This enables us to quickly spot where users are experiencing problems and where we might need to test alternative page designs.
 
-##Further reading
+## Further reading
 The [Google Analytics Help Centre](http://support.google.com/analytics/?hl=en) is a useful resource if you use that particular platform, see for example [this guide](http://support.google.com/analytics/bin/answer.py?hl=en&answer=1012040) to setting up goals and funnels.
 
 Blog article by Morgan Brown with a [good discussion on user flows and conversion funnels](http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/).
