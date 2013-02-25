@@ -34,7 +34,7 @@ The Digital Procurement Framework is being designed by the Government Digital Se
 
 GDS will ensure there’s a sufficient supply of companies able to deliver digital capability where government does business. The list of suppliers available on the framework will be refreshed periodically (e.g. every 4 to 5 months) as technology and the market moves.
 
-We want to provide an online portal that enables departments to buy Digital / Agile services from the suppliers on the Digital Procurement Framework, and are currently looking at utilising the platform that GDS is building for the G-Cloud team, ideally leading to a single point of entry for buyers and suppliers alike.
+We want to provide an online portal that enables departments to buy digital/agile services from the suppliers on the Digital Procurement Framework, and are currently looking at utilising the platform that GDS is building for the G-Cloud team, ideally leading to a single point of entry for buyers and suppliers alike.
 
 This portal would support the 'source to settle' process, including:
 
