@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Open standards and licensing
 subtitle: Building services using common standards
 section: guidance

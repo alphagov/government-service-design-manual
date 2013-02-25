@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Assisted digital
 subtitle: Getting digital services to hard to reach audiences
 section: guidance

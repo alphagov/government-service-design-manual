@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Designing for GOV.UK
 subtitle: General guidance for those developing for GOV.UK
 section: guidance

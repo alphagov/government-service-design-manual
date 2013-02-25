@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: APIs
 subtitle: Using and creating Application Programming Interfaces
 section: guidance

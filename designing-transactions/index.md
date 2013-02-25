@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Designing transactions
 subtitle: Starting and ending transactions, showing progress etc.
 section: guidance

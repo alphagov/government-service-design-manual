@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Releasing software
 subtitle: How regular releases can reduce risk
 section: guidance

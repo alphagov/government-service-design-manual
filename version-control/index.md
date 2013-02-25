@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Version control
 subtitle: Ensure the team can collaborate on code
 section: guidance

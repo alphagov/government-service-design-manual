@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Hosting
 subtitle: Where your service will live
 section: guidance

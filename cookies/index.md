@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Cookies
 subtitle: When to use them, and when to tell users about them
 section: guidance

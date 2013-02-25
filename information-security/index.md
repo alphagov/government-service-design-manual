@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Information Security
 subtitle: Ensuring user data stays secure
 section: guidance

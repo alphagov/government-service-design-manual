@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Typography
 subtitle: Creating clear, easy to read type for the web
 section: guidance

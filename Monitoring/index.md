@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Monitoring
 subtitle: Tracking the status of a service
 section: guidance
