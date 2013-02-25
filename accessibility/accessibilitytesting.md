@@ -21,14 +21,14 @@ Accessibility testing is very similar to usability testing, in that it is about 
 
 It’s important to consider a range of disabilities when you are testing any product or service, including those with;
 
-* Cognitive and learning disabilities e.g. dyslexia or attention deficit disorders
-* Visual impairments e.g. total and partial blindness, colour blindness, poor vision 
-* Auditory disabilities which can also affect language 
-* Motor skills impairments e.g. those affected by arthritis, strokes, RSI
+* cognitive and learning disabilities e.g. dyslexia or attention deficit disorders
+* visual impairments e.g. total and partial blindness, colour blindness, poor vision 
+* auditory disabilities which can also affect language 
+* motor skills impairments e.g. those affected by arthritis, strokes, RSI
 
 Section III of the Disability Discrimination Act (DDA), also states that websites should be accessible to blind and disabled users. The Code of Practice for this section of the DDA was published on 27th May 2002. The elements most relevant to website designs are set out in [this blogpost](http://www.webcredible.co.uk/user-friendly-resources/web-accessibility/uk-website-legal-requirements.shtml).
 
-Accessibilty audits are an alternative to standard accessibility testing. An accessibility audit involves an accessibility expert reviewing the site or service, highlighting all accessibility issues and making recommendations for fixing them. They would typically use assistive software used by disabled web users (e.g. a screen reader) to effectively carry out the audit. See the [W3C accessibility guidelines](http://www.w3.org/TR/WCAG/) for further information.
+Accessibility audits are an alternative to standard accessibility testing. An accessibility audit involves an accessibility expert reviewing the site or service, highlighting all accessibility issues and making recommendations for fixing them. They would typically use assistive software used by disabled web users (e.g. a screen reader) to effectively carry out the audit. See the [W3C accessibility guidelines](http://www.w3.org/TR/WCAG/) for further information.
 
 Accessibility audits are cheaper and quicker than accessibility testing but rely primarily on the expertise of the person conducting them.
 
