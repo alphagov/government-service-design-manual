@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Measuring cost per transaction
 section: guidance
 subsection: KPIs

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: User satisfaction
 section: guidance
 subsection: KPIs

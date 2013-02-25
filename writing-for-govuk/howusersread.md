@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: How users read
 subtitle: Reading age, reading online, plain English, learning disabilities
 section: guidance

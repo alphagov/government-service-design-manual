@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Shared asset libraries
 subtitle: How gov.uk uses shared asset libraries, and where we provide our code
 section: guidance

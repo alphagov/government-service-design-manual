@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Writing user stories
 subtitle: How to write a useful user story
 section: guidance

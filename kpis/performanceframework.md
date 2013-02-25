@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Performance Framework
 section: guidance
 subsection: Planning to monitor performance

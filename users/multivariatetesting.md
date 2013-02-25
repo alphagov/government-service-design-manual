@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: A/B and multivariate experiments
 subtitle: Getting input into products and services
 section: guidance

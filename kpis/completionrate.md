@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Completion rate
 section: guidance
 subsection: KPIs

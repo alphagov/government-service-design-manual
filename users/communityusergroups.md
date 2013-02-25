@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Community user groups
 subtitle: Getting input into products and services
 section: guidance

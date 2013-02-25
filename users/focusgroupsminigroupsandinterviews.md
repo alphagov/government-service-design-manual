@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Focus groups, mini groups, and 1:1 interviews
 subtitle: Getting input into products and services
 section: guidance

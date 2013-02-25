@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Guerilla testing
 subtitle: Getting input into products and services
 section: guidance

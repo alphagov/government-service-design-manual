@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Configuration management
 subtitle: Manage a team's approach to configuration
 section: guidance

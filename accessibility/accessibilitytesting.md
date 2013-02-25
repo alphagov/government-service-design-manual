@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Accessibility testing
 subtitle: Testing to see if your service is inclusive
 section: guidance

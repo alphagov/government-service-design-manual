@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Developers
 subtitle: What developers do and what to look for
 section: guidance

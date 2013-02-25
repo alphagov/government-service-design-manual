@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Writing government services
 subtitle: Tone of voice, writing style, use of headings and more
 section: guidance

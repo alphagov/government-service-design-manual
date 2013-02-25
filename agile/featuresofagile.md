@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Features of agile
 subtitle: Sprints, stand-ups and other regular meetings
 section: guidance

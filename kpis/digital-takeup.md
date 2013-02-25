@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Channel shift
 subtitle: How to draw up a channel shift strategy for your service
 section: guidance

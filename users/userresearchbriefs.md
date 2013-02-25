@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: User research briefs
 subtitle: Documents that explain research requirements
 section: guidance

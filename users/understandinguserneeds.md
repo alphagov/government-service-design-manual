@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Understanding user needs
 subtitle: How to focus a service on users
 section: guidance

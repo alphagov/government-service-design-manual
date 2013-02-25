@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Heuristic evaluations/expert reviews
 subtitle: Getting input into products and services
 section: guidance

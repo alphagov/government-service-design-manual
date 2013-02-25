@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Online research panels
 subtitle: Getting input into products and services
 section: guidance

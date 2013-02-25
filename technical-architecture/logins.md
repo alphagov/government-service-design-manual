@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: User accounts and log-ins
 subtitle: How to do them and how to avoid them
 section: guidance

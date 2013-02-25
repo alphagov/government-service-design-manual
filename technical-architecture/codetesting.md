@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Testing code
 subtitle: How to ensure your code does what it's supposed to
 section: guidance

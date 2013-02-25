@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: User research surveys
 subtitle: Getting input into products and services
 section: guidance

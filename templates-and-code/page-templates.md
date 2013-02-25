@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Page templates
 subtitle: How to use the elements that make up the GOV.UK page templates
 audience:

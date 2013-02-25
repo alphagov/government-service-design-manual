@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: What a team looks like
 subtitle: What a team building digital services might look like
 section: guidance

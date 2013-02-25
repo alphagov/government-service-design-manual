@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Lab based user testing
 subtitle: Getting input into products and services
 section: guidance

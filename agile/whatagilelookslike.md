@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: What agile looks like
 subtitle: Common features of agile projects
 section: guidance

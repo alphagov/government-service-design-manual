@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Accessibility skills
 subtitle: What your team needs to build for inclusion
 section: guidance

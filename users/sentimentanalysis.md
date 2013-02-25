@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Sentiment analysis
 subtitle: Understanding user's feelings about a service
 section: guidance

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Same day user testing (online qualitative)
 subtitle: Getting input into products and services
 section: guidance

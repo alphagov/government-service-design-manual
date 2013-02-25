@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Delivery manager
 subtitle: Enabling teams to deliver high-quality services
 section: guidance
