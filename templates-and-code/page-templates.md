@@ -104,7 +104,7 @@ discuss the best way of ensuring that this happens.
 
 [The GOV.UK Beta warning](https://github.com/alphagov/static/blob/master/app/ass
 [ets/javascripts/welcome.js) served users an interstitial when first arriving on
-[GOV.UK during its public beta.
+[GOV.UK](www.gov.uk) during its public beta.
 
 If you are running a public beta of a service then it is highly recommended that
 you do the same thing. Users of government services might not always be used to
