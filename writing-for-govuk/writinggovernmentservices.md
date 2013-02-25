@@ -17,8 +17,8 @@ You may want to read: [how users read](howusersread.html) this will tell you mor
 
 ##Guidance
 
-All services should follow the [GOV.UK style guide](/guides/copy-and-content/styleguide.html)
-The way we talk to users is the same on all GOV.UK products. The only difference is the format.
+All services should follow the [GOV.UK style guide](writing-for-govuk/styleguide.html).
+The way we talk to users is the same on all [GOV.UK](www.gov.uk) products. The only difference is the format.
 
 ###Introductions
 Services should be intuitive and government services should provide an exeptional user experience. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.
@@ -54,7 +54,7 @@ The only way you will know if your service works, is to test it with users. Then
 
 
 ##Why we do this
-GOV.UK is to open up government information and services to anyone who is interested or needs to interact with government.
+[GOV.UK](www.gov.uk) is to open up government information and services to anyone who is interested or needs to interact with government.
 
 ###Inclusive
 As government we need to be inclusive - we can do this through our design and language. By making the design open and easy to read, the code clean and accessible and the words easy to understand, we are opening up government to all.
@@ -73,23 +73,17 @@ The terms and conditions of your service must be understandable to the majority 
 
 [GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide). 
 
-These form a template for other services to use, and cover many of the conditions that operational services published as part of GOV.UK will require.
+These form a template for other services to use, and cover many of the conditions that operational services published as part of [GOV.UK](www.gov.uk) will require.
 
 If your service needs additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means. 
 
-Adding that term or condition should be done in consultation with GOV.UK's team.
+Adding that term or condition should be done in consultation with GDS.
 
 ##Why we do this
-Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. GOV.UK continued this, with additional pieces of information added as transactions and services were incorporated into the site.
+Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. [GOV.UK](www.gov.uk) continued this, with additional pieces of information added as transactions and services were incorporated into the site.
 
 
 
 ##Further reading
-[How users read](/guides/copy-and-content/readingages.html)
-
-[Style guide](/guides/copy-and-content/styleguide.html)
-
-[Microcopy](/guides/copy-and-content/transactionalmicrocopy.html)
-
-
-
+[How users read](howusersread.html) 
+[Style guide](writing-for-govuk/styleguide.html)
