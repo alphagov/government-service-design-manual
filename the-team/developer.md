@@ -26,6 +26,7 @@ Once a service is live the need for developers continues. There will always be t
 ## Skills and attributes:
 
 A great developer:
+
 * Builds software with a relentless focus on how it will be used
 * Seeks collaboration and early feedback
 * Designs software they expect to operate and maintain
@@ -36,6 +37,7 @@ A great developer:
 * Uses data to make decisions, building tools to gather that data
 
 You would expect any developer to:
+
 * Have deep skills in at least one programming language
 * Be aware of the differences between a few languages and frameworks, and be pragmatic at picking the right one
 * Understand the core concepts of the internet and web - they should be able to give a good answer to the question "what happens when I click a link in a web browser"

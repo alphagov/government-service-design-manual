@@ -33,7 +33,7 @@ We work hard to make our sites and services as accessible and usable as we can f
 
 ## Assistive technologies
 
-Your service should be usable by recent versions of Jaws, NVDA, VoiceOver, Window Eyes and Supernova screen readers, ZoomText, Magic, Supernova and basic operating system screen magnifiers, as well as speech recognition software including Dragon Naturally Speaking, and native operating system speech packages.
+Your service should be usable by recent versions of [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/), [VoiceOver](http://www.apple.com/accessibility/voiceover/), [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) screen readers, [ZoomText](http://www.aisquared.com/zoomtext/), [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) and basic operating system screen magnifiers, as well as speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
 
 
 ##Further reading
