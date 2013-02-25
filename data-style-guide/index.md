@@ -54,7 +54,7 @@ Choosing the right visualisation will help the data tell its own story and give 
 Each chart has its own strength. Below are the core 5 with templates, a google spreadsheet of these is available [here](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html) 
 
 ###Column chart
-![Column Chart - Image 1] (https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)  
+![Column Chart - Image 1](https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)  
 Strengths - comparing **items**, or a small number of time periods.    
 
 * Negative values below the x-axis.  
@@ -62,14 +62,14 @@ Strengths - comparing **items**, or a small number of time periods.
 * Limit stacked columns to 3 segments.
 
 ###Bar chart
-![Bar Chart - Image 2] (https://docs.google.com/drawings/pub?id=1m5nrx667px-PbiHMHxYJO9M4qq1oLrvJqVhyMf-rBmY&w=358&h=223)  
+![Bar Chart - Image 2](https://docs.google.com/drawings/pub?id=1m5nrx667px-PbiHMHxYJO9M4qq1oLrvJqVhyMf-rBmY&w=358&h=223)  
 Strengths - comparing **items**, especially if they have long names or many items. 
 
 * Arrange bars in size order, from biggest to smallest (unless good reason i.e.data needs to be represented alphabetically).  
 * Negative values to the left of the y axis.
 
 ###Line chart
-![Line Chart - Image 3] (https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)  
+![Line Chart - Image 3](https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)  
 Strengths - comparing over time or between **variables** for a **single item** (e.g. site traffic vs. site performance)  
 
 * Limit number of data sets to four.  
@@ -77,14 +77,14 @@ Strengths - comparing over time or between **variables** for a **single item** (
 * Use line points to differentiate between data types (use line dots for projections and estimates only). 
 
 ###Pie chart
-![Pie Chart - Image 4] (https://docs.google.com/drawings/pub?id=1t5ECozT_ClsmPFNID9j6mYKkUVeM9t0bW_vAah5T_5A&w=337&h=237)  
+![Pie Chart - Image 4](https://docs.google.com/drawings/pub?id=1t5ECozT_ClsmPFNID9j6mYKkUVeM9t0bW_vAah5T_5A&w=337&h=237)  
 Strengths - simple share of **total**. Use with caution, column or bar charts are often better. Limit to two segments to avoid confusion.  
 
 * The largest segment should be at 12 o’clock going clockwise.  
 * Label the chart directly and avoid text inside segments. 
 
 ###Scatter chart
-![Scatter Chart - Image 5] (https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)  
+![Scatter Chart - Image 5](https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)  
 Strengths - relationships between **variables** where there are **many items** (e.g. volume vs cost for numerous transactions)  
 
 * Limit items to two to avoid confusion.  
@@ -167,10 +167,8 @@ The stacked column gave a level of detail which was not needed. This has been ra
 
 
 ##4. Be open and honest 
-<blockquote>
-<p>“We want transparency to become an absolutely core part of every bit of government business.”  
-- Francis Maude</p>
-</blockquote>
+>“We want transparency to become an absolutely core part of every bit of government business.”  
+>- Francis Maude
 
 Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf) white paper agenda. Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing. 
 

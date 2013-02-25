@@ -12,7 +12,7 @@ status: draft
 ---
 
 
-Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
+Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
 
 <img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a Digital by Default service" />
 
@@ -44,16 +44,17 @@ Stakeholder interviews
 <img class="output" src="/assets/images/pictograms/discovery-small.png" />
 Team size
 
-### Roles required
-Service manager
-Product manager
-Technical architect
-Business analyst
-Delivery manager
-User researcher
+### Skills and experience required
 
-### Guidance
-[Read guidance to help you navigate the Discovery phase](/guides/phases/discovery.html)
+* Service manager
+* Product manager
+* Technical architect
+* Business analyst
+* Delivery manager
+* User researcher
+
+<!--(### Guidance
+[Read guidance to help you navigate the Discovery phase](/guides/phases/discovery.html))--> 
 
 
 ## Phase 2: Alpha
@@ -83,17 +84,18 @@ Retrospective
 <img class="output" src="/assets/images/pictograms/alpha-medium.png" />
 Team size
 
-### Roles required
-Service manager
-Product manager
-Technical architect
-Business analyst
-Delivery manager
-User researcher
-Software developer
+### Skills and experience required
 
-### Guidance
-[Read guidance to help you navigate the Alpha phase](/guides/phases/alpha.html)
+* Service manager
+* Product manager
+* Technical architect
+* Business analyst
+* Delivery manager
+* User researcher
+* Software developer
+
+<!--(### Guidance
+[Read guidance to help you navigate the Alpha phase](/guides/phases/alpha.html))--> 
 
 
 ## Phase 3: Beta
@@ -124,17 +126,18 @@ Retrospective
 <img class="output" src="/assets/images/pictograms/beta-large.png" />
 Team size
 
-### Roles required
-Service manager
-Product manager
-Technical architect
-Business analyst
-Delivery manager
-User researcher
-Software developer
+### Skills and experience required
 
-### Guidance
-[Read guidance to help you navigate the Public beta phase](/guides/phases/beta.html)
+* Service manager
+* Product manager
+* Technical architect
+* Business analyst
+* Delivery manager
+* User researcher
+* Software developer
+
+<!--(### Guidance
+[Read guidance to help you navigate the Public beta phase](/guides/phases/beta.html))--> 
 
 ## Phase 4: Live
 
@@ -155,11 +158,13 @@ User feedback
 <img class="output" src="/assets/images/pictograms/live-larger.png" />
 Team size
 
-### Roles required
-Service manager
-Technical architect
-Software developer
+### Skills and experience required
 
-### Guidance
+* Service manager
+* Technical architect
+* Software developer
+
+<!--(### Guidance
 [Read guidance to help you switch a live service on](/guides/phases/live.html)
-[Read guidance to help you navigate the Iteration, improvement and operation of live service](/guides/phases/operational.html)
+
+[Read guidance to help you navigate the Iteration, improvement and operation of live service](/guides/phases/operational.html))--> 

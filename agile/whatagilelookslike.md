@@ -44,7 +44,7 @@ The software and the team continue to learn through delivery and iterate and imp
 
 ## Small, agile teams
 
-![The unit of delivery is the team] (http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
+![The unit of delivery is the team](http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
 
 Small teams of between five to ten people are often more productive and predictable than larger teams. Forget man-days and think about the team as the unit of delivery.  
 
@@ -93,9 +93,10 @@ These plans are usually reviewed after every sprint and adjusted based on “the
 ##Bad smells
 
 ![Do go here!](http://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
+
 Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  They have a bad smell about them and undermine your project and its chances of success.
 
->* *Your team is not full time*.  If your core team of prodcut manager, scrum master, and key members of your multi-disciplinary team are not on the project full-time and spread over many projects then expect diffuculties.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
+>* *Your team is not full time*. If your core team of prodcut manager, scrum master, and key members of your multi-disciplinary team are not on the project full-time and spread over many projects then expect difficulties.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
 
 >* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project gets going, consciously 'hack the environment' to create a working environment conducive to team working.  You might upset a few people and challenge some long-standing working practices. But this is so, so important, and really should not be a big ask.
 
