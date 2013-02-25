@@ -2,7 +2,6 @@
 layout: wide
 title: The Digital by Default Standard
 subtitle: Services so good that people prefer to use them
-type: guide
 audience:
   primary: service-manager
   secondary: designer, developer, tech-arch, analyst, researcher
