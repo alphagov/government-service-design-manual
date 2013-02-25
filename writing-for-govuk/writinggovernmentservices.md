@@ -13,7 +13,7 @@ status: draft
 
 This section gives details on naming your service, tone, style, questions and why we write in this way.
 
-You may want to read: [how users read](/guides/copy-and-content/readingages.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
+You may want to read: [how users read](howusersread.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
 
