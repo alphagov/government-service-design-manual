@@ -23,7 +23,7 @@ First, talk to your team and see if they can identify the skills lacking. If you
 
 Trust domain experts to define what you need to be looking for. Developers and designers will be best placed to tell you what front end skills you need, for example. GDS can help provide guidance and job specifications if you need to further define the role.
 
-If you know particular individuals are the best fit fot a particular skill then there's nothing wrong with hiring them. Equally there’s nothing wrong with using a recruitment specialist to get the candidate you need. Remember that the service will be judged on what it delivers, so you must have confidence that the specialists you recuit are the right people to deliver that work.
+If you know particular individuals are the best fit for a particular skill then there's nothing wrong with hiring them. Equally there’s nothing wrong with using a recruitment specialist to get the candidate you need, so long as you're able to clearly explain what you need and take internal ownership of the final selection. Remember that the service will be judged on what it delivers, so you must have confidence that the specialists you recuit are the right people to deliver that work.
 
 
 ## Proposed Digital Procurement Framework
@@ -45,10 +45,11 @@ GDS will sit between departments and suppliers. They will ensure that there is a
 The digital procurement framework is expected to cover the following areas:
 * software engineering - development & support
 * digital product development
-* digital / agile transformation
+* digital transformation
+* agile transformation
 * proposition modelling
-* content / interaction design / user experience
-* testing / quality assurance
+* content design, interaction design, user experience
+* testing, quality assurance
 * continuous integration, Web ops, Accreditation
 
 The framework will also feature:
