@@ -9,8 +9,6 @@ audience:
 status: draft
 theme: getting-started
 ---
-    
-# Information Security - Assurance and Accreditation
 
 It goes without saying that security of Government services is incredibly
 important. The Government Information Security community and processes
@@ -28,7 +26,7 @@ usage and it's very hard to engage with the existing documentation and
 processes without speaking the lingo. All the acronymns should be explained
 before being used.
 
-## Guidance/Tool
+## Assurance and Accreditation
 
 ### Roles
 
@@ -81,13 +79,13 @@ appropriate role as a constraint in the design process.
 
 ### Good Practice Guides (GPG)
 
-The Good Pratice Guides (GPG) are documents published by CESG on specific
+The Good Practice Guides (GPG) are documents published by CESG on specific
 topics of interest to various types of projects. These can act as a good
 starting point when looking to identify risks and put in place mitigations.
 For example
 
 Unfortunately many of these documents are Restricted. It is advisable to
-establish a working relationship with CESG early on in the project party
+establish a working relationship with CESG early on in the project
 to make sure you can access these documents. Examples include:
 
 * GPG13 - Protective monitoring
