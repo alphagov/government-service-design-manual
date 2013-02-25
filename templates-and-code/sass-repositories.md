@@ -9,7 +9,7 @@ type: resource
 status: draft
 ---
     
-Sass lets us share blocks of code and techniques. GOV.UK has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.
+Sass lets us share blocks of code and techniques. [GOV.UK](www.gov.uk) has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.
 
 * TOC
 {:toc}
@@ -22,7 +22,7 @@ Within the `govuk_frontend_toolkit` gem we have a collection of Sass which is de
 >2. Mixins for responsive designs
 >3. Mixins for cross browser CSS
 
-The first is the key bit which makes GOV.UK projects look the same. There are a collection of pre-defined font-sizes that we use on GOV.UK. There is a mixin for each one, for example `heading-26`. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.
+The first is the key bit which makes [GOV.UK](www.gov.uk) projects look the same. There are a collection of pre-defined font-sizes that we use on [GOV.UK](www.gov.uk). There is a mixin for each one, for example `heading-26`. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.
 
 The second is a way to develop responsive sites while not giving older browsers a bad experience. That is to still deliver a desktop stylesheet to older versions of IE which don't understand media queries, and serve the correct media queries to modern devices. As a side effect of this approach we also have a very easy way of writing IE specific CSS in the middle of our stylesheets without using hacks.
 
@@ -69,7 +69,7 @@ It is generally advised to write your markup with a mobile and up attitude. That
     
 ## Cross Browser
 
-There are two types of cross browser technique. There are ones which are just for encapsulating vendor prefixes. Then there are the ones for using different method to achieve a consistent effect. An example of these are:
+There are two types of cross browser technique. There are some which are just for encapsulating vendor prefixes. Then there are some for using different methods to achieve a consistent effect. An example of these are:
 
     .related-box {
       float: left;
