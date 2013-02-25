@@ -43,6 +43,7 @@ GDS will sit between departments and suppliers. They will ensure that there is a
 ### What can I buy?
 
 The digital procurement framework is expected to cover the following areas:
+
 * software engineering - development & support
 * digital product development
 * digital transformation
@@ -53,6 +54,7 @@ The digital procurement framework is expected to cover the following areas:
 * continuous integration, Web ops, Accreditation
 
 The framework will also feature:
+
 * procurement support for departments
 * the provision of pre-engagement activities such as hack days, prototypes
 * a portal for departments to enter and track their procurements
@@ -80,6 +82,7 @@ At GDS, we do not call people “resources”, whether permanent or contract. Yo
 ### Guidance for a smooth induction
 
 Some guiding principles for service managers or delivery managers:
+
 * make sure you have enough budget 
 * speak to your HR team and confirm you have the flexibility to negotiate salary etc, particularly for technical roles
 * shield your people from the form-filling culture that HR sometimes brings

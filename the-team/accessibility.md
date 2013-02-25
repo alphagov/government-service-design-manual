@@ -20,6 +20,7 @@ Accessibility is everyone’s responsibility. Provide training and resources to 
 Include at least one person with strong accessibility knowledge in your team. Give them overall responsibility for educating and supporting your team’s accessibility goals.
 
 The key skills required by an accessibility-focussed developer are:
+
 * strong analytical skills
 * a methodical approach to testing
 * empathy for users with different, often contradictory needs

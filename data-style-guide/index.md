@@ -23,7 +23,8 @@ There are many examples of best practice style guides already in place. For exam
 The [GDS Performance Platform](www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](www.gov.uk) visualisations are designed to stand out from the crowd.   
 ![Graph Image](http://alphagov.files.wordpress.com/2012/10/rounded_corner_style.jpeg?w=300)
 
-###Contents
+### Contents
+
 * Tell the story
 * Choose your visualisation
 * Create your visualisation
@@ -195,9 +196,7 @@ d) Have you been open and transparent with data?
 * The data fluctuations can be seen in the context of the wider data series. 
 
 
-*******************
-
-###Further Reading/Viewing
+## Further Reading/Viewing
 
 For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/). 
 
