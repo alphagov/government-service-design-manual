@@ -12,7 +12,7 @@ theme: agile
 status: draft
 ---
 
-User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
+User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks that each deliver concrete value, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
 
 ## Story cards
 

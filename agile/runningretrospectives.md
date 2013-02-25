@@ -38,20 +38,22 @@ A retrospective should be a chance for everyone in the team to contribute to imp
 All retrospectives must be facilitated. The facilitator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. 
 
 The facilitator needs to:
->*plan the retrospective
->*ensure that everyone gets a chance to contribute
->*keep the retrospective on track
->*make sure actions are created and assigned
->*manage time so that it does not run over
+
+* plan the retrospective
+* ensure that everyone gets a chance to contribute
+* keep the retrospective on track
+* make sure actions are created and assigned
+* manage time so that it does not run over
 
 ## Working agreements
 
 It is helpful to have some working agreements. These can be stated if necessary, for example in the first retrospectives a team has held. 
 
 Working agreements might include:
->*Everyone contributes
->*Do not speak over each other (except for the facilitator)
->*No laptops - focus should be on the meeting
+
+*Everyone contributes
+*Do not speak over each other (except for the facilitator)
+*No laptops - focus should be on the meeting
 
 ## Outcomes of a retrospective
 
@@ -61,10 +63,11 @@ Working agreements might include:
 The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
 
 Actions should:
->*be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
->*have a date by which they should be completed
->*be assigned to a specific person (and not to 'the team')
->*should not be assigned to someone who is not present
+
+*be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
+*have a date by which they should be completed
+*be assigned to a specific person (and not to 'the team')
+*should not be assigned to someone who is not present
 
 Subsequent retrospectives should follow up on actions to make sure they have been done. If they are consistently not getting done, there may be too many.
 
