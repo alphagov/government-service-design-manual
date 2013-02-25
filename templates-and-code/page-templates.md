@@ -10,7 +10,7 @@ section: guidance
 status: draft
 ---
 
-All pages on GOV.UK should feel like they're part of the same service. The best way 
+All new government services should have a consistent appearance. The best way 
 to do this is to use the same [template code and assets](shared-assets-libraries).
 This guide describes each element in the page template and explains how it should
 be used.

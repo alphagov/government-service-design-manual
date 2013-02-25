@@ -11,10 +11,7 @@ status: draft
     
 Sass lets us share blocks of code and techniques. [GOV.UK](www.gov.uk) has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.
 
-* TOC
-{:toc}
-
-#Categories of Sass mixins
+## Categories of Sass mixins
 
 Within the `govuk_frontend_toolkit` gem we have a collection of Sass which is designed to enable you to easily add GOV.UK styles. They can be categorised into three different things:
 
@@ -79,6 +76,6 @@ There are two types of cross browser technique. There are some which are just fo
     
 The `border-radius` line here is designed to use the different border-radius implementations to create a standard border-radius. The `contain-floats` however, uses a cross-browser techinque to ensure that the element wraps all of the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don't want to use different techniques everywhere.
 
-#Further reading
+## Further reading
 
 For more information check out the Readme on the [`govuk_frontend_toolkit` gem](https://github.com/alphagov/govuk_frontend_toolkit)

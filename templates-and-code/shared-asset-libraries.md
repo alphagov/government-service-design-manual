@@ -11,9 +11,7 @@ status: draft
 ---
 
 Shared asset libraries are helpful for using the same frontend and
-branding on multiple services. This guide will show you how to go
-about getting the code used on [GOV.UK](www.gov.uk) into your
-services.
+branding on multiple services.
 
 ## Why we do this
 
