@@ -10,7 +10,7 @@ section: dbd
 status: draft
 ---
 
-To achieve the Digital by Default Service Standard, the service team must demonstrate that they have:
+The Digital by Default standard is currently being circulated among Digital Leaders across government. In the current draft, a team must demonstrate that they have done the following to achieve the Digital by Default standard:
 
 * conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design 
 * created a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager
