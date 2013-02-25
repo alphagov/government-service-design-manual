@@ -32,13 +32,13 @@
   @include regular-grid(3, 165px);
   margin: 2em 0 0 0;
   div{
-    background: $secondary-colour;
+    background: $panel-colour;
   }
   h3{
+    @include bold-19;
     background: $main-colour;
     padding: 0.5em 1em;
     color: white;
-    font-weight: normal;
     margin: 0;
   }
   p{
