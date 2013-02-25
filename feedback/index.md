@@ -15,8 +15,10 @@ We'll use your feedback to help improve this tool.
 
 ### Guiding Questions
 
-* Is 'the Standard' page enough to tell you about Digital by Default?
-* Can you find useful material to answer your questions on this site?
-* Is the guidance in the Manual easy to navigate?
-* Would you like to see the guidance structured in any other way?
-* Is there any other guidance or tools you would want to see on this web site?
+Please offer feedback as appropriate. In particular, we would like to know if;
+
+* the [Digital by Default](digital-by-default/)' page tells you enough  about the Digital by Default service standard?
+* you can find useful material to answer your questions on this site?
+* the guidance easy to navigate?
+* you would like to see the guidance structured in any other way?
+* there any other guidance or tools you would want to see on this web site?
