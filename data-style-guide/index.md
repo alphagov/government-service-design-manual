@@ -65,7 +65,7 @@ Strengths - comparing **items**, or a small number of time periods.
 Strengths - comparing **items**, especially if they have long names or many items. 
 
 * Arrange bars in size order, from biggest to smallest (unless good reason i.e.data needs to be represented alphabetically).  
-* Negative values to the left of the y axis.|
+* Negative values to the left of the y axis.
 
 ###Line chart
 ![Line Chart - Image 3] (https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)  
@@ -87,7 +87,7 @@ Strengths - simple share of **total**. Use with caution, column or bar charts ar
 Strengths - relationships between **variables** where there are **many items** (e.g. volume vs cost for numerous transactions)  
 
 * Limit items to two to avoid confusion.  
-* Include trend line if required. This should be a single solid line.|
+* Include trend line if required. This should be a single solid line.
 
 There is more help on choosing the right chart [here](http://www.verstaresearch.com/types-of-charts.jpg). It is important to not confuse your audience. 
 
