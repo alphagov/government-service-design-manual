@@ -11,40 +11,22 @@ theme: understanding-your-audience
 status: draft
 ---
 
-
 ## User needs
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a Digital by Default service.
 
 [Read more >](understandinguserneeds.html)
 
 
 ## An introduction to user research
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You will be using research to test your assumptions throughout the design, build and operation of a service. This introduction sets out a few of the basics of user research.
 
 [Learn more about user research](introductiontouserresearch.html)
 
-## User research briefs
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
-
-[Learn how to write user research briefs](userresearchbriefs.html)
-
 ## User research techniques
+
+The following technique may be useful when conducting user research
 
 <ul>
   <li><a href="cardsorting.html">Card sorting</a></li>
@@ -68,6 +50,8 @@ consequat.
   <li><a href="sentimentanalysis.html">Sentiment analysis</a></li>                                  
 </ul>
 
-## See also
+## User research briefs
 
-* User researcher job description?
+As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results ina  useful format.
+
+[Learn how to write user research briefs](userresearchbriefs.html)
