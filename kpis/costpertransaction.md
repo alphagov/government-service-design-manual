@@ -24,11 +24,11 @@ The total cost includes all fixed and variable costs of the transaction through 
 
 ## Cost per digital transaction
 
-The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally. 
+The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](assisted-digital/index.html) users.
 
 Where processes and costs are common to more than one channel (e.g. processing wet signatures for passports, or printing driving licences), they should be apportioned. For example, if half of all transactions are completed digitally, then 50% of the common costs should be apportioned to the digital channel.
 
-## What costs should be included
+### What costs should be included
 
 The full cost of the transaction should include:
 
@@ -69,7 +69,7 @@ current digital cost per transaction (B)
 current digital take-up (X)
 digital take-up goal (Y)
 
->CPT=B-A1-X*(Y-X)+A
+> CPT=A+((B-A)/(1-X))*(Y-X)
 
 e.g. if the current average CPT is £2 and digital CPT is 50p, and if current digital take-up is 40% and the target is 80%, the target for average CPT would be £1.
 
@@ -85,11 +85,7 @@ Cost per transaction should be measured for the existing service - if there is o
 
 ## Reporting Cost Per Transaction
 
-
-|Inception | Alpha | Beta | Live |
-|Benchmark cost per transaction for the existing service| | | Report cost per transaction to GDS |
-
-## Worked example - DVLA
+### Worked example - DVLA
 
 This worked example sets out the DVLA methodology used to calculate unit costs, and shows how this has generated a historic and future profile for vehicle licensing transactions and unit costs. The timeline runs from the inception of the electronic licensing channel as this provides a useful example of a multi-channel service. DVLA 
 

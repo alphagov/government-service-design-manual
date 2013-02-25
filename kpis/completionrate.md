@@ -14,28 +14,26 @@ A transaction is a self-contained process that the service manager has defined i
 
 When users are unable to complete a digital transaction it can lead to avoidable contact through other channels. This in turn leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
 
-Measuring end-to-end completion rates helps identify whether users have problems completing a transaction; subsequent analysis of drop-out rates at each step of a transaction can then pinpoint the specific processes that users are unable to complete.
+Measuring end-to-end completion rates helps identify whether users have problems completing a transaction; subsequent analysis of drop-out rates at each step of a transaction can then pinpoint the specific processes that users fail to complete.
 
 ## How to measure completion rate
 
 The end-to-end completion rate can be calculated as the number of completed transactions divided by the number of started transactions; it is expressed as a percentage. 
+Before the transaction starts
 
-### Before the transaction starts
+Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction has started.  They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce dropouts later in the transaction.
 
-Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction start point.  They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce the dropout rate later in the transaction.
+Typically this information will be given on a single page. In some cases, there may be a set of pages that checks a user’s eligibility based on information they provide.
 
-
-Typically this information will be given on a single introduction page. In some cases, there may be a set of pages that checks a user’s eligibility based on information they provide.
-
-It will not be possible to bypass introduction pages via links or search engine results. Users who try to access the start page directly should be referred back to the introduction page.
+It should not be possible to bypass start pages via links or search engine results. Users who try to access another transaction page directly should be referred back to the start page, unless they are resuming a previously saved transaction.
 
 ### Start and end points
 
 Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates. 
 
-Transactions started will be defined as the number of referrals from the introduction page to the start page. Transactions completed is the number of referrals to the end page.
+Transactions started will be defined as the number proceeding through the process from the start page. Transactions completed is the number of referrals to the end page.
 
-This data will be freely shared with service managers.
+This data will be shared with service managers.
 
 [IMAGE TO BE ADDED]
 
@@ -51,19 +49,17 @@ Some services allow users to save a transaction mid flow and to resume it anothe
 
 Ideally it should be possible to match saved transactions with resumed transactions so that, for the purposes of completion rate, they are treated as one continuous process.
 
-Service managers could consider applying a nominal time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed. Alternatively, saved transactions could be set to expire after a given length of time.
-
-It should not be possible for a user to start a new transaction without having passed through the introduction page.                             
+Service managers could consider applying a nominal time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed. Alternatively, saved transactions could be set to expire after a given length of time.                          
 
 ### Multiple endpoints
 
-Some services have complex flows and there may be multiple endpoints for successful transactions. These will need to be defined by service managers and should point to appropriate end pages on GOV.UK so they count towards the completed transaction total.
+Some services have complex flows and there may be several points at which a transaction can be successfully completed. These will need to be defined by service managers and should point to appropriate end pages on GOV.UK so they count towards the completed transaction total.
 
 ### Offline fulfilment
 
-Some transactional services have parts which are digital and others which are non-digital. For example, when granting a lasting power of attorney users can start and finish the process online, but are required to print, sign and post a copy of the form in the middle of the process. 
+Some transactional services have parts which are digital and others which are non-digital. For example, when granting a lasting power of attorney, users can start and finish the transaction online, but are required to print, sign and post a form in the middle of the process. 
 
-In these situations the second online part of the transaction should be treated as a resumption of the first part. Where this is not possible, the discrete digital parts of the service should be treated as separate tasks, with the measure completion rate measured for each. 
+In these situations the second online part of the transaction should be treated as a resumption of the first part. Where it is not possible to match the two, the discrete digital parts of the service should be treated as separate tasks, with the measure completion rate measured for each. 
 
 Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (e.g from surveys, diary studies, focus groups).
 
@@ -73,8 +69,25 @@ In order to successfully measure your service completion rate we recommend follo
 
 ### Guidance/Tool
 
-| | Inception | Alpha | Beta | Live |
-| Must | Ensure all transaction pages have unique URLs, develop a plan to measure completion rate throughout product development, and assess the available analytics tools | Benchmark task completion rate via usability testing and establish reasons for failed transactions, and procure digital analytics tool | Conduct another round of usability testing to ensure that task completion rates improve | Analyse task completion rate to continually improve the service, and carry out further usability testing to continually identify any usability problems and feed into service design |
+Inception
+
+* Ensure all transaction pages have unique URLs
+* Develop a plan to measure completion rate throughout product development
+* Assess the available analytics tools
+
+Alpha
+* Benchmark task completion rate via usability testing and establish reasons for failed transactions
+* Procure digital analytics tool
+
+Beta
+
+* Conduct another round of usability testing to ensure that task completion rates improve
+
+Live
+
+* Analyse task completion rate to continually improve the service
+* Carry out further usability testing to continually identify any usability problems and feed into service design
+
 
 ### How frequently should I measure task completion rate?
 

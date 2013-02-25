@@ -39,9 +39,25 @@ Although this survey will not be contribute to the overall measure of user satis
 
 In order to successfully measure the user satisfaction of your service we recommend you follow the guidance below:
 
-| | Inception | Alpha | Beta | Live |
-| Must | Benchmark the existing service for future comparison, and develop a plan to measure user satisfaction throughout product development | Benchmark user satisfaction via remote usability testing and/or a satisfaction survey | Measure user satisfaction via remote usability testing and/or satisfaction survey, and identify why people are dissatisfied or not completing transactions and take steps to improve | Measure user satisfaction continually and monitor results on at least a monthly basis, and carry out a more comprehensive user demographics, usage and attitudes survey every six months |
-| May | | | | Do drivers analysis to understand what is driving satisfaction for users |
+Inception
+
+* Benchmark the existing service for future comparison
+* Develop a plan to measure user satisfaction throughout product development
+
+Alpha
+
+* Benchmark user satisfaction via remote usability testing and/or a satisfaction survey
+
+Beta
+
+* Measure user satisfaction via remote usability testing and/or satisfaction survey
+* Identify why people are dissatisfied or not completing transactions and take steps to improve
+
+Live
+
+* Measure user satisfaction continually and monitor results on at least a monthly basis
+* Carry out a more comprehensive user demographics, usage and attitudes survey every six months
+
 
 ## What about post launch?
 

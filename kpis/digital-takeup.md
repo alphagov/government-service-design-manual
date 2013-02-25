@@ -9,7 +9,7 @@ audience:
 status: draft
 ---
 
-Digital take up is the proportion of people completing your transaction online.
+Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](assisted-digital/index.html) users.
 
 A digital transaction is one where the primary interaction between the user and the service has been through a digital user interface. Where it is possible to complete only part of a transaction online,  such transactions should still be classified as digital.
 
