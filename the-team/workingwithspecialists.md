@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working with consultants and specialists
+title: Working with specialists and specialist suppliers
 subtitle: How people outside government can help build your service
 section: guidance
 subsection: Building a team
@@ -13,52 +13,48 @@ status: draft
 assets: local
 ---
     
-Consultants and specialists can help fill the gaps in capability you identify throughout your service's lifespan. However, the benefits of calling on their skills and perspective come with the challenge of procuring and inducting them - and making sure there's a long-term solution for keeping that knowledge in the team.
+Specialists can help fill the gaps in capability you identify throughout your service’s lifespan. However, the benefit of their skills and perspective can come with the challenge of procuring and inducting them.
 
 ## How do you identify the skills you require?
 
-As the service manager or product owner's vision is shaped by the team, you may encounter areas where you lack the specialist expertise to deliver to a  high standard. 
-
-First, talk to your team and see if they can identify the skills lacking. If you find these can't be found within your wider department then it might be time to think about procuring specialists. You can talk to GDS and other service owners in government for their advice on what to do next.
+As the service manager or product owner’s vision is shaped by the team, you may encounter areas where you lack the necessary expertise to deliver to a high standard. First, talk to your team and see if they can identify the skills lacking. If you find these can’t be found within your wider department then it might be time to think about procuring specialists. You can talk to GDS and other service owners at any time for their advice on what to do next.
 
 Trust domain experts to define what you need to be looking for. Developers and designers will be best placed to tell you what front end skills you need, for example. GDS can help provide guidance and job specifications if you need to further define the role.
 
-If you know particular individuals are the best fit for a particular skill then there's nothing wrong with hiring them. Equally there’s nothing wrong with using a recruitment specialist to get the candidate you need, so long as you're able to clearly explain what you need and take internal ownership of the final selection. Remember that the service will be judged on what it delivers, so you must have confidence that the specialists you recuit are the right people to deliver that work.
+If you know particular individuals are the best fit for a particular skill then there’s nothing wrong with hiring them. GDS are happy to provide advice on a prospective candidate too. Equally there’s nothing wrong with using a recruitment specialist to get the candidate you need. Remember that the service will be judged on what it delivers, so you must have confidence that the specialists you recruit are the right people to deliver that work.
+
+GDS can also provide support to departments to assist them during their procurements for Digital / Agile services, whether this is using existing purchasing frameworks / tools (e.g. G-Cloud, Spot-Buy, etc) in advance of the Digital Procurement Framework being available, or following its go-live. This support could include early-stage supplier engagement in the form of hack days, proof of concepts, prototypes, etc, either in advance of, or as a first-stage evaluation for, a formal procurement.
 
 
 ## Proposed Digital Procurement Framework
 
-The Digital Procurement Framework is designed to give departments access to a wide range of suppliers of digital services. What follows is just a seed entry to cover a framework GDS is working on, which will come onstream in Summer 2013.
+The Digital Procurement Framework is being designed by the Government Digital Service and Government Procurement Service and following an OJEU is expected to be available to departments from the middle of 2013. This will enable departments access to a wide range of suppliers of all sizes. These will supply people and teams rather than hardware, software and the like, to build digital services. What follows is a brief description of a framework which will come on stream in Summer 2013.
 
-The proposed Digital Procurement Framework is being designed by GDS and the Government Procurement Service (GPS) and following an OJEU is expected to be available to departments from the middle of 2013. This guide gives an overview of the proposed framework.
+### How will it work?
 
-### The role of GDS
+GDS will ensure there’s a sufficient supply of companies able to deliver digital capability where government does business. The list of suppliers available on the framework will be refreshed periodically (e.g. every 4 to 5 months) as technology and the market moves.
 
-GDS will sit between departments and suppliers. They will ensure that there is a sufficient supply of companies with the right capabilities able to deliver digital capability where government does business. They do not deliver any digital service capability themselves. The list of suppliers available on the framework will be refreshed every 4 to 5 months as technology and the market moves.
+We want to provide an online portal that enables departments to buy Digital / Agile services from the suppliers on the Digital Procurement Framework, and are currently looking at utilising the platform that GDS is building for the G-Cloud team, ideally leading to a single point of entry for buyers and suppliers alike.
 
-### Where does G-Cloud fit in?
+This portal would support the 'source to settle' process, including:
 
-[G-Cloud](http://gcloud.civilservice.gov.uk/)’s focus is on commodity services. This includes those Specialist Cloud Services that support cloud / commodity services and are themselves commodities. Hence, if a customer has a well-defined agile need – say, for a small development project, or the early stages of a project – then G-Cloud and its rapid procurement processes are an option worth exploring.
+* input their requirement
+* receive responses
+* evaluate
+* award
+* order
+* pay
+* buy supplier 'bench' capability at a reduced rate
 
-### What can I buy?
+### Differences between G-CLOUD and the Digital Procurement Framework
 
-The digital procurement framework is expected to cover the following areas:
+In addition to those features described in the following table, The Digital Procurement Framework will also have a more suitable supplier payment structure and Terms & Conditions.
 
-* software engineering - development & support
-* digital product development
-* digital transformation
-* agile transformation
-* proposition modelling
-* content design, interaction design, user experience
-* testing, quality assurance
-* continuous integration, Web ops, Accreditation
+![table showing differences](/assets/images/framework-table.png)
 
-The framework will also feature:
+### Where does G-CLOUD fit in?
 
-* procurement support for departments
-* the provision of pre-engagement activities such as hack days, prototypes
-* a portal for departments to enter and track their procurements
-* quick payments for suppliers
+While the GDS Digital Framework focuses on Agile development, some services to be available on the new framework are currently available in [G-Cloud](http://gcloud.civilservice.gov.uk/). However G-CLOUD’s primary focus is commodity services, such as infrastructure and hosting.  
 
 
 ## Managing consultants and specialists
