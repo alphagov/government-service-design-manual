@@ -17,7 +17,7 @@ assets: local
 
 The delivery manager (the ScrumMaster in Scrum) is all about setting the team up for successful delivery.  Skilled delivery managers remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done. It’s not about micro managing!
 
-Equally important in an agile team and particularly important to the delivery manager is ongoing effort to improve products, services or processes. Their role in this is to facilitate project meetings- including daily stand-ups, sprint planning meetings, and retrospectives. They also track progress and produce artefacts for showing this, like burn down/up charts. They must be able to estimate how much effort is required in producing the features the Product Manager wants.   
+Equally important in an agile team and particularly important to the delivery manager is ongoing effort to improve products, services or processes. Their role in this is to facilitate project meetings- including daily stand-ups, sprint planning meetings, and retrospectives. They also track progress and produce artefacts for showing this, like burn down/up charts. They must be able to enable the team to produce estimates of how much effort is required to produce features that the Product Manager wants.   
 
 ![example burn-up chart](burn-up.png)
 
