@@ -8,8 +8,7 @@ audience:
 type: resource
 status: draft
 ---
-    
-#Typography
+
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
 ##Guidance
@@ -27,15 +26,18 @@ TODO: method for services to include GDS-hosted Transport (+ system for GDS to m
 
 ##Code/Templates
 
-See [Colour palettes](/handbook/180/) for the Sass variables for text colours.
-See [Shared asset libraries](/handbook/131/) and [SCSS Repositories](/handbook/130/) for easy implementation of GOV.UK typography.
+See [Colour palettes](/colour-palettes/index.html) for the Sass variables for text colours.
+See [Shared asset libraries](/templates-and-code/shared-asset-libraries.html) and [Sass Repositories](/templates-and-code/sass-repositories.html) for easy implementation of GOV.UK typography.
 
 ##Why we do this
 See [this blog post about why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
 
 ##Further reading
 
-[Shared asset libraries](/handbook/131/)
-[SCSS Repositories](/handbook/130/)
-[Colour palettes](/handbook/180/)
-[Accessibility requirements](/handbook/4/)
+[Shared asset libraries](/templates-and-code/shared-asset-libraries.html)
+
+[Sass Repositories](/templates-and-code/sass-repositories.html)
+
+[Colour palettes](/colour-palettes/index.html)
+
+[Accessibility requirements](/accessibility/index.html)
