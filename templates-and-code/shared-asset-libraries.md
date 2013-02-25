@@ -12,7 +12,7 @@ status: draft
 
 Shared asset libraries are helpful for using the same frontend and
 branding on multiple services. This guide will show you how to go
-about getting the code used on [gov.uk](https://www.gov.uk) into your
+about getting the code used on [GOV.UK](https://www.gov.uk) into your
 services.
 
 ## Why we do this
@@ -62,7 +62,7 @@ HTML and assets together.
 ### govuk_frontend_toolkit
 
 Please see
-[Sass repositories](/guides/designing-your-service/scssrepo.html) for
+[Sass repositories](sass-repositories.html) for
 more information on this repository.
 
 
