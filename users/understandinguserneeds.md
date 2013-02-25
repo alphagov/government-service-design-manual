@@ -11,7 +11,6 @@ status: draft
 assets: local
 ---
 
-#Understanding user needs
 If you understand your user needs, you will create a digital service that works for your users. Use data to find out what your user needs are, and work out the optimal way of answering those needs with your service.
 
 ##Guidance/Tool
@@ -64,7 +63,7 @@ Expressing a user need mustn’t imply the solution. The user need should be exp
 
 *As a [type of user], I want to [insert the task/desire] so that I [insert the benefit]*
 
-The ‘so that’ is optional.
+The ‘so that’ is optional but is often very helpful to ensure every working on solving the need understands the value that should come from their work.
 
 ##Why we do this
 > 1. Start with needs (user needs not government needs)

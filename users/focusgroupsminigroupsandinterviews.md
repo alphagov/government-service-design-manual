@@ -11,12 +11,11 @@ status: draft
 assets: local
 ---
     
-#Focus groups, mini groups, and 1:1 interviews
-Your section will begin with a short, two-line summary of what you're showing people.
+Focus groups, mini groups, and 1:1 interviews involve unstructured interviews or group discussion. 
 
 ##Guidance
  
-Focus groups, mini groups, and 1:1 interviews involve unstructured interviews or group discussion. A focus group is normally comprised of 6-12 people, although sometimes mini groups are favoured (4-5 people) as they can lead to a greater depth of discussion. 1:1 interviews are conducted by a moderator with a single respondent, sometimes these are conducted over the phone (telephone depths).
+A focus group is normally comprised of 6-12 people, although sometimes mini groups are favoured (4-5 people) as they can lead to a greater depth of discussion. 1:1 interviews are conducted by a moderator with a single respondent, sometimes these are conducted over the phone (telephone depths).
  
 Interviews and discussion groups are both facilitated by a trained moderator using a specially designed topic guide in order to ensure the discussion is focused and keeps on topic. Sessions normally last 1-2 hours and will often involve participants being shown stimulus – e.g. communications materials to inform discussion, and sessions may include interactive techniques e.g. role play scenarios.
  

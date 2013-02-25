@@ -11,15 +11,13 @@ status: draft
 assets: local
 ---
     
-#Heuristic evaluations/expert reviews
-
 This section of guidance looks at Heuristic evaluations and expert reviews, and how they can be used to provide
 
 ##Guidance
 
 Heuristic evaluations and/or expert reviews are discount (low cost) usability methods that don’t involve the participation of real end users.  An ‘expert’ usability evaluator can assess a product (or web site) against a known set of ‘heuristics’, or usability guidelines (best practice).  An alternative approach is to conduct a ‘cognitive walkthrough’ against specific use cases or scenarios.  
 
-For heuristic evaluations, ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager.  A list of widely accepted (although not necessarily validated) heuristics are provided by Jacob Nielsen (www.useit.com) or an alternative set can be found in the International Standard ISO 9241.
+For heuristic evaluations, ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager.  A list of widely accepted (although not necessarily validated) heuristics are provided by Jakob Nielsen (www.useit.com) or an alternative set can be found in the International Standard ISO 9241.
 
 A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).  This method starts with identifying the user goals, then conducting a task analysis to specify the sequence of steps or actions required to achieve each task.  The usability expert, along with designers and developers, then walk through these identified steps to assess the extent to which a user can achieve their goal.
 

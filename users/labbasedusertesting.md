@@ -11,7 +11,6 @@ status: draft
 assets: local
 ---
     
-#Lab based user testing
 This guidance talks about how lab based user testing can be used to provide user research that can feed into product and service design.
 
 ##Guidance
@@ -32,11 +31,13 @@ A lab environment can provide a more formal setting for conducting sessions, wit
 
 Usability testing is best suited to finding the big issues, essentially the problems that affect users trying to perform tasks. However, it is qualitative in nature and is not statistically robust due to the small participant numbers, per round.
 
+The lab environment may also be considered a weakness. It means testing is conducted in a very different space to that a user will commonly be in.
+
 This method is not an appropriate for understanding user behaviour or user needs e.g. what they might want from a product / service. 
 
 ##No./Types of participants
 
-Between 5-8 participants, per round of user testing is sufficient to highlight the majority of usability issues. The key is to test often. Why you only need to test with 5 users (Jakob Nielsen)
+Between 5-8 participants, per round of user testing is sufficient to highlight the majority of usability issues. The key is to test often.
 
 ##Cost
 
@@ -50,7 +51,3 @@ Lab hire per day varies depending on location and facilities. Expect to pay betw
 Dependent on project scope, availability of testing assets and resource.
 Recruitment via an agency will take up to 2 weeks
 Conducting testing sessions can take between 2-3 days depending on how many participants have been scheduled. Analysis and reporting can take up to a week.
-
-##Examples
-
-Lab based testing for GOV.UK and Inside Government (12 people). Specific tasks were earmarked to assess how well 

@@ -12,14 +12,14 @@ status: draft
 assets: local
 ---
 
-The [digital by default standard](digital-by-default.html) sets four Key Performance Indicators (KPIs) to measure the success of your service: [cost per transaction](costpertransaction.html), [customer satisfaction](customersatisfaction.html), [transaction success](transactionsuccess.html) and [digital take-up](digital-takeup.html).
+The [digital by default standard](digital-by-default.html) sets four Key Performance Indicators (KPIs) to measure the success of your service: cost per transaction, customer satisfaction, transaction success and digital take-up.
 
-For each KPI you will work with GDS to set a sensible goal to reach within five years of the service going live. 
+For each KPI you will work with GDS to set a sensible goal and interim milestones on the way towards meeting them. 
 
 Once live, service performance will be monitored and displayed on the [performance platform](https://www.gov.uk/performance).
 
 ## The KPIs
-Understand more about how to measure and implement the KPIs:
+Understand more about how to define, measure and implement the KPIs:
 
 * [cost per transaction](costpertransaction.html)
 * [customer satisfaction](customersatisfaction.html)
