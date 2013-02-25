@@ -18,7 +18,7 @@ For each KPI you will work with GDS to set a sensible goal to reach within five 
 
 Once live, service performance will be monitored and displayed on the [performance platform](https://www.gov.uk/performance).
 
-# The KPIs
+## The KPIs
 Understand more about how to measure and implement the KPIs:
 
 * [cost per transaction](implementingcostpertransactionmeasure.html)
@@ -26,7 +26,7 @@ Understand more about how to measure and implement the KPIs:
 * [transaction success](implementingtransactionsuccessmetric.html)
 * [digital take-up](digital-takeup.html)
 
-# What else should you measure?
+## What else should you measure?
 The Performance framework describes how to define other metrics you should measure and monitor.
 
 [Read more >](performanceframework.html)
