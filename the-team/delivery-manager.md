@@ -33,11 +33,10 @@ Delivery managers need to have:
 
 A delivery manager will also need the following skills: 
 
-* strong organisational skills 
+* strong organisational and communication skills 
 * collaborative approach to working 
 * good at prioritising time-critical work 
 * an understanding of the wider digital landscape 
-* *other e.g. managing tight resource constraints?*
 
 ## Job description templates
 [Delivery Manager](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1fF_PnQeSQg75EvJzH316HoSee3J86ywd2j2EcXPbXuE/edit) (Google drive link. You will need permission to view.)
