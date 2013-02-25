@@ -74,14 +74,7 @@ In order to successfully measure your service completion rate we recommend follo
 ### Guidance/Tool
 
 | | Inception | Alpha | Beta | Live |
-| Must | Ensure all transaction pages have unique URLs
-
-Develop a plan to measure completion rate throughout product development. 
-Assess the available analytics tools | Benchmark task completion rate via usability testing and establish reasons for failed transactions
-
-Procure digital analytics tool | Conduct another round of usability testing to ensure that task completion rates improve | Analyse task completion rate to continually improve the service
-
-Carry out further usability testing to continually identify any usability problems and feed into service design |
+| Must | Ensure all transaction pages have unique URLs, develop a plan to measure completion rate throughout product development, and assess the available analytics tools | Benchmark task completion rate via usability testing and establish reasons for failed transactions, and procure digital analytics tool | Conduct another round of usability testing to ensure that task completion rates improve | Analyse task completion rate to continually improve the service, and carry out further usability testing to continually identify any usability problems and feed into service design |
 
 ### How frequently should I measure task completion rate?
 
