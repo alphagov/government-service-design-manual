@@ -1,4 +1,4 @@
-.detailed-guidance {
+.default {
   header.page-header {
     margin: 1em 2em 3em 2em;
     padding: 0 0 2em 0;
@@ -28,12 +28,13 @@
       .intro {
         @include core-24;
         padding: 10px 0;
+        padding: 1rem 0;
         margin: 0 0 1.5em 0;
       }
+    }
 
-      img {
-        max-width: 100%;
-      }
+    img {
+      max-width: 100%;
     }
   }
 }

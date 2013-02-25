@@ -28,6 +28,8 @@
 @import "helpers/_tooltip.scss";
 
 // Views
+@import "views/default.scss";
+
 @import "views/category-index.scss";
 @import "views/colours.scss";
 @import "views/design-patterns.scss";
@@ -41,10 +43,3 @@
 
 // Layouts
 @import "layouts/gsdm.scss";
-
-// Page subtitle
-.subtitle{
-  margin: 1em 0 1em 0;
-  color: $secondary-text-colour;
-  @include core-24;
-}
