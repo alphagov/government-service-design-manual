@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Version control
-subtitle: Ensure the clean release of new code
+subtitle: Ensure the team can collaborate on code
 section: guidance
 type: guide
 audience:
