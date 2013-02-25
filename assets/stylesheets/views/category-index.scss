@@ -2,7 +2,7 @@
   .page-header {
     width: 25%;
     float: left;
-    margin-top: 70px;
+    margin-top: 2em;
 
     hgroup {
       padding: 0 2em;
@@ -30,6 +30,7 @@
     float: right;
 
     .inner {
+      margin-top: 2em;
       padding: 0 2em;
 
       // 1st para is bigger
@@ -40,7 +41,6 @@
         padding: 1rem 0;
 
         border-top: 5px solid $main-colour;
-        margin-top: 70px;
       }
 
       .intro {

@@ -1,0 +1,32 @@
+.detailed-guidance {
+  header.page-header {
+    margin: 1em 2em 3em 2em;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: 5px solid $main-colour;
+
+    hgroup {
+      padding: 0;
+
+      h1 {
+        @include bold-48;
+        color: $text-colour;
+      }
+
+      h2 {
+
+      }
+    }
+  }
+
+  .article-container {
+
+    .inner {
+      margin-left: 25%;
+    }
+
+    img {
+      max-width: 100%;
+    }
+  }
+}

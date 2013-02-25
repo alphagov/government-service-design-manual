@@ -1,0 +1,16 @@
+// ====================================================
+// DEFAULT PAGE STYLES
+//
+
+html {
+  background-color: #fff;
+}
+
+#wrapper {
+  background-color: transparent;
+}
+
+// Reset right padding of main page
+article .inner{
+  padding-right: 2em; 
+}

@@ -1,0 +1,143 @@
+// ====================================================
+// ROLE PAGES
+//
+
+.role-index {
+  header.page-header {
+    h1 {
+      @include bold-48;
+    }
+  }
+
+  .article-container {
+    margin: 0 2em;
+  }
+
+  // Primary links
+  .primary-links {
+    @include regular-grid(3);
+    margin-bottom: 2em;
+
+    div{
+      box-sizing: border-box;
+      border-top: 3px solid $main-colour;
+      padding: 1em 0 0 0;
+    }
+
+    .link-list {
+      li {
+        a {
+          display: inline;
+          width: auto;
+        }
+      }
+    }
+  }
+
+  // Lists of links
+  .link-list {
+    border-top: 3px solid $main-colour;
+    border-bottom: 0;
+    padding-bottom: 2em;
+
+    h3{
+      margin-top: 1em;
+    }
+
+    ul{
+      margin: 0;
+      padding: 0;
+      
+      li{
+        font-size: 16px;
+        list-style: none;
+        overflow: hidden;
+        margin-top: 0.5em;
+        padding-top: 0.5em;
+        padding-left: 0;
+        border-top: 1px solid $grey-3;
+
+        a{
+          display: inline-block;
+          width: 34%;
+
+          span{
+            display: block;
+            float: left;
+          }
+          .title {
+            width: 34%;
+            text-decoration: underline;
+          }
+          .description{
+            width: 64%;
+            color: $secondary-text-colour;
+          }
+          &:hover .description{
+            text-decoration: underline;
+          }
+        }
+
+        span.subtitle{
+          @include core-16;
+          display: inline-block;
+          color: $secondary-text-colour;
+          text-decoration: none;
+          margin: 0;
+        }
+      }
+    }
+
+    // Run lists over two columns
+    &.wide{
+      width: 65.5%;
+      margin-right: 0;
+      li{
+        display: inline-block;
+        width: 48.3%;
+
+        &:nth-child(odd){
+          margin-right: 1em;
+        }
+      }
+    }
+
+    // Big blocky version for hero promo
+    &.hero{
+      padding: 0;
+      border-top: 0 solid;
+      a{
+        padding: 1em;
+        display: block;
+        background-color: $main-colour;
+        text-decoration: none;
+        h3, p{
+          color: white;
+        }
+        p{
+          @include core-19;
+        }
+        &:hover{
+          background-color: lighten($main-colour, 10%);
+        }
+      }
+      h3{
+        @include bold-48;
+        margin-bottom: 0.5em;
+      }
+    }
+  }
+
+  .more-guides {
+    margin-bottom: 2em;
+  }
+
+  .role-links {
+    margin-bottom: 2em;
+  }
+
+  .all-guides {
+    @include core-19;
+    margin-bottom: 2em;
+  }
+}

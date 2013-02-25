@@ -1,0 +1,23 @@
+// Page status label
+.page-status {
+  position: relative;
+  float: right;
+  margin-right: 0;
+  // padding: 0.2em 1.5em 0em 1.5em;
+  padding: 11px 15px 10px;
+
+  @include bold-14;
+
+  color: $white;
+  background: $green;
+
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+
+  // Custom label colours for each status
+  &.draft{
+    background-color: $fuschia;
+  }
+}
