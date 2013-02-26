@@ -43,4 +43,4 @@ kramdown:
 sass:
   syntax: scss        # scss|sass
   style:  compressed  # nested|expanded|compact|compressed
-  load_paths: ./_includes/stylesheets/, #{Bundler.load.specs.find{|s| s.name == 'govuk_frontend_toolkit' }.full_gem_path + "/app/assets/stylesheets/}
+  load_paths: #{Bundler.load.specs.find{|s| s.name == 'govuk_frontend_toolkit' }.full_gem_path + "/app/assets/stylesheets/"}

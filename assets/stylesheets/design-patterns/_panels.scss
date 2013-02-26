@@ -13,9 +13,6 @@
 //                  Outdented panels bleed into the margin so that their 
 //                  contents are aligned with the surrounding contents
                 
-
-@import "colours";
-
 @mixin panel(
   $colour: $panel-colour,
   $width: "", 

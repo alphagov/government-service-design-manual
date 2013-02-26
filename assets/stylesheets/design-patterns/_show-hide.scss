@@ -14,10 +14,6 @@
 // your page if you want accessible, cross-browser support
 // for this pattern. 
 
-@import "_colours";
-@import '_typography';
-@import 'design-patterns/_panels';
-
 @mixin details-and-summary($background-colour: "") {
   details{
     display: block;

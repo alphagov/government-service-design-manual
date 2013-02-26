@@ -1,8 +1,5 @@
 // Shamelessly 'inspired' by Whitehall
 
-@import "css3";
-@import "colours";
-
 @mixin button($colour){
   background: $colour ;
   @include border-radius(0.250em);

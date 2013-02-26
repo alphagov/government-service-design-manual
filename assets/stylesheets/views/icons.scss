@@ -2,9 +2,6 @@
 // ICONS PAGE
 //
 
-@import "frontend_toolkit";
-@import "design_patterns";
-
 .icons{
     &.big{
       @include regular-grid(4);

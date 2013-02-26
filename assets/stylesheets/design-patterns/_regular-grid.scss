@@ -2,10 +2,6 @@
 // REGULAR GRID
 //
 
-
-@import "design-patterns/utils";
-@import "conditionals";
-
 @mixin regular-grid($columns: 1, $min-height:"") {
   margin: 0;
   @include ie-lte(7){
