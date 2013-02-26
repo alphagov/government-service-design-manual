@@ -28,7 +28,7 @@ The cost per *digital* transaction is the total cost of providing the digital se
 
 Where processes and costs are common to more than one channel (e.g. processing wet signatures for passports, or printing driving licences), they should be apportioned. For example, if half of all transactions are completed digitally, then 50% of the common costs should be apportioned to the digital channel.
 
-### What costs should be included
+## What costs should be included
 
 The full cost of the transaction should include:
 
