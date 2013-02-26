@@ -43,5 +43,5 @@ The follow link will take you to an example of how a research brief should be wr
 
 ## See also
 
-[Working with consultants and specialists](/guides/building-a-team/workingwithspecialists.html)
+[Working with consultants and specialists](/the-team/workingwithspecialists.html)
 
