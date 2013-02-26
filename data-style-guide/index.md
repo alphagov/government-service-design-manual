@@ -198,7 +198,7 @@ d) Have you been open and transparent with data?
 
 For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/).
 
-This [chart chooser](http://www.verstaresearch.com/types-of-chart.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
+This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
 Brain Suda’s [*A Practical Guide to Desiging with Data*](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0Bwrn_Ey2B7pcYjBhNDgzOGUtNjZlYi00NjA4LTgwYjAtZWJiMmM3MTk4Nzcw/edit) provides a comprehensive understanding of how to best engage the audience with your data. A video of Brian Suda presenting on a section of his book at the 2012 DIBI conference is available [here](http://vimeo.com/27483938).
 

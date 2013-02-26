@@ -28,7 +28,7 @@ All the patterns in the library make use of the [GOV.UK frontend toolkit](/templ
 
 ### Forms
 
-* [Anatomy of a form](form-anatomy.html)
+* [Anatomy of a form](/design-patterns/form-anatomy.html)
 * [Buttons](/design-patterns/buttons.html)
 * [Emphasised form controls](/design-patterns/emphasised-form-controls.html)
 * [Hidden form controls](/design-patterns/hidden-form-controls.html)

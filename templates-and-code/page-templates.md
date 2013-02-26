@@ -11,7 +11,7 @@ status: draft
 ---
 
 All new government services should have a consistent appearance. The best way
-to do this is to use the same [template code and assets](/tempaltes-and-code/shared-asset-libraries.html).
+to do this is to use the same [template code and assets](/templates-and-code/shared-asset-libraries.html).
 This guide describes each element in the page template and explains how it should
 be used.
 

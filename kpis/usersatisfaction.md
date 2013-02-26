@@ -5,21 +5,21 @@ section: guidance
 subsection: KPIs
 status: draft
 ---
-    
+
 Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
 
 >Overall, how satisfied are you with your visit to the online [eg car tax] service today?
 
-> A: 
-> Very satisfied 
-> Satisfied 
-> Neither satisfied or dissatisfied 
+> A:
+> Very satisfied
+> Satisfied
+> Neither satisfied or dissatisfied
 > Dissatisfied
 > Very dissatisfied
 
 ## Why measure user satisfaction?
 
-A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Satisfaction provides a qualitative measure of how satisfying the experience is. 
+A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Satisfaction provides a qualitative measure of how satisfying the experience is.
 
 Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
 
@@ -27,15 +27,15 @@ Asking users how satisfied they are with a service can provide a measure of all 
 
 ## How to Measure User Satisfaction
 
-GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available. 
+GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
 
 ## What happens if a user exits the transaction mid way through?
 
-You should measure all user journeys through your transaction to understand drop off points. 
+You should measure all user journeys through your transaction to understand drop off points.
 
-If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example: 
+If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example:
 
-> ‘Please tell us why are you unable to complete this transaction.’ 
+> ‘Please tell us why are you unable to complete this transaction.’
 
 Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop of points and find ways to improve transactions.
 
@@ -54,7 +54,7 @@ Alpha
 
 Beta
 
-* measure user satisfaction via remote usability testing and/or satisfaction survey 
+* measure user satisfaction via remote usability testing and/or satisfaction survey
 * identify why people are dissatisfied or not completing transactions and take steps to improve
 
 Live
@@ -72,4 +72,4 @@ You should also carry out a more comprehensive user satisfaction survey every si
 You could consider doing a drivers analysis of the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
 
 ## Further reading
-[Survey design](users/surveydesign.html)
+[Survey design](/users/surveydesign.html)
