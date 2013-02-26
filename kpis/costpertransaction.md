@@ -78,7 +78,7 @@ GDS can calculate this for you based on current figures.
 
 Cost per transaction is measured on a quarterly basis. It should cover the last twelve months to eliminate seasonal fluctuations.
 
-Cost per transaction should be measured for the existing service - if there is one - to create a baseline against which future cost per transaction can be compared. This should be done continually on a quarterly basis and reported to GDS. When the digital service is exposed to real users (whether in alpha or beta) it should be included in the reported cost per transaction.
+Cost per transaction should be measured for the existing service - if there is one - to create a baseline against which future cost per transaction can be compared. When the digital service is exposed to real users (whether in alpha or beta) it should be included in the reported cost per transaction.
 
 ## Reporting Cost Per Transaction
 
