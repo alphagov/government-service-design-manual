@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: APIs
 subtitle: Using and creating Application Programming Interfaces
 section: guidance
@@ -10,20 +10,20 @@ theme: design-and-build
 status: draft
 ---
     
-Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties". This section is a set of guiding principles for exposing a Digital service as an API.
+Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties." This section is a set of guiding principles for exposing a digital service as an API.
 
 {% include _toc.md %}
 
 ##Guidance
 
 ###Build an API by building with the API
-When building an API there is a danger of building the wrong thing in the wrong way for the wrong people.
-This is a particular risk in the absence of a developer community driving [the needs](https://www.gov.uk/designprinciples#first) of an API.
+When building an API there is always a danger of building the wrong thing in the wrong way for the wrong people.
+This is especially a risk in the absence of a developer community driving [the needs](https://www.gov.uk/designprinciples#first) behind the API.
 
-The simplest way to ensure your API is useful and consumable is to build a Web site using your own API.
+The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Web site forces a need to model data around bookmarkable resources; becoming a consumer of your own user not only validates your API,
-but leads to services being exposed [on The Web](http://www.w3.org/TR/webarch/).
+Building a website forces a need to model data around bookmarkable resources; becoming a consumer of your own user not only validates your API,
+but leads to services being exposed [online](http://www.w3.org/TR/webarch/).
 
 ### Just use The Web
 
@@ -140,4 +140,5 @@ You should be clear with your users about what is happening. If a third party pa
 
 ##Further reading
 This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
+
 The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.

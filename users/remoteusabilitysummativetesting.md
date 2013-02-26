@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Remote usability/summative testing (quantative)
 subtitle: Getting input into products and services
 section: guidance

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Analytics skills
 subtitle: Understanding user data
 section: guidance

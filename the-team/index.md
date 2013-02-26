@@ -25,7 +25,7 @@ theme: getting-started
 -->
 
 
-Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specilists to deliver a project, and may expand or contract in size as services are developed.
+Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed.
 
 ## What a team looks like
 
@@ -34,7 +34,7 @@ Agile teams are multidisciplinary, meet regularly, and often work close together
 
 What does an effective team look like? What skills are typically needed to deliver great digital services, and how are they structured?
 
-[Read more >](whatateamlookslike.html)
+[Read more >](/the-team/whatateamlookslike.html)
 
 
 ## The skills your team will need
@@ -44,18 +44,19 @@ What does an effective team look like? What skills are typically needed to deliv
 
 What kind of people will need to be part of your team, and when? What should you be looking for in potential team-members, and what will they be doing on a day-to-day basis?
 
-* [Service manager](servicemanager.html)
-* [Designer](designer.html)
-* [Developer](developer.html)
-* [Analyst](analyst.html)
-* [Accessibility](accessibility.html)
+* [Service manager](/the-team/servicemanager.html)
+* [Designer](/the-team/designer.html)
+* [Developer](/the-team/developer.html)
+* [Analyst](/the-team/analyst.html)
+* [Accessibility](/the-team/accessibility.html)
+* [Delivery manager](/the-team/delivery-manager.html)
 
 
 ## Working with consultants and specialists
 
 How should you go about procuring specialists, and what can you do to make sure their onboarding is as smooth as possible?
 
-[Read more >](workingwithconsultantsandspecialists.html)
+[Read more >](/the-team/workingwithspecialists.html)
 
 
 ## Your working environment
@@ -63,7 +64,7 @@ How should you go about procuring specialists, and what can you do to make sure 
 
 Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service manager do to ensure they get the best out of their agile team?
 
-[Read more >](workingenvironment.html)
+[Read more >](/the-team/workingenvironment.html)
 
 
 {:.figure}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Releasing software
 subtitle: How regular releases can reduce risk
 section: guidance
@@ -13,13 +13,12 @@ status: draft
 assets: local
 ---
     
-# Releasing software
 Constantly improving online services means releasing changes to the
 underlying software. How often you want to do this will affect how you
 design and build the applications and presents a number of challenges
 that this guide hopes to address.
 
-## Guidance/Tool
+## Releasing software
 
 It is important to think about how you release changes to a running
 application as early in the products development as possible. This is
@@ -41,7 +40,7 @@ In order to do that you have to consider:
 
 * Your approach to testing. Manual testing is important, but also
   expensive and time consuming. Invest in automation
-* The quality of low level code early. Approaches like continuous
+* The quality of low level code. Approaches like continuous
   integration, where code is tested constantly, and test driven design,
   can be helpful
 * Using the same tools and release processes for both the development and

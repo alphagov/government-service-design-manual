@@ -1,12 +1,12 @@
 # A sample Gemfile
 source "http://rubygems.org"
-source 'https://gems.gemfury.com/vo6ZrmjBQu5szyywDszE/'
+source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
 
 gem "jekyll"
 gem "RedCloth", "4.2.9"
 gem "coderay"
-
 gem 'rack-jekyll'
+gem "rack-rewrite"
 gem 'thin'
 gem 'foreman'
 gem 'kramdown'

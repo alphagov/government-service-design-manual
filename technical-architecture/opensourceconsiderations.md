@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Open source considerations
 subtitle: When to use open source
 section: guidance

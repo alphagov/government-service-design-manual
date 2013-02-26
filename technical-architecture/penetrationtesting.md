@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Vulnerability and penetration testing
 subtitle: Identifying insecurities in your service
 section: guidance
@@ -8,8 +8,6 @@ audience:
   primary: developer, tech-arch
 status: draft
 ---
-    
-# Vulnerability and penetration testing
 
 Ensuring web based systems and applications are secure requires more than
 just good design and development. In order to identify vulnerabilities it
@@ -54,9 +52,9 @@ system, not just the software involved. An obvious example would be
 physical security but a more interesting example is often the interplay
 between an online system and a call centre. It may be that by using
 information available from a call centre you can exploit the software
-system in some way? For instance getting them to change an email address
+system in some way? For instance, [getting them to change an email address
 on record for someone else, and then using a forgotten password facility
-which relies on the email address being trusted.
+which relies on the email address being trusted](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard here).
 
 ### Automate where possible
 

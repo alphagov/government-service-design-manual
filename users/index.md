@@ -11,60 +11,46 @@ theme: understanding-your-audience
 status: draft
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## User needs
+
+The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a Digital by Default service.
 
 [Understanding user needs](understandinguserneeds.html)
 
 
 ## An introduction to user research
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You will be using research to test your assumptions throughout the design, build and operation of a service. This introduction sets out a few of the basics of user research.
 
 [Learn more about user research](introductiontouserresearch.html)
 
-## User research briefs
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
-
-[Learn how to write user research briefs](userresearchbriefs.html)
-
 ## User research techniques
 
+The following technique may be useful when conducting user research
+
 <ul>
-  <li><a href="cardsorting.html">Card sorting</a></li>
-  <li><a href="communityusergroups.html">Community user groups</a></li>    
-  <li><a href="conceptalphatesting.html">Concept / alpha testing</a></li>      
-  <li><a href="communityusergroups.html">Community user groups</a></li>     
-  <li><a href="discussionguides.html">Discussion guides</a></li>        
-  <li><a href="ethnographicresearch.html">Ethnographic research</a></li>           
-  <li><a href="focusgroupsminigroupsandinterviews.html">focus-groups / mini-groups and interviews</a></li>
-  <li><a href="guerillatesting.html">Guerilla testing</a></li>
-  <li><a href="heuristicevaluations.html">Heuristic evaluations</a></li>       
-  <li><a href="labbasedusertesting.html">lab-based user research</a></li>   
-  <li><a href="onlineomnibussurveying.html">Online omnibus surveying</a></li>             
-  <li><a href="onlineresearchpanels.html">Online research panels</a></li>                  
-  <li><a href="remoteusabilitysummativetesting.html">Remote usability summative research</a></li>     
-  <li><a href="samedayusertesting.html">Same day user research</a></li>     
-  <li><a href="samplingmethodologies.html">Sampling methodologies</a></li>  
-  <li><a href="surveydesign.html">Survey design</a></li>   
-  <li><a href="userresearchsurveys.html">User research surveys</a></li>                              
-  <li><a href="userresearchtools.html">User research tools</a></li>
-  <li><a href="sentimentanalysis.html">Sentiment analysis</a></li>                                  
+  <li><a href="/users/cardsorting.html">Card sorting</a></li>
+  <li><a href="/users/communityusergroups.html">Community user groups</a></li>
+  <li><a href="/users/discussionguides.html">Discussion guides</a></li>
+  <li><a href="/users/ethnographicresearch.html">Ethnographic research</a></li>
+  <li><a href="/users/multivariatetesting.html">Multivariate testing</a></li>
+  <li><a href="/users/focusgroupsminigroupsandinterviews.html">focus-groups / mini-groups and interviews</a></li>
+  <li><a href="/users/guerillatesting.html">Guerilla testing</a></li>
+  <li><a href="/users/heuristicevaluations.html">Heuristic evaluations</a></li>
+  <li><a href="/users/labbasedusertesting.html">lab-based user research</a></li>
+  <li><a href="/users/onlineomnibussurveying.html">Online omnibus surveying</a></li>
+  <li><a href="/users/onlineresearchpanels.html">Online research panels</a></li>
+  <li><a href="/users/remoteusabilitysummativetesting.html">Remote usability summative research</a></li>
+  <li><a href="/users/samedayusertesting.html">Same day user research</a></li>
+  <li><a href="/users/samplingmethodologies.html">Sampling methodologies</a></li>
+  <li><a href="/users/surveydesign.html">Survey design</a></li>
+  <li><a href="/users/userresearchsurveys.html">User research surveys</a></li>
+  <li><a href="/users/userresearchtools.html">User research tools</a></li>
+  <li><a href="/users/sentimentanalysis.html">Sentiment analysis</a></li>
 </ul>
 
-## See also
+## User research briefs
 
-* User researcher job description?
+As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results ina  useful format.
+
+[Learn how to write user research briefs](/users/userresearchbriefs.html)

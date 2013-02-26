@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Information Security
 subtitle: Ensuring user data stays secure
 section: guidance
@@ -9,13 +9,16 @@ audience:
 status: draft
 theme: getting-started
 ---
-    
-# Information Security - Assurance and Accreditation
 
 It goes without saying that security of Government services is incredibly
 important. The Government Information Security community and processes
 exist to help service managers both meet their obligations to those
 processess, and more importantly to help build world class services.
+
+The assurance and accreditation processes exist to provide a structure for those
+activities with a shared language to allow risks, mitigations (and opportunities)
+to be clearly understood by everyone throughout the organisation delivering
+a service.
 
 The important thing to note about building trustworthy and secure systems is
 that it's a team game. Assurance and accreditation should not be a completely
@@ -23,17 +26,17 @@ separate strand of work, or seen as a hurdle to be got over (or around). Only
 by engaging with risk and making decisions based on a range of expert opinion
 will you end up with the best product.
 
-The following uses quite a lot of acronyms. Unforunately these are in common
+The following uses quite a lot of acronyms. Unfortunately these are in common
 usage and it's very hard to engage with the existing documentation and
 processes without speaking the lingo. All the acronymns should be explained
 before being used.
 
-## Guidance/Tool
+## Assurance and Accreditation
 
 ### Roles
 
 It's important to understand the different roles involved within the process
-detailed below. One of the first things you should do on your project is to 
+detailed below. One of the first things you should do on your project is to
 establish who plays each of these roles. Note that all of them require formal
 training and specialist skills.
 
@@ -65,7 +68,7 @@ they are numbers between 0 and 6 for each of the three following critera:
 * Integrity - the potential impact if the accuracy or completeness of the information is compromised,
 * Availability - the potential impact if the information becomes inaccessible.
 
-More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
+More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
 
 ### Agile Design
 
@@ -81,13 +84,13 @@ appropriate role as a constraint in the design process.
 
 ### Good Practice Guides (GPG)
 
-The Good Pratice Guides (GPG) are documents published by CESG on specific
+The Good Practice Guides (GPG) are documents published by CESG on specific
 topics of interest to various types of projects. These can act as a good
 starting point when looking to identify risks and put in place mitigations.
 For example
 
 Unfortunately many of these documents are Restricted. It is advisable to
-establish a working relationship with CESG early on in the project party
+establish a working relationship with CESG early on in the project
 to make sure you can access these documents. Examples include:
 
 * GPG13 - Protective monitoring
@@ -151,4 +154,4 @@ professionals, have made careful decisions about how to deal with them.
 
 * [HMG IA Standard No. 1 - Technical Risk Assesment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf)
 * [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/)
-* [Business Impact Level Tables](www.cesg.gov.uk/publications/.../business_impact_tables.pdf)
+* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)

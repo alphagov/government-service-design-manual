@@ -16,7 +16,7 @@ Sharing templates and code ensures that services remain consistent, and that tea
 
 Find out where to get the code for page templates and other shared assets, and how to implement it in your service.
 
-* [Shared asset libraries](sharedassetlibraries.html)
+* [Shared asset libraries](shared-asset-libraries.html)
 
 ## Page template elements
 

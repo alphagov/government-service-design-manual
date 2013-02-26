@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Open standards and licensing
 subtitle: Building services using common standards
 section: guidance
@@ -11,8 +11,7 @@ status: draft
 theme: design-and-build
 ---
     
-#Open standards and licensing
-Herein, best practice and considerations for using open standards and using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
+Best practice and considerations for using open standards and using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
 Please note, this is for guidance purposes only, and should not be taken as [legal advice](http://en.wikipedia.org/wiki/IANACL).
 
 ##Guidance
@@ -21,7 +20,7 @@ as prescribed in the [consultation on open standards](http://consultation.cabine
 
 As with any software, using open source comes with an obligation to follow the terms of the software licence.
 FOSS differs from [proprietary software](http://en.wikipedia.org/wiki/Proprietary_software) in that the source code may be modified,
-in which case the licence may demand any derived code be republished with [attribution](http://en.wikipedia.org/wiki/Attribution_(copyright),
+in which case the licence may demand any derived code be republished with [attribution](http://en.wikipedia.org/wiki/Attribution_(copyright)),
 and under the same terms of the original licence, sometimes called [copyleft](http://en.wikipedia.org/wiki/Copyleft).
 These obligations may introduce difficulties when mixing open source software with closed source software, particularly
 when combining [GPL](http://en.wikipedia.org/wiki/GNU_General_Public_License) software with software developed behind closed doors

@@ -1,5 +1,6 @@
 ---
 layout: default-wrapper
+section_class: default
 ---
 
 {% if page.status %}
@@ -10,15 +11,14 @@ layout: default-wrapper
   <header class="page-header group">
     <hgroup>
       <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
     </hgroup>
   </header>
 
   <div class="article-container group">
     <div class="inner">
-      {% if page.subtitle %}
-      <h2 class="subtitle">{{ page.subtitle }}</h2>
-      {% endif %}
-
       {{ content }}
     </div>
 
@@ -26,4 +26,5 @@ layout: default-wrapper
       <li><a href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
       <li><a href="https://github.com/alphagov/government-service-design-manual/edit/master{{ page.url | replace:'.html','.md' }}">Edit page on GitHub</a>
     </ul>
+  </div>
 </article>

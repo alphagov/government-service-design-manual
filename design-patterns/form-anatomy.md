@@ -432,7 +432,7 @@ Each link should jump the user down to the corresponding form control. Add a 'va
 
 # Putting it all together
 
-To see all the examples above in a single form, check out the [contact form example](contact-form.html).
+To see all the examples above in a single form, check out the [registration form example](registration-form.html).
 
 # Rationale
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Survey design
 subtitle: Making an effective survey
 section: guidance

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Online Omnibus surveying
 subtitle: Getting input into products and services
 section: guidance

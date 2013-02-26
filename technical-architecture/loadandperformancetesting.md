@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Load and performance testing
 subtitle: How to avoid your service collapsing under pressure
 section: guidance

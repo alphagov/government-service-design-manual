@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Sandbox and staging servers
 subtitle: Working in a development environment
 section: guidance

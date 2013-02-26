@@ -7,7 +7,7 @@ PATH
 
 GEM
   remote: http://rubygems.org/
-  remote: https://gems.gemfury.com/vo6ZrmjBQu5szyywDszE/
+  remote: https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/
   specs:
     RedCloth (4.2.9)
     actionmailer (3.2.11)
@@ -84,6 +84,7 @@ GEM
     rack-jekyll (0.3.5)
       jekyll
       rack
+    rack-rewrite (1.3.3)
     rack-ssl (1.3.3)
       rack
     rack-test (0.6.2)
@@ -137,4 +138,5 @@ DEPENDENCIES
   jekyll-sass!
   kramdown
   rack-jekyll
+  rack-rewrite
   thin

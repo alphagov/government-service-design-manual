@@ -1,7 +1,9 @@
+---
+---
+
 // ===================================================
 // GOVERNMENT SERVICE DESIGN MANUAL
 //
-
 
 // From the toolkit
 @import "colours";
@@ -12,164 +14,33 @@
 // From _includes
 @import "design_patterns";
 
-// Semantic colour names
-$main-colour: $mellow-red;
-$secondary-colour: $red;
-
-$alpha-colour: $pink;
-$discovery-colour: $pink-25;
-$inception-colour: $pink-50;
-$alpha-colour: $pink;
-$beta-colour: $orange;
-$live-colour: $grass-green;
-$operational-colour: $grass-green-50;
-$decommissioning-colour: $grey-3;
+// Styleguide
+@import "styleguide/_colours.scss";
+@import "styleguide/_dimensions.scss";
 
 // Helpers
 @import "helpers/_breadcrumbs.scss";
+@import "helpers/_caveat-notice.scss";
+@import "helpers/_contents.scss";
+@import "helpers/_github-links.scss";
 @import "helpers/_global-nav.scss";
+@import "helpers/_page-status.scss";
+@import "helpers/_role-links.scss";
+@import "helpers/_tables.scss";
 @import "helpers/_tooltip.scss";
 
 // Views
+@import "views/default.scss";
+
 @import "views/category-index.scss";
 @import "views/colours.scss";
 @import "views/design-patterns.scss";
-@import "views/guidance.scss";
+@import "views/detailed-guidance.scss";
 @import "views/home-page.scss";
 @import "views/icons.scss";
 @import "views/phases.scss";
+@import "views/role-index.scss";
 @import "views/standard.scss";
-@import "views/typography.scss";
 
-// ====================================================
-// DEFAULT PAGE STYLES
-//
-
-html {
-  background-color: #fff;
-}
-
-#wrapper {
-  background-color: transparent;
-}
-
-// Global navigation
-#global-nav{
-  text-align:left;
-}
-
-// Alpha sticker
-#global-nav .home {
-  a {
-  position: relative;
-    small{
-      position: absolute;
-      top: 0.8em;
-      text-transform: uppercase;
-      color: white;
-      -webkit-font-smoothing: subpixel-antialiased;
-      background: #d53880;
-      padding: 2px 5px 0;
-      margin-left: 10px;
-    }
-  }
-}
-
-// Reset right padding of main page
-article .inner{
-  padding-right: 2em; 
-}
-
-// Page status label
-.page-status {
-  position: relative;
-  float: right;
-  margin-right: 0;
-  // padding: 0.2em 1.5em 0em 1.5em;
-  padding: 11px 15px 10px;
-
-  @include bold-14;
-
-  color: $white;
-  background: $green;
-
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.2em;
-
-  // Custom label colours for each status
-  &.draft{
-    background-color: $fuschia;
-  }
-}
-
-// Page subtitle
-.subtitle{
-  margin: 1em 0 1em 0;
-  color: $secondary-text-colour;
-  @include core-24;
-}
-
-// Table of contents
-#markdown-toc {
-  li ul {
-    display: none;
-  }
-  li:first-child{
-    display: none; // Hide the header for the 'Toc' itself. The {:.no_toc} tag is supposed to address this but appears to not work.
-  }
-}
-
-// Data tables
-article table{
-  margin: 1em 0 2em 0;
-  width: 100%;
-}
-.hide-headers thead{
-  display: none;
-}
-
-// Throw images into left margin
-.left{
-  width: 31%;
-  float: left;
-  margin-left: -36%;
-  img{
-    width: 100%;
-  }
-  &:hover{
-    cursor: pointer;
-    &:after{
-      content: "Click to enlarge";
-      color: $secondary-text-colour;
-      font-size: 16px;
-      margin-left: 23%;
-    }
-  }
-  &:active{
-    width: auto;
-    position: absolute;
-    img{
-      box-shadow: 5px 5px 5px rgba(0, 0, 0, .5);
-      width: auto;
-      max-width: 800px;
-      margin-top: -20%;
-    }
-    &:after{
-      content: "";
-    }
-  }
-}
-
-// Links to functions on Github
-.github-links{
-  border-top: 1px solid $border-colour;
-  padding-top: 0.5em;
-  margin-left: 2em;
-  li{
-    list-style-type: none;
-    list-style-image: none;
-    @include core-16;
-  }
-}
+// Layouts
+@import "layouts/gsdm.scss";

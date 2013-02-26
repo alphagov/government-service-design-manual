@@ -4,13 +4,13 @@ title: Colour palettes
 subtitle: Hex values and Sass variable names for the GOV.UK colours
 section: guidance
 status: draft
-audience: 
+audience:
   primary: designer
 type: resource
 css: /assets/stylesheets/colours.css
 ---
 
-This is the standard GOV.UK colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the GOVUK Frontent Toolkit.
+This is the standard [GOV.UK](https://www.gov.uk) colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the [GOV.UK](https://www.gov.uk) Front-end Toolkit.
 
 ## Semantic colour names
 
@@ -19,7 +19,7 @@ This is the standard GOV.UK colour palette. We recommend you use the Sass variab
     <h3>Text</h3>
     <ul>
       <li class="text-colour"><p>$text-colour ($black)</p></li>
-      <li class="secondary-text-colour"><p>$secondary-text-colour ($grey-1)</p></li> 
+      <li class="secondary-text-colour"><p>$secondary-text-colour ($grey-1)</p></li>
       <li class="link-colour"><p>$link-colour (#2e3191)</p></li>
       <li class="link-visited-colour"><p>$link-visited-colour (#2e3191)</p></li>
       <li class="link-active-colour"><p>$link-active-colour (#2e8aca)</p></li>
@@ -159,8 +159,8 @@ This is the standard GOV.UK colour palette. We recommend you use the Sass variab
   <div>
     <h2>Greys</h2>
     <ul>
-      <li class="black"><p>#0B0C0C, $black</p></li> 
-      <li class="grey-1"><p>#6F777B, $grey-1</p></li>  
+      <li class="black"><p>#0B0C0C, $black</p></li>
+      <li class="grey-1"><p>#6F777B, $grey-1</p></li>
       <li class="grey-2"><p>#BFC1C3, $grey-2</p></li>
       <li class="grey-3"><p>#DEE0E2, $grey-3</p></li>
       <li class="grey-4"><p>#F8F8F8, $grey-4</p></li>

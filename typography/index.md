@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Typography
 subtitle: Creating clear, easy to read type for the web
 section: guidance
@@ -8,8 +8,7 @@ audience:
 type: resource
 status: draft
 ---
-    
-#Typography
+
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
 ##Guidance
@@ -19,23 +18,26 @@ We currently use two weights of New Transport: Light and Bold. Italics should no
 
 If the service uses numbers in columns or tables, you should change these to use the tabular number version of Transport New. This replaces the standard numbers with new versions that are spaced more evenly. The main noticable difference is a base on the character 1. GDS has used this on the Performance Platform and Trade Tariff.
 
-Text must have enough contrast against the background colour to be readable. This should be tested to conform with our [Accessibility Requrements](/handbook/4/). Generally we use type in #0B0C0C against a white or light grey background. Links should be blue and underlined - see [Colour palettes](/handbook/180/).
+Text must have enough contrast against the background colour to be readable. This should be tested to conform with our [Accessibility requirements](/accessibility). Generally we use type in #0B0C0C against a white or light grey background. Links should be blue and underlined - see [Colour palettes](/colour-palettes).
 
-Type should be large enough to be easily read. This is generally larger than many current websites: 36px for headlines, 19px for body text. This can be included using default styles in scss from the [Frontend Toolkit](/handbook/???/). These include line height spacing that works across browsers.
+Type should be large enough to be easily read. This is generally larger than many current websites: 36px for headlines, 19px for body text. This can be included using default styles in scss from the [Frontend Toolkit](/templates-and-code/sass-repositories.html). These include line height spacing that works across browsers.
 
 TODO: method for services to include GDS-hosted Transport (+ system for GDS to manage/restrict use)
 
 ##Code/Templates
 
-See [Colour palettes](/handbook/180/) for the Sass variables for text colours.
-See [Shared asset libraries](/handbook/131/) and [SCSS Repositories](/handbook/130/) for easy implementation of GOV.UK typography.
+See [Colour palettes](/colour-palettes/) for the Sass variables for text colours.
+See [Shared asset libraries](/templates-and-code/shared-asset-libraries.html) and [Sass Repositories](/templates-and-code/sass-repositories.html) for easy implementation of GOV.UK typography.
 
 ##Why we do this
 See [this blog post about why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
 
 ##Further reading
 
-[Shared asset libraries](/handbook/131/)
-[SCSS Repositories](/handbook/130/)
-[Colour palettes](/handbook/180/)
-[Accessibility requirements](/handbook/4/)
+[Shared asset libraries](/templates-and-code/shared-asset-libraries.html)
+
+[Sass Repositories](/templates-and-code/sass-repositories.html)
+
+[Colour palettes](/colour-palettes/index.html)
+
+[Accessibility requirements](/accessibility/index.html)

@@ -1,9 +1,27 @@
 ---
-layout: default
-layoutClass: wide
+layout: default-wrapper
+section_class: wide
 ---
+<article role="article" class="group">
+  <header class="page-header group">
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </hgroup>
+  </header>
 
-{{ content }}
+  <div class="article-container group">
+    <div class="inner">
+      {{ content }}
+    </div>
 
+    <ul class="github-links">
+      <li><a href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
+      <li><a href="https://github.com/alphagov/government-service-design-manual/edit/master{{ page.url | replace:'.html','.md' }}">Edit page on GitHub</a>
+    </ul>
+  </div>
+</article>
 
 

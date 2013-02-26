@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Writing user stories
 subtitle: How to write a useful user story
 section: guidance
@@ -12,7 +12,7 @@ theme: agile
 status: draft
 ---
 
-User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
+User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks that each deliver concrete value, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
 
 ## Story cards
 
@@ -20,6 +20,8 @@ User stories are an essential part of the agile toolkit, a way of organising wor
 ![A user story index card](http://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
 
 A user story is represented by a story card with a title and a few lines of text.
+
+Story cards can be virtual as well as actual cards. On a large product/service you're likely to keep your stories in a digital format, and then turn them into physical cards as part of sprint planning.
 
 Story cards follow a standard structure – title, actor, narrative and goal. They do not capture every detail. Rather, they are a promise of further discussion at the appropriate time.
 
@@ -40,11 +42,13 @@ Building useful software systems is hard. How can we make sure we're solving the
 
 Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If we dive into the solution without a good understanding our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
 
+You can also use this goal to help you decide whether the story is "done" or delivered. i.e. Does the work that's been done meet the goal? 
+
 As a service manager writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? [Suzanne and James Robertson have excellent advice on this](http://www.jconne.com/agile1whatisit/). 
 
 Being specific about the **ACTOR** can help you to break down interactions into logical chunks. Sometimes the actor will be a user of your service. Sometimes the actor will be an administrator, technician or manager within your organisation. Hopefully you already have a good understanding of your users from preliminary project work or existing research. If not, make sure you take the time to develop that understanding.
 
-Finally the narrative should serve as a reminder of the main flow of interaction which needs to be addressed. However the story card does not need to spell out every detail…
+Finally the narrative should serve as a reminder of the main flow of interaction which needs to be addressed. However the story card does not need to spell out every detail.
 
 ## Taking a rain check &mdash; the promise of a conversation
 

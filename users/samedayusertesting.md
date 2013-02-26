@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Same day user testing (online qualitative)
 subtitle: Getting input into products and services
 section: guidance
@@ -11,8 +11,6 @@ status: draft
 assets: local
 ---
     
-#Same day user testing (online qualitative)
-
 This guidance talks about how same day user testing can be used to provide user research that can feed into product and service design.
 
 ##Guidance

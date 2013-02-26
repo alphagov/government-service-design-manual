@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Page templates
 subtitle: How to use the elements that make up the GOV.UK page templates
 audience:
@@ -10,8 +10,8 @@ section: guidance
 status: draft
 ---
 
-All pages on GOV.UK should feel like they're part of the same service. The best way 
-to do this is to use the same [template code and assets](shared-assets-libraries).
+All new government services should have a consistent appearance. The best way
+to do this is to use the same [template code and assets](/templates-and-code/shared-asset-libraries.html).
 This guide describes each element in the page template and explains how it should
 be used.
 
@@ -30,7 +30,7 @@ GOV.UK logo and the search box. This element is mandatory and should not be adde
 {:.left}
 ![Image of GOV>UK logo](/assets/images/page-template-elements/logo.png)
 
-This must always link back to the [GOV.UK home page](http://gov.uk).
+This must always link back to the [GOV.UK home page](https://www.gov.uk).
 
 ### Search box
 
@@ -42,7 +42,7 @@ search on the whole of GOV.UK. If your service is to be hosted in the same
 environment as GOV.UK the default template code will do this.
 
 If your service is to be hosted in a different environment you'll need to change
-the action attribute of the form as follows: `action="http://gov.uk/search"`.
+the action attribute of the form as follows: `action="https://www.gov.uk/search"`.
 
 In some cases we might decide that the scope of the search should be reduced to
 just pages from your service. In these cases the scope should be clearly
@@ -80,7 +80,7 @@ service appears.
 ## Main content area
 
 This is where all the page content lives. All content within this area should be
-consistent with the GOV.UK visual style and use the available 
+consistent with the GOV.UK visual style and use the available
 [design patterns](/design-patterns).
 
 There are two main variants of this element: A narrower version with a 'related
@@ -93,7 +93,7 @@ panel for transaction and landing pages.
 ![Image of page footer](/assets/images/page-template-elements/footer.png)
 
 This is the grey panel at the bottom of every page. It contains global site
-navigation and a copyright message. This element is mandatory and should not be 
+navigation and a copyright message. This element is mandatory and should not be
 added to.
 
 From time to time we may update the links in the footer. It's important that
@@ -104,7 +104,7 @@ discuss the best way of ensuring that this happens.
 
 [The GOV.UK Beta warning](https://github.com/alphagov/static/blob/master/app/ass
 [ets/javascripts/welcome.js) served users an interstitial when first arriving on
-[GOV.UK during its public beta.
+[GOV.UK](https://www.gov.uk) during its public beta.
 
 If you are running a public beta of a service then it is highly recommended that
 you do the same thing. Users of government services might not always be used to

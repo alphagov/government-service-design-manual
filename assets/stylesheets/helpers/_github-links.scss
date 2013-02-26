@@ -1,0 +1,11 @@
+// Links to functions on Github
+.github-links{
+  border-top: 1px solid $border-colour;
+  padding-top: 0.5em;
+
+  li{
+    list-style-type: none;
+    list-style-image: none;
+    @include core-16;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: User research tools
 subtitle: Products available to researchers
 section: guidance
