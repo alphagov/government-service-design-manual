@@ -4,11 +4,11 @@ title: Writing government services
 subtitle: Tone of voice, writing style, use of headings and more
 section: guidance
 type: guide
-audience: 
+audience:
   primary: content-designer
 status: draft
 ---
-    
+
 ##How to write
 
 This section gives details on naming your service, tone, style, questions and why we write in this way.
@@ -18,7 +18,7 @@ You may want to read: [how users read](howusersread.html) this will tell you mor
 ##Guidance
 
 All services should follow the [GOV.UK style guide](writing-for-govuk/styleguide.html).
-The way we talk to users is the same on all [GOV.UK](www.gov.uk) products. The only difference is the format.
+The way we talk to users is the same on all [GOV.UK](https://www.gov.uk) products. The only difference is the format.
 
 ###Introductions
 Services should be intuitive and government services should provide an exeptional user experience. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.
@@ -29,14 +29,14 @@ If you do have to add text, keep your sentences very specific, short, active (ke
 Don’t use terms like ‘my benefits’ etc. This will mean different things to different users. Some will think it is a list of all the benefits they have had, some will think it is an online account to manage benefits and others won’t know what to think. Don’t use puns or clever terms. Keep the service title clear, short and specific.
 
 ###Page titles
-Keep page titles specific to the questions on the page. If the page is just about the user’s address, call it ‘your address’. Don’t call it ‘about you’. However, if you are covering a number of different elements of ‘about you’ on the page - you can. 
+Keep page titles specific to the questions on the page. If the page is just about the user’s address, call it ‘your address’. Don’t call it ‘about you’. However, if you are covering a number of different elements of ‘about you’ on the page - you can.
 
 ###Questions
 Make sure you need any question you include in your service. Don’t include questions that you think you might need later or for another part of your organisation. Keep the transaction as specific as possible to the task the user is trying to complete.
 
 ##Tone and style
 
-###Don’t use jargon  
+###Don’t use jargon
 Jargon is used differently by different people, so you will be opening up the language to misinterpretation.
 
 ###Spin
@@ -54,7 +54,7 @@ The only way you will know if your service works, is to test it with users. Then
 
 
 ##Why we do this
-[GOV.UK](www.gov.uk) is to open up government information and services to anyone who is interested or needs to interact with government.
+[GOV.UK](https://www.gov.uk) is to open up government information and services to anyone who is interested or needs to interact with government.
 
 ###Inclusive
 As government we need to be inclusive - we can do this through our design and language. By making the design open and easy to read, the code clean and accessible and the words easy to understand, we are opening up government to all.
@@ -67,23 +67,23 @@ If we make the information hard to read or the design so distracting or difficul
 Good design and words isn’t a desire or an ‘aim’ - it is our responsibility.
 
 # Writing terms and conditions
-The terms and conditions of your service must be understandable to the majority of users. 
+The terms and conditions of your service must be understandable to the majority of users.
 
 ##Guidance/Tool
 
-[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide). 
+[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide).
 
-These form a template for other services to use, and cover many of the conditions that operational services published as part of [GOV.UK](www.gov.uk) will require.
+These form a template for other services to use, and cover many of the conditions that operational services published as part of [GOV.UK](https://www.gov.uk) will require.
 
-If your service needs additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means. 
+If your service needs additional terms or conditions added to this list then these should be written clearly, in a way that most users will be able to understand. In practise, this means unpicking lots of the legal language and giving users concrete examples to help them understand what a specific term or condition means.
 
 Adding that term or condition should be done in consultation with GDS.
 
 ##Why we do this
-Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. [GOV.UK](www.gov.uk) continued this, with additional pieces of information added as transactions and services were incorporated into the site.
+Directgov proved to be a good model for this, as their terms and conditions were clearly written and easy to understand. [GOV.UK](https://www.gov.uk) continued this, with additional pieces of information added as transactions and services were incorporated into the site.
 
 
 
 ##Further reading
-[How users read](howusersread.html) 
+[How users read](howusersread.html)
 [Style guide](writing-for-govuk/styleguide.html)

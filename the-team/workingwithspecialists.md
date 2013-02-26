@@ -12,7 +12,7 @@ theme: agile
 status: draft
 assets: local
 ---
-    
+
 Specialists can help fill the gaps in capability you identify throughout your service’s lifespan. However, the benefit of their skills and perspective can come with the challenge of procuring and inducting them.
 
 ## How do you identify the skills you require?
@@ -61,13 +61,13 @@ While the GDS Digital Framework focuses on Agile development, some services to b
 
 Achieving the right mix of contract versus permanent staff on your team will depend on your product.
 
-Contractors should receive an induction and be thoughtfully integrated in team - where do they sit, who next to, how do they fit? Use some common sense; think about how long will this person be with you and tailor the induction accordingly. 
+Contractors should receive an induction and be thoughtfully integrated in team - where do they sit, who next to, how do they fit? Use some common sense; think about how long will this person be with you and tailor the induction accordingly.
 
-For example, in the [GOV.UK](www.gov.uk) platform team, GDS hired a specialist search engine consultant to work with the team for two days. He worked with two permanent members of the team so they could learn from him. 
- 
+For example, in the [GOV.UK](https://www.gov.uk) platform team, GDS hired a specialist search engine consultant to work with the team for two days. He worked with two permanent members of the team so they could learn from him.
+
 Skills transfer is vitally important - we can all learn from specialists. But more importantly, don’t allow a contractor or consultant to become a single point of failure in your team. Knowledge must be shared for the maximum benefit.
 
-For the good of your team and to get the best results from bringing in a specialist contractor, you should not treat them any differently from a permanent member of the team, they are people too. 
+For the good of your team and to get the best results from bringing in a specialist contractor, you should not treat them any differently from a permanent member of the team, they are people too.
 
 ### People over Process
 
@@ -79,7 +79,7 @@ At GDS, we do not call people “resources”, whether permanent or contract. Yo
 
 Some guiding principles for service managers or delivery managers:
 
-* make sure you have enough budget 
+* make sure you have enough budget
 * speak to your HR team and confirm you have the flexibility to negotiate salary etc, particularly for technical roles
 * shield your people from the form-filling culture that HR sometimes brings
 * contractors shouldn’t work from home all the time (be sensible here, the odd day won’t hurt)

@@ -52,14 +52,14 @@ Some pages on this site provide you with information based on your location. So 
 
 ##Cookies on existing transactions
 
-The [GOV.UK](www.gov.uk) cookies policy does not cover 3rd party transactions. Unfortunately, most existing services were built before the updated EU Privacy Directive came into force, so weren't built with it in mind (hence not having cookie policies).
+The [GOV.UK](https://www.gov.uk) cookies policy does not cover 3rd party transactions. Unfortunately, most existing services were built before the updated EU Privacy Directive came into force, so weren't built with it in mind (hence not having cookie policies).
 
 New and redesigned services will be expected to notify users that cookies are being set beforehand, using a 'sets a cookie' line of text near the action that triggers the cookie (this text should be linked to the appropriate part of the cookie information page).  You can see an example of how that works on GOV.UK [here](https://www.gov.uk/dvla-offices).
 
 Where a user can't be notified before the cookie is set (i.e. if it's set when the user first visits the service using implied consent), the service should use a banner similar to that on [GOV.UK](http://www.gov.uk) to inform people that this is the case and link them to the further information.
 
 ##Why we do this
-This policy is in line with EU Law and was devised following extensive research during the beta of [GOV.UK](www.gov.uk). It follows the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
+This policy is in line with EU Law and was devised following extensive research during the beta of [GOV.UK](https://www.gov.uk). It follows the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
 
 
 ##Further reading

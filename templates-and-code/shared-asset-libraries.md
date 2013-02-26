@@ -29,7 +29,7 @@ There's are two additional benefits to this approach:
 
 ## Where to find our code
 
-The templates on [GOV.UK](www.gov.uk) are constantly changing as we react to user
+The templates on [GOV.UK](https://www.gov.uk) are constantly changing as we react to user
 feedback and evolving best practice, so the best place to find them is
 on our open source frontend libraries - more explanation of these to
 follow:
@@ -67,7 +67,7 @@ more information on this repository.
 ## Linking to shared assets
 
 The template code contains direct links to CSS and JavaScript assets hosted on
-the [GOV.UK](www.gov.uk) domain. We recommend that you leave these links as is whilst you
+the [GOV.UK](https://www.gov.uk) domain. We recommend that you leave these links as is whilst you
 develop your service (as opposed to linking to your own copies of these files).
 That way, you'll always be using the latest version of the assets and when they
 change you can identify and resolve any conflicts immediately.
@@ -78,7 +78,7 @@ own copies of them. Please contact GDS to discuss this at the appropriate time.
 
 ## Keeping shared assets up-to-date
 
-[GOV.UK](www.gov.uk) is continuously being improved, which means that template and asset code
+[GOV.UK](https://www.gov.uk) is continuously being improved, which means that template and asset code
 changes regularly. All services on GOV.UK are expected to keep their templates
 and assets up-to-date. How you do this will depend on how you implement the
 templates and where your service is hosted. Please contact the GDS team to
