@@ -8,7 +8,7 @@ status: draft
     
 Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
 
-> Q: Overall, how satisfied are you with your visit to the online [e.g. car tax] service today?
+>Overall, how satisfied are you with your visit to the online [eg car tax] service today?
 
 > A: 
 > Very satisfied 
@@ -19,7 +19,9 @@ Defined as the percentage of people who answered either “very satisfied” or 
 
 ## Why measure user satisfaction?
 
-A good service enables users to complete tasks successfully. A great service is also enjoyable to use.  Satisfaction provides a qualitative measure of how satisfying the experience is. Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
+A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Satisfaction provides a qualitative measure of how satisfying the experience is. 
+
+Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
 
 Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
 
@@ -31,7 +33,9 @@ GOV.UK will provide a user satisfaction survey at the end of your transactional 
 
 You should measure all user journeys through your transaction to understand drop off points. 
 
-If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example: ‘Please tell us why are you unable to complete this transaction.’ 
+If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example: 
+
+> ‘Please tell us why are you unable to complete this transaction.’ 
 
 Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop of points and find ways to improve transactions.
 
@@ -39,29 +43,29 @@ Although this survey will not be contribute to the overall measure of user satis
 
 In order to successfully measure the user satisfaction of your service we recommend you follow the guidance below:
 
-Inception
+Discovery
 
-* Benchmark the existing service for future comparison
-* Develop a plan to measure user satisfaction throughout product development
+* benchmark the existing service for future comparison
+* develop a plan to measure user satisfaction throughout product development
 
 Alpha
 
-* Benchmark user satisfaction via remote usability testing and/or a satisfaction survey
+* benchmark user satisfaction via remote usability testing and/or a satisfaction survey
 
 Beta
 
-* Measure user satisfaction via remote usability testing and/or satisfaction survey 
-* Identify why people are dissatisfied or not completing transactions and take steps to improve
+* measure user satisfaction via remote usability testing and/or satisfaction survey 
+* identify why people are dissatisfied or not completing transactions and take steps to improve
 
 Live
 
-* Measure user satisfaction continually and monitor results on at least a monthly basis
-* Carry out a more comprehensive user demographics, usage and attitudes survey every six months
+* measure user satisfaction continually and monitor results on at least a monthly basis
+* carry out a more comprehensive user demographics, usage and attitudes survey every six months
 
 
 ## What about post launch?
 
-A exit survey will be run continuously on your service, and report satisfaction on a monthly basis. You can use this data to improve your service.
+An exit survey will be run continuously on your service, and report satisfaction on a monthly basis. You can use this data to improve your service.
 
 You should also carry out a more comprehensive user satisfaction survey every six months.
 
