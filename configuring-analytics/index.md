@@ -69,6 +69,7 @@ You will need to answer the following questions:
 
 ## Examples
 ![Page conversion funnel](https://assets.digital.cabinet-office.gov.uk/designprinciples/page_hits-41db2fb9ab658ba4ee0d577a3d847e78.png)
+
 We are using Google Analytics to measure how users interact with GOV.UK pages. We want to know how far down the page they are reading so that we can tweak the content, if necessary.
 
 This involved triggering events that can be picked up by Google Analytics at various points down the page: 25%, 50%, 75% and 100%.
