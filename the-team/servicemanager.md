@@ -5,14 +5,14 @@ subtitle: Learn what a service manager does, and how to be a good one
 section: guidance
 type: guide
 theme: getting-started
-audience: 
+audience:
   primary: service-manager
 status: draft
 ---
 
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
 
-We are adopting that model, requiring each transactional digital service handling over 100,000 transactions each year to be developed, operated and continually improved by an experienced, skilled and empowered Service Manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government. 
+We are adopting that model, requiring each transactional digital service handling over 100,000 transactions each year to be developed, operated and continually improved by an experienced, skilled and empowered Service Manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
 
 ## Responsibilities
 
@@ -38,4 +38,4 @@ Cabinet Office will help departments to recruit suitably skilled individuals. Ne
 
 ##Further reading
 
-[Building a team](/guides/building-a-team/)
+[Building a team](/the-team)
