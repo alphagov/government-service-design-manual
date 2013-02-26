@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Hidden form controls
 subtitle: Build to the GOV.UK style 
 section: guidance

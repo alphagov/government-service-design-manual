@@ -1,0 +1,14 @@
+.wide {
+  .article-container {
+    margin: 0 2em;
+
+    h2 {
+      border-bottom: 3px solid $main-colour;
+      margin-bottom: 1em;
+    }
+
+    p {
+      width: 75%;
+    }
+  }
+}

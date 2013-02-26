@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Error messages
 subtitle: How to write helpful messages for users when things go wrong
 section: guidance

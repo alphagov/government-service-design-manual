@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Regular grid
 subtitle: Build to the GOV.UK style 
 section: guidance

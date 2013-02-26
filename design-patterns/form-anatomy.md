@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns

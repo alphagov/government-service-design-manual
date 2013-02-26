@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Progress indicator
 subtitle: Build to the GOV.UK style 
 section: guidance

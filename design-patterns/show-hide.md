@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Show/hide link
 subtitle: Build to the GOV.UK style 
 section: guidance

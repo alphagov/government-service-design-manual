@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: design-patterns
 title: Panel styles
 subtitle: Build to the GOV.UK style 
 section: guidance
