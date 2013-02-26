@@ -12,7 +12,7 @@ Cost per transaction is a measure of the total cost to the government of providi
 
 Cost per transaction is an important measure of a service’s efficiency. As services become more efficient, the cost per transaction will fall.
 
-The cost per transaction for delivering services through specific delivery channels is also a useful measure. Understanding cost per transaction for each channel will help you to accurately forecast savings and build a strong business case for channel shift.
+The difference in the transaction costs through each available channel can also be a useful measure. Understanding cost per transaction for each channel will help you to accurately forecast savings and build a strong business case for channel shift.
 
 ## How to measure cost per transaction
 
