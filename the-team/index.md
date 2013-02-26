@@ -27,30 +27,8 @@ theme: getting-started
 
 Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed.
 
-## What a team looks like
-
-{:.left}
-![The team size changes over time](/assets/images/team-size.png)
-
-What does an effective team look like? What skills are typically needed to deliver great digital services, and how are they structured?
-
-[Read more >](/the-team/whatateamlookslike.html)
-
-
-## The skills your team will need
-
-{:.left}
-![Some of the skills an effective team needs](/assets/images/team-skills.png)
-
-What kind of people will need to be part of your team, and when? What should you be looking for in potential team-members, and what will they be doing on a day-to-day basis?
-
-* [Service manager](/the-team/servicemanager.html)
-* [Designer](/the-team/designer.html)
-* [Developer](/the-team/developer.html)
-* [Analyst](/the-team/analyst.html)
-* [Accessibility](/the-team/accessibility.html)
-* [Delivery manager](/the-team/delivery-manager.html)
-
+## Service managers
+[Learn what a service manager does, and how to be a good one.](/the-team/servicemanager.html)
 
 ## Working with consultants and specialists
 
