@@ -3,17 +3,17 @@ layout: detailed-guidance
 title: Designing for GOV.UK
 subtitle: General guidance for those developing for GOV.UK
 section: guidance
-audience: 
+audience:
   primary: designer
 type: guide
 status: draft
 ---
-    
+
 You can't really understand how to build a service until you try it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.
 
 ## Building prototypes
 
-This is a vital part of a process often known as "[product discovery](http://gsdm.herokuapp.com/phases/)": understanding your users and their needs, developing a sense of how you might serve those needs, and estimating the effort involved in building and running a service to do so.
+This is a vital part of a process often known as "[product discovery](/phases/)": understanding your users and their needs, developing a sense of how you might serve those needs, and estimating the effort involved in building and running a service to do so.
 
 We built alpha.gov.uk as a prototype of what would later become the single domain www.gov.uk. It was built quickly without much concern to scalability, resilience, or any of the other considerations of a "real" product, because none of those matter unless the core concept is sound.. That allowed us to get feedback early and also understand some of the trickier concepts we would have to grapple with such as the fuzzy lines between different audiences, the operational processes that would be required, and so on.
 

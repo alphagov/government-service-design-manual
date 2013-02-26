@@ -19,7 +19,7 @@ One of the central principles of agile is quick feedback loops - we want to demo
 {:.left}
 ![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
-A retrospective is a meeting at the end of a <a href="http://gsdm.herokuapp.com/agile/featuresofagile.html">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
+A retrospective is a meeting at the end of a <a href="/agile/featuresofagile.html">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
 
 A retrospective takes the following form:
 
@@ -34,7 +34,7 @@ A retrospective should be a chance for everyone in the team to contribute to imp
 {:.left}
 ![A retrospective plan](/assets/images/planning_retro.jpg)
 
-All retrospectives must be facilitated. The facilitator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential. 
+All retrospectives must be facilitated. The facilitator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential.
 
 The facilitator needs to:
 
@@ -46,7 +46,7 @@ The facilitator needs to:
 
 ## Working agreements
 
-It is helpful to have some working agreements. These can be stated if necessary, for example in the first retrospectives a team has held. 
+It is helpful to have some working agreements. These can be stated if necessary, for example in the first retrospectives a team has held.
 
 Working agreements might include:
 
@@ -87,7 +87,7 @@ Explaining the scope, and if necessary, purpose. If the team don't know each oth
 
 ### 00:05 to 00:10 (5 mins) Actions from the previous retrospective
 
-Make sure they have been completed. If not, find out why not. Do they still need to be done? If so, why have they not been? Set a new deadline if necessary, but it's not ideal to keep carrying actions over. 
+Make sure they have been completed. If not, find out why not. Do they still need to be done? If so, why have they not been? Set a new deadline if necessary, but it's not ideal to keep carrying actions over.
 
 {:.left}
 ![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
@@ -98,7 +98,7 @@ Give the team around 10 minutes to write on post-its all the things that went we
 
 ### 00:20 to 00:30 (10 mins) Discussion
 
-Group the post-its into common themes and discuss each of the main areas in turn. If there are too many, have the team prioritise, for example by voting with stickers. 
+Group the post-its into common themes and discuss each of the main areas in turn. If there are too many, have the team prioritise, for example by voting with stickers.
 
 What should we keep doing? Why did those things go well and what can we learn? Are there any actions we can draw out?
 
