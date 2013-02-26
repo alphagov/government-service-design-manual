@@ -32,9 +32,9 @@ It should not be possible to bypass start pages via links or search engine resul
 
 Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates. 
 
-Transactions started will be defined as the number proceeding through the process from the start page. Transactions completed is the number of referrals to the end page.
+A transaction is considered to have started only when the user proceeds from the start page. A user then has to reach the end page before the transaction is counted as complete. 
 
-This data will be shared with service managers.
+Data on the number of started and completed transactions will be shared with service owners.
 
 ![Completion rate](/assets/images/measuring-completion-rates.png)
 
