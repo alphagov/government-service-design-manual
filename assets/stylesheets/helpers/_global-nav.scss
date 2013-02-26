@@ -136,19 +136,28 @@ $highlight-colour: $black;
   }
 
   .home {
-  a {
-  position: relative;
-    small{
-      position: absolute;
-      top: 0.8em;
-      text-transform: uppercase;
-      color: white;
-      -webkit-font-smoothing: subpixel-antialiased;
-      background: #d53880;
-      padding: 2px 5px 0;
-      margin-left: 10px;
+    a {
+      position: relative;
+      small {
+        position: absolute;
+        top: 0.8em;
+        text-transform: uppercase;
+        color: white;
+        -webkit-font-smoothing: subpixel-antialiased;
+        background-color: $panel-colour;
+
+        padding: 2px 5px 0;
+        margin-left: 10px;
+
+        &.alpha {
+          background-color: $alpha-colour;
+        }
+
+        &.beta {
+          background-color: $beta-colour;
+        }
+      }
     }
   }
-}
 
 }
