@@ -5,8 +5,8 @@ section: guidance
 subsection: KPIs
 status: draft
 ---
-    
-Cost per transaction is a measure of the total cost to the government of providing each completed transaction. 
+
+Cost per transaction is a measure of the total cost to the government of providing each completed transaction.
 
 ## Why measure cost per transaction
 
@@ -16,7 +16,7 @@ The cost per transaction for delivering services through specific delivery chann
 
 ## How to measure cost per transaction
 
-The *average* cost per transaction is calculated as the total cost of providing the service divided by the total number of completed transactions. 
+The *average* cost per transaction is calculated as the total cost of providing the service divided by the total number of completed transactions.
 
 Where resources (eg call centres) are shared with other services, costs should be apportioned. For example, if half of all calls received relate to a specific service, then 50% of the call centre costs should be apportioned to that service.
 
@@ -24,7 +24,7 @@ The total cost includes all fixed and variable costs of the transaction through 
 
 ## Cost per digital transaction
 
-The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](assisted-digital/index.html) users.
+The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](/assisted-digital/index.html) users.
 
 Where processes and costs are common to more than one channel (e.g. processing wet signatures for passports, or printing driving licences), they should be apportioned. For example, if half of all transactions are completed digitally, then 50% of the common costs should be apportioned to the digital channel.
 
@@ -87,7 +87,7 @@ Cost per transaction should be measured for the existing service - if there is o
 
 ### Worked example - DVLA
 
-This worked example sets out the DVLA methodology used to calculate unit costs, and shows how this has generated a historic and future profile for vehicle licensing transactions and unit costs. The timeline runs from the inception of the electronic licensing channel as this provides a useful example of a multi-channel service. DVLA 
+This worked example sets out the DVLA methodology used to calculate unit costs, and shows how this has generated a historic and future profile for vehicle licensing transactions and unit costs. The timeline runs from the inception of the electronic licensing channel as this provides a useful example of a multi-channel service. DVLA
 
 ### Costing Methodology
 
@@ -103,4 +103,4 @@ Detailed assumptions are maintained that underpin each of the expense heads, the
 
 There are currently three channels through which the user interacts with the DVLA to license a vehicle – the intermediary Post Office; the Local Services Network; and via the Electronic Vehicle Licensing channel.
 
-Prior to 2004 all licensing activity was processed through the Post Office (DVLA intermediary) with a low and static number of complex transactions via DVLA Local Services Network. The overall volume of licensing transactions is itself fairly stable with perhaps a 2% increase in total volume every 5 years. Following the introduction of the electronic channel there has been a steady increase to date in usage which is forecast to continue beyond 2013/14. The corresponding effect of this is a decrease in Post 
+Prior to 2004 all licensing activity was processed through the Post Office (DVLA intermediary) with a low and static number of complex transactions via DVLA Local Services Network. The overall volume of licensing transactions is itself fairly stable with perhaps a 2% increase in total volume every 5 years. Following the introduction of the electronic channel there has been a steady increase to date in usage which is forecast to continue beyond 2013/14. The corresponding effect of this is a decrease in Post
