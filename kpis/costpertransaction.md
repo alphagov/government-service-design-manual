@@ -18,9 +18,9 @@ The difference in the transaction costs through each available channel can also 
 
 The *average* cost per transaction is calculated as the total cost of providing the service divided by the total number of completed transactions.
 
-Where resources (eg call centres) are shared with other services, costs should be apportioned. For example, if half of all calls received relate to a specific service, then 50% of the call centre costs should be apportioned to that service.
-
 The total cost includes all fixed and variable costs of the transaction through a given channel, including overheads. It does not include start up costs.
+
+Where resources (eg call centres) are shared with other services, costs should be apportioned. For example, if half of all calls received relate to a specific service, then 50% of the call centre costs should be apportioned to that service.
 
 ## Cost per digital transaction
 
