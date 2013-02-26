@@ -60,7 +60,7 @@ The following should be excluded:
 
 ## How to calculate your cost per transaction target
 
-The following formula will provide a sensible goal but assumes a constant digital cost per transaction.
+Having agreed a goal for your digital take-up, the following formula will provide a starting point for discussions with GDS on your overall cost per transaction.
 
 goal for cost per transaction (CPT)
 
@@ -74,8 +74,6 @@ digital take-up goal (Y)
 e.g. if the current average CPT is £2 and digital CPT is 50p, and if current digital take-up is 40% and the target is 80%, the target for average CPT would be £1.
 
 GDS are are very happy to calculate this for you based on current figures.
-
-This should be seen as the starting point for a conversation with GDS to agree a five year cost per transaction goal.
 
 ## How frequently should I measure cost per transaction?
 
