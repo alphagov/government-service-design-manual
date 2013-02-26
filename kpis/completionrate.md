@@ -69,7 +69,7 @@ In order to successfully measure your service completion rate we recommend follo
 
 ### Guidance/Tool
 
-Inception
+Discovery
 
 * Ensure all transaction pages have unique URLs
 * Develop a plan to measure completion rate throughout product development
