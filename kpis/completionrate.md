@@ -36,7 +36,7 @@ Transactions started will be defined as the number proceeding through the proces
 
 This data will be shared with service managers.
 
-[IMAGE TO BE ADDED]
+![Completion rate](/assets/images/measuring-completion-rates.png)
 
 ### Drop-outs
 
