@@ -20,7 +20,7 @@ There are many examples of best practice style guides already in place. For exam
 
 ### GDS Example
 
-The [GDS Performance Platform](www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](https://www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](https://www.gov.uk) visualisations are designed to stand out from the crowd.
+The [GDS Performance Platform](https://www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](https://www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](https://www.gov.uk) visualisations are designed to stand out from the crowd.
 ![Graph Image](http://alphagov.files.wordpress.com/2012/10/rounded_corner_style.jpeg?w=300)
 
 ### Contents
