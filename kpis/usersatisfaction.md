@@ -6,7 +6,7 @@ subsection: KPIs
 status: draft
 ---
 
-Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
+Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
 
 >Overall, how satisfied were you with this [eg car tax] service today?
 
