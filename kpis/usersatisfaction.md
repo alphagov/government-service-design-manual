@@ -8,7 +8,7 @@ status: draft
 
 Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
 
->Overall, how satisfied are you with your visit to the online [eg car tax] service today?
+>Overall, how satisfied were you with this [eg car tax] service today?
 
 > A:
 > Very satisfied
