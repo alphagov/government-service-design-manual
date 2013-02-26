@@ -15,6 +15,11 @@ important. The Government Information Security community and processes
 exist to help service managers both meet their obligations to those
 processess, and more importantly to help build world class services.
 
+The assurance and accreditation processes exist to provide a structure for those
+activities with a shared language to allow risks, mitigations (and opportunities)
+to be clearly understood by everyone throughout the organisation delivering
+a service.
+
 The important thing to note about building trustworthy and secure systems is
 that it's a team game. Assurance and accreditation should not be a completely
 separate strand of work, or seen as a hurdle to be got over (or around). Only
