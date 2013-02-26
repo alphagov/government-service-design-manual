@@ -11,6 +11,8 @@ theme: understanding-your-audience
 status: draft
 ---
 
+User needs are at the heart of all Digital by Default services, and to meet them you will need to test your services and assumptions with real users.
+
 ## User needs
 
 The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a Digital by Default service.

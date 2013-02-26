@@ -9,9 +9,9 @@ We would love to get feedback on your experiences of using this site.
 
 ## Get in touch
 
-Please send us your thoughts: [dbd-team@digital.cabinet-office.gov.uk](mailto:dbd-team@digital.cabinet-office.gov.uk)
+Please send us your thoughts: [dbdss@digital.cabinet-office.gov.uk](mailto:dbdss@digital.cabinet-office.gov.uk)
 
-We'll use your feedback to help improve this tool. 
+We'll use your feedback to help improve this tool.
 
 ### Guiding Questions
 
