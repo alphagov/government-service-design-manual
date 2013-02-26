@@ -17,7 +17,7 @@ You may want to read: [how users read](howusersread.html) this will tell you mor
 
 ##Guidance
 
-All services should follow the [GOV.UK style guide](writing-for-govuk/styleguide.html).
+All services should follow the [GOV.UK style guide](/writing-for-govuk/styleguide.html).
 The way we talk to users is the same on all [GOV.UK](https://www.gov.uk) products. The only difference is the format.
 
 ###Introductions
@@ -86,4 +86,4 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 ##Further reading
 [How users read](howusersread.html)
-[Style guide](writing-for-govuk/styleguide.html)
+[Style guide](/writing-for-govuk/styleguide.html)
