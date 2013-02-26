@@ -73,17 +73,6 @@
     }
   }
 
-  // Links to role index pages
-  .roles{
-    @include regular-grid(3);
-    a{
-      display: block;
-      padding: 0.5em 0;
-      border-top: 3px solid $main-colour;
-      font-size: 16px;
-    }
-  }
-
   .article-container {
     .inner {
       margin: 0;
