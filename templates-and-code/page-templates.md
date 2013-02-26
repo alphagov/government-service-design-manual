@@ -30,7 +30,7 @@ GOV.UK logo and the search box. This element is mandatory and should not be adde
 {:.left}
 ![Image of GOV>UK logo](/assets/images/page-template-elements/logo.png)
 
-This must always link back to the [GOV.UK home page](http://gov.uk).
+This must always link back to the [GOV.UK home page](https://www.gov.uk).
 
 ### Search box
 
@@ -42,7 +42,7 @@ search on the whole of GOV.UK. If your service is to be hosted in the same
 environment as GOV.UK the default template code will do this.
 
 If your service is to be hosted in a different environment you'll need to change
-the action attribute of the form as follows: `action="http://gov.uk/search"`.
+the action attribute of the form as follows: `action="https://www.gov.uk/search"`.
 
 In some cases we might decide that the scope of the search should be reduced to
 just pages from your service. In these cases the scope should be clearly

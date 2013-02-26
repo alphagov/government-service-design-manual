@@ -10,7 +10,7 @@ status: draft
 ---
 
 
-This short guide tells you what to keep in mind when including cookies into your services, and how and why we notify users about cookies on [GOV.UK](http://www.gov.uk).
+This short guide tells you what to keep in mind when including cookies into your services, and how and why we notify users about cookies on [GOV.UK](https://www.gov.uk).
 
 ##Using Cookies
 
@@ -27,7 +27,7 @@ That link will take users to the cookies page, and the appropriate description o
 
 ##Cookie warnings
 
-Whenever a user visits [GOV.UK](http://www.gov.uk) for the first time we notify them on our use of cookies using this message:
+Whenever a user visits [GOV.UK](https://www.gov.uk) for the first time we notify them on our use of cookies using this message:
 
 "GOV.UK uses cookies to make the site simpler. [Find out more about cookies](https://www.gov.uk/support/cookies)
 
@@ -56,7 +56,7 @@ The [GOV.UK](https://www.gov.uk) cookies policy does not cover 3rd party transac
 
 New and redesigned services will be expected to notify users that cookies are being set beforehand, using a 'sets a cookie' line of text near the action that triggers the cookie (this text should be linked to the appropriate part of the cookie information page).  You can see an example of how that works on GOV.UK [here](https://www.gov.uk/dvla-offices).
 
-Where a user can't be notified before the cookie is set (i.e. if it's set when the user first visits the service using implied consent), the service should use a banner similar to that on [GOV.UK](http://www.gov.uk) to inform people that this is the case and link them to the further information.
+Where a user can't be notified before the cookie is set (i.e. if it's set when the user first visits the service using implied consent), the service should use a banner similar to that on [GOV.UK](https://www.gov.uk) to inform people that this is the case and link them to the further information.
 
 ##Why we do this
 This policy is in line with EU Law and was devised following extensive research during the beta of [GOV.UK](https://www.gov.uk). It follows the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
@@ -65,5 +65,5 @@ This policy is in line with EU Law and was devised following extensive research 
 ##Further reading
 [The ICO's latest guidance](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx)
 
-This [blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](http://www.gov.uk).
+This [blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](https://www.gov.uk).
 

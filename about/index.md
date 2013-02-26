@@ -14,7 +14,7 @@ Remember, this site is currently a prototype. We are continuing to work on the c
 
 The Digital by Default Service Standard has been designed to achieve two things. Consistently excellent digital government services. And teams across Government capable of designing, building and running them.
 
-The [Digital by Default service standard](/digital-by-default) is a list of criteria that services and teams must meet before they go live, and are linked to from [GOV.UK](http://www.gov.uk). The final list is currently under discussion, but this page gives you a sense of what’s currently being considered. We will publish the Standard in April 2013.
+The [Digital by Default service standard](/digital-by-default) is a list of criteria that services and teams must meet before they go live, and are linked to from [GOV.UK](https://www.gov.uk). The final list is currently under discussion, but this page gives you a sense of what’s currently being considered. We will publish the Standard in April 2013.
 
 Creating a service standard was [one of the actions set out in the Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/#initial-outline-of-proposed-digital-by-default-transactional-service-standard). It will include things like basing development around user needs, repeatedly iterating a service based on feedback, and making plans to meet key performance indicators.
 
