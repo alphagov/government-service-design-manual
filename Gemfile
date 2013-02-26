@@ -10,7 +10,7 @@ gem "rack-rewrite"
 gem 'thin'
 gem 'foreman'
 gem 'kramdown'
-gem 'jekyll-sass', path: '../jekyll-sass'
+gem 'jekyll-sass', git: 'git@github.com:alextea/jekyll-sass.git'
 
 group :assets do
   gem "govuk_frontend_toolkit", "0.12.3"
