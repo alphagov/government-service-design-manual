@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:alextea/jekyll-sass.git
+  remote: https://github.com/alextea/jekyll-sass.git
   revision: ca582a45051f5e6412fe61939d0810376a8fc93d
   specs:
     jekyll-sass (1.1.0)
