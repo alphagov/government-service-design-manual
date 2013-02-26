@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: phases
 title: Discovery, Alpha, Beta, Live
 subtitle: The four phases of service develpment
 section: guidance
@@ -29,20 +29,28 @@ A small team will be required and the phase should not take longer than a week. 
 
 ### Typical outputs and activities
 
-<img class="output" src="/assets/images/pictograms/backlog.png" /> 
-List of user needs
-
-<img class="output" src="/assets/images/pictograms/user-needs.png" />
-User personas
-
-<img class="output" src="/assets/images/pictograms/prototype.png" /> 
-Rough wireframes
-
-<img class="output" src="/assets/images/pictograms/discussion.png" />
-Stakeholder interviews
-
-<img class="output" src="/assets/images/pictograms/discovery-small.png" />
-Team size
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/assets/images/pictograms/backlog.png" /> 
+    List of user needs
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/user-needs.png" />
+    User personas
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/prototype.png" /> 
+    Rough wireframes
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    Stakeholder interviews
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/discovery-small.png" />
+    Team size
+  </li>
+</ul>
 
 ### Skills and experience required
 
@@ -66,23 +74,32 @@ You may need to bring more developers and designers into the team, but the whole
 
 ### Typical outputs and activities
 
-<img class="output" src="/assets/images/pictograms/backlog.png" />
-User story backlog
-
-<img class="output" src="/assets/images/pictograms/design-and-build.png" />
-Design and build
-
-<img class="output" src="/assets/images/pictograms/prototype.png" />
-Working prototype
-
-<img class="output" src="/assets/images/pictograms/presentation.png" />
-Show and tell
-
-<img class="output" src="/assets/images/pictograms/discussion.png" />
-Retrospective
-
-<img class="output" src="/assets/images/pictograms/alpha-medium.png" />
-Team size
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/assets/images/pictograms/backlog.png" />
+    User story backlog
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+    Design and build
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/prototype.png" />
+    Working prototype
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/presentation.png" />
+    Show and tell
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    Retrospective
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/alpha-medium.png" />
+    Team size
+  </li>
+</ul>
 
 ### Skills and experience required
 
@@ -108,23 +125,32 @@ You will now know what size team you need to deliver the service. The Beta phase
 
 ### Typical outputs and activities
 
-<img class="output" src="/assets/images/pictograms/backlog.png" />
-User story backlog
-
-<img class="output" src="/assets/images/pictograms/design-and-build.png" />
-Design and build
-
-<img class="output" src="/assets/images/pictograms/prototype.png" />
-Working service
-
-<img class="output" src="/assets/images/pictograms/presentation.png" />
-Show and tell
-
-<img class="output" src="/assets/images/pictograms/discussion.png" />
-Retrospective
-
-<img class="output" src="/assets/images/pictograms/beta-large.png" />
-Team size
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/assets/images/pictograms/backlog.png" />
+    User story backlog
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+    Design and build
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/prototype.png" />
+    Working service
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/presentation.png" />
+    Show and tell
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    Retrospective
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/beta-large.png" />
+    Team size
+  </li>
+</ul>
 
 ### Skills and experience required
 
@@ -149,14 +175,20 @@ The team may need to be reconfigured to reflect the operational requirements of 
 
 ### Typical outputs and activities
 
-<img class="output" src="/assets/images/pictograms/website.png" />
-Live service
-
-<img class="output" src="/assets/images/pictograms/discussion.png" />
-User feedback
-
-<img class="output" src="/assets/images/pictograms/live-larger.png" />
-Team size
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/assets/images/pictograms/website.png" />
+    Live service
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    User feedback
+  </li>
+  <li>
+    <img class="output" src="/assets/images/pictograms/live-larger.png" />
+    Team size
+  </li>
+</ul>
 
 ### Skills and experience required
 
