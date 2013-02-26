@@ -29,9 +29,9 @@ GOV.UK will provide a user satisfaction survey at the end of your service and ma
 
 ## What happens if a user exits the transaction mid way through?
 
-You should measure all user journeys through your transaction to understand drop off points. GDS will provide dropout survey if they fail to complete a transaction. 
+You should measure all user journeys through your transaction to understand drop off points. 
 
-This survey will collect further qualitative data For example: ‘Please tell us why are you unable to complete this transaction.’ 
+If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example: ‘Please tell us why are you unable to complete this transaction.’ 
 
 Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop of points and find ways to improve transactions.
 
@@ -50,7 +50,7 @@ Alpha
 
 Beta
 
-* Measure user satisfaction via remote usability testing and/or satisfaction survey
+* Measure user satisfaction via remote usability testing and/or satisfaction survey 
 * Identify why people are dissatisfied or not completing transactions and take steps to improve
 
 Live
@@ -65,7 +65,7 @@ A exit survey will be run continuously on your service, and report satisfaction 
 
 You should also carry out a more comprehensive user satisfaction survey every six months.
 
-You could also consider doing a drivers analysis of the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
+You could consider doing a drivers analysis of the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
 
 ## Further reading
 [Survey design](users/surveydesign.html)
