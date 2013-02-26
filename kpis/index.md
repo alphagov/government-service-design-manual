@@ -12,7 +12,7 @@ status: draft
 assets: local
 ---
 
-The [Digital by Default standard](digital-by-default.html) sets four Key Performance Indicators (KPIs) to measure the success of your service: cost per transaction, customer satisfaction, completion rate and digital take-up.
+The [Digital by Default standard](digital-by-default.html) sets four Key Performance Indicators (KPIs) to measure the success of your service: cost per transaction, user satisfaction, completion rate and digital take-up.
 
 For each KPI you will work with GDS to set a sensible goal and interim milestones on the way towards meeting them. 
 
@@ -22,7 +22,7 @@ Once live, service performance will be monitored and displayed on the [Performan
 Understand more about how to define, measure and implement the KPIs:
 
 * [cost per transaction](costpertransaction.html)
-* [customer satisfaction](customersatisfaction.html)
+* [user satisfaction](usersatisfaction.html)
 * [completion rate](completionrate.html)
 * [digital take-up](digital-takeup.html)
 
