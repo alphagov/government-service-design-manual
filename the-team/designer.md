@@ -12,11 +12,11 @@ theme: agile
 status: draft
 assets: local
 ---
-    
+
 Design of the service is everyone's responsibility. Those with the title of designer may have a particular focus on one or more specific design disciplines - interaction, graphic – but a good digital service needs needs talented, flexible designers to help build user-centred products.
 
 ## How designers work
-Designers and front-end developers should work together in one team, designing in-browser. This is a better way of working, avoiding silos and ensuring that decisions are made with complete awareness of the implications. 
+Designers and front-end developers should work together in one team, designing in-browser. This is a better way of working, avoiding silos and ensuring that decisions are made with complete awareness of the implications.
 
 As a result, the people you hire should already have worked like this, or at least understand it.
 
@@ -30,4 +30,4 @@ When building a team ask to see examples of work and ask the designers to talk y
 [Mid weight Front-end developer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1Aa3mZn3131Y7byIykLftOhmIoCUe4u--faWFBJQkFqM/edit)
 
 ##Further reading
-[Specific guidance for designers working on Digital by default services](http://gsdm.herokuapp.com/designers).
+[Specific guidance for designers working on Digital by default services](/designers).
