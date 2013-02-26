@@ -72,7 +72,7 @@ Having agreed a goal for your digital take-up, the following formula will provid
 
 e.g. if the current average CPT is £2 and digital CPT is 50p, and if current digital take-up is 40% and the target is 80%, the target for average CPT would be £1.
 
-GDS are are very happy to calculate this for you based on current figures.
+GDS can calculate this for you based on current figures.
 
 ## How frequently should I measure cost per transaction?
 
