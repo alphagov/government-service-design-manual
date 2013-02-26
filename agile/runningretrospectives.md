@@ -125,7 +125,7 @@ By having a retrospective regularly, we can make small improvements often, ideal
 
 
 ##Further reading
-The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tips" target="_blank">tips for running a retrospective</a>, <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans" target="_blank">plans for different types of retrospectives</a> and <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Tools" target="_blank">individual exercises that can be used as part of a retrospective</a>.
+The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans" target="_blank">plans for different types of retrospectives</a>.
 
 This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives" target="_blank">Agile Retrospectives: Making Good Teams Great</a>.
 
