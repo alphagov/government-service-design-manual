@@ -62,12 +62,11 @@ The following should be excluded:
 
 Having agreed a goal for your digital take-up, the following formula will provide a starting point for discussions with GDS on your overall cost per transaction.
 
-goal for cost per transaction (CPT)
-
-current overall cost per transaction (A)
-current digital cost per transaction (B)
-current digital take-up (X)
-digital take-up goal (Y)
+* goal for cost per transaction (CPT)
+* current overall cost per transaction (A)
+* current digital cost per transaction (B)
+* current digital take-up (X)
+* digital take-up goal (Y)
 
 > CPT=A+((B-A)/(1-X))*(Y-X)
 
