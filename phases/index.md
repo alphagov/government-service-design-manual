@@ -29,13 +29,13 @@ A small team will be required and the phase should not take longer than a week. 
 
 ### Typical outputs and activities
 
-<img class="output" src="/assets/images/pictograms/backlog.png" />
+<img class="output" src="/assets/images/pictograms/backlog.png" /> 
 List of user needs
 
 <img class="output" src="/assets/images/pictograms/user-needs.png" />
 User personas
 
-<img class="output" src="/assets/images/pictograms/prototype.png" />
+<img class="output" src="/assets/images/pictograms/prototype.png" /> 
 Rough wireframes
 
 <img class="output" src="/assets/images/pictograms/discussion.png" />

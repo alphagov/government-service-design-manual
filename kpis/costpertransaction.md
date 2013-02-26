@@ -60,36 +60,33 @@ The following should be excluded:
 
 ## How to calculate your cost per transaction target
 
-The following formula will provide a sensible goal but assumes a constant digital cost per transaction.
+Having agreed a goal for your digital take-up, the following formula will provide a starting point for discussions with GDS on your overall cost per transaction.
 
-goal for cost per transaction (CPT)
-
-current overall cost per transaction (A)
-current digital cost per transaction (B)
-current digital take-up (X)
-digital take-up goal (Y)
+* goal for cost per transaction (CPT)
+* current overall cost per transaction (A)
+* current digital cost per transaction (B)
+* current digital take-up (X)
+* digital take-up goal (Y)
 
 > CPT=A+((B-A)/(1-X))*(Y-X)
 
 e.g. if the current average CPT is £2 and digital CPT is 50p, and if current digital take-up is 40% and the target is 80%, the target for average CPT would be £1.
 
-GDS are are very happy to calculate this for you based on current figures.
-
-This should be seen as the starting point for a conversation with GDS to agree a five year cost per transaction goal.
+GDS can calculate this for you based on current figures.
 
 ## How frequently should I measure cost per transaction?
 
 Cost per transaction is measured on a quarterly basis. It should cover the last twelve months to eliminate seasonal fluctuations.
 
-Cost per transaction should be measured for the existing service - if there is one - to create a baseline against which future cost per transaction can be compared. This should be done continually on a quarterly basis and reported to GDS. When the digital service is exposed to real users (whether in alpha or beta) it should be included in the reported cost per transaction.
+Cost per transaction should be measured for the existing service - if there is one - to create a baseline against which future cost per transaction can be compared. When the digital service is exposed to real users (whether in alpha or beta) it should be included in the reported cost per transaction.
 
-## Reporting Cost Per Transaction
+## Reporting cost per transaction
 
 ### Worked example - DVLA
 
-This worked example sets out the DVLA methodology used to calculate unit costs, and shows how this has generated a historic and future profile for vehicle licensing transactions and unit costs. The timeline runs from the inception of the electronic licensing channel as this provides a useful example of a multi-channel service. DVLA
+This worked example sets out the DVLA methodology used to calculate unit costs, and shows how this has generated a historic and future profile for vehicle licensing transactions and unit costs. The timeline runs from the inception of the electronic licensing channel as this provides a useful example of a multi-channel service.
 
-### Costing Methodology
+### Costing methodology
 
 The first consideration should be the purpose and use of the cost. An internal recharging model will be more concerned with the direct costs of the service, whereas an external cost recovery model will need to consider overhead apportionment and other forms of contribution.
 
@@ -99,8 +96,8 @@ In many cases, the unit cost is made up of a combination of fixed and variable e
 
 In establishing the unit costs of the licensing service via the various channels all relevant costs (as outlined above) are collated to give overall totals and these overall totals are then divided by the actual, or where applicable, the forecast transaction volumes.
 
-Detailed assumptions are maintained that underpin each of the expense heads, their relevance to the transaction and any adjustments that have been made. Version control is key in order to provide an audit trail. DVLA Licensing transactions since the inception of electronic channels (EVL)
+Detailed assumptions are maintained that underpin each of the expense heads, their relevance to the transaction and any adjustments that have been made. Version control is key in order to provide an audit trail. DVLA Licensing transactions since the inception of electronic channels (EVL).
 
 There are currently three channels through which the user interacts with the DVLA to license a vehicle – the intermediary Post Office; the Local Services Network; and via the Electronic Vehicle Licensing channel.
 
-Prior to 2004 all licensing activity was processed through the Post Office (DVLA intermediary) with a low and static number of complex transactions via DVLA Local Services Network. The overall volume of licensing transactions is itself fairly stable with perhaps a 2% increase in total volume every 5 years. Following the introduction of the electronic channel there has been a steady increase to date in usage which is forecast to continue beyond 2013/14. The corresponding effect of this is a decrease in Post
+Prior to 2004 all licensing activity was processed through the Post Office (DVLA intermediary) with a low and static number of complex transactions via DVLA Local Services Network. The overall volume of licensing transactions is itself fairly stable with perhaps a 2% increase in total volume every 5 years. Following the introduction of the electronic channel there has been a steady increase to date in usage which is forecast to continue beyond 2013/14. The corresponding effect of this is a decrease in post.
