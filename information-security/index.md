@@ -26,7 +26,7 @@ separate strand of work, or seen as a hurdle to be got over (or around). Only
 by engaging with risk and making decisions based on a range of expert opinion
 will you end up with the best product.
 
-The following uses quite a lot of acronyms. Unforunately these are in common
+The following uses quite a lot of acronyms. Unfortunately these are in common
 usage and it's very hard to engage with the existing documentation and
 processes without speaking the lingo. All the acronymns should be explained
 before being used.
