@@ -34,7 +34,7 @@ Agile teams are multidisciplinary, meet regularly, and often work close together
 
 What does an effective team look like? What skills are typically needed to deliver great digital services, and how are they structured?
 
-[Read more >](whatateamlookslike.html)
+[Read more >](/the-team/whatateamlookslike.html)
 
 
 ## The skills your team will need
