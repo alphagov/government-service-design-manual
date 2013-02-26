@@ -8,7 +8,7 @@ status: draft
 
 Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
 
->Overall, how satisfied are you with your visit to the online [eg car tax] service today?
+>Overall, how satisfied were you with this [eg car tax] service today?
 
 > A:
 > Very satisfied
@@ -25,7 +25,7 @@ Many government transactions are mandatory and therefore not inherently enjoyabl
 
 Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
 
-## How to Measure User Satisfaction
+## How to measure user satisfaction
 
 GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
 

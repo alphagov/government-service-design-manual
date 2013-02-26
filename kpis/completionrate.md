@@ -19,7 +19,8 @@ Measuring end-to-end completion rates helps identify whether users have problems
 ## How to measure completion rate
 
 The end-to-end completion rate can be calculated as the number of completed transactions divided by the number of started transactions; it is expressed as a percentage. 
-Before the transaction starts
+
+### Before the transaction starts
 
 Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction has started.  They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce dropouts later in the transaction.
 
