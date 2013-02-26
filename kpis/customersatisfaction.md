@@ -25,7 +25,7 @@ Asking users how satisfied they are with a service can provide a measure of all 
 
 ## How to Measure User Satisfaction
 
-GOV.UK will provide a user satisfaction survey at the end of service and feed the results into the performance platform. 
+GOV.UK will provide a user satisfaction survey at the end of your service and make this data available. 
 
 ## What happens if a user exits the transaction mid way through?
 
