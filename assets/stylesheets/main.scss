@@ -3,14 +3,30 @@
 //
 
 // From the toolkit
-@import "colours";
-@import "typography";
-@import "conditionals";
-@import "shims";
+@import "_colours";
+@import "_css3";
+@import "_typography";
+@import "_conditionals";
+@import "_shims";
 
 // Styleguide
 @import "styleguide/_colours.scss";
 @import "styleguide/_dimensions.scss";
+
+@import "design-patterns/_regular-grid.scss";
+@import "design-patterns/_utils.scss";
+@import "design-patterns/_panels.scss";
+@import "design-patterns/_accordion-form.scss";
+@import "design-patterns/_account-management-tools.scss";
+@import "design-patterns/_buttons.scss";
+@import "design-patterns/_forms.scss";
+@import "design-patterns/_from-dept.scss";
+@import "design-patterns/_popups.scss";
+@import "design-patterns/_help-popup.scss";
+@import "design-patterns/_panels.scss";
+@import "design-patterns/_progress-indicator.scss";
+@import "design-patterns/_regular-grid.scss";
+@import "design-patterns/_show-hide.scss";
 
 // Helpers
 @import "helpers/_breadcrumbs.scss";
@@ -24,17 +40,30 @@
 @import "helpers/_tooltip.scss";
 
 // Views
-@import "views/default.scss";
+@import "views/_default.scss";
 
-@import "views/category-index.scss";
-@import "views/colours.scss";
-@import "views/design-patterns.scss";
-@import "views/detailed-guidance.scss";
-@import "views/home-page.scss";
-@import "views/icons.scss";
-@import "views/phases.scss";
-@import "views/role-index.scss";
-@import "views/standard.scss";
+@import "views/_category-index.scss";
+@import "views/_colours.scss";
+@import "views/_design-patterns.scss";
+@import "views/_detailed-guidance.scss";
+@import "views/_home-page.scss";
+@import "views/_icons.scss";
+@import "views/_phases.scss";
+@import "views/_role-index.scss";
+@import "views/_standard.scss";
+
+@import "views/_accordion-form.scss";
+@import "views/_buttons.scss";
+@import "views/_colours.scss";
+@import "views/_emphasised-form-controls.scss";
+@import "views/_forms.scss";
+@import "views/_hidden-form-controls.scss";
+@import "views/_icons.scss";
+@import "views/_panels.scss";
+@import "views/_progress-indicator.scss";
+@import "views/_regular-grid.scss";
+@import "views/_show-hide.scss";
+
 
 // Layouts
 @import "layouts/gsdm.scss";
