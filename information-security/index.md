@@ -36,7 +36,7 @@ before being used.
 ### Roles
 
 It's important to understand the different roles involved within the process
-detailed below. One of the first things you should do on your project is to 
+detailed below. One of the first things you should do on your project is to
 establish who plays each of these roles. Note that all of them require formal
 training and specialist skills.
 
@@ -68,7 +68,7 @@ they are numbers between 0 and 6 for each of the three following critera:
 * Integrity - the potential impact if the accuracy or completeness of the information is compromised,
 * Availability - the potential impact if the information becomes inaccessible.
 
-More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/.../business_impact_tables.pdf).
+More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
 
 ### Agile Design
 
@@ -154,4 +154,4 @@ professionals, have made careful decisions about how to deal with them.
 
 * [HMG IA Standard No. 1 - Technical Risk Assesment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf)
 * [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/)
-* [Business Impact Level Tables](www.cesg.gov.uk/publications/.../business_impact_tables.pdf)
+* [Business Impact Level Tables](www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
