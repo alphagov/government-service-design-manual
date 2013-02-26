@@ -53,4 +53,4 @@ The following technique may be useful when conducting user research
 
 As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results ina  useful format.
 
-[Learn how to write user research briefs](userresearchbriefs.html)
+[Learn how to write user research briefs](/users/userresearchbriefs.html)
