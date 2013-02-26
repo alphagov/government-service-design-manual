@@ -25,7 +25,7 @@ Many government transactions are mandatory and therefore not inherently enjoyabl
 
 Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
 
-## How to Measure User Satisfaction
+## How to measure user satisfaction
 
 GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
 
