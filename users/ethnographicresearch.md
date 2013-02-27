@@ -46,4 +46,4 @@ Ethnographic research can be expensive and time consuming, but this depends on t
 
 ##GDS example
  
-Ethnographic techniques were used in the recent Digital Landscape research in order to understand how why some people choose not to conduct government transactions online
+Ethnographic techniques were used in the recent Digital Landscape research in order to understand why some people choose not to conduct government transactions online
