@@ -19,7 +19,7 @@ Heuristic evaluations and/or expert reviews are discount (low cost) usability me
 
 For heuristic evaluations, ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager.  A list of widely accepted (although not necessarily validated) heuristics are provided by Jakob Nielsen (www.useit.com) or an alternative set can be found in the International Standard ISO 9241.
 
-A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).  This method starts with identifying the user goals, then conducting a task analysis to specify the sequence of steps or actions required to achieve each task.  The usability expert, along with designers and developers, then walk through these identified steps to assess the extent to which a user can achieve their goal.
+A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).  This method starts with identifying the user goals, then conducting a task analysis to specify the sequence of steps or actions required to achieve each task.  The usability expert, along with designers and developers, then walks through these identified steps to assess the extent to which a user can achieve their goal.
 
 ##Where/how you might use it
 
@@ -29,7 +29,7 @@ Some agencies conduct expert reviews as the first step of all usability projects
 
 ##Weaknesses/when not to use
 
-The fundamental weakness of any expert review is that it doesn’t involve use by real end users.  Some people or stakeholders may therefore consider this to be purely opinion, but input from an experienced usability expert is better than no user testing at all.
+The fundamental weakness of any expert review is that it doesn’t involve use by real end users.  Some people may therefore consider this to be purely opinion, but input from an experienced usability expert is better than no user testing at all.
 
 ##No./Types of participants
 None are involved.  Ideally two usability experts are involved in the review.
