@@ -53,6 +53,6 @@ The following technique may be useful when conducting user research
 
 ## User research briefs
 
-As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results ina  useful format.
+As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results in a useful format.
 
 [Learn how to write user research briefs](/users/userresearchbriefs.html)
