@@ -2,12 +2,11 @@
 layout: detailed-guidance
 title: Developers
 subtitle: What developers do and what to look for
-section: guidance
+section: 
 subsection: Building a team
 type: guide
 audience:
-  primary: service manager
-  secondary: developer
+  primary: 
 theme: Getting started
 status: draft
 assets: local

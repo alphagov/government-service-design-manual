@@ -2,12 +2,11 @@
 layout: detailed-guidance
 title: Designers
 subtitle: What designers do and what to look for
-section: guidance
+section: 
 subsection: Building a team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary: 
 theme: agile
 status: draft
 assets: local
