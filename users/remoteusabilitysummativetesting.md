@@ -18,7 +18,7 @@ This guidance talks about how remote usability testing can be used to provide us
 
 Remote usability testing takes place outside the lab with users participating in their own home, using their own computers, and with no third party moderator present.
 
-While traditional lab testing focuses of gathering rich and detailed information, remote usability testing aims to test wilth large numbers of users and produce statistically significant results. It is recommended that remote testing is not conducted in isolation, and face to face testing is also completed.
+While traditional lab testing focuses of gathering rich and detailed information, remote usability testing aims to test with large numbers of users and produce statistically significant results. It is recommended that remote testing is not conducted in isolation, and face to face testing is also completed.
 
 As there is no moderator present, special software is used in order to record the user’s interactions with the website/online service.
 
