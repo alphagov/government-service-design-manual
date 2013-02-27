@@ -2,12 +2,11 @@
 layout: detailed-guidance
 title: Analytics skills
 subtitle: Understanding user data
-section: guidance
+section: 
 subsection: Building a team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary: 
 theme: Getting started
 status: draft
 assets: local

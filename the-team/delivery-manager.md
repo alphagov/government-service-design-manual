@@ -2,12 +2,11 @@
 layout: detailed-guidance
 title: Delivery manager
 subtitle: Enabling teams to deliver high-quality services
-section: guidance
+section: 
 subsection: Building a team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary:
 theme: Getting started
 status: draft
 assets: local
