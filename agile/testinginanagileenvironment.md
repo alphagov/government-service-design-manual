@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Writing user stories
-subtitle: How to write a useful user story
+title: Testing in an agile environment
+subtitle: What testing your service might look like
 section: guidance
 subsection: Working in an agile way
 type: guide
