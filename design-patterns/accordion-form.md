@@ -6,7 +6,7 @@ section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/accordion-form.css
+page_class: accordion-form
 ---
 
 One of a number of ways of breaking a long form up into a series of manageable steps..

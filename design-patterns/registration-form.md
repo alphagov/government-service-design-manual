@@ -6,7 +6,7 @@ section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/forms.css
+page_class: registration
 ---
 
 This example incorporates most of the basic form elements and lets you play wth different label alignments.

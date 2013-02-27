@@ -5,7 +5,6 @@ section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/forms.css
 title: Anatomy of a form
 ---
 
@@ -449,21 +448,13 @@ The framework provides support for top, left or right alignment because there ar
 |                                   | Top          | Right             | Left          |
 |-----------------------------------|--------------|-------------------|---------------|
 | Speed of completion               | Fastest      |                   | Slowest       |
-|-----------------------------------|--------------|-------------------|---------------|
 | Horizontal space required         | Least        |                   | Most          |
-|-----------------------------------|--------------|-------------------|---------------|
 | Vertical space required           | Most         |                   | Least         |
-|-----------------------------------|--------------|-------------------|---------------|
 | Label text space available        | Most         |                   | Least         |
-|-----------------------------------|--------------|-------------------|---------------|
 | Proximity to input                | Closest      |                   | Least close   |
-|-----------------------------------|--------------|-------------------|---------------|
 | User eye movement                 | Down         | Down + right      | Down + right  |
-|-----------------------------------|--------------|-------------------|---------------|
 | Time to move from label to input  | 50ms         | 240ms             | 500ms         |
-|-----------------------------------|--------------|-------------------|---------------|
 | Ideal for...                      | Simple forms | Less simple forms | Complex forms |
-|-----------------------------------|--------------|-------------------|---------------|
 
 ## Validation messages
 

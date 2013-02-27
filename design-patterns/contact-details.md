@@ -6,6 +6,7 @@ section: guidance
 subsection: Design patterns
 type: resource
 status: draft
+page_class: contact-details
 ---
 
 Contact details for an organisation or individual.

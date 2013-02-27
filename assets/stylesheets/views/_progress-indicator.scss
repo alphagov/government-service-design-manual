@@ -3,8 +3,9 @@
 //
 
 /* Progress indicator */
-@include progress-indicator;
-.alt { @include progress-indicator($green, $green, $white); }
-
+.progress-indicator {
+  @include progress-indicator;
+  .alt { @include progress-indicator($green, $green, $white); }
+}
 
 

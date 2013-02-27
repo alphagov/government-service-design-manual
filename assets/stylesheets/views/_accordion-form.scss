@@ -3,8 +3,6 @@
 //
 
 // Accordion form
-@include accordion-form;
-
-
-
-
+.accordion-form {
+  @include accordion-form;
+}

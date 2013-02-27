@@ -10,7 +10,7 @@
 
   {% include _header.html %}
 
-  <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
+  <div id="wrapper" class="{% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %}">
 
     <section id="content" role="main" class="group">
 

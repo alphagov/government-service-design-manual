@@ -6,7 +6,7 @@ section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/hidden-form-controls.css
+page_class: hidden-form-controls
 js:  /assets/javascripts/design-patterns/hidden-form-controls.css
 ---
 
