@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Information Security
+title: Information security
 subtitle: Ensuring user data stays secure
 section: guidance
 type: guide
@@ -11,7 +11,7 @@ theme: getting-started
 ---
 
 It goes without saying that security of Government services is incredibly
-important. The Government Information Security community and processes
+important. The Government Information security community and processes
 exist to help service managers both meet their obligations to those
 processess, and more importantly to help build world class services.
 
@@ -21,7 +21,7 @@ to be clearly understood by everyone throughout the organisation delivering
 a service.
 
 The important thing to note about building trustworthy and secure systems is
-that it's a team game. Assurance and accreditation should not be a completely
+that it's a team game. assurance and accreditation should not be a completely
 separate strand of work, or seen as a hurdle to be got over (or around). Only
 by engaging with risk and making decisions based on a range of expert opinion
 will you end up with the best product.
@@ -31,7 +31,7 @@ usage and it's very hard to engage with the existing documentation and
 processes without speaking the lingo. All the acronymns should be explained
 before being used.
 
-## Assurance and Accreditation
+## Assurance and accreditation
 
 ### Roles
 
@@ -45,7 +45,7 @@ training and specialist skills.
 * CLAS Consultant - part of the formal Accreditation process. Responsible for much of the formal documentation.
 * CESG - the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
 
-### Assurance vs Accreditation
+### Assurance vs accreditation
 
 Assurance is the wider set of activities involved in assessing and managing the
 risks associated with the system under development. Accreditation is a subset
@@ -113,7 +113,7 @@ penetration and vulnerability testing for more details.
 
 ### Ongoing
 
-The Assurance and Accreditation work described above is not just about getting
+The Assurance and accreditation work described above is not just about getting
 a project to launch. It also covers the running of the resulting service. New
 threats may emerge or systems and processes change over time. Documentation
 should be kept up-to-date and additional penetration tests organised on a
@@ -140,7 +140,7 @@ good starting place for milestones to add to a project plan:
 
 ### Risk management
 
-It's important to understand the Assurance and Accreditation processes and tools
+It's important to understand the Assurance and accreditation processes and tools
 are all about managing the risk associated with the running service. Security is
 part of this but just one part. Nearly everything brings with it risks:
 technology choice, staffing, processes, access to restricted documents, data
