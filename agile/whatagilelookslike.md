@@ -69,7 +69,7 @@ Releasing little pieces of code often improves quality and visibility and reduce
 Here’s a few examples of how:
 
 >* releasing working software to your users often allows you to get feedback quickly and hear or see what they think.  If the product is wrong you can easily change direction and iterate.
->* if your software is rarely released to production you are not demonstrating value to your sponsor.  You run the risk of “too-big-to-fail” and another press headline!  Ship! Ship! Ship!
+>* if your software is rarely released to production you are not demonstrating value to your sponsor. You run the risk of creating a “too-big-to-fail” service that isn't fit for public consumption but must be releaesed anyway. That means another press headline!  Ship! Ship! Ship!
 >* if your teams’ velocity is consistently volatile, beyond the initial 4-6 sprints, then this is indicative of something that needs fixing.  Perhaps there is hidden complexity or poor estimation.
 >* Test Driven Development (writing tests in code before you develop the features) has a wealth of metrics that highlight quality issues early.  Establish what these are early on, baseline and monitor throughout the project.
 
@@ -96,11 +96,11 @@ These plans are usually reviewed after every sprint and adjusted based on “the
 
 Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  They have a bad smell about them and undermine your project and its chances of success.
 
->* *Your team is not full time*. If your core team of prodcut manager, scrum master, and key members of your multi-disciplinary team are not on the project full-time and spread over many projects then expect difficulties.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
+>* *Your team is not full time*. If your core team of product manager, scrum master, and key members of your multi-disciplinary team are not on the project full-time and spread over many projects then expect difficulties.  The team is the unit of delivery and you need focus.  Push back on managers and stakeholders if this is happening.
 
 >* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project gets going, consciously 'hack the environment' to create a working environment conducive to team working.  You might upset a few people and challenge some long-standing working practices. But this is so, so important, and really should not be a big ask.
 
->* *There's no continous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continiously deploy and run automated tests as you do.
+>* *There's no continuous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continiously deploy and run automated tests as you do.
 
 >* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've not got the right attitude to delivering production-ready software.  You need to embed a quality culture into the team.
 

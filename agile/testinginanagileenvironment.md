@@ -28,7 +28,7 @@ Service quality isn’t just a testing issue. The quality of a system is defined
 
 ## Fast Feedback
 
-Agile is reliant on fast feedback loops, so that we can actually be agile and change when we need to change. Testing should be about giving that fast feedback, at the time when it is useful. Agile test techniques (e.g. BDD, ATDD) have their place and we may well use them, but they are not the primary focus of the test approach.
+Agile is reliant on fast feedback loops, so that we can actually be agile and change when we need to change. Testing should be about giving that fast feedback, at the time when it is useful. Agile test techniques (e.g. Behaviour driven development, Acceptance test driven development) have their place and we may well use them, but they are not the primary focus of the test approach.
 
 ## Tests are an asset of the product
 
@@ -70,7 +70,7 @@ In a team where you have a one or more dedicated ‘quality analysts’ or ‘te
 
 When a manual test uncovers a defect, it is important to always add an automated test to catch it going forward and hence prevent any reoccurrence.
 
-Read [Kem Caner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
+Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
 Read the guidance about [load & performance testing](/technical-architecture/loadandperformancetesting.html)

@@ -57,7 +57,7 @@ In tools and transactions you need to give people context. By giving them inform
 
 ## Learning disabilities
 			
-This is a huge subject, with many different nuances. But one thing we can do is remember that people with some learning disabilities read like children - they read letter for letter. They don’t bounce around like other users.
+This is a huge subject, with many different nuances. But one thing we can do is remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
 			
 They also can’t retain the comprehension of the sentence as a whole if it is too long.
 			
@@ -71,23 +71,6 @@ Our audience is potentially anyone living in the UK. We need to be able to commu
 
 Government can’t afford to be elitist and use language only those with a very good education can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.
 
-There is more information about GOV.UK’s thoughts on why we do this on the [how to write](https://github.com/alphagov/government-service-design-manual/blob/master/Copy%20and%20content/howtowrite.md) page.
-
 ## Further reading
 
 Neilson: For more detail on why [20-28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
-		
-		 	 	 		
-			
-
-		
-		 	 	 		
-			
-
-			
-
-		
-		 	 	 		
-			
-
-		

@@ -27,7 +27,7 @@ Services should ensure there is a obvious way for users to report problems they 
 *Note*: An exception is made for IE6, as this is still in large-scale use in government departments.
 
 Two distinct levels of support are given and denoted next to each browser as C or F and are defined as:
-* COMPLIENT
+* COMPLIaNT
 * FUNCTIONAL
 
 Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
