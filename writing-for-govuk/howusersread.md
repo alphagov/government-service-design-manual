@@ -57,7 +57,7 @@ In tools and transactions you need to give people context. By giving them inform
 
 ## Learning disabilities
 			
-This is a huge subject, with many different nuances. But one thing we can do is remember that people with some learning disabilities read like children - they read letter for letter. They don’t bounce around like other users.
+This is a huge subject, with many different nuances. But one thing we can do is remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
 			
 They also can’t retain the comprehension of the sentence as a whole if it is too long.
 			

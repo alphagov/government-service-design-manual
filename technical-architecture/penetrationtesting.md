@@ -16,7 +16,7 @@ security problems before releasing to the public.
 
 ## Guidance/Tool
 
-Sometimes refered to as pen testing, vulnerability and penetration
+Sometimes referred to as pen testing, vulnerability and penetration
 testing is the act of analysing and testing a service for security
 problems. This is often a specialist activity done via a third party.
 
@@ -28,7 +28,7 @@ are understood by non-technical audiences as well a developer audience.
 Security is rarely binary, in that it's not generally a matter of being
 secure or not, rather reducing the risks of a wide range of potential issues.
 
-### Liase with CESG
+### Liaise with CESG
 
 CESG are the National Technical Authority for Information Assurance.
 Based at Cheltenham they provide both standards and advice for
