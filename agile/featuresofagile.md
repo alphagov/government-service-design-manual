@@ -40,7 +40,7 @@ The normal format is each person answers the following 3 questions:
 * What I am working on today (and help I might need)
 * What’s blocking me (i.e. stopping me delivering a story card)
 
-(It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to chose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
+(It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
 
 It’s OK to ask a waffler to wind up. If people try to solve issues within the stand up then team members can call time on the conversation and decide to convene a huddle after the stand-up to discuss in a smaller group. I think it’s a sign of a good, constructive stand up if you spin up a couple of ad-hoc huddles afterwards and I believe it shows people are getting something out of the meeting.
 

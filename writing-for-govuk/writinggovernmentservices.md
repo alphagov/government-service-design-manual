@@ -21,7 +21,7 @@ All services should follow the [GOV.UK style guide](/writing-for-govuk/styleguid
 The way we talk to users is the same on all [GOV.UK](https://www.gov.uk) products. The only difference is the format.
 
 ###Introductions
-Services should be intuitive and government services should provide an exeptional user experience. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.
+Services should be intuitive and government services should provide an exceptional user experience. You shouldn’t need many words at the top of the page and none of it should be instructions on how to use the service. If you need to manage a user's expectations, tell them on the pre-transaction page, not on the service page.
 
 If you do have to add text, keep your sentences very specific, short, active (keeping the subject and verb close) and in plain English. Users won’t want to read much on a tool or transaction. They will want to click, answer questions and get to the end as quickly as possible. It’s unlikely they will read much at all, so only tell them what you need to.
 

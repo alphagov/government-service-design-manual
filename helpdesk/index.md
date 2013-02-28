@@ -33,7 +33,7 @@ Minimally, you’ll want to stratify contacts by channel (phone, email, chat, so
 In addition to the very basic channel and target stratifications mentioned above, you will likely want to consider the following categories as potentially applicable to your contacts/feedback:
 
 ###Enquiry type###
-Is the contact a question, problem, complaint, FOI request, non-actionable rant, etc.?
+Is the contact a question, problem, complaint, Freedom of Information (FOI) request, non-actionable rant, etc.?
 
 ###Requester details###
 You will want to be very thoughtful about data collection of user details, given privacy concerns, but you will almost certainly want to gather minimal detail on the requesters of your contacts.
@@ -51,7 +51,7 @@ Some internal sectional or functional categories along which you’ll want to be
 Aspects of the handling processes you use that you should capture for further analysis--support level, priority, internal resolving group, resolving agent(s), day/date/time received, and day/date/time resolved are all examples you’ll likely want to have available for analysis.
 
 ###Root cause category or categories###
-The ultimate reason for the contact; for example, page failing to load, Db down, forgotten password, user error, software bug, etc.  As with most of these categories, you will tailor these categories based on the specifics of your product and support model.
+The ultimate reason for the contact; for example, page failing to load, database down, forgotten password, user error, software bug, etc.  As with most of these categories, you will tailor these categories based on the specifics of your product and support model.
 
 ##Sending the data to appropriate groups##
 Once you have gathered data for contact stratification, you’ll need to decide how to share it.  If all the data can be handled and used directly within your organisation then this step may be easier, however there will likely be different teams that will act on different types of problems, some of them outside of your department.
