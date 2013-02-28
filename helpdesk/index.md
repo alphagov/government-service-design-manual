@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Acting on user feedback
 subtitle: How to incorporate user contacts into design
 section: guidance
