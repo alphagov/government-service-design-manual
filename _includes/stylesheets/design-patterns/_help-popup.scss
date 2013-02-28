@@ -12,51 +12,72 @@ padding: 0.5em 1em;
 }
 
 #popup.help-system{
-  @include popup(55em);
-  // Popup header style
-  h2{
-    padding: 0.8em 1em 0.8em 1.65em;
-    background-color: $highlight-colour;
-    margin: 1em -1em 1em -1.65em;
+  @include popup(80%);
+  // Header
+  .header{
+    border-color: $light-blue-25;
+    padding-left: 4em;
+    background: url(https://assets.digital.cabinet-office.gov.uk/static/icon-information-f78d8c1b10b141b5a9a8c7a40220c4a4.png) no-repeat scroll 1.8em 0.8em white;
   }
+  // Actions
+  .action.group{
+    border-color: $light-blue-25;
+  }
+  // Content area
   .content{
-    margin-top: -2.5em;
     float: left;
-    width: 70%;
-    padding-right: 0em;
+    width: 75%;
+    padding-right: 3em;
+    border-right: 2px solid $light-blue-25;
+    box-sizing: border-box; 
+    h1{
+      @include heading-48;
+      margin-top: 0.5em;
+    }
+    h3 {
+      @include bold-19;
+      margin: 2em 0 1em;
+    }
     ul{
-      margin: 0;
+      margin-left: 2em;
     }
     section{
       padding-left: 1em;
     }
   }
+  // Navigation
   nav{
     float: left;
-    margin: -1em -1em 0 1em;
-    width: 30%;
+    margin: 0.5em 0 0 -2px;
+    border-left: 2px solid $light-blue-25;
+    width: 25%;
     h2{
-    margin: 0 -0.35em 0 -1em;
-    padding-left: 1em;
+    margin: 0.75em 0 1em 0.5em;
+    padding: 0.25em 1em;
+    @include core-19;
     }
     ul{
       margin: 0;
       margin-top: 0.5em;
+      padding-bottom: 1em;
       list-style-image: none;
     }
     li{
-      margin: 0;
-      padding: 0;
+      margin: 0 0 0 -2px;
+      padding: 0.25em 0.5em 0.25em 1.3em;
       list-style-type: none;
-      .active{
-        background-color: $highlight-colour;
+      border-left: 2px solid transparent;
+      &.active{
+        border-left: 2px solid $light-blue;
+        background: $highlight-colour;
+        a{
+          color: $text-colour;
+          text-decoration: none;
+        }
       }
     }
-    > *{
-      padding-left: 2em;
-    }
     a{
-      @include core-14;
+      @include core-16;
       text-decoration: none;
       &:hover{
         text-decoration: underline;
@@ -81,3 +102,10 @@ padding: 0.5em 1em;
     }
   }
 }
+
+article {
+  dt{
+    font-weight: bold;
+  }
+}
+

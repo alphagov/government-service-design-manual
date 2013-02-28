@@ -2,14 +2,45 @@
 // POPUPS
 
 @mixin popup($width: 70%, $height: 26em){
-  left: 50%; // horizontally centred
   width: $width;
-  margin: 2em 0 0 -#{$width / 2};
+  margin: 2em auto 20em auto;
   background-color: white;
-  padding: 1em 1.5em;
   min-height: $height;
-  position: absolute; // popup scrolls with page, so we can have long popups
-  *:first-child{
-    //margin-top: 0; // Set top margin of 1st child to zero
+  position: static;
+  overflow: hidden;
+  padding: 0 0 0 1.5em;
+  border: 0.5em solid #222;
+
+
+  // 'X' Close button
+  .close{
+    top: 0.5em;
+    right: 0.5em;
   }
+
+  // Popup header
+  .header{
+    padding: 1em 0 0.8em 2em;
+    margin: 0 0 0 -2em;
+    @include core-19;
+    border-bottom: 1px solid $border-colour;
+  }
+
+  // Popup actions
+  .action.group{
+    clear: both;
+    border-top: 1px solid $border-colour;
+    margin: 0 0 0 -2em;
+    padding: 1em 2em;
+  }
+}
+
+// Helper styles for popups
+html.noscroll {
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
+}
+.popover-mask{
+  overflow-y: scroll;
 }

@@ -39,8 +39,7 @@
         border: 1px inset $border-colour; // Otherwise IE gets a black border
       }
       font-size: 1em;
-      line-height: 1.2;
-      padding: 0.3em 0 0.1em 0.4em;
+      padding: 0.1em 0 0.1em 0.4em;
   }
 
   textarea{  
@@ -56,6 +55,8 @@
   label{
     color: $text-colour;
     @include core-19;
+    vertical-align: top;
+      padding: 0.25em 0; // vertically align labels with middle of text fields
   }
   // Checkboxes and radio buttons
   .option.group {
@@ -66,13 +67,19 @@
       width: auto;
       float: none;
       text-align: left;
-      margin: 0.25em 0;
+      //margin: 0.25em 0;
     }
     li {
       list-style-type: none;
       list-style-image: none;
       margin: 0;
     }
+  }
+
+  input[type="checkbox"],
+  input[type="radio"]{
+    margin-right: 0.25em;
+    vertical-align: 2px;
   }
 
   // Help text  
@@ -131,7 +138,7 @@
       // Shift controls up
       .inline .group,
       .inline.option label{
-        margin-top: -1em;
+        //margin-top: -1em;
       }
     }
   }
@@ -212,14 +219,13 @@
       @include inline-block;
 
       text-align: #{$label-alignment};
-      padding-top: 0.25em; // vertically align labels with middle of text fields
       width: $label-width;
       // Maintain field alignment if label is hidden
       &.visuallyhidden {
         + input,
         + select,
         + textarea {
-          margin-left: $label-width + 0.75em; 
+          margin-left: $label-width + 0.7em; 
         }
       }
     }
@@ -232,18 +238,16 @@
     textarea,
     .uneditable-field{
       @include inline-block;
-      vertical-align: 2px;
-      margin-right: 0.5em;
-      margin-left: 0.5em;
+      margin: 0 0.5em;
     }
     input[type="checkbox"]{
       margin-left: 0.25em;
     }
     input[type="radio"]{
-      margin-left: 0.25em;
+      margin-left: 0em;
     }
     select{
-      //margin-top: 0.5em; // re-align with horizontal labels (because select boxes aren't as tall as text fields)
+      margin: 0.25em 0.5em;
     }
 
     fieldset{
@@ -256,13 +260,15 @@
         margin-top: 2em;
         legend {
           padding-left: 0;
-          line-height: 0;
+          //line-height: 0;
+          margin-bottom: 0;
           // Left/right aligned nested fieldset legends need a span inside them
           span{
             width: $label-width;
             text-align: #{$label-alignment};
             position: relative;
             float: left;
+            margin: 0.25em 0;
           }
         }
         // Shift controls up
@@ -285,7 +291,7 @@
       label{
         display: block;
         padding-left: $label-width + 0.5em;
-        padding-top: 0;
+        //padding-top: 0;
       }
       .validation-message{
         width: $label-width;
@@ -314,8 +320,8 @@
       }
       // Inline option groups
       &.option.group {
-        padding-left: $label-width + 1.25em;
-        padding-top: 0.25em;
+        padding-left: $label-width + 1.5em;
+        //padding-top: 0.25em;
         label{
           padding-left: 0;
         }
@@ -340,6 +346,20 @@
     }
   }
 }
+
+// Text fields embedded in labels
+.option.group label input[type="text"]{
+  margin-left: 0;
+  width: 14em;
+  margin-top: -0.3em;
+  position: absolute;
+}
+
+// Placeholder styles
+::-webkit-input-placeholder { padding-top: 0.15em; color: $grey-1;}
+::-moz-placeholder {  padding-top: 0.15em; color: $grey-1;} /* firefox 19+ */
+:-ms-input-placeholder {  padding-top: 0.15em; color: $grey-1; } /* ie */
+input:-moz-placeholder {  padding-top: 0.15em; color: $grey-1; }
 
 
 // HIDDEN CONTROLS
@@ -395,15 +415,15 @@
   }
   .emphasised.option.group label{
     display: block;
-    padding: 0.5em 0 0.5em 1em;
-    margin: 0 -0.8em 0.25em -0.8em;
+    padding: 0.5em 0 0.25em 0.5em;
+    //margin: 0 -0.8em 0.25em -0.8em;
   }
   .emphasised label.radio:hover,
   .emphasised label.checkbox:hover{
-    background-color: $highlight-colour;
+    background-color: $light-blue-25;
   }
   .checked{
-    background-color: $highlight-colour;
+    background-color: $light-blue-25;
   }
 
 }
