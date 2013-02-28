@@ -141,3 +141,5 @@ You should be clear with your users about what is happening. If a third party pa
 This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
 
 The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
+
+The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
