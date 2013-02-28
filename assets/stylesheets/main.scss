@@ -3,11 +3,11 @@
 //
 
 // From the toolkit
-@import "_colours";
-@import "_css3";
-@import "_typography";
-@import "_conditionals";
-@import "_shims";
+@import "../toolkit/stylesheets/_colours";
+@import "../toolkit/stylesheets/_css3";
+@import "../toolkit/stylesheets/_typography";
+@import "../toolkit/stylesheets/_conditionals";
+@import "../toolkit/stylesheets/_shims";
 
 // Styleguide
 @import "styleguide/_colours.scss";
@@ -68,4 +68,4 @@
 
 
 // Layouts
-@import "layouts/gsdm.scss";
+@import "layouts/_gsdm.scss";
