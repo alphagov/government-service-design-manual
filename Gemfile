@@ -11,7 +11,3 @@ gem 'thin'
 gem 'foreman'
 gem 'kramdown'
 gem 'jekyll-sass', git: 'https://github.com/alextea/jekyll-sass.git'
-
-group :assets do
-  gem "govuk_frontend_toolkit", "0.12.3"
-end
