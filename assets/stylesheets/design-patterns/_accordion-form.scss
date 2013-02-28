@@ -1,0 +1,94 @@
+// ===================================================
+// ACCORDION FORM
+//
+// Breaks a large form down into a series of vertically
+// arranged steps. The user progresses through each
+// step in turn, but can return to earlier steps.
+
+@mixin accordion-form{
+
+  .accordion-form{
+    margin-bottom: 2em;
+    .section {
+      background-color: white;
+      // CURRENT SECTION
+      &.current {
+        border: 1px solid $turquoise;
+        // Header
+        .accordion-header {
+          display: block;
+          margin: 0;
+          padding: 0.5em 1em;
+          background-color: $turquoise;
+          color: $white;
+          -webkit-font-smoothing: subpixel-antialiased;
+          font-weight: normal;
+        }
+        // Content
+        .accordion-content{
+          display: block;
+          visibility: visible;
+          max-height: 600em;
+          padding: 0 2em;
+          background-color: $white;
+        }
+        // Actions
+        .accordion-actions{
+          list-style-image: none;
+          list-style-type: none;
+          padding: 0.6em 1em 0.4em 1em;
+          margin: 1em -2em 0 -2em;
+          background-color: #f9f9f9;
+        }
+      }
+      // COMPLETED SECTIONS
+      &.complete {
+        display: block;
+        // Header
+        .accordion-header {
+          display: none;
+        }
+        // Summary
+        .accordion-summary {
+          display: block;
+          margin-bottom: 0.5em;
+          padding: 0.5em 2.5em 0.5em 2em;
+          background-color: $highlight-colour;
+          background-image: url('../images/progress-tick.png');
+          background-repeat: no-repeat;
+          background-position: 10px 50%;
+          p {
+            margin: 0;
+            .edit{
+              float: right;
+              margin-right: -1em;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // NON-JAVASCRIPT ENABLED STYLES
+
+
+  // JAVASCRIPT-ENABLED STYLES
+
+  .js-enabled {
+    .section {
+      .accordion-header{
+        display: none;
+      }
+      .accordion-content{
+        max-height: 0;
+        overflow: hidden;
+        visibility: hidden;
+        position: relative;
+      }
+      .accordion-summary{
+        display: none;
+      }
+    }
+  }
+
+}

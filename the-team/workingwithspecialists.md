@@ -28,7 +28,7 @@ GDS can also provide support to departments to assist them during their procurem
 
 ## Proposed Digital Procurement Framework
 
-The Digital Procurement Framework is being designed by the Government Digital Service and Government Procurement Service and following an OJEU is expected to be available to departments from the middle of 2013. This will enable departments access to a wide range of suppliers of all sizes. These will supply people and teams rather than hardware, software and the like, to build digital services. What follows is a brief description of a framework which will come on stream in Summer 2013.
+The Digital Procurement Framework is being designed by the Government Digital Service and Government Procurement Service and following an Official Journal of the European Union (OJEU) review is expected to be available to departments from the middle of 2013. This will enable departments access to a wide range of suppliers of all sizes. These will supply people and teams rather than hardware, software and the like, to build digital services. What follows is a brief description of a framework which will come on stream in Summer 2013.
 
 ### How will it work?
 
@@ -61,7 +61,7 @@ While the GDS Digital Framework focuses on Agile development, some services to b
 
 Achieving the right mix of contract versus permanent staff on your team will depend on your product.
 
-Contractors should receive an induction and be thoughtfully integrated in team - where do they sit, who next to, how do they fit? Use some common sense; think about how long will this person be with you and tailor the induction accordingly.
+Contractors should receive an induction and be thoughtfully integrated into the team - where do they sit, who next to, how do they fit? Use some common sense; think about how long will this person be with you and tailor the induction accordingly.
 
 For example, in the [GOV.UK](https://www.gov.uk) platform team, GDS hired a specialist search engine consultant to work with the team for two days. He worked with two permanent members of the team so they could learn from him.
 

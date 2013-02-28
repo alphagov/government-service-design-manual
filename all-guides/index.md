@@ -8,12 +8,13 @@ status: draft
 
 <div class="link-list">
   <h3>All guides</h3>
+
 <ul>
-{% for p in site.pages %}
+{% sorted_for p in site.pages sort_by:title %}
   {% if p.section == 'guidance' %}
   <li> 
       <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
   </li>
   {% endif %}
-{% endfor %}
+{% endsorted_for %}
 </ul>

@@ -1,0 +1,12 @@
+// ===================================================
+// DESIGN PATTERN PAGE: EMPHASISED FORM CONTROLS
+//
+
+.emphasised-form-controls {
+  // Emphasised form controls
+  @include emphasised-form-controls;
+
+  .form-example-1 {
+    @include form(top, 5.5em);
+  }
+}

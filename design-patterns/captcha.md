@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: CAPTCHA
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/buttons.css
+page_class: buttons
 ---
 
 CAPTCHA's should not be used.

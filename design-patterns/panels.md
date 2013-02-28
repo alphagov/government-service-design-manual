@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Panel styles
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/panels.css
+page_class: panels
 ---
 
 One way to visually emphasise or highlight content is to put it in a panel.

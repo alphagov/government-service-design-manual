@@ -97,12 +97,11 @@ Open data increases the number of people able to use your data and service, and 
 
 Where content is sensitive, or requires authentication, use encryption (HTTPS) and a standard authentication such as [Basic Authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
 
-### Communicate breaking changes
-Practice service evolution:
+### Practice service evolution:
 
 - Build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected. The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; 
 Postel's Law explains the ability for The Web and Internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content.
-- Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected content,
+- Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields.
 Eschew changes to the semantics of content, e.g. don't change a `title` field from to the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
@@ -142,3 +141,5 @@ You should be clear with your users about what is happening. If a third party pa
 This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
 
 The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
+
+The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).

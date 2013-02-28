@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Emphasised form controls
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/emphasised-form-controls.css
+page_class: emphasised-form-controls
 js: /assets/javascripts/design-patterns/emphasised_form_controls.js
 ---
 

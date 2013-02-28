@@ -1,0 +1,67 @@
+// =================================================
+// UTILITY MIXINS
+//
+
+// =================================================
+// WRAP TO CENTRE
+// Float an image vertically and horizontally in the middle of an element
+//
+// http://www.brunildo.org/test/img_center.html
+
+@mixin wraptocentre {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+      * {
+        vertical-align: middle;
+      }
+
+      display: block;
+
+      span {
+          display: inline-block;
+          height: 100%;
+          width: 1px;
+          text-decoration: none;
+      }
+}
+
+
+// =================================================
+// CLEARFIX
+// 
+
+@mixin clearfix {
+  /*
+  zoom: 1;
+  &:before,
+  &:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden;
+  }
+  &:after {
+    clear: both;
+  }*/
+
+  overflow: hidden;
+  *zoom: 1;
+}
+
+// =================================================
+// CONTAIN FLOATS
+// 
+
+%contain-floats {
+  &:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+  @include ie-lte(7) {
+    zoom: 1;
+  }
+}

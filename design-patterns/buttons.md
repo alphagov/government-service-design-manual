@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Buttons
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/buttons.css
+page_class: buttons
 ---
 
 Here's how to create buttons in the GOV.UK style.

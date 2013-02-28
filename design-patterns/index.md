@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: category-index
 title: Design patterns
 subtitle: Common interface elements for digital services
 section: guidance
@@ -8,7 +8,7 @@ type: resource
 audience:
     primary: designer, developer
 status: draft
-status: draft
+long-title: true
 ---
 
 Design patterns are reusable bits of web interface like form controls, navigation and calendars.

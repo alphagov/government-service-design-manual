@@ -1,0 +1,19 @@
+.default {
+  .article-container {
+    .inner {
+      margin-left: 25%;
+
+      // 1st para is bigger
+      .intro {
+        @include core-24;
+        padding: 10px 0;
+        padding: 1rem 0;
+        margin: 0 0 1.5em 0;
+      }
+    }
+
+    img {
+      max-width: 100%;
+    }
+  }
+}

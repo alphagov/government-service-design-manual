@@ -6,16 +6,18 @@ subsection: KPIs
 status: draft
 ---
 
-Defined as the percentage of people who answered either “very satisfied” or “satisfied” on a five-point scale in response to the question:
+Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
 
->Overall, how satisfied are you with your visit to the online [eg car tax] service today?
+> Q:
+
+* Overall, how satisfied were you with this [eg car tax] service today?
 
 > A:
-> Very satisfied
-> Satisfied
-> Neither satisfied or dissatisfied
-> Dissatisfied
-> Very dissatisfied
+* Very satisfied
+* Satisfied
+* Neither satisfied or dissatisfied
+* Dissatisfied
+* Very dissatisfied
 
 ## Why measure user satisfaction?
 
@@ -25,7 +27,7 @@ Many government transactions are mandatory and therefore not inherently enjoyabl
 
 Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
 
-## How to Measure User Satisfaction
+## How to measure user satisfaction
 
 GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
 
@@ -69,7 +71,7 @@ An exit survey will be run continuously on your service, and report satisfaction
 
 You should also carry out a more comprehensive user satisfaction survey every six months.
 
-You could consider doing a drivers analysis of the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
+You could consider analysing the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
 
 ## Further reading
 [Survey design](/users/surveydesign.html)

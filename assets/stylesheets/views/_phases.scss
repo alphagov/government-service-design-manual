@@ -1,0 +1,32 @@
+// ===================================================
+// PHASES PAGE
+//
+
+.phases {
+  .phase-diagram {
+    width: 100%;
+    margin: 0 -1em 0 -1em;
+  }
+
+  .phase-activities {
+    margin: 1em 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+
+    @extend %contain-floats;
+
+    li {
+      margin: 0 2em 0 0;
+      padding: 0;
+      float: left;
+      text-align: center;
+      width: 100px;
+    }
+
+    .output {
+      display: block;
+      background-color: $highlight-colour;
+    }
+  }
+}

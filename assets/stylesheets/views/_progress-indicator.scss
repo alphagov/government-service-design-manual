@@ -1,0 +1,11 @@
+// ===================================================
+// DESIGN PATTERN PAGE: PROGRESS INDICATOR
+//
+
+/* Progress indicator */
+.progress-indicator {
+  @include progress-indicator;
+  .alt { @include progress-indicator($green, $green, $white); }
+}
+
+

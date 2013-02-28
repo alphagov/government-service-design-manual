@@ -1,0 +1,150 @@
+// ===================================================
+// COLOUR PALETTE PAGE
+//
+
+.colours {
+  .swatches{
+    @include regular-grid(3);
+    ul {
+      margin: 0;
+      padding: 0;
+    }
+  }
+  .swatches,
+  .department-swatches{
+      padding: 0;
+      li{
+        list-style-type: none;
+        list-style-image: none;
+        padding: 0.5em 0.8em;
+        margin: 0;
+        font-size: 15px;
+      }
+      p{
+        margin: 0;
+      }
+  }
+  .department-swatches li{
+    margin-bottom: 1em;
+  }
+
+  /* Generate the colour palette CSS */
+  @mixin colour($class, $colour){
+      $updated: unquote($class);
+      .#{$class} {
+          background-color: $colour;
+          * {
+            /* Set text colour depending on background colour */
+            @if lightness($colour) < 50% {
+              color: $white;
+            } @else {
+              color: $text-colour;
+            }
+          }
+          h4{
+            margin-top: 0;
+          }
+      }
+  }
+
+  /* Palette, colours */
+  @include colour("purple", $purple);
+  @include colour("purple-50", $purple-50);
+  @include colour("purple-25", $purple-25);
+
+  @include colour("mauve", $mauve);
+  @include colour("mauve-50", $mauve-50);
+  @include colour("mauve-25", $mauve-25);
+
+  @include colour("fuschia", $fuschia);
+  @include colour("fuschia-50", $fuschia-50);
+  @include colour("fuschia-25", $fuschia-25);
+
+  @include colour("pink", $pink);
+  @include colour("pink-50", $pink-50);
+  @include colour("pink-25", $pink-25);
+
+  @include colour("baby-pink", $baby-pink);
+  @include colour("baby-pink-50", $baby-pink-50);
+  @include colour("baby-pink-25", $baby-pink-25);
+
+  @include colour("red", $red);
+  @include colour("red-50", $red-50);
+  @include colour("red-25", $red-25);
+
+  @include colour("mellow-red", $mellow-red);
+  @include colour("mellow-red-50", $mellow-red-50);
+  @include colour("mellow-red-25", $mellow-red-25);
+
+  @include colour("orange", $orange);
+  @include colour("orange-50", $orange-50);
+  @include colour("orange-25", $orange-25);
+
+  @include colour("brown", $brown);
+  @include colour("brown-50", $brown-50);
+  @include colour("brown-25", $brown-25);
+
+  @include colour("yellow", $yellow);
+  @include colour("yellow-50", $yellow-50);
+  @include colour("yellow-25", $yellow-25);
+
+  @include colour("grass-green", $grass-green);
+  @include colour("grass-green-50", $grass-green-50);
+  @include colour("grass-green-25", $grass-green-25);
+
+  @include colour("green", $green);
+  @include colour("green-50", $green-50);
+  @include colour("green-25", $green-25);
+
+  @include colour("turquoise", $turquoise);
+  @include colour("turquoise-50", $turquoise-50);
+  @include colour("turquoise-25", $turquoise-25);
+
+  @include colour("light-blue", $light-blue);
+  @include colour("light-blue-50", $light-blue-50);
+  @include colour("light-blue-25", $light-blue-25);
+
+
+  // Semantic colour names
+  .text-colour { color: $text-colour; }
+  .secondary-text-colour { color: $secondary-text-colour; }
+  .link-colour { color: $link-colour; }
+  .link-active-colour { color: $link-active-colour; }
+  .link-hover-colour { color: $link-hover-colour; }
+  .link-visited-colour { color: $link-visited-colour; }
+  .border-colour { background-color: $border-colour; }
+  .panel-colour { background-color: $panel-colour; }
+  .canvas-colour { background-color: $canvas-colour; }
+  .page-colour { background-color: $page-colour; }
+
+  // Greys
+  @include colour("black", $black);
+  @include colour("grey-1", $grey-1);
+  @include colour("grey-2", $grey-2);
+  @include colour("grey-3", $grey-3);
+  @include colour("grey-4", $grey-4);
+  @include colour("white", $white);
+
+  /* Department colours */
+  @include colour("hm-government", $hm-government);
+  @include colour("treasury", $treasury);
+  @include colour("cabinet-office", $cabinet-office);
+  @include colour("department-for-education", $department-for-education);
+  @include colour("department-for-transport", $department-for-transport);
+  @include colour("home-office", $home-office);
+  @include colour("department-of-health", $department-of-health);
+  @include colour("ministry-of-justice", $ministry-of-justice);
+  @include colour("ministry-of-defence", $ministry-of-defence);
+  @include colour("foreign-and-commonwealth-office", $foreign-and-commonwealth-office);
+  @include colour("department-for-communities-and-local-government", $department-for-communities-and-local-government);
+  @include colour("department-of-energy-climate-change", $department-of-energy-climate-change);
+  @include colour("department-for-culture-media-sport", $department-for-culture-media-sport);
+  @include colour("department-for-environment-food-and-rural-affairs", $department-for-environment-food-and-rural-affairs);
+  @include colour("department-for-work-and-pensions", $department-for-work-and-pensions);
+  @include colour("department-for-business-innovation-and-skills", $department-for-business-innovation-and-skills);
+  @include colour("department-for-international-development", $department-for-international-development);
+  @include colour("government-equalities-office", $government-equalities-office);
+  @include colour("attorney-generals-office", $attorney-generals-office);
+  @include colour("scotland-office", $scotland-office);
+  @include colour("wales-office", $wales-office);
+}

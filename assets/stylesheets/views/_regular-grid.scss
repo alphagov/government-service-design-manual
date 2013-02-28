@@ -1,0 +1,22 @@
+// ===================================================
+// DESIGN PATTERN PAGE: REGULAR GRID
+//
+
+.regular-grid {
+  .temp{
+    border: 2px solid red;
+  }
+
+  /* Regular grid */
+
+  .regular-grid p{
+      background-color: $panel-colour;
+      border: 1px solid $border-colour;
+      text-align: center;
+      padding: 1em;
+  }
+  .example-1{ @include regular-grid(4); }
+  .example-2{ @include regular-grid(5); }
+  .example-3{ @include regular-grid(8); }
+  .example-4{ @include regular-grid(2); }
+}

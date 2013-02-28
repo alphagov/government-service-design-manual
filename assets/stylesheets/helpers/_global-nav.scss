@@ -1,10 +1,10 @@
 // GLOBAL NAVIGATION
-$active-colour: $border-colour;
-$highlight-colour: $black;
+$nav-active: $border-colour;
+$nav-highlight: $black;
 
 #global-nav {
   margin: 0;
-  border-bottom: $gutter-one-third solid $highlight-colour;
+  border-bottom: $gutter-one-third solid $nav-highlight;
   position: relative;
   z-index: 100;
   text-align:left;
@@ -18,7 +18,7 @@ $highlight-colour: $black;
   }
   
   .inner {
-    border-bottom: $gutter-one-sixth solid $active-colour;
+    border-bottom: $gutter-one-sixth solid $nav-active;
     padding: $gutter-one-sixth 2em 2em 2em;
     @extend %contain-floats;
     @include media(tablet){
@@ -32,7 +32,7 @@ $highlight-colour: $black;
     display: block;
     padding: $gutter-one-third 8px;
     text-decoration: none;
-    color: $active-colour;
+    color: $nav-active;
 
     @include media(desktop){
       display: inline-block;
@@ -99,7 +99,7 @@ $highlight-colour: $black;
 
     .current {
       color: $white;
-      background: $active-colour;
+      background: $nav-active;
     }
     a {
       color: $black;
@@ -128,27 +128,36 @@ $highlight-colour: $black;
   }
   &.open {
     .toggler {
-      background: $highlight-colour;
+      background: $nav-highlight;
     }
     .toggler.current {
-      background: $active-colour;
+      background: $nav-active;
     }
   }
 
   .home {
-  a {
-  position: relative;
-    small{
-      position: absolute;
-      top: 0.8em;
-      text-transform: uppercase;
-      color: white;
-      -webkit-font-smoothing: subpixel-antialiased;
-      background: #d53880;
-      padding: 2px 5px 0;
-      margin-left: 10px;
+    a {
+      position: relative;
+      small {
+        position: absolute;
+        top: 0.8em;
+        text-transform: uppercase;
+        color: white;
+        -webkit-font-smoothing: subpixel-antialiased;
+        background-color: $panel-colour;
+
+        padding: 2px 5px 0;
+        margin-left: 10px;
+
+        &.alpha {
+          background-color: $alpha-colour;
+        }
+
+        &.beta {
+          background-color: $beta-colour;
+        }
+      }
     }
   }
-}
 
 }

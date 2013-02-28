@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Form example - Registration
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/forms.css
+page_class: registration
 ---
 
 This example incorporates most of the basic form elements and lets you play wth different label alignments.

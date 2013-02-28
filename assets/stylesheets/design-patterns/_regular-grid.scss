@@ -1,0 +1,50 @@
+// ===================================================
+// REGULAR GRID
+//
+
+@mixin regular-grid($columns: 1, $min-height:"") {
+  margin: 0;
+  @include ie-lte(7){
+    margin-bottom: 1em;
+  }
+  padding: 0;
+  @include clearfix;
+  > * { 
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    float: left;
+    $margins: $columns - 1;
+    $item-share: 1 - (0.025 * ($columns - 1));
+    $margin-share: 1 - $item-share;
+    width: percentage($item-share/$columns);
+    // IE8- Doesn't understand nth-child, so we're stuck with a margin on the far-right item
+    // To accomodate this, all margins are slightly reduced
+    
+    @include ie-lte(8){
+      $margins: $columns;
+    }
+    @include ie-lte(7){
+      $margins: $columns + 0.025; // Account for rounding bug in IE7
+    }
+    margin-right: percentage($margin-share/$margins);
+    margin-bottom: 1em;
+    &:nth-child(#{$columns}n){
+      margin-right: 0;
+    }
+    *:first-child{
+      margin-top: 0;
+    };
+    @if ($min-height != ""){
+      min-height: $min-height;
+    }
+  }
+}
+
+// NOTE: IE6 doesn't understand the child selector, so the grid elements become full-width
+// and arranged vertically down the page.
+
+
+

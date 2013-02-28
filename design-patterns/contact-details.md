@@ -1,11 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Contact details
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
+page_class: contact-details
 ---
 
 Contact details for an organisation or individual.

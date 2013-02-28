@@ -19,7 +19,8 @@ Measuring end-to-end completion rates helps identify whether users have problems
 ## How to measure completion rate
 
 The end-to-end completion rate can be calculated as the number of completed transactions divided by the number of started transactions; it is expressed as a percentage. 
-Before the transaction starts
+
+### Before the transaction starts
 
 Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction has started.  They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce dropouts later in the transaction.
 
@@ -31,11 +32,11 @@ It should not be possible to bypass start pages via links or search engine resul
 
 Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates. 
 
-Transactions started will be defined as the number proceeding through the process from the start page. Transactions completed is the number of referrals to the end page.
+A transaction is considered to have started only when the user proceeds from the start page. A user then has to reach the end page before the transaction is counted as complete. 
 
-This data will be shared with service managers.
+Data on the number of started and completed transactions will be shared with service owners.
 
-[IMAGE TO BE ADDED]
+![Completion rate](/assets/images/measuring-completion-rates.png)
 
 ### Drop-outs
 

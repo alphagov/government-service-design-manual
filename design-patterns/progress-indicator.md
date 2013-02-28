@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Progress indicator
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/progress-indicator.css
+page_class: progress-indicator
 ---
 
 Use this near the top of multi-page transactions to help users understand how

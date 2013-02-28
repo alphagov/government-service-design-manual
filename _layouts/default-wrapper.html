@@ -10,13 +10,13 @@
 
   {% include _header.html %}
 
-  <div id="wrapper" class="{{ page.categories }}{% if page.section_class  %} {{ page.section_class }}{% endif %}">
+  <div id="wrapper" class="{% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %}">
 
     <section id="content" role="main" class="group">
 
       <div class="js-toggle-nav" id="global-nav">
         <div class="inner">
-          <span class="home"><a href="/" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual<small>alpha</small></a></span>
+          <span class="home"><a href="/" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual<small class="beta">beta</small></a></span>
           <nav role="navigation" class="content">
             <ul id="navigation">
               <li><a href="/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default Standard</a></li>
@@ -27,12 +27,16 @@
         </div>
       </div>
 
+      {% include _caveat-notice.html %}
+
       {{ content }}
 
     </section>
   </div><!--end wrapper-->
 
   {% include _footer.html %}
+
+  {% include _analytics.html %}
 
 </body>
 </html>

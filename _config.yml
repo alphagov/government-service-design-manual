@@ -39,3 +39,8 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: style
+
+sass:
+  syntax: scss        # scss|sass
+  style:  compressed  # nested|expanded|compact|compressed
+  load_paths: #{Bundler.load.specs.find{|s| s.name == 'govuk_frontend_toolkit' }.full_gem_path + "/app/assets/stylesheets/"}

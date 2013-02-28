@@ -1,0 +1,60 @@
+.category-index {
+  .page-header {
+    width: 25%;
+    float: left;
+    margin: 2em 0 0 0;
+    padding: 0;
+    border: none;
+
+    hgroup {
+      padding: 0 2em;
+    } 
+
+    h1 {
+      border-top: 5px solid $main-colour;
+      @include bold-80;
+
+      &.long-title {
+        @include bold-48;
+      }
+    }
+  }
+
+  // Page subtitle
+  .subtitle {
+    margin: 1em 0 1em 0;
+    color: $secondary-text-colour;
+    @include core-24;
+  }
+
+  .article-container {
+    width:  75%;
+    float: right;
+
+    .inner {
+      margin-top: 2em;
+      padding: 0 2em;
+
+      // 1st para is bigger
+      .intro,
+      > p:first-of-type {
+        @include core-24;
+        padding: 10px 0;
+        padding: 1rem 0;
+
+        border-top: 5px solid $main-colour;
+      }
+
+      .intro {
+        margin: 0 0 1.5em 0;
+      }
+
+      // H2's get distinct style
+      h2 {
+        font-weight: 700;
+        border-bottom: none;
+        margin: 1.2em 0 0.4em 0;
+      }
+    }
+  }
+}

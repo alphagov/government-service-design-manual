@@ -1,12 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Regular grid
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: /assets/stylesheets/design-patterns/regular-grid.css
+page_class: regular-grid
 ---
 
 A mixin for creating a regular grid of elements. All widths are expressed as percentages of the parent element.

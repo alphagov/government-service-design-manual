@@ -1,13 +1,12 @@
 ---
-layout: wide
+layout: design-patterns
 title: Show/hide link
 subtitle: Build to the GOV.UK style 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
-css: ../css/design-patterns/show-hide.css
-assets: local
+page_class: show-hide
 ---
 
 When you click on the link it toggles some content immediately below it. The details and summary tags in HTML5 are specifically intended for this kind of thing.
