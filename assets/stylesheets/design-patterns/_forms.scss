@@ -109,6 +109,7 @@
   .inline .group {
     float: left;
     margin-top: 0;
+    width: auto;
   }
 
   // Legends and fieldsets
@@ -265,11 +266,7 @@
         }
         // Shift controls up
         // To do: Make this work properly for non-inline option groups
-          .inline {
-            .group,
-            &.option label{
-              //margin-top: -1.5em;
-            }        
+          .inline {       
             .group{
               margin-bottom: 0.5em;
             }
