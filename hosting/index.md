@@ -13,9 +13,6 @@ theme: Running a service
 assets: local
 ---
 
-* Table of contents
-{:toc}
-    
 # Hosting
 The software running your service will need servers to run on. This
 guide aims to help with deciding how you host your applications and the

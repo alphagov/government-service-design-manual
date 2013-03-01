@@ -1,12 +1,14 @@
-#markdown-toc {
-  list-style: none;
-  padding: 0;
-  margin: 0 0 2em 0;
-
-  li {
+.contents {
+  ul {
+    list-style: none;
     padding: 0;
-    margin: 0;
+    margin: 0 0 2em 0;
 
-    @include core-16;
+    li {
+      padding: 0;
+      margin: 0;
+
+      @include core-16;
+    }
   }
 }

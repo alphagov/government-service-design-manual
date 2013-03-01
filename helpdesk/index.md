@@ -13,9 +13,6 @@ status: draft
 assets: local
 ---
 
-* Toc
-{:toc}
-    
 #Acting on user feedback
 Once you have created structures to deal with user feedback (see the “Helpdesk” article), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.
 
