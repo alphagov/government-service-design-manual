@@ -1,7 +1,7 @@
 ---
 layout: design-patterns
 title: Buttons
-subtitle: Build to the GOV.UK style 
+subtitle: How to word them, how to code them, when to use them   
 section: guidance
 subsection: Design patterns
 type: resource
@@ -9,7 +9,7 @@ status: draft
 page_class: buttons
 ---
 
-Here's how to create buttons in the GOV.UK style.
+Buttons are used to signify actions that the user can perform. If it's not an action it should probably be a link. Here's how to create buttons in the GOV.UK style.
 
 [The Sass mixin for making these is available here](https://github.com/alphagov/prototyping/blob/master/_includes/stylesheets/design-patterns/_buttons.scss).
 
@@ -134,63 +134,46 @@ The above classes are included when you import 'forms.scss'. To create your own 
     }
 
 
-#Button labels
-<p>A button is the one place on the page that allows your user to move closer to their goal. Here, you will find out common conventions and style guidance. </p>
+## Button text
 
-<p>If the user doesn’t need to do something &ndash; it should be  a link. Buttons are for actions only.</p>
+Don't use:
 
-##Guidance
-<p>Don&rsquo;t:</p>
-<ul>
-<li>use technical terms &ndash;  use ‘delete’, not ‘form reset’
-<li>make button text too long &ndash; but do make it specific</li>
-</ul>
-</p>
+* technical terms - eg. use ‘delete’, not ‘form reset’
+* lots of words - eye tracking shows users are less likely to read long labels
 
-<p>Use:</p>
-<ul>
-<li>verbs and an active voice</li>
-<li>sentence case</li>
-</ul>
+Do use:
+
+* verbs and an active voice
+* clear, informative and succinct language
+* sentence case
 
 
-###Button labels
-<p> Use these terms for common actions:</P>
-<ul>
-<li>start now &ndash; at the beginning of the service</li>
-<li>next &ndash; not forward, go etc</li>
-<li>save &ndash; only tell the user about the action that will lead to a result &ndash; so if the action is to save a page and then move on to the next one, only tell the user &lsquo;next&rsquo;.</li>
-<li>finish &ndash; at the end of a service and you are taking them to a confirmation page</li> 
-<li>back &ndash; not previous etc</li>
-<li>sign in / sign out &ndash; not log in / log out</li>
-<li>create an account &ndash; not register</li>
-<li>sign up &ndash; only for mailing lists</li>
-</ul>
+### Common actions
+
+* **Start now** - at the beginning of the service
+* **Next** - not forward, go etc
+* **Finish** - at the end of a service and you are taking them to a confirmation page 
+* **Back** - not 'previous' etc
+* **Sign in / sign out** - not log in / log out
+* **Create an account** - not 'register'
+* **Sign up** - only use this for mailing lists
+
+### Compound actions
+
+Sometimes you want a single button to perform more than one action. For example, 'Save and quit'.
+
+It's worth trying to avoid this situation but if you can't, use common sense. If one of the actions is obvious or not important to know, don't mention it.
+
+For example, if a button saves the current state and moves the user to the next screen, don't use 'Save and next', just use 'Next', because users will assume the former. When in doubt, test with real users.
+
+### Using multiple buttons on one page
+
+* Try to stick to a single primary action per page
+* Make sure the button actions are clearly differentiated
+* Keep hard-to-undo actions ('Delete' etc.) well away from other actions
 
 
-###Multiple buttons
-<p>If you have a number of actions on the page &ndash; make sure you are very clear. Don’t have similar actions too close.</p>
-
-<p>For example: Clear and Finish</p>
-<p>&lsquo;Clear&rsquo;, as a secondary action, should be a link; &lsquo;Finish&rsquo;, as the primary action, should be a button. </p>
 
 
-##Code/Templates
-If you're giving people code r copy to cuta and paste then here is where it will go.
 
-##Why we do this
-<p>Users want the maximum amount of information in the shortest time. In a service, users are already more action-orientated than when expecting to read flat copy. They will want to click a button &ndash; it means they will be one step closer to finishing their task.</p>
-
-<p>Eye tracking shows users are less likely to read long labels. We don’t want them to get the action wrong &ndash; that will lead to frustration so we need to be clear, informative and succinct.</p>
-
-<p>Users look at the left of a box and then look for the label &ndash; or down the labels. Making labels short uses fewer eye muscles. This in turn, makes it easier for the user.</p>
-
-##Further reading
-Link within the Manual, or to other posts, that will help people to work on the tool.
-
-
-# See also
-
-* [Transaction design](/guides/designing-your-service/startandendoftransactionpages.html)
-* [Buttons design pattern](/guides/design-patterns/buttons.html)
 
