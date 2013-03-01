@@ -2,13 +2,12 @@
 // DESIGN PATTERN PAGE: FORMS
 //
 
-.forms {
-  /* Forms */
-  .form-example-1 {
-    @include form(top, 5.5em);
-  }
-
-  #form-example-2.top { @include form(top, 7.5em) }
-  #form-example-2.left { @include form(left, 7.5em) }
-  #form-example-2.right { @include form(right, 7.5em) }
+/* Forms */
+.form-example-1 {
+  @include form(top, 5.5em);
 }
+
+#form-example-2.top { @include form(top, 7.5em) }
+#form-example-2.left { @include form(left, 7.5em) }
+#form-example-2.right { @include form(right, 7.5em) }
+
