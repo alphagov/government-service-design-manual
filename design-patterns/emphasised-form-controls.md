@@ -1,16 +1,15 @@
 ---
 layout: design-patterns
 title: Emphasised form controls
-subtitle: Build to the GOV.UK style 
+subtitle: For highlighting important decisions 
 section: guidance
 subsection: Design patterns
 type: resource
 status: draft
 page_class: emphasised-form-controls
-js: /assets/javascripts/design-patterns/emphasised_form_controls.js
+js: /assets/javascript/design-patterns/emphasised_form_controls.js
 ---
 
-The pattern below gives selected radio buttons and checkboxes a highlight colour and makes their clickable area larger. Use this to emphasise important decisions.
 
 <div class="pattern-example">
   <div class="inner">
@@ -19,7 +18,7 @@ The pattern below gives selected radio buttons and checkboxes a highlight colour
       <ul class="emphasised option group">
         <li>
           <label>
-            <input type="radio" name="LPAtypeRadios" id="optionsRadios1" value="option1">
+            <input type="radio" name="LPAtypeRadios" id="optionsRadios1" value="option1" checked>
             Create an LPA for property and financial affairs
           </label>
         </li>
