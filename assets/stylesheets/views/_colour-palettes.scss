@@ -16,33 +16,24 @@
       li{
         list-style-type: none;
         list-style-image: none;
-        padding: 0.5em 0.8em;
-        margin: 0;
+        padding: 0 0.8em;
+        margin: 0 0 1em 0;
         font-size: 15px;
       }
       p{
         margin: 0;
       }
   }
-  .department-swatches li{
-    margin-bottom: 1em;
-  }
 
   /* Generate the colour palette CSS */
   @mixin colour($class, $colour){
       $updated: unquote($class);
       .#{$class} {
-          background-color: $colour;
-          * {
-            /* Set text colour depending on background colour */
-            @if lightness($colour) < 50% {
-              color: $white;
-            } @else {
-              color: $text-colour;
-            }
-          }
+          border-left: 2em solid $colour;
+          
           h4{
             margin-top: 0;
+            font-weight: bold;
           }
       }
   }
