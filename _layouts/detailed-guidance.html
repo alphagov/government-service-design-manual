@@ -15,6 +15,14 @@ section_class: detailed-guidance
       <h2 class="subtitle">{{ page.subtitle }}</h2>
       {% endif %}
     </hgroup>
+
+    {% if page.phases %}
+    <ul class="meta-phases group">
+      {% for phase in page.phases %}
+      <li class="{{ phase | downcase }}"><a href="/phases/{{ phase | downcase }}.html">{{ phase }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
   </header>
 
   <div class="article-container group">

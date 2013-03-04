@@ -10,7 +10,10 @@ audience:
     primary: designer, service-manager 
 theme: design
 status: draft
-assets: local
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
 
 #Acting on user feedback
