@@ -19,7 +19,11 @@ section_class: detailed-guidance
 
   <div class="article-container group">
     <div class="contents">
-      {{ page.content | toc_list }}
+      <nav>
+        <h2>Contents</h2>
+
+        {{ page.content | toc_list }}
+      </nav>
     </div>
 
     <div class="inner">

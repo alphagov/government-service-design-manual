@@ -5,11 +5,11 @@ module Jekyll
       html = ''
       content = Kramdown::Document.new(document)
       toc_tree = Kramdown::Converter::Toc.convert(content.root).first
-      html << "<ul>\n"
+      html << "<ol>\n"
       toc_tree.children.each do |heading|
         html << show_tree(heading)
       end
-      html << "</ul>\n"
+      html << "</ol>\n"
     end
   end
 end
@@ -21,11 +21,11 @@ def show_tree(my_item)
   html << "<li class=\"level-#{html_id}\"><a href=\"\##{html_id}\">#{text}</a>\n"
 
   if my_item.children.any?
-    html << "<ul>\n"
+    html << "<ol>\n"
     my_item.children.each do |my_child|
       html << show_tree(my_child)
     end
-    html << "</ul>\n"
+    html << "</ol>\n"
   end
 
   html << "</li>\n"
