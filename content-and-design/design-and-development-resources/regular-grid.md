@@ -13,7 +13,7 @@ A mixin for creating a regular grid of elements. All widths are expressed as per
 
 # Arguments
 
-The [mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/design-patterns/_regular-grid.scss) accepts two arguments:
+The [mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/content-and-design/design-and-development-resources/_regular-grid.scss) accepts two arguments:
 
 `$columns` : The number of columns in the grid
 

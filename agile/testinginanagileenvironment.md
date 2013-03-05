@@ -54,7 +54,7 @@ The most noticeable difference with testing in an Agile world is that the majori
 These tests run in Continuous Integration (C.I.) which means that they form part of your code base and every time you make a change to your code, your tests are automatically run. This gives you immediate feedback on the quality of your code and helps prevent bugs being found at a later stage when they are expensive and complicated to resolve.
 
 ### Code Testing
-Read the guidance about [testing code](/technical-architecture/codetesting.html).  
+Read the guidance about [testing code](/making-software/codetesting.html).  
 
 
 ### Exploratory Testing
@@ -73,13 +73,13 @@ When a manual test uncovers a defect, it is important to always add an automated
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
-Read the guidance about [load & performance testing](/technical-architecture/loadandperformancetesting.html)
+Read the guidance about [load & performance testing](/operations/loadandperformancetesting.html)
 
 ### Penetration Testing
-Read the guidance about [penetration testing](/technical-architecture/penetrationtesting.html)
+Read the guidance about [penetration testing](/operations/penetrationtesting.html)
 
 ### Accessibility Testing
-Read the guidance about [accessibility testing](/accessibility/accessibilitytesting.html)
+Read the guidance about [accessibility testing](/making-software/accessibilitytesting.html)
 
 ### Crowd Sourced Testing
 Crowd sourced testing is a good way of speeding up your manual testing and/or achieving better coverage.  
