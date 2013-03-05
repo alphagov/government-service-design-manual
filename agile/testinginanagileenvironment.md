@@ -89,4 +89,4 @@ There are external companies who provide this as a service, but at GDS we do it 
 Examples of where we have used this effectively include for pre-release testing of additional devices/browsers and for the detailed checking of hundreds of pieces of content on GOV.UK back to old content on DirectGov and BusinessLink.
 
 ### Test Your Ideas
-Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/users.html).
+Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/users/introductiontouserresearch.html).

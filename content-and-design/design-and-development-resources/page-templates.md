@@ -11,7 +11,7 @@ status: draft
 ---
 
 All new government services should have a consistent appearance. The best way
-to do this is to use the same [template code and assets](/templates-and-code/shared-asset-libraries.html).
+to do this is to use the same [template code and assets](/content-and-design/design-and-development-resources/shared-asset-libraries.html).
 This guide describes each element in the page template and explains how it should
 be used.
 
@@ -81,7 +81,7 @@ service appears.
 
 This is where all the page content lives. All content within this area should be
 consistent with the GOV.UK visual style and use the available
-[design patterns](/design-patterns).
+[design patterns](/content-and-design/design-and-development-resources/design-patterns.html).
 
 There are two main variants of this element: A narrower version with a 'related
 links' panel on the right, for content pages, and a wider version without a

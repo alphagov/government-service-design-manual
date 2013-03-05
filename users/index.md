@@ -42,7 +42,7 @@ The following technique may be useful when conducting user research
   <li><a href="/users/user-research/labbasedusertesting.html">lab-based user research</a></li>
   <li><a href="/users/user-research/onlineomnibussurveying.html">Online omnibus surveying</a></li>
   <li><a href="/users/user-research/onlineresearchpanels.html">Online research panels</a></li>
-  <li><a href="/users/remoteusabilitysummativetesting.html">Remote usability summative research</a></li>
+  <li><a href="/users/user-research/remoteusabilitysummativetesting.html">Remote usability summative research</a></li>
   <li><a href="/users/user-research/samedayusertesting.html">Same day user research</a></li>
   <li><a href="/users/user-research/samplingmethodologies.html">Sampling methodologies</a></li>
   <li><a href="/users/user-research/surveydesign.html">Survey design</a></li>
