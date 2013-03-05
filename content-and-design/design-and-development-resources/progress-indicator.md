@@ -54,7 +54,7 @@ Include the following in your SCSS to pull in styles for this pattern:
     
     @include progress-indicator;
 
-The [progress-indicator mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/design-patterns/_progress-indicator.scss) accepts three optional arguments:
+The [progress-indicator mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/content-and-design/design-and-development-resources/_progress-indicator.scss) accepts three optional arguments:
 
 `$active-colour` : The colour of the current step
 

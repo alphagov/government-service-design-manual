@@ -53,7 +53,7 @@ We've created a mixin to make it easier to create panels that match the GOV.UK s
 
 ## Parameters
 
-The [mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/design-patterns/_panels.scss) accepts the following arguments:
+The [mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/content-and-design/design-and-development-resources/_panels.scss) accepts the following arguments:
 
 `$colour`          Background colour. Default: Light grey
 

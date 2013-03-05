@@ -7,7 +7,7 @@ subsection: Design patterns
 type: resource
 status: draft
 page_class: hidden-form-controls
-js:  /assets/javascripts/design-patterns/hidden-form-controls.css
+js:  /assets/javascripts/content-and-design/design-and-development-resources/hidden-form-controls.css
 ---
 
 This pattern uses the details and summary tags to reveal content when a link or form label is clicked.

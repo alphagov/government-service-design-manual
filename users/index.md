@@ -32,27 +32,27 @@ The following technique may be useful when conducting user research
 
 <ul>
   <li><a href="/users/cardsorting.html">Card sorting</a></li>
-  <li><a href="/users/communityusergroups.html">Community user groups</a></li>
-  <li><a href="/users/discussionguides.html">Discussion guides</a></li>
-  <li><a href="/users/ethnographicresearch.html">Ethnographic research</a></li>
-  <li><a href="/users/multivariatetesting.html">Multivariate testing</a></li>
-  <li><a href="/users/focusgroupsminigroupsandinterviews.html">focus-groups / mini-groups and interviews</a></li>
-  <li><a href="/users/guerillatesting.html">Guerilla testing</a></li>
-  <li><a href="/users/heuristicevaluations.html">Heuristic evaluations</a></li>
-  <li><a href="/users/labbasedusertesting.html">lab-based user research</a></li>
-  <li><a href="/users/onlineomnibussurveying.html">Online omnibus surveying</a></li>
-  <li><a href="/users/onlineresearchpanels.html">Online research panels</a></li>
+  <li><a href="/users/user-research/communityusergroups.html">Community user groups</a></li>
+  <li><a href="/users/user-research/discussionguides.html">Discussion guides</a></li>
+  <li><a href="/users/user-research/ethnographicresearch.html">Ethnographic research</a></li>
+  <li><a href="/users/user-research/multivariatetesting.html">Multivariate testing</a></li>
+  <li><a href="/users/user-research/focusgroupsminigroupsandinterviews.html">focus-groups / mini-groups and interviews</a></li>
+  <li><a href="/users/user-research/guerillatesting.html">Guerilla testing</a></li>
+  <li><a href="/users/user-research/heuristicevaluations.html">Heuristic evaluations</a></li>
+  <li><a href="/users/user-research/labbasedusertesting.html">lab-based user research</a></li>
+  <li><a href="/users/user-research/onlineomnibussurveying.html">Online omnibus surveying</a></li>
+  <li><a href="/users/user-research/onlineresearchpanels.html">Online research panels</a></li>
   <li><a href="/users/remoteusabilitysummativetesting.html">Remote usability summative research</a></li>
-  <li><a href="/users/samedayusertesting.html">Same day user research</a></li>
-  <li><a href="/users/samplingmethodologies.html">Sampling methodologies</a></li>
-  <li><a href="/users/surveydesign.html">Survey design</a></li>
-  <li><a href="/users/userresearchsurveys.html">User research surveys</a></li>
-  <li><a href="/users/userresearchtools.html">User research tools</a></li>
-  <li><a href="/users/sentimentanalysis.html">Sentiment analysis</a></li>
+  <li><a href="/users/user-research/samedayusertesting.html">Same day user research</a></li>
+  <li><a href="/users/user-research/samplingmethodologies.html">Sampling methodologies</a></li>
+  <li><a href="/users/user-research/surveydesign.html">Survey design</a></li>
+  <li><a href="/users/user-research/userresearchsurveys.html">User research surveys</a></li>
+  <li><a href="/users/user-research/userresearchtools.html">User research tools</a></li>
+  <li><a href="/users/user-research/sentimentanalysis.html">Sentiment analysis</a></li>
 </ul>
 
 ## User research briefs
 
 As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results in a useful format.
 
-[Learn how to write user research briefs](/users/userresearchbriefs.html)
+[Learn how to write user research briefs](/users/user-research/userresearchbriefs.html)
