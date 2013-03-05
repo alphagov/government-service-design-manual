@@ -7,7 +7,7 @@ subsection: Design patterns
 type: resource
 status: draft
 page_class: emphasised-form-controls
-js: /assets/javascript/design-patterns/emphasised_form_controls.js
+js: /assets/javascript/content-and-design/design-and-development-resources/emphasised_form_controls.js
 ---
 
 

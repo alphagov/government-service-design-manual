@@ -11,7 +11,7 @@ page_class: buttons
 
 Buttons are used to signify actions that the user can perform. If it's not an action it should probably be a link. Here's how to create buttons in the GOV.UK style.
 
-[The Sass mixin for making these is available here](https://github.com/alphagov/prototyping/blob/master/_includes/stylesheets/design-patterns/_buttons.scss).
+[The Sass mixin for making these is available here](https://github.com/alphagov/prototyping/blob/master/_includes/stylesheets/content-and-design/design-and-development-resources/_buttons.scss).
 
 ## Default examples
 <div class="pattern-example">

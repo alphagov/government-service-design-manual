@@ -73,13 +73,13 @@ When a manual test uncovers a defect, it is important to always add an automated
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
-Read the guidance about [load & performance testing](/technical-architecture/loadandperformancetesting.html)
+Read the guidance about [load & performance testing](/operations/loadandperformancetesting.html)
 
 ### Penetration Testing
-Read the guidance about [penetration testing](/technical-architecture/penetrationtesting.html)
+Read the guidance about [penetration testing](/operations/penetrationtesting.html)
 
 ### Accessibility Testing
-Read the guidance about [accessibility testing](/accessibility/accessibilitytesting.html)
+Read the guidance about [accessibility testing](/technical-architecture/accessibilitytesting.html)
 
 ### Crowd Sourced Testing
 Crowd sourced testing is a good way of speeding up your manual testing and/or achieving better coverage.  

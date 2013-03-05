@@ -21,12 +21,12 @@ Once live, service performance will be monitored and displayed on the [Performan
 ## The KPIs
 Understand more about how to define, measure and implement the KPIs:
 
-* [cost per transaction](/kpis/costpertransaction.html)
-* [user satisfaction](/kpis/usersatisfaction.html)
-* [completion rate](/kpis/completionrate.html)
-* [digital take-up](/kpis/digital-takeup.html)
+* [cost per transaction](/measurement/costpertransaction.html)
+* [user satisfaction](/measurement/usersatisfaction.html)
+* [completion rate](/measurement/completionrate.html)
+* [digital take-up](/measurement/digital-takeup.html)
 
 ## What else should you measure?
 The Performance framework describes how to define other metrics you should measure and monitor.
 
-[Read more >](/kpis/performanceframework.html)
+[Read more >](/measurement/performanceframework.html)
