@@ -24,14 +24,14 @@ The most important step for a team is to identify the needs of its users. These 
 
 You will be using research to test your assumptions throughout the design, build and operation of a service. This introduction sets out a few of the basics of user research.
 
-[Learn more about user research](introductiontouserresearch.html)
+[Learn more about user research](introduction-to-user-research.html)
 
 ## User research techniques
 
 The following technique may be useful when conducting user research
 
 <ul>
-  <li><a href="/users/cardsorting.html">Card sorting</a></li>
+  <li><a href="/users/card-sorting.html">Card sorting</a></li>
   <li><a href="/users/user-research/communityusergroups.html">Community user groups</a></li>
   <li><a href="/users/user-research/discussionguides.html">Discussion guides</a></li>
   <li><a href="/users/user-research/ethnographicresearch.html">Ethnographic research</a></li>
