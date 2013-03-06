@@ -2,14 +2,12 @@
 layout: detailed-guidance
 title: Delivery manager
 subtitle: Enabling teams to deliver high-quality services
-section: 
-subsection: Building a team
-type: guide
+section: the-team
 audience:
   primary:
-theme: Getting started
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 The delivery manager (the Scrum Master in Scrum) sets the team up for successful delivery.

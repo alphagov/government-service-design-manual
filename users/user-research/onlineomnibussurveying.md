@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: Online Omnibus surveying
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #Online Omnibus surveying

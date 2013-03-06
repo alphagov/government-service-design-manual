@@ -1,9 +1,11 @@
 ---
 layout: detailed-guidance
 title: Performance Framework
-section: guidance
-subsection: Planning to monitor performance
 status: draft
+section: measurement
+phases:
+  - beta
+  - live
 ---
     
 This guide aims to empower service managers to design and improve transactional public services. It is based around seven principles, with easy-to-follow checklists to help you get started.

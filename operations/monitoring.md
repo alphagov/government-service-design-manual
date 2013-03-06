@@ -2,15 +2,11 @@
 layout: detailed-guidance
 title: Monitoring
 subtitle: Tracking the status of a service
-section: guidance
-subsection: Maintaining services
+section: operations
 status: draft
-type: 
 audience: 
     primary: tech-arch, developer
     secondary:
-theme: Running a service
-assets: local
 ---
 
 Any online application should have some tools dedicated to alerting the people running the service to problems. This might involve low level issues involving the infrastructure underpinning the service to a sudden high rate of user errors.

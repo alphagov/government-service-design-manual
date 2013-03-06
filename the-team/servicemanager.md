@@ -2,12 +2,12 @@
 layout: detailed-guidance
 title: How to be a service manager
 subtitle: Learn what a service manager does, and how to be a good one
-section: guidance
-type: guide
-theme: getting-started
+section: the-team
 audience:
   primary: service-manager
 status: draft
+phases:
+  - discovery
 ---
 
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.

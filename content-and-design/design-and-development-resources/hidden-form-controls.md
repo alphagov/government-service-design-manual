@@ -2,12 +2,14 @@
 layout: design-patterns
 title: Hidden form controls
 subtitle: Build to the GOV.UK style 
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 status: draft
 page_class: hidden-form-controls
-js:  /assets/javascripts/content-and-design/design-and-development-resources/hidden-form-controls.css
+js:  /assets/javascripts/design-patterns/hidden-form-controls.css
 ---
 
 This pattern uses the details and summary tags to reveal content when a link or form label is clicked.

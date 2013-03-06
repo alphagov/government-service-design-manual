@@ -2,14 +2,15 @@
 layout: detailed-guidance
 title: Features of agile
 subtitle: Sprints, stand-ups and other regular meetings
-section: guidance
-subsection: Working in an agile way
-type: guide
+section: agile
 audience:
   primary: service-manager
   secondary: designer, developer, tech-arch, analyst, researcher
-theme: agile
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 Here are some of the common features of the agile development methods we've used at GDS.

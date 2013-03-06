@@ -2,15 +2,14 @@
 layout: detailed-guidance
 title: Accessibility testing
 subtitle: Testing to see if your service is inclusive
-section: guidance
-subsection: Accessibility 
-type: guide
 audience: 
     primary: researcher
     secondary: designer, developer
-theme: Measurement
-status: draft
-assets: local
+section: making-software
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 This guidance looks at how accessibility testing should be conducted to ensure that new services are built with all users in mind.

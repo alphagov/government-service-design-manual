@@ -2,14 +2,12 @@
 layout: detailed-guidance
 title: Analytics skills
 subtitle: Understanding user data
-section: 
-subsection: Building a team
-type: guide
+section: the-team
 audience:
   primary: 
-theme: Getting started
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Good digital services will make use digital analysts to continually monitor performance data, identify where potential improvements could be made and test the impact of new designs.

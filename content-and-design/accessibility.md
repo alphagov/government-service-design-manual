@@ -1,17 +1,17 @@
 ---
-layout: category-index
+layout: detailed-guidance
 title: Access for all
 subtitle: How to make services that everyone can use
-section: guidance
-subsection:
-type: guide
+section: content-and-design
 audience:
   primary: designer, developer, service-manager
   secondary:
-theme: understanding-your-audience
 status: draft
-assets: local
-long-title: true
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents).

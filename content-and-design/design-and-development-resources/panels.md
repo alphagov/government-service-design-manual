@@ -2,10 +2,12 @@
 layout: design-patterns
 title: Panel styles
 subtitle: Build to the GOV.UK style 
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 page_class: panels
 ---
 

@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: User research surveys
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #User research surveys

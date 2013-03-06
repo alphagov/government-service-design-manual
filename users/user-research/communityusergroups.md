@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: Community user groups
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #Community user groups

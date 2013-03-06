@@ -1,11 +1,13 @@
 ---
 layout: design-patterns
-subtitle: Build to the GOV.UK style 
-section: guidance
-subsection: Design patterns
-type: resource
-status: draft
 title: Anatomy of a form
+subtitle: Build to the GOV.UK style 
+section: design-and-development-resources
+status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 Examples, markup and styles for most basic form elements.

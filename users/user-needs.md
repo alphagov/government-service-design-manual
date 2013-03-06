@@ -2,13 +2,15 @@
 layout: detailed-guidance
 title: Understanding user needs
 subtitle: How to focus a service on users
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: users
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 Understanding user needs is crucial for building a successful digital service. 

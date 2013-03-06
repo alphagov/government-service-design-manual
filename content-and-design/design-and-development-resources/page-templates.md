@@ -5,8 +5,11 @@ subtitle: How to use the elements that make up the GOV.UK page templates
 audience:
   primary: designer, developer
   secondary: tech-arch,
-type: resource
-section: guidance
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 status: draft
 ---
 

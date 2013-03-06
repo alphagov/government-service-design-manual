@@ -2,11 +2,14 @@
 layout: detailed-guidance
 title: GOV.UK Style Guide
 subtitle: How to write content for the GOV.UK website
-section: guidance
-type: guide
+section: content-and-design
 audience: 
     primary: content-designer
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
     
 #GOV.UK Style Guide

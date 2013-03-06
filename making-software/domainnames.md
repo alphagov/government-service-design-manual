@@ -2,11 +2,13 @@
 layout: detailed-guidance
 title: Domain names and URLs
 subtitle: How to construct good URLs
-section: guidance
-type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+section: making-software
+phases:
+  - beta
+  - live
 ---
 
 Domain names and URLs are an important part of the user's experience of a service.

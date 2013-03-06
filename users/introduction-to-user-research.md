@@ -2,14 +2,14 @@
 layout: detailed-guidance
 title: An introduction to user research
 subtitle: Basing your service on user needs and user input
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
-
+section: users
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
 
 This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below. 

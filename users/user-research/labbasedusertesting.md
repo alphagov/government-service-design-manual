@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: Lab based user testing
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 This guidance talks about how lab based user testing can be used to provide user research that can feed into product and service design.

@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: Sentiment analysis
 subtitle: Understanding user's feelings about a service
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 Sentiment analysis is a method used to analyse high volumes of verbatim comments from users in order to help easily understand the attitude and tone of users’ comment.

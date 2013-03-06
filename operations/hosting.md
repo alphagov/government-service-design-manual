@@ -2,15 +2,11 @@
 layout: detailed-guidance
 title: Hosting
 subtitle: Where your service will live
-section: guidance
-subsection: Maintaining services
 status: draft
-type: 
 audience: 
     primary: tech-arch, developer
     secondary:
-theme: Running a service
-assets: local
+section: operations
 ---
 
 The software running your service will need servers to run on. This guide will help you decide how you host your applications and the things to think about if selecting a vendor.

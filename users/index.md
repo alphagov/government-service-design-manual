@@ -2,13 +2,16 @@
 layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
-section: guidance
 audience:
   primary: researcher, designer, service-manager
   secondary: developer, tech-arch, analyst
-type: guide
-theme: understanding-your-audience
 status: draft
+section: users
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 User needs are at the heart of all Digital by Default services, and to meet them you will need to test your services and assumptions with real users.

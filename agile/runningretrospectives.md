@@ -2,14 +2,14 @@
 layout: detailed-guidance
 title: Running retrospectives
 subtitle: How and why we run retrospectives.
-section: guidance
-subsection: agile
-type: guide
+section: agile
 audience:
   primary: service manager
-theme: agile
 status: draft
-assets: local
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 One of the central principles of agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.

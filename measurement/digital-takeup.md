@@ -2,11 +2,14 @@
 layout: detailed-guidance
 title: Digital take-up
 subtitle: How to draw up a channel shift strategy for your service
-section: guidance
 audience:
   primary: service-manager
   secondary: analyst
 status: draft
+section: measurement
+phases:
+  - beta
+  - live
 ---
 
 Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/assisted-digital/index.html) users.

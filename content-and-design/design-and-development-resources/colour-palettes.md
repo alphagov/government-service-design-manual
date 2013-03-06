@@ -2,11 +2,12 @@
 layout: wide
 title: Colour palettes
 subtitle: Hex values and Sass variable names for the GOV.UK colours
-section: guidance
+section: design-and-development-resources
 status: draft
-audience:
-  primary: designer
-type: resource
+phases:
+  - alpha
+  - beta
+  - live
 page_class: colours
 ---
 

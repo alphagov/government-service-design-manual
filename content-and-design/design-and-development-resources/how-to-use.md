@@ -2,9 +2,11 @@
 layout: design-patterns
 title: Design pattern library
 subtitle: Build to the GOV.UK style 
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 status: draft
 ---
 

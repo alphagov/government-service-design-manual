@@ -2,13 +2,10 @@
 layout: detailed-guidance
 title: Helpdesk
 subtitle: How to incorporate user contacts into design
-section: guidance
-subsection: Maintaining services
+section: operations
 status: draft
-type: guide
 audience: 
     primary: designer, service-manager 
-theme: design
 status: draft
 phases:
   - discovery

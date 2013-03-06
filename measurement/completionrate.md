@@ -1,9 +1,11 @@
 ---
 layout: detailed-guidance
 title: Completion rate
-section: guidance
-subsection: KPIs
 status: draft
+section: measurement
+phases:
+  - beta
+  - live
 ---
 
 The completion rate measures the proportion of people who start a transaction and are able to complete it.

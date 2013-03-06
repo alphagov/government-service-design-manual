@@ -2,9 +2,12 @@
 layout: design-patterns
 title: Error messages
 subtitle: How to write helpful messages for users when things go wrong
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
+status: draft
+phases:
+  - alpha
+  - beta
+  - live
 audience: 
     primary: designer, developer, content designer
 status: draft

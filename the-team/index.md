@@ -3,27 +3,12 @@ layout: category-index
 title: The team
 subtitle: What you'll need to build a successful service
 status: draft
-type: guide
 audience:
   primary: service-manager
-theme: getting-started
+section: the-team
+phases:
+  - discovery
 ---
-
-<!--
-<style>
- img{
-  width: 100%;
-  display: block;
- }
- figure{
-  width: 50%; float: right; margin: -2.5em 0 0 1em
- }
- figcaption{
-  text-align: center;
- }
-</style>
--->
-
 
 Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed.
 

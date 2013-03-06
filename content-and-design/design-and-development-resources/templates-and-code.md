@@ -2,8 +2,11 @@
 layout: default
 title: Templates and code
 subtitle: Get the templates and code you need to build consistent services
-section: guidance
-type: guide
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 audience: 
     primary: designer
     secondary: developer

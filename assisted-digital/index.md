@@ -2,12 +2,15 @@
 layout: detailed-guidance
 title: Assisted digital
 subtitle: Getting digital services to hard to reach audiences
-section: guidance
+section: assisted-digital
 audience:
   primary: designer, researcher, service-manager
-type: guide
 status: draft
-theme: understanding-your-audience
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 Digital by default services will include assisted digital support for users who are not able to use digital services independently.

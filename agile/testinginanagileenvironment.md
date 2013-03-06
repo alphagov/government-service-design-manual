@@ -2,14 +2,16 @@
 layout: detailed-guidance
 title: Testing in an agile environment
 subtitle: What testing your service might look like
-section: guidance
-subsection: Working in an agile way
-type: guide
+section: agile
 audience: 
   primary: service-manager, developer, researcher
   secondary: designer, analyst
 theme: agile
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 Fundamentally, the basics of any testing approach still apply in the Agile world. However, the focus of testing can be quite different.  

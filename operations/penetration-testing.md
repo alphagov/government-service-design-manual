@@ -2,8 +2,7 @@
 layout: detailed-guidance
 title: Vulnerability and penetration testing
 subtitle: Identifying insecurities in your service
-section: guidance
-type: guide
+section: operations
 audience:
   primary: developer, tech-arch
 status: draft

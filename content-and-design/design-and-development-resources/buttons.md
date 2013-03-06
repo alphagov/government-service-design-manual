@@ -2,10 +2,12 @@
 layout: design-patterns
 title: Buttons
 subtitle: How to word them, how to code them, when to use them   
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 page_class: buttons
 ---
 

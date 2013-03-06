@@ -2,15 +2,13 @@
 layout: default
 title: Web operations skills
 subtitle: helping develop maintainable systems
-section: guidance
-subsection: Building a team
-type: guide
+section: the-team
 audience:
   primary: service manager
   secondary: designer, developer
-theme: Getting started
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 ## The importance of web operations

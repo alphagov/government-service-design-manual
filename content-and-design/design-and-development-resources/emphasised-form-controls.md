@@ -2,12 +2,14 @@
 layout: design-patterns
 title: Emphasised form controls
 subtitle: For highlighting important decisions 
-section: guidance
-subsection: Design patterns
-type: resource
+section: design-and-development-resources
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 page_class: emphasised-form-controls
-js: /assets/javascript/content-and-design/design-and-development-resources/emphasised_form_controls.js
+js: /assets/javascript/design-patterns/emphasised_form_controls.js
 ---
 
 

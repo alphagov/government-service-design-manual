@@ -2,14 +2,14 @@
 layout: detailed-guidance
 title: Survey sampling methodologies
 subtitle: How to draw an effective selection of user
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
-
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #Survey sampling methodologies

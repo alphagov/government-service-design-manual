@@ -2,12 +2,13 @@
 layout: detailed-guidance
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
-section: guidance
+section: content-and-design
 audience:
   primary: designer, developer
-type: resource
-theme: understanding-your-audience
 status: draft
+phases:
+  - beta
+  - live
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

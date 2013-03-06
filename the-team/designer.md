@@ -2,14 +2,12 @@
 layout: detailed-guidance
 title: Designers
 subtitle: What designers do and what to look for
-section: 
-subsection: Building a team
-type: guide
+section: the-team
 audience:
   primary: 
-theme: agile
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Design of the service is everyone's responsibility. Those with the title of designer may have a particular focus on one or more specific design disciplines - interaction, graphic – but a good digital service needs needs talented, flexible designers to help build user-centred products.

@@ -2,10 +2,13 @@
 layout: detailed-guidance
 title: Typography
 subtitle: Creating clear, easy to read type for the web
-section: guidance
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 audience:
   primary: designer
-type: resource
 status: draft
 ---
 

@@ -2,14 +2,16 @@
 layout: detailed-guidance
 title: What agile looks like
 subtitle: Common features of agile projects
-section: guidance
-subsection: Working in an agile way
-type: guide
+section: agile
 audience:
   primary: service-manager
   secondary: designer, developer, tech-arch, analyst, researcher
-theme: agile
 status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 {:.intro}

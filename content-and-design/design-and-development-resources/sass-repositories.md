@@ -2,10 +2,13 @@
 layout: detailed-guidance
 title: Sass repositories
 subtitle: A library of CSS mixins in the Sass format
-section: guidance
+section: design-and-development-resources
+phases:
+  - alpha
+  - beta
+  - live
 audience:
   primary: designer, developer
-type: resource
 status: draft
 ---
 

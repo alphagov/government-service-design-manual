@@ -2,18 +2,14 @@
 layout: detailed-guidance
 title: Helpdesk feedback
 subtitle: Using helpdesk contacts to improve services
-section: guidance
-subsection: Maintaining services
 status: draft
-type: guide
 audience: 
   primary: designer, service-manager 
-theme: design
 status: draft
 phases:
- - discovery
  - alpha
  - beta
+ - live
 ---
 
 Once you have created [a helpdesk](/making-software/helpdesk.html), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.

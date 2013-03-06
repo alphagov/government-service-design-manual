@@ -2,13 +2,14 @@
 layout: detailed-guidance
 title: User research tools
 subtitle: Products available to researchers
-section: guidance
-subsection: User research
-type: guide 
 audience: 
     primary: research 
 status: draft
-assets: local
+section: user-research
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #User research tools

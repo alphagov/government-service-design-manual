@@ -2,14 +2,12 @@
 layout: detailed-guidance
 title: Designing transactions
 subtitle: Starting and ending transactions, showing progress etc.
-section: guidance
+section: content-and-design
 audience: 
   primary: designer
 type: guide
 status: draft
 ---
-
-{% include _toc.md %}
 
 ## Microcopy
 
@@ -23,8 +21,7 @@ for things like buttons, form labels, help text, alerts and questions.
 * Follow the style guide
 * Don't use 'please' on labels - but give polite, clear, short instructions
 * Don't use colons after labels
-* Don't add 'your' to labels, for example: 'Your name', 'Your address',
-, unless you have a page with multiple people where you need to differentiate - for example: 'your name', 'partner name'
+* Don't add 'your' to labels, for example: 'Your name', 'Your address', unless you have a page with multiple people where you need to differentiate - for example: 'your name', 'partner name'
 
 ### Asking for personal details
 
@@ -56,7 +53,7 @@ Examples: &lsquo;If you don't have your form XYZ rsquo; or &lsquo;Where to find 
 Use an expandable show/hide box for slightly more lengthy instructions. You can use statements and questions but don't use the first person.
 Examples: &lsquo;If you want to apply for both of these benefits&rsquo; (in this instance, you can&rsquo;t and there is another process you have to go through.
 
-####Light box
+#### Light box
 Only use a light box for help if you are explaining a concept or part of a process - don't use it for explaining any part of the service. If you need to explain how the service works with that much text, your design is probably wrong.
 
 
