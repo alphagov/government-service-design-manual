@@ -34,11 +34,17 @@ Secondary data, also known as desk research, can be used, and involves the analy
 
 ## Research in the product's lifecycle
 
-The diagram below illustrates the typical product lifecycle, showing the stages at which user research should be conducted. This chart can be used as a reference to ensure that user needs are being factored into design at every stage. 
+The table below illustrates the typical product lifecycle, showing the stages at which user research should be conducted. This chart can be used as a reference to ensure that user needs are being factored into design at every stage. 
 
 Typically this will involve some initial fact finding in the early stages to see understand the user needs, including who they are, how they currently do things, how they’d like to do them, and what information is currently available. 
 
-CHART 1 GOES HERE
+| Discovery | Alpha | Beta | Live |
+| Desk Research | Heuristic evaluation | Lab based testing | User surveys |
+| Ethnography | Guerilla testing | Remote usability testing | Remote usability testing |
+| Focus Groups | | Focus groups | |
+| Card Sorting | | 1:1 interviews | |
+| User surveys | | | |
+
 
 ## Research methods
 
