@@ -19,7 +19,7 @@ You can read more about assisted digital in the [Government Approach to Assisted
 ## Who needs Assisted digital support?
 Assisted digital support is for users who are not able to use digital services independently. 18% of UK adults are offline and the GDS Digital Landscape Research provides a [demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
 
-Each service will have a different proportion of users who are not online and [understanding user needs](/users/understandinguserneeds.html) is vital for putting in place appropriate assisted digital support. Some services (e.g. where users are large corporations) will not require assisted digital.
+Each service will have a different proportion of users who are not online and [understanding user needs](/users/user-needs.html) is vital for putting in place appropriate assisted digital support. Some services (e.g. where users are large corporations) will not require assisted digital.
 
 ## What good looks like
 Good assisted digital support:
