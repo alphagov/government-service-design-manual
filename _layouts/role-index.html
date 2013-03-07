@@ -38,7 +38,7 @@ section_class: wide role-index
     <div class="hero link-list">
       {% for p in site.pages %}
         {% if p.title == page.hero %}
-        <a href="{{ p.url }}">
+        <a href="{{ p.url | replace:'.html','' }}">
           <h3>{{ p.title }}</h3>
           <p>{{ p.subtitle }}</p>
         </a>
@@ -53,7 +53,7 @@ section_class: wide role-index
       {% for p in site.pages %}
         {% if p.audience.primary contains page.audience and p.type == 'guide' and p.title != page.hero %}
         <li> 
-            <a href="{{ p.url }}">{{ p.title }}</a>
+            <a href="{{ p.url | replace:'.html','' }}">{{ p.title }}</a>
         </li>
         {% endif %}
       {% endfor %}
@@ -67,7 +67,7 @@ section_class: wide role-index
       {% for p in site.pages %}
         {% if p.audience.primary contains page.audience and p.type == 'resource' %}
         <li> 
-            <a href="{{ p.url }}">{{ p.title }}</a>
+            <a href="{{ p.url | replace:'.html','' }}">{{ p.title }}</a>
         </li>
         {% endif %}
       {% endfor %}
@@ -85,7 +85,7 @@ section_class: wide role-index
     {% for p in site.pages %}
       {% if p.audience.secondary contains page.audience %}
       <li> 
-          <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+          <a href="{{ p.url | replace:'.html','' }}" title="{{ p.subtitle }}">{{ p.title }}</a>
           <span class="subtitle">{{ p.subtitle }}</span>
       </li>
       {% endif %}
