@@ -47,7 +47,7 @@ $(document).ready(function (){
 
 Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
 
-  <img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a Digital by Default service" />
+  <img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
 Explore the four development phases of a digital service in more detail below.
 
@@ -261,39 +261,3 @@ Explore the four development phases of a digital service in more detail below.
       </section>
     </div>
   </div>
-
-
-
-  
-
-<!--
-
-#Structure of a Digital by Default project
-
-Citizens increasingly web savvy, more demanding.
-
-Industry has evolved techniques for digital delivery in web environments.
-
-Digital by Default approach based on industry best practice.
-
-Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break this work down into discrete phases. 
-
-Each phase can be though of as an iteration of the idea, increasing the level of detail, complexity and risk throughout.
-
-Great digital services are ones that have evolved rapidly & in the open, with that evolution directed by evidence based on real user feedback.
-
-This iterative approach allows the team working on the service to  to start small, fail fast, and deliver value to our users as early as possible.
-
-Approach designed to provide rapid feedback, openness.
-
-Progression between phases, delivering value early & taking on complexity & risk as capability matures.
-
-
-* [Discovery phase](/guides/phases/discovery.html)
-* [Alpha phase](/guides/phases/alpha.html)
-* [Public beta phase](/guides/phases/beta.html)
-* [Live phase](/guides/phases/live.html)
-* [Iteration, improvement and operations](/guides/phases/operational.html)
-* [Decommisioning phase](/guides/phases/decommisioning.html)
-
--->

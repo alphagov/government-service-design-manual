@@ -29,7 +29,7 @@ These Service Managers will:
 
 ## Help with hiring service managers
 
-The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager.
+The [government digital strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager.
 
 Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 

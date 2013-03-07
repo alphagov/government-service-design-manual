@@ -28,4 +28,4 @@ When building a team ask to see examples of work and ask the designers to talk y
 [Mid weight Front-end developer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1Aa3mZn3131Y7byIykLftOhmIoCUe4u--faWFBJQkFqM/edit)
 
 ##Further reading
-[Specific guidance for designers working on Digital by default services](/designers).
+[Specific guidance for designers working on digital by default services](/designers).
