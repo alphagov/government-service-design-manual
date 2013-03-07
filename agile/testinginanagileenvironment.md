@@ -73,7 +73,7 @@ When a manual test uncovers a defect, it is important to always add an automated
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
-Read the guidance about [load & performance testing](/operations/loadandperformancetesting.html)
+Read the guidance about [load & performance testing](/operations/load-and-performance-testing.html)
 
 ### Penetration Testing
 Read the guidance about [penetration testing](/operations/penetrationtesting.html)
