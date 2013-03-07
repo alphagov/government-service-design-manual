@@ -76,7 +76,7 @@ Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.p
 Read the guidance about [load & performance testing](/operations/load-and-performance-testing.html)
 
 ### Penetration Testing
-Read the guidance about [penetration testing](/operations/penetrationtesting.html)
+Read the guidance about [penetration testing](/operations/penetration-testing.html)
 
 ### Accessibility Testing
 Read the guidance about [accessibility testing](/making-software/accessibilitytesting.html)
