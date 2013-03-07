@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: Digital take-up
 subtitle: How to draw up a channel shift strategy for your service
+section: measurement
+type: guide
 audience:
   primary: service-manager
   secondary: analyst
 status: draft
-section: measurement
 phases:
   - beta
   - live

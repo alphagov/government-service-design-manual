@@ -3,6 +3,7 @@ layout: design-patterns
 title: Contact details
 subtitle: Build to the GOV.UK style 
 section: design-and-development-resources
+type: resource
 status: draft
 phases:
   - alpha

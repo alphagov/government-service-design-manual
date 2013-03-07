@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Page templates
 subtitle: How to use the elements that make up the GOV.UK page templates
+section: design-and-development-resources
+type: resource
 audience:
   primary: designer, developer
   secondary: tech-arch,
-section: design-and-development-resources
 phases:
   - alpha
   - beta

@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Designing transactions
 subtitle: Starting and ending transactions, showing progress etc.
 section: content-and-design
+type: resource
 audience: 
   primary: designer
 type: guide

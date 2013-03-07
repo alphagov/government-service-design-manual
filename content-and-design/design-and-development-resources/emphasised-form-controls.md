@@ -3,6 +3,7 @@ layout: design-patterns
 title: Emphasised form controls
 subtitle: For highlighting important decisions 
 section: design-and-development-resources
+type: resource
 status: draft
 phases:
   - alpha

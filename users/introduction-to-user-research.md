@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: An introduction to user research
 subtitle: Basing your service on user needs and user input
+section: users
+type: guide
 audience: 
     primary: research 
 status: draft
-section: users
 phases:
   - discovery
   - alpha

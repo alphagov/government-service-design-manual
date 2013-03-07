@@ -2,6 +2,7 @@
 layout: detailed-guidance
 title: Measuring cost per transaction
 section: measurement
+type: guide
 phases:
   - beta
   - live

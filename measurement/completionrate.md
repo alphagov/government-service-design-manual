@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Completion rate
 status: draft
 section: measurement
+type: guide
 phases:
   - beta
   - live

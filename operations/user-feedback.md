@@ -2,7 +2,8 @@
 layout: detailed-guidance
 title: Helpdesk feedback
 subtitle: Using helpdesk contacts to improve services
-status: draft
+section: operations
+type: guide
 audience: 
   primary: designer, service-manager 
 status: draft

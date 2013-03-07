@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Writing government services
 subtitle: Tone of voice, writing style, use of headings and more
 section: content-and-design
+type: guide
 audience:
   primary: content-designer
 status: draft

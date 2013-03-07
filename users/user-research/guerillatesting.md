@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Guerilla testing
 subtitle: Getting input into products and services
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-section: user-research
 phases:
   - discovery
   - alpha

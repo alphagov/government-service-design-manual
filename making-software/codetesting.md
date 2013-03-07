@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Testing code
 subtitle: How to ensure your code does what it's supposed to
+section: making-software
+type: guide
 audience:
   primary: developer, tech-arch
 status: draft
-section: making-software
 phases:
   - alpha
   - beta

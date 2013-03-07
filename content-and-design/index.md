@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Designing for GOV.UK
 subtitle: General guidance for those developing for GOV.UK
 section: content-and-design
+type: guide
 audience:
   primary: designer
 status: draft

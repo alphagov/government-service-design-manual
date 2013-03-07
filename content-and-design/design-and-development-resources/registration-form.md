@@ -3,6 +3,7 @@ layout: design-patterns
 title: Form example - Registration
 subtitle: Build to the GOV.UK style 
 section: design-and-development-resources
+type: resource
 phases:
   - alpha
   - beta

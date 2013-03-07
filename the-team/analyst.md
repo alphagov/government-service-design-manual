@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Analytics skills
 subtitle: Understanding user data
 section: the-team
+type: guide
 audience:
   primary: 
 status: draft

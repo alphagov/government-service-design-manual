@@ -2,6 +2,7 @@
 layout: detailed-guidance
 title: User satisfaction
 section: measurement
+type: guide
 phases:
   - beta
   - live

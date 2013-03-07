@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Sass repositories
 subtitle: A library of CSS mixins in the Sass format
 section: design-and-development-resources
+type: resource
 phases:
   - alpha
   - beta

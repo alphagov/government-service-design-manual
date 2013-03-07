@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Testing in an agile environment
 subtitle: What testing your service might look like
 section: agile
+type: guide
 audience: 
   primary: service-manager, developer, researcher
   secondary: designer, analyst

@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: Open standards and licensing
 subtitle: Building services using common standards
+section: making-software
+type: guide
 audience:
   primary: tech-arch, developer
   secondary: service-manager
 status: draft
-section: making-software
 phases:
   - beta
   - live

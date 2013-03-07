@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Sentiment analysis
 subtitle: Understanding user's feelings about a service
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-section: user-research
 phases:
   - discovery
   - alpha

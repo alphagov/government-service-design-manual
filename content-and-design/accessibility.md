@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Access for all
 subtitle: How to make services that everyone can use
 section: content-and-design
+type: guide
 audience:
   primary: designer, developer, service-manager
   secondary:

@@ -2,6 +2,7 @@
 layout: detailed-guidance
 title: Hosting
 subtitle: Where your service will live
+type: guide
 status: draft
 audience: 
     primary: tech-arch, developer

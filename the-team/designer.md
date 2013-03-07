@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Designers
 subtitle: What designers do and what to look for
 section: the-team
+type: guide
 audience:
   primary: 
 status: draft

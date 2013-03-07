@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Analytics tools
 subtitle: 
 section: making-software
+type: guide
 phases:
   - beta
   - live

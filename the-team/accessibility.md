@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: Accessibility skills
 subtitle: What your team needs to build for inclusion
+section: the-team
+type: guide
 audience:
   primary: service manager
   secondary: designer, developer
 status: draft
-section: the-team
 phases:
   - discovery
 ---

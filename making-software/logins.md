@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: User accounts and log-ins
 subtitle: How to do them and how to avoid them
+section: making-software
+type: guide
 audience:
   primary: developer, tech-arch
   secondary: designer
 status: draft
-section: making-software
 phases:
   - discovery
   - alpha

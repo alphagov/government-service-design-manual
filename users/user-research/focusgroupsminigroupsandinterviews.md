@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Focus groups, mini groups, and 1:1 interviews
 subtitle: Getting input into products and services
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-section: user-research
 phases:
   - discovery
   - alpha

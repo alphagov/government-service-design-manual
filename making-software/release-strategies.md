@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: Releasing software
 subtitle: How regular releases can reduce risk
+section: making-software
+type: guide
 audience: 
     primary: developer, tech-arch
     secondary:
 status: draft
-section: making-software
 phases:
   - alpha
   - beta

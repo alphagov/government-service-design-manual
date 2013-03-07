@@ -3,6 +3,7 @@ layout: category-index
 title: Design patterns
 subtitle: Common interface elements for digital services
 section: design-and-development-resources
+type: resource
 audience:
     primary: designer, developer
 status: draft

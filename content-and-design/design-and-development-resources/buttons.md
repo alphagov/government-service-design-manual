@@ -3,6 +3,7 @@ layout: design-patterns
 title: Buttons
 subtitle: How to word them, how to code them, when to use them   
 section: design-and-development-resources
+type: resource
 status: draft
 phases:
   - alpha

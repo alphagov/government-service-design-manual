@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: How to be a service manager
 subtitle: Learn what a service manager does, and how to be a good one
 section: the-team
+type: guide
 audience:
   primary: service-manager
 status: draft

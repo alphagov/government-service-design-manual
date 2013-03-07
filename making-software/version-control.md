@@ -2,11 +2,12 @@
 layout: detailed-guidance
 title: Version control
 subtitle: Ensure the team can collaborate on code
+section: making-software
+type: guide
 audience:
   primary: service-manager
   secondary: tech-arch, developer, content-designer
 status: draft
-section: making-software
 phases:
   - alpha
   - beta

@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Understanding user needs
 subtitle: How to focus a service on users
+section: users
+type: guide
 audience: 
     primary: research 
 status: draft
-section: users
 phases:
   - discovery
   - alpha

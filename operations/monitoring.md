@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Monitoring
 subtitle: Tracking the status of a service
 section: operations
+type: guide
 status: draft
 audience: 
     primary: tech-arch, developer

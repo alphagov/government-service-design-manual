@@ -3,6 +3,7 @@ layout: default
 title: Working with specialists and specialist suppliers
 subtitle: How people outside government can help build your service
 section: the-team
+type: guide
 audience:
   primary: service manager
   secondary: designer, developer

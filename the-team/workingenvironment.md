@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Your working environment
 subtitle: The physical space and tools that bring out the best in a team
 section: the-team
+type: guide
 audience:
   primary: service manager
   secondary: designer, developer

@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Features of agile
 subtitle: Sprints, stand-ups and other regular meetings
 section: agile
+type: guide
 audience:
   primary: service-manager
   secondary: designer, developer, tech-arch, analyst, researcher

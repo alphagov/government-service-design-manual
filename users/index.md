@@ -2,11 +2,12 @@
 layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
+section: users
+type: guide
 audience:
   primary: researcher, designer, service-manager
   secondary: developer, tech-arch, analyst
 status: draft
-section: users
 phases:
   - discovery
   - alpha

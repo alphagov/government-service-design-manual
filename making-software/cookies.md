@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Cookies
 subtitle: When to use them, and when to tell users about them
+section: making-software
+type: guide
 audience:
     primary: developer, tech-arch
 status: draft
-section: making-software
 phases:
   - beta
   - live

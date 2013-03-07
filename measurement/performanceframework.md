@@ -3,6 +3,7 @@ layout: detailed-guidance
 title: Performance Framework
 status: draft
 section: measurement
+type: guide
 phases:
   - beta
   - live

@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Domain names and URLs
 subtitle: How to construct good URLs
+section: making-software
+type: guide
 audience:
   primary: developer, tech-arch
 status: draft
-section: making-software
 phases:
   - beta
   - live

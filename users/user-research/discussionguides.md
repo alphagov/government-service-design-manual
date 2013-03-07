@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Discussion Guides
 subtitle: Tools to help steer user research
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-section: user-research
 phases:
   - discovery
   - alpha

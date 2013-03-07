@@ -6,6 +6,7 @@ audience:
     primary: service-manager, analyst
 status: draft
 section: measurement
+type: guide
 phases:
   - discovery
   - alpha

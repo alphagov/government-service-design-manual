@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Survey design
 subtitle: Making an effective survey
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-section: user-research
 phases:
   - discovery
   - alpha
