@@ -9,7 +9,7 @@ audience:
 status: draft
 ---
 
-Technical notes about use of service.gov.uk sub-domains for digital services
+## Technical notes about use of service.gov.uk sub-domains for digital services
 
 Every digital service offered by the UK government MUST have a single, well-known place on the Internet where users can go to when they want to use the service.  That well-known place is the relevant start page on www.gov.uk - for instance, the DVLA’s tax disc service is at https://www.gov.uk/tax-disc.
 
@@ -23,7 +23,7 @@ The process of obtaining a service.gov.uk sub-domain begins either when the serv
 
 The service-owning dept/agency will be given delegated authority to manage the domain and its sub-domains, although in some cases this work will be carried out third party suppliers.
 
-Sub-Domains
+## Sub-Domains
 
 This section give some guidance about which sub-domains a service owner should create once they have been given control of servicename.service.gov.uk.
 
@@ -45,7 +45,7 @@ Therefore, you MAY create other sub domains of servicename.service.gov.uk for us
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
-Cookies
+## Cookies
 
 Cookies used on “www.servicename.service.gov.uk” and “admin.servicename.service.gov.uk” MUST be scoped to the originating domain only. Cookies MAY NOT be scoped to the domain “servicename.service.gov.uk”.
 
@@ -53,13 +53,13 @@ Cookies SHOULD NOT be needed on “assets.servicename.service.gov.uk” (they in
 
 Cookies MUST be sent with the Secure attribute. See also “Transport Level Security” below.
 
-Transport Level Security
+## Transport Level Security
 
 Many transactions will collect personal information from users. It’s very important that this information can’t be intercepted by malicious third parties as it travels over the Internet. Therefore, all transactions accessed through service.gov.uk domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services MUST NOT accept HTTP connections under any circumstances.
 
 Once a service owner has verified that their HTTPS setup is working fine they SHOULD enable HSTS on the production domains (www, admin and assets) (For more information see http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)  We will provide templates for HSTS headers in due course, but when you first enable HSTS we recommend setting a fairly short TTL (ie a few hours) just in case you make a configuration error. This can be increased to 1 year once the service owner is confident that HSTS is configured correctly.
 
-Robots.txt and root-level redirections
+## Robots.txt and root-level redirections
 
 GOV.UK is the place for users to find all government servicess, so it’s important to ensure that users always start on the relevant GOV.UK page, rather than a different or duplicate start page on www.servicename.service.gov.uk. That means services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the www.gov.uk start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
 
@@ -67,7 +67,7 @@ GOV.UK is the place for users to find all government servicess, so it’s import
 
 2. Have an HTTP 301 redirection from the top-level index page of the www and assets subdomains to the relevant start page on www.gov.uk.  (Note: this means that the service start page on www.gov.uk should NOT link to https://www.servicename.service.gov.uk/ because that would just send the user back to the service start page.)
 
-Origin Servers for CDN-based provider of DDOS Protection
+## Origin Servers for CDN-based provider of DDOS Protection
 
 If you have contracted with a CDN-based DDOS-protection supplier(s) (such as Level 3, Fastly or Akamai) then you SHOULD register the following additional sub domains for use by your supplier(s): www-production.servicename.service.gov.uk, admin-production.servicename.service.gov.uk and assets-production.servicename.service.gov.uk. Your supplier(s) will use these sub-domains to identify the IP address(es) of your service’s www, admin and assets sub-domains. Detailed configuration advice for origin servers is outside of the scope of this document, but in general it’s worth configuring them to only listen for traffic from a) the DDOS protection provider’s servers and b) from the location(s) where the service itself is being developed and/or managed.
 
@@ -75,10 +75,10 @@ At present we advise against allowing DDOS protection suppliers to terminate SSL
 
 Many suppliers offer IP forwarding DDOS protection, which does not have the same security issues as SSL termination, and is recommended in preference to SSL termination.  If your service requires transaction monitoring (which is not at all the same thing as DDOS protection) you should contact your CESG account manager for advice.  This is interim guidance and will be updated - check back in early May 2013 for an update.
 
-Emails sent to service users
+## Emails sent to service users
 
 Emails to users of your service SHOULD be sent from a human-monitored email address that originates from the domain servicename.service.gov.uk (and not the dept/agency or any other domain name).  You SHOULD enable SPF on the sending domain. (See http://en.wikipedia.org/wiki/Sender_Policy_Framework for more information on SPF.) You MAY also want to use DKIM on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
-Terminology
+## Terminology
 
 Where the words MUST, SHOULD, MAY and MAY NOT appear in this document in capital letters they MUST be interpreted as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
