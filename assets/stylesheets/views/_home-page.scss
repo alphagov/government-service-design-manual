@@ -64,6 +64,26 @@
     }
   }
 
+  // Phases
+
+  .phases-promo {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      display: block;
+      padding-left: $gutter*2.5;
+      background: transparent url(../images/phases-timeline-sprite.png) 0 0 no-repeat;
+
+      &.discovery { background-position: 0 0;}
+      &.alpha     { background-position: -60px 0;}
+      &.beta      { background-position: -120px 0;}
+      &.live      { background-position: -180px 0;}
+
+    }
+  }
+
   .article-container {
     .inner {
       margin: 0;
