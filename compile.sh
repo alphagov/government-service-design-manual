@@ -9,10 +9,7 @@ if [ ! -d "$DIRECTORY" ]; then
   echo "Couldn't find design principles app in $DIRECTORY"
 fi
 
-if [ ! -d $GUIDANCE_PATH ]; then
-  echo "Creating service-manual folder"
-  mkdir $GUIDANCE_PATH
-else
+if [ -d $GUIDANCE_PATH ]; then
   echo "Emptying existing service-manual folder"
   rm -rf $GUIDANCE_PATH
 fi
