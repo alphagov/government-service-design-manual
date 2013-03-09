@@ -8,12 +8,26 @@
 }
 
 /* Container for example patterns */
+//.pattern-example{
+//  @include panel($highlight-colour);
+//  .inner{
+//    @extend %contain-floats;
+//  }
+//}
+
 .pattern-example{
-  @include panel($highlight-colour);
-  .inner{
-    @extend %contain-floats;
-  }
+  border: 1px solid $border-colour;
+  outline: 1em solid $highlight-colour;
+  padding: 1em;
+  margin: 2em 1em;
+  text-align: center;
+  //@extend %contain-floats;
 }
+
+.contents li ol{
+  display: none;
+}
+
 
 /* Side-by-side code examples */
 .side-by-side{

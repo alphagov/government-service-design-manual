@@ -418,12 +418,12 @@ input:-moz-placeholder {  padding-top: 0.15em; color: $grey-1; }
 }
 
 // BUTTONS
-.btn{
-  @include button($green);
-}
-.btn-secondary{
-  @include button($panel-colour);
-}
-.btn-warning{
-  @include button($red);
-}
+//.btn{
+//  @include button($green);
+//}
+//.btn-secondary{
+//  @include button($panel-colour);
+//}
+//.btn-warning{
+//  @include button($red);
+//}
