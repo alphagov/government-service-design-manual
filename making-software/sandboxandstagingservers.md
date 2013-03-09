@@ -2,11 +2,14 @@
 layout: detailed-guidance
 title: Sandbox and staging servers
 subtitle: Working in a development environment
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+phases:
+  - beta
+  - live
 ---
     
 #Sandbox and staging servers

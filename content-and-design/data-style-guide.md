@@ -2,11 +2,14 @@
 layout: detailed-guidance
 title: Data visualisation style guide
 subtitle: Creating valuable and meaningful graphics to help analyse data
-section: guidance
+section: content-and-design
 type: guide
 audience:
   primary: designer, researcher, analyst
 status: draft
+phases:
+  - beta
+  - live
 ---
 
 As we surface more data about government services, we need to make sure that the visualisations of it are easy to understand, visually compelling and drive action. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.

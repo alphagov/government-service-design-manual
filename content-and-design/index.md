@@ -2,11 +2,15 @@
 layout: detailed-guidance
 title: Designing for GOV.UK
 subtitle: General guidance for those developing for GOV.UK
-section: guidance
+section: content-and-design
+type: guide
 audience:
   primary: designer
-type: guide
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 You can't really understand how to build a service until you try it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.

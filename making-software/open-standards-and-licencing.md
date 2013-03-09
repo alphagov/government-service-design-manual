@@ -2,13 +2,15 @@
 layout: detailed-guidance
 title: Open standards and licensing
 subtitle: Building services using common standards
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: tech-arch, developer
   secondary: service-manager
 status: draft
-theme: design-and-build
+phases:
+  - beta
+  - live
 ---
     
 Best practice and considerations for using open standards and using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).

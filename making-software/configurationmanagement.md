@@ -2,11 +2,15 @@
 layout: detailed-guidance
 title: Configuration management
 subtitle: Manage a team's approach to configuration
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
     
 # Configuration management

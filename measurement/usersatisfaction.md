@@ -1,8 +1,11 @@
 ---
 layout: detailed-guidance
 title: User satisfaction
-section: guidance
-subsection: KPIs
+section: measurement
+type: guide
+phases:
+  - beta
+  - live
 status: draft
 ---
 

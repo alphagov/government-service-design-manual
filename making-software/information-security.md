@@ -2,12 +2,15 @@
 layout: detailed-guidance
 title: Information security
 subtitle: Ensuring user data stays secure
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: service-manager, developer, tech-arch
 status: draft
-theme: getting-started
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 It goes without saying that security of Government services is incredibly

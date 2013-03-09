@@ -2,15 +2,14 @@
 layout: detailed-guidance
 title: Accessibility skills
 subtitle: What your team needs to build for inclusion
-section: guidance
-subsection: Building a team
+section: the-team
 type: guide
 audience:
   primary: service manager
   secondary: designer, developer
-theme: agile
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Accessibility is everyone’s responsibility. Provide training and resources to help your team build accessibility into everything they do. That includes planning, designing, building and managing.

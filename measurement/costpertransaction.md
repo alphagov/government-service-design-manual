@@ -1,8 +1,11 @@
 ---
 layout: detailed-guidance
 title: Measuring cost per transaction
-section: guidance
-subsection: KPIs
+section: measurement
+type: guide
+phases:
+  - beta
+  - live
 status: draft
 ---
 

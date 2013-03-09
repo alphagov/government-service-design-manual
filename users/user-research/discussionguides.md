@@ -2,14 +2,15 @@
 layout: detailed-guidance
 title: Discussion Guides
 subtitle: Tools to help steer user research
-section: guidance
-subsection: User research
-type: guide 
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-assets: local
-
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #Discussion Guides

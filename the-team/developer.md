@@ -2,14 +2,13 @@
 layout: detailed-guidance
 title: Developers
 subtitle: What developers do and what to look for
-section: 
-subsection: Building a team
+section: the-team
 type: guide
 audience:
   primary: 
-theme: Getting started
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Good digital services will require code to be written, adapted, maintained and supported. A team of skilled developers will be able to make sure that happens in an efficient and transparent way, and to help continually improve the service by identifying new tools and techniques and removing technical bottlenecks.

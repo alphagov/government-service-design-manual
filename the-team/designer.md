@@ -2,14 +2,13 @@
 layout: detailed-guidance
 title: Designers
 subtitle: What designers do and what to look for
-section: 
-subsection: Building a team
+section: the-team
 type: guide
 audience:
   primary: 
-theme: agile
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Design of the service is everyone's responsibility. Those with the title of designer may have a particular focus on one or more specific design disciplines - interaction, graphic – but a good digital service needs needs talented, flexible designers to help build user-centred products.
@@ -29,4 +28,4 @@ When building a team ask to see examples of work and ask the designers to talk y
 [Mid weight Front-end developer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1Aa3mZn3131Y7byIykLftOhmIoCUe4u--faWFBJQkFqM/edit)
 
 ##Further reading
-[Specific guidance for designers working on Digital by default services](/designers).
+[Specific guidance for designers working on digital by default services](/designers).

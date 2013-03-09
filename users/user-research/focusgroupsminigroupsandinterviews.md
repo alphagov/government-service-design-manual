@@ -2,13 +2,15 @@
 layout: detailed-guidance
 title: Focus groups, mini groups, and 1:1 interviews
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-assets: local
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 Focus groups, mini groups, and 1:1 interviews involve unstructured interviews or group discussion. 

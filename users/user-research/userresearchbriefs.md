@@ -2,14 +2,15 @@
 layout: detailed-guidance
 title: User research briefs
 subtitle: Documents that explain research requirements
-section: guidance
-subsection: User research
+section: user-research
 type: guide
 audience:
     primary: research
 status: draft
-assets: local
-
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
 
 #User research briefs

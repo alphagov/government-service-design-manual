@@ -2,11 +2,15 @@
 layout: detailed-guidance
 title: Open source considerations
 subtitle: When to use open source
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
     
 #Open source considerations

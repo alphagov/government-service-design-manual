@@ -14,7 +14,7 @@ status: draft
 
 Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to start small, fail fast, and deliver value to our users as early as possible.
 
-<img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a Digital by Default service" />
+<img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
 Explore the four development phases of a digital service in more detail below.
 
@@ -51,18 +51,6 @@ A small team will be required and the phase should not take longer than a week. 
     Team size
   </li>
 </ul>
-
-### Skills and experience required
-
-* Service manager
-* Product manager
-* Technical architect
-* Business analyst
-* Delivery manager
-* User researcher
-
-<!--(### Guidance
-[Read guidance to help you navigate the Discovery phase](/guides/phases/discovery.html))--> 
 
 
 ## Phase 2: Alpha
@@ -101,18 +89,6 @@ You may need to bring more developers and designers into the team, but the whole
   </li>
 </ul>
 
-### Skills and experience required
-
-* Service manager
-* Product manager
-* Technical architect
-* Business analyst
-* Delivery manager
-* User researcher
-* Software developer
-
-<!--(### Guidance
-[Read guidance to help you navigate the Alpha phase](/guides/phases/alpha.html))--> 
 
 
 ## Phase 3: Beta
@@ -152,18 +128,7 @@ You will now know what size team you need to deliver the service. The Beta phase
   </li>
 </ul>
 
-### Skills and experience required
 
-* Service manager
-* Product manager
-* Technical architect
-* Business analyst
-* Delivery manager
-* User researcher
-* Software developer
-
-<!--(### Guidance
-[Read guidance to help you navigate the Public beta phase](/guides/phases/beta.html))--> 
 
 ## Phase 4: Live
 
@@ -189,14 +154,3 @@ The team may need to be reconfigured to reflect the operational requirements of 
     Team size
   </li>
 </ul>
-
-### Skills and experience required
-
-* Service manager
-* Technical architect
-* Software developer
-
-<!--(### Guidance
-[Read guidance to help you switch a live service on](/guides/phases/live.html)
-
-[Read guidance to help you navigate the Iteration, improvement and operation of live service](/guides/phases/operational.html))--> 

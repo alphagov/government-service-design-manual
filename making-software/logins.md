@@ -2,12 +2,17 @@
 layout: detailed-guidance
 title: User accounts and log-ins
 subtitle: How to do them and how to avoid them
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: developer, tech-arch
   secondary: designer
 status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 Adding log-ins/authentication to a service is a larger undertaking than it looks.

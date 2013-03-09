@@ -2,12 +2,15 @@
 layout: detailed-guidance
 title: Testing code
 subtitle: How to ensure your code does what it's supposed to
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: developer, tech-arch
-subsection: Technical Architecture
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
     
 We use automated testing to ensure that our code does what is intended, to protect against mis-use of that code, and to provide assurance that iterating that code for better design or new features doesn't break existing behaviour. We also add manual testing as an extra check where appropriate.

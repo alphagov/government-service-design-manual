@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Give feedback
-subtitle: Help improve the Government Service Design Manual
+subtitle: Help improve the manual
 section: feedback
 ---
 
@@ -17,7 +17,7 @@ We'll use your feedback to help improve this tool.
 
 Please offer feedback as appropriate. In particular, we would like to know if;
 
-* the site tells you enough about how to meet the Digital by Default service standard?
+* the site tells you enough about how to meet the digital by default service standard?
 * you can find useful material to answer your questions on this site?
 * the guidance easy to navigate?
 * you would like to see the guidance structured in any other way?

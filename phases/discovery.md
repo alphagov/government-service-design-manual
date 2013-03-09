@@ -59,7 +59,7 @@ workshops, 3 days or so
 - maybe some rough prototypes
 
 ##What next?
-Next Phase: [Alpha Phase](/guides/phases/alpha.html)
+Next Phase: [Alpha Phase](/phases/alpha.html)
 
 
 #Project inception

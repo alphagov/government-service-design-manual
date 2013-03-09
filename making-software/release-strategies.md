@@ -2,15 +2,16 @@
 layout: detailed-guidance
 title: Releasing software
 subtitle: How regular releases can reduce risk
-section: guidance
-subsection: Maintaining services
+section: making-software
 type: guide
 audience: 
     primary: developer, tech-arch
     secondary:
-theme: 
 status: draft
-assets: local
+phases:
+  - alpha
+  - beta
+  - live
 ---
     
 Constantly improving online services means releasing changes to the

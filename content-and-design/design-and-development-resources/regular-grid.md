@@ -2,9 +2,12 @@
 layout: design-patterns
 title: Regular grid
 subtitle: Build to the GOV.UK style 
-section: guidance
-subsection: Design patterns
+section: design-and-development-resources
 type: resource
+phases:
+  - alpha
+  - beta
+  - live
 status: draft
 page_class: regular-grid
 ---

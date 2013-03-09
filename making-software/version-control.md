@@ -2,12 +2,16 @@
 layout: detailed-guidance
 title: Version control
 subtitle: Ensure the team can collaborate on code
-section: guidance
+section: making-software
 type: guide
 audience:
   primary: service-manager
   secondary: tech-arch, developer, content-designer
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 All software development projects must use a version control system. Version control allows you to track changes to code over time, meaning that you can quickly step back to an earlier version where necessary and you can annotate your changes with explanatory details to help future developers understand the process. Version control will also provide tools to audit who has made changes to the code and what has changed.

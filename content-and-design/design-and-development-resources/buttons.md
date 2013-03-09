@@ -2,10 +2,13 @@
 layout: detailed-guidance
 title: Buttons
 subtitle: How to code them, how to word them and when to use them   
-section: guidance
-subsection: Design patterns
+section: design-and-development-resources
 type: resource
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 page_class: buttons
 ---
 

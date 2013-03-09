@@ -2,12 +2,14 @@
 layout: detailed-guidance
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
-section: guidance
+section: content-and-design
+type: guide
 audience:
   primary: designer, developer
-type: resource
-theme: understanding-your-audience
 status: draft
+phases:
+  - beta
+  - live
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.
@@ -27,7 +29,7 @@ Services should ensure there is a obvious way for users to report problems they 
 *Note*: An exception is made for IE6, as this is still in large-scale use in government departments.
 
 Two distinct levels of support are given and denoted next to each browser as C or F and are defined as:
-* COMPLIaNT
+* COMPLIANT
 * FUNCTIONAL
 
 Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.

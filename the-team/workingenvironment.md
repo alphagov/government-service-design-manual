@@ -2,15 +2,14 @@
 layout: detailed-guidance
 title: Your working environment
 subtitle: The physical space and tools that bring out the best in a team
-section: guidance
-subsection: Building a team
+section: the-team
 type: guide
 audience:
   primary: service manager
   secondary: designer, developer
-theme: Getting started
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Working spaces for digital projects will vary, but there are some things you can do to ensure that the space you have available can be used in the way your team needs.

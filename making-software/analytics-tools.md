@@ -2,15 +2,15 @@
 layout: detailed-guidance
 title: Analytics tools
 subtitle: 
-section: guidance
-subsection: KPIs
-type: 
+section: making-software
+type: guide
+phases:
+  - beta
+  - live
 audience: 
     primary: analysts
     secondary: service-managers
-theme: Measurement
 status: draft
-assets: local
 ---
 
 There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against them.

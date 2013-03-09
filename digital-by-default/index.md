@@ -1,6 +1,6 @@
 ---
 layout: wide
-title: The Digital by Default Standard
+title: The digital by default Standard
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
@@ -10,7 +10,7 @@ section: dbd
 status: draft
 ---
 
-The Digital by Default standard is currently being circulated among Digital Leaders across government. In the current draft, a team must demonstrate that they have done the following to achieve the Digital by Default standard:
+The digital by default standard is currently being circulated among Digital Leaders across government. In the current draft, a team must demonstrate that they have done the following to achieve the digital by default standard:
 
 * conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design 
 * put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service

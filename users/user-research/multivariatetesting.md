@@ -2,13 +2,15 @@
 layout: detailed-guidance
 title: A/B and multivariate experiments
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-assets: local
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 #A/B and multivariate experiments

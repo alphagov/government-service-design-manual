@@ -2,13 +2,15 @@
 layout: category-index
 title: Design patterns
 subtitle: Common interface elements for digital services
-section: guidance
-subsection: Design patterns
+section: design-and-development-resources
 type: resource
 audience:
     primary: designer, developer
 status: draft
-long-title: true
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 Design patterns are reusable bits of web interface like form controls, navigation and calendars.
@@ -22,7 +24,7 @@ All the code is available via the [Git repository for this site](). The CSS for 
 is available in the Sass format and, where possible, mixins have been created to make using and
 adapting the patterns as easy as possible.
 
-All the patterns in the library make use of the [GOV.UK frontend toolkit](/templates-and-code/sass-repositories.html), so you'll need to have this installed as well.
+All the patterns in the library make use of the [GOV.UK frontend toolkit](/content-and-design/design-and-development-resources/sass-repositories.html), so you'll need to have this installed as well.
 
 ## List of patterns
 

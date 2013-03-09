@@ -2,14 +2,17 @@
 layout: detailed-guidance
 title: Writing user stories
 subtitle: How to write a useful user story
-section: guidance
-subsection: Working in an agile way
+section: agile
 type: guide
 audience: 
   primary: service-manager, developer, researcher
   secondary: designer, analyst
-theme: agile
 status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
 ---
 
 User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks that each deliver concrete value, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.

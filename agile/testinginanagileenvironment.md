@@ -2,14 +2,17 @@
 layout: detailed-guidance
 title: Testing in an agile environment
 subtitle: What testing your service might look like
-section: guidance
-subsection: Working in an agile way
+section: agile
 type: guide
 audience: 
   primary: service-manager, developer, researcher
   secondary: designer, analyst
 theme: agile
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 Fundamentally, the basics of any testing approach still apply in the Agile world. However, the focus of testing can be quite different.  
@@ -73,10 +76,10 @@ When a manual test uncovers a defect, it is important to always add an automated
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
-Read the guidance about [load & performance testing](/operations/loadandperformancetesting.html)
+Read the guidance about [load & performance testing](/operations/load-and-performance-testing.html)
 
 ### Penetration Testing
-Read the guidance about [penetration testing](/operations/penetrationtesting.html)
+Read the guidance about [penetration testing](/operations/penetration-testing.html)
 
 ### Accessibility Testing
 Read the guidance about [accessibility testing](/making-software/accessibilitytesting.html)
@@ -89,4 +92,4 @@ There are external companies who provide this as a service, but at GDS we do it 
 Examples of where we have used this effectively include for pre-release testing of additional devices/browsers and for the detailed checking of hundreds of pieces of content on GOV.UK back to old content on DirectGov and BusinessLink.
 
 ### Test Your Ideas
-Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/users.html).
+Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/users/introduction-to-user-research.html).

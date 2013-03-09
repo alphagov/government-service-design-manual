@@ -2,13 +2,15 @@
 layout: detailed-guidance
 title: Heuristic evaluations/expert reviews
 subtitle: Getting input into products and services
-section: guidance
-subsection: User research
-type: guide 
+section: user-research
+type: guide
 audience: 
     primary: research 
 status: draft
-assets: local
+phases:
+  - discovery
+  - alpha
+  - beta
 ---
     
 This section of guidance looks at Heuristic evaluations and expert reviews, and how they can be used to provide

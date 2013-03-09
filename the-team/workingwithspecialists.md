@@ -2,15 +2,14 @@
 layout: default
 title: Working with specialists and specialist suppliers
 subtitle: How people outside government can help build your service
-section: guidance
-subsection: Building a team
+section: the-team
 type: guide
 audience:
   primary: service manager
   secondary: designer, developer
-theme: agile
 status: draft
-assets: local
+phases:
+  - discovery
 ---
 
 Specialists can help fill the gaps in capability you identify throughout your service’s lifespan. However, the benefit of their skills and perspective can come with the challenge of procuring and inducting them.

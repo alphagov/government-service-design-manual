@@ -2,11 +2,15 @@
 layout: detailed-guidance
 title: How users read
 subtitle: Reading age, reading online, plain English, learning disabilities
-section: guidance
+section: content-and-design
 type: guide
 audience: 
   primary: content-designer
 status: draft
+phases:
+  - alpha
+  - beta
+  - live
 ---
 
 The style guide is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
