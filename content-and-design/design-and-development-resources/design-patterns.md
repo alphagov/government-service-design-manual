@@ -37,7 +37,7 @@ All the patterns in the library make use of the [GOV.UK frontend toolkit](/conte
 
 ### Content
 
-* [Regular grid](/content-and-design/design-and-development-resources/regular-grid.html)
+* [Grid](/content-and-design/design-and-development-resources/regular-grid.html)
 * [Show/hide link](/content-and-design/design-and-development-resources/show-hide.html)
 
 ### Other
