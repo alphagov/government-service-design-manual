@@ -7,21 +7,10 @@
   @include panel($green-25, 50%, right);
 }
 
-/* Container for example patterns */
-//.pattern-example{
-//  @include panel($highlight-colour);
-//  .inner{
-//    @extend %contain-floats;
-//  }
-//}
-
 .pattern-example{
-  border: 1px solid $border-colour;
-  outline: 1em solid $highlight-colour;
-  padding: 1em;
-  margin: 2em 1em;
-  text-align: center;
-  //@extend %contain-floats;
+  border-top: 1px solid $border-colour;
+  border-bottom: 1px solid $border-colour;
+  margin: 1em 0 2em 0;
 }
 
 .contents li ol{
@@ -29,24 +18,18 @@
 }
 
 
-/* Side-by-side code examples */
-.side-by-side{
-  @include regular-grid(2);
-  .pattern-example{
-    margin: 0.8em 0 0 0;
-  }
-}
+
 /* Styles for inline and block code examples */
 pre,
 code{
   color: black;
-  background-color: #f9f9f9;
-  border: 1px solid #CCC;
+  background-color: $highlight-colour;
+  border: 1px solid $border-colour;
   font-size: 13px;
   line-height: 19px;
   overflow: auto;
   padding: 6px 10px;
-  border-radius: 3px;
+  //border-radius: 3px;
 }
 pre code{
   border: 0 solid;

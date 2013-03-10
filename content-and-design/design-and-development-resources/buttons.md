@@ -14,9 +14,11 @@ page_class: buttons
 
 Buttons should be used to signify actions that the user can perform. Here's how to create buttons in the GOV.UK style, using the [GOV.UK button Sass mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_buttons.scss).
 
-## Example buttons
+## Button styles
 
 The button mixin styles can be applied to links, inputs and button tags, like this:
+
+### Example
 
 <div class="pattern-example">
   <p>
@@ -36,6 +38,8 @@ The button mixin styles can be applied to links, inputs and button tags, like th
 
 ### Sass
 
+    @import "buttons"
+
     .button{
      @include button;
     }
@@ -43,6 +47,8 @@ The button mixin styles can be applied to links, inputs and button tags, like th
 ## Button colours
 
 The default button colour is `$green`, but different colours can be assigned. You need a good reason to do this though. 
+
+### Example
 
 <div class="pattern-example">
   <p>
@@ -78,6 +84,8 @@ The button text colour automatically switches from light to dark, depending on t
 
 Use the 'disabled' attribute or class, depending on which kind of element you're styling.
 
+### Example
+
 <div class="pattern-example">
   <p>
     <button class="button" disabled="disabled">Button tag</button>
@@ -98,6 +106,8 @@ Use the 'disabled' attribute or class, depending on which kind of element you're
 ## Button sizes
 
 Buttons will inherit the font size of their parent elements. Use the standard paragraph text size wherever possible. More complex interfaces may occasionally require smaller buttons.
+
+### Example
 
 <div class="pattern-example">
   <p>

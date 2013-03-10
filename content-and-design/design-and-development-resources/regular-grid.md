@@ -1,7 +1,7 @@
 ---
-layout: design-patterns
-title: Regular grid
-subtitle: Build to the GOV.UK style 
+layout: detailed-guidance
+title: Grids
+subtitle: Quickly lay out lists of items in a grid 
 section: design-and-development-resources
 type: resource
 phases:
@@ -9,25 +9,27 @@ phases:
   - beta
   - live
 status: draft
-page_class: regular-grid
+page_class: grid
 ---
 
-A mixin for creating a regular grid of elements. All widths are expressed as percentages of the parent element.
+A mixin for creating a regular grid of elements.
 
-# Arguments
+## Arguments
 
-The [mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/content-and-design/design-and-development-resources/_regular-grid.scss) accepts two arguments:
+The [mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_regular-grid.scss) accepts two arguments:
 
-`$columns` : The number of columns in the grid
+`$columns` : The number of columns in the grid, or an array representing the relative width of each column.
 
-`$min-height` : An optional minimum height for grid elements
+`$min-height` : An optional minimum height for grid elements.
 
-This second argument is useful when your grid elements contain varied amounts of content.
+This second argument is useful if your grid elements contain varied amounts of content.
+
+Avoid applying an extra border or margin styles to the grid elements themselves as this may break the layout.
 
 
-## Four column example
+## Simple example 
 
-<ul class="regular-grid example-1">
+<ul class="grid example-1">
   <li><p>Item 1</p></li>
   <li><p>Item 2</p></li>
   <li><p>Item 3</p></li>
@@ -38,54 +40,49 @@ This second argument is useful when your grid elements contain varied amounts of
   <li><p>Item 8</p></li>
 </ul>
 
-<div class="side-by-side">
-  <div>
-    <h3>HTML</h3>
-<pre><code>&lt;ul class="regular-grid example-1"&gt;
-  &lt;li&gt;&lt;p&gt;Item 1&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 2&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 3&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 4&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 5&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 6&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 7&lt;/p&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;p&gt;Item 8&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</code></pre>
-  </div>
-  <div>
-    <h3>Sass</h3>
-    <pre><code>.regular-grid p{
-    background-color: $highlight-colour;
-    border: 1px solid $border-colour;
-    text-align: center;
-    padding: 1em;
-}
+### HTML
 
-.example-1{
-  @include regular-grid(4);
-}
-</code></pre>
-  </div>
-</div>
+      <ul class="grid example-1">
+        <li><p>Item 1</p></li>
+        <li><p>Item 2</p></li>
+        <li><p>Item 3</p></li>
+        <li><p>Item 4</p></li>
+        <li><p>Item 5</p></li>
+        <li><p>Item 6</p></li>
+        <li><p>Item 7</p></li>
+        <li><p>Item 8</p></li>
+      </ul>
 
-## Varying columns
+### Sass
 
-As you can see below, you can vary the number of columns and the margin widths will be maintained. The margin width approximates to the standard GOV.UK margin when the grid is placed in a 'wide' GOV.UK page template.
+      @import "grid"
 
-<ul class="regular-grid example-4">
+      .example-1{ 
+        @include grid(4);
+      }
+
+
+## Regular grids
+
+You can create grids of equally-sized elements by passing in a single value representing the number of elements in a row. 
+
+The following examples are for demonstration purposes only, and not ones we'd ever recommend.
+
+### Example
+
+<ul class="grid example-4">
   <li><p>Item 1</p></li>
   <li><p>Item 2</p></li>
 </ul>
 
-<ul class="regular-grid example-1">
+<ul class="grid example-1">
   <li><p>Item 1</p></li>
   <li><p>Item 2</p></li>
   <li><p>Item 3</p></li>
   <li><p>Item 4</p></li>
 </ul>
 
-<ul class="regular-grid example-2">
+<ul class="grid example-2">
   <li><p>Item 1</p></li>
   <li><p>Item 2</p></li>
   <li><p>Item 3</p></li>
@@ -93,7 +90,7 @@ As you can see below, you can vary the number of columns and the margin widths w
   <li><p>Item 5</p></li>
 </ul>
 
-<ul class="regular-grid example-3">
+<ul class="grid example-3">
   <li><p>Item 1</p></li>
   <li><p>Item 2</p></li>
   <li><p>Item 3</p></li>
@@ -104,7 +101,51 @@ As you can see below, you can vary the number of columns and the margin widths w
   <li><p>Item 8</p></li>
 </ul>
 
-# Cross browser support
+## Irregular grids
+
+You can create grids of unequally-sized elements by passing in an array representing the relative widths of the elements in a row. 
+
+### 5,3 ratio example
+
+        @include regular-grid((5,3));
+
+<ul class="grid example-5">
+  <li><p>Item 1</p></li>
+  <li><p>Item 2</p></li>
+  <li><p>Item 3</p></li>
+  <li><p>Item 4</p></li>
+</ul>
+
+
+
+
+
+### 2,2,1 ratio example
+
+        @include regular-grid((2,2,1));
+
+<ul class="grid example-6">
+  <li><p>Item 1</p></li>
+  <li><p>Item 2</p></li>
+  <li><p>Item 3</p></li>
+  <li><p>Item 4</p></li>
+  <li><p>Item 5</p></li>
+  <li><p>Item 6</p></li>
+</ul>
+
+### 2,1 ratio example
+
+        @include regular-grid((2,1));
+
+<ul class="grid example-7">
+  <li><p>Item 1</p></li>
+  <li><p>Item 2</p></li>
+  <li><p>Item 3</p></li>
+  <li><p>Item 4</p></li>
+</ul>
+
+
+## Cross browser support
 
 * Chrome: All good
 * IE 8: Far-right element retains right-margin, so all margins are reduced accordingly
@@ -112,22 +153,16 @@ As you can see below, you can vary the number of columns and the margin widths w
 * IE 6: Pattern uses unsupported child selector, so all elements get 100% width
 * IE 6: Bullets are showing
 
-# Guidance
+## Guidance
 
 The mixin is tag-agnostic, so the elements can be list items, divs, paragraphs etc.
 Avoid applying border effects to the item elements as this will throw out the widths.
 Instead, style the contents of those elements.
 
-# When to use
+### When to use
 
 * When you want to split part of the page into equal columns
 * When you want a grid of equally sized elements - for example, an image gallery
-
-* * * 
-
-# Discussion
-
-Once the parent element width shrinks below a certain size the layout should probably switch to a reduced number of columns rather than continue to shrink down.
 
 
 

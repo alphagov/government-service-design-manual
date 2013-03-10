@@ -65,7 +65,13 @@
       list-style-type: none;
       list-style-image: none;
       margin: 0;
+      padding: 0.25em 0;
+      // For list-based markup
+      label{
+        display: inline;
+      }
     }
+      
   }
 
   input[type="checkbox"],
@@ -74,7 +80,7 @@
     vertical-align: 2px;
   }
 
-  // Help text  
+  // Hint text  
   .hint {
     clear: left;
     display: block;
@@ -84,8 +90,8 @@
     &:first-child{ padding-bottom: 0.25em; }
   }
 
-  .inline .help {
-    float: left;
+  .inline.hint {
+    display: inline-block;
   }
 
   // Mandatory '*' message
@@ -199,6 +205,7 @@
   input.full-name   {width: $x-large;}
   input.street      {width: $large;}
   input.town        {width: $large;}
+  input.small       {width: $small;}
   input.postcode    {width: $small;}
   textarea.big      {width: $x-large;
                     height: $medium;}
@@ -280,7 +287,6 @@
       label{
         display: block;
         padding-left: $label-width + 0.5em;
-        //padding-top: 0;
       }
       .validation-message{
         width: $label-width;

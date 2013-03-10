@@ -30,10 +30,8 @@ All the patterns in the library make use of the [GOV.UK frontend toolkit](/conte
 
 ### Forms
 
-* [Anatomy of a form](/content-and-design/design-and-development-resources/form-anatomy.html)
+* [Forms](/content-and-design/design-and-development-resources/form-anatomy.html)
 * [Buttons](/content-and-design/design-and-development-resources/buttons.html)
-* [Emphasised form controls](/content-and-design/design-and-development-resources/emphasised-form-controls.html)
-* [Hidden form controls](/content-and-design/design-and-development-resources/hidden-form-controls.html)
 * [Error messages](/content-and-design/design-and-development-resources/errormessages.html)
 * [Example: Registration form](/content-and-design/design-and-development-resources/registration-form.html)
 

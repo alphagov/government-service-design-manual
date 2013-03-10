@@ -13,14 +13,13 @@ page_class: registration
 ---
 
 This example incorporates most of the basic form elements and lets you play wth different label alignments.
-For a detailed breakdown of each element and how to markup and style it, see our [anatomy of a form](form-anatomy.html).
+For a detailed breakdown of each element and how to markup and style it, see our [forms design pattern page](form-anatomy.html).
 
 Click the label alignment options in the Sass snippet below to see how they affect the layout.
 
 <div class="pattern-example">
   <pre><code class="class-toggle" data-for="form-example-2" >.form-example-2 { @include form(<span class="option selected">top</span>|<span class="option">left</span>|<span class="option">right</span>, 7.5em) }</code></pre>
 
-  <div class="inner">
     <div id="form-example-2" class="top">
       <div class="validation-summary">
         <h1>There was a problem submitting the form</h1>
@@ -95,54 +94,6 @@ Click the label alignment options in the Sass snippet below to see how they affe
 
         </fieldset>
 
-        <!--
-        <fieldset>
-          <legend>Date of birth</legend>
-          <div class="inline">
-            <p class="group">
-              <label for="day" class="visuallyhidden">Day</label>
-              <select id="day" type="text">
-                <option value="01">01</option>
-              </select>
-            </p>
-            <p class="group">
-              <label for="month" class="visuallyhidden">Month</label>
-              <select id="month" type="text">
-                <option value="Jan">January</option>
-              </select>
-            </p>
-            <p class="group">
-              <label for="year" class="visuallyhidden">Year</label>
-              <select id="year" type="text">
-                <option value="2000">2000</option>
-              </select>
-            </p>
-          </div>
-        </fieldset>
-        <fieldset>
-          <legend>Date of birth</legend>
-          <div class="inline">
-            <p class="group">
-              <label for="day">Day</label>
-              <select id="day" type="text">
-                <option value="01">01</option>
-              </select>
-            </p>
-            <p class="group">
-              <label for="month">Month</label>
-              <select id="month" type="text">
-                <option value="Jan">January</option>
-              </select>
-            </p>
-            <p class="group">
-              <label for="year">Year</label>
-              <select id="year" type="text">
-                <option value="2000">2000</option>
-              </select>
-            </p>
-          </div>
-        </fieldset>
-      -->
         <fieldset>
           <legend>Email address</legend>
           <p class="group">
@@ -214,7 +165,6 @@ Click the label alignment options in the Sass snippet below to see how they affe
         </p>
       </form>
     </div>
-  </div>
 </div>
 
 # HTML

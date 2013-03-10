@@ -1,7 +1,7 @@
 ---
-layout: design-patterns
-title: Anatomy of a form
-subtitle: Build to the GOV.UK style 
+layout: detailed-guidance
+title: Forms
+subtitle: Markup, styles and layout for form elements
 section: design-and-development-resources
 type: resource
 status: draft
@@ -11,75 +11,62 @@ phases:
   - live
 ---
 
-Examples, markup and styles for most basic form elements.
+## Styling forms
 
-<div class="page-contents">
-  <h2>On this page:</h2>
-  <ul>
-    <li><a href="#styling-forms">Styling forms</a></li>
-    <li><a href="#basic-structure">Basic structure</a></li>
-    <li><a href="#radio-buttons-and-checkboxes">Radio buttons and checkboxes</a></li>
-    <li><a href="#aligning-controls-in-a-row">Aligning controls in a row</a></li>
-    <li><a href="#fieldsets-and-legends">Fieldsets and legends</a></li>
-    <li><a href="#nested-fieldsets">Nested fieldsets</a></li>
-    <li><a href="#hints">Hints</a></li>
-    <li><a href="#hidden-labels">Hidden labels</a></li>
-    <li><a href="#buttons">Buttons</a></li>
-    <li><a href="#validation-messages">Validation messages</a></li>
-    <li><a href="#putting-it-all-together">Putting it all together</a></li>
-    <li><a href="#rationale">Rationale</a></li>
-  </ul>
-</div>
+Forms should be styled as per the examples on this page. The [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass like this:
 
-# Styling forms
+### Sass
 
-The [forms mixin](https://github.com/alphagov/prototyping/blob/master/_includes/scss/content-and-design/design-and-development-resources/_forms.scss) provides a configurable framework for styling basic forms.
+    @import "forms"
 
-Use it in your Sass like this: `.form-example-1 { @include form }`
+    // Default style with top-aligned labels
+    .form-1 { 
+      @include form 
+    }
 
-The mixin accepts the following arguments:
+    // Left aligned labels
+    .form-2 { 
+      @include form(left)
+    }
 
-`$label-alignment` top, left or right. Default is top.
-
-`$label-width` a value in em. Default is 8em.
-
-`$legend-colour` a colour value or variable. Default is $text-colour.
-
-To see these in action, check out the [registration form example](registration-form.html)
-
-<div class="application-notice info-notice">
-<p>Note - the forms CSS is pretty large. You don't really want to be including it more than once in the same file.</p>
-</div>
+    // Right aligned labels. Lable width is 9em
+    .form-3 { 
+      @include form(right, 9em)
+    }
 
 
-# Basic structure
+Check out the [registration form example](registration-form.html) to see the different layout options in action.
+
+
+## Basic structure
 
 Wrap each control in an element with a class of 'group'.
 
-<div class="pattern-example">
-  <div class="inner">
+### Example
 
+<div class="pattern-example">
     <div class="form-example-1">
       <p class="group">
         <label for="label">Label</label>
         <input id="label" type="text">
       </p>
     </div>
+</div>
 
-  </div>
-  <pre><code>  &lt;p class="group"&gt;
-    &lt;label for="label"&gt;Label&lt;/label&gt;
-    &lt;input id="label" type="text"&gt;
-  &lt;/p&gt;
-</code></pre>
-</div> 
+### HTML
 
-# Radio buttons and checkboxes
+    <p class="group">
+      <label for="label">Label</label>
+      <input id="label" type="text">
+    </p>
 
-Wrap the radio or checkbox in its label and wrap the whole thing in an 'option group' element.
+## Radios and checkboxes
+
+Wrap your set of options in an 'option group' element.
+
+### Example
 
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
       <p class="option group">
@@ -89,33 +76,52 @@ Wrap the radio or checkbox in its label and wrap the whole thing in an 'option g
       </p>
 
     </div>
-  </div>
-  <pre><code>      &lt;p class="option group"&gt;
-        &lt;label for="checkbox1"&gt;&lt;input  id="checkbox1"type="checkbox"&gt; Job offers&lt;/label&gt;
-        &lt;label for="checkbox2"&gt;&lt;input  id="checkbox2"type="checkbox"&gt; Networking&lt;/label&gt;
-        &lt;label for="checkbox2"&gt;&lt;input  id="checkbox3"type="checkbox"&gt; Business opportunities&lt;/label&gt;
-      &lt;/p&gt;
-</code></pre>
-
-<p>or use a list&hellip;</p>
-
-<pre><code>      &lt;ul class="option group"&gt;
-        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Job offers&lt;/label&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Networking&lt;/label&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;label&gt;&lt;input type="checkbox"&gt; Business opportunities&lt;/label&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-</code></pre>
 </div> 
 
-# Aligning controls in a row
+### HTML
+
+Use nested inputs...
+
+      <p class="option group">
+        <label for="checkbox1">
+          <input id="checkbox1" type="checkbox"> Job offers
+        </label>
+        <label for="checkbox2">
+          <input id="checkbox2" type="checkbox"> Networking
+        </label>
+        <label for="checkbox3">
+          <input id="checkbox3" type="checkbox"> Business opportunities
+        </label>
+      </p>
+
+
+or use a list...
+
+      <ul class="option group">
+        <li>
+          <input id="checkbox1" type="checkbox">
+          <label for="checkbox1"> Job offers</label>
+        </li>
+        <li>
+          <input id="checkbox2" type="checkbox">
+          <label for="checkbox2"> Networking</label>
+        </li>
+        <li>
+          <input id="checkbox3" type="checkbox">
+          <label for="checkbox3"> Business opportunities</label>
+        </li>
+      </ul>
+
+
+## Aligning controls in a row
 
 You might occasionally need to arrange form controls in a row. To do this, wrap the controls in an
-'inline group' element. For example:
+'inline group' element.
+
+### Example
 
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
-
         <fieldset>
           <legend><span>Gender</span></legend>
           <p class="inline option group">
@@ -123,28 +129,30 @@ You might occasionally need to arrange form controls in a row. To do this, wrap 
             <label for="female"><input id="female" type="radio" name="gender"> Female</label>
           </p>
         </fieldset>
-
-    </div>
   </div>
-<pre><code>    &lt;fieldset&gt;
-      &lt;legend&gt;&lt;span&gt;Gender&lt;/span&gt;&lt;/legend&gt;
-      &lt;p class="inline option group"&gt;
-        &lt;label for="male"&gt;&lt;input  id="male" type="radio" name="gender"&gt; Male&lt;/label&gt;
-        &lt;label for="female"&gt;&lt;input  id="female" type="radio" name="gender"&gt; Female&lt;/label&gt;
-      &lt;/p&gt;
-    &lt;/fieldset&gt;
-</code></pre>
 </div>
 
+### HTML
 
+        <fieldset>
+          <legend><span>Gender</span></legend>
+          <p class="inline option group">
+            <label for="male">
+              <input id="male" type="radio" name="gender"> Male
+            </label>
+            <label for="female">
+              <input id="female" type="radio" name="gender"> Female
+            </label>
+          </p>
+        </fieldset>
 
-# Fieldsets and legends
+## Fieldsets and legends
 
 Use these to break up forms into logical sections
 
-<div class="pattern-example">
-  <div class="inner">
+### Example
 
+<div class="pattern-example">
     <div class="form-example-1">
 
         <fieldset>
@@ -160,23 +168,24 @@ Use these to break up forms into logical sections
         </fieldset>
 
     </div>
-
-  </div>
-  <pre><code>    &lt;fieldset&gt;
-      &lt;legend&gt;Name&lt;/legend&gt;
-      &lt;p class="group"&gt;
-        &lt;label for="first-name"&gt;First name&lt;/label&gt;
-        &lt;input id="first-name" type="text" class="name"&gt;
-      &lt;/p&gt;
-      &lt;p class="group"&gt;
-        &lt;label for="last-name"&gt;Last name&lt;/label&gt;
-        &lt;input id="last-name" type="text" class="name"&gt;
-      &lt;/p&gt;
-    &lt;/fieldset&gt;
-</code></pre>
 </div>
 
-# Nested fieldsets
+### HTML
+
+        <fieldset>
+          <legend>Name</legend>
+          <p class="group">
+            <label for="first-name">First name</label>
+            <input id="first-name" type="text" class="name">
+          </p>
+          <p class="group">
+            <label for="last-name">Last name</label>
+            <input id="last-name" type="text" class="name">
+          </p>
+        </fieldset>
+
+
+### Nested fieldsets
 
 There are times when you might want to treat a set of form controls like they were a single, compound control 
 (a date-of-birth selector for example). One way to do this is with a nested fieldset. On GOV.UK, when you
@@ -187,10 +196,9 @@ nest a fieldset inside another, the legend is styled like a label.
 legend text in a span. Blame inconsistent and generally poor support for legend positioning in browsers.</p>
 </div>
 
-Here's an example:
+### Example
 
 <div class="pattern-example">
-  <div class="inner">
 
     <div id="form-example-2" class="left">
 
@@ -228,84 +236,106 @@ Here's an example:
         </fieldset>
       </fieldset>
 
-    </div>
-
   </div>
-  <pre><code>  &lt;fieldset&gt;
-    &lt;legend&gt;Your details&lt;/legend&gt;
-    &lt;p class="group"&gt;
-      &lt;label for="full-name"&gt;Full name&lt;/label&gt;
-      &lt;input id="full-name" type="text" class="full-name"&gt;
-    &lt;/p&gt;
-    &lt;fieldset&gt;
-      &lt;legend&gt;&lt;span&gt;Date of birth&lt;/span&gt;&lt;/legend&gt;
-      &lt;div class="inline group"&gt;
-        &lt;p class="group"&gt;
-          &lt;label for="day" class="visuallyhidden"&gt;Day&lt;/label&gt;
-          &lt;select id="day" type="text"&gt;
-            &lt;option value="Day"&gt;Day&lt;/option&gt;
-            &lt;!-- Other options go here --&gt;
-          &lt;/select&gt;
-        &lt;/p&gt;
-        &lt;p class="group"&gt;
-          &lt;label for="month" class="visuallyhidden"&gt;Month&lt;/label&gt;
-          &lt;select id="month" type="text"&gt;
-            &lt;option value="Month"&gt;Month&lt;/option&gt;
-            &lt;!-- Other options go here --&gt;
-          &lt;/select&gt;
-        &lt;/p&gt;
-        &lt;p class="group"&gt;
-          &lt;label for="year" class="visuallyhidden"&gt;Year&lt;/label&gt;
-          &lt;select id="year" type="text"&gt;
-            &lt;option value="Year"&gt;Year&lt;/option&gt;
-            &lt;!-- Other options go here --&gt;
-          &lt;/select&gt;
-        &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/fieldset&gt;
-  &lt;/fieldset&gt;
-</code></pre>
+
 </div>
 
+### HTML
+
+      <fieldset>
+        <legend>Your details</legend>
+        <p class="group">
+          <label for="full-name">Full name</label>
+          <input id="full-name" type="text" class="full-name">
+        </p>
+        <fieldset>
+          <legend><span>Date of birth</span></legend>
+          <div class="inline group">
+            <p class="group">
+              <label for="day" class="visuallyhidden">Day</label>
+              <select id="day" type="text">
+                <option value="Day">Day</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+            <p class="group">
+              <label for="month" class="visuallyhidden">Month</label>
+              <select id="month" type="text">
+                <option value="Month">Month</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+            <p class="group">
+              <label for="year" class="visuallyhidden">Year</label>
+              <select id="year" type="text">
+                <option value="Year">Year</option>
+                <!-- Other options go here -->
+              </select>
+            </p>
+          </div>
+        </fieldset>
+      </fieldset>
 
 
-# Hints
 
-Hints can be placed above or below the relevant control, like this:
+## Hints
+
+Hints can be placed above or below the relevant control.
+
+### Example
 
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
       <p class="group">
         <label for="telephone">Telephone</label>
-        <input id="telephone" type="text" class="telephone">
+        <input id="telephone" type="text">
         <span class="hint">Include your country code</span>
       </p>
 
       <p class="group">
-        <label for="telephone">Code</label>
-        <input id="telephone" type="text" class="telephone">
+        <label for="code">Code</label>
+        <input id="code" type="text" class="small">
         <span class="inline hint">The three numbers on the back of the card</span>
       </p>
 
+      <p class="group">
+        <label for="password">Password</label>
+        <span class="hint">Make it at least six characters long</span>
+        <input id="password" type="password">
+      </p>
+
     </div>
-  </div>
-  <pre><code>  &lt;p class="group"&gt;
-    &lt;label for="telephone"&gt;Telephone&lt;/label&gt;
-    &lt;input id="telephone" type="text" class="telephone"&gt;
-    &lt;span class="hint"&gt;Include your country code&lt;/span&gt;
-  &lt;/p&gt;
-</code></pre>
 </div> 
 
+### HTML
 
-# Hidden labels
+      <p class="group">
+        <label for="telephone">Telephone</label>
+        <input id="telephone" type="text">
+        <span class="hint">Include your country code</span>
+      </p>
 
-Use the 'visuallyhidden' class to hide labels (you need a good reason to do this though).
+      <p class="group">
+        <label for="code">Code</label>
+        <input id="code" type="text" class="small">
+        <span class="inline hint">The three numbers on the back of the card</span>
+      </p>
+
+      <p class="group">
+        <label for="password">Password</label>
+        <span class="hint">Make it at least six characters long</span>
+        <input id="password" type="password">
+      </p>
+
+
+## Hidden labels
+
+Use the 'visuallyhidden' class to hide labels. You need a really good reason to do this though.
+
+### Example
 
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
       <p class="group">
@@ -326,55 +356,62 @@ Use the 'visuallyhidden' class to hide labels (you need a good reason to do this
       </p>
 
     </div>
-  </div>
-  <pre><code>  &lt;p class="group"&gt;
-    &lt;label for="street1"&gt;Street&lt;/label&gt;
-    &lt;input id="street1" type="text" class="street"&gt;
-  &lt;/p&gt;
-  &lt;p class="group"&gt;
-    &lt;label for="street2" class="visuallyhidden"&gt;Street line two&lt;/label&gt;
-    &lt;input id="street2" type="text" class="street"&gt;
-  &lt;/p&gt;
-  &lt;p class="group"&gt;
-    &lt;label for="town"&gt;Town/City&lt;/label&gt;
-    &lt;input id="town" type="text" class="town"&gt;
-  &lt;/p&gt;
-  &lt;p class="group"&gt;
-    &lt;label for="postcode"&gt;Postcode&lt;/label&gt;
-    &lt;input id="postcode" type="text" class="postcode"&gt;
-  &lt;/p&gt;
-</code></pre>
 </div> 
 
+### HTML
 
-# Buttons
+      <p class="group">
+        <label for="street1">Street</label>
+        <input id="street1" type="text" class="street">
+      </p>
+      <p class="group">
+        <label for="street2" class="visuallyhidden">Street line two</label>
+        <input id="street2" type="text" class="street">
+      </p>
+      <p class="group">
+        <label for="town">Town/City</label>
+        <input id="town" type="text" class="town">
+      </p>
+      <p class="group">
+        <label for="postcode">Postcode</label>
+        <input id="postcode" type="text" class="postcode">
+      </p>
+
+
+## Buttons
 
 Nest rows of buttons in an 'action group' element.
 
+### Example
+
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
         <p class="action group">
-          <input class="btn" type="submit" value="Submit">
-          <input class="btn-secondary" type="submit" value="Cancel">
+          <input class="button" type="submit" value="Submit">
+          <input class="button-secondary" type="submit" value="Cancel">
         </p>
 
     </div>
-  </div>
-<pre><code>    &lt;p class="action group"&gt;
-      &lt;input class="btn" type="submit" value="Submit"&gt;
-      &lt;input class="btn-secondary" type="submit" value="Cancel"&gt;
-    &lt;/p&gt;
-</code></pre>
 </div> 
 
-# Validation messages
+### HTML
+
+        <p class="action group">
+          <input class="button" type="submit" value="Submit">
+          <input class="button-secondary" type="submit" value="Cancel">
+        </p>
+
+
+See the [seperate page on buttons](buttons.html) for detailed guidance on how to style and word them.
+
+## Validation messages
 
 Summarise any validation errors at the top of your page like this:
 
+### Example
+
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
       <div class="validation-summary">
@@ -386,22 +423,24 @@ Summarise any validation errors at the top of your page like this:
       </div>
 
     </div>
-  </div>
-  <pre><code>&lt;div class="validation-summary"&gt;
-  &lt;h1&gt;Please check the form&lt;/h1&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href="#error1"&gt;Confirm your email address&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="#error2"&gt;Select at least one area of interest&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</code></pre>
 </div> 
+
+### HTML
+
+      <div class="validation-summary">
+        <h1>Please check the form</h1>
+        <ul>
+          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error2">Select at least one area of interest</a></li>
+        </ul>
+      </div>
 
 
 Each link should jump the user down to the corresponding form control. Add a 'validation' class to the control group and insert a 'validation-message' element.
 
+### Example
+
 <div class="pattern-example">
-  <div class="inner">
     <div class="form-example-1">
 
       <p class="validation group">
@@ -411,14 +450,15 @@ Each link should jump the user down to the corresponding form control. Add a 'va
       </p>
 
     </div>
-  </div>
-  <pre><code>&lt;p class="validation group"&gt;
-  &lt;span class="validation-message" id="error1"&gt;Confirm your email address&lt;/span&gt;
-  &lt;label for="email-confirm"&gt;Confirm email &lt;abbr title="Mandatory"&gt;*&lt;/abbr&gt;&lt;/label&gt;
-  &lt;input id="email-confirm" type="text" class="email"&gt;
-&lt;/p&gt;
-</code></pre>
 </div> 
+
+### HTML
+
+      <p class="validation group">
+        <span class="validation-message" id="error1">Confirm your email address</span>
+        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <input id="email-confirm" type="text" class="email">
+      </p>
 
 
 # Cross browser support
