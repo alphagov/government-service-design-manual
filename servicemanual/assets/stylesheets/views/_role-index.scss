@@ -20,7 +20,7 @@
 
     div{
       box-sizing: border-box;
-      border-top: 3px solid $main-colour;
+      //border-top: 3px solid $main-colour;
       padding: 1em 0 0 0;
     }
 
@@ -36,11 +36,12 @@
 
   // Lists of links
   .link-list {
-    border-top: 3px solid $main-colour;
     border-bottom: 0;
     padding-bottom: 2em;
 
     h3{
+      border-top: 3px solid $main-colour;
+      padding-top: 0.5em;
       margin-top: 1em;
     }
 
