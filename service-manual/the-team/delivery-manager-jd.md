@@ -94,7 +94,7 @@ delivery projects.
 ● working with technical teams at all levels, from design through to development and
 implementation
 
-PERSON SPECIFICATION -
+PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 
 Analysing Evidence and Thinking Strategically
 
@@ -106,8 +106,6 @@ to provide balanced advice
 action
 ● Champions and encourages others to think strategically when developing new approaches or
 addressing novel problems
-
-COMPETENCES/SKILLS REQUIRED
 
 Managing and Supporting Programmes and Projects
 
@@ -134,6 +132,14 @@ of customer and stakeholder services
 Leading and Team working
 
 Essential
+
+● Provides a vision and defines clear team roles, responsibilities and objectives
+
+Desirable
+
+● Empowers, motivates and inspires teams to deliver timely results, systematically reviews
+progress and team performance
+● Develops the capability of teams to deliver the Department's objectives
 
 Managing and Valuing People
 
@@ -178,21 +184,15 @@ Specialist Skills / Expertise
 
 Essential
 
-Experience in delivering services through digital / web channels in a fast paced
+* Experience in delivering services through digital / web channels in a fast paced
 environment
-Experience in Agile and Waterfall Project Management delivery methodologies
-Strong estimation and budget scoping skills
-Experience in structured programme and project management environments
-Experience in open source and cloud technologies and their sourcing,
+* Experience in Agile and Waterfall Project Management delivery methodologies
+* Strong estimation and budget scoping skills
+* Experience in structured programme and project management environments
+* Experience in open source and cloud technologies and their sourcing,
 or relevant/significant experience in the field.
 
-●
 
-●
-●
-●
-●
-●
 
 How to Apply
 Please send completed application form to:
