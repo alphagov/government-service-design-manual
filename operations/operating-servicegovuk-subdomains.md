@@ -39,7 +39,9 @@ The service-owning dept/agency will be given delegated authority to manage the d
 
 This section give some guidance about which sub-domains a service owner should create once they have been given control of servicename.service.gov.uk.
 
-1. The user-facing live service SHOULD usually be operated using at most three user-visible sub domains of servicename.service.gov.uk:
+**Maximum number of visible sub domains**
+
+The user-facing live service SHOULD usually be operated using at most three user-visible sub domains of servicename.service.gov.uk:
 
 * “www.servicename.service.gov.uk” is for the public facing, dynamic web pages that make up your service.
 * “assets.servicename.service.gov.uk” is for assets such as static images and shared javascript files needed to run your live service. Note: written content about the service, eg guides to eligibility or detailed guidance for applicants, should be on www.gov.uk.
@@ -49,9 +51,13 @@ You SHOULD NOT create separate domains for APIs unless there’s a really good r
 
 Service managers should notify the GDS technical architects (via your Transformation team contact) if you intend to create user-visible sub domains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
 
-2. If the service is a private alpha or private beta release then it should be protected by a username and password known only to the development team and the users who are testing the service. If a service, or part of a service, is a public alpha or beta releases then it should be clearly marked as such with a text label on every page (i.e. don’t use an image containing the word alpha or beta) and in every API response.
+**Usernames and passwords**
 
-3. It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. (see also http://guidance.digital.cabinet-office.gov.uk/making-software/sandboxandstagingservers.html)  Typically, the sub domains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
+If the service is a private alpha or private beta release then it should be protected by a username and password known only to the development team and the users who are testing the service. If a service, or part of a service, is a public alpha or beta releases then it should be clearly marked as such with a text label on every page (i.e. don’t use an image containing the word alpha or beta) and in every API response.
+
+**multiple environments**
+
+It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. (see also http://guidance.digital.cabinet-office.gov.uk/making-software/sandboxandstagingservers.html)  Typically, the sub domains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
 
 Therefore, you MAY create other sub domains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service,gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development sub-domains that’s also acceptable.
 
