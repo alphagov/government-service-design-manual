@@ -15,13 +15,18 @@ status: draft
 
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
-## New Transport
+## The GOV.UK typeface
 
 GOV.UK uses the typeface New Transport, cut especially for Government use. This typeface is embedded in the GOV.UK CSS and is served to browsers via a WOFF file (or an EOT file for Internet Explorer 8). The font is hinted to display well on all browsers. Older browsers do not receive the typeface.
 
 We currently use two weights of New Transport: Light and Bold. Italics should not be used. The number of different type sizes on a page should be kept to the minimum, and only one typeface/font should be used on each website.
 
+## Using New Transport
+
+New Transport is not licenced for use outside of the GOV.UK domain. When your service goes live you'll be given access to the typeface.
+
 If the service uses numbers in columns or tables, you should change these to use the tabular number version of Transport New. This replaces the standard numbers with new versions that are spaced more evenly. The main noticable difference is a base on the character 1. GDS has used this on the Performance Platform and Trade Tariff.
+
 
 ## Colour contrast
 
