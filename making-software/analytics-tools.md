@@ -13,24 +13,26 @@ audience:
 status: draft
 ---
 
-There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against them.
+There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. 
+
+This guidance describes some of the criteria you should consider and reviews some of the main analytics tools against them.
 
 ## High level requirements
 
 When deciding which analytics tool is most appropriate for your service, you should consider the following:
 
-* you should consider the total cost of ownership as well as cost in comparison to turnover of service
-* will data be sampled at high volumes?
-* do you solely own the data?
-* 1st party cookies only
-* do you pay more for additional profiles/custom variables?
-* does it provide a strong admin system for user access?
-* is it vendor hosted or in house?
-* can it track offline channel usage?
-* does it provide a comprehensive set of standard reports including social interactions and multimedia capturing?
-* does it provide an open API with no export restrictions?
-* can it measure transactions through funnel analysis and measure goals?
+* the total cost of ownership as well as cost in comparison to turnover of service
+* the volume of data being sampled
+* who owns the data
+* the cost of additional profiles and/or custom variables
+* the admin system users have access to
+* whether it is hosted by the vendor or in-house
+* whether it tracks offline channel usage
+* whether it provides a comprehensive set of standard reports (including social interactions and multimedia capturing)
+* whether it provides an open API with no export restrictions
+* if it can measure transactions through funnel analysis and measure goals
 * support and training
+* the cookies it requires
 
 For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for any additional features.
 
@@ -38,22 +40,22 @@ For each of these criteria, you should identify which are fulfilled as part of t
 
 The privacy and security of data is of the utmost importance. Make sure your analytics solution and processes take the following into account:
 
-* do not collect and process any personal information. The terms and conditions of your analytics provider will probably expressly forbid you from doing this
-* turn off any data sharing. In Google Analytics this is done by Admin -> <Account name> -> Account Settings
+* do not collect and process any personal information (the terms and conditions of your analytics provider will probably expressly forbid you from doing this)
+* turn off any data sharing (in Google Analytics this is done by Admin -> <Account name> -> Account Settings)
 * anonymise IP addresses that your analytics provider collects, by removing the last octet of the address
 * obtain your vendor’s privacy and security policy
-* you should own and be able to export analytics data. Note that Google owns data in the free Google Analytics product
+* you should own and be able to export analytics data (Note that Google owns data in the free Google Analytics product)
 * does the solution meet the EU privacy directive and the European Commission’s Directive on Data Protection?
 * where is collected data held?
 * do data centres meet EU/British data security standards?
 * how long is data held for?
 * what will happen to the data on termination of the contract- can you export it?
-* Ddata aggregation and sharing. Does the vendor mine your data for cross-customer benchmarking/trends or to provide usage data to any advertising channels
-* access controls. Understand what access your vendors employees have to your data. Make sure there are adequate administration tools to control appropriate access for your own staff
+* data aggregation and sharing (does the vendor mine your data for cross-customer benchmarking/trends or to provide usage data to any advertising channels)
+* what access your vendors employees have to your data (make sure there are adequate administration tools to control appropriate access for your own staff)
 
 ## Vendor comparison
 
-The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s [Web Analytics Buyer’s Guide 2012](http://econsultancy.com/uk/reports/web-analytics-buyers-guide) and input from GDS and other government departments. There are numerous other vendors in the market place, including open source solutions such as Piwik, which may also be worth considering.
+The following table assesses four major analytics tools against the criteria set out above. This information was compiled from Econsultancy’s [Web Analytics Buyer’s Guide 2012](http://econsultancy.com/uk/reports/web-analytics-buyers-guide) and input from GDS and other government departments. There are numerous other vendors in the market place, including open source solutions such as [Piwik](http://piwik.org/), which may also be worth considering.
 
 <table>
 <tr><th></th><th>Google Analytics Premium</th><th>Adobe Omniture</th><th>WebTrends</th><th>Digital Analytics (Comscore)</th></tr>
@@ -75,7 +77,9 @@ SDK mobile is  extra for Apps; but mobile site use is no extra.</td><td>Based on
 
 ## Configuring analytics tools
 
-Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems. Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
+Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems. 
+
+Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
 
 You will need to answer the following:
 
