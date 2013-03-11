@@ -5,7 +5,7 @@ subtitle: Ways of framing or interpreting information
 category: users
 type: guide
 audience: 
-    primary: research 
+    primary: researcher 
 status: draft
 phases:
   - discovery

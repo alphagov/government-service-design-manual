@@ -5,7 +5,7 @@ subtitle: Basing your service on user needs and user input
 category: users
 type: guide
 audience: 
-    primary: research 
+    primary: researcher 
 status: draft
 phases:
   - discovery
@@ -49,26 +49,26 @@ Typically this will involve some initial fact finding in the early stages to see
 
 ## Research methods
 
-**Background**
+### Background
 
-* [Sampling methodologies](/users/user-research/samplingmethodologies.html)
-* [User research briefs](/users/user-research/userresearchbriefs.html)
-* [Survey design](/users/user-research/surveydesign.html)
-* [User research tools](/users/user-research/userresearchtools.html)
+* [Sampling methodologies](/service-manual/users/user-research/samplingmethodologies.html)
+* [User research briefs](/service-manual/users/user-research/userresearchbriefs.html)
+* [Survey design](/service-manual/users/user-research/surveydesign.html)
+* [User research tools](/service-manual/users/user-research/userresearchtools.html)
  
-**Qualitative user research techniques**
+### Qualitative user research techniques
 
-* [Ethnographic research](/users/user-research/ethnographicresearch.html)
-* [Expert review](/users/user-research/expert-review.html)
-* [Guerilla testing](/users/user-research/guerillatesting.html)
-* [Same day user testing](/users/user-research/samedayusertesting.html)
-* [Lab based user testing](/users/user-research/labbasedusertesting.html)
-* [Focus groups and 1:1 interviews](/users/user-research/focusgroupsminigroupsandinterviews.html)
-* [Community user groups](/users/user-research/communityusergroups.html)
+* [Ethnographic research](/service-manual/users/user-research/ethnographicresearch.html)
+* [Expert review](/service-manual/users/user-research/expert-review.html)
+* [Guerilla testing](/service-manual/users/user-research/guerillatesting.html)
+* [Same day user testing](/service-manual/users/user-research/samedayusertesting.html)
+* [Lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
+* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
+* [Community user groups](/service-manual/users/user-research/communityusergroups.html)
 
-**Quantitative**
+### Quantitative
 
-* [User research surveys](/users/user-research/userresearchsurveys.html)
-* [Remote usability/summative testing](/users/user-research/remoteusability.html)
-* [Online research panels](/users/user-research/onlineresearchpanels.html)
-* [Online omnibus surveying](/users/user-research/onlineomnibussurvey.html)
+* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
+* [Remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
+* [Online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
+* [Online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)

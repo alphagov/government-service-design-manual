@@ -98,7 +98,7 @@ status: draft
   {% endsorted_for %}
   </ul>
 
-  <h2>The Team</h2>
+  <h2>The team</h2>
   <ul>
   {% sorted_for p in site.pages sort_by:title %}
     {% if p.category == 'the-team' %}

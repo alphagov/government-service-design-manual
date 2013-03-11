@@ -32,28 +32,27 @@ You will be using research to test your assumptions throughout the design, build
 
 ## User research techniques
 
-The following technique may be useful when conducting user research
+The following techniques may be useful when conducting user research
 
-<ul>
-  <li><a href="/users/card-sorting.html">card sorting</a></li>
-  <li><a href="/users/user-research/communityusergroups.html">community user groups</a></li>
-  <li><a href="/users/user-research/discussionguides.html">discussion guides</a></li>
-  <li><a href="/users/user-research/ethnographicresearch.html">ethnographic research</a></li>
-  <li><a href="/users/user-research/multivariatetesting.html">multivariate testing</a></li>
-  <li><a href="/users/user-research/focusgroupsminigroupsandinterviews.html">focus-groups and interviews</a></li>
-  <li><a href="/users/user-research/guerillatesting.html">guerilla testing</a></li>
-  <li><a href="/users/user-research/expert-review.html">expert review</a></li>
-  <li><a href="/users/user-research/labbasedusertesting.html">lab-based user research</a></li>
-  <li><a href="/users/user-research/onlineomnibussurvey.html">online omnibus surveying</a></li>
-  <li><a href="/users/user-research/onlineresearchpanels.html">online research panels</a></li>
-  <li><a href="/users/user-research/remoteusability.html">remote usability summative research</a></li>
-  <li><a href="/users/user-research/samedayusertesting.html">same day user research</a></li>
-  <li><a href="/users/user-research/samplingmethodologies.html">sampling methodologies</a></li>
-  <li><a href="/users/user-research/surveydesign.html">survey design</a></li>
-  <li><a href="/users/user-research/userresearchsurveys.html">user research surveys</a></li>
-  <li><a href="/users/user-research/userresearchtools.html">user research tools</a></li>
-  <li><a href="/users/user-research/sentimentanalysis.html">sentiment analysis</a></li>
-</ul>
+* [Card sorting](/service-manual/users/card-sorting.html)
+* [Discussion guides](/service-manual/users/user-research/discussionguides.html)
+* [Multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
+* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
+* [Sentiment analysis](/service-manual/users/user-research/sentimentanalysis.html)
+* [Sampling methodologies](/service-manual/users/user-research/samplingmethodologies.html)
+* [Survey design](/service-manual/users/user-research/surveydesign.html)
+* [User research tools](/service-manual/users/user-research/userresearchtools.html)
+* [Ethnographic research](/service-manual/users/user-research/ethnographicresearch.html)
+* [Expert review](/service-manual/users/user-research/expert-review.html)
+* [Guerilla testing](/service-manual/users/user-research/guerillatesting.html)
+* [Same day user testing](/service-manual/users/user-research/samedayusertesting.html)
+* [Lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
+* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
+* [Community user groups](/service-manual/users/user-research/communityusergroups.html)
+* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
+* [Remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
+* [Online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
+* [Online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
 
 ## User research briefs
 
