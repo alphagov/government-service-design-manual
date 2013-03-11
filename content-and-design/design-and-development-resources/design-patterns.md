@@ -35,15 +35,6 @@ All the patterns in the library make use of the [GOV.UK frontend toolkit](/conte
 * [Error messages](/content-and-design/design-and-development-resources/errormessages.html)
 * [Example: Registration form](/content-and-design/design-and-development-resources/registration-form.html)
 
-### Content
-
-* [Grid](/content-and-design/design-and-development-resources/regular-grid.html)
-* [Show/hide link](/content-and-design/design-and-development-resources/show-hide.html)
-
-### Other
-
-* [Contact details](/content-and-design/design-and-development-resources/contact-details.html)
-* [Progress indicator](/content-and-design/design-and-development-resources/progress-indicator.html)
 
 
 

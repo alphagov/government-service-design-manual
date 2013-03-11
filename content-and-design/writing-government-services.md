@@ -17,11 +17,11 @@ phases:
 
 This section gives details on naming your service, tone, style, questions and why we write in this way.
 
-You may want to read: [how users read](howusersread.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
+You may want to read: [how users read](how-users-read.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
 
-All services should follow the [GOV.UK style guide](/content-and-design/styleguide.html).
+All services should follow the [GOV.UK style guide](/content-and-design/style-guide.html).
 The way we talk to users is the same on all [GOV.UK](https://www.gov.uk) products. The only difference is the format.
 
 ###Introductions
@@ -75,7 +75,7 @@ The terms and conditions of your service must be understandable to the majority 
 
 ##Guidance/Tool
 
-[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide).
+[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/style-guide).
 
 These form a template for other services to use, and cover many of the conditions that operational services published as part of [GOV.UK](https://www.gov.uk) will require.
 
@@ -89,5 +89,5 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 
 ##Further reading
-[How users read](howusersread.html)
-[Style guide](/content-and-design/styleguide.html)
+[How users read](how-users-read.html)
+[Style guide](/content-and-design/style-guide.html)

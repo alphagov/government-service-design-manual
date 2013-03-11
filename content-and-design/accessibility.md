@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Access for all
+title: Accessibility
 subtitle: How to make services that everyone can use
 section: content-and-design
 type: guide
