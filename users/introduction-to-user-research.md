@@ -59,7 +59,7 @@ Typically this will involve some initial fact finding in the early stages to see
 **Qualitative user research techniques**
 
 * [Ethnographic research](/users/user-research/ethnographicresearch.html)
-* [Heuristic evaluations](/users/user-research/heuristicevaluations.html)
+* [Expert review](/users/user-research/expert-review.html)
 * [Guerilla testing](/users/user-research/guerillatesting.html)
 * [Same day user testing](/users/user-research/samedayusertesting.html)
 * [Lab based user testing](/users/user-research/labbasedusertesting.html)
