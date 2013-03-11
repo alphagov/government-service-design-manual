@@ -13,7 +13,6 @@ phases:
   - live
 ---
     
-#GOV.UK Style Guide
 This style guide is for written content on the GOV.UK website.
 
 The first part of this guide is for the whole of GOV.UK. It covers

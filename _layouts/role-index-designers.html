@@ -16,15 +16,6 @@ section_class: wide role-index
   </hgroup>
 </header>
 
-{% assign resources = false %}
-{% assign width = ' wide' %}
-{% for p in site.pages %}
-  {% if p.audience.primary contains page.audience and p.type == 'resource' %}
-    {% assign resources = true %}
-    {% assign width = '' %}
-  {% endif %}
-{% endfor %}
-
 {% assign hero = false %}
 {% for p in site.pages %}
   {% if p.title == page.hero %}
@@ -42,7 +33,7 @@ section_class: wide role-index
     </div>
 
 
-    <div class="link-list{{ width }}">
+    <div class="link-list wide">
       <h3>Guides</h3>
       <ul>
       {% for p in site.pages %}
@@ -54,21 +45,6 @@ section_class: wide role-index
       {% endfor %}
       </ul>
     </div>
-
-  {% if resources %}
-    <div class="link-list">
-      <h3>Resources</h3>
-      <ul>
-      {% for p in site.pages %}
-        {% if p.audience.primary contains page.audience and p.type == 'resource' %}
-        <li> 
-            <a href="{{ p.url }}">{{ p.title }}</a>
-        </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
 
   </div>
 
