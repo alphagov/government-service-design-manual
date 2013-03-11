@@ -4,6 +4,8 @@ title: Forms
 subtitle: Markup, styles and layout for form elements
 section: design-and-development-resources
 type: resource
+audience:
+    primary: designer, developer
 status: draft
 phases:
   - alpha
