@@ -1,55 +1,127 @@
----
-layout: default
-title: Web operations skills
-subtitle: helping develop maintainable systems
-category: the-team
-type: guide
-audience:
-  primary: service manager
-  secondary: designer, developer
-status: draft
-phases:
-  - discovery
----
+# VACANCY ADVERTISING FORM
 
-## The importance of web operations
+## VACANCY REFERENCE NUMBER: IRC 74295
 
-Web operations people (alternatives include systems administrators, operations engineers or site reliability engineers) are their to help run the eventual production systems, but also to help the development team build software that is easy to operate. Thinking about how the eventual system will be run at the very start of the project is important if you want to smoothly move from prototypes to production systems.
+POST TITLE:             Web Operations	
+PAYBAND:               	A							
+UNIT/DIVISION:       	  Government Digital Service		
+LOCATION:              	London									
+TYPE OF POSTING: 	2 year FTA with possibility of extension or permanency. The post will be
+reevaluated at the end of the period to match against the on-going requirements of GDS.
+                              	
+	
 
-At a high level they will:
+## VACANCY ADVERT AND JOB DESCRIPTION - MAIN DUTIES OF THE POST
 
-* Work with developers to optimise existing application and to design new ones
-* Participate in stand-ups, planning sessions and retrospectives
-* Design, build and run systems for application deployment, systems orchestration and configuration management
-* Encourage everyone (developers, delivery managers, product owners) to think about how new applications will be run and maintained
-* Contribute to designing internal processes needed in the running of a high performance development and operations organisation
-* Help everyone understand constrains around security, performance, cost and resulting tradeoffs
+The Government Digital Service is part of the Cabinet Office. Our job is to help transform digital services throughout government.
+ 
+We do that by building world-class services, by developing digital capability throughout the civil service, and by setting a standard for service design across government. All of our work puts the needs of users first. Only by developing around the needs of citizens can we create digital services so good that people prefer to use them.
+ 
+The Government Digital Service is seeking motivated individuals with sound judgment to work within the Infrastructure team supporting our Web Platform while developing new solutions to meet the needs of stakeholders across government. 
 
-## Skills
+The applicant must have demonstrable experience configuring web and application servers and possess a fundamental understanding of Linux. An ideal candidate will have previous experience supporting a large production platform. Participation in an out of hour’s on-call rota is a requirement of this role.
 
-With specific skills:
+### DUTIES & RESPONSIBILITIES
 
-* Deep understanding of the target operating system; Windows, Linux, Unix, etc.
-* Experience of multiple programming languages
-* Common deployment patterns
-* Continuous integration
-* Capacity planning
-* Load and performance testing techniques
-* Highly available systems design
-* Administration and tuning of production database systems.
-* Installation and usage of monitoring tools; for instance Nagios, Ganglia, Riemann, Graphite, etc.
-* Knowledge of configuration, deployment and management of web application stacks
-* Configuration management tools like Puppet, Chef, CFEngine
+* Operational management of Linux servers, delivering a complex web application stack
+* Building and configuring new server platforms and the automated tooling to do so
+* Testing, debugging and troubleshooting of platform level problems
+* Supporting development teams with configuring applications for deployment
+* Sharing on-call duties
 
-And ideally have an interest in or some experience with:
+CONTACT DETAILS
 
-* EC2 or similar dynamic provisioning
-* Compliance, auditing and security
-* Open source development
-* Experience in a product centric environment
+FOR INFORMATION REGARDING RECRUITMENT PROCESS, ELIGIBILITY, TERMS & CONDITIONS: 
+cabinet-office.external@dwp.gsi.gov.uk
+ 
+FURTHER INFORMATION REGARDING THESE POSTS: 
+Please contact Carl Massa - carl.massa@digital.cabinet-office.gov.uk
 
-## Further reading
+CLOSING DATE: 			15 March 2013			
+EXPECTED SIFT DATE:		w/c 18th March 2013		
+EXPECTED INTERVIEW DATES:	w/c 1 April 2013
 
-* Presentation given to GDS [about web operations](http://www.slideshare.net/garethr/web-operations)
-* Article [explaining the web operations role](http://omniti.com/seeds/what-is-web-operations)
-* Book all about [web operations topics](http://shop.oreilly.com/product/0636920000136.do)
+APPLICATIONS ARE WELCOME FROM PART TIMERS AND JOB SHARERS  
+
+SALARY SCALE: £44,743 to £60,484
+
+NOTE: 
+SUCCESSFUL APPLICANTS WILL TRANSFER ONTO CABINET OFFICE TERMS AND CONDITIONS INCLUDING SALARY. FOR POSTS ADVERTISED ON LOAN, WHERE EXISTING SALARIES EXCEED CABINET OFFICE PAY SCALES IT MAY BE POSSIBLE TO REMAIN ON THE PARENT DEPARTMENT’S PAY AND APPRAISAL SYSTEM.
+ALLOWANCES WILL NOT BE CARRIED OVER UNLESS APPLICABLE TO THE JOB.
+EXCESS COSTS WILL BE PAYABLE ONLY IF THERE IS A PROVEN BUSINESS CASE.
+
+
+
+## PERSON SPECIFICATION 	- 	COMPETENCES/SKILLS REQUIRED
+
+### COMPETENCIES
+
+#### SETTING DIRECTION
+
+##### Seeing the Big Picture
+
+Essential
+* Anticipate technological developments to keep activity relevant and targeted
+
+##### Changing and Improving
+ 
+Essential
+* Understand and identify the role of technology in public service delivery and policy implementation
+* Spot warning signs of things going wrong and provide a decisive response to delivery challenges
+
+##### Making Effective Decisions
+
+Essential
+* Make difficult decisions by pragmatically weighing the complexities involved against the need to act
+* Draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data - able to act or decide even when details are not clear
+* Identify the main issues in complex problems, clarify understanding of stakeholder expectations, to seek best option
+
+#### ENGAGING PEOPLE
+
+##### Collaborating and Partnering
+ 
+Essential
+* Seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress.
+
+#### DELIVERING RESULTS
+
+##### Achieving Commercial Outcomes
+
+Essential
+* Question and challenge the value being delivered through commercial arrangements with delivery partners
+
+##### Managing a Quality Service
+
+Essential 
+* Ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant.
+
+##### Delivering at Pace
+ 
+Essential
+* Maintain effective performance in difficult and challenging circumstances, encouraging others to do the same.
+* Review, challenge and adjust performance levels to ensure quality outcomes are delivered on time
+
+#### SPECIALIST SKILLS AND REQUIREMENTS
+
+Essential
+* Understanding of common web application architectures
+* Experience configuring and managing Linux servers for serving a dynamic website
+* Experience debugging a complex multi-server service
+* Scripting or basic programming skills
+* Familiarity with network protocols - TCP/IP, HTTP, SSL, etc.
+
+Desirable
+* Installation and management of open source monitoring tools
+* Configuration management tools like Puppet, Chef
+* Deploying and configuring machines in a Cloud environment
+* Understanding of application deployment strategies and continuous integration
+* Working within a product-centric environment
+
+#### How to Apply
+Please send completed application form to:
+cabinet-office.external@dwp.gsi.gov.uk quoting ref IRC74295
+No later than close of business 15 March 2013
+
+Please note that the candidates invited for an interview will be expected to take a test.
+
+Late or faxed applications will not be accepted
