@@ -42,7 +42,7 @@ section_class: wide role-index
       <h3>Guides</h3>
       <ul>
       {% for p in site.pages %}
-        {% if p.audience.primary contains page.audience and p.type == 'guide' and p.title != page.hero %}
+        {% if p.audience.primary contains page.audience and (p.type == 'guide' or p.type == 'resource') and p.title != page.hero %}
         <li> 
             <a href="{{ p.url }}">{{ p.title }}</a>
         </li>
