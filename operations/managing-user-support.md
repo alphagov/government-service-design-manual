@@ -28,7 +28,9 @@ Minimally, you’ll want to stratify contacts by channel (phone, email, chat, so
 In addition to the very basic channel and target stratifications mentioned above, you will likely want to consider the following categories as potentially applicable to your contacts/feedback:
 
 **Enquiry type**
+
 Is the contact a: 
+
 * question
 * problem
 * complaint

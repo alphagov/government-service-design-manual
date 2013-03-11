@@ -57,9 +57,13 @@ Online tools are a good way in which to conduct in-house research cheaply and ef
 
 Using online research tools in-house can be cheaper that assigning a third party agency to conduct the work, however, as pointed out above, this is dependent of user research teams having adequate resource.
 
-##No./Types of participants##
+##Number/types of participants##
 
 Participants can be obtained internally through websites, emails, and other user channels, or via third party sample companies.
+
+##Cost##
+
+Some tools are free, but licences for others can range from £15k to 20k.
 
 ##Timescales##
 

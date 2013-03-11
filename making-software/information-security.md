@@ -46,14 +46,14 @@ training and specialist skills.
 * Senior Information Risk Owner (SIRO) - generally a senior member of the lead organisation providing the service. Ultimately responsible for the risk profile of the service: have all the risks been identified, are there appropriate mitigations in place so that the risks can be accepted, and so on.
 * Accreditor - more hands on than the SIRO, the accreditor or accreditors will work with the project team to help with understanding the process, identify risks and suggest mitigations.
 * CLAS Consultant - part of the formal Accreditation process. Responsible for much of the formal documentation.
-* CESG - the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
+* [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) - the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
 
 ### Assurance vs accreditation
 
 Assurance is the wider set of activities involved in assessing and managing the
 risks associated with the system under development. Accreditation is a subset
 of the assurance work, involing a formal and externally verified process simiar
-to ISO27001.
+to [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
 
 All projects, however small, should involve some level of assurance. This may
 be as simple as documenting the limited risks and proposing to the SIRO that

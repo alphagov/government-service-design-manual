@@ -80,6 +80,7 @@ Discovery
 * Assess the available analytics tools
 
 Alpha
+
 * Benchmark task completion rate via usability testing and establish reasons for failed transactions
 * Procure digital analytics tool
 

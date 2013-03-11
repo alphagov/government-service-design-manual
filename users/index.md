@@ -42,7 +42,7 @@ The following technique may be useful when conducting user research
   <li><a href="/users/user-research/multivariatetesting.html">multivariate testing</a></li>
   <li><a href="/users/user-research/focusgroupsminigroupsandinterviews.html">focus-groups and interviews</a></li>
   <li><a href="/users/user-research/guerillatesting.html">guerilla testing</a></li>
-  <li><a href="/users/user-research/heuristicevaluations.html">heuristic evaluations</a></li>
+  <li><a href="/users/user-research/expert-review.html">expert review</a></li>
   <li><a href="/users/user-research/labbasedusertesting.html">lab-based user research</a></li>
   <li><a href="/users/user-research/onlineomnibussurvey.html">online omnibus surveying</a></li>
   <li><a href="/users/user-research/onlineresearchpanels.html">online research panels</a></li>
