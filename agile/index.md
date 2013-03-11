@@ -33,7 +33,7 @@ Users are the heart of every digital by default service. This means having a cle
 
 Agile product development is usually broken into small units of work called sprints. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer sprints.
 
-Standup take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they pan to work on, and reveal any blockers for progress.
+Standups take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they plan to work on, and reveal any blockers to progress.
 
 [Find out how to structure sprint cycles and standups](/agile/featuresofagile.html)
 
@@ -41,7 +41,7 @@ Standup take place daily, and are an opportunity for teams to discuss the previo
 
 Retrospectives are run at the end of each sprint to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
 
-[Find out how to run a restrospective](/agile/runningretrospectives.html)
+[Find out how to run a retrospective](/agile/runningretrospectives.html)
 
 
 

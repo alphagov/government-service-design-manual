@@ -38,9 +38,9 @@ A daily meeting with all of the team. It should take no more than 15 minutes and
 
 The normal format is each person answers the following 3 questions:
 
-* What I worked on/delivered yesterday
-* What I am working on today (and help I might need)
-* What’s blocking me (i.e. stopping me delivering a story card)
+* what I worked on/delivered yesterday
+* what I am working on today (and help I might need)
+* what’s blocking me (i.e. stopping me delivering a story card)
 
 (It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
 

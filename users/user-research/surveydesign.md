@@ -13,7 +13,6 @@ phases:
   - beta
 ---
     
-#Survey design
 The abundance of free survey tools makes it cheap and easy for user research teams to produce their own surveys. However, thought still needs to be given to the survey design, understanding the goal(s) of the survey , and how the results will be used.
 
 ##Guidance
@@ -28,8 +27,6 @@ Screener questions should be placed at the beginning of surveys to ensure that t
 * Screener questions – questions that ensure the correct people complete the survey e.g. demographic, reasons for visiting
 * KPI questions – questions that benchmark performance e.g. satisfaction, recommendation, find what they wanted etc (LINK TO ADAMS SECTION ON KPIs)
 * Follow up demographic questions – additional respondent information e.g. working/not working, salary, location etc
- 
-Please follow this link to an example of a user satisfaction survey. LINK TO GOV.UK SURVEY
  
 **Common survey question types**
  

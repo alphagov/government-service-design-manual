@@ -13,7 +13,6 @@ phases:
   - beta
 ---
     
-#User research tools
 This section looks at research tools that are available (free and subscription) to enable users research teams to conducts research projects in-house.
 
 ##Guidance
@@ -62,15 +61,6 @@ Using online research tools in-house can be cheaper that assigning a third party
 
 Participants can be obtained internally through websites, emails, and other user channels, or via third party sample companies.
 
-##Cost##
-
-Some tools are free, but licences for others can range from £15k to 20k.
-
 ##Timescales##
 
 Research can be conducted quickly as little set up time is required.
-
-##Examples##
-
-Summative Test
- 

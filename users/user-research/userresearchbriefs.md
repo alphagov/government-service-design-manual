@@ -13,7 +13,6 @@ phases:
   - beta
 ---
 
-#User research briefs
 A Research brief is a document that is written to explain research requirements and enable research to be procured via third party agencies. A research brief will outline the research objectives, and why the work is required. Agencies respond to the brief and recommend suitable ways to conduct the work, and address the research objectives.
 
 ##Guidance/Tool
