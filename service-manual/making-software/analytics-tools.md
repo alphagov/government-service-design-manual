@@ -8,7 +8,7 @@ phases:
   - beta
   - live
 audience: 
-    primary: analysts
+    primary: analyst
     secondary: service-managers
 status: draft
 ---

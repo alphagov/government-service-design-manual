@@ -1,11 +1,11 @@
 ---
 layout: detailed-guidance
-title: Developers
+title: Developer skills
 subtitle: What developers do and what to look for
 category: the-team
 type: guide
 audience:
-  primary: 
+  primary: developer
 status: draft
 phases:
   - discovery

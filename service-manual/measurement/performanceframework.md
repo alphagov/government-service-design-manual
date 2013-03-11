@@ -1,9 +1,11 @@
 ---
 layout: detailed-guidance
-title: Performance Framework
+title: Performance framework
 status: draft
 category: measurement
 type: guide
+audience: 
+    primary: analyst
 phases:
   - beta
   - live

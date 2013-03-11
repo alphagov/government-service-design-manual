@@ -1,11 +1,11 @@
 ---
 layout: detailed-guidance
-title: Designers
+title: Design skills
 subtitle: What designers do and what to look for
 category: the-team
 type: guide
 audience:
-  primary: 
+  primary: designer
 status: draft
 phases:
   - discovery

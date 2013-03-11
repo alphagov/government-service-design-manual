@@ -5,7 +5,7 @@ subtitle: Understanding user data
 category: the-team
 type: guide
 audience:
-  primary: 
+  primary: analyst
 status: draft
 phases:
   - discovery

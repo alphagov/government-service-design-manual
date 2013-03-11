@@ -5,7 +5,7 @@ subtitle: Which ones to test with, and how best to support them
 category: content-and-design
 type: guide
 audience:
-  primary: designer, developer
+  primary: designer, developer, analyst
 status: draft
 phases:
   - beta
