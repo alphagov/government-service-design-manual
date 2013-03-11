@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Analytics tools
-subtitle: 
+subtitle: Choosing the right ones for your service
 category: making-software
 type: guide
 phases:
