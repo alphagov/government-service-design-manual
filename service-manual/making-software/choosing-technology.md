@@ -20,7 +20,7 @@ The most important consideration is to work on the assumption that most technolo
 
 On day one of your project you simply won't know enough about the domain or the user need to select the _right_ technology. It's OK to make an educated guess at this stage, as long as everyone understands that is what is happening. Then find time to challenge the selection as you learn more about the problem at hand.
 
-Maybe you selected a programming language that you knew would be easier and quicker to prototype in for the early stages of the project, and then moved to another one that was easier to work in large teams with for the final product. Or maybe you started out with an open source product to allow you to get started quickly, before going on to buy a commercial product which provided some required feature.
+Maybe you selected a programming language that you knew would be easier and quicker to prototype in for the early stages of the project, and then moved to another one that was easier to work in large teams with for the final product. Or maybe you started out with an open source product to allow you to get started quickly, before going on to buy a commercial product which provided some required feature (or vice-versa).
 
 ## Start with capabilities, not implementations
 
