@@ -33,6 +33,7 @@
 @import "helpers/_contents.scss";
 @import "helpers/_github-links.scss";
 @import "helpers/_global-nav.scss";
+@import "helpers/link-list.scss";
 @import "helpers/_page-header.scss";
 @import "helpers/_page-header-meta.scss";
 @import "helpers/_page-status.scss";
@@ -43,6 +44,7 @@
 // Views
 @import "views/_default.scss";
 
+@import "views/_browse.scss";
 @import "views/_category-index.scss";
 @import "views/_colour-palettes.scss";
 @import "views/_design-patterns.scss";
