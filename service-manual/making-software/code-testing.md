@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Testing code
-subtitle: How to ensure your code does what it's supposed to
+subtitle: How to make sure your code does what it's supposed to
 category: making-software
 type: guide
 audience:
