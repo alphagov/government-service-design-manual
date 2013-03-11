@@ -1,6 +1,6 @@
-##VACANCY ADVERTISING FORM##
+# VACANCY ADVERTISING FORM
 
-##VACANCY REFERENCE NUMBER: IRC 74295##
+## VACANCY REFERENCE NUMBER: IRC 74295
 
 POST TITLE:             Web Operations	
 PAYBAND:               	A							
@@ -11,7 +11,7 @@ reevaluated at the end of the period to match against the on-going requirements 
                               	
 	
 
-VACANCY ADVERT AND JOB DESCRIPTION - MAIN DUTIES OF THE POST
+## VACANCY ADVERT AND JOB DESCRIPTION - MAIN DUTIES OF THE POST
 
 The Government Digital Service is part of the Cabinet Office. Our job is to help transform digital services throughout government.
  
@@ -21,22 +21,13 @@ The Government Digital Service is seeking motivated individuals with sound judgm
 
 The applicant must have demonstrable experience configuring web and application servers and possess a fundamental understanding of Linux. An ideal candidate will have previous experience supporting a large production platform. Participation in an out of hour’s on-call rota is a requirement of this role.
 
-DUTIES & RESPONSIBILITIES
+### DUTIES & RESPONSIBILITIES
 
-Operational management of Linux servers, delivering a complex web application stack
-Building and configuring new server platforms and the automated tooling to do so
-Testing, debugging and troubleshooting of platform level problems
-Supporting development teams with configuring applications for deployment
-Sharing on-call duties
-
-
-
-
-
-
-
-
-
+* Operational management of Linux servers, delivering a complex web application stack
+* Building and configuring new server platforms and the automated tooling to do so
+* Testing, debugging and troubleshooting of platform level problems
+* Supporting development teams with configuring applications for deployment
+* Sharing on-call duties
 
 CONTACT DETAILS
 
@@ -61,75 +52,72 @@ EXCESS COSTS WILL BE PAYABLE ONLY IF THERE IS A PROVEN BUSINESS CASE.
 
 
 
-PERSON SPECIFICATION 	- 	COMPETENCES/SKILLS REQUIRED
+## PERSON SPECIFICATION 	- 	COMPETENCES/SKILLS REQUIRED
 
-COMPETENCIES
+### COMPETENCIES
 
-SETTING DIRECTION
+#### SETTING DIRECTION
 
-Seeing the Big Picture
+##### Seeing the Big Picture
 
 Essential
+* Anticipate technological developments to keep activity relevant and targeted
 
-Anticipate technological developments to keep activity relevant and targeted
-
-Changing and Improving
+##### Changing and Improving
  
 Essential
+* Understand and identify the role of technology in public service delivery and policy implementation
+* Spot warning signs of things going wrong and provide a decisive response to delivery challenges
 
-Understand and identify the role of technology in public service delivery and policy implementation
-Spot warning signs of things going wrong and provide a decisive response to delivery challenges
-
-Making Effective Decisions
+##### Making Effective Decisions
 
 Essential
-Make difficult decisions by pragmatically weighing the complexities involved against the need to act
-Draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data - able to act or decide even when details are not clear
-Identify the main issues in complex problems, clarify understanding of stakeholder expectations, to seek best option
+* Make difficult decisions by pragmatically weighing the complexities involved against the need to act
+* Draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data - able to act or decide even when details are not clear
+* Identify the main issues in complex problems, clarify understanding of stakeholder expectations, to seek best option
 
-ENGAGING PEOPLE
+#### ENGAGING PEOPLE
 
-Collaborating and Partnering
+##### Collaborating and Partnering
  
 Essential
-Seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress.
+* Seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress.
 
-DELIVERING RESULTS
+#### DELIVERING RESULTS
 
-Achieving Commercial Outcomes
+##### Achieving Commercial Outcomes
 
 Essential
-Question and challenge the value being delivered through commercial arrangements with delivery partners
+* Question and challenge the value being delivered through commercial arrangements with delivery partners
 
-Managing a Quality Service
+##### Managing a Quality Service
 
-Ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant.
+Essential 
+* Ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant.
 
-Delivering at Pace
+##### Delivering at Pace
  
 Essential
-Maintain effective performance in difficult and challenging circumstances, encouraging others to do the same.
-Review, challenge and adjust performance levels to ensure quality outcomes are delivered on time
+* Maintain effective performance in difficult and challenging circumstances, encouraging others to do the same.
+* Review, challenge and adjust performance levels to ensure quality outcomes are delivered on time
 
-Specialist Skills & Requirements
+#### SPECIALIST SKILLS AND REQUIREMENTS
 
 Essential
-Understanding of common web application architectures
-Experience configuring and managing Linux servers for serving a dynamic website
-Experience debugging a complex multi-server service
-Scripting or basic programming skills
-Familiarity with network protocols - TCP/IP, HTTP, SSL, etc.
+* Understanding of common web application architectures
+* Experience configuring and managing Linux servers for serving a dynamic website
+* Experience debugging a complex multi-server service
+* Scripting or basic programming skills
+* Familiarity with network protocols - TCP/IP, HTTP, SSL, etc.
 
 Desirable
-Installation and management of open source monitoring tools
-Configuration management tools like Puppet, Chef
-Deploying and configuring machines in a Cloud environment
-Understanding of application deployment strategies and continuous integration
-Working within a product-centric environment
+* Installation and management of open source monitoring tools
+* Configuration management tools like Puppet, Chef
+* Deploying and configuring machines in a Cloud environment
+* Understanding of application deployment strategies and continuous integration
+* Working within a product-centric environment
 
-
-
-How to Apply
+#### How to Apply
 Please send completed application form to:
 cabinet-office.external@dwp.gsi.gov.uk quoting ref IRC74295
 No later than close of business 15 March 2013
