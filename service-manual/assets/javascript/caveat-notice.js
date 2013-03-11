@@ -29,8 +29,8 @@ function getCookie(name){
 $(function() {
   var $message = $('#caveat-notice');
 
-  if ($message.length && getCookie('seen_cookie_message') === null) {    
+  if ($message.length && getCookie('govuk_service_manual_beta') === null) {
     $message.show();
-    setCookie('seen_cookie_message', 'yes', 28);
+    setCookie('govuk_service_manual_beta', 'yes', 28);
   }
 });
