@@ -12,11 +12,11 @@ fi
 if [ -d $GUIDANCE_PATH ]; then
   echo "Emptying existing service-manual folder"
   rm -rf $GUIDANCE_PATH
+  rm -rf ./_site
 fi
 
-bundle exec jekyll $GUIDANCE_PATH
-find $GUIDANCE_PATH -name "*.html" -exec sed -i -e 's#href="/#href="/service-manual/#g' -e 's#src="/#src="/service-manual/#g' {} \;
-find $GUIDANCE_PATH -name "*.css" -exec sed -i -e 's#url(/#url(/service-manual/#g' -e 's#url("/#url("/service-manual/#g' {} \;
+bundle exec jekyll ./_site
+cp -R ./_site/service-manual $GUIDANCE_PATH
 
 echo "*****"
 echo "You should now use git to push the changes to the design principles app."
