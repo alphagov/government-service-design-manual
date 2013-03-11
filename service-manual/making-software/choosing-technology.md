@@ -48,6 +48,8 @@ For example, if you select a database that only runs on one operating system you
 
 Over time, and after many decisions, you can find yourself in a situation where all your technology decisions are tightly coupled and you are locked-in to one vendor or one way of doing things. This can have unforseen financial costs (for example an overnight cost increase) but can also limit how quickly you can iterate on your product in the future, for instance if the ideal technology choice isn't compatible with your current vendor or technology.
 
+Aim to have a clear understanding of the cost or implications of moving away from a technology when you commit to it.
+
 ## Why we do this
 
 Choosing technology is important, but it's probably not quite as important as you think. What is important are the users of that technology and being able to deliver quality at a sustainable pace and suitable cost. When making technology choices, and importantly as you develop your product and constantly reassess your selections, try and make decisions that:
