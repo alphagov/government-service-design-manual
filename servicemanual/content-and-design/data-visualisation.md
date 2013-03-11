@@ -25,8 +25,8 @@ There are many examples of best practice style guides already in place. For exam
 
 ![Weekly uniques](/servicemanual/assets/images/data-visualisation/weekly-uniques.png)
 
-The [GDS Performance Platform](https://www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](https://www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](https://www.gov.uk) visualisations are designed to stand out from the crowd.
-![Graph Image](http://alphagov.files.wordpress.com/2012/10/rounded_corner_style.jpeg?w=300)
+The [GOV.UK Performance Platform](https://www.gov.uk/performance) helps the Government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
+![Weekly uniques](/servicemanual/assets/images/data-visualisation/weekly-uniques.png)
 
 ## Telling the story
 
