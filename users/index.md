@@ -44,9 +44,9 @@ The following technique may be useful when conducting user research
   <li><a href="/users/user-research/guerillatesting.html">guerilla testing</a></li>
   <li><a href="/users/user-research/heuristicevaluations.html">heuristic evaluations</a></li>
   <li><a href="/users/user-research/labbasedusertesting.html">lab-based user research</a></li>
-  <li><a href="/users/user-research/onlineomnibussurveying.html">online omnibus surveying</a></li>
+  <li><a href="/users/user-research/onlineomnibussurvey.html">online omnibus surveying</a></li>
   <li><a href="/users/user-research/onlineresearchpanels.html">online research panels</a></li>
-  <li><a href="/users/user-research/remoteusabilitysummativetesting.html">remote usability summative research</a></li>
+  <li><a href="/users/user-research/remoteusability.html">remote usability summative research</a></li>
   <li><a href="/users/user-research/samedayusertesting.html">same day user research</a></li>
   <li><a href="/users/user-research/samplingmethodologies.html">sampling methodologies</a></li>
   <li><a href="/users/user-research/surveydesign.html">survey design</a></li>

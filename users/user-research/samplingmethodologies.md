@@ -25,6 +25,4 @@ Sampling can be a complex process to understand, but on most occasions a sample 
 
 ##Further reading
 
-The following guide to sampling was written by the National Audit Office, and although it was first published in 2001, still provides a helpful introduction to sampling methodologies.
-
-http://www.nao.org.uk//idoc.ashx?docId=60e06674-ecfa-4aa2-9fc5-ea61a3d64728&version=-1
+[This guide to sampling](http://www.nao.org.uk//idoc.ashx?docId=60e06674-ecfa-4aa2-9fc5-ea61a3d64728&version=-1) was written by the National Audit Office, and although it was first published in 2001, still provides a helpful introduction to sampling methodologies.

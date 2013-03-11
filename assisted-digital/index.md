@@ -37,7 +37,7 @@ Good assisted digital support:
 
 The assisted digital user may deal with the service face-to-face, on the telephone, or in another way, but their information will be fed into the digital service by the person or technology they are interacting with. Sometimes, assisted digital users will interact with the service digitally in a way that is accessible and appropriate, for example, by using the service with an intermediary who helps them use a digital interface, whether in person or remotely.
 
-To ensure consistency, assisted digital support must follow shared models of assisted digital and be procured collaboratively. The shared models and procurement routes are being developed by GDS and departments (for more information, see the Government Approach to Assisted Digital).
+To ensure consistency, assisted digital support must follow shared models of assisted digital and be procured collaboratively. The shared models and procurement routes are being developed by GDS and departments (for more information, see the [government approach to assisted digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)).
 
 There will be a strong presumption towards procuring external resource to provide assisted digital support, from the private sector, the voluntary sector, and other parts of the public sector. In exceptional circumstances, departments may seek an exemption from this requirement; for example, where a business case for external provision does not demonstrate good value for money. Transitioning from in-house to external provision will be phased in as the marketplace of assisted digital providers is established.
 
