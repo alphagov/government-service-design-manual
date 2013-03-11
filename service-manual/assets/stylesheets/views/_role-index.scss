@@ -19,9 +19,7 @@
     margin-bottom: 2em;
 
     div{
-      box-sizing: border-box;
-      //border-top: 3px solid $main-colour;
-      padding: 1em 0 0 0;
+      @include box-sizing(border-box);
     }
 
     .link-list {
@@ -91,8 +89,7 @@
 
     // Run lists over two columns
     &.wide{
-      width: 65.5%;
-      margin-right: 0;
+      width: 66.5%;
       li{
         display: inline-block;
         width: 48.3%;
@@ -114,17 +111,21 @@
         text-decoration: none;
         h3, p{
           color: white;
+          padding-top: 0;
         }
         p{
           @include core-19;
+          text-decoration: underline;
+          margin-bottom: 0;
         }
         &:hover{
-          background-color: lighten($main-colour, 10%);
+          background-color: darken($main-colour, 10%);
         }
       }
       h3{
         @include bold-48;
         margin-bottom: 0.5em;
+        border: 0;
       }
     }
   }
