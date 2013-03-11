@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Developers
 subtitle: What developers do and what to look for
-section: the-team
+category: the-team
 type: guide
 audience:
   primary: 

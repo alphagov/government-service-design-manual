@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Version control
 subtitle: Ensure the team can collaborate on code
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: service-manager

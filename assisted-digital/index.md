@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Assisted digital
 subtitle: Getting digital services to hard to reach audiences
-section: assisted-digital
+category: assisted-digital
 type: guide
 audience:
   primary: designer, researcher, service-manager

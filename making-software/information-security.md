@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Information security
 subtitle: Ensuring user data stays secure
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: service-manager, developer, tech-arch

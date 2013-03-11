@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Typography
 subtitle: Creating clear, easy to read type for the web
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 phases:
   - alpha

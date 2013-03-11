@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: APIs
 subtitle: Using and creating Application Programming Interfaces
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: developer, tech-arch

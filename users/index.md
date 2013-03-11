@@ -2,7 +2,7 @@
 layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
-section: users
+category: users
 type: guide
 audience:
   primary: researcher, designer, service-manager

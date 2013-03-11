@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Grids
 subtitle: Quickly lay out lists of items in a grid 
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 phases:
   - alpha

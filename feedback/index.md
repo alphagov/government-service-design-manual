@@ -2,7 +2,7 @@
 layout: default
 title: Give feedback
 subtitle: Help improve the manual
-section: feedback
+category: feedback
 ---
 
 We would love to get feedback on your experiences of using this site.

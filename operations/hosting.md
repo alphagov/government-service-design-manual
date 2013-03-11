@@ -7,7 +7,7 @@ status: draft
 audience: 
     primary: tech-arch, developer
     secondary:
-section: operations
+category: operations
 ---
 
 The software running your service will need servers to run on. This guide will help you decide how you host your applications and the things to think about if selecting a vendor.

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
-section: content-and-design
+category: content-and-design
 type: guide
 audience:
   primary: designer, developer

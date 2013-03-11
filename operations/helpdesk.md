@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Helpdesk
 subtitle: How to incorporate user contacts into design
-section: operations
+category: operations
 type: guide
 status: draft
 audience: 

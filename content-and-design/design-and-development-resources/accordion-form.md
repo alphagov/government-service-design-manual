@@ -2,7 +2,7 @@
 layout: design-patterns
 title: Accordion form
 subtitle: Build to the GOV.UK style 
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 status: draft
 phases:
@@ -81,7 +81,7 @@ $(function() {
   // ACCORDION FORM
 
   // Initialise: open first part
-  $(".accordion-form .section:first").addClass('current');
+  $(".accordion-form .category:first").addClass('current');
 
   // Move to next part
   $(".next-part").click(function() {

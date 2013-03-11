@@ -2,7 +2,7 @@
 layout: wide
 title: Discovery, Alpha, Beta, Live
 subtitle: The four phases of service develpment
-section: guidance
+category: guidance
 audience:
   primary: service-manager
 secondary-audience: designer, developer, tech-arch, researcher, analyst

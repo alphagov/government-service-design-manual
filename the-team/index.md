@@ -6,7 +6,7 @@ status: draft
 type: guide
 audience:
   primary: service-manager
-section: the-team
+category: the-team
 phases:
   - discovery
 ---

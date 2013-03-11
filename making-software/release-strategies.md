@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Releasing software
 subtitle: How regular releases can reduce risk
-section: making-software
+category: making-software
 type: guide
 audience: 
     primary: developer, tech-arch

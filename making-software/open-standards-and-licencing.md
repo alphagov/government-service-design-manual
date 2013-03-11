@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Open standards and licensing
 subtitle: Building services using common standards
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: tech-arch, developer

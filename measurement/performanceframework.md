@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Performance Framework
 status: draft
-section: measurement
+category: measurement
 type: guide
 phases:
   - beta

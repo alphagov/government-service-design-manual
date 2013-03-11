@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Writing user stories
 subtitle: How to write a useful user story
-section: agile
+category: agile
 type: guide
 audience: 
   primary: service-manager, developer, researcher

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Same day user testing (online qualitative)
 subtitle: Getting input into products and services
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 

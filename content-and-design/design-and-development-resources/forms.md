@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Forms
 subtitle: Markup, styles and layout for form elements
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 status: draft
 phases:

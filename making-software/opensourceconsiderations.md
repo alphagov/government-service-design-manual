@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Open source considerations
 subtitle: When to use open source
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: developer, tech-arch

@@ -2,7 +2,7 @@
 layout: design-patterns
 title: Progress indicator
 subtitle: Build to the GOV.UK style 
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 phases:
   - alpha

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Delivery manager
 subtitle: Enabling teams to deliver high-quality services
-section: the-team
+category: the-team
 type: guide
 audience:
   primary:

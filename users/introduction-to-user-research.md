@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: An introduction to user research
 subtitle: Basing your service on user needs and user input
-section: users
+category: users
 type: guide
 audience: 
     primary: research 

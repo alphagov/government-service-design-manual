@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: User research briefs
 subtitle: Documents that explain research requirements
-section: user-research
+category: user-research
 type: guide
 audience:
     primary: research

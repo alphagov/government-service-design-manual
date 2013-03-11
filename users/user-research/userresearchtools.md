@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: User research tools
 subtitle: Products available to researchers
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 

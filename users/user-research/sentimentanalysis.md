@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Sentiment analysis
 subtitle: Understanding user's feelings about a service
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 

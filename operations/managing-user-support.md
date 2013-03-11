@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Managing user support
 subtitle: Using helpdesk contacts to improve services
-section: operations
+category: operations
 type: guide
 audience: 
   primary: designer, service-manager 

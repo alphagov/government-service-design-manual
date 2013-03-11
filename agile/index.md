@@ -2,7 +2,7 @@
 layout: category-index
 title: Agile
 subtitle: What it is, why it works and how to do it
-section: agile
+category: agile
 type: guide
 audience:
   primary: service-manager

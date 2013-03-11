@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Accessibility skills
 subtitle: What your team needs to build for inclusion
-section: the-team
+category: the-team
 type: guide
 audience:
   primary: service manager

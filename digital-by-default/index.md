@@ -6,7 +6,7 @@ audience:
   primary: service-manager
   secondary: designer, developer, tech-arch, analyst, researcher
 theme: getting-started
-section: dbd
+category: dbd
 status: draft
 ---
 

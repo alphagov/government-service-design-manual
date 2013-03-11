@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Running retrospectives
 subtitle: How and why we run retrospectives.
-section: agile
+category: agile
 type: guide
 audience:
   primary: service manager

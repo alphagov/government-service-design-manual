@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Development Environments
 subtitle: Early infrastructure needs for agile projects
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: developer, tech-arch

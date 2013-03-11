@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Data visualisation style guide
 subtitle: Creating valuable and meaningful graphics to help analyse data
-section: content-and-design
+category: content-and-design
 type: guide
 audience:
   primary: designer, researcher, analyst

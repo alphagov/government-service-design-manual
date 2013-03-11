@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: What agile looks like
 subtitle: Common features of agile projects
-section: agile
+category: agile
 type: guide
 audience:
   primary: service-manager

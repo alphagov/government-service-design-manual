@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: User satisfaction
-section: measurement
+category: measurement
 type: guide
 phases:
   - beta

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Card sorting
 subtitle: Ways of framing or interpreting information
-section: users
+category: users
 type: guide
 audience: 
     primary: research 

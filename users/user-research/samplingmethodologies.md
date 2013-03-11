@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Survey sampling methodologies
 subtitle: How to draw an effective selection of user
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 

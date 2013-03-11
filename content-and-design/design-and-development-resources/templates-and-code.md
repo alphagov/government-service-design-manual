@@ -2,7 +2,7 @@
 layout: default
 title: Templates and code
 subtitle: Get the templates and code you need to build consistent services
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 phases:
   - alpha

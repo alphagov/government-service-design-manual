@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Choosing technology
 subtitle: How to go about choosing what software tools to use
-section: making-software
+category: making-software
 type: guide
 audience:
   primary: developer, tech-arch

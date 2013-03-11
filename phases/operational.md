@@ -2,8 +2,8 @@
 layout: phases
 title: Operational
 class: operational-phase
-section: guidance
-subsection: Phases
+category: guidance
+subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
 ---

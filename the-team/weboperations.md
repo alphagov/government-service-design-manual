@@ -2,7 +2,7 @@
 layout: default
 title: Web operations skills
 subtitle: helping develop maintainable systems
-section: the-team
+category: the-team
 type: guide
 audience:
   primary: service manager

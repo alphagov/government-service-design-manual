@@ -2,7 +2,7 @@
 layout: design-patterns
 title: Error messages
 subtitle: How to write helpful messages for users when things go wrong
-section: design-and-development-resources
+category: design-and-development-resources
 type: resource
 status: draft
 phases:

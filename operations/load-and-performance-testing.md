@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Load and performance testing
 subtitle: How to avoid your service collapsing under pressure
-section: operations
+category: operations
 type: guide
 audience:
   primary: developer, tech-arch

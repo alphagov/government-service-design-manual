@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Survey design
 subtitle: Making an effective survey
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 

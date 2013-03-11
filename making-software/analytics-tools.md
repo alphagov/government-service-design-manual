@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Analytics tools
 subtitle: 
-section: making-software
+category: making-software
 type: guide
 phases:
   - beta

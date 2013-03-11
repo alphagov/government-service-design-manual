@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Discussion Guides
 subtitle: Tools to help steer user research
-section: user-research
+category: user-research
 type: guide
 audience: 
     primary: research 
