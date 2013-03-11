@@ -1,18 +1,16 @@
 ---
 layout: homepage
 title: Government Service Design Manual
-subtitle: Everything you need to build services to the digital by default standard
+subtitle: Everything you need to build services to the digital by default service standard
 category: home
 assets: local
 ---
 
 <div class="dbd-promo">
   <a class="logo" href="digital-by-default"><img src="assets/images/DbD-kitemark.png" alt="Read the digital by default standard" /></a>
-  <p>
-    <strong>The way we make government services is changing</strong>
-    By 2014 all new government services must meet the new digital by default standard.
-    This manual explains what the standard is and shows you how to meet it.
-  </p>
+  
+  <p><strong>The way we make government services is changing</strong>
+  From April 2014, all new and redesigned digital services must be so good people prefer to use them. This manual explains what the service standard is, and how it can be met.</p>
 </div>
 
 <div class="secondary-promos">
