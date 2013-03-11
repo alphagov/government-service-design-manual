@@ -4,6 +4,8 @@ title: Buttons
 subtitle: How to code them, how to word them and when to use them   
 category: design-and-development-resources
 type: resource
+audience:
+    primary: designer, developer
 status: draft
 phases:
   - alpha

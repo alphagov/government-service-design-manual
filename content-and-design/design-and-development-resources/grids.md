@@ -10,7 +10,6 @@ phases:
   - live
 status: draft
 page_class: grid
-assets: local
 ---
 
 

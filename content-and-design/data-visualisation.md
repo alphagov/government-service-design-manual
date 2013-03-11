@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Data visualisation style guide
+title: Data visualisation
 subtitle: Creating valuable and meaningful graphics to help analyse data
 category: content-and-design
 type: guide
@@ -26,14 +26,7 @@ There are many examples of best practice style guides already in place. For exam
 The [GDS Performance Platform](https://www.gov.uk/performance) includes innovative visualisations (using HTML5 D3 Javascript) which monitor [GOV.UK](https://www.gov.uk). The example below has a trend line and colours which vary by performance. [GOV.UK](https://www.gov.uk) visualisations are designed to stand out from the crowd.
 ![Graph Image](http://alphagov.files.wordpress.com/2012/10/rounded_corner_style.jpeg?w=300)
 
-### Contents
-
-* Tell the story
-* Choose your visualisation
-* Create your visualisation
-* Be open and transparent with data
-
-##1. Telling the story
+## Telling the story
 
 To effectively tell the story behind the numbers, you need to understand both your audience and the data.
 
@@ -50,7 +43,7 @@ b) How much detail do they need?
 c) What story does the data tell?
 d) Do you need a visualisation?
 
-## 2. Choosing your visualisation and templates
+## Choosing your visualisation and templates
 
 Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. A guide to infographics is available [here](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0B9lK1009bUPiQ1FvcVRUVDkzcWc/edit). Most computer programmes come with a range of visualisations. There are also visualisation tools available online and a blog of free ones [here](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
 
@@ -58,6 +51,7 @@ Each chart has its own strength. Below are the core 5 with templates, a google s
 
 ###Column chart
 ![Column Chart - Image 1](https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)
+
 Strengths - comparing **items**, or a small number of time periods.
 
 * Negative values below the x-axis.
@@ -66,6 +60,7 @@ Strengths - comparing **items**, or a small number of time periods.
 
 ###Bar chart
 ![Bar Chart - Image 2](https://docs.google.com/drawings/pub?id=1m5nrx667px-PbiHMHxYJO9M4qq1oLrvJqVhyMf-rBmY&w=358&h=223)
+
 Strengths - comparing **items**, especially if they have long names or many items.
 
 * Arrange bars in size order, from biggest to smallest (unless good reason i.e.data needs to be represented alphabetically).
@@ -73,6 +68,7 @@ Strengths - comparing **items**, especially if they have long names or many item
 
 ###Line chart
 ![Line Chart - Image 3](https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)
+
 Strengths - comparing over time or between **variables** for a **single item** (e.g. site traffic vs. site performance)
 
 * Limit number of data sets to four.
@@ -81,6 +77,7 @@ Strengths - comparing over time or between **variables** for a **single item** (
 
 ###Pie chart
 ![Pie Chart - Image 4](https://docs.google.com/drawings/pub?id=1t5ECozT_ClsmPFNID9j6mYKkUVeM9t0bW_vAah5T_5A&w=337&h=237)
+
 Strengths - simple share of **total**. Use with caution, column or bar charts are often better. Limit to two segments to avoid confusion.
 
 * The largest segment should be at 12 o’clock going clockwise.
@@ -88,6 +85,7 @@ Strengths - simple share of **total**. Use with caution, column or bar charts ar
 
 ###Scatter chart
 ![Scatter Chart - Image 5](https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)
+
 Strengths - relationships between **variables** where there are **many items** (e.g. volume vs cost for numerous transactions)
 
 * Limit items to two to avoid confusion.
@@ -117,7 +115,7 @@ Choosing the correct visualisation is important and at GDS we reviewed what was 
 * The stacked chart provides additional information which could not be visualised in the pie.
 
 
-##3. Creating your visualisation
+## Creating your visualisation
 
 Keep in mind these useful tips when creating your charts.
 
@@ -169,7 +167,7 @@ The legend accounts for a quarter of display space. The Y axis quotes £ and not
 The stacked column gave a level of detail which was not needed. This has been rationalised to best suit the audience. Axes have been standardised. The legend has been relocated giving the chart more space. Heavy grid lines and axes have been removed to give a clearer display.
 
 
-##4. Be open and honest
+## Be open and honest
 >“We want transparency to become an absolutely core part of every bit of government business.”
 >- Francis Maude
 
@@ -183,7 +181,7 @@ b) Have you provided contact details (e.g. a mailto link)?
 c) Is it clear whether data is internal or public?
 d) Have you been open and transparent with data?
 
-###Worked Example
+###Worked example
 
 ![Bad Line chart - image10](https://docs.google.com/drawings/pub?id=1i4V_-F50fyfpJ6TwZZkJJAhI5siJcGX0sgwUKjN-dYs&w=337&h=237)
 
@@ -197,7 +195,7 @@ d) Have you been open and transparent with data?
 * The data fluctuations can be seen in the context of the wider data series.
 
 
-## Further Reading/Viewing
+## Further reading
 
 For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/).
 
