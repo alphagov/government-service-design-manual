@@ -16,15 +16,15 @@ assets: local
 <div class="secondary-promos">
   <div>
     <h3>Read the standard</h3>
-    <p><a href="digital-by-default">Find out what it takes to make a service digital by default</a></p>
+    <p><a href="/service-manual/digital-by-default">Find out what it takes to make a service digital by default</a></p>
   </div>
   <div>
     <h3>Use the manual</h3>
-    <p><a href="about">Discover how this site can help you create world class digital services</a></p>
+    <p><a href="/service-manual/about">Discover how this site can help you create world class digital services</a></p>
   </div>
   <div>
     <h3>Transform your service</h3>
-    <p><a href="phases">Learn how new ways of working can transform our services</a></p>
+    <p><a href="/service-manual/phases">Learn how new ways of working can transform our services</a></p>
   </div>
 </div>
 
