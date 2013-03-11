@@ -77,7 +77,7 @@ It is recommended that all surveys are tested thoroughly to ensure the correct d
 
 ##GDS Example 
 
-GOV.UK Survey
+[GOV.UK Survey](/assets/documents/GOVUK-Survey.pdf) (PDF, 213KB)
 
 ##Further reading
 

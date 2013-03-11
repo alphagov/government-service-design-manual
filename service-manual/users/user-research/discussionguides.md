@@ -27,4 +27,4 @@ Typically each section of the guide would include time guidance to ensure all ar
 
 ##Example
 
-Link to example from one of our projects
+[A discussion guide written for testing that was conducted with BIS experts for the development of GOV.UK](/assets/documents/BISExpertInterviewsDiscussionGuideOctober2012.docx.pdf) (PDF, 157kb).

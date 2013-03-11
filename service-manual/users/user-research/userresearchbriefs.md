@@ -39,7 +39,7 @@ A Research brief should contain the following information:
 
 ##Example
 
-The follow link will take you to an example of how a research brief should be written.
+[IDA research brief](/assets/documents/IDAQualBrief.pdf) (PDF, 177KB)
 
 ## See also
 
