@@ -44,7 +44,3 @@ Depending on the study needs and the approach, but 6-8 weeks from briefing to re
 ##Cost
  
 Ethnographic research can be expensive and time consuming, but this depends on the needs of a particular project. The benefits derived can be extremely valuable.
-
-## GDS example
- 
-Ethnographic techniques were used in the recent [Digital Landscape research](http://publications.cabinetoffice.gov.uk/digital/research/) in order to understand why some people choose not to conduct government transactions online

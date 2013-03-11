@@ -57,6 +57,4 @@ When using a user panel the fieldwork normally takes four to five days, with an 
 
 ##Examples
 
-Remote usability testing has been used for testing GOV.UK.
-
-
+[An example from the second round of Inside Government usability testing](/assets/documents/Inside-Gov-Summative-Final.pdf) (PDF, 2MB)
