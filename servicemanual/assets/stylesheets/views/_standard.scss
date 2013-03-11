@@ -9,8 +9,8 @@
       padding-top: 2em;
     }
     h1{
-      background: url('/assets/images/DbD-kitemark.png') no-repeat 0.5em;
-      height: 190px;
+      background: url('/servicemanual/assets/images/DbD-kitemark.png') no-repeat 2.2em 0.5em;
+      height: 150px;
       background-size: Auto 74%;
       text-indent: -9999px;
     }
@@ -18,6 +18,16 @@
   .subtitle{
     display: none;
   }
+
+
+.pull{
+  position: absolute;
+  left: -30%;
+  width: 20%;
+  border-top: 3px solid red;
+  padding-top: 0.5em;
+}
+
   // The list of criteria
   .standard{
     ul{
