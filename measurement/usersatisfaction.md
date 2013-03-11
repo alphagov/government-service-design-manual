@@ -11,16 +11,13 @@ status: draft
 
 Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
 
-> Q:
-
 * Overall, how satisfied were you with this [eg car tax] service today?
 
-> A:
-* Very satisfied
-* Satisfied
-* Neither satisfied or dissatisfied
-* Dissatisfied
-* Very dissatisfied
+	* Very satisfied
+	* Satisfied
+	* Neither satisfied or dissatisfied
+	* Dissatisfied
+	* Very dissatisfied
 
 ## Why measure user satisfaction?
 
