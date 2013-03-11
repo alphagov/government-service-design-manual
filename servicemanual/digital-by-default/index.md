@@ -21,21 +21,17 @@ A team must demonstrate that they have done the following to achieve the digital
 
 
 1. analysed the prototype service’s success and ensured that user feedback is translated into features for the next phase of development
-2. built a working prototype, using the agile, iterative and user-centred methods set out in the Government Service Design Manual (GSDM)
+2. built a working prototype, using the [agile](/servicemanual/agile/), iterative and user-centred methods set out in the Government Service Design Manual (GSDM)
 3. kept a regularly updated public blog explaining how they have designed their service and sharing new ideas and knowledge with others in the same position
+4. put in place a [multidisciplinary team](/servicemanual/the-team/), led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
 
 {:.pull}
-[Read about agile development](/servicemanual/agile/)
+**The team** 
 
-
-4. put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
-
-### Users
-
-1. a plan in place for ongoing user testing, including the ability to support multivariate experiments
-2 created a service that is simple and intuitive enough that all users succeed first time, unaided
-3. conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design 
-4. successfully tested the service from beginning to end with the responsible Minister
+5. a plan in place for ongoing user testing, including the ability to support multivariate experiments
+6. created a service that is simple and intuitive enough that all users succeed first time, unaided
+7. conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design 
+8. successfully tested the service from beginning to end with the responsible Minister
 
 ### Operations
 
