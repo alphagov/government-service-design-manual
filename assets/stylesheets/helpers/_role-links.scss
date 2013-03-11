@@ -1,5 +1,5 @@
 .roles {
-  @include regular-grid(3);
+  @include grid(3);
   a {
     display: block;
     padding: 0.5em 0;

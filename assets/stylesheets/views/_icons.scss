@@ -4,11 +4,11 @@
 
 .icons{
     &.big{
-      @include regular-grid(4);
+      @include grid(4);
       .icon { height: 8em; }
     }
     &.small{
-      @include regular-grid(5);
+      @include grid(5);
       .icon { height: 6em; }
     }
     .icon{
