@@ -14,7 +14,7 @@ status: draft
 
 Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to start small, fail fast, and deliver value to our users as early as possible.
 
-<img class="phase-diagram" src="/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
+<img class="phase-diagram" src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
 Explore the four development phases of a digital service in more detail below.
 
@@ -31,23 +31,23 @@ A small team will be required and the phase should not take longer than a week. 
 
 <ul class="phase-activities">
   <li>
-    <img class="output" src="/assets/images/pictograms/backlog.png" /> 
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
     List of user needs
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/user-needs.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/user-needs.png" />
     User personas
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/prototype.png" /> 
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" /> 
     Rough wireframes
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
     Stakeholder interviews
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/discovery-small.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/discovery-small.png" />
     Team size
   </li>
 </ul>
@@ -64,27 +64,27 @@ You may need to bring more developers and designers into the team, but the whole
 
 <ul class="phase-activities">
   <li>
-    <img class="output" src="/assets/images/pictograms/backlog.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
     User story backlog
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/design-and-build.png" />
     Design and build
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/prototype.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
     Working prototype
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/presentation.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/presentation.png" />
     Show and tell
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
     Retrospective
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/alpha-medium.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/alpha-medium.png" />
     Team size
   </li>
 </ul>
@@ -103,27 +103,27 @@ You will now know what size team you need to deliver the service. The Beta phase
 
 <ul class="phase-activities">
   <li>
-    <img class="output" src="/assets/images/pictograms/backlog.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
     User story backlog
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/design-and-build.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/design-and-build.png" />
     Design and build
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/prototype.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
     Working service
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/presentation.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/presentation.png" />
     Show and tell
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
     Retrospective
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/beta-large.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/beta-large.png" />
     Team size
   </li>
 </ul>
@@ -142,15 +142,15 @@ The team may need to be reconfigured to reflect the operational requirements of 
 
 <ul class="phase-activities">
   <li>
-    <img class="output" src="/assets/images/pictograms/website.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/website.png" />
     Live service
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/discussion.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
     User feedback
   </li>
   <li>
-    <img class="output" src="/assets/images/pictograms/live-larger.png" />
+    <img class="output" src="/service-manual/assets/images/pictograms/live-larger.png" />
     Team size
   </li>
 </ul>
