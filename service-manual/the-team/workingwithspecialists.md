@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Working with specialists and suppliers
 subtitle: How people outside government can help build your service
 category: the-team
