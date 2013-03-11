@@ -4,7 +4,7 @@
 
 .colours {
   .swatches{
-    @include regular-grid(3);
+    @include grid(3);
     ul {
       margin: 0;
       padding: 0;

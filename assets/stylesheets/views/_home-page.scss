@@ -43,7 +43,7 @@
 
   // Secondary promos
   .secondary-promos{
-    @include regular-grid(3, 165px);
+    @include grid(3, 165px);
     margin: 2em 0 0 0;
     div{
       background: $panel-colour;

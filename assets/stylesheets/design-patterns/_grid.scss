@@ -46,13 +46,32 @@
       @each $column in $columns{
         &:nth-child(#{$numCols}n+#{$i}){
           width: percentage($column/$sum);
-        } 
+        }
+
+        @include ie-lte(8){
+
+          //@if $i == 1 { &:first-child{ width: percentage($column/$sum); }}
+          //@if $i == 2 { &:first-child + *{ width: percentage($column/$sum); }}
+          //@if $i == 3 { &:first-child + * + *{ width: percentage($column/$sum); }}
+          //@if $i == 4 { &:first-child + * + * + *{ width: percentage($column/$sum); }}
+        }
+
         $i:$i+1;
       }
+
+
+
+
+
     }
 
     @if ($min-height != ""){
       min-height: $min-height;
+    }
+
+    // Switch to single column for mobile layouts
+    @include media(mobile){
+      width: 100% !important;
     }
   }
 }
