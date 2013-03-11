@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working with specialists and specialist suppliers
+title: Working with specialists and suppliers
 subtitle: How people outside government can help build your service
 category: the-team
 type: guide
