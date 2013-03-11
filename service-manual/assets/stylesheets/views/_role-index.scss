@@ -68,6 +68,13 @@
         }
         &:hover{
           background-color: darken($main-colour, 10%);
+          -webkit-transition: background-color .25s linear;
+          transition: background-color .25s linear;
+        }
+        &:link,
+        &:visited{
+          -webkit-transition: background-color .1s linear;
+          transition: background-color .1s linear;
         }
       }
       h3{
