@@ -5,7 +5,7 @@ subtitle: Basing your service on user needs and user input
 category: users
 type: guide
 audience: 
-    primary: researcher 
+    primary: researcher
 status: draft
 phases:
   - discovery

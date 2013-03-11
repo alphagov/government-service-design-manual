@@ -5,7 +5,7 @@ subtitle: How to focus a service on users
 category: users
 type: guide
 audience: 
-    primary: researcher 
+    primary: researcher, content-designer
 status: draft
 phases:
   - discovery

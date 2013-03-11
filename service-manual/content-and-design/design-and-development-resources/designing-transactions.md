@@ -5,7 +5,7 @@ subtitle: Starting and ending transactions, showing progress etc.
 category: content-and-design
 type: resource
 audience: 
-  primary: designer
+  primary: designer, content-designer
 type: guide
 status: draft
 ---

@@ -21,7 +21,7 @@ You may want to read: [how users read](how-users-read.html) this will tell you m
 
 ##Guidance
 
-All services should follow the [GOV.UK style guide](/content-and-design/style-guide.html).
+All services should follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide).
 The way we talk to users is the same on all [GOV.UK](https://www.gov.uk) products. The only difference is the format.
 
 ###Introductions
