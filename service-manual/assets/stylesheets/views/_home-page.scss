@@ -24,11 +24,14 @@
     overflow: hidden;
     margin-bottom: 2em;
     p{
-      width: 47%;
+      width: 51%;
       margin: 1em 0 1em 0;
       float: left;
       font-size: 19px;
       line-height: 1.5em;
+    }
+    strong{
+      display: block;
     }
     .logo{
       display: block;
@@ -44,7 +47,6 @@
   // Secondary promos
   .secondary-promos{
     @include grid(3, 165px);
-    margin: 2em 0 0 0;
     div{
       background: $panel-colour;
     }

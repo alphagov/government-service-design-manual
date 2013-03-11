@@ -34,18 +34,13 @@ section_class: wide role-index
 
 <div class="article-container">
   <div class="primary-links">
-    {% if hero %}
     <div class="hero link-list">
-      {% for p in site.pages %}
-        {% if p.title == page.hero %}
-        <a href="{{ p.url }}">
-          <h3>{{ p.title }}</h3>
-          <p>{{ p.subtitle }}</p>
+        <a href="http://gov.uk/designprinciples">
+          <h3>GOV.UK design principles</h3>
+          <p>Ten principles that should inform all you design for GOV.UK</p>
         </a>
-        {% endif %}
-      {% endfor %}
     </div>
-    {% endif %}
+
 
     <div class="link-list{{ width }}">
       <h3>Guides</h3>

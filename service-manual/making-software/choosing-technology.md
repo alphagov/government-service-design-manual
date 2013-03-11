@@ -20,7 +20,7 @@ The most important consideration is to work on the assumption that most technolo
 
 On day one of your project you simply won't know enough about the domain or the user need to select the _right_ technology. It's OK to make an educated guess at this stage, as long as everyone understands that is what is happening. Then find time to challenge the selection as you learn more about the problem at hand.
 
-Maybe you selected a programming language that you knew would be easier and quicker to prototype in for the early stages of the project, and then moved to another one that was easier to work in large teams with for the final product. Or maybe you started out with an open source product to allow you to get started quickly, before going on to buy a commercial product which provided some required feature.
+Maybe you selected a programming language that you knew would be easier and quicker to prototype in for the early stages of the project, and then moved to another one that was easier to work in large teams with for the final product. Or maybe you started out with an open source product to allow you to get started quickly, before going on to buy a commercial product which provided some required feature (or vice-versa).
 
 ## Start with capabilities, not implementations
 
@@ -47,6 +47,8 @@ Technology lock-in happens when previous decisions regarding technology limit fu
 For example, if you select a database that only runs on one operating system you have no choice about the operating system you will use. If the costs of that operating system jump you have no simple way of reducing that cost quickly or cheaply.
 
 Over time, and after many decisions, you can find yourself in a situation where all your technology decisions are tightly coupled and you are locked-in to one vendor or one way of doing things. This can have unforseen financial costs (for example an overnight cost increase) but can also limit how quickly you can iterate on your product in the future, for instance if the ideal technology choice isn't compatible with your current vendor or technology.
+
+Aim to have a clear understanding of the cost or implications of moving away from a technology when you commit to it.
 
 ## Why we do this
 

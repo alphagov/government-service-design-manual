@@ -50,7 +50,3 @@ To outsource to an external agency the costs are likely to be:
 * 1:1 depth interviews - approximately £1.5k per interview (based on a session of 8-10 interviews)
 * Focus groups - approximately £3k
 
-##GDS Example 
-
-Identity Assurance concept development research
-
