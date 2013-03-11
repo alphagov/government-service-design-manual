@@ -17,22 +17,39 @@ There are various web analytics tools available to help you measure how people a
 
 ## High level requirements
 
-When deciding which analytics tool is most appropriate for your service, you should consider the following criteria:
+When deciding which analytics tool is most appropriate for your service, you should consider the following:
 
-* Cost: you should consider the total cost of ownership as well as cost in comparison to turnover of service
-* Scalability (will data be sampled at high volumes?)
-* Data ownership (do you solely own the data?)
+* you should consider the total cost of ownership as well as cost in comparison to turnover of service
+* will data be sampled at high volumes?
+* do you solely own the data?
 * 1st party cookies only
-* Profiles and custom variables (do you pay more for additional profiles/custom variables?)
-* Admin system (does it provide a strong admin system for user access?)
-* Hosting (is it vendor hosted or in house?)
-* Multi-channel (can it track offline channel usage?)
-* Standard reports (does it provide a comprehensive set of standard reports including social interactions and multimedia capturing?)
-* Open API (does it provide an open API with no export restrictions?)
-* Funnel analysis (can it measure transactions through funnel analysis and measure goals?)
-* Support and training
+* do you pay more for additional profiles/custom variables?
+* does it provide a strong admin system for user access?
+* is it vendor hosted or in house?
+* can it track offline channel usage?
+* does it provide a comprehensive set of standard reports including social interactions and multimedia capturing?
+* does it provide an open API with no export restrictions?
+* can it measure transactions through funnel analysis and measure goals?
+* support and training
 
 For each of these criteria, you should identify which are fulfilled as part of the standard quoted package and what is charged for any additional features.
+
+## Privacy
+
+The privacy and security of data is of the utmost importance. Make sure your analytics solution and processes take the following into account:
+
+* do not collect and process any personal information. The terms and conditions of your analytics provider will probably expressly forbid you from doing this
+* turn off any data sharing. In Google Analytics this is done by Admin -> <Account name> -> Account Settings
+* anonymise IP addresses that your analytics provider collects, by removing the last octet of the address
+* obtain your vendor’s privacy and security policy
+* you should own and be able to export analytics data. Note that Google owns data in the free Google Analytics product
+* does the solution meet the EU privacy directive and the European Commission’s Directive on Data Protection?
+* where is collected data held?
+* do data centres meet EU/British data security standards?
+* how long is data held for?
+* what will happen to the data on termination of the contract- can you export it?
+* Ddata aggregation and sharing. Does the vendor mine your data for cross-customer benchmarking/trends or to provide usage data to any advertising channels
+* access controls. Understand what access your vendors employees have to your data. Make sure there are adequate administration tools to control appropriate access for your own staff
 
 ## Vendor comparison
 
@@ -60,12 +77,12 @@ SDK mobile is  extra for Apps; but mobile site use is no extra.</td><td>Based on
 
 Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems. Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
 
-You will need to answer the following questions:
+You will need to answer the following:
 
-* Have you installed web analytics software?
-* Have you configured your web analytics software with the appropriate [conversion funnels](http://en.wikipedia.org/wiki/Conversion_funnel)?
-* Do you have the capability to run user satisfaction surveys?
-* Do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing](http://en.wikipedia.org/wiki/Multivariate_testing)?
+* have you installed web analytics software?
+* have you configured your web analytics software with the appropriate [conversion funnels](http://en.wikipedia.org/wiki/Conversion_funnel)?
+* do you have the capability to run user satisfaction surveys?
+* do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing](http://en.wikipedia.org/wiki/Multivariate_testing)?
 
 ## Examples
 ![Page conversion funnel](https://assets.digital.cabinet-office.gov.uk/designprinciples/page_hits-41db2fb9ab658ba4ee0d577a3d847e78.png)
