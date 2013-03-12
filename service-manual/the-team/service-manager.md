@@ -18,6 +18,8 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
+Service managers are individuals who work full-time to develop and deliver all the changes necessary to provide effective user focused digital services.
+
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
 
 We are adopting that model, requiring each transactional digital service handling over 100,000 transactions each year to be developed, operated and continually improved by an experienced, skilled and empowered Service Manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
@@ -44,10 +46,14 @@ The [government digital strategy](http://publications.cabinetoffice.gov.uk/digit
 
 Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 
-##Sample job description
+## Sample job description
 
-[Download an example job description for this role (PDF)](/service-manual/assets/documents/service-manager-job-description.pdf)
+An [example job description for this role](/service-manual/the-team/service-manager-jd.html) provided by GDS.
 
-##Further reading
+## Guidance
+
+Read [guidance within the manual of particular interest to service managers](/service-manual/service-managers).
+
+## Further reading
 
 [Building a team](/service-manual/the-team)
