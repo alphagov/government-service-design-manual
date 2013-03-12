@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Understanding user needs
+title: User needs
 subtitle: How to focus a service on users
 category: users
 type: guide
@@ -14,7 +14,7 @@ phases:
   - live
 ---
 
-Understanding user needs is crucial for building a successful digital service. 
+User needs is crucial for building a successful digital service. 
 
 ## Defining user needs
 
@@ -49,7 +49,7 @@ Expressing a user need mustn’t imply the solution. The user need should be exp
 3. Define the acceptance criteria
 4. Solution is explored and delivered by the service team
 
-[Read more detailed guidance about writing user stories](/service-manual/agile/writinguserstories.html).
+[Read more detailed guidance about writing user stories](/service-manual/agile/writing-user-stories.html).
 
 ## Further reading
 

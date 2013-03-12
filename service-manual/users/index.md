@@ -21,7 +21,7 @@ User needs are at the heart of all digital by default services, and to meet them
 
 The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a digital by default service.
 
-[Understanding user needs](/service-manual/users/user-needs.html)
+[User needs](/service-manual/users/user-needs.html)
 
 
 ## An introduction to user research
