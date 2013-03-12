@@ -13,8 +13,8 @@ phases:
 
 VACANCY REFERENCE NUMBER:
 
-POST TITLE:		Developer
-PAYBAND:		A
+POST TITLE:               Developer
+PAYBAND:                  A
 UNIT/DIVISION:            Government Digital Service
 LOCATION:                 London
 TYPE OF POSTING:          24 Month Fixed Term Appointment with possibility of extension or permanency. The post is fixed term to cover a finite piece of work.
@@ -70,113 +70,78 @@ benefits, generous annual leave allowance and flexible working arrangements.
 w/c 16th January 2012
 w/c 23rd January 2012
 
-PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
+## PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 
-Leading and Teamworking
-
-Essential
-
-Provides a vision and defines clear team roles, responsibilities and objectives
-Empowers, motivates and inspires teams to deliver timely results, systematically reviews
-progress and team performance
-● Develops the capability of teams to deliver the Department's objectives
-
-●
-●
-
-Analysing Evidence and Thinking Strategically
+### Leading and Teamworking
 
 Essential
+* provides a vision and defines clear team roles, responsibilities and objectives
+* empowers, motivates and inspires teams to deliver timely results, systematically reviews progress and team performance
+* develops the capability of teams to deliver the Department's objectives
 
-Thinks strategically when integrating complex or conflicting analysis from a range of
-sources to provide balanced advice
-● Makes sound, evidence-based decisions, assesses risks and defends decisions and
-actions
-● Champions and encourages others to think strategically when developing new
-approaches or addressing novel problems
-
-●
-
-Focusing on Customers and Stakeholders
+### Analysing Evidence and Thinking Strategically
 
 Essential
+* thinks strategically when integrating complex or conflicting analysis from a range of sources to provide balanced advice
+* makes sound, evidence-based decisions, assesses risks and defends decisions and actions
+* champions and encourages others to think strategically when developing new approaches or addressing novel problems
 
-Shapes, links and manages customer and stakeholder expectations to determine
-delivery capabilities, accounting for changing requirements
-● Builds trust and openness with customers and stakeholders, keeps them updated on
-progress and acts upon feedback
-● Empowers others to improve the scope, delivery capability, measurement and provision
-of customer and stakeholder services
-
-●
-
-Managing and Valuing People
+### Focusing on Customers and Stakeholders
 
 Essential
+* shapes, links and manages customer and stakeholder expectations to determine delivery capabilities, accounting for changing requirements
+* builds trust and openness with customers and stakeholders, keeps them updated on progress and acts upon feedback
+* empowers others to improve the scope, delivery capability, measurement and provision of customer and stakeholder services
 
-Ensures timely performance assessment to provide or gain constructive feedback on the
-delivery of objectives and equal opportunities for people to develop their capabilities
+### Managing and Valuing People
 
-●
+Essential
+* ensures timely performance assessment to provide or gain constructive feedback on the delivery of objectives and equal opportunities for people to develop their capabilities
 
 Desirable
+* reinforces a culture that values all people and rewards productive behaviour, promptly addresses any poor performance
+* aligns people's development needs with strategic corporate requirements to enable talent to flourish
 
-Reinforces a culture that values all people and rewards productive behaviour, promptly
-addresses any poor performance
-● Aligns people's development needs with strategic corporate requirements to enable
-talent to flourish
+### Managing and Supporting Programmes and Projects
 
-Managing and Supporting Programmes and Projects
-
-Delivers timely project objectives within budget and to quality standards, ensures that
-business benefits are realised
+Essential
+* delivers timely project objectives within budget and to quality standards, ensures that business benefits are realised
 
 Desirable
-● Manages people, resources and relationships efficiently to ensure effective delivery of
-programmes and projects
-● Evaluates outcomes of programmes and projects to build capability and share lessons
-learned
+* manages people, resources and relationships efficiently to ensure effective delivery of programmes and projects
+* evaluates outcomes of programmes and projects to build capability and share lessons learned
 
-Managing Finance and Resources
+### Managing Finance and Resources
 
-Plans effectively and utilises budgets and resources, including the authority to re-deploy
-funds across functions, to deliver measurable value for money
-
-Ensures an appropriate understanding of roles and responsibilities in complying with
-guidance on finance policies and procedures
-● Anticipates business needs and manages resource requirements
-
-Communicating and Marketing
-
-Promotes effective information sharing
-
-Uses experts to help ensure the effective communication and marketing of business
-objectives
-● Works in partnership with experts to define, plan, implement, review and measure the
-effectiveness of communication and marketing channels
-
-Specialist Skills / Expertise
-
-Solid experience of web application development, ideally in Ruby and Javascript
-Enthusiasm for sharing knowledge and working in a multi-disciplinary team.
-A habit of writing robust automated tests for your work
-
-Ability to quickly learn new languages and frameworks and happiness to pick the right
-tool for the job
-● Enthusiasm for sharing knowledge and working in a multi-disciplinary team
-
-●
+Essential 
+* plans effectively and utilises budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
 
 Desirable
+* ensures an appropriate understanding of roles and responsibilities in complying with guidance on finance policies and procedures
+* anticipates business needs and manages resource requirements
 
-Experience of building and scaling high-traffic websites
-Knowledge of content management techniques, workflows, etc.
-Ability to train and mentor new developers, and introduce non-programmers to
-programming concepts
+### Communicating and Marketing
 
-●
-●
-●
+Essential
+* promotes effective information sharing
+
+Desirable
+* uses experts to help ensure the effective communication and marketing of business objectives
+* works in partnership with experts to define, plan, implement, review and measure the effectiveness of communication and marketing channels
+
+### SPECIALIST SKILLS / EXPERTISE
+
+Essential
+* solid experience of web application development, ideally in Ruby and Javascript
+* enthusiasm for sharing knowledge and working in a multi-disciplinary team.
+* a habit of writing robust automated tests for your work
+* ability to quickly learn new languages and frameworks and happiness to pick the right tool for the job
+* enthusiasm for sharing knowledge and working in a multi-disciplinary team
+
+Desirable
+* experience of building and scaling high-traffic websites
+* knowledge of content management techniques, workflows, etc.
+* ability to train and mentor new developers, and introduce non-programmers to programming concepts
 
 How to Apply
 
