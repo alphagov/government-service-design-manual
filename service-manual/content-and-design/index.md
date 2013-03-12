@@ -1,10 +1,11 @@
 ---
-layout: detailed-guidance
-title: Content and design
+layout: category-index
+title: Design and content
 subtitle: Designing content and services for GOV.UK
 category: content-and-design
 type: guide
 status: draft
+long-title: true
 phases:
   - alpha
   - beta
@@ -15,10 +16,11 @@ breadcrumbs:
     url: /service-manual
 ---
 
+People come to GOV.UK with specific needs. Anything that gets between our users and meeting those needs should be stripped away. The design of GOV.UK reflects this, existing primarily as a way of delivering the right content and services to our users. Find out here how we approach this challenge.
 
-## Design principles
+## GOV.UK design principles
 
-Anybody designing for GOV.UK, whether it's content, interfaces or whole services, should start by reading our 10 design principles. They're easy to remember, and if you keep them in mind whilst you're working they'll guide you towards the kind of results we need for GOV.UK.
+Whether your designing content, interfaces or whole services for GOV.UK, you should start by reading our 10 design principles. They're easy to remember, and if you keep them in mind whilst you're working they'll guide you towards the kind of results we need for GOV.UK.
 
 [Read the GOV.UK design principles](http://gov.uk/designprinciples)
 
