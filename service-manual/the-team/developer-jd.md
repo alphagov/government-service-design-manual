@@ -19,6 +19,7 @@ UNIT/DIVISION:            Government Digital Service
 LOCATION:                 London
 TYPE OF POSTING:          24 Month Fixed Term Appointment with possibility of extension or permanency. The post is fixed term to cover a finite piece of work.
 
+
 ## VACANCY ADVERT
 
 The Government Digital Service (GDS) is at the centre of Government, coordinating the digital
