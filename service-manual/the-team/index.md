@@ -33,7 +33,7 @@ Supporting and enabling this “making” are others who make sure the user need
 
 A core digital delivery team needs to be able to: 
 
-* analyse [user needs](/service-manual/users/user-needs.html), and turn these into [user stories](/service-manual/agile/writinguserstories.html) 
+* analyse [user needs](/service-manual/users/user-needs.html), and turn these into [user stories](/service-manual/agile/writing-user-stories.html) 
 * manage the scope and prioritisation of stories 
 * manage and report to stakeholders
 * managing dependencies on other teams 

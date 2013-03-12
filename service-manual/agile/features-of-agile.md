@@ -23,7 +23,7 @@ Sprints are the rhythmic foundation of an agile process that uses [Scrum](http:/
 Factors in deciding the length of your sprints include:
 
 * how long is the project? If it’s only a couple of months then shorter sprints give you greater flexibility and visibility of what’s going on and an opportunity to iterate and adaptively plan
-* shorter sprints allow teams that are new to Scrum get used to the regular meeting formats and familiarise themselves with the process. For those teams that a familiar with Scrum then moving to longer sprint cycles reduces the overhead of Sprint Planning, Review and [Retrospectives](/service-manual/agile/runningretrospectives.html)
+* shorter sprints allow teams that are new to Scrum get used to the regular meeting formats and familiarise themselves with the process. For those teams that a familiar with Scrum then moving to longer sprint cycles reduces the overhead of Sprint Planning, Review and [Retrospectives](/service-manual/agile/running-retrospectives.html)
 * if you choose to release to production only at the end of each sprint (it’s optional, but perfectly OK), then how often do you want to ship production ready code?
 
 Teams commonly start with a Sprint 0, which is used to get the development and working environments setup, agree some of the design principles (technical, product, interaction, content) and prepare the backlog for the first sprint.
@@ -68,4 +68,4 @@ There needs to be a moment at the end of the sprint where the team get to demons
 
 ### Sprint Retrospective
 
-These meetings are important opportunities to iterate the team's working process. [Anna Shipman from GDS has written detailed guidance about how to run retrospectives](/service-manual/agile/runningretrospectives.html).
+These meetings are important opportunities to iterate the team's working process. [Anna Shipman from GDS has written detailed guidance about how to run retrospectives](/service-manual/agile/running-retrospectives.html).
