@@ -43,5 +43,5 @@ A Research brief should contain the following information:
 
 ## See also
 
-[Working with consultants and specialists](/service-manual/the-team/workingwithspecialists.html)
+[Working with consultants and specialists](/service-manual/the-team/working-with-specialists.html)
 

@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Understanding user needs
+title: User needs
 subtitle: How to focus a service on users
 category: users
 type: guide
@@ -14,7 +14,7 @@ phases:
   - live
 ---
 
-Understanding user needs is crucial for building a successful digital service. 
+User needs is crucial for building a successful digital service. 
 
 ## Defining user needs
 

@@ -14,13 +14,13 @@ phases:
 Agile teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed.
 
 ## Service managers
-[Learn what a service manager does, and how to be a good one.](/service-manual/the-team/servicemanager.html)
+[Learn what a service manager does, and how to be a good one.](/service-manual/the-team/service-manager.html)
 
 ## Working with consultants and specialists
 
 How should you go about procuring specialists, and what can you do to make sure their onboarding is as smooth as possible?
 
-[Read more](/service-manual/the-team/workingwithspecialists.html)
+[Read more](/service-manual/the-team/working-with-specialists.html)
 
 
 ## Your working environment
@@ -28,7 +28,7 @@ How should you go about procuring specialists, and what can you do to make sure 
 
 Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. What can a service manager do to ensure they get the best out of their agile team?
 
-[Read more](/service-manual/the-team/workingenvironment.html)
+[Read more](/service-manual/the-team/working-environment.html)
 
 
 {:.figure}
