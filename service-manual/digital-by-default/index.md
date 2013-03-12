@@ -38,7 +38,8 @@ A team must demonstrate that they have done the following to achieve the digital
 13. considered the user data and information the service will be providing or storing, and addressed the security level, legal responsibilities and risks associated with the service
 14. used open standards and common Government platforms (e.g. Identity Assurance) where available 
 15. considered the tools and systems they will be using to build, host, operate and measure their service, and how to procure them
-16. made all new code open, reuseable and published under appropriate licenses 
+16. made all new code open, reuseable and published under appropriate licenses (or else provide a convincing explanation of why this cannot be
+done for specific subsets of the source code)
 17. got the capacity and technical flexibility to update and improve the service on a daily basis
 18. established performance benchmarks to define success in consultation with GDS, using the 4 key indicators (KPIs) defined in the GSDM against which the service will be measured 
 19. instrumented analytics tools and ensured that performance data is collectable
