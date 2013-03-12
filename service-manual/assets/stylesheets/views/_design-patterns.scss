@@ -53,14 +53,17 @@ article dd{
 }
 
 /* Mixin argument toggle styles */
+.class-toggle .option{
+  color: $link-colour;
+  text-decoration: underline;
+}
 .class-toggle .option:hover{
   cursor: pointer;
-  text-decoration: underline;
+  color: $link-highlight-colour;
 }
 .class-toggle .selected{
   text-decoration: none;
-  color: red;
-  font-weight: bold;
+  color: $text-colour;
   &:hover{
     cursor: default;
     text-decoration: none;
