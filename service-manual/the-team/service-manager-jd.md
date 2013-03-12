@@ -55,36 +55,36 @@ You will be responsible for acting as the user advocate at all times to ensure t
 Your role will involve managing the product lifecycle - initial design and/or redesign,  delivery, on-going success and continuous improvement - of one or more transactional services and/or platforms, plus sharing your expertise across government  You will:
 
 #### (Re)design
-* Lead the gathering of user requirements based on a clear understanding of diverse customer groups and channels for the service
-* Identify and pursue any potential linkages with other services (internal or external) that might be exploited to improve users’ overall contact experience with government
-* Interpret user research, customer insight and behavioural data to make robust service design decisions, noting that users do not always know/express what they want
-* Define and ensure user buy in for service definition and delivery approach
-* Act as an advocate for your service users, and negotiate to remove any identified blockages (within or outside the department) to the design of a excellent digital service 
-* Oversee one or more multi disciplinary agile delivery teams to deliver excellent new services
-* Redesign existing brown field legacy services to meet user needs and the digital by default service standard
-* Lead project operational delivery; supporting and ensuring the necessary project and approval processes are followed; monitoring and reporting on progress in reaching the digital by default service standard; identifying and mitigating risks; and deliver on all aspects within the timescales set for launch
-* Be digitally literate to effectively engage with technical staff, suppliers and stakeholders to define the best approach to service design to achieve business/user objectives
-* Create effective, prioritised business cases, service descriptions and delivery plans/roadmaps to meet user needs in a cost effective way
-* Lead effectively on the change management, process re-engineering and communications required to launch/implement successful services
+* lead the gathering of user requirements based on a clear understanding of diverse customer groups and channels for the service
+* identify and pursue any potential linkages with other services (internal or external) that might be exploited to improve users’ overall contact experience with government
+* interpret user research, customer insight and behavioural data to make robust service design decisions, noting that users do not always know/express what they want
+* define and ensure user buy in for service definition and delivery approach
+* act as an advocate for your service users, and negotiate to remove any identified blockages (within or outside the department) to the design of a excellent digital service 
+* oversee one or more multi disciplinary agile delivery teams to deliver excellent new services
+* redesign existing brown field legacy services to meet user needs and the digital by default service standard
+* lead project operational delivery; supporting and ensuring the necessary project and approval processes are followed; monitoring and reporting on progress in reaching the digital by default service standard; identifying and mitigating risks; and deliver on all aspects within the timescales set for launch
+* be digitally literate to effectively engage with technical staff, suppliers and stakeholders to define the best approach to service design to achieve business/user objectives
+* create effective, prioritised business cases, service descriptions and delivery plans/roadmaps to meet user needs in a cost effective way
+* lead effectively on the change management, process re-engineering and communications required to launch/implement successful services
 
 #### Delivery and improvement
 
-Be accountable for the quality and usage of service delivery in line with the digital by default service standard and other agreed targets, continuously iterating the service based on user feedback (minimum monthly)
-Keep continually abreast of changes to your users’ habits, preferences and behaviours across various (digital and non-digital) channels and their implications for successful delivery of the service(s) you are responsible for
-Underpin the delivery and iteration of digital services through effective analysis of multi channelled qualitative and quantitative user data and follow-up action
-Act as an advocate for your service users, challenging and negotiating to remove any blockages to the delivery of an excellent digital service that emerge at any point (within or outside the department)  
-Identify and pursue any emerging opportunities for joining up with other related services (government, voluntary or private sector) to provide a more straightforward, convenient or holistic experience for users
-Encourage the maximum possible take-up of digital service channels by effective promotion, communications and marketing, and specify/manage the requirements for successful assisted digital activity to supplement this
-Effectively manage your service’s resources, including any contractual and partnership arrangements, to achieve high service functionality and performance, user satisfaction and usage alongside demonstrable value for money
-Ensure that your team and those working with you understand and are fully equipped to achieve high-performance in pursuing a user-centred service vision. 
+* be accountable for the quality and usage of service delivery in line with the digital by default service standard and other agreed targets, continuously iterating the service based on user feedback (minimum monthly)
+* keep continually abreast of changes to your users’ habits, preferences and behaviours across various (digital and non-digital) channels and their implications for successful delivery of the service(s) you are responsible for
+* underpin the delivery and iteration of digital services through effective analysis of multi channelled qualitative and quantitative user data and follow-up action
+* act as an advocate for your service users, challenging and negotiating to remove any blockages to the delivery of an excellent digital service that emerge at any point (within or outside the department)  
+* identify and pursue any emerging opportunities for joining up with other related services (government, voluntary or private sector) to provide a more straightforward, convenient or holistic experience for users
+* encourage the maximum possible take-up of digital service channels by effective promotion, communications and marketing, and specify/manage the requirements for successful assisted digital activity to supplement this
+* effectively manage your service’s resources, including any contractual and partnership arrangements, to achieve high service functionality and performance, user satisfaction and usage alongside demonstrable value for money
+* ensure that your team and those working with you understand and are fully equipped to achieve high-performance in pursuing a user-centred service vision. 
 
-Sharing learning and best practice
+#### Sharing learning and best practice
 
-Act as an ambassador for your users and their needs with colleagues and stakeholders, inspiring a user-focussed approach to future joint working.
-Share your understanding and insights into user behaviours, and into the digital marketplace (including best practice, costs, suppliers, methodologies and skills) with both internal and external stakeholders.
-Communicate credibly with a wide range of digital delivery disciplines and talent both internally and externally
-Be actively involved across our partner and user communities and networking with other Service Managers, inside and outside government, to share good practice and learning and foster a collaborative approach to solution delivery and engagement.
-Be prepared to attend specialist training, networking events and share learning as and when required
+* act as an ambassador for your users and their needs with colleagues and stakeholders, inspiring a user-focussed approach to future joint working.
+* share your understanding and insights into user behaviours, and into the digital marketplace (including best practice, costs, suppliers, methodologies and skills) with both internal and external stakeholders.
+* communicate credibly with a wide range of digital delivery disciplines and talent both internally and externally
+* be actively involved across our partner and user communities and networking with other Service Managers, inside and outside government, to share good practice and learning and foster a collaborative approach to solution delivery and engagement.
+* be prepared to attend specialist training, networking events and share learning as and when required
 
 PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 
