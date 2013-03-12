@@ -1,6 +1,15 @@
-# VACANCY ADVERTISING FORM
+---
+layout: detailed-guidance
+title: Delivery manager job decription
+category: the-team
+type: guide
+audience:
+  primary:
+status: draft
+phases:
+---
 
-## VACANCY REFERENCE NUMBER:
+*NOTE: the following template was used to advertise a delivery manager vacancy at GDS*
 
 POST TITLE:             Delivery Manager								
 PAYBAND:                A								
@@ -10,21 +19,21 @@ TYPE OF POSITION:       Permanent
 
 ## VACANCY ADVERT
 
-The Government Digital Service (GDS) is at the centre of Government, coordinating the digital
+The Government Digital Service (GDS) is at the centre of government, coordinating the digital
 strategy across all departments into a single, comprehensive and accessible Government
-website and supporting the Government’s aims for a Digital by Default strategy.
+website and supporting the government’s aims for a digital by default strategy.
 
-The GDS’s aim is to make Government easier for the citizen to engage with, to build trust and
+The GDS’s aim is to make government easier for the citizen to engage with, to build trust and
 to put users at the heart of this transformation. It does this by working alongside the Prime
-Minister’s Office, Cabinet Office and all Government Departments and their Executive Agencies
-– and a whole community of support outside Government.
+Minister’s Office, Cabinet Office and all government departments and their executive agencies
+– and a whole community of support outside government.
 
 Headed by Mike Bracken, Executive Director, The Government Digital Service comprises
 approximately 180 highly mobile and skilled IT professionals based in Aviation House.
 They form a number of specialised digital teams, including Digital Engagement, Business
 Transformation, the Innovation and Delivery Team, Directgov and the Single Domain Team.
 
-The GDS is an innovative and exciting place to work and is fully engaged with delivering a
+GDS is an innovative and exciting place to work and is fully engaged with delivering a
 better service to the citizen, business and to other organisations and with a digital vision for the
 21st Century.
 
@@ -60,8 +69,7 @@ EXPECTED SIFT DATE:
 
 EXPECTED INTERVIEW DATES:
 
-APPLICATIONS ARE WELCOME FROM PART TIMERS AND
-JOB SHARERS
+APPLICATIONS ARE WELCOME FROM PART TIMERS AND JOB SHARERS
 
 SALARY SCALE:
 
@@ -80,7 +88,7 @@ The main responsibilities of the post are:
 
 ## PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 
-#### Analysing Evidence and Thinking Strategically
+### Analysing Evidence and Thinking Strategically
 
 Essential
 
@@ -88,7 +96,7 @@ Essential
 * makes sound, evidence-based decisions, assessing risks and defending decisions and action
 * champions and encourages others to think strategically when developing new approaches or addressing novel problems
 
-#### Managing and Supporting Programmes and Projects
+### Managing and Supporting Programmes and Projects
 
 Essential
 
@@ -96,7 +104,7 @@ Essential
 * delivers timely project objectives within budget and to quality standards, ensuring that business benefits are realised
 * evaluates outcomes of programmes and projects to build capability and share lessons learned
 
-#### Focusing on Customers and Stakeholders
+### Focusing on Customers and Stakeholders
 
 Essential
 
@@ -104,7 +112,7 @@ Essential
 * builds trust and openness with customers and stakeholders, keeps them updated on progress and acts upon feedback
 * empowers others to improve the scope, delivery capability, measurement and provision of customer and stakeholder services
 
-#### Leading and Team working
+### Leading and Team working
 
 Essential
 
@@ -115,7 +123,7 @@ Desirable
 * empowers, motivates and inspires teams to deliver timely results, systematically reviews progress and team performance
 * develops the capability of teams to deliver the Department's objectives
 
-#### Managing and Valuing People
+### Managing and Valuing People
 
 Essential
 
@@ -126,7 +134,7 @@ Desirable
 * ensures timely performance assessment to provide or gain constructive feedback on the delivery of objectives and equal opportunities for people to develop their capabilities
 * aligns people's development needs with strategic corporate requirements to enable talent to flourish
 
-#### Managing Finance and Resources
+### Managing Finance and Resources
 
 Essential
 
@@ -137,7 +145,7 @@ Desirable
 * anticipates business needs and managing resource requirements
 * plans effectively and utilises budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
 
-#### Communicating and Marketing
+### Communicating and Marketing
 
 Essential
 
@@ -148,7 +156,7 @@ Desirable
 * uses experts to help ensure the effective communication and marketing of business objectives
 * works in partnership with experts to define, plan, implement, review and measure the effectiveness of communication and marketing channels
 
-#### Specialist Skills / Expertise
+### Specialist Skills / Expertise
 
 Essential
 
@@ -158,7 +166,7 @@ Essential
 * experience in structured programme and project management environments
 * experience in open source and cloud technologies and their sourcing, or relevant/significant experience in the field.
 
-#### How to Apply
+### How to Apply
 Please send completed application form to:
 cabinet-office.external@dwp.gsi.gov.uk quoting ref.
 No later than close of business on 10th February 2012
