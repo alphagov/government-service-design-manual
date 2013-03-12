@@ -29,46 +29,48 @@ Services should ensure there is a obvious way for users to report problems they 
 *Note*: An exception is made for IE6, as this is still in large-scale use in government departments.
 
 Two distinct levels of support are given and denoted next to each browser as C or F and are defined as:
+
 * COMPLIANT
 * FUNCTIONAL
 
 Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
 
-###Desktop
-* Windows 7
-  * Internet Explorer 7 (C)
-  * Internet Explorer 8 (C)
-  * Google Chrome (latest version) (C)
-  * Mozilla FireFox (latest version) (C)
-  * Microsoft Internet Explorer 9
-* Windows XP
-  * Internet Explorer 6 (F)
-* Windows Vista
-* MacOS
-  * Apple Safari
-  * Google Chrome (latest version)
-  * Mozilla FireFox (latest version)
+### Desktop
 
-###Mobile (and other smaller screen devices)
-* iOS
-  * Apple Safari
-* Android 4.x
 
-whilst ensuring it was at least functional on these operating systems:
-* Android 2.3
-* Blackberry 6.0 and above
+| OS | Browser | Support |
+|------------------------|
+| Windows  | Internet Explorer 9 | C |
+| &nbsp;  | Internet Explorer 8 | C |
+| &nbsp; | Internet Explorer 7 | C |
+| &nbsp; | Internet Explorer 6 | F |
+| &nbsp;  | Google Chrome (latest version) | C |
+| &nbsp;  | Mozilla Firefox (latest version) | C |
+| Mac OS X | Safari 5 | C |
+| &nbsp; | Google Chrome (latest version) | C |
+| &nbsp; | Mozilla Firefox (latest version) | C |
 
+### Small screen devices
+
+| OS | Version | Browser | Support |
+|----------------------------------|
+| iOS | 6 | Mobile Safari | C |
+| iOS | 5 | Mobile Safari | F |
+| Android | 4.x | Google Chrome | C |
+| Android | 2.3 | Android Browser | F |
+| Blackberry | 6+ | &nbsp; | F |
 
 ##Developing universally accessible services
 
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement 'Progressive enhancement - Wikipedia'). This recognises that different bits of technology have different capabilities. Whilst everybody gets access to core functionality, those using more sophisticated technology get an enhanced experience.
 
-Progressive enhancement is also important in delivering a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK](http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 | Statcounter Global Stats') and around 20% of traffic to [GOV.UK](https://www.gov.uk), this mode of access is not an optional extra to consider. Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](http://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
+Progressive enhancement is also important in delivering a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK](http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 Statcounter Global Stats') and around 20% of traffic to [GOV.UK](https://www.gov.uk), this mode of access is not an optional extra to consider. Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](http://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
 
 Don’t try to build services for every possible combination of operating system and browser. Avoid the temptation of designing for the obvious without first researching your users.
 
 ###Audience
 Every service has an audience and you should investigate yours to see whether it has particular characteristics that you need to be aware of. Do you have existing data for the browsers and devices that your audience has been using already? If so, analyse it to see if you can identify any patterns in usage, or any combinations of:
+
 * operating system
 * browser
 * browser version
