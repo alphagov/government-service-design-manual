@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Delivery manager job decription
+title: Service manager job decription
 category: the-team
 type: guide
 audience:
@@ -15,8 +15,6 @@ breadcrumbs:
     title: The team
     url: /service-manual/the-team
 ---
-
-*NOTE: the following template was used to advertise a delivery manager vacancy at GDS*
 
 VACANCY ADVERTISING FORM
 VACANCY REFERENCE NUMBER:

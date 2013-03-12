@@ -25,7 +25,7 @@ LOCATION:              	London
 TYPE OF POSTING: 		2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
                               	
 	
-## VACANCY ADVERT AND JOB DESCRIPTION - MAIN DUTIES OF THE POST
+## VACANCY ADVERT
 
 The Government Digital Service is part of the Cabinet Office. Our job is to help transform digital services throughout government.
  
