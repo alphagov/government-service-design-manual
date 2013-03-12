@@ -1,12 +1,9 @@
 ---
 layout: category-index
-title: Know your users
-subtitle: Techniques for understanding your user's needs
-category: users
+title: Operating a service
 type: guide
 audience:
-  primary: researcher, designer, service-manager, analyst
-  secondary: developer, tech-arch
+  primary: developer, tech-arch
 status: draft
 phases:
   - discovery
@@ -15,3 +12,16 @@ phases:
   - live
 ---
 
+
+## Operating your service
+[Monitoring](/service-manual/operations/.html)
+[Operating service.gov.uk subdomains](/service-manual/operations/.html)
+[Hosting](/service-manual/operations/.html)
+
+## Testing
+[Penetration testing](/service-manual/operations/.html)
+[Load and performance testing](/service-manual/operations/.html)
+
+## User support
+[Helpdesk](/service-manual/operations/.html)
+[Managing user support](/service-manual/operations/.html)
