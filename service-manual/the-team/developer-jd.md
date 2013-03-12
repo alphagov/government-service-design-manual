@@ -11,8 +11,6 @@ phases:
 
 *NOTE: the following template was used to advertise a developer vacancy at GDS*
 
-VACANCY REFERENCE NUMBER:
-
 POST TITLE:              Developer
 PAYBAND:                 A
 UNIT/DIVISION:           Government Digital Service
