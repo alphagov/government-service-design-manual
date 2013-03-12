@@ -1,0 +1,69 @@
+---
+layout: detailed-guidance
+title: Guerilla testing
+subtitle: Getting input into products and services
+category: user-research
+type: guide
+audience: 
+    primary: research 
+status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
+---
+    
+This guidance talks about how Guerilla testing can be used to provide user research that can feed into product and service design.
+
+##Guidance
+Guerilla user testing is a low cost method of user testing. The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere e.g. cafe, library, train station etc, essentially anywhere where there is significant footfall.
+
+Guerilla testing works well to quickly validate how effective a design is on it’s intended audience, whether certain functionality works in the way it is supposed to, or even establishing whether a brand or proposition is clear.
+
+This approach is quick and relatively easy to set up. Participants are not recruited but are ‘approached’ by those persons conducting the sessions. The sessions themselves are short, typically between 15-30 minutes and are loosely structured around specific key research objectives. The output is typically ‘qualitative’ so insight is often rich and detailed.
+
+Anyone on the service team can conduct ‘guerilla testing’ on their site or service but often the best scenario is for a researcher to run the sessions with the designer or developer. The researcher can help with defining the tasks, moderating the sessions as well as provide a level of ‘objectivity’ by not being the person who designed or built what is being evaluated.  Involving the designer / developer in the sessions enables them to see  first hand ‘real’ people interacting with their product, where there are areas for improvement and how they might go about resolving any issues.
+
+This approach also does away with any lengthy reporting back. Insights can be observed, taken away and fed back into the design process almost immediately. However, a brief summary with key findings and recommendations can be written up as a more formal record. It is a method that suits the ‘agile framework’ well.
+
+##Where/how you might use it
+
+Guerilla testing can be used throughout the service lifecycle. As it is cheap to set up, run and report back on, it is a method that can be used frequently.
+
+There are a few logistics that should be taken into consideration before conducting any guerilla testing;
+
+* General: always ask permission first to speak with people, outline briefly what the purpose of the research is about and reassure them about confidentiality
+* Scope: keep it simple and quick
+* Location: consider the location and set up carefully e.g. a busy train station may have the footfall but people might be in too much of a hurry to spare the time
+* Equipment: for website evaluations, Silverback is an ‘easy to use’ software solution that enables screen capturing and recording. However, whenever recording sessions you must seek permission from the participant first. Provide them with a written consent form for them to sign.
+* Incentives: providing incentives for audience participation is not required or necessary. However, depending on where you are running your sessions chocolates are always a welcome ‘thank you’ for peoples’ time.
+
+##Weaknesses/when not to use
+
+The key weaknesses of guerilla testing is that as a research method it is not statistically robust and the participants may not always match your ‘target’ audience in terms of skills, expertise, knowledge.
+
+##No./Types of participants
+
+This can vary from between 6-12 participants in any given round of guerilla testing. It is very much dependent on where and when those sessions are conducted.
+
+##Cost
+
+There is no cost other than time.
+
+##Timescales
+
+Depends on the scope of the service but between 1-2 days (incl conducting sessions and any reporting back)
+
+##GDS Example
+
+16 teenagers evaluated the National Citizen Service website. Sessions were conducted in the canteen of a Further Education college in Nottingham. Usability and editorial findings were discovered and quickly fed back to the development teams. The whole process took 2 days.

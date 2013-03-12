@@ -1,0 +1,68 @@
+---
+layout: default-wrapper
+section_class: wide role-index
+---
+
+<header class="page-header group">
+  <hgroup>
+    <h1{% if page.long-title %} class="long-title"{% endif %}>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <h2 class="subtitle">{{ page.subtitle }}</h2>
+    {% endif %}
+  </hgroup>
+</header>
+
+{% assign hero = false %}
+{% for p in site.pages %}
+  {% if p.title == page.hero %}
+    {% assign hero = true %}
+  {% endif %}
+{% endfor %}
+
+<div class="article-container">
+  <div class="primary-links">
+    <div class="hero link-list">
+        <a href="http://gov.uk/designprinciples/styleguide">
+          <h3>GOV.UK style guide</h3>
+          <p>How to write for GOV.UK</p>
+        </a>
+    </div>
+
+
+    <div class="link-list wide">
+      <h3>Guides</h3>
+      <ul>
+      {% for p in site.pages %}
+        {% if p.audience.primary contains page.audience and (p.type == 'guide' or p.type == 'resource') and p.title != page.hero %}
+        <li> 
+            <a href="{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
+{% if site.pages.audience.secondary contains page.audience %}
+  <div class="link-list more-guides">
+    <h3>More guides from the manual</h3>
+    <ul>
+    {% for p in site.pages %}
+      {% if p.audience.secondary contains page.audience %}
+      <li> 
+          <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+          <span class="subtitle">{{ p.subtitle }}</span>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+{% endif %}
+
+  <div class="role-links">
+    {% include _role-links.html %}
+  </div>
+
+  <div class="all-guides"><strong><a href="/service-manual/browse">Browse all guides…</a></strong></div>
+</div>

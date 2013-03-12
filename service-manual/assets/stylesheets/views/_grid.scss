@@ -1,0 +1,24 @@
+// ===================================================
+// DESIGN PATTERN PAGE: GRID
+//
+
+.grid {
+
+  /* Grid */
+
+  .grid p{
+      background-color: $panel-colour;
+      border: 1px solid $border-colour;
+      text-align: center;
+      padding: 1em 0.5em;
+      width: auto !important; // Reset 75% default paragraph width
+  }
+  .example-1{ @include grid(4); }
+  .example-2{ @include grid(5); }
+  .example-3{ @include grid(8); }
+  .example-4{ @include grid(2); }
+
+  .example-5{ @include grid((5,3)); }
+  .example-6{ @include grid((2,2,1)); }
+  .example-7{ @include grid((2,1)); }
+}

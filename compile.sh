@@ -1,22 +1,22 @@
 #!/bin/bash
 
+set -e
+
 DIRECTORY="../design-principles/public"
-GUIDANCE_PATH="$DIRECTORY/guidance"
+GUIDANCE_PATH="$DIRECTORY/service-manual"
 
 if [ ! -d "$DIRECTORY" ]; then
   echo "Couldn't find design principles app in $DIRECTORY"
 fi
 
-if [ ! -d $GUIDANCE_PATH ]; then
-  echo "Creating guidance folder"
-  mkdir $GUIDANCE_PATH
-else
-  echo "Emptying existing guidance folder"
+if [ -d $GUIDANCE_PATH ]; then
+  echo "Emptying existing service-manual folder"
   rm -rf $GUIDANCE_PATH
+  rm -rf ./_site
 fi
 
-bundle exec jekyll $GUIDANCE_PATH
-find $GUIDANCE_PATH -name "*.html" -exec sed -i -e 's#href="/#href="/service-manual/#g' {} \;
+bundle exec jekyll ./_site
+cp -R ./_site/service-manual $GUIDANCE_PATH
 
 echo "*****"
 echo "You should now use git to push the changes to the design principles app."

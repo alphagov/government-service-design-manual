@@ -1,0 +1,55 @@
+// Lists of links
+.link-list {
+  padding-bottom: 2em;
+
+  h3 {
+    margin-top: 1em;
+    padding-top: 0.5em;
+    margin-top: 1em;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    
+    li {
+      font-size: 16px;
+      list-style: none;
+      overflow: hidden;
+      margin-top: 0.5em;
+      padding-top: 0.5em;
+      padding-left: 0;
+      border-top: 1px solid $grey-3;
+
+      a {
+        display: inline-block;
+        width: 34%;
+        vertical-align: top;
+
+        span {
+          display: block;
+          float: left;
+        }
+        .title {
+          width: 34%;
+          text-decoration: underline;
+        }
+        .description {
+          width: 64%;
+          color: $secondary-text-colour;
+        }
+        &:hover .description {
+          text-decoration: underline;
+        }
+      }
+
+      span.subtitle {
+        @include core-16;
+        display: inline-block;
+        color: $secondary-text-colour;
+        text-decoration: none;
+        margin: 0;
+      }
+    }
+  }
+}

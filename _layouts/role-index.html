@@ -3,10 +3,6 @@ layout: default-wrapper
 section_class: wide role-index
 ---
 
-{% if page.status %}
-<div class="page-status {{ page.status }}">{{ page.status }}</div>
-{% endif %}
-
 <header class="page-header group">
   <hgroup>
     <h1{% if page.long-title %} class="long-title"{% endif %}>{{ page.title }}</h1>
@@ -15,15 +11,6 @@ section_class: wide role-index
     {% endif %}
   </hgroup>
 </header>
-
-{% assign resources = false %}
-{% assign width = ' wide' %}
-{% for p in site.pages %}
-  {% if p.audience.primary contains page.audience and p.type == 'resource' %}
-    {% assign resources = true %}
-    {% assign width = '' %}
-  {% endif %}
-{% endfor %}
 
 {% assign hero = false %}
 {% for p in site.pages %}
@@ -47,11 +34,11 @@ section_class: wide role-index
     </div>
     {% endif %}
 
-    <div class="link-list{{ width }}">
+    <div class="link-list wide">
       <h3>Guides</h3>
       <ul>
       {% for p in site.pages %}
-        {% if p.audience.primary contains page.audience and p.type == 'guide' and p.title != page.hero %}
+        {% if p.audience.primary contains page.audience and (p.type == 'guide' or p.type == 'resource') and p.title != page.hero %}
         <li> 
             <a href="{{ p.url }}">{{ p.title }}</a>
         </li>
@@ -59,21 +46,6 @@ section_class: wide role-index
       {% endfor %}
       </ul>
     </div>
-
-  {% if resources %}
-    <div class="link-list">
-      <h3>Resources</h3>
-      <ul>
-      {% for p in site.pages %}
-        {% if p.audience.primary contains page.audience and p.type == 'resource' %}
-        <li> 
-            <a href="{{ p.url }}">{{ p.title }}</a>
-        </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
 
   </div>
 
@@ -97,5 +69,5 @@ section_class: wide role-index
     {% include _role-links.html %}
   </div>
 
-  <div class="all-guides"><strong><a href="/all-guides">See all guides…</a></strong></div>
+  <div class="all-guides"><strong><a href="/service-manual/browse">Browse all guides…</a></strong></div>
 </div>

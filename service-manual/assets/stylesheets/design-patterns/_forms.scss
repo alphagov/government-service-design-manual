@@ -1,0 +1,435 @@
+// ===================================================
+// FORMS
+//
+// Native form controls vary in size across browser
+// and OS. This can throw out alignments by a few px.
+// The styles are currently optimised for Chrome OS X.
+
+@mixin form($label-alignment: top, $label-width: 8em, $legend-colour: $text-colour) {
+
+  // FORM ELEMENT STYLES
+
+  // Text fields and textareas
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  input[type="datetime"],
+  input[type="datetime-local"],
+  input[type="email"],
+  input[type="month"],
+  input[type="number"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="time"],
+  input[type="url"],
+  input[type="week"],
+  select[size],
+  textarea {
+      background-color: #f9f9f9;
+      border: 2px inset;
+      @include ie-lte(8){
+        border: 1px inset $border-colour; // Otherwise IE gets a black border
+      }
+      font-size: 1em;
+      padding: 0.1em 0 0.1em 0.4em;
+  }
+
+  textarea{  
+    min-height: 10em;
+    height: auto;
+  }
+
+  details{
+    padding: 0 1em 0 1em;
+  }
+
+  // Labels
+  label{
+    color: $text-colour;
+    @include core-19;
+    vertical-align: top;
+      padding: 0.25em 0; // vertically align labels with middle of text fields
+  }
+  // Checkboxes and radio buttons
+  .option.group {
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    margin-left: -1em;
+    label {
+      width: auto;
+      float: none;
+      text-align: left;
+      //margin: 0.25em 0;
+    }
+    li {
+      list-style-type: none;
+      list-style-image: none;
+      margin: 0;
+      padding: 0.25em 0;
+      // For list-based markup
+      label{
+        display: inline;
+      }
+    }
+      
+  }
+
+  input[type="checkbox"],
+  input[type="radio"]{
+    margin-right: 0.25em;
+    vertical-align: 2px;
+  }
+
+  // Hint text  
+  .hint {
+    clear: left;
+    display: block;
+    @include core-16;
+    // Adjust padding depending on whether it appears above or below the form control
+    &:last-child{ padding-top: 0.25em; }
+    &:first-child{ padding-bottom: 0.25em; }
+  }
+
+  .inline.hint {
+    display: inline-block;
+  }
+
+  // Mandatory '*' message
+  label abbr {
+    border-bottom: none;
+    color: $legend-colour;
+  }
+
+  // Action buttons
+  .action.group .button,
+  .action.group .btn {
+    margin-right: 0.5em;
+  }
+
+  .inline.option label{
+    float: left;
+    margin-right: 1em;
+  }
+
+  // Inline form controls
+  .inline .group {
+    float: left;
+    margin-top: 0;
+    width: auto;
+  }
+
+  // Legends and fieldsets
+  legend {
+    @include core-24;
+    margin-bottom: 0.5em;
+    color: $legend-colour;
+  }
+  fieldset {
+    margin: 0;
+    margin-top: 2em;
+    // Make legends in nested fieldsets look like labels
+    fieldset {
+      margin-top: 0;
+      legend {
+        @include core-19;
+        color: $text-colour;
+      }
+      // Shift controls up
+      .inline .group,
+      .inline.option label{
+        //margin-top: -1em;
+      }
+    }
+  }
+
+  // Validation summary
+  .validation-summary{
+    border: 3px solid $mellow-red;
+    @include panel(lighten($mellow-red, 45%));
+    h1{
+      margin-bottom: 0;
+    }
+    a {
+      color: $mellow-red;
+      text-decoration: none;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+    ul, ol {
+      color: $mellow-red;
+    }
+    ul{
+      padding-left: 2.2em;
+      li{
+      list-style-type: none;
+      list-style-image: none; 
+      }
+    }
+    li{
+      @include core-16;
+    }
+
+  }
+  // Inline validation messages
+  .validation{
+    background-color: lighten($mellow-red, 45%);
+    border-left: 3px solid $mellow-red;
+    margin: 0 -1em 0.5em -1em;
+    padding: 0.75em 1em 1em 1em;
+    .validation-message{
+      color: $mellow-red;
+      @include core-16;
+      display: block;
+      padding-bottom: 0.5em;
+    }
+  }
+
+  // Default text field widths
+
+  $full-width: 99%;
+  $x-large: 20em;
+  $large:   15em;
+  $medium:  8em;
+  $small:   5em;
+
+  input[type="text"] {min-width: 2em;} // overwrite core style
+  input[type="email"] {width: $x-large;}
+  input[type="url"] {width: $full-width;}
+
+  input.search      {width: $large;}
+  input.password    {width: $large;}
+  input.email       {width: $x-large;}
+  input.name        {width: $large;}
+  input.url         {width: $full-width;}
+  input.full-name   {width: $x-large;}
+  input.street      {width: $large;}
+  input.town        {width: $large;}
+  input.small       {width: $small;}
+  input.postcode    {width: $small;}
+  textarea.big      {width: $x-large;
+                    height: $medium;}
+  textarea.full-size{width: $full-width; height: $large;}
+
+  // LABEL POSITIONING
+
+  // Left or right aligned labels
+  @if ($label-alignment == left or $label-alignment == right) {
+    label{
+      @include inline-block;
+
+      text-align: #{$label-alignment};
+      width: $label-width;
+      // Maintain field alignment if label is hidden
+      &.visuallyhidden {
+        + input,
+        + select,
+        + textarea {
+          margin-left: $label-width + 0.7em; 
+        }
+      }
+    }
+    // Maintain help text and button alignment with form fields with side-aligned labels
+    .hint{ margin-left: $label-width + 2.25em; }
+    .action.group { padding-left: $label-width + 0.5em; }
+
+    input,
+    select,
+    textarea,
+    .uneditable-field{
+      @include inline-block;
+      margin: 0 0.5em;
+    }
+    input[type="checkbox"]{
+      margin-left: 0.25em;
+    }
+    input[type="radio"]{
+      margin-left: 0em;
+    }
+    select{
+      margin: 0.25em 0.5em;
+    }
+
+    fieldset{
+      legend{
+        display: block;
+        padding-left: $label-width - 1em; // Align legend with fields (needs offset)    
+      }
+      // Nested fieldsets
+      fieldset{
+        margin-top: 2em;
+        legend {
+          padding-left: 0;
+          //line-height: 0;
+          margin-bottom: 0;
+          // Left/right aligned nested fieldset legends need a span inside them
+          span{
+            width: $label-width;
+            text-align: #{$label-alignment};
+            position: relative;
+            float: left;
+            margin: 0.25em 0;
+          }
+        }
+        // Shift controls up
+        // To do: Make this work properly for non-inline option groups
+          .inline {       
+            .group{
+              margin-bottom: 0.5em;
+            }
+          }
+
+      }
+    }
+
+    // Option groups
+    .option.group {
+      label{
+        display: block;
+        padding-left: $label-width + 0.5em;
+      }
+      .validation-message{
+        width: $label-width;
+        display: block;
+        float: left;
+      }
+    }
+
+    // Inline form controls
+    .inline{
+      padding-left: $label-width + 1.75em;
+      label{
+        width: auto;
+        float: none;
+        margin-left: 0.5em;
+        text-align: left;
+        // Reset left margins assigned above
+        &.visuallyhidden {
+          + input,
+          + select,
+          + textarea {
+            margin-left: 0.5em;
+            margin-right: 0;
+          }
+        }
+      }
+      // Inline option groups
+      &.option.group {
+        padding-left: $label-width + 1.5em;
+        //padding-top: 0.25em;
+        label{
+          padding-left: 0;
+        }
+      }
+    }
+
+
+  // Top-aligned labels
+  } @else { 
+    label{ display:block; }
+    input{ margin-left: 0; }
+    legend span {
+      padding-bottom: 0.3em;
+      display: block;
+    }
+    .inline{    
+      input[type=text],
+      select,
+      textarea{
+        margin-right: 0.5em;
+      }
+    }
+  }
+}
+
+// Text fields embedded in labels
+.option.group label input[type="text"]{
+  margin-left: 0;
+  width: 14em;
+  margin-top: -0.3em;
+  position: absolute;
+}
+
+// Placeholder styles
+::-webkit-input-placeholder { padding-top: 0.15em; color: $grey-1;}
+::-moz-placeholder {  padding-top: 0.15em; color: $grey-1;} /* firefox 19+ */
+:-ms-input-placeholder {  padding-top: 0.15em; color: $grey-1; } /* ie */
+input:-moz-placeholder {  padding-top: 0.15em; color: $grey-1; }
+
+
+// HIDDEN CONTROLS
+//
+// So, for example, you click on a checkbox and it reveals a free-text field
+// Use in combination with the show/hide pattern
+
+
+
+@mixin hidden-form-controls{
+
+  @include details-and-summary;
+
+  .hidden-controls details{
+    padding-top: 0;
+    summary{
+      text-decoration: none;
+      margin-bottom: 0;
+      &:hover{
+        color: #333;
+        font-weight: 300;
+      }
+      &::-webkit-details-marker { 
+        display:none; 
+      }
+    }
+    &[open]{
+      padding-top: 0;
+    }
+    textarea {
+      margin: 0 0 0.75em 0;
+    }
+  }
+
+  /* Styles for browsers that don't yet natively support details/summary */
+  .no-details .hidden-controls details > summary:before { display: none;}
+  .no-details .hidden-controls details.open > summary:before { display: none;}
+
+}
+
+// EMPHASISED FORM CONTROLS
+//
+// Adds a background colour to selected radios and checkboxs
+// Makes the clickable area larger
+// Use it to emphasise significant choices
+// Or to associate hidden controls with their parent control
+
+
+@mixin emphasised-form-controls{
+  .emphasised input[type="checkbox"],
+  .emphasised input[type="radio"] {
+    position: relative;
+  }
+  .emphasised.option.group label{
+    display: block;
+    padding: 0.5em 0 0.25em 0.5em;
+    //margin: 0 -0.8em 0.25em -0.8em;
+  }
+  .emphasised label.radio:hover,
+  .emphasised label.checkbox:hover{
+    background-color: $light-blue-25;
+  }
+  .checked{
+    background-color: $light-blue-25;
+  }
+
+}
+
+// BUTTONS
+//.btn{
+//  @include button($green);
+//}
+//.btn-secondary{
+//  @include button($panel-colour);
+//}
+//.btn-warning{
+//  @include button($red);
+//}

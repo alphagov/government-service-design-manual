@@ -1,0 +1,95 @@
+// ====================================================
+// HOME PAGE
+//
+
+.homepage {
+  header.page-header {
+    border: none;
+    padding: 0;
+
+    hgroup {
+      padding: 0;
+    }    
+  }
+
+  .article-container {
+    margin: 0 2em;
+  }
+
+  // Main promo on home page
+  .dbd-promo{
+    font-size: 16px;
+    border-top: 3px solid $main-colour;
+    border-bottom: 3px solid $main-colour;
+    overflow: hidden;
+    margin-bottom: 2em;
+    p{
+      width: 51%;
+      margin: 1em 0 1em 0;
+      float: left;
+      font-size: 19px;
+      line-height: 1.5em;
+    }
+    strong{
+      display: block;
+    }
+    .logo{
+      display: block;
+      float: right;
+      padding: 1.5em 0 1em 1.5em;
+      width: 44%;
+      img{
+        width: 100%;
+      }
+    }
+  }
+
+  // Secondary promos
+  .secondary-promos{
+    @include grid(3, 165px);
+    div{
+      background: $panel-colour;
+    }
+    h3{
+      @include bold-19;
+      background: $main-colour;
+      padding: 0.5em 1em;
+      color: white;
+      margin: 0;
+    }
+    p{
+      margin: 0;   
+    }
+    a{
+      display: block;
+      padding: 1em;
+    }
+  }
+
+  // Phases
+
+  .phases-promo {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      display: block;
+      padding-left: $gutter*2.5;
+      background: transparent url(../images/phases-timeline-sprite.png) 0 0 no-repeat;
+
+      &.discovery { background-position: 0 0;}
+      &.alpha     { background-position: -60px 0;}
+      &.beta      { background-position: -120px 0;}
+      &.live      { background-position: -180px 0;}
+
+    }
+  }
+
+  .article-container {
+    .inner {
+      margin: 0;
+      padding: 0;
+    }
+  }
+}

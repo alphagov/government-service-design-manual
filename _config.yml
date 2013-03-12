@@ -13,7 +13,7 @@ future:      true
 lsi:         false
 pygments:    false
 markdown:    kramdown
-permalink:   /:categories/:title/
+permalink:   :category/:title/
 
 maruku:
   use_tex:    false
