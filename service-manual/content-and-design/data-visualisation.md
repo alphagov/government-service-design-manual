@@ -23,7 +23,7 @@ There are many examples of best practice style guides already in place. For exam
 
 ### GDS Example
 The [GOV.UK Performance Platform](https://www.gov.uk/performance) helps the Government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/)). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
-![Weekly uniques](/servicemanual/assets/images/data-visualisation/weekly-uniques.png)
+![Weekly uniques](/service-manual/assets/images/data-visualisation/weekly-uniques.png)
 
 ## Telling the story
 

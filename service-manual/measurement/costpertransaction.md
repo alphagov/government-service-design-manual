@@ -27,7 +27,7 @@ Where resources (eg call centres) are shared with other services, costs should b
 
 ## Cost per digital transaction
 
-The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](/assisted-digital/index.html) transactions.
+The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](/service-manual/assisted-digital) transactions.
 
 Where processes and costs are common to more than one channel (e.g. processing wet signatures for passports, or printing driving licences), they should be apportioned. For example, if half of all transactions are completed digitally, then 50% of the common costs should be apportioned to the digital channel.
 

@@ -13,7 +13,7 @@ phases:
   - beta
 ---
     
-Card sorting is a research method used to understand the way that the intended users of a web site naturally organise or think about different types of information or content. It's also a method service teams can use to sort and arrange [user needs](/users/user-needs.html).
+Card sorting is a research method used to understand the way that the intended users of a web site naturally organise or think about different types of information or content. It's also a method service teams can use to sort and arrange [user needs](/service-manual/users/user-needs.html).
 
 ## How to carry out a card sort
 

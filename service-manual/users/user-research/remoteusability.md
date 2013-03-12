@@ -57,4 +57,4 @@ When using a user panel the fieldwork normally takes four to five days, with an 
 
 ##Examples
 
-[An example from the second round of Inside Government usability testing](/assets/documents/Inside-Gov-Summative-Final.pdf) (PDF, 2MB)
+[An example from the second round of Inside Government usability testing](/service-manual/assets/documents/Inside-Gov-Summative-Final.pdf) (PDF, 2MB)

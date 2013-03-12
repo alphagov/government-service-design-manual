@@ -39,7 +39,7 @@ A transaction is considered to have started only when the user proceeds from the
 
 Data on the number of started and completed transactions will be shared with service owners.
 
-![Completion rate](/assets/images/measuring-completion-rates.png)
+![Completion rate](/service-manual/assets/images/measuring-completion-rates.png)
 
 ### Drop-outs
 

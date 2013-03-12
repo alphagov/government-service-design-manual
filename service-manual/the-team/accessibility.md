@@ -29,4 +29,4 @@ The key skills required by an accessibility-focussed developer are:
 Accessible, usable products are the heart of everything we do at the GDS. Your service needs to be just as thoughtful to the needs of all possible users so that no one is excluded on the basis of disability.
 
 ## Related links
-[Read the guidance on accessible design](/content-and-design/accessibility.html)
+[Read the guidance on accessible design](/service-manual/content-and-design/accessibility.html)

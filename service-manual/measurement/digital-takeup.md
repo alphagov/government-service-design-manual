@@ -13,7 +13,7 @@ phases:
   - live
 ---
 
-Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/assisted-digital/index.html) users.
+Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/service-manual/assisted-digital/index.html) users.
 
 A digital transaction is one where the primary interaction between the user and the service has been through a digital user interface. Where it is possible to complete only part of a transaction online,  such transactions should still be classified as digital.
 
@@ -41,4 +41,4 @@ Digital take-up is a long term strategic measure and you should be looking to ac
 
 ## What about assisted digital?
 
-Some users will never use the digital service but will still have to have access to the same level of service as those using the digital service. This is called assisted digital and departments will need to determine the appropriate mix of channels to support these users. For more information on assisted digital please refer to [this section](/assisted-digital/index.html) of the the manual.
+Some users will never use the digital service but will still have to have access to the same level of service as those using the digital service. This is called assisted digital and departments will need to determine the appropriate mix of channels to support these users. For more information on assisted digital please refer to [this section](/service-manual/assisted-digital) of the the manual.

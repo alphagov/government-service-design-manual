@@ -11,9 +11,9 @@ phases:
   - live
 ---
 
-* [Designing for GOV.UK](content-and-design/designing-for-govuk.html)
-* [Accessibility](content-and-design/accessibility.html)
-* [Browsers and devices](content-and-design/browsers-and-devices.html)
-* [Data visualisation](content-and-design/data-visualisation.html)
-* [How users read](content-and-design/how-users-read.html)
-* [Writing government services](content-and-design/writing-government-services.html)
+* [Designing for GOV.UK](/service-manual/content-and-design/designing-for-govuk.html)
+* [Accessibility](/service-manual/content-and-design/accessibility.html)
+* [Browsers and devices](/service-manual/content-and-design/browsers-and-devices.html)
+* [Data visualisation](/service-manual/content-and-design/data-visualisation.html)
+* [How users read](/service-manual/content-and-design/how-users-read.html)
+* [Writing government services](/service-manual/content-and-design/writing-government-services.html)

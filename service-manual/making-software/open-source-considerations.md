@@ -74,4 +74,4 @@ Open source encourages re-use and benefits from [network effects](http://en.wiki
 Finally, by lowering the barriers for reuse, building for extensibility, encouraging forking, mutation and experimentation, open source fosters a culture of [open innovation](http://en.wikipedia.org/wiki/Open_innovation), leading to better products and services.
 
 ## Further reading
-The legal obligations for using open source software are outlined the section [open standards and licensing](/making-software/open-standards-and-licencing.html).
+The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licencing.html).

@@ -57,7 +57,7 @@ The most noticeable difference with testing in an Agile world is that the majori
 These tests run in Continuous Integration (C.I.) which means that they form part of your code base and every time you make a change to your code, your tests are automatically run. This gives you immediate feedback on the quality of your code and helps prevent bugs being found at a later stage when they are expensive and complicated to resolve.
 
 ### Code Testing
-Read the guidance about [testing code](/making-software/code-testing.html).  
+Read the guidance about [testing code](/service-manual/making-software/code-testing.html).  
 
 
 ### Exploratory Testing
@@ -76,13 +76,13 @@ When a manual test uncovers a defect, it is important to always add an automated
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
 ### Load & Performance Testing
-Read the guidance about [load & performance testing](/operations/load-and-performance-testing.html)
+Read the guidance about [load & performance testing](/service-manual/operations/load-and-performance-testing.html)
 
 ### Penetration Testing
-Read the guidance about [penetration testing](/operations/penetration-testing.html)
+Read the guidance about [penetration testing](/service-manual/operations/penetration-testing.html)
 
 ### Accessibility Testing
-Read the guidance about [accessibility testing](/making-software/accessibility-testing.html)
+Read the guidance about [accessibility testing](/service-manual/making-software/accessibility-testing.html)
 
 ### Crowd Sourced Testing
 Crowd sourced testing is a good way of speeding up your manual testing and/or achieving better coverage.  
@@ -92,4 +92,4 @@ There are external companies who provide this as a service, but at GDS we do it 
 Examples of where we have used this effectively include for pre-release testing of additional devices/browsers and for the detailed checking of hundreds of pieces of content on GOV.UK back to old content on DirectGov and BusinessLink.
 
 ### Test Your Ideas
-Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/users/introduction-to-user-research.html).
+Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/users/introduction-to-user-research.html).

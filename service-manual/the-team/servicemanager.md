@@ -35,8 +35,8 @@ Cabinet Office will help departments to recruit suitably skilled individuals. Ne
 
 ##Sample job description
 
-[Download an example job description for this role (PDF)](/assets/documents/service-manager-job-description.pdf)
+[Download an example job description for this role (PDF)](/service-manual/assets/documents/service-manager-job-description.pdf)
 
 ##Further reading
 
-[Building a team](/the-team)
+[Building a team](/service-manual/the-team)

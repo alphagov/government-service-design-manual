@@ -39,9 +39,9 @@ A Research brief should contain the following information:
 
 ##Example
 
-[IDA research brief](/assets/documents/IDAQualBrief.pdf) (PDF, 177KB)
+[IDA research brief](/service-manual/assets/documents/IDAQualBrief.pdf) (PDF, 177KB)
 
 ## See also
 
-[Working with consultants and specialists](/the-team/workingwithspecialists.html)
+[Working with consultants and specialists](/service-manual/the-team/workingwithspecialists.html)
 

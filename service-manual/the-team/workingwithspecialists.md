@@ -49,7 +49,7 @@ This portal would support the 'source to settle' process, including:
 
 In addition to those features described in the following table, The Digital Procurement Framework will also have a more suitable supplier payment structure and Terms & Conditions.
 
-![table showing differences](/assets/images/framework-table.png)
+![table showing differences](/service-manual/assets/images/framework-table.png)
 
 ### Where does G-CLOUD fit in?
 

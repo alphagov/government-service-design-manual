@@ -13,7 +13,7 @@ phases:
   - live
 ---
 
-Accessibility testing is very similar to [usability testing](/users/introduction-to-user-research.html), in that it is about ensuring that a product or service is easy to use for its intended audience. That audience includes users who access the service via a range of assistive technologies, such as screen readers, voice recognition software, trackball devices and so on.
+Accessibility testing is very similar to [usability testing](/service-manual/users/introduction-to-user-research.html), in that it is about ensuring that a product or service is easy to use for its intended audience. That audience includes users who access the service via a range of assistive technologies, such as screen readers, voice recognition software, trackball devices and so on.
 
 It’s important to consider a range of disabilities when you are testing any product or service, including those with;
 

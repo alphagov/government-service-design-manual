@@ -41,7 +41,7 @@ It perhaps sounds like over-simplifying the complexity of software development a
 
 The process of delivering incremental, production-ready software allows a team to deliver value to their users and stakeholders regularly.  It shortens the feedback loops that might otherwise have been longer using a waterfall methodology.  An iterative delivery cycle also forces the team to think about what the most important features are to deliver next and focuses the mind on useable software.
 
-At the end of each delivery cycle, or sprint, teams should run a [retrospective](/agile/runningretrospectives.html) to review ‘what worked, what could be improved’ in the next sprint.  
+At the end of each delivery cycle, or sprint, teams should run a [retrospective](/service-manual/agile/runningretrospectives.html) to review ‘what worked, what could be improved’ in the next sprint.  
 
 The software and the team continue to learn through delivery and iterate and improve throughout the project.
 
