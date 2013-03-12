@@ -12,6 +12,13 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
 In order to provide high-quality service, you will very likely want a dedicated group of specialists - or current staff dedicating some of their time - to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.

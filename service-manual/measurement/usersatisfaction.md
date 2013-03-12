@@ -7,6 +7,13 @@ phases:
   - beta
   - live
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Measurement
+    url: /service-manual/measurement
 ---
 
 Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:

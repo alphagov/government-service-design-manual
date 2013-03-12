@@ -7,6 +7,13 @@ audience:
   primary:
 status: draft
 phases:
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 *NOTE: the following template was used to advertise a delivery manager vacancy at GDS*

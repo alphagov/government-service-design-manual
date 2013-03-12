@@ -12,6 +12,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Agile
+    url: /service-manual/agile
 ---
 
 Here are some of the common features of the agile development methods we've used at GDS.

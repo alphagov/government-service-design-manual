@@ -11,6 +11,13 @@ status: draft
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Measurement
+    url: /service-manual/measurement
 ---
 
 Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/service-manual/assisted-digital/index.html) users.

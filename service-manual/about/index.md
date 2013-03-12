@@ -4,6 +4,10 @@ title: About the manual
 subtitle: What it is and why it matters
 category: about
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 This website is a resource to help you and your service achieve the digital by default standard.

@@ -10,6 +10,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Web operations (sometimes called systems administrators, operations engineers or site reliability engineers) run the production systems and help the development team build software that is easy to operate, scale and secure. 

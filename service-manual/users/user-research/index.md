@@ -1,7 +1,7 @@
 ---
 layout: category-index
-title: Know your users
-subtitle: Techniques for understanding your user's needs
+title: User research
+subtitle: Resources
 category: users
 type: guide
 audience:
@@ -13,6 +13,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
 ---
 
 The following techniques may be useful when conducting user research:

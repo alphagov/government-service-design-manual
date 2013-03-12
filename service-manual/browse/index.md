@@ -4,6 +4,10 @@ title: Browse guides by topic
 subtitle: A list of all guides
 category: home
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 <div class="article-container group">

@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
 
 An online panel is a collection of pre-recruited research participants who have agreed to take in online research over a period of time. Memebers of the panels are incentivised to take part, and normally rewarded through vouchers, or points that have a monetary value. As members of the panel are pre-recruited it means that they can be easily targeted by demographic, ownership and lifestyle information. As well as regular consumer panels, some companies also run business panels.

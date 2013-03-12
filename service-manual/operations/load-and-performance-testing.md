@@ -7,6 +7,13 @@ type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
 History is littered with countless Government projects which collapsed under load or which worked slowly enough to frustrate users. As a Government service it is important that your systems and applications are performant and can deal with expected (and unexpected) levels of traffic. 

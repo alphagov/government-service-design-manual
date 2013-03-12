@@ -11,6 +11,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Content and design
+    url: /service-manual/content-and-design
 ---
 
 ##How to write

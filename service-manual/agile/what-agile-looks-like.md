@@ -13,6 +13,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Agile
+    url: /service-manual/agile
 ---
 
 {:.intro}

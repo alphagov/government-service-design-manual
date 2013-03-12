@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Designing for GOV.UK
+title: Content and Design
 subtitle: General guidance for those developing for GOV.UK
 category: content-and-design
 type: guide
@@ -9,6 +9,10 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 * [Designing for GOV.UK](/service-manual/content-and-design/designing-for-govuk.html)
