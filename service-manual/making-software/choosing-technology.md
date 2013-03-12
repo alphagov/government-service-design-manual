@@ -60,4 +60,4 @@ Choosing technology is important, but it's probably not quite as important as yo
 
 ## Further reading
 
-[Open Source Considerations](/service-manual/making-software/open-source-considerations.html)
+[Open Source Considerations](/service-manual/making-software/open-source.html)
