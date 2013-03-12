@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
     
 The abundance of free survey tools makes it cheap and easy for user research teams to produce their own surveys. However, thought still needs to be given to the survey design, understanding the goal(s) of the survey , and how the results will be used.
@@ -77,7 +87,7 @@ It is recommended that all surveys are tested thoroughly to ensure the correct d
 
 ##GDS Example 
 
-[GOV.UK Survey](/assets/documents/GOVUK-Survey.pdf) (PDF, 213KB)
+[GOV.UK Survey](/service-manual/assets/documents/GOVUK-Survey.pdf) (PDF, 213KB)
 
 ##Further reading
 

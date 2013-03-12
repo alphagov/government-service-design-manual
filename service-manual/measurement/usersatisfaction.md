@@ -7,6 +7,13 @@ phases:
   - beta
   - live
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Measurement
+    url: /service-manual/measurement
 ---
 
 Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
@@ -74,4 +81,4 @@ You should also carry out a more comprehensive user satisfaction survey every si
 You could consider analysing the key factors driving satisfaction with the service. For example, by asking additional questions (e.g. on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
 
 ## Further reading
-[Survey design](/users/user-research/surveydesign.html)
+[Survey design](/service-manual/users/user-research/surveydesign.html)

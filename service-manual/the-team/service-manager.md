@@ -9,6 +9,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
@@ -27,6 +34,10 @@ These Service Managers will:
 * oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the digital by default service standard, identifying and mitigating risks, and be empowered to deliver on all aspects
 * actively participate in networking with other Service Managers inside and outside government, and share good practice and learning
 
+### What’s the difference between a Service Manager and a Product Manager?
+
+This will depend on the scale of the service you are working on.  In some cases the Service Manager will also be able to fulfil the role of Product Manager - working closely with the delivery team (the “makers”), prioritising stories for each sprint, attending daily stand ups, being on hand to comment on solutions as they emerge, and accepting stories once they are delivered. However, in many cases it is likely that the Service Manager won’t have the capacity to be this hands-on, so they are likely to need a dedicated Product Manager.
+
 ## Help with hiring service managers
 
 The [government digital strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager.
@@ -35,8 +46,8 @@ Cabinet Office will help departments to recruit suitably skilled individuals. Ne
 
 ##Sample job description
 
-[Download an example job description for this role (PDF)](/assets/documents/service-manager-job-description.pdf)
+[Download an example job description for this role (PDF)](/service-manual/assets/documents/service-manager-job-description.pdf)
 
 ##Further reading
 
-[Building a team](/the-team)
+[Building a team](/service-manual/the-team)

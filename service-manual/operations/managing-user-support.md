@@ -11,9 +11,16 @@ phases:
  - alpha
  - beta
  - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
-Once you have created [a helpdesk](/making-software/helpdesk.html), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.
+Once you have created [a helpdesk](/service-manual/operations/helpdesk.html), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.
 
 ## Stratifying contact data
 

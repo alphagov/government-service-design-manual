@@ -12,6 +12,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 All software development projects must use a version control system. Version control allows you to track changes to code over time, meaning that you can quickly step back to an earlier version where necessary and you can annotate your changes with explanatory details to help future developers understand the process. Version control will also provide tools to audit who has made changes to the code and what has changed.

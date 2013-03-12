@@ -3,6 +3,10 @@ layout: default
 title: Give feedback
 subtitle: Help improve the manual
 category: feedback
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 We would love to get feedback on your experiences of using this site.

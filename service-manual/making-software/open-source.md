@@ -11,6 +11,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 This section presents architectural practice and considerations for using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
@@ -74,4 +81,4 @@ Open source encourages re-use and benefits from [network effects](http://en.wiki
 Finally, by lowering the barriers for reuse, building for extensibility, encouraging forking, mutation and experimentation, open source fosters a culture of [open innovation](http://en.wikipedia.org/wiki/Open_innovation), leading to better products and services.
 
 ## Further reading
-The legal obligations for using open source software are outlined the section [open standards and licensing](/making-software/open-standards-and-licencing.html).
+The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licencing.html).

@@ -2,10 +2,7 @@
 layout: default-wrapper
 section_class: detailed-guidance
 ---
-
-{% if page.status %}
-<div class="page-status {{ page.status }}">{{ page.status }}</div>
-{% endif %}
+{% include _breadcrumbs.html %}
 
 <article role="article" class="group">
   <header class="page-header group">
@@ -19,7 +16,7 @@ section_class: detailed-guidance
     {% if page.phases %}
     <ul class="meta-phases group">
       {% for phase in page.phases %}
-      <li class="{{ phase | downcase }}"><a href="/phases/{{ phase | downcase }}.html">{{ phase }}</a></li>
+      <li class="{{ phase | downcase }}"><a href="/service-manual/phases/{{ phase | downcase }}.html">{{ phase }}</a></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -37,10 +34,5 @@ section_class: detailed-guidance
     <div class="inner">
       {{ content }}
     </div>
-
-    <ul class="github-links">
-      <li><a href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
-      <li><a href="https://github.com/alphagov/government-service-design-manual/edit/master{{ page.url | replace:'.html','.md' }}">Edit page on GitHub</a>
-    </ul>
   </div>
 </article>

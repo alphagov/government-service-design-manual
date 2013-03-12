@@ -7,7 +7,7 @@ assets: local
 ---
 
 <div class="dbd-promo">
-  <a class="logo" href="digital-by-default"><img src="assets/images/DbD-kitemark.png" alt="Read the digital by default standard" /></a>
+  <a class="logo" href="digital-by-default"><img src="/service-manual/assets/images/DbD-kitemark.png" alt="Read the digital by default standard" /></a>
   
   <p><strong>The way we make government services is changing</strong>
   From April 2014, all new and redesigned digital services must be so good people prefer to use them. This manual explains what the service standard is, and how it can be met.</p>
@@ -30,4 +30,4 @@ assets: local
 
 {% include _role-links.html %}
 
-<p><a href="all-guides"><strong>See all guides...</strong></a>
+<p><a href="/service-manual/browse"><strong>Browse all guides…</strong></a>

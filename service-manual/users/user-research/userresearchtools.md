@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
     
 This section looks at research tools that are available (free and subscription) to enable users research teams to conducts research projects in-house.

@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
     
 #Discussion Guides
@@ -27,4 +37,4 @@ Typically each section of the guide would include time guidance to ensure all ar
 
 ##Example
 
-[A discussion guide written for testing that was conducted with BIS experts for the development of GOV.UK](/assets/documents/BISExpertInterviewsDiscussionGuideOctober2012.docx.pdf) (PDF, 157kb).
+[A discussion guide written for testing that was conducted with BIS experts for the development of GOV.UK](/service-manual/assets/documents/BISExpertInterviewsDiscussionGuideOctober2012.docx.pdf) (PDF, 157kb).

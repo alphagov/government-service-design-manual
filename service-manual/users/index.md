@@ -13,6 +13,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
 ---
 
 User needs are at the heart of all digital by default services, and to meet them you will need to test your services and assumptions with real users.
@@ -21,20 +28,20 @@ User needs are at the heart of all digital by default services, and to meet them
 
 The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a digital by default service.
 
-[Understanding user needs](/users/understanding-user-needs.html)
+[User needs](/service-manual/users/user-needs.html)
 
 
 ## An introduction to user research
 
 You will be using research to test your assumptions throughout the design, build and operation of a service. This introduction sets out a few of the basics of user research.
 
-[Learn more about user research](/users/introduction-to-user-research.html)
+[Learn more about user research](/service-manual/users/introduction-to-user-research.html)
 
 ## User research techniques
 
 The following techniques may be useful when conducting user research
 
-* [Card sorting](/service-manual/users/card-sorting.html)
+* [Card sorting](‰/service-manual/users/card-sorting.html)
 * [Discussion guides](/service-manual/users/user-research/discussionguides.html)
 * [Multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
 * [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
@@ -58,4 +65,4 @@ The following techniques may be useful when conducting user research
 
 As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results in a useful format.
 
-[Learn how to write user research briefs](/users/user-research/userresearchbriefs.html)
+[Learn how to write user research briefs](/service-manual/users/user-research/userresearchbriefs.html)

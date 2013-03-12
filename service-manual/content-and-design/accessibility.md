@@ -12,6 +12,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Content and design
+    url: /service-manual/content-and-design
 ---
 
 The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents).
@@ -24,7 +31,7 @@ As a starting point, your service should aim to meet Level AA of the [Web Conten
 
 Your service should be tested by disabled people, older people, and people who use assistive technologies. You should aim to do this at least twice as your service is developed.
 
-[Find out more about how to conduct accessibility testing](/making-software/accessibility-testing.html)
+[Find out more about how to conduct accessibility testing](/service-manual/making-software/accessibility-testing.html)
 
 
 ## Accessibility statements and policies

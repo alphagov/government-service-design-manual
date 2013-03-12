@@ -7,6 +7,13 @@ type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
 History is littered with countless Government projects which collapsed under load or which worked slowly enough to frustrate users. As a Government service it is important that your systems and applications are performant and can deal with expected (and unexpected) levels of traffic. 
@@ -25,7 +32,7 @@ The output should help with both estimating ongoing costs as well as setting up 
 
 There are several companies that offer products and services around load testing. In many cases working with these can be useful, especially for final testing or testing of mature components. 
 
-However it's important to also have some capability within your development team to do more ad-hoc load and performance testing. This is important to allow for a [rapid iterative development style](/agile.html), otherwise scalability or performance issues may be introduced but caught late, when they are much harder to fix.
+However it's important to also have some capability within your development team to do more ad-hoc load and performance testing. This is important to allow for a [rapid iterative development style](/service-manual/agile), otherwise scalability or performance issues may be introduced but caught late, when they are much harder to fix.
 
 ## Types of testing
 

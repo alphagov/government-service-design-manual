@@ -12,6 +12,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
     
 Constantly improving online services means releasing changes to the underlying software. How often you want to do this will affect how you design and build the applications and presents a number of challenges that this guide hopes to address.
@@ -26,9 +33,9 @@ Note that it's important to make the distinction between releasing regularly and
 
 In order to do that you have to consider:
 
-* [your approach to testing](/making-software/code-testing.html)
+* [your approach to testing](/service-manual/making-software/code-testing.html)
 * the quality of low level code – approaches like continuous integration, where code is tested constantly, and test driven design, can be helpful
-* using the same tools and release processes for both the [development and production environments](/making-software/development-environment) - this way the software and tools will be well understood and will have been run thousands of times before the first public launch
+* using the same tools and release processes for both the [development and production environments](/service-manual/making-software/development-environment.html) - this way the software and tools will be well understood and will have been run thousands of times before the first public launch
 
 Although tools, potentially incuding commercial tools, are required to aid rapid releases the discussions should not start with what tools should be used or procured but with the needs of the service and the product team.
 

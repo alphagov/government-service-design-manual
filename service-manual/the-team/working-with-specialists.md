@@ -10,6 +10,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Specialists can help fill the gaps in capability you identify throughout your service’s lifespan. However, the benefit of their skills and perspective can come with the challenge of procuring and inducting them.
@@ -49,7 +56,7 @@ This portal would support the 'source to settle' process, including:
 
 In addition to those features described in the following table, The Digital Procurement Framework will also have a more suitable supplier payment structure and Terms & Conditions.
 
-![table showing differences](/assets/images/framework-table.png)
+![table showing differences](/service-manual/assets/images/framework-table.png)
 
 ### Where does G-CLOUD fit in?
 

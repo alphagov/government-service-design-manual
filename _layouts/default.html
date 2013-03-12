@@ -3,9 +3,7 @@ layout: default-wrapper
 section_class: default
 ---
 
-{% if page.status %}
-<div class="page-status {{ page.status }}">{{ page.status }}</div>
-{% endif %}
+{% include _breadcrumbs.html %}
 
 <article role="article" class="group">
   <header class="page-header group">

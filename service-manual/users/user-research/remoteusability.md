@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
     
 #Remote usability/summative testing (quantative)
@@ -57,4 +67,4 @@ When using a user panel the fieldwork normally takes four to five days, with an 
 
 ##Examples
 
-[An example from the second round of Inside Government usability testing](/assets/documents/Inside-Gov-Summative-Final.pdf) (PDF, 2MB)
+[An example from the second round of Inside Government usability testing](/service-manual/assets/documents/Inside-Gov-Summative-Final.pdf) (PDF, 2MB)

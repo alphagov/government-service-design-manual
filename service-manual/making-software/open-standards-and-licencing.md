@@ -11,6 +11,13 @@ status: draft
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
     
 Best practice and considerations for using open standards and using, publishing and contributing to free and open source software ([FOSS](http://en.wikipedia.org/wiki/Free_and_open-source_software)).
@@ -43,7 +50,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 It is sufficient to include this as a single **LICENSE** [sic] file, though you may elect to include the licence in  individual source code files, particularly those which may be taken in isolation, such as example code.
 
 ##Why we do this
-There are many other advantages to [developing software in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) described in more detail in the [open source considerations](/making-software/open-source-considerations.html) guidance section, and prescribed by the tenth GDS design principle: [Make things open: it makes things better](https://www.gov.uk/designprinciples#tenth).
+There are many other advantages to [developing software in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) described in more detail in the [open source considerations](/service-manual/making-software/open-source.html) guidance section, and prescribed by the tenth GDS design principle: [Make things open: it makes things better](https://www.gov.uk/designprinciples#tenth).
 
 ##Further reading
 - [fossbazaar.org](https://fossbazaar.org/) is an interest group for the governance of FOSS in organizations.

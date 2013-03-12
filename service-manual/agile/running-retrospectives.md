@@ -11,6 +11,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Agile
+    url: /service-manual/agile
 ---
 
 One of the central principles of agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
@@ -20,7 +27,7 @@ One of the central principles of agile is quick feedback loops - we want to demo
 {:.left}
 ![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
-A retrospective is a meeting at the end of a <a href="/agile/featuresofagile.html">sprint</a> where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
+A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
 
 A retrospective takes the following form:
 
@@ -33,7 +40,7 @@ A retrospective should be a chance for everyone in the team to contribute to imp
 ## The facilitator
 
 {:.left}
-![A retrospective plan](/assets/images/planning_retro.jpg)
+![A retrospective plan](/service-manual/assets/images/planning_retro.jpg)
 
 All retrospectives must be facilitated. The facilitator's role is to give everyone a chance to air their concerns and positive feedback while ensuring the meeting remains a structured, productive meeting and doesn't turn into just a moanfest. Ideally the facilitator will be someone outside the team so the team can all contribute, but this is not essential.
 
@@ -76,7 +83,7 @@ Subsequent retrospectives should follow up on actions to make sure they have bee
 ##Template
 
 {:.left}
-![Voting with stickers](/assets/images/redirects.jpeg)
+![Voting with stickers](/service-manual/assets/images/redirects.jpeg)
 
 This is a possible template for a sample retrospective for a team of 8-10, covering a two-week sprint.
 

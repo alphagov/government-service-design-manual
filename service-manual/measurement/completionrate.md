@@ -7,6 +7,13 @@ type: guide
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Measurement
+    url: /service-manual/measurement
 ---
 
 The completion rate measures the proportion of people who start a transaction and are able to complete it.
@@ -39,7 +46,7 @@ A transaction is considered to have started only when the user proceeds from the
 
 Data on the number of started and completed transactions will be shared with service owners.
 
-![Completion rate](/assets/images/measuring-completion-rates.png)
+![Completion rate](/service-manual/assets/images/measuring-completion-rates.png)
 
 ### Drop-outs
 

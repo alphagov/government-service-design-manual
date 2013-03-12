@@ -29,7 +29,7 @@ Depends on project, but no more than a few months
 ##Who do I need?
 
 ##Activities
-- [Project Inception](/guides/inception.html)
+- [Project Inception](/service-manual/guides/inception.html)
 - IterativeDevelopment
 - internal showcases
 
