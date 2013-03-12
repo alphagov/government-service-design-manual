@@ -28,7 +28,7 @@ Whether your designing content, interfaces or whole services for GOV.UK, you sho
 
 ## Content design
 
-The [GOV.UK style guide](http://gov.uk/designprinciples/styleguide) tells you what writing conventions to adopt for GOV.UK. There's also more general advice on [how our users read](/service-manual/content-and-design/how-users-read.html) and how to [write for government services](/service-manual/content-and-design/writing-government-services.html). We also have guidance on [data visualisation](/service-manual/content-and-design/data-visualisation.html).
+The [GOV.UK style guide](http://gov.uk/designprinciples/styleguide) tells you what writing conventions to adopt for GOV.UK. There's also more general advice on [how our users read](/service-manual/content-and-design/how-users-read.html) and how to [write for government services](/service-manual/content-and-design/writing-government-services.html) and [transactions](/service-manual/content-and-design/design-and-development-resources/writing-for-transactions.html). We also have guidance on [data visualisation](/service-manual/content-and-design/data-visualisation.html).
 
 [See all guides for content designers](/service-manual/content-designers)
 
@@ -39,6 +39,6 @@ First read about our approach to [accessibility](/service-manual/content-and-des
 
 If you're doing frontend coding you'll want to know about our [shared asset libraries](/service-manual/content-and-design/design-and-development-resources/shared-asset-libraries.html) and [Sass repositories](/service-manual/content-and-design/design-and-development-resources/sass-repositories.html). You'll also need to know which [browsers and devices](/service-manual/content-and-design/browsers-and-devices.html) to test with.
 
-We also have guides on [designing transactions](/service-manual/content-and-design/design-and-development-resources/designing-transactions.html) and [forms](/service-manual/content-and-design/design-and-development-resources/forms.html).
+We also have guides on  and [forms](/service-manual/content-and-design/design-and-development-resources/forms.html).
 
 [See all guides for designers](/service-manual/designers)

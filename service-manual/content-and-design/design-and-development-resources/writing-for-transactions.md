@@ -1,21 +1,21 @@
 ---
 layout: detailed-guidance
-title: Designing transactions
-subtitle: Starting and ending transactions, showing progress etc.
+title: Writing for transactions
+subtitle: Writing microcopy and help text for government services
 category: content-and-design
 type: resource
 audience: 
-  primary: designer, content-designer
+  primary: content-designer, designer 
 type: guide
 status: draft
 ---
 
-## Microcopy
+## Writing microcopy
 
-Microcopy is the short words or phrases used during transactions, 
+Microcopy is the term given to the short words or phrases used during transactions, 
 for things like buttons, form labels, help text, alerts and questions.
 
-### Guidance
+### General guidance
 
 * Use sentence case
 * Address the user directly
@@ -32,59 +32,52 @@ for things like buttons, form labels, help text, alerts and questions.
 * 'Age'
 * 'Date of birth' (not 'DOB')
 
-### Help text
+## Writing help text
 
-Your service should be easy enough to use with a minimum of help text.
-Stick to design conventions where they help users understand what they need to do.
+Your first strategy when it comes to help text is to design a service that's 
+so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for it's own sake - the real innovation is an
+easy to use government service.
 
-Provide explanatory text or examples immediately above or below the field 
-if it helps users understand what they need to do.
+Sometimes though, users need a little help. Here are some ways of providing it.
 
-Edge cases can be dealt with using progressive disclosure.
+### Inline help
 
-Some transactions require that the user have a certain amount of knowledge of a subject matter. 
+<div class="pattern-example">
+    <div class="form-example-1">
 
+      <p class="group">
+        <label for="telephone">Telephone</label>
+        <input id="telephone" type="text">
+        <span class="hint">Include your country code</span>
+      </p>
 
+    </div>
+</div> 
 
-#### On-page help
-One line under the label that will help the user to fill in that field.
-Examples: &lsquo;If you don't have your form XYZ rsquo; or &lsquo;Where to find your Unique Tax Reference Number.&rsquo;
-
-#### Show/hide
-Use an expandable show/hide box for slightly more lengthy instructions. You can use statements and questions but don't use the first person.
-Examples: &lsquo;If you want to apply for both of these benefits&rsquo; (in this instance, you can&rsquo;t and there is another process you have to go through.
-
-#### Light box
-Only use a light box for help if you are explaining a concept or part of a process - don't use it for explaining any part of the service. If you need to explain how the service works with that much text, your design is probably wrong.
-
-
-###Radio buttons
-
-Use: Yes [button] No [button] (note caps)
-
-Keep to the same convention (yes first) on the page.
-
-    
-## Start and end of transaction pages
-
-### What counts as a 'transaction'?
-
-Transactional services are those that enable exchanges of information, money, rights or goods between two or more individuals. For GOV.UK this is typically between the government and the user of the service.
-
-Simple exchanges of information, where no personal information about the user is stored by government, are not classed as transactions. For example, GOV.UK content formats like guides and smart answers are not classed as transactions.
+Use this to provide examples for unfamiliar information requests or formats.
 
 
-### Transaction start pages
+### Progressive disclosure
+
+This refers to help that appear on a page when the user interacts with a link, but remains hidden otherwise. It's useful for delivering important help to some users, without distracting or confusing everyone else. For this reason it's particularly useful for dealing with edge case user scenarios.
+
+
+### Pop-up help window
+
+This is the nuclear option and should only be considered as a last resort. Popups or lightboxes should ONLY be used for delivering help relating to the concepts or terminology involved in a service or transaction. If you're using one to explain how to USE a service then you need to go back and make the interface more intuitive.
+
+
+## Transaction start pages
 
 The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (e.g. Google).
 
 The design of the start page will be determined by the nature of the service and it's audience. All start pages should meet the following goals:
 
-#### Describe the service
+### Describe the service
 
 The page should include the name of the service, expressed as an action if possible ('Renew your passport', Claim for disability allowance', 'Book a driving test' etc.). If you need to, include a very brief description of the service.
 
-#### Set expectations
+### Set expectations
 
 People will tend to base their expectations of what a transaction involves on their experience of other digital transactions, for example, online shopping and banking.
 
@@ -96,15 +89,13 @@ If there are specific eligibility requirements for the service let people know. 
 
 It's better to ask a few questions up front (and explain why you're doing this) than to let people invest time and effort in a transaction only to discover part way through that they're not eligible to use it.
 
-### Transaction end pages
+## Transaction end pages
 
 The end point of any transaction should be a page on the GOV.UK domain. These pages should:
 
 1) Let the user know that they have successfully completed the transaction
 2) If further actions are required, let the users know what they are
 3) If no further actions are required, point users in the direction of other relevant information and services
-
-
 
 ##Further reading
 [Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle )
