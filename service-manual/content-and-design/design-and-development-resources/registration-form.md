@@ -169,7 +169,7 @@ Click the label alignment options in the Sass snippet below to see how they affe
           </ul>
         </fieldset>
         <p class="action group">
-          <input class="btn" type="submit" value="Submit form">
+          <input class="button" type="submit" value="Submit form">
         </p>
       </form>
     </div>
