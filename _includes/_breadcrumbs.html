@@ -1,0 +1,11 @@
+{% if page.breadcrumbs %}
+<div id="global-breadcrumb" class="header-context">
+  <nav role="navigation">
+    <ol class="group">
+      {% for crumb in page.breadcrumbs %}
+      <li><a href="{{ crumb.url }}">{{ crumb.title }}</a></li>
+      {% endfor %}
+    </ol>
+  </nav>
+</div>
+{% endif %}
