@@ -21,7 +21,7 @@ UNIT/DIVISION:
 LOCATION: 		 			
 TYPE OF POSTING:     24 Month Fixed Term Appointment with possibility of extension or permanency. The post will be re-evaluated at the end of the period to match against the ongoing requirements of [Department]
 	
-VACANCY ADVERT
+## VACANCY ADVERT
 
 
 This role will be in the [Business Unit] Team who are responsible for on and offline continuous service delivery, developing and delivering all the changes and improvements necessary to provide effective and holistic services for users.  
@@ -38,9 +38,7 @@ CONTACT DETAILS
 FOR INFORMATION REGARDING RECRUITMENT PROCESS, ELIGIBILITY, TERMS & CONDITIONS: 
 
 
-
 FURTHER INFORMATION REGARDING THESE POSTS: 
-
 
 CLOSING DATE: 									
 EXPECTED SIFT DATE: 		W/c 				
@@ -48,31 +46,28 @@ EXPECTED INTERVIEW DATES: 	W/c
 
 APPLICATIONS ARE WELCOME FROM PART TIMERS AND JOB SHARERS 
 
-
 SALARY SCALE:
 
-
-
-JOB DESCRIPTION - MAIN DUTIES OF THE POST
+### JOB DESCRIPTION - MAIN DUTIES OF THE POST
 
 You will be responsible for acting as the user advocate at all times to ensure that the service remains relevant, convenient and straightforward for them to use. 
 
 Your role will involve managing the product lifecycle - initial design and/or redesign,  delivery, on-going success and continuous improvement - of one or more transactional services and/or platforms, plus sharing your expertise across government  You will:
 
-(Re)design
-Lead the gathering of user requirements based on a clear understanding of diverse customer groups and channels for the service
-Identify and pursue any potential linkages with other services (internal or external) that might be exploited to improve users’ overall contact experience with government
-Interpret user research, customer insight and behavioural data to make robust service design decisions, noting that users do not always know/express what they want
-Define and ensure user buy in for service definition and delivery approach
-Act as an advocate for your service users, and negotiate to remove any identified blockages (within or outside the department) to the design of a excellent digital service 
-Oversee one or more multi disciplinary agile delivery teams to deliver excellent new services
-Redesign existing brown field legacy services to meet user needs and the digital by default service standard
-Lead project operational delivery; supporting and ensuring the necessary project and approval processes are followed; monitoring and reporting on progress in reaching the digital by default service standard; identifying and mitigating risks; and deliver on all aspects within the timescales set for launch
-Be digitally literate to effectively engage with technical staff, suppliers and stakeholders to define the best approach to service design to achieve business/user objectives
-Create effective, prioritised business cases, service descriptions and delivery plans/roadmaps to meet user needs in a cost effective way
-Lead effectively on the change management, process re-engineering and communications required to launch/implement successful services
+#### (Re)design
+* Lead the gathering of user requirements based on a clear understanding of diverse customer groups and channels for the service
+* Identify and pursue any potential linkages with other services (internal or external) that might be exploited to improve users’ overall contact experience with government
+* Interpret user research, customer insight and behavioural data to make robust service design decisions, noting that users do not always know/express what they want
+* Define and ensure user buy in for service definition and delivery approach
+* Act as an advocate for your service users, and negotiate to remove any identified blockages (within or outside the department) to the design of a excellent digital service 
+* Oversee one or more multi disciplinary agile delivery teams to deliver excellent new services
+* Redesign existing brown field legacy services to meet user needs and the digital by default service standard
+* Lead project operational delivery; supporting and ensuring the necessary project and approval processes are followed; monitoring and reporting on progress in reaching the digital by default service standard; identifying and mitigating risks; and deliver on all aspects within the timescales set for launch
+* Be digitally literate to effectively engage with technical staff, suppliers and stakeholders to define the best approach to service design to achieve business/user objectives
+* Create effective, prioritised business cases, service descriptions and delivery plans/roadmaps to meet user needs in a cost effective way
+* Lead effectively on the change management, process re-engineering and communications required to launch/implement successful services
 
-Delivery and improvement
+#### Delivery and improvement
 
 Be accountable for the quality and usage of service delivery in line with the digital by default service standard and other agreed targets, continuously iterating the service based on user feedback (minimum monthly)
 Keep continually abreast of changes to your users’ habits, preferences and behaviours across various (digital and non-digital) channels and their implications for successful delivery of the service(s) you are responsible for
