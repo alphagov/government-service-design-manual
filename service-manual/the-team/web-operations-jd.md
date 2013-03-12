@@ -1,12 +1,21 @@
-# VACANCY ADVERTISING FORM
+---
+layout: detailed-guidance
+title: Delivery manager job decription
+category: the-team
+type: guide
+audience:
+  primary:
+status: draft
+phases:
+---
 
-## VACANCY REFERENCE NUMBER: IRC 74295
+*NOTE: the following template was used to advertise a web operations vacancy at GDS*
 
 POST TITLE:             Web Operations	
 PAYBAND:               	A							
 UNIT/DIVISION:       	Government Digital Service		
 LOCATION:              	London									
-TYPE OF POSTING: 	2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
+TYPE OF POSTING: 		2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
                               	
 	
 ## VACANCY ADVERT AND JOB DESCRIPTION - MAIN DUTIES OF THE POST
@@ -35,66 +44,56 @@ cabinet-office.external@dwp.gsi.gov.uk
 FURTHER INFORMATION REGARDING THESE POSTS: 
 Please contact Carl Massa - carl.massa@digital.cabinet-office.gov.uk
 
-CLOSING DATE: 			15 March 2013			
-EXPECTED SIFT DATE:		w/c 18th March 2013		
-EXPECTED INTERVIEW DATES:	w/c 1 April 2013
+CLOSING DATE: 				
+EXPECTED SIFT DATE:		
+EXPECTED INTERVIEW DATES:	
 
 APPLICATIONS ARE WELCOME FROM PART TIMERS AND JOB SHARERS  
 
-SALARY SCALE: £44,743 to £60,484
-
 NOTE: SUCCESSFUL APPLICANTS WILL TRANSFER ONTO CABINET OFFICE TERMS AND CONDITIONS INCLUDING SALARY. FOR POSTS ADVERTISED ON LOAN, WHERE EXISTING SALARIES EXCEED CABINET OFFICE PAY SCALES IT MAY BE POSSIBLE TO REMAIN ON THE PARENT DEPARTMENT’S PAY AND APPRAISAL SYSTEM. ALLOWANCES WILL NOT BE CARRIED OVER UNLESS APPLICABLE TO THE JOB. EXCESS COSTS WILL BE PAYABLE ONLY IF THERE IS A PROVEN BUSINESS CASE.
 
-## PERSON SPECIFICATION 	- 	COMPETENCES/SKILLS REQUIRED
+## PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 
-### COMPETENCIES
-
-#### SETTING DIRECTION
-
-##### Seeing the Big Picture
+### Seeing the Big Picture
 
 Essential
 * anticipate technological developments to keep activity relevant and targeted
 
-##### Changing and Improving
+#### Changing and Improving
  
 Essential
 * understand and identify the role of technology in public service delivery and policy implementation
 * spot warning signs of things going wrong and provide a decisive response to delivery challenges
 
-##### Making Effective Decisions
+### Making Effective Decisions
 
 Essential
 * make difficult decisions by pragmatically weighing the complexities involved against the need to act
 * draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data - able to act or decide even when details are not clear
 * identify the main issues in complex problems, clarify understanding of stakeholder expectations, to seek best option
 
-#### ENGAGING PEOPLE
-
-##### Collaborating and Partnering
+### Collaborating and Partnering
  
 Essential
 * seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress.
 
-#### DELIVERING RESULTS
-
-##### Achieving Commercial Outcomes
+### Achieving Commercial Outcomes
 
 Essential
 * question and challenge the value being delivered through commercial arrangements with delivery partners
 
-##### Managing a Quality Service
+### Managing a Quality Service
 
 Essential 
 * ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant.
 
-##### Delivering at Pace
+### Delivering at Pace
  
 Essential
 * maintain effective performance in difficult and challenging circumstances, encouraging others to do the same.
 * review, challenge and adjust performance levels to ensure quality outcomes are delivered on time
 
-#### SPECIALIST SKILLS AND REQUIREMENTS
+### SPECIALIST SKILLS AND REQUIREMENTS
 
 Essential
 * understanding of common web application architectures
@@ -109,12 +108,3 @@ Desirable
 * deploying and configuring machines in a Cloud environment
 * understanding of application deployment strategies and continuous integration
 * working within a product-centric environment
-
-#### How to Apply
-Please send completed application form to: 
-cabinet-office.external@dwp.gsi.gov.uk quoting ref IRC74295
-No later than close of business 15 March 2013
-
-Please note that the candidates invited for an interview will be expected to take a test.
-
-Late or faxed applications will not be accepted

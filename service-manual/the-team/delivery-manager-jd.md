@@ -165,10 +165,3 @@ Essential
 * strong estimation and budget scoping skills
 * experience in structured programme and project management environments
 * experience in open source and cloud technologies and their sourcing, or relevant/significant experience in the field.
-
-### How to Apply
-Please send completed application form to:
-cabinet-office.external@dwp.gsi.gov.uk quoting ref.
-No later than close of business on 10th February 2012
-
-Late or faxed applications will not be accepted
