@@ -90,4 +90,4 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 ##Further reading
 [How users read](/service-manual/content-and-design/how-users-read.html)
-[Style guide](/service-manual/content-and-design/style-guide.html)
+[Style guide](https://www.gov.uk/designprinciples/styleguide)

@@ -13,7 +13,7 @@ page_class: registration
 ---
 
 This example incorporates most of the basic form elements and lets you play wth different label alignments.
-For a detailed breakdown of each element and how to markup and style it, see our [forms design pattern page](/service-manual/form-anatomy.html).
+For a detailed breakdown of each element and how to markup and style it, see our [forms design pattern page](/service-manual/content-and-design/design-and-development-resources/form-anatomy.html).
 
 Click the label alignment options in the Sass snippet below to see how they affect the layout.
 
