@@ -11,6 +11,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Agile
+    url: /service-manual/agile
 ---
 
 One of the central principles of agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.

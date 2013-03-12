@@ -7,6 +7,13 @@ type: guide
 audience:
   primary: developer, tech-arch
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
 Ensuring web based systems and applications are secure requires more than just good design and development. In order to identify vulnerabilities it is often a good idea to involve an idependent body to help find potential security problems before releasing to the public.

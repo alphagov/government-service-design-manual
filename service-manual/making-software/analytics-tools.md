@@ -11,6 +11,13 @@ audience:
     primary: analyst
     secondary: service-managers
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 There are various web analytics tools available to help you measure how people are using your service. You will need to assess how well a particular tool meets your needs before deciding which one to use. 

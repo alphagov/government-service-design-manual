@@ -11,6 +11,16 @@ phases:
   - discovery
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Know your users
+    url: /service-manual/users
+  -
+    title: User research
+    url: /service-manual/users/user-research
 ---
     
 Focus groups, mini groups, and 1:1 interviews involve unstructured interviews or group discussion. 

@@ -30,4 +30,4 @@ assets: local
 
 {% include _role-links.html %}
 
-<p><a href="all-guides"><strong>See all guides...</strong></a>
+<p><a href="/service-manual/browse"><strong>Browse all guides…</strong></a>

@@ -7,6 +7,13 @@ type: guide
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Measurement
+    url: /service-manual/measurement
 ---
 
 The completion rate measures the proportion of people who start a transaction and are able to complete it.

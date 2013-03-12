@@ -11,6 +11,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
     
 Your system is likely to be much larger than a single application, relying on other supporting infrastructure components. Even a simple application probably requires some configuration, to provide database credentials or a web service endpoint for instance. 

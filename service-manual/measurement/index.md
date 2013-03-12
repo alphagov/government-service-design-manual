@@ -1,6 +1,6 @@
 ---
 layout: category-index
-title: KPIs
+title: Measurement
 subtitle: Data you need to measure and monitor
 audience:
     primary: service-manager, analyst
@@ -12,6 +12,10 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 The [digital by default service standard](/service-manual/digital-by-default) sets four Key Performance Indicators (KPIs) to measure the success of your service: cost per transaction, user satisfaction, completion rate and digital take-up.

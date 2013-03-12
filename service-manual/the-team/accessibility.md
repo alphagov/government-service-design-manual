@@ -10,6 +10,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Accessibility is everyone’s responsibility. Provide training and resources to help your team build accessibility into everything they do. That includes planning, designing, building and managing.

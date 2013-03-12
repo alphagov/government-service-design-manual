@@ -8,6 +8,10 @@ audience:
 theme: getting-started
 section: dbd
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 ## Introduction

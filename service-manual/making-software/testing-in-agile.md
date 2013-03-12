@@ -13,6 +13,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 Fundamentally, the basics of any testing approach still apply in the Agile world. However, the focus of testing can be quite different.  

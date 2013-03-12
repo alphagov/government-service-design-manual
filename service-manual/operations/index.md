@@ -10,18 +10,25 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---
 
 
 ## Operating your service
-[Monitoring](/service-manual/operations/.html)
-[Operating service.gov.uk subdomains](/service-manual/operations/.html)
-[Hosting](/service-manual/operations/.html)
+
+* [Monitoring](/service-manual/operations/.html)
+* [Operating service.gov.uk subdomains](/service-manual/operations/.html)
+* [Hosting](/service-manual/operations/.html)
 
 ## Testing
-[Penetration testing](/service-manual/operations/.html)
-[Load and performance testing](/service-manual/operations/.html)
+
+* [Penetration testing](/service-manual/operations/.html)
+* [Load and performance testing](/service-manual/operations/.html)
 
 ## User support
-[Helpdesk](/service-manual/operations/.html)
-[Managing user support](/service-manual/operations/.html)
+
+* [Helpdesk](/service-manual/operations/.html)
+* [Managing user support](/service-manual/operations/.html)

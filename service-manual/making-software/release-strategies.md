@@ -12,6 +12,13 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
     
 Constantly improving online services means releasing changes to the underlying software. How often you want to do this will affect how you design and build the applications and presents a number of challenges that this guide hopes to address.

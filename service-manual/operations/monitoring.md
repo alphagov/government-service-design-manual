@@ -8,6 +8,13 @@ status: draft
 audience: 
     primary: tech-arch, developer
     secondary:
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Operations
+    url: /service-manual/operations
 ---
 
 Any online application should have some tools dedicated to alerting the people running the service to problems. This might involve low level issues involving the infrastructure underpinning the service to a sudden high rate of user errors.

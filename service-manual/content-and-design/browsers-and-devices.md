@@ -10,6 +10,13 @@ status: draft
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Content and design
+    url: /service-manual/content-and-design
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

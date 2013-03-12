@@ -10,6 +10,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Working spaces for digital projects will vary, but there are some things you can do to ensure that the space you have available can be used in the way your team needs.

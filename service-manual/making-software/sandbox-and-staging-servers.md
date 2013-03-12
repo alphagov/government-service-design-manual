@@ -10,6 +10,13 @@ status: draft
 phases:
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
     
 Everyone working on design, development or maintenance of a service should have a clear, easily accessible place to review the latest version of the software. Those working hands-on building the software for the service should be able to run their own reasonable replica of the entire service. 

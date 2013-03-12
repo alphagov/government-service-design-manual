@@ -9,6 +9,13 @@ audience:
 status: draft
 phases:
   - discovery
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
 
 Design of the service is everyone's responsibility. Those with the title of designer may have a particular focus on one or more specific design disciplines - interaction, graphic – but a good digital service needs needs talented, flexible designers to help build user-centred products.

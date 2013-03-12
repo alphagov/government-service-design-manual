@@ -10,6 +10,13 @@ status: draft
 phases:
   - alpha
   - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 At different points in your project you'll have to choose one technology over others. That might be a programming language, database, operating system or some small tool that helps the development team work more efficiently.
