@@ -5,8 +5,8 @@ subtitle: Building services using common standards
 category: making-software
 type: guide
 audience:
-  primary: tech-arch, developer
-  secondary: service-manager
+  primary: 
+  secondary: service-managers, developers, tech-archs
 status: draft
 phases:
   - beta
@@ -53,6 +53,6 @@ It is sufficient to include this as a single **LICENSE** [sic] file, though you 
 There are many other advantages to [developing software in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) described in more detail in the [open source considerations](/service-manual/making-software/open-source.html) guidance section, and prescribed by the tenth GDS design principle: [Make things open: it makes things better](https://www.gov.uk/designprinciples#tenth).
 
 ##Further reading
-- [fossbazaar.org](https://fossbazaar.org/) is an interest group for the governance of FOSS in organizations.
+- [fossbazaar.org](https://fossbazaar.org/) is an interest group for the governance of FOSS in organisations.
 - the [International Free and Open Source Software Law Review](http://www.ifosslr.org/) is a collaborative legal publication aiming to increase knowledge and understanding among lawyers about Free and Open Source Software issues. Topics covered include copyright, licence implementation, licence interpretation, software patents, open standards, case law and statutory changes.
 - [fossology](http://www.fossology.org/) is one of a number of open source tools useful when assessing open source used by a project.
