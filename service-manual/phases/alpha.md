@@ -8,13 +8,44 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
-The objective of this phase is to build a working prototype that can be used by stakeholders or a closed group of end users. This will enable you to trial technology and get early feedback on the design of the service.
+When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.
 
-The team will work iteratively, with an inception followed by development, a showcase and a retrospective.
+You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a beta.
 
-You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a Beta.
+## What is the objective of an alpha?
 
-### Typical outputs and activities
+The objective is to build a working prototype. This will be used by stakeholders or a closed group of end users to:
+
+* gain greater understanding of service
+* to trial design approach
+* trial some technologies
+* begin to form a team
+* gain shared understanding of the service at a coding and integrations level
+* understand what or who you will need to deliver a beta
+
+Following demonstration of your alpha, you may choose to discard the code and start afresh in the beta. If, however, your code is robust enough you may continue to iterate against your prototype.
+
+## What should be in my alpha?
+
+The alpha doesn't need to be a complete, end-to-end service. You're looking to demonstrate just enough so users gain some understanding of the service.
+
+Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users needs to meet them?
+
+## How long does it take?
+The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in 6-9 week long sprints.
+
+## Who do I need?
+This phase involves a relatively small core team, who will be capable of rapidly iterating solutions. It will probably expand and contract in size as different specialisms are required.
+
+## What are the outputs?
+
+- high level story cards
+- prioritised list of stories
+- plan for alpha / beta / live (decreasingly detailed)
+- working basic system that provides limited functionality that can be shown to a number of users
+- spike or understanding around legacy systems to replace or wrap or integrate with
+- cross-functional requirements
+- decision to progress to next phase
 
 <ul class="phase-activities">
   <li>
@@ -43,58 +74,5 @@ You may need to bring more developers and designers into the team, but the whole
   </li>
 </ul>
 
-
-##Alpha Phase 
-
-When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, 
-
-#What is the Alpha phase for?
-- gain greater understanding of service by building prototype
-- allow to trial design approach
-- allow trial of technologies
-- begin to form a team
-- Gain shared understanding of the service at a coding and integrations level.
-- Gain understanding of resources required to deliver beta.
-
-#What should be in my alpha?
-- just enough to gain understanding of service
-- proof of concept, is it viable?
-- enough to showcase to users / stakeholders
-
-#How long does it take?
-- No more than a few weeks (2 months)
-- run maybe 6 one week iterations
-
-#Who do I need?
-- ServiceManager
-- TechnicalArchitect
-- SoftwareDevelopment
-
-# Activities
- - ProjectInception
- - simple mock ups / prototypes / spikes 
- - iterations, 6 weeks with show & tell
- - showcase at end
-
-#What are the outputs?
-
-- high level story cards
-- prioritised list of stories
-- plan for alpha / beta / live (decreasingly detailed)
-- working basic system that provides limited functionality that can be shown to a number of users
-- spike or understanding around legacy systems to replace or wrap or integrate with
-- cross-functional requirements
-- decision to progress to next phase
-
-##What next?
-<ul class="phase-nav">
-	<li class="discovery"><a href="">Previously: Discovery</a></li>
-	<li class="beta"><a href="">Next: Public Beta</a></li>
-</ul>
-
-
-
-
-
-
-
+## [Previously: Discovery](/service-manual/phases/discovery.html)
+## [Next: Beta](/service-manual/phases/beta.html)

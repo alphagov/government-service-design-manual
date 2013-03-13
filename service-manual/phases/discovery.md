@@ -9,6 +9,26 @@ css: /gsdm/css/phases.css
 ---
 
 
+//two para
+
+## What is the objective of an ?
+
+
+## What should be in my ?
+
+
+## How long does it take?
+
+
+## Who do I need?
+
+
+## What are the outputs?
+
+## [Previously: ](/service-manual/phases/.html)
+## [Next: ](/service-manual/phases/.html)
+
+
 The objective of this short phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.
 
 This is achieved through research, workshops and interviews. Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas.

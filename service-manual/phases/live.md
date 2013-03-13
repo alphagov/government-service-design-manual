@@ -8,6 +8,27 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
+//two para
+
+## What is the objective of an ?
+
+
+## What should be in my ?
+
+
+## How long does it take?
+
+
+## Who do I need?
+
+
+## What are the outputs?
+
+## [Previously: ](/service-manual/phases/.html)
+## [Next: ](/service-manual/phases/.html)
+
+
+
 The objective of this phase is to provide a fully resilient service to all end users. The service should now meet all security and performance standards.
 
 This is not the end of the process though. The service should now be improved continuously, based on user feedback, analytics and further research.

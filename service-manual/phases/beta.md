@@ -8,6 +8,27 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
+//two para
+
+## What is the objective of an ?
+
+
+## What should be in my ?
+
+
+## How long does it take?
+
+
+## Who do I need?
+
+
+## What are the outputs?
+
+## [Previously: ](/service-manual/phases/.html)
+## [Next: ](/service-manual/phases/.html)
+
+
+
 
 The objective of this phase is to build a fully working prototype and make it available to all end users.
 
