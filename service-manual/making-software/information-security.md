@@ -5,7 +5,8 @@ subtitle: Ensuring user data stays secure
 category: making-software
 type: guide
 audience:
-  primary: service-manager, developer, tech-arch
+  primary: service-managers, web-ops, developers, tech-archs, 
+  secondary: delivery-managers, qa
 status: draft
 phases:
   - alpha
@@ -20,13 +21,13 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-It goes without saying that security of Government services is incredibly important. The Government Information security community and processes exist to help service managers both meet their obligations to those processess, and more importantly to help build world class services.
+It goes without saying that security of Government services is incredibly important. The Government Information security community and processes exist to help service managers both meet their obligations to those processes, and more importantly to help build world class services.
 
 The assurance and accreditation processes exist to provide a structure for those activities with a shared language to allow risks, mitigations (and opportunities) to be clearly understood by everyone throughout the organisation delivering a service.
 
 The important thing to note about building trustworthy and secure systems is that it's a team game. assurance and accreditation should not be a completely separate strand of work, or seen as a hurdle to be got over (or around). Only by engaging with risk and making decisions based on a range of expert opinion will you end up with the best product.
 
-> NOTE: The following uses quite a lot of acronyms. Unfortunately these are in common usage and it's very hard to engage with the existing documentation and processes without speaking the lingo. All the acronymns should be explained before being used.
+> NOTE: The following uses quite a lot of acronyms. Unfortunately these are in common usage and it's very hard to engage with the existing documentation and processes without speaking the lingo. All the acronyms should be explained before being used.
 
 ## Roles
 
@@ -50,13 +51,13 @@ Part of the formal Accreditation process. Responsible for much of the formal doc
 
 ## Assurance vs accreditation
 
-Assurance is the wider set of activities involved in assessing and managing the risks associated with the system under development. Accreditation is a subset of the assurance work, involing a formal and externally verified process simiar to [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
+Assurance is the wider set of activities involved in assessing and managing the risks associated with the system under development. Accreditation is a subset of the assurance work, involving a formal and externally verified process similar to [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
 
 All projects, however small, should involve some level of assurance. This may be as simple as documenting the limited risks and proposing to the SIRO that the project does not require a formal accreditation. For anything involving sensitive data or of interest to lots of people an accreditation stage will be required.
 
 ## Business Impact Levels
 
-Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three following critera:
+Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three following criteria:
 
 * confidentiality - the potential impact if the information is seen by those who should not see it
 * integrity - the potential impact if the accuracy or completeness of the information is compromised
@@ -86,7 +87,7 @@ The Risk Management Document Set or RMADS are the result of the formal accredita
 
 ## IT Health Check (ITHC)
 
-The IT Health Check (ITHC) forms part of the formal Accreditation. In essense it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about penetration and vulnerability testing for more details.
+The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about penetration and vulnerability testing for more details.
 
 ## Ongoing
 
@@ -113,12 +114,12 @@ It is important to start understanding risks and engaging with the assurance and
 
 It's important to understand the assurance and accreditation processes and tools are all about managing the risk associated with the running service. Security is part of this, but just one part. 
 
-Nearly everything brings with it risks: technology choice, staffing, processes, access to restricted documents, data agregation, etc. It is important to understand those risks and put in place sensible and suitable mitigations. It is unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future exploits. 
+Nearly everything brings with it risks: technology choice, staffing, processes, access to restricted documents, data aggregation, etc. It is important to understand those risks and put in place sensible and suitable mitigations. It is unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future exploits. 
 
 The aim is a system where the risks are known and the team, working with risk professionals, have made careful decisions about how to deal with them.
 
 ## Further reading
 
-* [HMG IA Standard No. 1 - Technical Risk Assesment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf)
+* [HMG IA Standard No. 1 - Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf)
 * [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/)
 * [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
