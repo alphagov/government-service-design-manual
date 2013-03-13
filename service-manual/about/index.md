@@ -19,7 +19,7 @@ It has been designed to achieve two things:
 
 Remember, this site is currently a prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features after the release in April 2013.
 
-## The standard
+## The Digital by Default Service Standard
 
 The [service standard](/service-manual/digital-by-default) is a list of criteria that services and teams must meet before they go live. The final list is currently under discussion, but this page gives you a sense of what’s currently being considered. It will be agreed and set in April 2013.
 
