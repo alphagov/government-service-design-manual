@@ -12,28 +12,27 @@
     }    
   }
 
-  .article-container {
-    margin: 0 2em;
-  }
-
-  // Main promo on home page
-  .dbd-promo{
-    font-size: 16px;
-    border-top: 3px solid $main-colour;
-    border-bottom: 3px solid $main-colour;
+  .dbd-promo {
+    border-top: 5px solid $main-colour;
+    border-bottom: 5px solid $main-colour;
     overflow: hidden;
-    margin-bottom: 2em;
-    p{
+    
+    margin: 2em;
+    
+    p {
       width: 51%;
       margin: 1em 0 1em 0;
       float: left;
-      font-size: 19px;
+
+      @include core-19;
       line-height: 1.5em;
     }
-    strong{
+    
+    strong {
       display: block;
     }
-    .logo{
+
+    .logo {
       display: block;
       float: right;
       padding: 1.5em 0 1em 1.5em;
@@ -44,32 +43,77 @@
     }
   }
 
-  // Secondary promos
-  .secondary-promos{
-    @include grid(3, 165px);
-    div{
-      background: $panel-colour;
+  .intro {
+    margin: 0 2em 2em 2em;
+    padding: 0 0 2em 0;
+    border-bottom: 3px solid $main-colour;
+
+    h2 {
+      // @include bold-36;
+      a {
+        color: $text-colour;
+        text-decoration: none;
+      }
     }
-    h3{
-      @include bold-19;
-      background: $main-colour;
-      padding: 0.5em 1em;
-      color: white;
-      margin: 0;
+
+    p {
+      @include core-24;
     }
-    p{
-      margin: 0;   
-    }
-    a{
+
+    img {
+      margin: 0 auto;
       display: block;
-      padding: 1em;
     }
   }
 
-  .article-container {
-    .inner {
-      margin: 0;
-      padding: 0;
+  .service-life {
+    margin: 0 2em;
+
+    h2 {
+      // @include bold-36;
     }
+  }
+
+  // Phases
+  .phases {
+    list-style: none;
+    padding: 0;
+
+    h2 {
+      @include bold-36;
+    }
+
+    li {
+      display: block;
+      padding: 0.5em 0 2em $gutter*2.5;
+
+      &.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
+      &.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
+      &.beta      { background: transparent url(../images/phases-timeline-beta.png) 0 0 no-repeat }
+      &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
+
+      p {
+        @include core-19;
+        width: 75%;
+        margin: 0.75em 0;
+      }
+
+      h2 {
+        margin-top: 0;
+
+        a {
+          color: $text-colour;
+          text-decoration: none;
+        }
+      }
+
+      img {
+        margin: 1em 0 0 0;
+      }
+    }
+  }
+
+  .resources {
+    margin: 0 2em;
   }
 }
