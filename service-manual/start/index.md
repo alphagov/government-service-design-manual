@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD
 layout: category-index
 title: Start 
 category: home
+=======
+layout: detailed-guidance
+title: Start building digital by default services
+category: guidance
+>>>>>>> Update phases content
 status: draft
 phases:
   - discovery
@@ -11,44 +17,48 @@ breadcrumbs:
     url: /service-manual
 ---
 
-The Government Digital Strategy set an ambitious target for teams building services: services so good that people prefer to use them.
+The [Government Digital Strategy](/digitalstrategy) set an ambitious target for teams building services: services so good that people prefer to use them.
 
 ## Putting users first
 
-Building good services means meeting the needs of users. 82% of the UK population is online. They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
+Building good services means meeting the needs of users. [82% of the UK population is online](http://publications.cabinetoffice.gov.uk/digital/research/#uk-digital-landscape). They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
 
-Government needs to learn from teams who are building successful, world class services. They're placing users at the heart of their decisions, incorporating their feedback at every step of the way.
+Government needs to learn from teams who are building successful, world class services. It needs to place users at the heart of service design, incorporating their feedback at every step of the way.
 
 ## A new way of doing things
 
 Typically, government services are built after long, costly procurement processes. 
 
-In this way of working, users are seldom - if ever - consulted. The first time the public might see a service is when it goes live, by which time it's too late to make any changes.
+<img src="/service-manual/assets/images/old-way.png" alt="Diagram showing old ways of building services" />
+
+In this way of working, users are seldom - if ever - consulted. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
 
 Instead, teams need to constantly iterate against user feedback.
 
-<img class="phase-diagram" src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
+<img src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
-This means building and testing in small chunks, working quickly to deliver improvements to a service. Teams will work out how to best meet the needs of users, releasing code regularly and working in an agile way.
+This means [building and testing in small chunks](/service-manual/agile.html), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies) and [working in an agile way](/service-manual/agile).
 
 ## Essential reading
 
-The GDS design principles present a clear vision of how delivery teams can think about designing digital by default services. These should be a touchstone for every member of a delivery team.
+The [GDS Design Principles](/designprinciples) present a clear vision of how delivery teams can think about designing digital by default services. These should be a touchstone for every member of a delivery team.
 
-The Government Digital Strategy sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first.
+The [Government Digital Strategy](/digitalstrategy) sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first.
 
-And the Digital by Default Service Standard lists the criteria against which all new and redesigned services will be judged from April 2014.
+And the [Digital by Default Service Standard](/service-manual/digital-by-default) lists the criteria against which all new and redesigned services will be judged from April 2014.
 
-## Further watching
+Another good way of finding out what's going on in the government around digital is through the [SPRINT initiative](http://digital.cabinetoffice.gov.uk/sprint-13/), organised by the [Cabinet Office](/government/organisations/cabinet-office). 
 
+At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [current landscape of digital within government](http://www.youtube.com/watch?v=pa07ltj4K4w). Watch that video below.
 
-- francis maude at Sprint 13
-- Kelly at Sprint 13
-- Agile video
+<iframe width="640" height="360" src="http://www.youtube.com/embed/pa07ltj4K4w?rel=0" frameborder="0" allowfullscreen></iframe>
 
+SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK Government, in which he paints a picture of [what service redesign could mean for users](http://www.youtube.com/watch?v=X1A8cg__LpM).
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/X1A8cg__LpM?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Government Service Design Manual
 
 When you're confident about the basics of service design, you can start exploring the advice and guidance in the manual.
 
-You can explore the manual by phase of delivery, specific roles, or by topic.
+You can explore the manual by [phase of delivery](/service-manual/phases.html), [specific roles](/service-manual), or [by topic](/service-manual/browse).

@@ -8,40 +8,35 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
-The objective of this phase is to build a fully working prototype and make it available to all end users.
+You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end protoype, test it in public and prepare to run it.
 
-This is achieved by delivering the user stories in the backlog created in the Alpha phase. This is the time to resolve any outstanding technical or process-related challenges, get the service accredited and plan to go live.
+## What is the objective of a beta?
 
-## What is the objective of an ?
--Allow end users to use the service
--Refine design
+The objective of this phase is to build a fully working prototype which you test publicly with users. You will continuously improve on the protoype until it is ready to go live, replacing or integrating with any existing services.
 
-Resolve technical & process challenges
-- ability to rapidly release into environment
-- accredit system
-- scope and plan go live
+This is achieved by delivering the [user stories](/service-manual/agile/writing-user-stories.html) in the backlog created in the [alpha phase](/service-manual/[hases/alpha.html). This is the time to resolve any outstanding technical or process-related challenges, get the service [accredited](/service-manual/making-software/information-security.html) and plan to go live.
 
-Activities
-- [Project Inception]
-- IterativeDevelopment
-- internal showcases
-
-## What should be in my beta?
-- just enough features to prove concept
+You will also be resolving technical and process challenges, meeting for the first time many of the technical criteria outlined in the [service standard](/service-manual/digital-by-default). You should be [rapidly releasing](/service-manual/making-software/release-strategies.html) updates and improvements into the [development environment](/service-manual/making-software/development-environment.html), and [measuring the impact](/service-manual/measurement) of your changes to the KPIs established in your [discovery](/service-manual/phases/discovery.html) and [alpha](/service-manual/phases/alpha.html) phases.
 
 ## How long does it take?
 
-You will now know what size team you need to deliver the service. The Beta phase should typically take a couple of months at most.
+The exact duration of your beta will depend on the scope of your project, but an appropriately sized team shouldn't take more than a few months to deliver a public beta.
+
+Following the release of your beta you will spend some time iterating on the service until it is ready to go [live](/service-manual/phases/live.html).
 
 ## Who do I need?
 
+You will now know [what size team](/service-manual/the-team) you need to deliver the service, scoping it in response to the findings of your [alpha prototype(s)](/service-manual/phases/alpha.html). It will be run by a single, suitably skilled [service manager](/service-manual/the-team/service-manager.html), and will include [designers](/service-manual/the-team/designer.html), [developers](/service-manual/the-team/developer.html), [web operations](/service-manual/the-team/web-operations.html) specialists and performance analysts as appropriate.
+
 
 ## What are the outputs?
-- high level story cards
-- prioritised list of stories
-- user testing plan
-- analytics / data insight requirements
-- working system that can be used, for real, by end users
+You will have:
+
+* delivered a public, end-to-end prototype of the service
+* high level story cards
+* a [user testing plan](/service-manual/users/introduction-to-user-research.html)
+* [accurate metrics and measurements](/service-manual/measurement.html) to monitor your KPIs
+* a working system that can be used, for real, by end users
 
 <ul class="phase-activities">
   <li>

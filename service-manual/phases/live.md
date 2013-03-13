@@ -8,34 +8,31 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
-The objective of this phase is to provide a fully resilient service to all end users. The service should now meet all security and performance standards.
+You've been building a service to meet [users needs](/service-manual/users/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
-This is not the end of the process though. The service should now be improved continuously, based on user feedback, analytics and further research.
+## What does going 'live' mean?
 
-## What is the objective of an ?
+In order to provide a fully resilient service to all end users the service should now meet all [security](/service-manual/making-software/information-security.html) and [performance](/service-manual/measurement) standards. You have [configured your analytics](/service-manual/making-software/analytics-tools.html) to accurately montior the [KPIs](/service-manual/measurement) identified in the building of your service, and you have planned the transition or integration of any existing services.
 
-* Operational support - technical and customer-support
-** Includes pro-active monitoring for how the service could be better
-(see analytics below)
-** Includes monitoring of system performance to optimise the code
-** Includes pro-active monitoring of security alerts, etc to make sure
-software gets patched
-* Using analytics and constantly iterating
-* Repeating the whole process for smaller pieces - find something that
-needs improvement, do some discovery, iterate, release. that should be
-a constant rhythm and done rapidly.
+You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
 
+And, most importanly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
-## What should be in my ?
+## What next?
 
+This is not the end of the process. The service should now be improved continuously, based on [user feedback](/service-manual/operations/helpdesk.html), [analytics](/service-manual/operations/monitoring.html) and further research.
 
-## How long does it take?
+[Operational support](/service-manual/operations) - both technical and customer-focused - is in place, and you have implemented pro-active monitoring methods. These will help you to:
 
+* monitor system performance 
+* optimise the code
+* ensure the service remains secure
+
+You will repeat the whole process (discovery, alpha, beta and live) for smaller pieces of work as the service continues running. Find something that needs improvement, research solutions, iterate, release. That should be a constant rhythm for the [operating team](/service-manual/the-team), and done rapidly.
 
 ## Who do I need?
 
-The team may need to be reconfigured to reflect the operational requirements of the service.
-
+You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accomodating specialists as appropriate.
 
 ## What are the outputs?
 
