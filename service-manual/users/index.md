@@ -3,7 +3,7 @@ layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 category: users
-type: guide
+category: the-team
 audience:
   primary: researcher, designer, service-manager, analyst
   secondary: developer, tech-arch
@@ -41,6 +41,7 @@ You will be using research to test your assumptions throughout the design, build
 
 The following techniques may be useful when conducting user research
 
+{: .link-list}
 * [Card sorting](‰/service-manual/users/card-sorting.html)
 * [Discussion guides](/service-manual/users/user-research/discussionguides.html)
 * [Multivariate testing](/service-manual/users/user-research/multivariatetesting.html)

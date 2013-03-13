@@ -13,13 +13,7 @@ section_class: detailed-guidance
       {% endif %}
     </hgroup>
 
-    {% if page.phases %}
-    <ul class="meta-phases group">
-      {% for phase in page.phases %}
-      <li class="{{ phase | downcase }}"><a href="/service-manual/phases/{{ phase | downcase }}.html">{{ phase }}</a></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
+    {% include _meta-phases.html %}
   </header>
 
   <div class="article-container group">

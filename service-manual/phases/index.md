@@ -2,10 +2,10 @@
 layout: phases
 title: Discovery, Alpha, Beta, Live
 subtitle: The four phases of service develpment
-category: guidance
+category: phases
+type: category-index
 secondary-audience: designer, developer, tech-arch, researcher, analyst
 theme: getting-started
-type: guide
 status: draft
 ---
 
@@ -16,7 +16,7 @@ Each phase can be thought of as an iteration of the idea, increasing the level o
 
 <img class="phase-diagram" src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
- 
+{: .link-list} 
 Phase 1: [Discovery](/service-manual/phases/discovery.html)
 Phase 2: [Alpha](/service-manual/phases/alpha.html)
 Phase 3: [Beta](/service-manual/phases/beta.html)

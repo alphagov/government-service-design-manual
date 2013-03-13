@@ -1,7 +1,7 @@
 ---
 layout: category-index
 title: Start 
-category: guidance
+category: home
 status: draft
 phases:
   - discovery

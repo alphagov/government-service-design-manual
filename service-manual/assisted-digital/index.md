@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Assisted digital
 subtitle: Getting digital services to people who aren’t online
 category: assisted-digital
-type: guide
+type: category-index
 audience:
   primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
 status: draft

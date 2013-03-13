@@ -1,0 +1,7 @@
+{% if page.phases %}
+<ul class="meta-phases group">
+  {% for phase in page.phases %}
+  <li class="{{ phase | downcase }}"><a href="/service-manual/phases/{{ phase | downcase }}.html">{{ phase }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

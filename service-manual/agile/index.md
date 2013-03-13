@@ -3,7 +3,7 @@ layout: category-index
 title: Agile
 subtitle: What it is, why it works and how to do it
 category: agile
-type: guide
+type: category-index
 audience:
   primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
   secondary: 

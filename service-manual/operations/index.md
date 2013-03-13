@@ -1,7 +1,8 @@
 ---
 layout: category-index
 title: Operating a service
-type: guide
+category: operations
+type: category-index
 audience:
   primary: developer, tech-arch
 status: draft
@@ -19,16 +20,19 @@ breadcrumbs:
 
 ## Operating your service
 
+{: .link-list} 
 * [Monitoring](/service-manual/operations/.html)
 * [Operating service.gov.uk subdomains](/service-manual/operations/.html)
 * [Hosting](/service-manual/operations/.html)
 
 ## Testing
 
+{: .link-list} 
 * [Penetration testing](/service-manual/operations/.html)
 * [Load and performance testing](/service-manual/operations/.html)
 
 ## User support
 
+{: .link-list} 
 * [Helpdesk](/service-manual/operations/.html)
 * [Managing user support](/service-manual/operations/.html)

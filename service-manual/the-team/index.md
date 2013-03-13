@@ -3,10 +3,10 @@ layout: category-index
 title: The team
 subtitle: What you'll need to build a successful service
 status: draft
-type: guide
+category: the-team
+type: category-index
 audience:
   primary: service-manager
-category: the-team
 phases:
   - discovery
 breadcrumbs:

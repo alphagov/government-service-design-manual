@@ -3,7 +3,7 @@ layout: category-index
 title: Design and content
 subtitle: Designing content and services for GOV.UK
 category: content-and-design
-type: guide
+type: category-index
 audience:
   primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
   secondary:

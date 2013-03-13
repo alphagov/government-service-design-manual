@@ -1,48 +1,34 @@
 .category-index {
-  .page-header {
-    width: 25%;
-    float: left;
-    margin: 2em 0 0 0;
-    padding: 0;
-    border: none;
+  header.page-header {
+    margin: 1em 2em 3em 2em;
+    padding: 0 0 2em 0;
+    border-bottom: 5px solid $main-colour;
 
     hgroup {
-      padding: 0 2em;
-    } 
+      padding: 0;
 
-    h1 {
-      border-top: 5px solid $main-colour;
-      @include bold-80;
+      h1 {
+        @include bold-80;
+        color: $text-colour;
+      }
 
-      &.long-title {
-        @include bold-48;
+      h2.subtitle{
+        margin: 0;
+        color: $secondary-text-colour;
+        @include core-24;
       }
     }
   }
 
-  // Page subtitle
-  .subtitle {
-    margin: 1em 0 1em 0;
-    color: $secondary-text-colour;
-    @include core-24;
-  }
-
   .article-container {
-    width:  75%;
-    float: right;
-
     .inner {
-      margin-top: 2em;
+      margin-left: 25%;
       padding: 0 2em;
 
       // 1st para is bigger
       .intro,
       > p:first-of-type {
         @include core-24;
-        padding: 10px 0;
-        padding: 1rem 0;
-
-        border-top: 5px solid $main-colour;
       }
 
       .intro {
