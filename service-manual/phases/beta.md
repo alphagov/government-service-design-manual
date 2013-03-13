@@ -65,5 +65,5 @@ You will have:
   </li>
 </ul>
 
-## [Previously: alpha](/service-manual/phases/alpha.html)
-## [Next: live](/service-manual/phases/live.html)
+[Previously: alpha](/service-manual/phases/alpha.html)
+[Next: live](/service-manual/phases/live.html)

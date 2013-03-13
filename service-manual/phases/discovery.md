@@ -64,4 +64,4 @@ You will leave the discovery phase with:
   </li>
 </ul>
 
-## [Next: alpha](/service-manual/phases/alpha.html)
+[Next: alpha](/service-manual/phases/alpha.html)

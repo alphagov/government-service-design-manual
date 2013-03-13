@@ -73,5 +73,5 @@ This phase involves a relatively small core team, who will be capable of rapidly
   </li>
 </ul>
 
-## [Previously: Discovery](/service-manual/phases/discovery.html)
-## [Next: Beta](/service-manual/phases/beta.html)
+[Previously: Discovery](/service-manual/phases/discovery.html)
+[Next: Beta](/service-manual/phases/beta.html)

@@ -52,4 +52,4 @@ You will have identified the roles required to run your service, including the [
 </ul>
 
 
-## [Previously: beta](/service-manual/phases/beta.html)
+[Previously: beta](/service-manual/phases/beta.html)
