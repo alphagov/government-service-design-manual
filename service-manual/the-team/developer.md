@@ -59,4 +59,4 @@ Read [guidance in the manual of particular interest to developers](/service-manu
 
 ## Job description
 
-See an [example of a developer job description](/service-manager/developer-jd.html)provided by GDS.
+See an [example of a developer job description](/service-manual/developer-jd.html)provided by GDS.
