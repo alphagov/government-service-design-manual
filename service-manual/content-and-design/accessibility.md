@@ -5,7 +5,8 @@ subtitle: How to make services that everyone can use
 category: content-and-design
 type: guide
 audience:
-  primary: designer, developer, service-manager, content-designer
+  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
+  secondary: 
 status: draft
 phases:
   - discovery
