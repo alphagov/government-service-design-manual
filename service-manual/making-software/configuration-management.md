@@ -5,7 +5,8 @@ subtitle: Manage a team's approach to configuration
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: tech-archs, web-ops
+  secondary: developers
 status: draft
 phases:
   - alpha
