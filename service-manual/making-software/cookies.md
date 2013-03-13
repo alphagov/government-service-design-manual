@@ -5,7 +5,8 @@ subtitle: When to use them, and when to tell users about them
 category: making-software
 type: guide
 audience:
-    primary: developer, tech-arch
+  primary: 
+  secondary: service-managers, designers, developers, tech-archs
 status: draft
 phases:
   - beta
