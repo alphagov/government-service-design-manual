@@ -5,7 +5,7 @@ subtitle: Writing microcopy and help text for government services
 category: content-and-design
 type: resource
 audience: 
-  primary: content-designer, designer 
+  primary: content-designers, designers
 type: guide
 status: draft
 ---

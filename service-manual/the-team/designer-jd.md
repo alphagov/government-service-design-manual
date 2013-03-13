@@ -1,19 +1,28 @@
 ---
 layout: detailed-guidance
-title: Delivery manager job decription
+title: Designer job decription
 category: the-team
 type: guide
 audience:
   primary:
 status: draft
 phases:
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
 ---
+
+*NOTE: the following template was used to advertise a designer vacancy at GDS*
 
 POST TITLE:             Designer     
 PAYBAND:               	A				      			
-UNIT/DIVISION:       	  Government Digital Service		      
+UNIT/DIVISION:       	Government Digital Service		      
 LOCATION:              	London			     						
-TYPE OF POSTING: 	      
+TYPE OF POSTING: 	     
 
 ## VACANCY ADVERT
 
@@ -47,5 +56,4 @@ You'll:
 
 #### Further reading:
 
-Take 5 minutes to read our Design Principles to see how we think https://www.gov.uk/designprinciples
-
+[Take 5 minutes to read our Design Principles to see how we think](https://www.gov.uk/designprinciples)

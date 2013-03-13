@@ -4,9 +4,9 @@ title: User research
 subtitle: Resources
 category: users
 type: guide
-audience:
-  primary: researcher, designer, service-manager, analyst
-  secondary: developer, tech-arch
+audience: 
+  primary: user-researchers,
+  secondary: designers, service-managers, developers, content-designers
 status: draft
 phases:
   - discovery

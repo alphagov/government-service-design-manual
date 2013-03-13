@@ -5,8 +5,8 @@ subtitle: How to write a useful user story
 category: agile
 type: guide
 audience: 
-  primary: service-manager, developer, researcher
-  secondary: designer, analyst
+  primary: 
+  secondary: service-managers, designers, delivery-managers, developers
 status: draft
 phases:
   - discovery

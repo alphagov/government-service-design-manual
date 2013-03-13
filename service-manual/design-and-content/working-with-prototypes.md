@@ -5,7 +5,8 @@ subtitle: Learning by doing
 section: content-and-design
 type: guide
 audience:
-  primary: designer, content-designer
+  primary: tech-archs
+  secondary: service-managers, designers, developers, user-researchers
 status: draft
 phases:
   - alpha

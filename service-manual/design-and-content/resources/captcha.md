@@ -4,6 +4,9 @@ title: CAPTCHA
 subtitle: Build to the GOV.UK style 
 section: design-and-development-resources
 type: resource
+audience:
+    primary: designers, developers
+    secondary: 
 status: draft
 phases:
   - alpha

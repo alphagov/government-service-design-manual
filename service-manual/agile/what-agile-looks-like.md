@@ -5,8 +5,8 @@ subtitle: Common features of agile projects
 category: agile
 type: guide
 audience:
-  primary: service-manager
-  secondary: designer, developer, tech-arch, analyst, researcher
+  primary: 
+  secondary: service-managers, designers, delivery-managers, developers, tech-archs
 status: draft
 phases:
   - discovery
@@ -110,7 +110,7 @@ Teams new to agile should be wary of these familiar situations and reactions to 
 
 >* *You don't have a dedicated team area*. Your team should be sat together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its.  As the project gets going, consciously 'hack the environment' to create a working environment conducive to team working.  You might upset a few people and challenge some long-standing working practices. But this is so, so important, and really should not be a big ask.
 
->* *There's no continuous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continiously deploy and run automated tests as you do.
+>* *There's no continuous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continuously deploy and run automated tests as you do.
 
 >* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've not got the right attitude to delivering production-ready software.  You need to embed a quality culture into the team.
 

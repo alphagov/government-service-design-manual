@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: User research briefs
 subtitle: Documents that explain research requirements
 category: user-research
-type: guide
-audience:
-    primary: research
+type: resource
+audience: 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

@@ -12,16 +12,16 @@ breadcrumbs:
 
 This website is a resource to help you and your service achieve the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
-Remember, this site is currently a prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features after the release in April 2013.
-
-## The standard
-
-The [service standard](/service-manual/digital-by-default) has been designed to achieve two things:
+It has been designed to achieve two things:
 
 * ensure that government produces services so good that people prefer to use them
 * offer guidance for teams across government responsible for designing, building and running those services
 
-The service standard is a list of criteria that services and teams must meet before they go live. The final list is currently under discussion, but this page gives you a sense of what’s currently being considered. We will publish the Standard in April 2013.
+Remember, this site is currently a prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features after the release in April 2013.
+
+## The Digital by Default Service Standard
+
+The [service standard](/service-manual/digital-by-default) is a list of criteria that services and teams must meet before they go live. The final list is currently under discussion, but this page gives you a sense of what’s currently being considered. It will be agreed and set in April 2013.
 
 Creating a service standard was [one of the actions set out in the Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-06).
 
@@ -31,4 +31,4 @@ The [Government Service Design Manual](/service-manual/) is a pool of knowledge 
 
 Ultimately, it exists to help teams across Government meet the service standard.
 
-For now, it has been populated with what GDS has learned so far. From April, service teams in Departments will contribute new approaches and tools as they go through the process of redesigning their services.
+For now, it has been populated with what GDS has learned so far. After launch in April, service teams in Departments will contribute new approaches and tools as they go through the process of redesigning their services.
