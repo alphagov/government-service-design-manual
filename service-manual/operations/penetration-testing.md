@@ -5,7 +5,8 @@ subtitle: Identifying insecurities in your service
 category: operations
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: 
+  secondary: developers, tech-archs
 status: draft
 breadcrumbs:
   -
@@ -54,11 +55,11 @@ This may take the form of tests written or tools used specifically to test the s
 
 ## Why we do this
 
-The web is a hostile environment, and the nature of Government services means they can be targets for a wide range of different threats; from financially motivated criminals and online activisits up to nation states. Even where personal or sensitive information is not at risk the reputation of government can be damaged by even the smallest issues.
+The web is a hostile environment, and the nature of Government services means they can be targets for a wide range of different threats; from financially motivated criminals and online activists up to nation states. Even where personal or sensitive information is not at risk the reputation of government can be damaged by even the smallest issues.
 
 Web application exploits tend to follow a relatively small number of common patterns, which means automated and manual testing, as well as awareness of these common problems can have a drastic effect on the security of the system.
 
-[The Government Accredition processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required. 
+[The Government Accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required. 
 
 ## Further reading
 
