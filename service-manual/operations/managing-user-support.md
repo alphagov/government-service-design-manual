@@ -5,7 +5,8 @@ subtitle: Using helpdesk contacts to improve services
 category: operations
 type: guide
 audience: 
-  primary: designer, service-manager 
+  primary: 
+  secondary: service-managers, designers, developers
 status: draft
 phases:
  - alpha
