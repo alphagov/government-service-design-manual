@@ -5,8 +5,8 @@ subtitle: How regular releases can reduce risk
 category: making-software
 type: guide
 audience: 
-    primary: developer, tech-arch
-    secondary:
+  primary: web-ops, developers
+  secondary: service-managers, designers, delivery-managers, tech-archs
 status: draft
 phases:
   - alpha
@@ -37,7 +37,7 @@ In order to do that you have to consider:
 * the quality of low level code – approaches like continuous integration, where code is tested constantly, and test driven design, can be helpful
 * using the same tools and release processes for both the [development and production environments](/service-manual/making-software/development-environment.html) - this way the software and tools will be well understood and will have been run thousands of times before the first public launch
 
-Although tools, potentially incuding commercial tools, are required to aid rapid releases the discussions should not start with what tools should be used or procured but with the needs of the service and the product team.
+Although tools, potentially including commercial tools, are required to aid rapid releases the discussions should not start with what tools should be used or procured but with the needs of the service and the product team.
 
 ## Why we do this
 

@@ -3,6 +3,9 @@ layout: detailed-guidance
 title: Measuring cost per transaction
 category: measurement
 type: guide
+audience: 
+  primary:
+  secondary: service-managers, performance-analysts
 phases:
   - beta
   - live

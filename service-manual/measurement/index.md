@@ -3,7 +3,8 @@ layout: category-index
 title: Measurement
 subtitle: Data you need to measure and monitor
 audience:
-    primary: service-manager, analyst
+  primary: performance-analysts, service-managers 
+  secondary: 
 status: draft
 category: measurement
 type: category-index
