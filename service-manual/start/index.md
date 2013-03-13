@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD
 layout: category-index
-title: Start 
+title: Start building digital by default services 
 category: home
-=======
-layout: detailed-guidance
-title: Start building digital by default services
-category: guidance
->>>>>>> Update phases content
 status: draft
 phases:
   - discovery

@@ -5,7 +5,7 @@ subtitle: What developers do and what to look for
 category: the-team
 type: guide
 audience:
-  primary: developer
+  primary:
 status: draft
 phases:
   - discovery

@@ -5,7 +5,8 @@ subtitle: How to focus a service on users
 category: users
 type: guide
 audience: 
-    primary: researcher, content-designer
+    primary: user-researchers, service-managers
+    secondary: designers, developers,
 status: draft
 phases:
   - discovery
@@ -21,7 +22,7 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-User needs is crucial for building a successful digital service. 
+Deep understanding of your users needs is crucial for building a successful digital service. 
 
 ## Defining user needs
 

@@ -5,7 +5,8 @@ subtitle: Ways of framing or interpreting information
 category: users
 type: guide
 audience: 
-    primary: researcher 
+    primary: user-researchers
+    secondary: service-managers, delivery-managers
 status: draft
 phases:
   - discovery

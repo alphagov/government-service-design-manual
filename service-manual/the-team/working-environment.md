@@ -5,8 +5,8 @@ subtitle: The physical space and tools that bring out the best in a team
 category: the-team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary: delivery-managers
+  secondary: service-managers, designers, developers, tech-archs, user-researchers, performance-analysts
 status: draft
 phases:
   - discovery

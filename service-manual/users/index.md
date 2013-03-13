@@ -5,8 +5,8 @@ subtitle: Techniques for understanding your user's needs
 category: users
 category: the-team
 audience:
-  primary: researcher, designer, service-manager, analyst
-  secondary: developer, tech-arch
+  primary: user-researchers, designers, service-managers,
+  secondary: developers, tech-archs, performance-analysts, delivery-managers
 status: draft
 phases:
   - discovery

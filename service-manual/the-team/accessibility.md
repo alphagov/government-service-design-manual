@@ -5,8 +5,8 @@ subtitle: What your team needs to build for inclusion
 category: the-team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary: designers, developers, content-designers
+  secondary: service-managers
 status: draft
 phases:
   - discovery

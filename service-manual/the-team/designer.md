@@ -5,7 +5,7 @@ subtitle: What designers do and what to look for
 category: the-team
 type: guide
 audience:
-  primary: designer
+  primary:
 status: draft
 phases:
   - discovery

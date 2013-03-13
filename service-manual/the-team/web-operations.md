@@ -5,8 +5,8 @@ subtitle: helping develop maintainable systems
 category: the-team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary:
+  secondary:
 status: draft
 phases:
   - discovery
