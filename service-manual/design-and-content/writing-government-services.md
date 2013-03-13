@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Writing government services
 subtitle: Tone of voice, writing style, use of headings and more
-category: content-and-design
+category: design-and-content
 type: guide
 audience:
   primary: service-managers, designers, developers, content-designers

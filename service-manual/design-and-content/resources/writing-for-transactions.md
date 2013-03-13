@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Writing for transactions
 subtitle: Writing microcopy and help text for government services
-category: content-and-design
+category: design-and-development-resources
 type: resource
 audience: 
   primary: content-designers, designers

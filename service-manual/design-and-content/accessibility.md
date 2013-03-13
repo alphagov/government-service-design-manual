@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Accessibility
 subtitle: How to make services that everyone can use
-category: content-and-design
+category: design-and-content
 type: guide
 audience:
   primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers

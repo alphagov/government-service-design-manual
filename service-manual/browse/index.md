@@ -35,6 +35,17 @@ breadcrumbs:
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'agile' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'agile' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -49,6 +60,17 @@ breadcrumbs:
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'assisted-digital' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'assisted-digital' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -59,10 +81,21 @@ breadcrumbs:
       {% endsorted_for %}
       </ul>
 
-      <h2 id="content-and-design">Content and design</h2>
+      <h2 id="content-and-design">Design and content</h2>
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'content-and-design' %}
+        {% if p.category == 'design-and-content' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'design-and-content' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -75,6 +108,17 @@ breadcrumbs:
 
       <h2 id="making-software">Making software</h2>
       <ul>
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'making-software' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'making-software' %}
         {% if p.type == 'guide' %}
@@ -91,6 +135,17 @@ breadcrumbs:
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'measurement' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'measurement' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -103,6 +158,17 @@ breadcrumbs:
 
       <h2 id="operations">Operations</h2>
       <ul>
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'operations' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'operations' %}
         {% if p.type == 'guide' %}
@@ -119,6 +185,17 @@ breadcrumbs:
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'phases' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'phases' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -133,6 +210,17 @@ breadcrumbs:
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'the-team' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'the-team' %}
         {% if p.type == 'guide' %}
         <li> 
             <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
@@ -145,6 +233,17 @@ breadcrumbs:
 
       <h2 id="users">Users</h2>
       <ul>
+      {% sorted_for p in site.pages sort_by:title %}
+        {% if p.category == 'users' %}
+        {% if p.type == 'category-index' %}
+        <li> 
+            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+            <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+        {% endif %}
+      {% endsorted_for %}
+
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.category == 'users' %}
         {% if p.type == 'guide' %}
