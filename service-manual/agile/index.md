@@ -5,8 +5,8 @@ subtitle: What it is, why it works and how to do it
 category: agile
 type: guide
 audience:
-  primary: service-manager
-  secondary: designer, developer, tech-arch, analyst, researcher
+  primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
+  secondary: 
 status: draft
 phases:
   - discovery
