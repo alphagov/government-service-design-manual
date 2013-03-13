@@ -54,7 +54,7 @@ Technology lock-in happens when previous decisions regarding technology limit fu
 
 For example, if you select a database that only runs on one operating system you have no choice about the operating system you will use. If the costs of that operating system jump you have no simple way of reducing that cost quickly or cheaply.
 
-Over time, and after many decisions, you can find yourself in a situation where all your technology decisions are tightly coupled and you are locked-in to one vendor or one way of doing things. This can have unforseen financial costs (for example an overnight cost increase) but can also limit how quickly you can iterate on your product in the future, for instance if the ideal technology choice isn't compatible with your current vendor or technology.
+Over time, and after many decisions, you can find yourself in a situation where all your technology decisions are tightly coupled and you are locked-in to one vendor or one way of doing things. This can have unforeseen financial costs (for example an overnight cost increase) but can also limit how quickly you can iterate on your product in the future, for instance if the ideal technology choice isn't compatible with your current vendor or technology.
 
 Aim to have a clear understanding of the cost or implications of moving away from a technology when you commit to it.
 
