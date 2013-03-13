@@ -5,8 +5,8 @@ subtitle: Sprints, stand-ups and other regular meetings
 category: agile
 type: guide
 audience:
-  primary: service-managers
-  secondary: designer, developer, tech-arch, analyst, researcher
+  primary: 
+  secondary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
 status: draft
 phases:
   - alpha
