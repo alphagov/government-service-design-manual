@@ -37,7 +37,7 @@ You will leave the discovery phase with:
 * a prioritised list of [story cards](/service-manual/agile/writing-user-stories.html) to feed into project teams
 * understanding of landscape
 * understanding of [team](/service-manual/the-team) and capability required to deliver the project
-* ability to scope and plan an [alpha](/service-manual/phases/agile.html)
+* ability to scope and plan an [alpha](/service-manual/phases/alpha.html)
 * a decision to progress to next phase
 * maybe some rough prototypes
 

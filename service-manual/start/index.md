@@ -31,7 +31,7 @@ Instead, teams need to constantly iterate against user feedback.
 
 <img src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
-This means [building and testing in small chunks](/service-manual/agile.html), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies) and [working in an agile way](/service-manual/agile).
+This means [building and testing in small chunks](/service-manual/agile), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies.html) and [working in an agile way](/service-manual/agile).
 
 ## Essential reading
 
@@ -55,4 +55,4 @@ SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK Governmen
 
 When you're confident about the basics of service design, you can start exploring the advice and guidance in the manual.
 
-You can explore the manual by [phase of delivery](/service-manual/phases.html), [specific roles](/service-manual), or [by topic](/service-manual/browse).
+You can explore the manual by [phase of delivery](/service-manual/phases), [specific roles](/service-manual), or [by topic](/service-manual/browse).
