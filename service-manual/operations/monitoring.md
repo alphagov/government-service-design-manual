@@ -6,8 +6,8 @@ category: operations
 type: guide
 status: draft
 audience: 
-    primary: tech-arch, developer
-    secondary:
+  primary: web-ops
+  secondary: service-managers, developers, tech-archs
 breadcrumbs:
   -
     title: Home
