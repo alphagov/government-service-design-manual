@@ -5,7 +5,8 @@ subtitle: Reading age, reading online, plain English, learning disabilities
 category: content-and-design
 type: guide
 audience: 
-  primary: content-designer
+  primary: designers, developers, user-researchers, qa, content-designers
+  secondary: service-managers
 status: draft
 phases:
   - alpha
