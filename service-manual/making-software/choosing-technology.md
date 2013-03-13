@@ -5,7 +5,8 @@ subtitle: How to go about choosing what software tools to use
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: service-managers, tech-archs
+  secondary: developers
 status: draft
 phases:
   - alpha
