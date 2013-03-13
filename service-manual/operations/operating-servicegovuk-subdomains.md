@@ -5,7 +5,8 @@ subtitle: Consistency across central government digital services
 category: operations
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: tech-archs
+  secondary: service-managers, web-ops, developers
 status: draft
 breadcrumbs:
   -

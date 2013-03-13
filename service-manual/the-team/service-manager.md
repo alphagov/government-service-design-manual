@@ -5,7 +5,8 @@ subtitle: Learn what a service manager does, and how to be a good one
 category: the-team
 type: guide
 audience:
-  primary: service-manager
+  primary:
+  secondary: service-managers
 status: draft
 phases:
   - discovery

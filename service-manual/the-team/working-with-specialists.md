@@ -5,8 +5,8 @@ subtitle: How people outside government can help build your service
 category: the-team
 type: guide
 audience:
-  primary: service manager
-  secondary: designer, developer
+  primary: 
+  secondary: service-managers
 status: draft
 phases:
   - discovery

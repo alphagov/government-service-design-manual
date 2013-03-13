@@ -22,18 +22,18 @@ breadcrumbs:
 ## Operating your service
 
 {: .link-list} 
-* [Monitoring](/service-manual/operations/.html)
-* [Operating service.gov.uk subdomains](/service-manual/operations/.html)
-* [Hosting](/service-manual/operations/.html)
+* [Monitoring](/service-manual/operations/monitoring.html)
+* [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-domains.html)
+* [Hosting](/service-manual/operations/hosting.html)
 
 ## Testing
 
 {: .link-list} 
-* [Penetration testing](/service-manual/operations/.html)
-* [Load and performance testing](/service-manual/operations/.html)
+* [Penetration testing](/service-manual/operations/penetration-testing.html)
+* [Load and performance testing](/service-manual/operations/load-and-performance-testing.html)
 
 ## User support
 
 {: .link-list} 
-* [Helpdesk](/service-manual/operations/.html)
-* [Managing user support](/service-manual/operations/.html)
+* [Helpdesk](/service-manual/operations/helpdesk.html)
+* [Managing user support](/service-manual/operations/managing-user-support.html)

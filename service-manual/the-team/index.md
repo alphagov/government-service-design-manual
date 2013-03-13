@@ -6,7 +6,7 @@ status: draft
 category: the-team
 type: category-index
 audience:
-  primary: service-manager
+  primary: service-managers
 phases:
   - discovery
 breadcrumbs:

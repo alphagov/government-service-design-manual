@@ -10,26 +10,26 @@ css: /gsdm/css/phases.css
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.
 
-You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a beta.
+You may need to bring more [developers](/service-manual/the-team/developers.html) and [designers](/service-manual/the-team/designers.html) into [the team](/service-manual/the-team), but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta.html).
 
 ## What is the objective of an alpha?
 
 The objective is to build a working prototype. This will be used by stakeholders or a closed group of end users to:
 
 * gain greater understanding of service
-* to trial design approach
-* trial some technologies
-* begin to form a team
+* to trial [design approach](/service-manual/design-and-content/prototypes.html)
+* trial some [technologies](/service-manual/making-software/choosing-technology.html)
+* begin to form [a team](/service-manual/the-team)
 * gain shared understanding of the service at a coding and integrations level
-* understand what or who you will need to deliver a beta
+* understand what or who you will need to deliver a [beta](/service-manual/phases/beta.html)
 
-Following demonstration of your alpha, you may choose to discard the code and start afresh in the beta. If, however, your code is robust enough you may continue to iterate against your prototype.
+Following demonstration of your alpha, you may choose to discard the code and start fresh in the beta. If, however, your code is robust enough you may continue to iterate against your prototype.
 
 ## What should be in my alpha?
 
 The alpha doesn't need to be a complete, end-to-end service. You're looking to demonstrate just enough so users gain some understanding of the service.
 
-Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users needs to meet them?
+Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users needs to meet them? If not, find out more and make a new prototype.
 
 ## How long does it take?
 The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in 6-9 week long sprints.
@@ -39,13 +39,12 @@ This phase involves a relatively small core team, who will be capable of rapidly
 
 ## What are the outputs?
 
-- high level story cards
-- prioritised list of stories
+- high level [story cards](/service-manual/agile/writing-user-stories.html)
 - plan for alpha / beta / live (decreasingly detailed)
 - working basic system that provides limited functionality that can be shown to a number of users
-- spike or understanding around legacy systems to replace or wrap or integrate with
+- understanding around legacy systems to replace or wrap or integrate with
 - cross-functional requirements
-- decision to progress to next phase
+- decision to progress to [beta phase](/service-manual/phases/beta.html)
 
 <ul class="phase-activities">
   <li>
