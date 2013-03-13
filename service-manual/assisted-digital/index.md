@@ -5,7 +5,7 @@ subtitle: Getting digital services to hard to reach audiences
 category: assisted-digital
 type: guide
 audience:
-  primary: designer, researcher, service-manager
+  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
 status: draft
 phases:
   - discovery
@@ -45,7 +45,7 @@ To ensure consistency, assisted digital support must follow shared models of ass
 
 There will be a strong presumption towards procuring external resource to provide assisted digital support, from the private sector, the voluntary sector, and other parts of the public sector. In exceptional circumstances, departments may seek an exemption from this requirement; for example, where a business case for external provision does not demonstrate good value for money. Transitioning from in-house to external provision will be phased in as the marketplace of assisted digital providers is established.
 
-Where an alternative channel remains, it will be recalibrated to provide assisted digital support.
+Where an alternative channel remains, it will be re-calibrated to provide assisted digital support.
 Uses and builds on existing methods for delivering assistance to people accessing services in their local area.
 
 ## How are we developing our approach to assisted digital?
