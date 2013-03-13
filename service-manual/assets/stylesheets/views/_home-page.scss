@@ -35,8 +35,8 @@
     .logo {
       display: block;
       float: right;
-      padding: 1.5em 0 1em 1.5em;
-      width: 44%;
+      padding: 1.8em 0 1em 1.5em;
+      width: 42.5%;
       img{
         width: 100%;
       }
@@ -44,30 +44,31 @@
   }
 
   .intro {
+    float: right;
+    width: 40%;
     margin: 0 2em 2em 2em;
-    padding: 0 0 2em 0;
+    padding: 0 0 1em 0;
     border-bottom: 3px solid $main-colour;
 
-    h2 {
-      // @include bold-36;
-      a {
-        color: $text-colour;
-        text-decoration: none;
-      }
-    }
-
-    p {
-      @include core-24;
+    h2{
+       margin-top: 0;
     }
 
     img {
       margin: 0 auto;
       display: block;
+      float: right;
+      width: 30%;
+    }
+
+    a{
+      @include core-24;  
     }
   }
 
   .service-life {
     margin: 0 2em;
+    width: 45%;
 
     h2 {
       // @include bold-36;
@@ -94,7 +95,7 @@
 
       p {
         @include core-19;
-        width: 75%;
+        //width: 75%;
         margin: 0.75em 0;
       }
 
@@ -109,11 +110,31 @@
 
       img {
         margin: 1em 0 0 0;
+        display: none;
       }
     }
   }
 
   .resources {
     margin: 0 2em;
+  }
+
+  #roles{
+    margin-top: 1.5em;
+    border-top: 3px solid #DF3034;
+    h3{
+      @include heading-24;
+      font-weight: bold;
+    }
+    .roles {
+      li{
+        width: 100%;
+      }
+      a, p{
+        padding: 0;
+        border: none;
+        @include core-24;
+      }
+    }
   }
 }
