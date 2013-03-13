@@ -5,7 +5,8 @@ subtitle: Using and creating Application Programming Interfaces
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: service-managers, tech-archs
+  secondary: developers
 status: draft
 phases:
   - beta
