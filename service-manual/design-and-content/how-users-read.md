@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   - 
-    title: Content and Design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 The [style guide](https://www.gov.uk/designprinciples/styleguide) is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.

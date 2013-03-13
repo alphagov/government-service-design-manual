@@ -15,8 +15,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

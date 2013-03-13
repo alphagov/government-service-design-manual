@@ -37,7 +37,7 @@ Forms should be styled as per the examples on this page. The [GOV.UK forms mixin
     }
 
 
-Check out the [registration form example](/service-manual/content-and-design/design-and-development-resources/registration-form.html) to see the different layout options in action.
+Check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html) to see the different layout options in action.
 
 
 ## Basic structure
@@ -405,7 +405,7 @@ Nest rows of buttons in an 'action group' element.
         </p>
 
 
-See the [seperate page on buttons](/service-manual/content-and-design/design-and-development-resources/buttons.html) for detailed guidance on how to style and word them.
+See the [seperate page on buttons](/service-manual/design-and-content/resources/buttons.html) for detailed guidance on how to style and word them.
 
 ## Validation messages
 
@@ -476,7 +476,7 @@ Each link should jump the user down to the corresponding form control. Add a 'va
 
 # Putting it all together
 
-To see all the examples above in a single form, check out the [registration form example](/service-manual/content-and-design/design-and-development-resources/registration-form.html).
+To see all the examples above in a single form, check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html).
 
 # Rationale
 

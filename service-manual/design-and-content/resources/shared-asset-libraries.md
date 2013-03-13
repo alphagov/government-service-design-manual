@@ -64,7 +64,7 @@ HTML and assets together.
 ### govuk_frontend_toolkit
 
 Please see
-[Sass repositories](/service-manual/content-and-design/design-and-development-resources/sass-repositories.html) for
+[Sass repositories](/service-manual/design-and-content/resources/sass-repositories.html) for
 more information on this repository.
 
 
