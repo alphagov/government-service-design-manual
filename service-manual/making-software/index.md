@@ -6,7 +6,7 @@ category: users
 type: guide
 long-title: true
 audience:
-  primary: developer, tech-arch
+  primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts
   secondary: 
 status: draft
 phases:
