@@ -3,6 +3,9 @@ layout: detailed-guidance
 title: User satisfaction
 category: measurement
 type: guide
+audience:
+  primary: service-managers, performance-analysts
+  secondary: designers, developers, content-designers
 phases:
   - beta
   - live
