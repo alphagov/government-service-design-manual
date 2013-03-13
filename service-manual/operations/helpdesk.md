@@ -6,7 +6,8 @@ category: operations
 type: guide
 status: draft
 audience: 
-    primary: designer, service-manager 
+  primary: 
+  secondary: service-managers
 status: draft
 phases:
   - discovery

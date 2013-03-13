@@ -4,7 +4,8 @@ title: Operating a service
 category: operations
 type: category-index
 audience:
-  primary: developer, tech-arch
+  primary: service-managers, web-ops, tech-archs
+  secondary: 
 status: draft
 phases:
   - discovery
