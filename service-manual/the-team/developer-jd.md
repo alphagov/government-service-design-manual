@@ -2,7 +2,6 @@
 layout: detailed-guidance
 title: Developer job description
 category: the-team
-type: guide
 audience:
   primary:
 status: draft

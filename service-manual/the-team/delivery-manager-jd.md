@@ -1,8 +1,7 @@
 ---
 layout: detailed-guidance
-title: Delivery manager job decription
+title: Delivery manager job description
 category: the-team
-type: guide
 audience:
   primary:
 status: draft

@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Measuring cost per transaction
+subtitle: The total cost to government of each transaction
 category: measurement
 type: guide
 audience: 

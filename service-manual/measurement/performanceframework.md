@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Performance framework
+subtitle: Other metrics your service might measure or track
 status: draft
 category: measurement
 type: guide

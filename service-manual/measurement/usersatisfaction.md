@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: User satisfaction
+subtitle: Are users happy with the service you have provided
 category: measurement
 type: guide
 audience:

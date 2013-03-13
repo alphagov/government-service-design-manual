@@ -1,8 +1,7 @@
 ---
 layout: detailed-guidance
-title: Service manager job decription
+title: Service manager job description
 category: the-team
-type: guide
 audience:
   primary:
 status: draft

@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Completion rate
+subtitle: Services all users can finish
 status: draft
 category: measurement
 type: guide

@@ -2,7 +2,6 @@
 layout: detailed-guidance
 title: Designer job decription
 category: the-team
-type: guide
 audience:
   primary:
 status: draft
