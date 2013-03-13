@@ -20,9 +20,9 @@ The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digit
 
 Services must meet the standard before they are launched on [GOV.UK](http://gov.uk). A draft version is set out below. It will be agreed and set in April 2013.
 
-## The digital by default standard
+## The Digital by Default Service Standard
 
-A team must demonstrate that they have done the following to achieve the digital by default standard:
+A team must demonstrate that they have done the following to achieve the standard:
 
 1. conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design
 2. put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
