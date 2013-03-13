@@ -1,6 +1,6 @@
 ---
 layout: wide
-section: home
+category: home
 title: Guides by theme
 ---
 

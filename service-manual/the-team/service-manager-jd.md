@@ -16,15 +16,14 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-VACANCY ADVERTISING FORM
-VACANCY REFERENCE NUMBER:
+*NOTE: the following template was used to advertise a developer vacancy at GDS*
 
 
-POST TITLE:   Service Manager 	
-PAYBAND: 		SCS1									
+POST TITLE:   			Service Manager 	
+PAYBAND: 				SCS1									
 UNIT/DIVISION: 		
 LOCATION: 		 			
-TYPE OF POSTING:     24 Month Fixed Term Appointment with possibility of extension or permanency. The post will be re-evaluated at the end of the period to match against the ongoing requirements of [Department]
+TYPE OF POSTING:     	24 Month Fixed Term Appointment with possibility of extension or permanency
 	
 ## VACANCY ADVERT
 

@@ -5,7 +5,8 @@ subtitle: Creating valuable and meaningful graphics to help analyse data
 category: content-and-design
 type: guide
 audience:
-  primary: designer, researcher, analyst
+  primary: performance-analysts
+  secondary: service-managers, web-ops, user-researchers, qa
 status: draft
 phases:
   - beta
@@ -15,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 As we surface more data about government services, we need to make sure that the visualisations of it are easy to understand, visually compelling and drive action. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.
@@ -191,7 +192,7 @@ d) Have you been open and transparent with data?
 
 ![Bad Line chart - image10](https://docs.google.com/drawings/pub?id=1i4V_-F50fyfpJ6TwZZkJJAhI5siJcGX0sgwUKjN-dYs&w=337&h=237)
 
-* Chart only shows a selct few data points
+* Chart only shows a select few data points
 * The small range on y-axis has exaggerated the fluctuations in data
 * Y-axis starts at 60 but chart suggests data has reached lowest possible value
 
@@ -207,7 +208,7 @@ For more information on the GDS Performance Platform see this [blogpost from Ric
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Desiging with Data*](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0Bwrn_Ey2B7pcYjBhNDgzOGUtNjZlYi00NjA4LTgwYjAtZWJiMmM3MTk4Nzcw/edit) provides a comprehensive understanding of how to best engage the audience with your data. A video of Brian Suda presenting on a section of his book at the 2012 DIBI conference is available [here](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0Bwrn_Ey2B7pcYjBhNDgzOGUtNjZlYi00NjA4LTgwYjAtZWJiMmM3MTk4Nzcw/edit) provides a comprehensive understanding of how to best engage the audience with your data. A video of Brian Suda presenting on a section of his book at the 2012 DIBI conference is available [here](http://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 

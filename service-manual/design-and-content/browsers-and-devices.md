@@ -5,7 +5,8 @@ subtitle: Which ones to test with, and how best to support them
 category: content-and-design
 type: guide
 audience:
-  primary: designer, developer, analyst
+  primary: designers, web-ops, developers, tech-archs, user-researchers, qa, service-managers
+  secondary: delivery-managers, performance-analysts, content-designers 
 status: draft
 phases:
   - beta
@@ -15,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

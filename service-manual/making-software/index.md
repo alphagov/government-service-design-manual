@@ -4,6 +4,7 @@ title: Making software
 subtitle: Information and guidance for building services
 category: users
 type: guide
+long-title: true
 audience:
   primary: developer, tech-arch
   secondary: 

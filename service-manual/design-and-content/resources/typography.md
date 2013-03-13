@@ -9,7 +9,7 @@ phases:
   - beta
   - live
 audience:
-  primary: designer, content-designer
+  primary: designers
 status: draft
 ---
 
@@ -30,21 +30,21 @@ If the service uses numbers in columns or tables, you should change these to use
 
 ## Colour contrast
 
-Text must have enough contrast against the background colour to be readable. This should be tested to conform with our [Accessibility requirements](/service-manual/content-and-design/accessibility.html). Generally we use type in #0B0C0C against a white or light grey background. Links should be blue and underlined - see [Colour palettes](/service-manual/content-and-design/design-and-development-resources/colour-palettes.html).
+Text must have enough contrast against the background colour to be readable. This should be tested to conform with our [Accessibility requirements](/service-manual/design-and-content/accessibility.html). Generally we use type in #0B0C0C against a white or light grey background. Links should be blue and underlined - see [Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html).
 
 ## Type size
 
-Type should be large enough to be easily read. This is generally larger than many current websites: 36px for headlines, 19px for body text. This can be included using default styles in scss from the [Frontend Toolkit](/service-manual/content-and-design/design-and-development-resources/sass-repositories.html). These include line height spacing that works across browsers.
+Type should be large enough to be easily read. This is generally larger than many current websites: 36px for headlines, 19px for body text. This can be included using default styles in scss from the [Frontend Toolkit](/service-manual/design-and-content/resources/sass-repositories.html). These include line height spacing that works across browsers.
 
 
 ##Further reading
 
 [Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
 
-[Shared asset libraries](/service-manual/content-and-design/design-and-development-resources/shared-asset-libraries.html)
+[Shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html)
 
-[Sass Repositories](/service-manual/content-and-design/design-and-development-resources/sass-repositories.html)
+[Sass Repositories](/service-manual/design-and-content/resources/sass-repositories.html)
 
-[Colour palettes](/service-manual/content-and-design/design-and-development-resources/colour-palettes.html)
+[Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html)
 
-[Accessibility requirements](/service-manual/content-and-design/accessibility.html)
+[Accessibility requirements](/service-manual/design-and-content/accessibility.html)

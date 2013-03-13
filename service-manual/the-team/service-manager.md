@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: How to be a service manager
+title: Service managers
 subtitle: Learn what a service manager does, and how to be a good one
 category: the-team
 type: guide

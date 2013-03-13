@@ -1,11 +1,11 @@
 ---
 layout: detailed-guidance
 title: Assisted digital
-subtitle: Getting digital services to hard to reach audiences
+subtitle: Getting digital services to people who aren’t online
 category: assisted-digital
 type: guide
 audience:
-  primary: designer, researcher, service-manager
+  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
 status: draft
 phases:
   - discovery
@@ -27,7 +27,14 @@ You can read more about assisted digital in the [government approach to assisted
 ## Who needs assisted digital support?
 Assisted digital support is for users who are not able to use digital services independently. 18% of UK adults are offline and the GDS Digital Landscape Research provides a [demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
 
-Each service will have a different proportion of users who are not online and [user needs](/service-manual/users/user-needs.html) is vital for putting in place appropriate assisted digital support. Some services (e.g. where users are large corporations) will not require assisted digital.
+Each service will have a different proportion of users who are not online and understanding their [user needs](/service-manual/users/user-needs.html) is vital for putting in place appropriate assisted digital support. 
+
+Services will need to consider the digital skills of their users to understand which users who currently don’t use digital channels: 
+* can’t ever use the digital service independently and will always need assisted digital support
+* could use the digital service independently but will require initial assisted digital support to build their confidence in using the service 
+* should use the digital service (ie. have the digital skills but currently use other channels) and don’t need assisted digital support
+
+Some services (e.g. where users are large corporations) will not require assisted digital. The [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) contains a demographic breakdown of who is offline and online and service teams and [these techniques](/service-manual/users/user-research/index.html) may be useful for doing user research.
 
 ## What good looks like
 Good assisted digital support:
@@ -45,10 +52,7 @@ To ensure consistency, assisted digital support must follow shared models of ass
 
 There will be a strong presumption towards procuring external resource to provide assisted digital support, from the private sector, the voluntary sector, and other parts of the public sector. In exceptional circumstances, departments may seek an exemption from this requirement; for example, where a business case for external provision does not demonstrate good value for money. Transitioning from in-house to external provision will be phased in as the marketplace of assisted digital providers is established.
 
-Where an alternative channel remains, it will be recalibrated to provide assisted digital support.
-Uses and builds on existing methods for delivering assistance to people accessing services in their local area.
+Where an alternative channel remains, it will be re-calibrated to provide assisted digital support.
 
 ## How are we developing our approach to assisted digital?
 Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-05). The experiences with these services will inform shared models and shared procurement routes for assisted digital. If you are not an exemplar service but would like to get involved in this work, please contact GDS.
-
-Departments and GDS are developing the approach to assisted digital through the exemplar digital by default services. We will update this guidance as we learn from these services.

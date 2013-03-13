@@ -28,11 +28,7 @@ As a result, the people you hire should already have worked like this, or at lea
 When building a team ask to see examples of work and ask the designers to talk you through their contribution. Avoid CVs that emphasise the terms “ux” and “creative”. Especially avoid “creative directors”. These people are probably not a good fit for your team.
 
 ## Job description templates
-[Junior Designer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1CVrjAcXp6o6LqZagiqmkaZt-QxRG4jqYoPvzLBxdxLk/)
-
-[Mid weight Designer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1fYYvpwlX2SnKQNHnVZetlN4HwaznotmHDzd7CToDFQU/)
-
-[Mid weight Front-end developer](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1Aa3mZn3131Y7byIykLftOhmIoCUe4u--faWFBJQkFqM/edit)
+See an [example of a designer job description](/service-manager/designer-jd.html)provided by GDS.
 
 ##Further reading
 [Specific guidance for designers working on digital by default services](/service-manual/designers).

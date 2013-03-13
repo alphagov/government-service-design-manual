@@ -2,11 +2,11 @@
 layout: detailed-guidance
 title: Accessibility testing
 subtitle: Testing to see if your service is inclusive
-section: making-software
+category: making-software
 type: guide
 audience: 
-    primary: researcher
-    secondary: designer, developer
+  primary: user-researchers
+  secondary: designers, developers, performance-analysts, qa, content-designers
 phases:
   - alpha
   - beta

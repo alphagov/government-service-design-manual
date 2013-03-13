@@ -1,11 +1,12 @@
 ---
 layout: detailed-guidance
-title: Designing for GOV.UK
-subtitle: General guidance for those developing for GOV.UK
-section: content-and-design
+title: Working with prototypes
+subtitle: Learning by doing
+category: content-and-design
 type: guide
 audience:
-  primary: designer
+  primary: tech-archs
+  secondary: service-managers, designers, developers, user-researchers
 status: draft
 phases:
   - alpha
@@ -16,11 +17,11 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
-You can't really understand how to build a service until you try it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.
+The best way to understand a product is to try to build it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.
 
 ## Building prototypes
 

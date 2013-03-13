@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: Survey design
 subtitle: Making an effective survey
 category: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

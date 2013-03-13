@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: Sentiment analysis
 subtitle: Understanding user's feelings about a service
 category: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

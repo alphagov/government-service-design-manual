@@ -4,6 +4,9 @@ title: Colour palettes
 subtitle: Hex values and Sass variable names for the GOV.UK colours
 category: design-and-development-resources
 type: resource
+audience:
+    primary: designers
+    secondary: 
 status: draft
 phases:
   - alpha
