@@ -5,8 +5,8 @@ subtitle: How to do them and how to avoid them
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
-  secondary: designer
+  primary: developers, tech-archs
+  secondary: designers, service-managers 
 status: draft
 phases:
   - discovery
@@ -41,7 +41,7 @@ If after careful review and design work there is no option but to build a login 
 * are you providing a login service for a small number of agents (administrative users, accredited partners, etc) or for a broad range of citizens or businesses?
 * do you already have all the data you need in order to establish trust with those users or will you need to match them against other services (online or offline)?
 
-If building a service for a small number of clearly identified agents then it is probably safe to proceed. You should ensure that any authentication and authorization code written for your system is carefully separated from the application in such a way that you can:
+If building a service for a small number of clearly identified agents then it is probably safe to proceed. You should ensure that any authentication and authorisation code written for your system is carefully separated from the application in such a way that you can:
 
 * specifically monitor use of the system for attempts to gain access, with identifiers such as unusually high number of failed login attempts over a short period of time, or a sequence of failed logins on a given account over a long period of time
 * segment user data from other data you hold to avoid aggregating a large amount of identifiable information
