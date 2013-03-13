@@ -5,7 +5,8 @@ subtitle: How to avoid your service collapsing under pressure
 category: operations
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: 
+  secondary: service-managers, developers, tech-archs, qa
 status: draft
 breadcrumbs:
   -
