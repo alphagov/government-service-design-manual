@@ -8,6 +8,42 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
+The objective of this phase is to build a working prototype that can be used by stakeholders or a closed group of end users. This will enable you to trial technology and get early feedback on the design of the service.
+
+The team will work iteratively, with an inception followed by development, a showcase and a retrospective.
+
+You may need to bring more developers and designers into the team, but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a Beta.
+
+### Typical outputs and activities
+
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
+    User story backlog
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/design-and-build.png" />
+    Design and build
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
+    Working prototype
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/presentation.png" />
+    Show and tell
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
+    Retrospective
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/alpha-medium.png" />
+    Team size
+  </li>
+</ul>
+
+
 ##Alpha Phase 
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, 

@@ -1,10 +1,10 @@
 ---
 layout: detailed-guidance
-title: The digital by default standard
+title: Digital by Default Service Standard
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
-  secondary: designer, developer, tech-arch, analyst, researcher
+  secondary: 
 theme: getting-started
 section: dbd
 status: draft

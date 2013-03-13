@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: A/B and multivariate experiments
 subtitle: Getting input into products and services
 category: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

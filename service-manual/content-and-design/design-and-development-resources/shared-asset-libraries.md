@@ -9,7 +9,7 @@ phases:
   - beta
   - live
 audience:
-  primary: designer, developer
+  primary: designers, developers
   secondary: tech-arch
 status: draft
 ---

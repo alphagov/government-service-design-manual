@@ -8,6 +8,44 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
+
+The objective of this phase is to build a fully working prototype and make it available to all end users.
+
+This is achieved by delivering the user stories in the backlog created in the Alpha phase. This is the time to resolve any outstanding technical or process-related challenges, get the service accredited and plan to go live.
+
+You will now know what size team you need to deliver the service. The Beta phase should typically take a couple of months at most.
+
+### Typical outputs and activities
+
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
+    User story backlog
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/design-and-build.png" />
+    Design and build
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
+    Working service
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/presentation.png" />
+    Show and tell
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
+    Retrospective
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/beta-large.png" />
+    Team size
+  </li>
+</ul>
+
+
+
 ##What is Public Beta for?
 
 Previous phase: AlphaPhase

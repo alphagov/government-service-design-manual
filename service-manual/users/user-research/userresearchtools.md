@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: User research tools
 subtitle: Products available to researchers
 category: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

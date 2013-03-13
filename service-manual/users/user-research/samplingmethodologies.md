@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: Survey sampling methodologies
 subtitle: How to draw an effective selection of user
 category: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

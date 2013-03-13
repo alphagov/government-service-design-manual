@@ -9,6 +9,41 @@ css: /gsdm/css/phases.css
 ---
 
 
+The objective of this short phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.
+
+This is achieved through research, workshops and interviews. Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas.
+
+A small team will be required and the phase should not take longer than a week. At the end of the phase a decision should be made whether to proceed to the Alpha phase.
+
+### Typical outputs and activities
+
+<ul class="phase-activities">
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
+    List of user needs
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/user-needs.png" />
+    User personas
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" /> 
+    Rough wireframes
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
+    Stakeholder interviews
+  </li>
+  <li>
+    <img class="output" src="/service-manual/assets/images/pictograms/discovery-small.png" />
+    Team size
+  </li>
+</ul>
+
+
+
+
+
 ##Discovery phase
 
 # What is phase for?

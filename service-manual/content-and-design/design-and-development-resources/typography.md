@@ -9,7 +9,7 @@ phases:
   - beta
   - live
 audience:
-  primary: designer, content-designer
+  primary: designers
 status: draft
 ---
 

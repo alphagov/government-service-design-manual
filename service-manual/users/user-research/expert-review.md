@@ -3,9 +3,9 @@ layout: detailed-guidance
 title: Expert reviews
 subtitle: Getting input into products and services
 section: user-research
-type: guide
+type: resource
 audience: 
-    primary: research 
+    primary: user-researchers 
 status: draft
 phases:
   - discovery

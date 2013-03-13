@@ -5,7 +5,8 @@ subtitle: Markup, styles and layout for form elements
 category: design-and-development-resources
 type: resource
 audience:
-    primary: designer, developer
+    primary: designers, developers
+    secondary: 
 status: draft
 phases:
   - alpha
