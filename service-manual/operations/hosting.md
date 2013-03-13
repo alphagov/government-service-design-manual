@@ -5,8 +5,8 @@ subtitle: Where your service will live
 type: guide
 status: draft
 audience: 
-    primary: tech-arch, developer
-    secondary:
+  primary: tech-archs, web-ops
+  secondary: service-managers, delivery-managers, developers
 category: operations
 breadcrumbs:
   -
@@ -21,11 +21,11 @@ The software running your service will need servers to run on. This guide will h
 
 ## Deciding how to host your application
 
-The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a descision. This group should include people with a knowledge of the available Procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
+The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available Procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
 
 It is important to keep good notes from any interviews or deliberation sessions and to access different suppliers equally. A scoring matrix can help here.
 
-It is worth stating that it's very common to use multiple suppliers. This may be due to them offering different but compatible services or potentially for additional redundancy. This can be technically challenging but for larger projects can provide extra resiliance.
+It is worth stating that it's very common to use multiple suppliers. This may be due to them offering different but compatible services or potentially for additional redundancy. This can be technically challenging but for larger projects can provide extra resilliance.
 
 ## Types of provider
 
@@ -35,7 +35,7 @@ This advice is complicated because many service providers redefine the meanings 
 
 ### Ownership
 
-For particularly large projects with very specific requirements you may decide that purchasing hardware and even running a dedicated data centre is suitable. The costs and timescales involved here are very high and this is unlikley to be the best option in most cases.
+For particularly large projects with very specific requirements you may decide that purchasing hardware and even running a dedicated data centre is suitable. The costs and timescales involved here are very high and this is unlikely to be the best option in most cases.
 
 ### Co-location
 
@@ -60,14 +60,14 @@ Making a decision about your hosting supplier involves weighing up a wide range 
 * technical requirements of your software applications
 * future capacity requirements
 * user support
-* relisance and redundancy
+* reliance and redundancy
 * mandated government information security requirements
 * government network connectivity
 * cost of service
 * flexibility and on-demand billing
 * different operating models, as detailed above
 
-This is, unfortunately, a technical field with many options. Seemingly similar services can have wildly different architectures or different cost models can result in large differences in total cost of ownership. It is recommended to involve technical colleagues or trusted third parties in any discussions and descision.
+This is, unfortunately, a technical field with many options. Seemingly similar services can have wildly different architectures or different cost models can result in large differences in total cost of ownership. It is recommended to involve technical colleagues or trusted third parties in any discussions and decision.
 
 ## Further reading
 
