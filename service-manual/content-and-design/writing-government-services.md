@@ -5,7 +5,8 @@ subtitle: Tone of voice, writing style, use of headings and more
 category: content-and-design
 type: guide
 audience:
-  primary: content-designer
+  primary: service-managers, designers, developers, content-designers
+  secondary: performance-analysts, user-researchers 
 status: draft
 phases:
   - alpha
