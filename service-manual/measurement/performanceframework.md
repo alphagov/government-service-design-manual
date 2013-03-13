@@ -5,7 +5,8 @@ status: draft
 category: measurement
 type: guide
 audience: 
-    primary: analyst
+  primary: service-managers, performance-analysts
+  secondary: designers, developers, qa, content-designers
 phases:
   - beta
   - live
