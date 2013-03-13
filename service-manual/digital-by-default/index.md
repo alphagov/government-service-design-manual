@@ -6,7 +6,7 @@ audience:
   primary: service-manager
   secondary: 
 theme: getting-started
-section: dbd
+category: dbd
 status: draft
 breadcrumbs:
   -

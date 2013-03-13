@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Working with prototypes
 subtitle: Learning by doing
-section: content-and-design
+category: content-and-design
 type: guide
 audience:
   primary: tech-archs

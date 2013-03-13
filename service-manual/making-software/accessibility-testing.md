@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Accessibility testing
 subtitle: Testing to see if your service is inclusive
-section: making-software
+category: making-software
 type: guide
 audience: 
     primary: researcher
