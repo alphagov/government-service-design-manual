@@ -5,7 +5,8 @@ subtitle: How to make sure your code does what it's supposed to
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: developers, qa
+  secondary: web-ops, tech-archs
 status: draft
 phases:
   - alpha
