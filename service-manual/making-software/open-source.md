@@ -5,7 +5,8 @@ subtitle: When to use open source
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: service-managers, developers, tech-archs
+  secondary: web-ops 
 status: draft
 phases:
   - alpha
@@ -62,7 +63,7 @@ Access to the source code enables support to be sourced from a number of indepen
 
 ## Security and open source
 
-Keys, passwords and other secrets need to be stored safely and securely away from source code following [Kerckhoffs's principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle). Whilst it is possible to publish a project initially built in private, coding in the open means confronting this separation of concerns early during development. 
+Keys, passwords and other secrets need to be stored safely and securely away from source code following [Kerckhoffs' principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle). Whilst it is possible to publish a project initially built in private, coding in the open means confronting this separation of concerns early during development. 
 
 This separation of project code from deployed instances of a project is good development practice, and using open source enables developers to easily fork and experiment with multiple development, and operations to quickly spin-up multiple test and integration environments without encountering limits of licensing.
 
