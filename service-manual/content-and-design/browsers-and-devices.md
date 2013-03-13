@@ -5,8 +5,8 @@ subtitle: Which ones to test with, and how best to support them
 category: content-and-design
 type: guide
 audience:
-  primary: designers, web-ops, developers, tech-archs, user-researchers, qa
-  secondary: service-managers, delivery-managers, performance-analysts, content-designers 
+  primary: designers, web-ops, developers, tech-archs, user-researchers, qa, service-managers
+  secondary: delivery-managers, performance-analysts, content-designers 
 status: draft
 phases:
   - beta
