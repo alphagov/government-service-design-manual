@@ -1,5 +1,5 @@
 ---
-layout: phases
+layout: detailed-guidance
 title: Discovery
 class: discovery-phase
 category: guidance

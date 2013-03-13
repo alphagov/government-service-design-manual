@@ -1,5 +1,5 @@
 ---
-layout: phases
+layout: detailed-guidance
 title: Live
 class: live-phase
 category: guidance

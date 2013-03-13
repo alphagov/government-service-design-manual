@@ -1,5 +1,5 @@
 ---
-layout: phases
+layout: detailed-guidance
 title: Alpha
 class: alpha-phase
 category: guidance

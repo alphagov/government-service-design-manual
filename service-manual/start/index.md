@@ -1,5 +1,5 @@
 ---
-layout: category-index
+layout: detailed-guidance
 title: Start building digital by default services 
 category: home
 status: draft

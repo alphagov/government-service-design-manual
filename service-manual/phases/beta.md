@@ -1,5 +1,5 @@
 ---
-layout: phases
+layout: detailed-guidance
 title: Beta
 class: beta-phase
 category: guidance
