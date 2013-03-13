@@ -13,8 +13,8 @@
   }
 
   .dbd-promo {
-    border-top: 3px solid $main-colour;
-    border-bottom: 3px solid $main-colour;
+    border-top: 5px solid $main-colour;
+    border-bottom: 5px solid $main-colour;
     overflow: hidden;
     
     margin: 2em;
@@ -49,11 +49,20 @@
     border-bottom: 3px solid $main-colour;
 
     h2 {
-      @include bold-36;
+      // @include bold-36;
+      a {
+        color: $text-colour;
+        text-decoration: none;
+      }
     }
 
     p {
       @include core-24;
+    }
+
+    img {
+      margin: 0 auto;
+      display: block;
     }
   }
 
@@ -61,7 +70,7 @@
     margin: 0 2em;
 
     h2 {
-      @include bold-36;
+      // @include bold-36;
     }
   }
 
@@ -84,7 +93,9 @@
       &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
 
       p {
+        @include core-19;
         width: 75%;
+        margin: 0.75em 0;
       }
 
       h2 {
@@ -95,26 +106,14 @@
           text-decoration: none;
         }
       }
+
+      img {
+        margin: 1em 0 0 0;
+      }
     }
   }
 
-  .outputs {
-    list-style: none;
-    @extend %contain-floats;
-    
-    li {
-      display: block;
-      float: left;
-
-      text-align: center;
-    }
-
-  }
-
-  .article-container {
-    .inner {
-      margin: 0;
-      padding: 0;
-    }
+  .resources {
+    margin: 0 2em;
   }
 }
