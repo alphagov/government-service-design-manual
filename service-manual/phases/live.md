@@ -12,7 +12,7 @@ You've been building a service to meet [users needs](/service-manual/users/user-
 
 ## What does going 'live' mean?
 
-In order to provide a fully resilient service to all end users the service should now meet all [security](/service-manual/making-software/information-security.html) and [performance](/service-manual/measurement) standards. You have [configured your analytics](/service-manual/making-software/analytics-tools.html) to accurately montior the [KPIs](/service-manual/measurement) identified in the building of your service, and you have planned the transition or integration of any existing services.
+In order to provide a fully resilient service to all end users the service should now meet all [security](/service-manual/making-software/information-security.html) and [performance](/service-manual/measurement) standards. You have [configured your analytics](/service-manual/making-software/analytics-tools.html) to accurately monitor the [KPIs](/service-manual/measurement) identified in the building of your service, and you have planned the transition or integration of any existing services.
 
 You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
 
