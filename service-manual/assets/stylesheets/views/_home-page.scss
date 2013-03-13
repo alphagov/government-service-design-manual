@@ -70,6 +70,9 @@
     margin: 0 2em;
     width: 40%;
 
+    border-right: 1px solid $border-colour;
+    padding-right: 4.5em;
+
     h2 {
       // @include bold-36;
     }
