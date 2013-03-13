@@ -8,34 +8,38 @@ status: draft
 css: /gsdm/css/phases.css
 ---
 
+The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through research, workshops and interviews. 
 
-//two para
+Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than a week.
 
-## What is the objective of an ?
+## What is the objective of a discovery process?
 
+The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial protoypes will explore.
 
-## What should be in my ?
+The high level business context will become clear, and you will begin setting targets for your KPIs.
 
+You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decomissioning these.
 
-## How long does it take?
+This information is found through:
+* workshops
+* simple mock ups
+* paper prototypes 
+* plenty of whiteboard diagrams
 
+## How long does it take and who should be part of it?
 
-## Who do I need?
-
+A small team will be required, consisting of your stakeholders and any core team members that have been identified, including the service manager. The phase should not take longer than a week. At the end of the phase a decision should be made whether to proceed to the Alpha phase.
 
 ## What are the outputs?
 
-## [Previously: ](/service-manual/phases/.html)
-## [Next: ](/service-manual/phases/.html)
-
-
-The objective of this short phase is to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be.
-
-This is achieved through research, workshops and interviews. Typical outputs from this phase are a list of user needs, high level wireframes or prototypes and possibly user personas.
-
-A small team will be required and the phase should not take longer than a week. At the end of the phase a decision should be made whether to proceed to the Alpha phase.
-
-### Typical outputs and activities
+You will leave the discovery phase with:
+* a prioritised list of user needs
+* a prioritised list of story cards to feed into project teams
+* understanding of landscape
+* understanding of team and capability required to deliver the project
+* ability to scope & plan an alpha
+* a decision to progress to next phase
+* maybe some rough prototypes
 
 <ul class="phase-activities">
   <li>
@@ -60,75 +64,4 @@ A small team will be required and the phase should not take longer than a week. 
   </li>
 </ul>
 
-
-
-
-
-##Discovery phase
-
-# What is phase for?
-
-Discover at a very high level what the service is for, which user needs it is intended to serve, and what we may need to deliver it
-
-Use various techniques to gain understanding
-- workshops
-- simple mock ups / prototypes 
-- whiteboard diagrams
-
-Provide high level business context
--	service overview
--	key drivers & goals
--	constraints
--		technical, regulatory, legacy, cost etc
-		
-High level understanding of the service
--	high level user needs
--	sketch flows through service
--	sketch domain model
--	legacy interfaces
--	legacy to decommission
--	key metrics
- - number of users
- - number of transactions
-	
-people / partners
--	who owns service?
--	departments / suppliers
--	identify service manager, product manager
-
-##How long does it take?
-workshops, 3 days or so
-
-## Who do I need?
-- # ServiceManager
-- # TechnicalArchitect
-- # representatives of business team
-- # delivery manager
-
-##What are the outputs?
-- high level user needs
-- understanding of landscape
-- understanding of team / capability
-- ability to scope & plan an AlphaPhase
-- Decision to progress to next phase
-- maybe some rough prototypes
-
-##What next?
-Next Phase: [Alpha Phase](/service-manual/phases/alpha.html)
-
-
-#Project inception
-
-Workshop intended to produce:
-- prioritised list of user needs
-- prioritised list of story cards to feed into project teams
-
-#Story cards
-- Should contain "barely sufficient" information, just enough to begin development
-- As an "X" I want "Y" so that "Z"
-
-#Who do I need?
-
-#How long does it take?
-
-#Links / resources
+## [Next: alpha](/service-manual/phases/alpha.html)
