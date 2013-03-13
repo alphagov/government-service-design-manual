@@ -5,7 +5,8 @@ subtitle: How and why we run retrospectives.
 category: agile
 type: guide
 audience:
-  primary: service manager
+  primary: 
+  secondary: service-managers, delivery-managers
 status: draft
 phases:
   - alpha
