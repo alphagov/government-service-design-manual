@@ -5,7 +5,8 @@ subtitle: Early infrastructure needs for agile projects
 category: making-software
 type: guide
 audience:
-  primary: developer, tech-arch
+  primary: designers, delivery-managers, web-ops, developers, tech-archs
+  secondary: service-managers, content-designers, performance-analysts
 status: draft
 phases:
   - alpha
