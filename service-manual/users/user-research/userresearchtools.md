@@ -49,7 +49,7 @@ Subscription tools - [Smart Survey](http://www.smart-survey.co.uk/), [Fluid Surv
 [LiveMinds](http://www.liveminds.co.uk/),
 [VisionsLive](http://www.visionslive.com/)
 
-**Community groups** - Enables in-house research team to manage a community of users and/or stakeholders. These are normally come part of a larger online research tools package. Available tools are below:
+**Community groups** - Enables in-house research team to manage a community of users and/or stakeholders. These normally come part of a larger online research tools package. Available tools are below:
 
 [LiveMinds](http://www.liveminds.co.uk/),
 [Bloomfire](http://www.bloomfire.com/)
