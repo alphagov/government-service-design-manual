@@ -39,7 +39,7 @@ You can select the participants by demographic, socio-economic group, internet u
 
 ## Cost
 
-Using panel companies can be relatively cheap, with a sample of approcimately 400 respondents for a remote usability study costing £1,500 to £2,500.
+Using panel companies can be relatively cheap, with a sample of approximately 400 respondents for a remote usability study costing £1,500 to £2,500.
 
 ## Timescales
 
