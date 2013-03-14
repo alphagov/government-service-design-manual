@@ -31,7 +31,7 @@ A focus group is normally comprised of 6-12 people, although sometimes mini grou
  
 Interviews and discussion groups are both facilitated by a trained moderator using a specially designed topic guide in order to ensure the discussion is focused and keeps on topic. Sessions normally last 1-2 hours and will often involve participants being shown stimulus – e.g. communications materials to inform discussion, and sessions may include interactive techniques e.g. role play scenarios.
  
-##Where/how you might use it
+##Where / how you might use it
  
 Focus groups and 1:1 interviews are useful techniques for exploring and mapping reasons for attitudes and behaviour, understanding how target audiences approach issues or may be encouraged to change. They also enable participants reactions to be monitored, and the moderator to probe on interesting issues when necessary. As stated in the previous section, the presence of a moderator also enables discussions to be focused and kept on track.
  
@@ -39,7 +39,7 @@ Dedicated viewing facilities are often used that enable sessions to be recorded,
  
 The number of groups is often dictated by the budget available, but the average project will have 4 to 6 groups, with larger ones having between 10 and 20. Besides budget, other factors that influence the number of groups used are the number of potential users groups that need to be covered, and the number of geographic areas.
 
-##Weaknesses/when not to use 
+##Weaknesses / when not to use 
 
 Focus groups and 1:1 interviews can be expensive compared with other types of research, while the small samples size means that findings are not statistically significant and it is difficult to generalise across audience groups. Analysis can of the sessions can also be time consuming.
 
