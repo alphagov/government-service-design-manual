@@ -39,9 +39,9 @@ All interviews are conducted in one hour, with the video sessions, and the answe
 
 Rapid 1:1 testing can be used to test both website content, and online services. Each session involves participants completing a series of online tasks to see how they use the website or tool to find information and/or complete transactions. Each participant is then asked a few follow up questions focusing on overall satisfaction with the site and the experience it provided.
  
-The key advantages of remote usability testing are the following:
+The key advantages of remote usability testing are as follows:
  
-* Fits with a agile way of working
+* Fits with an agile way of working
 * Results can be gathered quickly
 * Relatively cheap compared with conducting face to face user testing
 * Removes moderator bias
