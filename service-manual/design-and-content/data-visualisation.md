@@ -107,6 +107,7 @@ c) What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
 
 ###Worked example
 Choosing the correct visualisation is important and at GDS we reviewed what was being used in the performance dashboard. As the example below shows, Pie charts with many items are not clear. We used a stacked bar chart to better represent the data.
+
 ####Before
 ![Bad Pie Chart - Image 6](https://docs.google.com/drawings/pub?id=1LWpYB-dagFps939s7RP9xRvMgqn0UsJcUv_d_RxY8Xc&w=337&h=237)
 
