@@ -29,7 +29,7 @@ This guidance looks at how user surveys can be used to provide user research to 
 
 ##Guidance/Tool
  
-Surveys can be conducted either face to face by a trained moderator or through self-completion (online, postal etc.) in order quantify thoughts/beliefs, behaviours, ownership etc. Surveys comprise of closed ended questions with fixed responses such as ‘yes’, ‘no’, ‘very satisfied’ to very dissatisfied’, ‘excellent’ to ‘poor’ etc, and open ended questions that allow respondents to provide verbatim responses.
+Surveys can be conducted either face to face by a trained moderator or through self-completion (online, postal etc.) in order to quantify thoughts/beliefs, behaviours, ownership etc. Surveys comprise of closed ended questions with fixed responses such as ‘yes’, ‘no’, ‘very satisfied’ to very dissatisfied’, ‘excellent’ to ‘poor’ etc, and open ended questions that allow respondents to provide verbatim responses.
  
 A range of survey methods and delivery channels are available including:
  
