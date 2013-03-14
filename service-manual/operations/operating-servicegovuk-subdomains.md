@@ -19,7 +19,7 @@ breadcrumbs:
 
 While the start and end of a user's journey will be on GOV.UK (ie on gov.uk/transaction-name), the service itself will hosted elsewhere, and will need a different domain name as a result.
 
-> Note: Where the words **MUST**, SHOULD, MAY and MAY NOT appear in this document in capital letters they **MUST** be interpreted as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
+> Note: Where the words **MUST**, SHOULD, MAY and MUST NOT appear in this document in capital letters they **MUST** be interpreted as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 
 ## One entry point
 
@@ -73,7 +73,7 @@ Regardless of the domain name used, web-based services on testing and developmen
 
 ## Cookies
 
-Cookies used on “www.servicename.service.gov.uk” and “admin.servicename.service.gov.uk” **MUST** be scoped to the originating domain only. Cookies MAY NOT be scoped to the domain “servicename.service.gov.uk”.
+Cookies used on “www.servicename.service.gov.uk” and “admin.servicename.service.gov.uk” **MUST** be scoped to the originating domain only. Cookies MUST NOT be scoped to the domain “servicename.service.gov.uk”.
 
 Cookies SHOULD NOT be needed on “assets.servicename.service.gov.uk” (they introduce a browser overhead that slows down the response time for users without providing any benefit for the service owner - more on this at [http://developer.yahoo.com/performance/rules.html#cookie_free](http://developer.yahoo.com/performance/rules.html#cookie_free) ).
 
