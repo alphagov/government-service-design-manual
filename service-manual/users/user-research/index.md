@@ -24,7 +24,7 @@ breadcrumbs:
 
 The following techniques may be useful when conducting user research:
 
-* [card sorting](/service-manual/users/card-sorting.html)
+* [card sorting](https://www.gov.uk/service-manual/users/card-sorting.html)
 * [discussion guides](/service-manual/users/user-research/discussionguides.html)
 * [multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
 * [user research surveys](/service-manual/users/user-research/userresearchsurveys.html)
