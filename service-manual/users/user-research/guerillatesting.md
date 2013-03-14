@@ -42,7 +42,7 @@ Guerilla testing can be used throughout the service lifecycle. As it is cheap to
 
 There are a few logistics that should be taken into consideration before conducting any guerilla testing;
 
-* General: always ask permission first to speak with people, outline briefly what the purpose of the research is about and reassure them about confidentiality
+* General: always ask permission first to speak with people, outline briefly the purpose of the research and reassure them about confidentiality
 * Scope: keep it simple and quick
 * Location: consider the location and set up carefully e.g. a busy train station may have the footfall but people might be in too much of a hurry to spare the time
 * Equipment: for website evaluations, Silverback is an ‘easy to use’ software solution that enables screen capturing and recording. However, whenever recording sessions you must seek permission from the participant first. Provide them with a written consent form for them to sign.
