@@ -85,4 +85,4 @@ Government can’t afford to be elitist and use language only those with a very 
 
 ## Further reading
 
-Neilson: For more detail on why [20-28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
+Nielsen: For more detail on why [20-28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
