@@ -65,7 +65,7 @@ Online tools are a good way in which to conduct in-house research cheaply and ef
 
 ##Weaknesses/when not to use##
 
-Using online research tools in-house can be cheaper that assigning a third party agency to conduct the work, however, as pointed out above, this is dependent of user research teams having adequate resource.
+Using online research tools in-house can be cheaper than assigning a third party agency to conduct the work, however, as pointed out above, this is dependent of user research teams having adequate resource.
 
 ##Number/types of participants##
 
