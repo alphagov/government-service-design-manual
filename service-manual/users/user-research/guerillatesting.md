@@ -66,4 +66,4 @@ Depends on the scope of the service but between 1-2 days (incl conducting sessio
 
 ##GDS Example
 
-16 teenagers evaluated the National Citizen Service website. Sessions were conducted in the canteen of a Further Education college in Nottingham. Usability and editorial findings were discovered and quickly fed back to the development teams. The whole process took 2 days.
+16 teenagers evaluated the National Citizen Service website. Sessions were conducted in the canteen of a further education college in Nottingham. Usability and editorial findings were discovered and quickly fed back to the development teams. The whole process took 2 days.
