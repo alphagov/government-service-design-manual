@@ -79,7 +79,7 @@ Releasing little pieces of code often improves quality and visibility and reduce
 Here’s a few examples of how:
 
 >* releasing working software to your users often allows you to get feedback quickly and hear or see what they think.  If the product is wrong you can easily change direction and iterate.
->* if your software is rarely released to production you are not demonstrating value to your sponsor. You run the risk of creating a “too-big-to-fail” service that isn't fit for public consumption but must be releaesed anyway. That means another press headline!  Ship! Ship! Ship!
+>* if your software is rarely released to production you are not demonstrating value to your sponsor. You run the risk of creating a “too-big-to-fail” service that isn't fit for public consumption but must be released anyway. That means another press headline!  Ship! Ship! Ship!
 >* if your teams’ velocity is consistently volatile, beyond the initial 4-6 sprints, then this is indicative of something that needs fixing.  Perhaps there is hidden complexity or poor estimation.
 >* Test Driven Development (writing tests in code before you develop the features) has a wealth of metrics that highlight quality issues early.  Establish what these are early on, baseline and monitor throughout the project.
 
