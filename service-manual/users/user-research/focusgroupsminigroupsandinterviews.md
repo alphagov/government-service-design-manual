@@ -41,7 +41,7 @@ The number of groups is often dictated by the budget available, but the average 
 
 ##Weaknesses / when not to use 
 
-Focus groups and 1:1 interviews can be expensive compared with other types of research, while the small samples size means that findings are not statistically significant and it is difficult to generalise across audience groups. Analysis can of the sessions can also be time consuming.
+Focus groups and 1:1 interviews can be expensive compared with other types of research, while the small samples size means that findings are not statistically significant and it is difficult to generalise across audience groups. Analysis of the sessions can also be time consuming.
 
 Moderators also need to build a rapport with respondents. If he or she fails to do this, and can’t control the group adequately, it can result in the sessions being dominated by one or two participants, and the biased data collected. 
 
