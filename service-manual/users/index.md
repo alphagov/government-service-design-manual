@@ -57,7 +57,6 @@ The following techniques may be useful when conducting user research
 * [Lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
 * [Focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
 * [Community user groups](/service-manual/users/user-research/communityusergroups.html)
-* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
 * [Remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
 * [Online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
 * [Online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
