@@ -29,7 +29,7 @@ This guidance looks at online Omnibus surveys and how they can be used in user r
 
 ##Guidance
 
-Online Omnibus surveys are an effective way of interviewing a representative number of people, in a short period of time, and for a relatively low cost. Omnibus surveys of this type use an online panel to gather the sample, and as with regular offline Omnibus survey, costs are kept down by collating questions on a variety of subjects, from a number of clients. 
+Online Omnibus surveys are an effective way of interviewing a representative number of people, in a short period of time, and for a relatively low cost. Omnibus surveys of this type use an online panel to gather the sample, and as with regular offline Omnibus surveys, costs are kept down by collating questions on a variety of subjects, from a number of clients. 
 
 ##Where/how you might use it
 
