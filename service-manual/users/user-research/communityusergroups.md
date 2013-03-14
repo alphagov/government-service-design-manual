@@ -35,7 +35,7 @@ Research communities can be used for a wide range of projects such as audience u
 
 The key benefits are:
 
-* speed - question are answered in real time, research team can react rapidly to internal demands
+* speed - questions are answered in real time, research team can react rapidly to internal demands
 * cost - cost effective when up and running 
 * flexibility - offering qualitative and quantitative methodologies
 * availability - a ready pool of pre selected and engaged participants
