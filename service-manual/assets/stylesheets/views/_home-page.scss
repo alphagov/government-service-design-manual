@@ -20,7 +20,7 @@
     margin: 2em 2em 4em 2em;
     
     p {
-      width: 51%;
+      width: 52%;
       margin: 1em 0 1em 0;
       float: left;
 
@@ -63,6 +63,9 @@
 
     a{
       @include core-24;  
+    }
+    .button{
+      @include button($red);
     }
   }
 
