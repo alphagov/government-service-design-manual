@@ -27,7 +27,7 @@ Sentiment analysis is a method used to analyse high volumes of verbatim comments
 
 ##Guidance
 
-The method is very simple and uses tailored software to analyse user comments and structure them in a manner that can be used to understand ‘sentiment’ towards a products or service. This enables positive and negative comments to be grouped so that actions can be assigned to resolves problems and issues raised by users. 
+The method is very simple and uses tailored software to analyse user comments and structure them in a manner that can be used to understand ‘sentiment’ towards a product or service. This enables positive and negative comments to be grouped so that actions can be assigned to resolves problems and issues raised by users. 
 
 ##Weaknesses/When not to be used
 
