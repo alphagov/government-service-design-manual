@@ -37,7 +37,7 @@ Omnibus panels are ideal when you have key questions that you want answering, an
 
 ##Weaknesses/when not to use
 
-A Omnibus survey is not appropriate when there are too many questions required. This would result in the survey being too long (combined with questions from other clients).
+An Omnibus survey is not appropriate when there are too many questions required. This would result in the survey being too long (combined with questions from other clients).
 
 ##No./Types of participants
 
