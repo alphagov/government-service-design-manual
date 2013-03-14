@@ -24,7 +24,7 @@ breadcrumbs:
 
 The following techniques may be useful when conducting user research:
 
-* [card sorting](‰/service-manual/users/card-sorting.html)
+* [card sorting](/service-manual/users/card-sorting.html)
 * [discussion guides](/service-manual/users/user-research/discussionguides.html)
 * [multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
 * [user research surveys](/service-manual/users/user-research/userresearchsurveys.html)
@@ -39,7 +39,6 @@ The following techniques may be useful when conducting user research:
 * [lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
 * [focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
 * [community user groups](/service-manual/users/user-research/communityusergroups.html)
-* [user research surveys](/service-manual/users/user-research/userresearchsurveys.html)
 * [remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
 * [online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
 * [online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
