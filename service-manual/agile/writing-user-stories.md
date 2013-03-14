@@ -50,7 +50,7 @@ Story cards follow a standard structure – title, actor, narrative and goal. Th
 
 Building useful software systems is hard. How can we make sure we're solving the right problem? Developers love solving problems and playing around with technology, so it can be tempting to dive in to solutions before really understanding the problem. 
 
-Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If we dive into the solution without a good understanding our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
+Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If we dive into the solution without a good understanding of our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
 
 You can also use this goal to help you decide whether the story is "done" or delivered. i.e. Does the work that's been done meet the goal? 
 
