@@ -34,7 +34,7 @@ There are number of good tools that can help user research teams conduct in-hous
 Free tools - [Survey Monkey](http://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/),
 Subscription tools - [Smart Survey](http://www.smart-survey.co.uk/), [Fluid Surveys](http://fluidsurveys.com/)
 
-**Remote user testing tools** - These tools enable user research teams to conduct remote usability testing in-house. These tools allow you to script the surveys easily, while also conduct the analysis to be conducted relatively simply and quickly. Most of these tools also enable you to conduct standard online survey within the same software package. Available tools are below:
+**Remote user testing tools** - These tools enable user research teams to conduct remote usability testing in-house. These tools allow you to script the surveys easily, while also conduct the analysis to be conducted relatively simply and quickly. Most of these tools also enable you to conduct standard online surveys within the same software package. Available tools are below:
 
 [Keynote Webeffective](http://www.keynote.com/products/customer_experience/web_ux_research_tools/webeffective.html),
 [User Zoom](http://www.userzoom.co.uk/)
