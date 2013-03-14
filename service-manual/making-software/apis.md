@@ -24,8 +24,6 @@ Martha Lane Fox's report report called for government to act as a "wholesaler as
 
 This section is a set of guiding principles for exposing a digital service as an API.
 
-{% include _toc.md %}
-
 ##Guidance
 
 ###Build an API by building with the API
