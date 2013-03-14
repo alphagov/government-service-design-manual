@@ -36,7 +36,7 @@ Anyone on the service team can conduct ‘guerilla testing’ on their site or s
 
 This approach also does away with any lengthy reporting back. Insights can be observed, taken away and fed back into the design process almost immediately. However, a brief summary with key findings and recommendations can be written up as a more formal record. It is a method that suits the ‘agile framework’ well.
 
-##Where/how you might use it
+##Where / how you might use it
 
 Guerilla testing can be used throughout the service lifecycle. As it is cheap to set up, run and report back on, it is a method that can be used frequently.
 
@@ -48,7 +48,7 @@ There are a few logistics that should be taken into consideration before conduct
 * Equipment: for website evaluations, Silverback is an ‘easy to use’ software solution that enables screen capturing and recording. However, whenever recording sessions you must seek permission from the participant first. Provide them with a written consent form for them to sign.
 * Incentives: providing incentives for audience participation is not required or necessary. However, depending on where you are running your sessions chocolates are always a welcome ‘thank you’ for peoples’ time.
 
-##Weaknesses/when not to use
+##Weaknesses / when not to use
 
 The key weakness of guerilla testing as a research method it that is not statistically robust and participants may not always match your ‘target’ audience in terms of skills, expertise, knowledge.
 
