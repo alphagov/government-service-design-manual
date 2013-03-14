@@ -18,7 +18,7 @@ breadcrumbs:
 
 The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014. 
 
-Services must meet the standard before they are launched on [GOV.UK](http://gov.uk). A draft version is set out below. It will be agreed and set in April 2013.
+Services must meet the standard before they are launched on [GOV.UK](https://www.gov.uk). A draft version is set out below. It will be agreed and set in April 2013.
 
 ## The Digital by Default Service Standard
 
