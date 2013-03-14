@@ -33,7 +33,7 @@ In preparation for a focus group / 1:1 interviews it is helpful to generate a li
 
 As suggested by the name, discussion guides should be used as a guide to the discussion, and in comparison with a structured questionnaire, questions and areas for coverage should not read out verbatim. This enables the discussion to be led by respondents’ own experience.
 
-Typically each section of the guide would include time guidance to ensure all areas can be covered and it should also indicate when stimulus is being used, and specifics participants’ tasks.
+Typically each section of the guide would include time guidance to ensure all areas can be covered and it should also indicate when stimulus is being used, and specify participants’ tasks.
 
 ##Example
 
