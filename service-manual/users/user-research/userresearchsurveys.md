@@ -57,7 +57,7 @@ Although surveys can be a quick and cheap manner in which to conduct user resear
  
 ##Participants
  
-All survey, regardless of methodology should use a robust sample that is nationally representative/representative of audience of interest. Most nationally representative surveys are 1,000 people or more, but can be significantly larger if there are a number of distinct user groups that are being targeted.
+All surveys, regardless of methodology should use a robust sample that is nationally representative/representative of audience of interest. Most nationally representative surveys are 1,000 people or more, but can be significantly larger if there are a number of distinct user groups that are being targeted.
  
 It is important that the delivery channel used considers the target audience. For example in the recent Digital Landscape research an online and face-to-face methodology was used as online and offline audiences needed to be interviewed - an online only methodology would have excluded those who are offline, and the opinions on this audience omitted from the research
  
