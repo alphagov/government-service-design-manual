@@ -50,7 +50,7 @@ There are a few logistics that should be taken into consideration before conduct
 
 ##Weaknesses/when not to use
 
-The key weaknesses of guerilla testing is that as a research method it is not statistically robust and the participants may not always match your ‘target’ audience in terms of skills, expertise, knowledge.
+The key weakness of guerilla testing as a research method it that is not statistically robust and participants may not always match your ‘target’ audience in terms of skills, expertise, knowledge.
 
 ##No./Types of participants
 
