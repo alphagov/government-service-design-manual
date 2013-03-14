@@ -27,7 +27,7 @@ Expert reviews  - also known as heuristic evaluations - are low cost usability m
 
 Ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager. A list of widely accepted (although not necessarily validated) heuristics are provided by [Jakob Nielsen](http://www.useit.com) or an alternative set can be found in the [International Standard ISO 9241](http://en.wikipedia.org/wiki/ISO_9241).
 
-### Cognitive walkthrough
+## Cognitive walkthrough
 
 A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).  
 
