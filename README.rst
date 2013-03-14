@@ -86,4 +86,4 @@ For longer pages you may want to add a table of contents.
 
 Just add this line after your intro paragraph:
 
-{% include _toc.md %}
+  {% include _toc.md %}
