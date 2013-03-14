@@ -52,7 +52,7 @@ There are a few logistics that should be taken into consideration before conduct
 
 The key weakness of guerilla testing as a research method it that is not statistically robust and participants may not always match your ‘target’ audience in terms of skills, expertise, knowledge.
 
-##No./Types of participants
+##Number / types of participants
 
 This can vary from between 6-12 participants in any given round of guerilla testing. It is very much dependent on where and when those sessions are conducted.
 
