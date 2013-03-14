@@ -53,7 +53,7 @@ Although surveys can be a quick and cheap manner in which to conduct user resear
  
 * Normally don’t allow much time or context for considered replies.
 * Questions can be misunderstood – surveys need to be designed carefully to avoid this.
-* Completion bias – one common criticism of some types of surveys is that they are only completed by people who have something to say e.g. are either very satisfied or very dissatisfied. This can be over come via conduct face to face interviews and/or sophisticated sampling techniques, although this is normally expensive. 
+* Completion bias – one common criticism of some types of surveys is that they are only completed by people who have something to say e.g. are either very satisfied or very dissatisfied. This can be overcome via face to face interviews and / or sophisticated sampling techniques, although this is normally expensive. 
  
 ##Participants
  
