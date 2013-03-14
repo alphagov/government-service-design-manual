@@ -44,7 +44,7 @@ Subscription tools - [Smart Survey](http://www.smart-survey.co.uk/), [Fluid Surv
 [User Zoom](http://www.userzoom.co.uk/),
 [Optimal Workshop](http://www.optimalworkshop.com/optimalsort.htm)
 
-**Online focus groups** - Enable in-house research teams to conduct focus groups online Most also enable you to run 1:1 sessions, auto ethnography, diary studies, and micro communities. Available tools are below:
+**Online focus groups** - Enable in-house research teams to conduct focus groups online. Most also enable you to run 1:1 sessions, auto ethnography, diary studies, and micro communities. Available tools are below:
 
 [LiveMinds](http://www.liveminds.co.uk/),
 [VisionsLive](http://www.visionslive.com/)
