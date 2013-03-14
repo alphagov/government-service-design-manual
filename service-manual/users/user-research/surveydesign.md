@@ -35,7 +35,7 @@ Screener questions should be placed at the beginning of surveys to ensure that t
  
 * Introduction – purpose of the survey, why it’s important that people take part.
 * Screener questions – questions that ensure the correct people complete the survey e.g. demographic, reasons for visiting
-* KPI questions – questions that benchmark performance e.g. satisfaction, recommendation, find what they wanted etc (LINK TO ADAMS SECTION ON KPIs)
+* KPI questions – [questions that benchmark performance](/service-manual/measurement/index.html) e.g. satisfaction, recommendation.
 * Follow up demographic questions – additional respondent information e.g. working/not working, salary, location etc
  
 **Common survey question types**
