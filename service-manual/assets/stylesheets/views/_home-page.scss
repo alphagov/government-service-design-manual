@@ -83,13 +83,14 @@
     list-style: none;
     padding: 0;
 
-    h2 {
-      @include bold-36;
-    }
-
     li {
       display: block;
-      padding: 0.5em 0 2em $gutter*2.5;
+      padding: 0 0 0.7em $gutter*2.5;
+
+      &:first-child{
+        padding-top: 0.5em;
+      }
+
 
       &.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
       &.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
@@ -97,9 +98,11 @@
       &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
 
       p {
-        @include core-19;
-        //width: 75%;
+        @include core-16;
         margin: 0.75em 0;
+        a{
+          @include core-19;
+        }
       }
 
       h2 {
@@ -108,6 +111,7 @@
         a {
           color: $text-colour;
           text-decoration: none;
+          font-weight: bold;
         }
       }
 
@@ -136,7 +140,7 @@
       a, p{
         padding: 0;
         border: none;
-        @include core-24;
+        @include core-19;
       }
     }
   }
