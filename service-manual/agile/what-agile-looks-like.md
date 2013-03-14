@@ -31,7 +31,7 @@ This short guide lists a few of the behaviours common to agile projects that sup
 ## Understand your users 
 
 
-![Real people will use your product](http://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
+![Real people will use your product](https://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
 
 
 Prioritise features for them over everyone else -- including your big, scary stakeholders, and seek their feedback early and often.  Really listen to them.  Even when they tell you things you don’t want to hear or disagree with.  If possible, use data from real people using your product to influence the direction of the project. Your focus on the user should be relentless.
@@ -39,7 +39,7 @@ Prioritise features for them over everyone else -- including your big, scary sta
 ## “What do you want next Friday? What have we learned last week?”
 
 
-![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](http://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
+![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
 
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
@@ -54,7 +54,7 @@ The software and the team continue to learn through delivery and iterate and imp
 
 ## Small, agile teams
 
-![The unit of delivery is the team](http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
+![The unit of delivery is the team](https://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
 
 Small teams of between five to ten people are often more productive and predictable than larger teams. Forget man-days and think about the team as the unit of delivery.  
 
@@ -72,7 +72,7 @@ A good team can estimate their output, or velocity, very effectively and consist
 
 ## Fail fast
 
-![Failing, so fix it!](http://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
+![Failing, so fix it!](https://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
 
 Releasing little pieces of code often improves quality and visibility and reduces cost to market, but using agile techniques does not guarantee success. You can still fail!  What agile methodologies do allow you to do is to spot problems earlier and resolve them.  
 
@@ -87,7 +87,7 @@ Don’t be afraid to fail or experiment.  Learn to fail, and create a culture th
 
 ##Continuous Planning
 
-![Planning session](http://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
+![Planning session](https://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
 
 It’s a myth that you don’t plan on agile projects.  The freedom of agile projects does not come free: you have to plan.  You just plan differently and continuously.
 
@@ -102,7 +102,7 @@ These plans are usually reviewed after every sprint and adjusted based on “the
 
 ##Bad smells
 
-![Do go here!](http://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
+![Do go here!](https://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
 
 Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  They have a bad smell about them and undermine your project and its chances of success.
 

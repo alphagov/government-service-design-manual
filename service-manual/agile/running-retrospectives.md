@@ -26,7 +26,7 @@ One of the central principles of agile is quick feedback loops - we want to demo
 ## What is a retrospective?
 
 {:.left}
-![X-prop retrospective](http://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
+![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
 A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
 
@@ -66,7 +66,7 @@ Working agreements might include:
 ## Outcomes of a retrospective
 
 {:.left}
-![Retrospective Sections](http://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
+![Retrospective Sections](https://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
 The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
 
@@ -99,7 +99,7 @@ Explaining the scope, and if necessary, purpose. If the team don't know each oth
 Make sure they have been completed. If not, find out why not. Do they still need to be done? If so, why have they not been? Set a new deadline if necessary, but it's not ideal to keep carrying actions over.
 
 {:.left}
-![A Bad](http://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
+![A Bad](https://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
 
 ### 00:10 to 00:20 (10 mins) The Good
 
@@ -120,7 +120,7 @@ Give the team around 15 minutes to write post-its for anything that went badly.
 Again, group the post-its and prioritise if necessary, and discuss the main areas. Can we work out why these things went badly? Can we work out what we need to do to improve matters, or prevent specific things happening again? Can we draw out specific actions that someone here can take that will help?
 
 {:.left}
-![Post-its](http://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
+![Post-its](https://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
 
 ### 01:05 to 01:20 (15 mins) Actions
 

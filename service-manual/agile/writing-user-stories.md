@@ -27,7 +27,7 @@ User stories are an essential part of the agile toolkit, a way of organising wor
 ## Story cards
 
 {:.left}
-![A user story index card](http://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
+![A user story index card](https://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
 
 A user story is represented by a story card with a title and a few lines of text.
 
