@@ -42,7 +42,7 @@ You will be using research to test your assumptions throughout the design, build
 The following techniques may be useful when conducting user research
 
 {: .link-list}
-* [Card sorting](‰/service-manual/users/card-sorting.html)
+* [Card sorting](/service-manual/users/card-sorting.html)
 * [Discussion guides](/service-manual/users/user-research/discussionguides.html)
 * [Multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
 * [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
