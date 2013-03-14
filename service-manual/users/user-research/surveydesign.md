@@ -81,7 +81,7 @@ Q. The site was easy to use
 *  Strongly disagree
 *  Don't know
  
-Once the have decided on the questions that you want to be include, it is necessary to set up the question logic so that respondents are routed through the questionnaire correctly.
+Once you have decided on the questions that you want to be included, it is necessary to set up the question logic so that respondents are routed through the questionnaire correctly.
  
 It is recommended that all surveys are tested thoroughly to ensure the correct data data is collected.
 
