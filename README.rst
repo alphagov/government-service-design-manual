@@ -5,6 +5,19 @@ This is the repository for the UK Government's guidance and standards for develo
 
 The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassified](http://sass-lang.com).
 
+Running the app yourself
+========================
+
+First install dependencies using bundler:
+
+  $ bundle install
+
+To start the app:
+
+  $ bundle exec jekyll --server --auto
+
+This will compile the site and make it available on [http://localhost:4000/service-manual](http://localhost:4000/service-manual). Changes will be reloaded without a restart.
+
 YAML page meta data schema
 ==========================
 
