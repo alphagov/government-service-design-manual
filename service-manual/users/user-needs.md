@@ -38,7 +38,7 @@ That's an important distinction, because it means that you'll be able to more me
 
 You need to set the boundaries of what your service can and should offer, to prevent a bottomless list of user needs. 
 
-This is especially true of a government website such as [GOV.UK](https://gov.uk/). As well as identifying user needs, we identified which of those needs the government must answer. This led to the ‘It’s in if...’ criteria:
+This is especially true of a government website such as [GOV.UK](https://www.gov.uk/). As well as identifying user needs, we identified which of those needs the government must answer. This led to the ‘It’s in if...’ criteria:
 
 - it’s something that only the government does
 - there is clear demand for it from users (ie. through search and traffic logs) or the government is legally obliged to provide it
