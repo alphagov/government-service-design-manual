@@ -21,6 +21,7 @@ The high level business context will become clear, and you will begin setting ta
 You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decomissioning these.
 
 This information is found through:
+
 * workshops
 * simple mock ups
 * paper prototypes 
@@ -33,6 +34,7 @@ This information is found through:
 ## What are the outputs?
 
 You will leave the discovery phase with:
+
 * a prioritised list of [user needs](/service-manual/users/user-needs.html)
 * a prioritised list of [story cards](/service-manual/agile/writing-user-stories.html) to feed into project teams
 * understanding of landscape
