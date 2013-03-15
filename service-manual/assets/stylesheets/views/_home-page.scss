@@ -17,14 +17,14 @@
     border-bottom: 5px solid $main-colour;
     overflow: hidden;
     
-    margin: 2em;
+    margin: 2em 2em 4em 2em;
     
     p {
-      width: 51%;
+      width: 52%;
       margin: 1em 0 1em 0;
       float: left;
 
-      @include core-19;
+      @include core-24;
       line-height: 1.5em;
     }
     
@@ -35,8 +35,8 @@
     .logo {
       display: block;
       float: right;
-      padding: 1.5em 0 1em 1.5em;
-      width: 44%;
+      padding: 1.8em 0 1em 1.5em;
+      width: 42.5%;
       img{
         width: 100%;
       }
@@ -44,30 +44,37 @@
   }
 
   .intro {
+    float: right;
+    width: 40%;
     margin: 0 2em 2em 2em;
-    padding: 0 0 2em 0;
+    padding: 0 0 1em 0;
     border-bottom: 3px solid $main-colour;
 
-    h2 {
-      // @include bold-36;
-      a {
-        color: $text-colour;
-        text-decoration: none;
-      }
-    }
-
-    p {
-      @include core-24;
+    h2{
+       margin-top: 0;
     }
 
     img {
       margin: 0 auto;
       display: block;
+      float: right;
+      width: 30%;
+    }
+
+    a{
+      @include core-24;  
+    }
+    .button{
+      @include button($red);
     }
   }
 
   .service-life {
     margin: 0 2em;
+    width: 40%;
+
+    border-right: 1px solid $border-colour;
+    padding-right: 4.5em;
 
     h2 {
       // @include bold-36;
@@ -79,13 +86,14 @@
     list-style: none;
     padding: 0;
 
-    h2 {
-      @include bold-36;
-    }
-
     li {
       display: block;
-      padding: 0.5em 0 2em $gutter*2.5;
+      padding: 0 0 0.7em $gutter*2.5;
+
+      &:first-child{
+        padding-top: 0.5em;
+      }
+
 
       &.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
       &.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
@@ -93,9 +101,11 @@
       &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
 
       p {
-        @include core-19;
-        width: 75%;
+        @include core-16;
         margin: 0.75em 0;
+        a{
+          @include core-19;
+        }
       }
 
       h2 {
@@ -104,16 +114,37 @@
         a {
           color: $text-colour;
           text-decoration: none;
+          font-weight: bold;
         }
       }
 
       img {
         margin: 1em 0 0 0;
+        display: none;
       }
     }
   }
 
   .resources {
     margin: 0 2em;
+  }
+
+  #roles{
+    margin-top: 1.5em;
+    border-top: 3px solid #DF3034;
+    h3{
+      @include heading-24;
+      font-weight: bold;
+    }
+    .roles {
+      li{
+        width: 100%;
+      }
+      a, p{
+        padding: 0;
+        border: none;
+        @include core-19;
+      }
+    }
   }
 }
