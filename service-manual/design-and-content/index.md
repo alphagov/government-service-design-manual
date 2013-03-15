@@ -23,7 +23,7 @@ People come to GOV.UK with specific needs. Anything that gets between our users 
 
 ## GOV.UK design principles
 
-Whether your designing content, interfaces or whole services for GOV.UK, you should start by reading our 10 design principles. They're easy to remember, and if you keep them in mind whilst you're working they'll guide you towards the kind of results we need for GOV.UK.
+Whether you're designing content, interfaces or whole services for GOV.UK, you should start by reading our 10 design principles. They're easy to remember, and if you keep them in mind whilst you're working they'll guide you towards the kind of results we need for GOV.UK.
 
 [Read the GOV.UK design principles](https://www.gov.uk/designprinciples)
 
