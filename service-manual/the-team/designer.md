@@ -28,7 +28,7 @@ As a result, the people you hire should already have worked like this, or at lea
 When building a team ask to see examples of work and ask the designers to talk you through their contribution. Avoid CVs that emphasise the terms “ux” and “creative”. Especially avoid “creative directors”. These people are probably not a good fit for your team.
 
 ## Job description templates
-See an [example of a designer job description](/service-manual/designer-jd.html)provided by GDS.
+See an [example of a designer job description](/service-manual/the-team/designer-jd.html)provided by GDS.
 
 ##Further reading
 [Specific guidance for designers working on digital by default services](/service-manual/designers).
