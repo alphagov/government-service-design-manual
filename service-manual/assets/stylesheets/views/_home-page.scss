@@ -13,40 +13,63 @@
   }
 
   .dbd-promo {
-    border-top: 5px solid $main-colour;
     border-bottom: 5px solid $main-colour;
     overflow: hidden;
     
-    margin: 2em 2em 4em 2em;
+    margin: 2em;
     
     p {
-      width: 52%;
-      margin: 1em 0 1em 0;
+      margin: 1em 0;
       float: left;
 
       @include core-24;
-      line-height: 1.5em;
+
+      @include media(tablet) {
+        width: 50%;
+      }
     }
     
-    strong {
-      display: block;
-    }
-
     .logo {
       display: block;
-      float: right;
-      padding: 1.8em 0 1em 1.5em;
-      width: 42.5%;
+      padding: 0;
+      margin: 0;
+
+      @include media(tablet) {
+        float: right;
+        width: 50%;
+
+        a {
+          display: block;
+          padding: 1.5em 0 0 1em;
+        }
+      }
+
       img{
         width: 100%;
       }
     }
   }
 
+  .homepage-column {
+    @include media(tablet) {
+      width: 50%;
+      float: left;
+
+      &:last-child {
+        .inner {
+          border-left: 1px solid $border-colour;
+        }
+      }
+    }
+
+    .inner {
+      padding: 0 2em;
+      margin-bottom: 2em;
+    }
+  }
+
   .intro {
-    float: right;
-    width: 40%;
-    margin: 0 2em 2em 2em;
+    margin: 0 0 2em 0;
     padding: 0 0 1em 0;
     border-bottom: 3px solid $main-colour;
 
@@ -62,7 +85,7 @@
     }
 
     a{
-      @include core-24;  
+      @include bold-19;
     }
     .button{
       @include button($red);
@@ -70,13 +93,10 @@
   }
 
   .service-life {
-    margin: 0 2em;
-    width: 40%;
-
-    border-right: 1px solid $border-colour;
-    padding-right: 4.5em;
-
+    margin: 0;
+    
     h2 {
+      margin-top: 0;
       // @include bold-36;
     }
   }
@@ -89,6 +109,7 @@
     li {
       display: block;
       padding: 0 0 0.7em $gutter*2.5;
+      margin: 0;
 
       &:first-child{
         padding-top: 0.5em;
@@ -103,7 +124,7 @@
       p {
         @include core-16;
         margin: 0.75em 0;
-        a{
+        a {
           @include core-19;
         }
       }
