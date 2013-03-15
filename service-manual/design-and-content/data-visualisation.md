@@ -45,10 +45,10 @@ But visualisations often are the right answer and the data is the most important
 
 
 ### Checklist
-a) Who are your audience?
-b) How much detail do they need?
-c) What story does the data tell?
-d) Do you need a visualisation?
+1. Who are your audience?
+2. How much detail do they need?
+3. What story does the data tell?
+4. Do you need a visualisation?
 
 ## Choosing your visualisation and templates
 
@@ -101,9 +101,9 @@ Strengths - relationships between **variables** where there are **many items** (
 There is more help on choosing the right chart [here](http://www.verstaresearch.com/types-of-charts.jpg). It is important to not confuse your audience.
 
 ###Checklist
-a) What visualisations are available?
-b) Have you chosen the right visualisation for the data?
-c) What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
+1. What visualisations are available?
+2. Have you chosen the right visualisation for the data?
+3. What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
 
 ###Worked example
 Choosing the correct visualisation is important and at GDS we reviewed what was being used in the performance dashboard. As the example below shows, Pie charts with many items are not clear. We used a stacked bar chart to better represent the data.
@@ -154,12 +154,12 @@ Poor colour choice can change how the data is perceived in a visualisation. For 
 Colour blindness makes it difficult for a user to differentiate between data sets. Labelling charts directly and different line styles can help. If your visualisations are likely to be printed it is important the colours work in greyscale as not all users will have high quality printers.
 
 ###Checklist
-a) Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?
-b) Have you got the right amount of supporting information?
-c) Have you got the right amount of data?
-d) Have you used the GDS colour palette?
-e) Will the colours work for people with colour blindness or greyscale?
-f) Are your colours appropriate for the data?
+1. Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?
+2. Have you got the right amount of supporting information?
+3. Have you got the right amount of data?
+4. Have you used the GDS colour palette?
+5. Will the colours work for people with colour blindness or greyscale?
+6. Are your colours appropriate for the data?
 
 ###Worked Example - GDS Performance Dashboard
 The example below from GDS' senior management dashboard shows how avoiding chart junk and limiting the number of datasets can enhance your visualisation.
@@ -184,10 +184,10 @@ Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov
 When presenting data be aware of axes and scales. Data can be misrepresented by only showing a selection if it is not clear why an extract has been chosen. Consider where the visualisation might be published. For example, if published alongside other visualisations the reader is likely to assume the scales are consistent. This might change how your data is perceived.
 
 ###Checklist
-a) Have you referenced data with a URL?
-b) Have you provided contact details (e.g. a mailto link)?
-c) Is it clear whether data is internal or public?
-d) Have you been open and transparent with data?
+1. Have you referenced data with a URL?
+2. Have you provided contact details (e.g. a mailto link)?
+3. Is it clear whether data is internal or public?
+4. Have you been open and transparent with data?
 
 ###Worked example
 
