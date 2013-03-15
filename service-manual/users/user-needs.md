@@ -30,7 +30,7 @@ Any thinking about a service, whether online or offline, must start with the que
 
 Defining a user need must be strict and honest. For GDS, it’s the need the *user* has of government, not the need of government to impart information to the user.
 
-That's an important distinction, because it means that you'll be able to more measure the success of your services and iteratively improve them to meet the needs of the people who will make usew of them.
+That's an important distinction, because it means that you'll be able to more measure the success of your services and iteratively improve them to meet the needs of the people who will make use of them.
 
 ## Work out your proposition
 
