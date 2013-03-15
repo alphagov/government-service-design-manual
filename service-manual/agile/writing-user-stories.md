@@ -54,7 +54,7 @@ Agile methodologies emphasise an outside-in approach – what outcome is your se
 
 You can also use this goal to help you decide whether the story is "done" or delivered. i.e. Does the work that's been done meet the goal? 
 
-As a service manager writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? [Suzanne and James Robertson have excellent advice on this](http://www.jconne.com/agile1whatisit/). 
+As a service manager writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? Suzanne and James Robertson have excellent advice on this in Mastering the Requirements Process ([reference 1](#references)).
 
 Being specific about the **ACTOR** can help you to break down interactions into logical chunks. Sometimes the actor will be a user of your service. Sometimes the actor will be an administrator, technician or manager within your organisation. Hopefully you already have a good understanding of your users from preliminary project work or existing research. If not, make sure you take the time to develop that understanding.
 
