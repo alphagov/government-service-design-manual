@@ -41,7 +41,7 @@ For all new digital government services going live from 1 April 2013 the GDS wil
 
 The process of obtaining a service.gov.uk sub-domain begins either when the service manager asks a GDS product manager for a start page on GOV.UK (for services already under development at 13 March 2013) or when the service manager asks for a sub-domain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Sub-domains of service.gov.uk SHOULD describe the service (eg lastingpowerofattorney.service.gov.uk) and SHOULD NOT contain the name of the service owning department or agency (eg ministryofmagicwandregistration.service.gov.uk)
 
-The service-owning dept/agency will be given delegated authority to manage the domain and its sub-domains, although in some cases this work will be carried out third party suppliers.
+The service-owning dept/agency will be given delegated authority to manage the domain and its sub-domains, although in some cases this work will be carried out by third party suppliers.
 
 ## Sub-Domains
 
