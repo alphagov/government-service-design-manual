@@ -3,10 +3,10 @@ Government Service Design Manual
 
 This is the repository for the UK Government's guidance and standards for developing digital services and contains both the assets and the content for the site.
 
-The site is built using Jekyll__, and the CSS is Sassified__.
+The site is built using Jekyll_, and the CSS is Sassified_.
 
-.. __: http://jekyllrb.com/
-.. __: http://sass-lang.com
+.. _Jekyll: http://jekyllrb.com/
+.. _Sassified: http://sass-lang.com
 
 Running the app yourself
 ========================
@@ -19,9 +19,9 @@ To start the app:
 
   $ bundle exec jekyll --server --auto
 
-This will compile the site and make it available on `http://localhost:4000/service-manual`__. Changes will be reloaded without a restart.
+This will compile the site and make it available on `http://localhost:4000/service-manual`_. Changes will be reloaded without a restart.
 
-.. __: http://localhost:4000/service-manual
+.. _`http://localhost:4000/service-manual`: http://localhost:4000/service-manual
 
 YAML page meta data schema
 ==========================
