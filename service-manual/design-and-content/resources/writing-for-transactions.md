@@ -91,11 +91,15 @@ It's better to ask a few questions up front (and explain why you're doing this) 
 
 ## Transaction end pages
 
-The end point of any transaction should be a page on the GOV.UK domain. These pages should:
+The end point of any transaction should be a page on the GOV.UK domain.
 
-1) Let the user know that they have successfully completed the transaction
-2) If further actions are required, let the users know what they are
-3) If no further actions are required, point users in the direction of other relevant information and services
+These pages should let the user know:
+
+* that they have successfully completed the transaction
+* what further actions they need to perform, and when
+* what further actions they can expect from the service, and when
+* who they should contact with any queries or complaints
+* about any related information and services
 
 ##Further reading
 [Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle )
