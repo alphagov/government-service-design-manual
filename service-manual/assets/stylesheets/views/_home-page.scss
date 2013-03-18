@@ -54,11 +54,21 @@
     @include media(tablet) {
       width: 50%;
       float: left;
+    }
 
-      &:last-child {
-        .inner {
-          border-left: 1px solid $border-colour;
-        }
+    .inner {
+      padding: 0 2em;
+      margin-bottom: 2em;
+    }
+  }
+
+  .timeline {
+    @include media(tablet) {
+      width: 50%;
+      float: right;
+
+      .inner {
+        border-left: 1px solid $border-colour;
       }
     }
 
@@ -151,12 +161,17 @@
   }
 
   #roles{
-    margin-top: 1.5em;
     border-top: 3px solid #DF3034;
-    h3{
-      @include heading-24;
-      font-weight: bold;
+
+    @include media(tablet) {
+      border-top: none;
     }
+
+    h3{
+      @include bold-24;
+      margin-top: 0;
+    }
+
     .roles {
       li{
         width: 100%;
