@@ -16,7 +16,11 @@
     border-bottom: 5px solid $main-colour;
     overflow: hidden;
     
-    margin: 2em;
+    margin: 2em 1em;
+
+    @include media(desktop) {
+      margin: 2em;
+    }
     
     p {
       margin: 1em 0;
@@ -57,8 +61,13 @@
     }
 
     .inner {
-      padding: 0 2em;
-      margin-bottom: 2em;
+      padding: 0 1em;
+      margin-bottom: 1em;
+
+      @include media(desktop) {
+        padding: 0 2em;
+        margin-bottom: 2em;
+      }
     }
   }
 
@@ -73,8 +82,13 @@
     }
 
     .inner {
-      padding: 0 2em;
-      margin-bottom: 2em;
+      padding: 0 1em;
+      margin-bottom: 1em;
+
+      @include media(desktop) {
+        padding: 0 2em;
+        margin-bottom: 2em;
+      }
     }
   }
 
@@ -161,9 +175,11 @@
   }
 
   #roles{
+    padding-top: 1em;
     border-top: 3px solid #DF3034;
 
     @include media(tablet) {
+      padding-top: 0;
       border-top: none;
     }
 

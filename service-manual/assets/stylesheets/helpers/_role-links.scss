@@ -2,8 +2,11 @@
   @include grid(3);
   a {
     display: block;
-    padding: 0.5em 0;
-    border-top: 3px solid $main-colour;
-    font-size: 16px;
+    @include core-19;
+
+    @include media(desktop) {
+      padding: 0.5em 0;
+      border-top: 3px solid $main-colour;
+    }
   }
 }

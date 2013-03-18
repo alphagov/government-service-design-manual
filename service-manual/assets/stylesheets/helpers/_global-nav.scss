@@ -3,27 +3,21 @@ $nav-active: $black;
 $nav-highlight: $border-colour;
 
 #global-nav {
-  margin: 0 2em;
+  margin: 0 1em;
   border-bottom: $gutter-one-third solid $nav-highlight;
   position: relative;
   z-index: 100;
   text-align:left;
 
-  @include media(tablet){
-    // margin: 0;
-  }
-  
-  @include media(desktop){
+  @include media(desktop) {
+    margin: 0 2em;
     text-align: right;
   }
   
   .inner {
     border-bottom: $gutter-one-sixth solid $nav-active;
-    padding: $gutter-one-sixth 0 2em 0;
+    padding: $gutter-one-sixth 0 0 0;
     @extend %contain-floats;
-    @include media(tablet){
-      padding-bottom: 0;
-    }
   }
 
   a,

@@ -1,7 +1,11 @@
 body.full-width {
   .wide {
     .article-container {
-      margin: 0 2em;
+      margin: 0 1em;
+
+      @include media(desktop) {
+        margin: 0 2em;
+      }
 
       h2 {
         border-bottom: 3px solid $main-colour;
