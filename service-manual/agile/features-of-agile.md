@@ -65,7 +65,7 @@ With bigger teams this can be a hard meeting to get right. Some people want to d
 
 ### Story time
 
-Some teams choose to to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
+Some teams choose to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
 
 Make sure stories are well formed (i.e. don’t skip the “So that...” part because it’s hard), have a good, sensible list of acceptance criteria that supplement your teams’ standing criteria for ‘definition of done’ and are estimated. If stories are too big then split them into smaller stories. They stand more chance of delivering shippable code.
 
