@@ -11,7 +11,15 @@ The site is built using Jekyll_, and the CSS is Sassified_.
 Running the app yourself
 ========================
 
-First install dependencies using bundler:
+Depending on your version of Git, you may need to run these commands to bring in the GOV.UK Frontend Toolkit:
+
+  $ git submodule init
+
+  $ git submodule update
+
+This should import Sass files from the GOV.UK Frontend Toolkit repository into '/service-manual/assets/toolkit/'.
+
+Next, install dependencies using bundler:
 
   $ bundle install
 
