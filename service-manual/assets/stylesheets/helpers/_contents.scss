@@ -1,4 +1,4 @@
-.contents {
+.contents{
   @include media(desktop) {
     width: 25%;
     float: left;
@@ -17,7 +17,7 @@
   nav {
     margin: 0 1em 2em 1em;
     @include media(desktop) {
-      margin: 0 2em;
+      margin: 0 2em 2em 2em;
     }
   }
 
@@ -83,5 +83,17 @@
   top: $gutter-half;
   a {
     display: block;
+  }
+}
+
+.page-tools{
+  ol li a{
+    color: $secondary-text-colour;
+    text-decoration: underline;
+    border: none;
+    padding: 2px 0;
+    &:hover{
+      color: $text-colour;
+    }
   }
 }
