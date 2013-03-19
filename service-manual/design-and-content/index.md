@@ -38,7 +38,7 @@ The [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) tells y
 
 ## Interface design
 
-First read about our approach to [accessibility](/service-manual/design-and-content/accessibility.html). Then, if you're working on the visual side of things there are guides on [typograpy](/service-manual/design-and-content/resources/typography.html) and [colour palettes](/service-manual/design-and-content/resources/colour-palettes.html).
+First read about our approach to [accessibility](/service-manual/design-and-content/accessibility.html). Then, if you're working on the visual side of things there are guides on [typography](/service-manual/design-and-content/resources/typography.html) and [colour palettes](/service-manual/design-and-content/resources/colour-palettes.html).
 
 If you're doing frontend coding you'll want to know about our [shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html) and [Sass repositories](/service-manual/design-and-content/resources/sass-repositories.html). You'll also need to know which [browsers and devices](/service-manual/design-and-content/browsers-and-devices.html) to test with.
 
