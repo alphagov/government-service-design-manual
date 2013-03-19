@@ -58,13 +58,13 @@ Over time, and after many decisions, you can find yourself in a situation where 
 
 Aim to have a clear understanding of the cost or implications of moving away from a technology when you commit to it.
 
-## Build vs. Buy
+## Build versus buy
 
 Where there is an an existing software solution which solves your problem, you should certainly consider using it. By the way; for the purposes of making this decision, making use of a piece of open source is effectively _buying_ that piece of software.
 
 You are more likely to buy in software that fulfils a commodity need. Development tools, build tools, utility libraries, databases and monitoring tools are all examples of software where many projects will have the same need, and it makes little sense to re-invent the wheel. For software that serves a strategic need you are far less likely to find a tool which serves and will continue to serve your needs.
 
-Software which requires customisation to fit your needs is best avoided. The ongoing cost of maintaining this customisation is always greater than you think it's going to be.
+Software that requires customisation to fit your needs is best avoided. The ongoing cost of maintaining this customisation is always greater than you think it's going to be.
 
 ## Why we do this
 
