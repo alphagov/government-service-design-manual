@@ -51,7 +51,7 @@ So-called “Apps” come in several very, very different flavours.
   - Free or paid-for.
   - Persists on the device.
   - Can access all device features
-  - Proprietary code, hence requires completely different software for iPhone/iPad, Android, Blackberry etc.
+  - Requires completely different software for iPhone/iPad, Android, Blackberry etc.
   - Spotify, Angry Birds, Instagram, Skype etc.
 
 #### ‘Native’ App - Pros
