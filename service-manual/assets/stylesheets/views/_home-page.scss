@@ -13,79 +13,135 @@
   }
 
   .dbd-promo {
-    border-top: 5px solid $main-colour;
     border-bottom: 5px solid $main-colour;
     overflow: hidden;
     
-    margin: 2em;
+    margin: 2em 1em;
+
+    @include media(desktop) {
+      margin: 2em;
+    }
     
     p {
-      width: 51%;
-      margin: 1em 0 1em 0;
+      margin: 1em 0;
       float: left;
 
-      @include core-19;
-      line-height: 1.5em;
+      @include core-24;
+
+      @include media(tablet) {
+        width: 50%;
+      }
     }
     
-    strong {
-      display: block;
-    }
-
     .logo {
       display: block;
-      float: right;
-      padding: 1.5em 0 1em 1.5em;
-      width: 44%;
+      padding: 0;
+      margin: 0;
+
+      @include media(tablet) {
+        float: right;
+        width: 50%;
+
+        a {
+          display: block;
+          padding: 1.5em 0 0 1em;
+        }
+      }
+
       img{
         width: 100%;
       }
     }
   }
 
-  .intro {
-    margin: 0 2em 2em 2em;
-    padding: 0 0 2em 0;
-    border-bottom: 3px solid $main-colour;
+  .homepage-column {
+    @include media(tablet) {
+      width: 50%;
+      float: left;
+    }
 
-    h2 {
-      // @include bold-36;
-      a {
-        color: $text-colour;
-        text-decoration: none;
+    .inner {
+      padding: 0 1em;
+      margin-bottom: 1em;
+
+      @include media(desktop) {
+        padding: 0 2em;
+        margin-bottom: 2em;
+      }
+    }
+  }
+
+  .timeline {
+    @include media(tablet) {
+      width: 50%;
+      float: right;
+
+      .inner {
+        border-left: 1px solid $border-colour;
       }
     }
 
-    p {
-      @include core-24;
+    .inner {
+      padding: 0 1em;
+      margin-bottom: 1em;
+
+      @include media(desktop) {
+        padding: 0 2em;
+        margin-bottom: 2em;
+      }
+    }
+  }
+
+  .intro {
+    margin: 0 0 2em 0;
+    padding: 0 0 1em 0;
+    border-bottom: 3px solid $main-colour;
+
+    h2{
+       margin-top: 0;
     }
 
     img {
       margin: 0 auto;
       display: block;
+      float: right;
+      width: 30%;
+    }
+
+    a{
+      @include bold-19;
+    }
+    .button{
+      @include button($red);
     }
   }
 
   .service-life {
-    margin: 0 2em;
-
+    margin: 0;
+    
     h2 {
+      margin-top: 0;
       // @include bold-36;
     }
   }
 
   // Phases
   .phases {
-    list-style: none;
-    padding: 0;
-
-    h2 {
-      @include bold-36;
+    list-style: none;  
+    @include ie-lte(7) { 
+      list-style-image: none;
     }
+    padding: 0;
 
     li {
       display: block;
-      padding: 0.5em 0 2em $gutter*2.5;
+      padding: 0 0 0.7em $gutter*2.5;
+      margin: 0;
+
+      &:first-child{
+        padding-top: 0.5em;
+      }
+
 
       &.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
       &.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
@@ -93,9 +149,11 @@
       &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
 
       p {
-        @include core-19;
-        width: 75%;
+        @include core-16;
         margin: 0.75em 0;
+        a {
+          @include core-19;
+        }
       }
 
       h2 {
@@ -104,16 +162,44 @@
         a {
           color: $text-colour;
           text-decoration: none;
+          font-weight: bold;
         }
       }
 
       img {
         margin: 1em 0 0 0;
+        display: none;
       }
     }
   }
 
   .resources {
     margin: 0 2em;
+  }
+
+  #roles{
+    padding-top: 1em;
+    border-top: 3px solid #DF3034;
+
+    @include media(tablet) {
+      padding-top: 0;
+      border-top: none;
+    }
+
+    h3{
+      @include bold-24;
+      margin-top: 0;
+    }
+
+    .roles {
+      li{
+        width: 100%;
+      }
+      a, p{
+        padding: 0;
+        border: none;
+        @include core-19;
+      }
+    }
   }
 }

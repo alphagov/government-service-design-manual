@@ -1,28 +1,9 @@
 .detailed-guidance {
-  header.page-header {
-    margin: 1em 2em 3em 2em;
-    padding: 0 0 2em 0;
-    border-bottom: 5px solid $main-colour;
-
-    hgroup {
-      padding: 0;
-
-      h1 {
-        @include bold-48;
-        color: $text-colour;
-      }
-
-      h2.subtitle{
-        margin: 0;
-        color: $secondary-text-colour;
-        @include core-24;
-      }
-    }
-  }
-
   .article-container {
     .inner {
-      margin-left: 25%;
+      @include media(desktop) {
+        margin-left: 25%;
+      }
 
       // 1st para is bigger
       .intro {
