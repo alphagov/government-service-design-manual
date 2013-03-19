@@ -11,19 +11,18 @@ The site is built using Jekyll_, and the CSS is Sassified_.
 Running the app yourself
 ========================
 
-Depending on your version of Git, you may need to run these commands to bring in the GOV.UK Frontend Toolkit:
+Depending on your version of Git, you may need to run these commands to bring in the GOV.UK Frontend Toolkit::
 
   $ git submodule init
-
   $ git submodule update
 
 This should import Sass files from the GOV.UK Frontend Toolkit repository into '/service-manual/assets/toolkit/'.
 
-Next, install dependencies using bundler:
+Next, install dependencies using bundler::
 
   $ bundle install
 
-To start the app:
+To start the app::
 
   $ bundle exec jekyll --server --auto
 
@@ -97,6 +96,6 @@ Tables of contents
 
 For longer pages you may want to add a table of contents.
 
-Just add this line after your intro paragraph:
+Just add this line after your intro paragraph::
 
   {% include _toc.md %}
