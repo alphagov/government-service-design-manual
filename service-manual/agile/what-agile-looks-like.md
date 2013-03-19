@@ -112,6 +112,6 @@ Teams new to agile should be wary of these familiar situations and reactions to 
 
 >* *There's no continuous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continuously deploy and run automated tests as you do.
 
->* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've not got the right attitude to delivering production-ready software.  You need to embed a quality culture into the team.
+>* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've got the wrong attitude to delivering production-ready software.  You need to embed a quality culture into the team.
 
 This is by no means an exhaustive list, but these are most common things to watch out for.
