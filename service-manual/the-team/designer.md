@@ -27,7 +27,7 @@ As a result, the people you hire should already have worked like this, or at lea
 
 Depending on the types of project you are tackling you may require a team of designers with a range of different skills. A good first hire for a team tends to be a strong interaction designer, however adding designers with graphic design skills and designers who also have a background in undertaking user research can also give your team additional flexibility and capabilities.
 
-We strongly believe that design and user experience is the responsibility of the entire team and must be considered from the outset of the project through to and beyond going live. UX includes how fast the servers are, to how the copy is written, to how the layout is implemented in code, and  what the structure of the url is. It's worth looking at Frances Berriman's [talk on this](http://fberriman.com/2012/06/14/designing-better-user-experiences-txjs-2012/). 
+We strongly believe that design and user experience is the responsibility of the entire team and must be considered from the outset of the project through to and beyond going live. UX includes how fast the servers are, to how the copy is written, to how the layout is implemented in code, and what the structure of the url is. It's worth looking at Frances Berriman's [talk on this](http://fberriman.com/2012/06/14/designing-better-user-experiences-txjs-2012/). 
 
 ## How to hire designers
 
