@@ -14,7 +14,6 @@ Running the app yourself
 Depending on your version of Git, you may need to run these commands to bring in the GOV.UK Frontend Toolkit::
 
   $ git submodule init
-
   $ git submodule update
 
 This should import Sass files from the GOV.UK Frontend Toolkit repository into '/service-manual/assets/toolkit/'.
