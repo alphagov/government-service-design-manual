@@ -1,7 +1,7 @@
 ---
 layout: phases
 title: Discovery, Alpha, Beta, Live
-subtitle: The four phases of service develpment
+subtitle: The four phases of service development
 category: phases
 type: category-index
 secondary-audience: designer, developer, tech-arch, researcher, analyst
