@@ -15,7 +15,7 @@ phases:
 page_class: buttons
 ---
 
-Buttons should be used to signify actions that the user can perform. Here's how to create buttons in the GOV.UK style, using the [GOV.UK button Sass mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_buttons.scss).
+Buttons should be used to signify actions that the user can perform. Here's how to create buttons in the GOV.UK style, using the [GOV.UK button Sass mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_buttons.scss).
 
 ## Button styles
 
