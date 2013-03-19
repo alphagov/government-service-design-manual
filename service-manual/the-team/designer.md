@@ -35,7 +35,7 @@ When building a team ask to see examples of work and ask the designers to explai
 
 When evaluating their design work, it is important that the designer can explain a strong rationale for their design decision making that is based in supporting user needs. This ability to explain their rationale convincingly is more important than their ability to show polished wireframes or designs in their portfolio. Often a lack of polished designs in a portfolio can indicate that a designer is highly collaborative or has strong development skills, so take care not to focus only on polished comps or layouts.
 
-You should also ask the designer to talk to any significant differences between the design they present in their portfolio and the actual live design. It is important that designers create appropriate work and are able to persuade stakeholders and their team to make good design decisions. 
+You should also ask the designer to talk about any significant differences between the design they present in their portfolio and the actual live design. It is important that designers create appropriate work and are able to persuade stakeholders and their team to make good design decisions. 
 
 ## Job description templates
 See an [example of a designer job description](/service-manual/the-team/designer-jd.html) provided by GDS.
