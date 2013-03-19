@@ -57,7 +57,7 @@ It’s OK to ask a waffler to wind up. If people try to solve issues within the 
 
 Sprint planning is done at the start of each sprint. It requires stories to have been written in advance with acceptance criteria.
 
-It’s the Product Owners job to read out the stories and explain the acceptance criteria in priority order. It is the team's’ job to understand the story and acceptance criteria and agree the number of stories they will commit to within each sprint and agree the tasks needed to complete it.
+It’s the Product Owners job to read out the stories and explain the acceptance criteria in priority order. It is the job of the team to understand the story and acceptance criteria and agree the number of stories they will commit to within each sprint and agree the tasks needed to complete it.
 
 There is a good description of this meeting on the [Agile Learning Labs website](http://www.agilelearninglabs.com/resources/scrum-introduction/) and how it has two parts: the “what we will do?” and the “how we will do it?”
 
