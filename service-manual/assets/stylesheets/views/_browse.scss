@@ -1,18 +1,11 @@
 .browse {
   .article-container {
     .inner {
-      margin-left: 25%;
-      padding: 0 2em 2em 2em;
+      padding: 0 1em 2em 1em;
 
-      // 1st para is bigger
-      .intro {
-        @include core-24;
-        padding: 10px 0;
-        margin: 0 0 1.5em 0;
-      }
-
-      img {
-        max-width: 100%;
+      @include media(desktop) {
+        margin-left: 25%;
+        padding: 0 2em 2em 2em;
       }
     }
   }
