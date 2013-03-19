@@ -28,7 +28,7 @@ At the Oct 2012 Digital Leaders’ meeting, the position was clarified: native a
 The Nov 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
 “Stand-alone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
-Government’s position is that native & hybrid apps currently rarely justified.
+Government’s position is that native & hybrid apps are currently rarely justified.
 
 Ensure your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) and it will work well on mobile devices.
 
