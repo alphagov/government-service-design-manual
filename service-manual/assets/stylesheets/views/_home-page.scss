@@ -127,7 +127,10 @@
 
   // Phases
   .phases {
-    list-style: none;
+    list-style: none;  
+    @include ie-lte(7) { 
+      list-style-image: none;
+    }
     padding: 0;
 
     li {
