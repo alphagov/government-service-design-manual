@@ -63,11 +63,11 @@ Service managers should notify the GDS technical architects (via your Transforma
 
 If the service is a private alpha or private beta release then it should be protected by a username and password known only to the development team and the users who are testing the service. If a service, or part of a service, is a public alpha or beta releases then it should be clearly marked as such with a text label on every page (i.e. don’t use an image containing the word alpha or beta) and in every API response.
 
-**multiple environments**
+**Multiple environments**
 
 It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. (see also http://guidance.digital.cabinet-office.gov.uk/making-software/sandbox-and-staging-servers.html)  Typically, the sub domains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
 
-Therefore, you MAY create other sub domains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service,gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development sub-domains that’s also acceptable.
+Therefore, you MAY create other sub domains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development sub-domains that’s also acceptable.
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
