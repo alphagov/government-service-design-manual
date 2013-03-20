@@ -37,27 +37,27 @@ The transactional part of a service - the dynamically generated pages where user
 
 > Note: This does not apply to the set of interactive tools on GOV.UK known as “smart answers” which are developed and maintained by GDS in partnership with other government departments.
 
-For all new digital government services going live from 1 April 2013 the GDS will create a domain name of the form “servicename.service.gov.uk” (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and GDS). This will introduce consistency across central government domains for digital services and remove the dependency on departmental sub-domains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
+For all new digital government services going live from 1 April 2013 the GDS will create a domain name of the form “servicename.service.gov.uk” (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and GDS). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
-The process of obtaining a service.gov.uk sub-domain begins either when the service manager asks a GDS product manager for a start page on GOV.UK (for services already under development at 13 March 2013) or when the service manager asks for a sub-domain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Sub-domains of service.gov.uk SHOULD describe the service (eg lastingpowerofattorney.service.gov.uk) and SHOULD NOT contain the name of the service owning department or agency (eg ministryofmagicwandregistration.service.gov.uk)
+The process of obtaining a service.gov.uk subdomain begins either when the service manager asks a GDS product manager for a start page on GOV.UK (for services already under development at 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of service.gov.uk SHOULD describe the service (eg lastingpowerofattorney.service.gov.uk) and SHOULD NOT contain the name of the service owning department or agency (eg ministryofmagicwandregistration.service.gov.uk)
 
-The service-owning dept/agency will be given delegated authority to manage the domain and its sub-domains, although in some cases this work will be carried out by third party suppliers.
+The service-owning dept/agency will be given delegated authority to manage the domain and its subdomains, although in some cases this work will be carried out by third party suppliers.
 
-## Sub-Domains
+## Subdomains
 
-This section give some guidance about which sub-domains a service owner should create once they have been given control of servicename.service.gov.uk.
+This section give some guidance about which subdomains a service owner should create once they have been given control of servicename.service.gov.uk.
 
-**Maximum number of visible sub domains**
+**Maximum number of visible subdomains**
 
-The user-facing live service SHOULD usually be operated using at most three user-visible sub domains of servicename.service.gov.uk:
+The user-facing live service SHOULD usually be operated using at most three user-visible subdomains of servicename.service.gov.uk:
 
 * “www.servicename.service.gov.uk” is for the public facing, dynamic web pages that make up your service.
 * “assets.servicename.service.gov.uk” is for assets such as static images and shared javascript files needed to run your live service. Note: written content about the service, eg guides to eligibility or detailed guidance for applicants, should be on www.gov.uk.
-* “admin.servicename.service.gov.uk” is for feature that enable non-technical staff to run the service (eg contact centre staff might use this sub-domain to access and process work items where human judgement is needed).
+* “admin.servicename.service.gov.uk” is for feature that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed).
 
 You SHOULD NOT create separate domains for APIs unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
 
-Service managers should notify the GDS technical architects (via your Transformation team contact) if you intend to create user-visible sub domains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
+Service managers should notify the GDS technical architects (via your Transformation team contact) if you intend to create user-visible subdomains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
 
 **Usernames and passwords**
 
@@ -65,9 +65,9 @@ If the service is a private alpha or private beta release then it should be prot
 
 **Multiple environments**
 
-It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. Typically, the sub domains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
+It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
 
-Therefore, you MAY create other sub domains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development sub-domains that’s also acceptable.
+Therefore, you MAY create other subdomains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development subdomains that’s also acceptable.
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
@@ -93,12 +93,12 @@ GOV.UK is the place for users to find all government servicess, so it’s import
 
 That means services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the www.gov.uk start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
 
-* Have a robots.txt file on their the www, admin and assets sub domains asking search engines not to index any part of the site. We will issue example robots.txt templates in due course, but for now please see http://www.robotstxt.org/faq/prevent.html for more information.
+* Have a robots.txt file on their the www, admin and assets subdomains asking search engines not to index any part of the site. We will issue example robots.txt templates in due course, but for now please see http://www.robotstxt.org/faq/prevent.html for more information.
 * Have an HTTP 301 redirection from the top-level index page of the www and assets subdomains to the relevant start page on www.gov.uk.  (Note: this means that the service start page on www.gov.uk SHOULD NOT link to https://www.servicename.service.gov.uk/ because that would just send the user back to the service start page.)
 
 ## Origin Servers for CDN-based provider of DDOS Protection
 
-If you have contracted with a CDN-based DDOS-protection supplier(s) (such as Level 3, Fastly or Akamai) then you SHOULD register the following additional sub domains for use by your supplier(s): www-production.servicename.service.gov.uk, admin-production.servicename.service.gov.uk and assets-production.servicename.service.gov.uk. Your supplier(s) will use these sub-domains to identify the IP address(es) of your service’s www, admin and assets sub-domains. 
+If you have contracted with a CDN-based DDOS-protection supplier(s) (such as Level 3, Fastly or Akamai) then you SHOULD register the following additional subdomains for use by your supplier(s): www-production.servicename.service.gov.uk, admin-production.servicename.service.gov.uk and assets-production.servicename.service.gov.uk. Your supplier(s) will use these subdomains to identify the IP address(es) of your service’s www, admin and assets subdomains. 
 
 Detailed configuration advice for origin servers is outside of the scope of this document, but in general it’s worth configuring them to only listen for traffic from a) the DDOS protection provider’s servers and b) from the location(s) where the service itself is being developed and/or managed.
 
