@@ -65,7 +65,7 @@ If the service is a private alpha or private beta release then it should be prot
 
 **Multiple environments**
 
-It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. The [development and testing](/service-manual/making-software/sandbox-and-staging-servers.html) environments allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
+It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. The [development and testing environments](/service-manual/making-software/sandbox-and-staging-servers.html) allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
 
 Therefore, you MAY create other subdomains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development subdomains, that’s also acceptable.
 
