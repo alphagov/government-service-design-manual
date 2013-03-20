@@ -59,7 +59,7 @@ Disabled participants should be included as part of a wider user testing recruit
 
 ## Cost
 
-This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies e.g. [AbilityNet](http://www.abilitynet.org.uk/), [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc
+This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies e.g. [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc
 
 Additional costs can be incurred if these participants are travelling to your testing location and/or require specialist assistance with carers or travel.
 

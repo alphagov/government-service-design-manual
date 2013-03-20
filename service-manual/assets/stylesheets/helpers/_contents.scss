@@ -1,6 +1,8 @@
 .contents {
-  width: 25%;
-  float: left;
+  @include media(desktop) {
+    width: 25%;
+    float: left;
+  }
 
   .inner {
     padding: 0 2em;
@@ -13,7 +15,10 @@
   }
 
   nav {
-    margin: 0 2em;
+    margin: 0 1em 2em 1em;
+    @include media(desktop) {
+      margin: 0 2em;
+    }
   }
 
   ol {

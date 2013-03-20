@@ -10,7 +10,10 @@
   }
 
   .article-container {
-    margin: 0 2em;
+    margin: 0 1em;
+    @include media(desktop) {
+      margin: 0 2em;
+    }
   }
 
   // Primary links
@@ -32,18 +35,33 @@
     }
   }
 
+  h3 {
+    @include bold-24;
+    border-top: 3px solid $main-colour;
+
+    padding-top: 0.5em;
+    margin-top: 1em;
+
+    @include media(desktop) {
+      @include core-19;
+      border: none;
+    }
+  }
+
   .link-list {
     border-bottom: 0;
 
-    // Run lists over two columns
-    &.wide{
-      width: 66.5%;
-      li{
-        display: inline-block;
-        width: 48.3%;
+    @include media(desktop) {
+      // Run lists over two columns
+      &.wide{
+        width: 66.5%;
+        li{
+          display: inline-block;
+          width: 48.3%;
 
-        &:nth-child(odd){
-          margin-right: 1em;
+          &:nth-child(odd){
+            margin-right: 1em;
+          }
         }
       }
     }

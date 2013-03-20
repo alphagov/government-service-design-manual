@@ -32,7 +32,7 @@ Forms should be styled as per the examples on this page. The [GOV.UK forms mixin
       @include form(left)
     }
 
-    // Right aligned labels. Lable width is 9em
+    // Right aligned labels. Label width is 9em
     .form-3 { 
       @include form(right, 9em)
     }
