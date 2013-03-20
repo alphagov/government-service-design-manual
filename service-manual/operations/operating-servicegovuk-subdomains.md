@@ -93,7 +93,7 @@ GOV.UK is the place for users to find all government servicess, so it’s import
 
 That means services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the www.gov.uk start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
 
-* Have a robots.txt file on their the www, admin and assets subdomains asking search engines not to index any part of the site. We will issue example robots.txt templates in due course, but for now please see http://www.robotstxt.org/faq/prevent.html for more information.
+* Have a robots.txt file on their the www, admin and assets subdomains asking search engines not to index any part of the site. We will issue example robots.txt templates in due course, but for now [here is an example of how to ask search engine robots to ignore sections of your site](http://www.robotstxt.org/faq/prevent.html).
 * Have an HTTP 301 redirection from the top-level index page of the www and assets subdomains to the relevant start page on www.gov.uk.  (Note: this means that the service start page on www.gov.uk SHOULD NOT link to https://www.servicename.service.gov.uk/ because that would just send the user back to the service start page.)
 
 ## Origin Servers for CDN-based provider of DDOS Protection
