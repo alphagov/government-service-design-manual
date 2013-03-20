@@ -53,7 +53,7 @@ The user-facing live service SHOULD usually be operated using at most three user
 
 * “www.servicename.service.gov.uk” is for the public facing, dynamic web pages that make up your service.
 * “assets.servicename.service.gov.uk” is for assets such as static images and shared javascript files needed to run your live service. Note: written content about the service, eg guides to eligibility or detailed guidance for applicants, should be on www.gov.uk.
-* “admin.servicename.service.gov.uk” is for feature that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed).
+* “admin.servicename.service.gov.uk” is for features that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed).
 
 You SHOULD NOT create separate domains for APIs unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
 
@@ -67,7 +67,7 @@ If the service is a private alpha or private beta release then it should be prot
 
 It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the sub domains used in the live version of the service.
 
-Therefore, you MAY create other subdomains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development subdomains that’s also acceptable.
+Therefore, you MAY create other subdomains of servicename.service.gov.uk for use in testing and development, such as www-preview.servicename.service.gov.uk and www-dev.servicename.service.gov.uk. If there is a compelling reason to use a non gov.uk domain for testing and/or development subdomains, that’s also acceptable.
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
