@@ -28,7 +28,7 @@ This guidance talks about how Guerilla testing can be used to provide user resea
 ##Guidance
 Guerilla user testing is a low cost method of user testing. The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere e.g. cafe, library, train station etc, essentially anywhere where there is significant footfall.
 
-Guerilla testing works well to quickly validate how effective a design is on it’s intended audience, whether certain functionality works in the way it is supposed to, or even establishing whether a brand or proposition is clear.
+Guerilla testing works well to quickly validate how effective a design is on its intended audience, whether certain functionality works in the way it is supposed to, or even establishing whether a brand or proposition is clear.
 
 This approach is quick and relatively easy to set up. Participants are not recruited but are ‘approached’ by those persons conducting the sessions. The sessions themselves are short, typically between 15-30 minutes and are loosely structured around specific key research objectives. The output is typically ‘qualitative’ so insight is often rich and detailed.
 
