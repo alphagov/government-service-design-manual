@@ -58,7 +58,7 @@ Freedom at the point of use means open source software may be downloaded and ass
 
 ### Avoid vendor lock-in
 
-Using closed source software increases the risk of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) to a single supplier. This is a risk, even when building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) due to the possibility of inadvertently using propriety features.
+A large part of the total cost of ownership of a project are incurred at the end, overcoming barriers to exit, especially when moving data to a new system. Using closed source software increases the risk of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) to a single supplier. This is a risk, even when building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) due to the possibility of inadvertently using propriety features, increasing exit costs.
 Access to the source code enables support to be sourced from a number of independent suppliers, enabling better prioritisation of bug-fixes, allowing systems to be maintained outside of vendor product life-cycles, and mitigating the risk of [planned obsolescence](http://en.wikipedia.org/wiki/Planned_obsolescence) or [abandonment](http://en.wikipedia.org/wiki/Abandonware).
 
 ## Security and open source
