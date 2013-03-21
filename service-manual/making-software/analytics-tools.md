@@ -10,9 +10,6 @@ audience:
 phases:
   - beta
   - live
-audience: 
-    primary: analyst
-    secondary: service-managers
 status: draft
 breadcrumbs:
   -
