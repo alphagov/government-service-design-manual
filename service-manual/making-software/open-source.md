@@ -29,7 +29,7 @@ Use open source software in preference to [proprietary or closed source](http://
 
 Problems which are rare, or specific to a domain may be best answered by using [software as a service](http://en.wikipedia.org/wiki/Software_as_a_service), or by installing proprietary software.
 
-In such cases, take care to mitigate the risk of lock-in to a single supplier by ensuring [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) are available for interfaces.
+In such cases, take care to mitigate the risk of lock-in to a single supplier by ensuring [open standards](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf) are available for interfaces.
 
 Where possible use DNS addresses you own for services, and demand open formats for the import and export of your data.
 
