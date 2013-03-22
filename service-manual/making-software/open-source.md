@@ -29,7 +29,7 @@ Use open source software in preference to [proprietary or closed source](http://
 
 Problems which are rare, or specific to a domain may be best answered by using [software as a service](http://en.wikipedia.org/wiki/Software_as_a_service), or by installing proprietary software.
 
-In such cases, take care to mitigate the risk of lock-in to a single supplier by ensuring [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) are available for interfaces.
+In such cases, take care to mitigate the risk of lock-in to a single supplier by ensuring [open standards](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf) are available, in particular for data portability, and interfaces used for integration with other systems.
 
 Where possible use DNS addresses you own for services, and demand open formats for the import and export of your data.
 
@@ -58,7 +58,7 @@ Freedom at the point of use means open source software may be downloaded and ass
 
 ### Avoid vendor lock-in
 
-Using closed source software increases the risk of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) to a single supplier. This is a risk, even when building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) due to the possibility of inadvertently using propriety features.
+A large part of the total cost of ownership of a project are incurred at the end, overcoming barriers to exit, especially when moving data to a new system. Using closed source software increases the risk of [lock-in](http://en.wikipedia.org/wiki/Vendor_lock-in) to a single supplier. This is a risk, even when building with [open standards](http://consultation.cabinetoffice.gov.uk/openstandards/) due to the possibility of inadvertently using proprietary features, increasing exit costs.
 Access to the source code enables support to be sourced from a number of independent suppliers, enabling better prioritisation of bug-fixes, allowing systems to be maintained outside of vendor product life-cycles, and mitigating the risk of [planned obsolescence](http://en.wikipedia.org/wiki/Planned_obsolescence) or [abandonment](http://en.wikipedia.org/wiki/Abandonware).
 
 ## Security and open source
@@ -82,4 +82,5 @@ Open source encourages re-use and benefits from [network effects](http://en.wiki
 Finally, by lowering the barriers for reuse, building for extensibility, encouraging forking, mutation and experimentation, open source fosters a culture of [open innovation](http://en.wikipedia.org/wiki/Open_innovation), leading to better products and services.
 
 ## Further reading
-The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licencing.html).
+* The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licencing.html).
+* Official note from [CESG](http://www.cesg.gov.uk/) on [the security of open source](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78967/OSS_Toolkit_Security_Note_v1.0.pdf).

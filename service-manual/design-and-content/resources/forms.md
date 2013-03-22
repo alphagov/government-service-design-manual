@@ -16,7 +16,7 @@ phases:
 
 ## Styling form elements
 
-Forms should be styled as per the examples on this page. The [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass like this:
+Forms should be styled as per the examples on this page. The [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass like this:
 
 ### Sass
 
@@ -32,7 +32,7 @@ Forms should be styled as per the examples on this page. The [GOV.UK forms mixin
       @include form(left)
     }
 
-    // Right aligned labels. Lable width is 9em
+    // Right aligned labels. Label width is 9em
     .form-3 { 
       @include form(right, 9em)
     }

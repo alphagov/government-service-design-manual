@@ -15,7 +15,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-*NOTE: the following template was used to advertise a developer vacancy at GDS*
+*NOTE: the following template was used to advertise a service manager vacancy at GDS*
 
 
 POST TITLE:   			Service Manager 	

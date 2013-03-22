@@ -57,7 +57,7 @@ It’s OK to ask a waffler to wind up. If people try to solve issues within the 
 
 Sprint planning is done at the start of each sprint. It requires stories to have been written in advance with acceptance criteria.
 
-It’s the Product Owners job to read out the stories and explain the acceptance criteria in priority order. It is the team's’ job to understand the story and acceptance criteria and agree the number of stories they will commit to within each sprint and agree the tasks needed to complete it.
+It’s the Product Owners job to read out the stories and explain the acceptance criteria in priority order. It is the job of the team to understand the story and acceptance criteria and agree the number of stories they will commit to within each sprint and agree the tasks needed to complete it.
 
 There is a good description of this meeting on the [Agile Learning Labs website](http://www.agilelearninglabs.com/resources/scrum-introduction/) and how it has two parts: the “what we will do?” and the “how we will do it?”
 
@@ -65,7 +65,7 @@ With bigger teams this can be a hard meeting to get right. Some people want to d
 
 ### Story time
 
-Some teams choose to to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
+Some teams choose to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
 
 Make sure stories are well formed (i.e. don’t skip the “So that...” part because it’s hard), have a good, sensible list of acceptance criteria that supplement your teams’ standing criteria for ‘definition of done’ and are estimated. If stories are too big then split them into smaller stories. They stand more chance of delivering shippable code.
 
@@ -75,4 +75,4 @@ There needs to be a moment at the end of the sprint where the team get to demons
 
 ### Sprint Retrospective
 
-These meetings are important opportunities to iterate the team's working process. [Anna Shipman from GDS has written detailed guidance about how to run retrospectives](/service-manual/agile/running-retrospectives.html).
+These meetings are important opportunities to iterate the team's working process. [Read detailed guidance about how to run retrospectives](/service-manual/agile/running-retrospectives.html).

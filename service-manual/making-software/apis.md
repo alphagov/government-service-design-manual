@@ -109,7 +109,7 @@ Where content is sensitive, or requires authentication, use encryption (HTTPS) a
 ### Practice service evolution:
 
 - build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected (The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; Postel's Law explains the ability for The Web and Internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content)
-- preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, e.g. don't change a `title` field from to the prefix for a name to the person's job title.
+- preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, e.g. don't change a `title` field from meaning the title of the page, to the meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
 When changing URIs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
@@ -144,6 +144,6 @@ The details of that fallback will vary according to your service. It may be that
 You should be clear with your users about what is happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
 
 ##Further reading
-The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
-
-The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
+* The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
+* The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
+* The WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.

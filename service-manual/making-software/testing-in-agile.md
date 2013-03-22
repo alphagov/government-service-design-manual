@@ -56,7 +56,7 @@ Everybody in the programme needs to understand and agree the approach to testing
 
 ## Optimise value
 
-Testing, done well, will inform the the best way forward and get the best “bang for buck” in terms of effort expended in various functional or non-functional areas.  It will help make the tough decisions, and drive the development effort based on the risk of each choice of story.  It will help the prioritisation based on the understanding of the complexity of the system.
+Testing, done well, will inform the best way forward and get the best “bang for buck” in terms of effort expended in various functional or non-functional areas.  It will help make the tough decisions, and drive the development effort based on the risk of each choice of story.  It will help the prioritisation based on the understanding of the complexity of the system.
 
 ## Types of testing
 
@@ -76,7 +76,7 @@ The term does not imply that the tester has not prepared for the testing. They w
 
 Automation may still play a part - not to run the tests themselves but, for instance, to set up the data or to get a set of transactions into predetermined states.
 
-In a team where you have a one or more dedicated ‘quality analysts’ or ‘testers’ this type of testing will normally be part of their role. In a developer-only team time will need to be put aside for them the developers themselves to do this type of testing. As a developer has been deeply involved in writing the code, it is sometime difficult for them to step far enough enough from the system to see paths through the system that they hadn’t previously envisaged. To help with this it’s ideal if they can be assigned to exploratory testing for a full day to allow the appropriate amount of context switching. It is also preferable if they are exploring parts of the system that they have been less involved in developing.
+In a team where you have a one or more dedicated ‘quality analysts’ or ‘testers’ this type of testing will normally be part of their role. In a developer-only team time will need to be put aside for them the developers themselves to do this type of testing. As a developer has been deeply involved in writing the code, it is sometime difficult for them to step far enough from the system to see paths through the system that they hadn’t previously envisaged. To help with this it’s ideal if they can be assigned to exploratory testing for a full day to allow the appropriate amount of context switching. It is also preferable if they are exploring parts of the system that they have been less involved in developing.
 
 When a manual test uncovers a defect, it is important to always add an automated test to catch it going forward and hence prevent any reoccurrence.
 

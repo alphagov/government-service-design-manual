@@ -1,7 +1,9 @@
 .default {
   .article-container {
     .inner {
-      margin-left: 25%;
+      @include media(desktop) {
+        margin-left: 25%;
+      }
 
       // 1st para is bigger
       .intro {

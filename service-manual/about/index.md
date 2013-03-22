@@ -10,7 +10,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-This website is a resource to help you and your service achieve the [Digital by Default Service Standard](/service-manual/digital-by-default).
+This website is a resource to help service managers and digital delivery teams across government meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
 It has been designed to achieve two things:
 

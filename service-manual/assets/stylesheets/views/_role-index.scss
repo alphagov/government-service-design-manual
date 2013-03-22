@@ -10,7 +10,10 @@
   }
 
   .article-container {
-    margin: 0 2em;
+    margin: 0 1em;
+    @include media(desktop) {
+      margin: 0 2em;
+    }
   }
 
   // Primary links
@@ -23,30 +26,53 @@
     }
 
     .link-list {
+      @include media(tablet) {
+        width: 50%;
+      }
+
+      @include media(desktop) {
+        width: (100%/3);
+      }
+
       li {
         a {
           display: inline;
           width: auto;
         }
       }
+
+      @include media(desktop) {
+        // Run lists over two columns
+        &.wide {
+          width: 66.5%;
+          li {
+            display: inline-block;
+            width: 48.3%;
+
+            &:nth-child(odd){
+              margin-right: 1em;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  h3 {
+    @include bold-24;
+    border-top: 3px solid $main-colour;
+
+    padding-top: 0.5em;
+    margin-top: 1em;
+
+    @include media(desktop) {
+      @include core-19;
+      border: none;
     }
   }
 
   .link-list {
     border-bottom: 0;
-
-    // Run lists over two columns
-    &.wide{
-      width: 66.5%;
-      li{
-        display: inline-block;
-        width: 48.3%;
-
-        &:nth-child(odd){
-          margin-right: 1em;
-        }
-      }
-    }
 
     // Big blocky version for hero promo
     &.hero{
@@ -91,6 +117,10 @@
 
   .role-links {
     margin-bottom: 2em;
+
+    @include media(tablet) {
+      
+    }
   }
 
   .all-guides {
