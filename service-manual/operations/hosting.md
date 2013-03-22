@@ -43,7 +43,7 @@ Many providers offer co-location services which is where you purchase your own h
 
 ### Shared or managed hosting
 
-Lots of service providers have a shared or managed hosting option. This tends to mean renting specific virtual or physical machines for fixed periods of time. Different suppliers other different management services, some just manage the underlying machine while others will support the operating system and even specific applications running on the machines.
+Lots of service providers have a shared or managed hosting option. This tends to mean renting specific virtual or physical machines for fixed periods of time. Different suppliers offer different management services, some just manage the underlying machine while others will support the operating system and even specific applications running on the machines.
 
 ### Infrastructure as a service
 
