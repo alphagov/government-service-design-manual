@@ -27,9 +27,9 @@ Every digital service offered by the UK government MUST have a single, well-know
 
 That well-known place is the relevant start page on www.gov.uk - for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
 
-Service owners MUST advertise the relevant start page as the starting point for the relevant service. This is what gets printed on literature, email signatures, TV adverts, etc. 
+Service managers MUST advertise the relevant start page as the starting point for the relevant service. This is what gets printed on literature, email signatures, TV adverts, etc. 
 
-The start page URL for a given service will be allocated by GDS based on discussions with the service owner and analysis of user behaviour, search referrals and other relevant data.
+The start page URL for a given service will be allocated by GDS based on discussions with the service manager and analysis of user behaviour, search referrals and other relevant data.
 
 ## Creating a domain
 
@@ -45,7 +45,7 @@ The service-owning dept/agency will be given delegated authority to manage the d
 
 ## Subdomains
 
-This section gives some guidance about which subdomains a service owner should create once they have been given control of servicename.service.gov.uk.
+This section gives some guidance about which subdomains a service manager should create once they have been given control of servicename.service.gov.uk.
 
 **Maximum number of visible subdomains**
 
@@ -75,7 +75,7 @@ Regardless of the domain name used, web-based services on testing and developmen
 
 Cookies used on “www.servicename.service.gov.uk” and “admin.servicename.service.gov.uk” **MUST** be scoped to the originating domain only. Cookies MUST NOT be scoped to the domain “servicename.service.gov.uk”.
 
-Cookies SHOULD NOT be needed on “assets.servicename.service.gov.uk” (they introduce a browser overhead that slows down the response time for users without providing any benefit for the service owner - more on this at [http://developer.yahoo.com/performance/rules.html#cookie_free](http://developer.yahoo.com/performance/rules.html#cookie_free) ).
+Cookies SHOULD NOT be needed on “assets.servicename.service.gov.uk” (they introduce a browser overhead that slows down the response time for users without providing any benefit for the service manager - more on this at [http://developer.yahoo.com/performance/rules.html#cookie_free](http://developer.yahoo.com/performance/rules.html#cookie_free) ).
 
 Cookies MUST be sent with the Secure attribute. See also “Transport Level Security” below.
 
@@ -85,7 +85,7 @@ Many transactions will collect personal information from users. It’s very impo
 
 Therefore, all transactions accessed through service.gov.uk domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services MUST NOT accept HTTP connections under any circumstances.
 
-Once a service owner has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (www, admin and assets). We will provide templates for HSTS headers in due course, but when you first enable HSTS we recommend setting a fairly short TTL (ie a few hours) just in case you make a configuration error. This can be increased to 1 year once the service owner is confident that HSTS is configured correctly.
+Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (www, admin and assets). We will provide templates for HSTS headers in due course, but when you first enable HSTS we recommend setting a fairly short TTL (ie a few hours) just in case you make a configuration error. This can be increased to 1 year once the service manager is confident that HSTS is configured correctly.
 
 ## Robots.txt and root-level redirections
 
