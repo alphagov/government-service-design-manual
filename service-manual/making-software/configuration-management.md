@@ -50,7 +50,7 @@ Configuration management encourages a deep understanding of the configuration of
 
 ### Use the same tools for development and production
 
-A common problem in software systems is seen when code written by a development team works on their machine or a test environment but not on the production environment. A common cause of this is differences in configuration - different versions of software, different types of database or application server. This can be avoided by using the same tools for both development and production environments.
+A common problem in software systems is seen when code written by a development team works on their machine or a test environment but not on the production environment. A common cause of this is differences in configuration – different versions of software, different types of database or application server. This can be avoided by using the same tools for both development and production environments.
 
 ## Why we do this
 
