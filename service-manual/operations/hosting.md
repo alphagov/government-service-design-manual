@@ -21,7 +21,7 @@ The software running your service will need servers to run on. This guide will h
 
 ## Deciding how to host your application
 
-The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available Procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
+The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
 
 It is important to keep good notes from any interviews or deliberation sessions and to access different suppliers equally. A scoring matrix can help here.
 
