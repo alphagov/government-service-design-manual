@@ -1,32 +1,42 @@
-# Selecting a Transformation Partner
+---
+layout: detailed-guidance
+title: Selecting a Transformation Partner
+subtitle: How to go about choosing a digital transformation partner
+status: draft
+category: service-managers
+audience: service-managers
+hero: Digital by Default Service Standard
+---
 
-Many departments will find it useful to engage with a partner who can help build capability within the department at the same time as working with them to deliver working software. In selecting a supplier as a transformation partner for the department, these are some of the things that we'd like to see.
+Many departments will find it useful to engage with a partner who can help build digital capability within the department at the same time as working with them to deliver working digital service. In selecting a supplier as a digital transformation partner for the department, these are some of the things that we'd like to see.
 
 ## Track Record of Delivery
 
-The partner needs a proven track record of successful delivery, and will take responsibility for the delivery of the Carer system.
+The partner needs a proven track record of successful delivery, and will take responsibility for the delivery of the digital service.
 
 ## Enablement
 
-A major aim of the project should be the creation of an agile delivery capability within the department. The supplier's aim should be to work alongside the department's staff during the delivery of the system, actively identifying any gaps in capability and providing training and coaching where needed. The supplier's aim should be to disengage from the department in the medium term, leaving the department able to function on its own.
+A major aim of the project should be the creation of an agile delivery capability within the department. The partner's aim should be to work alongside the department's staff during the delivery of the system, actively identifying any gaps in capability and providing training and coaching where needed. The partner's eventual intention should be to disengage from the department, leaving the department able to function on its own.
 
-The supplier will need to work on-site with the department's staff to make this possible.
+The partner will need to work on-site with the department's staff to make this possible.
 
 ## Continuous delivery
 
-The supplier should be committed to the early and frequent delivery of working software, and to the gathering of and responding to feedback from all stakeholders within the department.
+The partner should be committed to the early and frequent delivery of working software, and to the gathering of and responding to feedback from all stakeholders within the department.
 
-Applying a continuous delivery model requires the application of techniques such as continuous integration, automated testing and automated deployment. The supplier should be experienced with these.
+Applying a continuous delivery model requires the application of techniques such as continuous integration, automated testing and automated deployment. The partner should be experienced with these.
 
 ### Agile approach
 
-The supplier should have a track record with an Agile approach to software development, aligned with the [Agile Manifesto][manifesto]. This approach should be applied in an an adaptive rather than a dogmatic way, and should apply learnings from such methods as Lean, Flow and Kanban.
+The partner should have a track record with an Agile approach to software development, aligned with the [Agile Manifesto][manifesto]. This approach should be applied in an an adaptive rather than a dogmatic way, and should apply learnings from such methods as Lean, Flow and Kanban.
 
 A cross-functional, non-siloed approach to roles within the team is preferred. For example, the QA function should be engaged as soon as each user story is picked up for development, and should work with the developers and BAs throughout the story's lifetime.
 
-Quality should be "baked in" to the product. The advantages brought by both internal and external quality should be understood. Test automation is essential for a continuous delivery, and a deep understanding of the pros and cons of automated tests at various levels of the ["test pyramid"](http://martinfowler.com/bliki/TestPyramid.html) is required.
+Automated testing should not be restricted to functional requirements. Performance, load, and soak testing will be required to ensure the system behaves as required, and the partner should be experienced with these forms of testing.
 
-Automated testing should not be restricted to functional requirements. Performance, load, and soak testing will be required to ensure the system behaves as required, and the supplier should be experienced with these forms of testing.
+## Quality
+
+Quality should be "baked in" to the product. The advantages brought by both internal and external quality should be understood. Test automation is essential for a continuous delivery, and a deep understanding of the pros and cons of automated tests at various levels of the ["test pyramid"](http://martinfowler.com/bliki/TestPyramid.html) is required.
 
 ## Alignment
 
@@ -34,7 +44,7 @@ The partner should be aligned to the [Government][governmentstrategy] and [Depar
 
 ## Evolutionary Architecture
 
-The supplier should have a track record with taking an evidence based, evolutionary, domain driven approach to developing an architecture, based on a solid understanding of system's requirements and constraints. Architecture should be developed in a hands-on fashion in concert with the team's developers, with decisions based on discovery through code.
+The partner should have a track record with taking an evidence based, evolutionary, domain driven approach to developing an architecture, based on a solid understanding of system's requirements and constraints. Architecture should be developed in a hands-on fashion in concert with the team's developers, with decisions based on discovery through code.
 
 ## Specific Expertise
 
@@ -92,9 +102,9 @@ We would like to see specific expertise with practices including:
 
 ## Tool and platform selection
 
-The supplier will be involved in the selection of tools and platforms for the project. They will need to be aligned with the [Government Service Design Manual][designmanual] while making these selections.
+The partner will be involved in the selection of tools and platforms for the project. They will need to be aligned with the [Government Service Design Manual][designmanual] while making these selections.
 
-The supplier should not be predisposed to building solutions based upon products for which they are also the vendor. They should be able to make judgements on the applicability to particular situations of alternatives such as:
+The partner should not be predisposed to building solutions based upon products for which they are also the vendor. They should be able to make judgements on the applicability to particular situations of alternatives such as:
 
 * Mainstream vs cutting-edge. Examples might include:
     * Java vs. Ruby vs. Clojure
@@ -108,7 +118,7 @@ Decisions should be based on evidence gathered via hands-on, code based experime
 
 ## Integration experience
 
-The supplier will need experience in building systems capable of integrating into complex environments including significant legacy systems.
+The partner will need experience in building systems capable of integrating into complex environments including significant legacy systems.
 
 An agile approach to integration is preferred, utilising such things as:
 
@@ -125,15 +135,15 @@ Experience of integrating with legacy systems might include experience with:
 
 ## Operational experience
 
-The supplier should have proven experience with running day to day operations for a large consumer web service
+The partner should have proven experience with running day to day operations for a large consumer web service
 
 ## Legacy system migration
 
-The supplier should have a proven track record with the migration of complex legacy systems. 
+The partner should have a proven track record with the migration of complex legacy systems. 
 
 ## Process
 
-The supplier should:
+The partner should:
 
 * Adopt a pragmatic approach to ITIL
 * Show an awareness of auditing and standards (ISO27001, PCI, etc.)
