@@ -43,6 +43,7 @@ This is the ideal opportunity to gain experience working on large digital produc
 
 ## PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 You'll:
+
 * be good at designing information regardless of what media it's for
 * have mastered basic typography and have an interest in learning more
 * be able to create design concepts that answer a brief and go beyond expectations
