@@ -13,6 +13,13 @@ phases:
   - beta
   - live
 page_class: buttons
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## What are they?
