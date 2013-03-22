@@ -6,6 +6,13 @@ category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases
+    url: /service-manual/phases
 ---
 
 The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html). 

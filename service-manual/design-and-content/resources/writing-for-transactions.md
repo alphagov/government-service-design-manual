@@ -8,6 +8,13 @@ audience:
   primary: content-designers, designers
 type: guide
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## Writing microcopy
