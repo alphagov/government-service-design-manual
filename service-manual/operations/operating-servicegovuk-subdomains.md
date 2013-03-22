@@ -45,7 +45,7 @@ The service-owning dept/agency will be given delegated authority to manage the d
 
 ## Subdomains
 
-This section give some guidance about which subdomains a service owner should create once they have been given control of servicename.service.gov.uk.
+This section gives some guidance about which subdomains a service owner should create once they have been given control of servicename.service.gov.uk.
 
 **Maximum number of visible subdomains**
 
