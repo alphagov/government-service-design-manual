@@ -39,7 +39,7 @@ For particularly large projects with very specific requirements you may decide t
 
 ### Co-location
 
-Many providers offer co-location services which is where you purchase your own hardware to put into a managed data centre. This provides a great deal of flexibility but can introduce lead times and other physical constrains. It also requires a wide range of technical specialist skills. 
+Many providers offer co-location services which is where you purchase your own hardware to put into a managed data centre. This provides a great deal of flexibility but can introduce lead times and other physical constraints. It also requires a wide range of technical specialist skills. 
 
 ### Shared or managed hosting
 
@@ -51,7 +51,7 @@ In the last several years Infrastructure as a service has become a common approa
 
 ### Platform as a service
 
-Similar to Infrastructure as a service above, Platform as a service offerings tend to allow for quickly adding or removing capacity and fine grained pay on demand pricing. The difference is is that you are abstracted away from the underlying infrastructure completely. The unit here is the running application, not a virtual or physical machine. Using a Platform as a service places a number of constrains on the software architecture but can move the support burden for parts of the stack onto the supplier.
+Similar to Infrastructure as a service above, Platform as a service offerings tend to allow for quickly adding or removing capacity and fine grained pay on demand pricing. The difference is is that you are abstracted away from the underlying infrastructure completely. The unit here is the running application, not a virtual or physical machine. Using a Platform as a service places a number of constraints on the software architecture but can move the support burden for parts of the stack onto the supplier.
 
 ## Make your decisions carefully
 
