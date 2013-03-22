@@ -31,7 +31,7 @@ It is worth stating that it's very common to use multiple suppliers. This may be
 
 There are a number of different approaches taken by suppliers of hosting services, which can make comparing offerings difficult. The following is intended only as a brief introduction.
 
-This advice is complicated because many service providers redefine the meanings for marketing reasons. In particular **Infrastructure as a service** and **Platform as a service** are marketable at the moment and often used incorrectly. Always look into the details of the services being offered.
+This advice is complicated because many service providers redefine the meanings of hosting terms for marketing reasons. In particular **Infrastructure as a service** and **Platform as a service** are marketable at the moment and often used incorrectly. Always look into the details of the services being offered.
 
 ### Ownership
 
