@@ -37,9 +37,9 @@ The transactional part of a service - the dynamically generated pages where user
 
 > Note: This does not apply to the set of interactive tools on GOV.UK known as “smart answers” which are developed and maintained by GDS in partnership with other government departments.
 
-For all new digital government services going live from 1 April 2013 the GDS will create a domain name of the form “servicename.service.gov.uk” (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and GDS). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
+For all new digital government services going live from 1 April 2013 the GDS will create a domain name of the form “servicename.service.gov.uk” (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
-The process of obtaining a service.gov.uk subdomain begins either when the service manager asks a GDS product manager for a start page on GOV.UK (for services already under development at 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of service.gov.uk SHOULD describe the service (eg lastingpowerofattorney.service.gov.uk) and SHOULD NOT contain the name of the service owning department or agency (eg ministryofmagicwandregistration.service.gov.uk)
+The process of obtaining a service.gov.uk subdomain begins either when the service manager asks a Government Digital Service product manager for a start page on GOV.UK (for services already under development at 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of service.gov.uk SHOULD describe the service (eg lastingpowerofattorney.service.gov.uk) and SHOULD NOT contain the name of the service owning department or agency (eg ministryofmagicwandregistration.service.gov.uk)
 
 The service-owning dept/agency will be given delegated authority to manage the domain and its subdomains, although in some cases this work will be carried out by third party suppliers.
 
@@ -57,7 +57,7 @@ The user-facing live service SHOULD usually be operated using at most three user
 
 You SHOULD NOT create separate domains for APIs unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
 
-Service managers should notify the GDS technical architects (via your Transformation team contact) if you intend to create user-visible subdomains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
+Service managers should notify the Government Digital Service technical architects (via your Transformation team contact) if you intend to create user-visible subdomains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
 
 **Usernames and passwords**
 
