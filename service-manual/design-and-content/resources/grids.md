@@ -19,7 +19,7 @@ page_class: grid
 
 ## Guidance
 
-Use this mixin if you need to arrange content in a grid, or split part of a page into columns. You might want to do this for an image gallery, product catalogue or home page layout for example.
+Use this mixin if you need to arrange content in a grid, or split part of a page into columns. You might want to do this for an image gallery, product catalogue or home page layout for example. It's particularly useful if you don't want to explicitly represent rows or columns in the markup.
 
 ### Don't use this:
 
@@ -161,8 +161,9 @@ You can create grids of unequally-sized elements by passing in an array represen
 
 ## Cross browser support
 
-* Chrome, FF, Safari: All good
-* IE 8: Regular grids are fine. Irregular grids don't work, because of reliance on nth-child
+* Chrome, FF, Safari, IE9: All good
+* IE 7,8: Regular grids are fine. Irregular grids use first-child rather than nth-child. For multiple rows you'll need to pass in a $maxRows variable representing the maximum number of rows in the grid.
+* IE 6: All grid elements display 100% width
 
 
 

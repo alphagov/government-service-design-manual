@@ -18,7 +18,7 @@
   .example-3{ @include grid(8); }
   .example-4{ @include grid(2); }
 
-  .example-5{ @include grid((5,3)); }
-  .example-6{ @include grid((2,2,1)); }
-  .example-7{ @include grid((2,1)); }
+  .example-5{ @include grid((5,3), $maxRows: 2); }
+  .example-6{ @include grid((2,2,1), $maxRows: 2); }
+  .example-7{ @include grid((2,1), $maxRows: 2); }
 }
