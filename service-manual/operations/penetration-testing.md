@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Ensuring web based systems and applications are secure requires more than just good design and development. In order to identify vulnerabilities it is often a good idea to involve an idependent body to help find potential security problems before releasing to the public.
+Ensuring web based systems and applications are secure requires more than just good design and development. In order to identify vulnerabilities it is often a good idea to involve an independent body to help find potential security problems before releasing to the public.
 
 Sometimes referred to as **pen testing**, vulnerability and penetration testing is the act of analysing and testing a service for security problems. This is often a specialist activity done via a third party.
 
@@ -35,7 +35,7 @@ Security is rarely binary, in that it's not generally a matter of being secure o
 
 For any sizable project it is wise to engage with them as early as possible. They can provide guidance and expertise on potential problems and help you make sure the right things are tested.
 
-### Use inhouse expertise as well as external services
+### Use in-house expertise as well as external services
 
 Testing for security issues should be done throughout the development of a service, as well as regularly when it's up and running. Having third parties do this testing is a good way of introducing genuine experts and getting a different view on something. However it's also important to make sure the team building the software know that security is the responsibility of the team, and not something that is outsourced.
 
@@ -49,7 +49,7 @@ It may be that by using information available from a call centre you can exploit
 
 ## Automate where possible
 
-Although some level of exploratory manual testing is always a good idea when looking for vulnerabilities this is time consuming and expensive. Having some level of automation can often be a good idea. 
+Although some level of exploratory manual testing is always a good idea when looking for vulnerabilities this is time-consuming and expensive. Having some level of automation can often be a good idea.
 
 This may take the form of tests written or tools used specifically to test the security of a feature. For instance [Static Analysis](http://en.wikipedia.org/wiki/Static_program_analysis) or [input fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing).
 
