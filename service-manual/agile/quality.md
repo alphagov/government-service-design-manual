@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-Quality is at the heart of building services are so good that people prefer to use them. It is the responsibility of every member of the team and the quality of a system is defined by the people who create it.
+Quality is at the heart of building services that are so good that people prefer to use them. It is the responsibility of every member of the team and the quality of a system is defined by the people who create it.
 
 If the system being produced is lacking in quality, then it should be evident to everyone involved, and every person on the project should be taking action to increase quality and fix issues.
 
