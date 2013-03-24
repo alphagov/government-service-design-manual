@@ -29,11 +29,13 @@ Use this mixin if you need to arrange content in a grid, or split part of a page
 
 ## Using the mixin
 
-The [mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_regular-grid.scss) accepts two arguments:
+The [mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_regular-grid.scss) accepts the following arguments:
 
 `$columns` : The number of columns in the grid, or an array representing the relative width of each column.
 
 `$min-height` : An optional minimum height for grid elements. Useful if your grid elements contain varied amounts of content.
+
+`$max-rows` : Adds IE7,8 support for grids with varied column widths. See below for details.
 
 The mixin is tag-agnostic, so the elements can be list items, divs, paragraphs etc.
 Avoid applying border effects to the elements as this will throw out the widths.
@@ -121,7 +123,7 @@ You can create grids of unequally-sized elements by passing in an array represen
 
 ### 5,3 ratio example
 
-        @include grid((5,3));
+        @include grid((5,3), $max-rows: 2);
 
 <ul class="grid example-5">
   <li><p>Item 1</p></li>
@@ -136,7 +138,7 @@ You can create grids of unequally-sized elements by passing in an array represen
 
 ### 2,2,1 ratio example
 
-        @include grid((2,2,1));
+        @include grid((2,2,1), $max-rows: 2);
 
 <ul class="grid example-6">
   <li><p>Item 1</p></li>
@@ -149,7 +151,7 @@ You can create grids of unequally-sized elements by passing in an array represen
 
 ### 2,1 ratio example
 
-        @include grid((2,1));
+        @include grid((2,1), $max-rows: 2);
 
 <ul class="grid example-7">
   <li><p>Item 1</p></li>
@@ -162,7 +164,7 @@ You can create grids of unequally-sized elements by passing in an array represen
 ## Cross browser support
 
 * Chrome, FF, Safari, IE9: All good
-* IE 7,8: Regular grids are fine. Irregular grids use first-child rather than nth-child. For multiple rows you'll need to pass in a $maxRows variable representing the maximum number of rows in the grid.
+* IE 7,8: Regular grids are fine. Irregular grids use first-child rather than nth-child. For multiple rows you'll need to pass in a $max-rows variable representing the maximum number of rows in the grid.
 * IE 6: All grid elements display 100% width
 
 

@@ -15,12 +15,12 @@
 // $min-height  Sets a minimum heigh on the elements.
 //              Useful if the amount of content inside each element varies.
 //
-// $maxRows     For grids with multiple rows and unequal column widths.
+// $max-rows     For grids with multiple rows and unequal column widths.
 //              Browsers that don't support nth-child need this.
 
 
 
-@mixin grid($columns: 1, $min-height:"", $maxRows: 1) {
+@mixin grid($columns: 1, $min-height:"", $max-rows: 1) {
   margin: 0 -1em 0 0; // Negates effect of rightmost gutter
 
   $roundingComp: 0;
@@ -92,9 +92,9 @@
           }
 
           // Create a first-child statement for each element in the column
-          // up to a maximum set by the $maxRows variable (defaults to 1 row)
+          // up to a maximum set by the $max-rows variable (defaults to 1 row)
           $k:0;
-          @while $k < $maxRows {
+          @while $k < $max-rows {
             &:first-child#{$selectors}{ width: percentage($column/$sum + $roundingComp);}
             $selectors: $selectors + $rowSelectors;
             $k:$k+1;
