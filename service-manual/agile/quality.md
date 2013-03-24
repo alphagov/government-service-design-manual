@@ -32,15 +32,15 @@ Quality will mean different things to different members of the team, fundamental
 
 That may include:
 
-* The accessibility of the service to the broadest possible range of users across an appropriate range of devices
-* The simplicity of the interactions involved
-* The ability of the service provider to quickly provide appropriate support
-* Whether the storage and handling of any data is proportionate and secure
-* The robustness of the underlying software and infrastructure
- * Is the code well tested and largely bug-free?
- * Does it respond quickly when placed under reasonable amounts of load?
- * Can it be scaled rapidly to handle unusual amounts of traffic
-* The ability of the team to quickly add or modify features to respond to changing requirements or contexts
+* the accessibility of the service to the broadest possible range of users across an appropriate range of devices
+* the simplicity of the interactions involved
+* the ability of the service provider to quickly provide appropriate support
+* whether the storage and handling of any data is proportionate and secure
+* the robustness of the underlying software and infrastructure
+ * is the code well tested and largely bug-free?
+ * does it respond quickly when placed under reasonable amounts of load?
+ * can it be scaled rapidly to handle unusual amounts of traffic
+* the ability of the team to quickly add or modify features to respond to changing requirements or contexts
 
 
 ### A note on "Technical Debt"
