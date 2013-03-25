@@ -28,7 +28,7 @@ Don’t use chunks of italicised or capitalised text, and don’t underline text
 
 ### Use good colour contrast
 
-Use foreground/background colours for text that have a good contrast ratio. The 4.1:5 ratio recommended by the Web Content Accessibility Guidelines 2.0 is a good minimum.
+Use foreground/background colours for text that have a good contrast ratio. The 4.1:5 ratio recommended by the [Web Content Accessibility Guidelines 2.0](http://www.w3.org/TR/WCAG/) is a good minimum.
 
 Don’t use colour or shape as the only way to identify something in your document. Use text labels or descriptions instead.
 
