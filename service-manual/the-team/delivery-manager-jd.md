@@ -96,76 +96,64 @@ The main responsibilities of the post are:
 
 ### Analysing Evidence and Thinking Strategically
 
-Essential
-
+#### Essential
 * thinks strategically when integrating complex or conflicting analysis from a range of sources to provide balanced advice
 * makes sound, evidence-based decisions, assessing risks and defending decisions and action
 * champions and encourages others to think strategically when developing new approaches or addressing novel problems
 
 ### Managing and Supporting Programmes and Projects
 
-Essential
-
+#### Essential
 * manages people, resources and relationships efficiently to ensure effective delivery of programmes and projects
 * delivers timely project objectives within budget and to quality standards, ensuring that business benefits are realised
 * evaluates outcomes of programmes and projects to build capability and share lessons learned
 
 ### Focusing on Customers and Stakeholders
 
-Essential
-
+#### Essential
 * shapes, links and manages customer and stakeholder expectations to determine delivery capabilities, accounting for changing requirements
 * builds trust and openness with customers and stakeholders, keeps them updated on progress and acts upon feedback
 * empowers others to improve the scope, delivery capability, measurement and provision of customer and stakeholder services
 
 ### Leading and Team working
 
-Essential
-
+#### Essential
 * provides a vision and defines clear team roles, responsibilities and objectives
 
-Desirable
-
+#### Desirable
 * empowers, motivates and inspires teams to deliver timely results, systematically reviews progress and team performance
 * develops the capability of teams to deliver the Department's objectives
 
 ### Managing and Valuing People
 
-Essential
-
+#### Essential
 * reinforces a culture that values all people and rewards productive behaviour, promptly addressing any poor performance
 
-Desirable
-
+#### Desirable
 * ensures timely performance assessment to provide or gain constructive feedback on the delivery of objectives and equal opportunities for people to develop their capabilities
 * aligns people's development needs with strategic corporate requirements to enable talent to flourish
 
 ### Managing Finance and Resources
 
-Essential
-
+#### Essential
 * ensures an appropriate understanding of roles and responsibilities in complying with guidance on finance policies and procedures
 
-Desirable
-
+#### Desirable
 * anticipates business needs and managing resource requirements
 * plans effectively and utilises budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
 
 ### Communicating and Marketing
 
-Essential
-
+#### Essential
 * promotes effective information sharing
 
-Desirable
-
+#### Desirable
 * uses experts to help ensure the effective communication and marketing of business objectives
 * works in partnership with experts to define, plan, implement, review and measure the effectiveness of communication and marketing channels
 
 ### Specialist Skills / Expertise
 
-Essential
-
+#### Essential
 * experience in delivering services through digital / web channels in a fast paced environment
 * experience in Agile and Waterfall Project Management delivery methodologies
 * strong estimation and budget scoping skills
