@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Delivery manager job decription
+title: Web operations job decription
 category: the-team
 audience:
   primary:
@@ -17,11 +17,12 @@ breadcrumbs:
 
 *NOTE: the following template was used to advertise a web operations vacancy at GDS*
 
-POST TITLE:             Web Operations	
-PAYBAND:               	A							
-UNIT/DIVISION:       	Government Digital Service		
-LOCATION:              	London									
-TYPE OF POSTING: 	    2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
+
+POST TITLE: Web Operations</br>
+PAYBAND: A</br>
+UNIT/DIVISION: Government Digital Service</br>
+LOCATION: London</br>
+TYPE OF POSTING: 2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
                               	
 	
 ## VACANCY ADVERT
@@ -48,11 +49,11 @@ FOR INFORMATION REGARDING RECRUITMENT PROCESS, ELIGIBILITY, TERMS & CONDITIONS:
 cabinet-office.external@dwp.gsi.gov.uk
  
 FURTHER INFORMATION REGARDING THESE POSTS: 
-Please contact Carl Massa - carl.massa@digital.cabinet-office.gov.uk
+Please contact XXX 
 
-CLOSING DATE: 				
-EXPECTED SIFT DATE:		
-EXPECTED INTERVIEW DATES:	
+CLOSING DATE:</br>
+EXPECTED SIFT DATE:</br>
+EXPECTED INTERVIEW DATES:
 
 APPLICATIONS ARE WELCOME FROM PART TIMERS AND JOB SHARERS  
 
@@ -62,53 +63,43 @@ NOTE: SUCCESSFUL APPLICANTS WILL TRANSFER ONTO CABINET OFFICE TERMS AND CONDITIO
 
 ### Seeing the Big Picture
 
-Essential
 * anticipate technological developments to keep activity relevant and targeted
 
 #### Changing and Improving
  
-Essential
 * understand and identify the role of technology in public service delivery and policy implementation
 * spot warning signs of things going wrong and provide a decisive response to delivery challenges
 
 ### Making Effective Decisions
 
-Essential
 * make difficult decisions by pragmatically weighing the complexities involved against the need to act
 * draw together and present reasonable conclusions from a wide range of incomplete and complex evidence and data - able to act or decide even when details are not clear
 * identify the main issues in complex problems, clarify understanding of stakeholder expectations, to seek best option
 
 ### Collaborating and Partnering
  
-Essential
 * seek constructive outcomes in discussions, challenge assumptions but remain willing to compromise when it is beneficial to progress.
 
 ### Achieving Commercial Outcomes
 
-Essential
 * question and challenge the value being delivered through commercial arrangements with delivery partners
 
 ### Managing a Quality Service
 
-Essential 
 * ensure the service offer thoroughly considers customers' needs and a broad range of available methods to meet this, including new technology where relevant.
 
 ### Delivering at Pace
  
-Essential
 * maintain effective performance in difficult and challenging circumstances, encouraging others to do the same.
 * review, challenge and adjust performance levels to ensure quality outcomes are delivered on time
 
 ### SPECIALIST SKILLS AND REQUIREMENTS
 
-Essential
 * understanding of common web application architectures
 * experience configuring and managing Linux servers for serving a dynamic website
 * experience debugging a complex multi-server service
 * scripting or basic programming skills
 * familiarity with network protocols - TCP/IP, HTTP, SSL, etc.
-
-Desirable
 * installation and management of open source monitoring tools
 * configuration management tools like Puppet, Chef
 * deploying and configuring machines in a Cloud environment
