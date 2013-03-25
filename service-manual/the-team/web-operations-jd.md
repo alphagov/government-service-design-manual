@@ -18,10 +18,10 @@ breadcrumbs:
 *NOTE: the following template was used to advertise a web operations vacancy at GDS*
 
 
-POST TITLE: Web Operations</br>
-PAYBAND: A</br>
-UNIT/DIVISION: Government Digital Service</br>
-LOCATION: London</br>
+POST TITLE: Web Operations  
+PAYBAND: A  
+UNIT/DIVISION: Government Digital Service  
+LOCATION: London  
 TYPE OF POSTING: 2 year FTA with possibility of extension or permanency. The post will be reevaluated at the end of the period to match against the on-going requirements of GDS.
                               	
 	
