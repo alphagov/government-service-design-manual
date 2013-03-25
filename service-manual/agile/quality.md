@@ -28,7 +28,7 @@ If the system being produced is lacking in quality, then it should be evident to
 
 ## Defining Quality
 
-Quality will mean different things to different members of the team, fundamentally it is about the end-to-end experience of the service's users, from initial interaction to completion of the transaction.
+Quality will mean different things to different members of the team. Fundamentally it is about the end-to-end experience of the service's users, from the start to the end of the transaction.
 
 That may include:
 
