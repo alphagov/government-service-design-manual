@@ -52,17 +52,6 @@ This portal would support the 'source to settle' process, including:
 * pay
 * buy supplier 'bench' capability at a reduced rate
 
-### Differences between G-CLOUD and the Digital Procurement Framework
-
-In addition to those features described in the following table, The Digital Procurement Framework will also have a more suitable supplier payment structure and Terms & Conditions.
-
-![table showing differences](/service-manual/assets/images/framework-table.png)
-
-### Where does G-CLOUD fit in?
-
-While the GDS Digital Framework focuses on Agile development, some services to be available on the new framework are currently available in [G-Cloud](http://gcloud.civilservice.gov.uk/). However G-CLOUD’s primary focus is commodity services, such as infrastructure and hosting.  
-
-
 ## Managing consultants and specialists
 
 Achieving the right mix of contract versus permanent staff on your team will depend on your product.
