@@ -41,11 +41,11 @@ Generally a senior member of the lead organisation providing the service. Ultima
 
 More hands on than the SIRO, the accreditor or accreditors will work with the project team to help with understanding the process, identify risks and suggest mitigations.
 
-**CLAS Consultant**
+**CESG Listed Adviser Scheme (CLAS) Consultant**
 
 Part of the formal Accreditation process. Responsible for much of the formal documentation.
 
-**CESG**
+**CESG (originally Communications-Electronics Security Group)**
 
 [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
 
