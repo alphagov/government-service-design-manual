@@ -39,7 +39,7 @@ Prioritise features for them over everyone else -- including your big, scary sta
 ## “What do you want next Friday? What have we learned last week?”
 
 
-![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
+![A sprint backlog, courtesy of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
 
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
