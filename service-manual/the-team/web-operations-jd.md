@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Web operations job decription
+title: Web operations job description
 category: the-team
 audience:
   primary:
