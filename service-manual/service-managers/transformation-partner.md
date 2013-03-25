@@ -2,7 +2,6 @@
 layout: detailed-guidance
 title: Selecting a Transformation Partner
 subtitle: How to go about choosing a digital transformation partner
-hero: Digital by Default Service Standard
 category: service-managers
 audience: service-managers
 phases:
