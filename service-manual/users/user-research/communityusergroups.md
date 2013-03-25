@@ -31,7 +31,7 @@ The types of community differ and run across a spectrum of openness, permanency 
 
 ## Where and how you might use it
 
-Research communities can be used for a wide range of projects such as audience understanding, diary studies, concept development or simply idea generation. They allow a business to get close to users and offer meaningful dialogue between an organisation and it's customers.
+Research communities can be used for a wide range of projects such as audience understanding, diary studies, concept development or simply idea generation. They allow a business to get close to users and offer meaningful dialogue between an organisation and its customers.
 
 The key benefits are:
 
