@@ -85,15 +85,3 @@
     display: block;
   }
 }
-
-.page-tools{
-  ol li a{
-    color: $secondary-text-colour;
-    text-decoration: underline;
-    border: none;
-    padding: 2px 0;
-    &:hover{
-      color: $text-colour;
-    }
-  }
-}

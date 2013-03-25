@@ -1,0 +1,26 @@
+.page-tools {
+  ol {
+    list-style: none;
+    border-top: 1px solid $border-colour;
+    margin: 0;
+    padding: 1em 0;
+
+    li {
+      display: inline-block;
+      margin: 0 $gutter-one-third 0 0;
+      padding: 0;
+
+      a {
+        @include core-16;
+        
+        color: $secondary-text-colour;
+        text-decoration: underline;
+        border: none;
+        padding: 2px 0;
+        &:hover {
+          color: $text-colour;
+        }
+      }
+    }
+  }
+}
