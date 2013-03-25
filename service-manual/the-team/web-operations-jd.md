@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Delivery manager job decription
+title: Web operations job decription
 category: the-team
 audience:
   primary:
