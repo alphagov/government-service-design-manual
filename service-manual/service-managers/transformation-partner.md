@@ -2,10 +2,19 @@
 layout: detailed-guidance
 title: Selecting a Transformation Partner
 subtitle: How to go about choosing a digital transformation partner
-status: draft
+hero: Digital by Default Service Standard
 category: service-managers
 audience: service-managers
-hero: Digital by Default Service Standard
+phases:
+  - alpha
+  - beta
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Service Managers
+    url: /service-manual/service-managers
 ---
 
 Many departments will find it useful to engage with a partner who can help build digital capability within the department at the same time as working with them to deliver working digital service. In selecting a supplier as a digital transformation partner for the department, these are some of the things that we'd like to see.
