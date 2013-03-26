@@ -18,6 +18,8 @@ breadcrumbs:
 
 Many departments will find it useful to engage with a partner who can help build digital capability within the department at the same time as working with them to deliver working digital service. In selecting a supplier as a digital transformation partner for the department, these are some of the things that we'd like to see.
 
+This is very much a superset of the things that we'll want to see from a partner. Not all departments, and not all projects, will need all of this. For instance, many projects will involve interfacing with and/or migrating from legacy systems, whereas some purely green-field projects won't need to do this. Similarly, many projects will require the partners to take responsibility for both delivery and enablement, but some will require only one or the other.
+
 ## Track Record of Delivery
 
 The partner needs a proven track record of successful delivery, and will take responsibility for the delivery of the digital service.
