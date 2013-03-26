@@ -1,8 +1,8 @@
 ---
-layout: detailed-guidance
+layout: phases
 title: Beta phase
 subtitle: Scaling up and going public
-class: beta-phase
+class: beta
 category: guidance
 subcategory: Phases
 status: draft

@@ -41,21 +41,59 @@
     list-style-image: none;
   }
   padding: 0;
+  padding-left: 1em;
 
-  li {
+  > * {
     display: block;
     padding: 0 0 0.7em $gutter*2.5;
     margin: 0;
+    @include core-19;
+
+    &:before{
+      content: "";
+      display: block;
+      border: 0.3em solid;
+      background: white;
+      width: 1.5em;
+      margin: 0.5em -5.35em;
+    }
 
     &:first-child{
       padding-top: 0.5em;
+      margin-top: 5em;
+      &:before{
+        border: 0.6em solid;
+        height: 1.5em;
+        border-radius: 2em;
+        margin: -2.8em -5.65em;
+      }
+      h2{
+        margin-top: 0.5em;
+      }
     }
 
 
-    &.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
-    &.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
-    &.beta      { background: transparent url(../images/phases-timeline-beta.png) 0 0 no-repeat }
-    &.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
+    //&.discovery { background: transparent url(../images/phases-timeline-discovery.png) 0 0 no-repeat }
+    //&.alpha     { background: transparent url(../images/phases-timeline-alpha.png) 0 0 no-repeat }
+    //&.beta      { background: transparent url(../images/phases-timeline-beta.png) 0 0 no-repeat }
+    //&.live      { background: transparent url(../images/phases-timeline-live.png) 0 0 no-repeat }
+
+    &.discovery {
+      border-left: dotted 0.75em $discovery-colour;
+      &:before{border-color: $discovery-colour;}
+    }
+    &.alpha {
+      border-left: dotted 0.75em $alpha-colour;
+      &:before{border-color: $alpha-colour;}
+    }
+    &.beta {
+      border-left: dotted 0.75em $beta-colour;
+      &:before{border-color: $beta-colour;}
+    }
+    &.live {
+      border-left: dotted 0.75em $live-colour;
+      &:before{border-color: $live-colour;}
+    }
 
     p {
       margin: 0.75em 0;
@@ -65,7 +103,7 @@
     }
 
     h2 {
-      margin-top: 0;
+      margin-top: -1em;
       border-bottom: 0;
     }
 

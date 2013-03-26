@@ -1,5 +1,5 @@
 ---
-layout: phases
+layout: default
 title: Service design phases
 subtitle: Learn about the discovery, alpha, beta, and live phases of service design
 category: phases

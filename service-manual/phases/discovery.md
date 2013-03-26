@@ -1,8 +1,8 @@
 ---
-layout: detailed-guidance
+layout: phases
 title: Discovery phase
 subtitle: Find out what your users need, what to measure and what your constraints are
-class: discovery-phase
+class: discovery
 category: guidance
 subcategory: Phases
 status: draft

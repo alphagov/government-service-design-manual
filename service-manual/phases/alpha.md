@@ -1,8 +1,8 @@
 ---
-layout: detailed-guidance
+layout: phases
 title: Alpha phase
 subtitle: Build a prototype, test it with users and learn from it
-class: alpha-phase
+class: alpha
 category: guidance
 subcategory: Phases
 status: draft
