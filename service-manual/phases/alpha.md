@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Alpha
+title: Alpha phase
 class: alpha-phase
 category: guidance
 subcategory: Phases

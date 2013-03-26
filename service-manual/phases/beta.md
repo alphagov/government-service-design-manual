@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Beta
+title: Beta phase
 class: beta-phase
 category: guidance
 subcategory: Phases

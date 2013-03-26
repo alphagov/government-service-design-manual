@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Discovery
+title: Discovery phase
 class: discovery-phase
 category: guidance
 subcategory: Phases

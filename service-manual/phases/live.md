@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Live
+title: Live phase
 class: live-phase
 category: guidance
 subcategory: Phases
