@@ -6,6 +6,13 @@ category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases
+    url: /service-manual/phases
 ---
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.
@@ -32,7 +39,7 @@ The alpha doesn't need to be a complete, end-to-end service. You're looking to d
 Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users needs to meet them? If not, find out more and make a new prototype.
 
 ## How long does it take?
-The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in 6-9 week long sprints.
+The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in week long sprints over a 6-9 week period.
 
 ## Who do I need?
 This phase involves a relatively small core team, who will be capable of rapidly iterating solutions. It will probably expand and contract in size as different specialisms are required.

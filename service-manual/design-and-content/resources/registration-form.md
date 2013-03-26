@@ -13,6 +13,13 @@ phases:
   - live
 status: draft
 page_class: registration
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 This example form incorporates most of the basic form elements and lets you play wth different label alignments.

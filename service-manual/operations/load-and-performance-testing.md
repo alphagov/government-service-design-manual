@@ -47,7 +47,7 @@ We test sites and applications under realistic load to ensure that, when launche
 
 Even if a site or application is able to scale out successfully it doesn't mean it is fast. Site performance is a factor of many things, from the software running the site to the networks, proxies and caches involved in serving traffic over the internet. 
 
-Fast sites are generally much more effective to the extent that Google now includes performance in it's algorithms for determining which sites to feature in search results.
+Fast sites are generally much more effective to the extent that Google now includes performance in its algorithms for determining which sites to feature in search results.
 
 ## Further reading
 

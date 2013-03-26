@@ -9,6 +9,13 @@ phases:
   - live
 status: draft
 page_class: grid
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 
