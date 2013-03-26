@@ -53,6 +53,7 @@ This phase involves a relatively small core team, who will be capable of rapidly
 - cross-functional requirements
 - decision to progress to [beta phase](/service-manual/phases/beta.html)
 
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
@@ -79,6 +80,7 @@ This phase involves a relatively small core team, who will be capable of rapidly
     Team size
   </li>
 </ul>
+-->
 
 [Previously: Discovery](/service-manual/phases/discovery.html)
 [Next: Beta](/service-manual/phases/beta.html)

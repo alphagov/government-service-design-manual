@@ -50,6 +50,7 @@ You will leave the discovery phase with:
 * a decision to progress to next phase
 * maybe some rough prototypes
 
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
@@ -72,5 +73,6 @@ You will leave the discovery phase with:
     Team size
   </li>
 </ul>
+-->
 
 [Next: alpha](/service-manual/phases/alpha.html)

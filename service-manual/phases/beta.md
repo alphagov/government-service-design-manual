@@ -45,6 +45,8 @@ You will have:
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
 * a working system that can be used, for real, by end users
 
+
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
@@ -71,6 +73,7 @@ You will have:
     Team size
   </li>
 </ul>
+-->
 
 [Previously: alpha](/service-manual/phases/alpha.html)
 [Next: live](/service-manual/phases/live.html)

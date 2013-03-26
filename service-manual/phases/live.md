@@ -43,6 +43,8 @@ You will have identified the roles required to run your service, including the [
 
 ## What are the outputs?
 
+
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/website.png" />
@@ -57,6 +59,6 @@ You will have identified the roles required to run your service, including the [
     Team size
   </li>
 </ul>
-
+-->
 
 [Previously: beta](/service-manual/phases/beta.html)
