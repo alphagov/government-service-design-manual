@@ -3,10 +3,6 @@ layout: detailed-guidance
 title: Grids
 subtitle: Quickly lay out lists of items in a grid 
 category: design-and-development-resources
-type: resource
-audience:
-    primary: designers
-    secondary:
 phases:
   - alpha
   - beta
