@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Discovery phase
+subtitle: Find out what your users need, what to measure and what your constraints are
 class: discovery-phase
 category: guidance
 subcategory: Phases

@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Alpha phase
+subtitle: Build a prototype, test it with users and learn from it
 class: alpha-phase
 category: guidance
 subcategory: Phases

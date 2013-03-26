@@ -1,6 +1,7 @@
 ---
 layout: detailed-guidance
 title: Beta phase
+subtitle: Scaling up and going public
 class: beta-phase
 category: guidance
 subcategory: Phases
