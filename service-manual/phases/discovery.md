@@ -12,7 +12,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   - 
-    title: Phases
+    title: Phases of service design
     url: /service-manual/phases
 ---
 
