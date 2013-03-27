@@ -101,11 +101,11 @@ Tag decorative content elements as artefacts. Use Advanced > Accessibility > Tou
 
 ### Check data tables
 
-Use the Tags panel to check the structure of data tables. The <table>, <tr> and <td> tags should be used to give data tables the proper structure.
+Use the Tags panel to check the structure of data tables. The `<table>`, `<tr>` and `<td>` tags should be used to give data tables the proper structure.
 
 ### Check active links
 
-Use the Tags panel to check that links are active. Active links should be tagged with the <link> tag.
+Use the Tags panel to check that links are active. Active links should be tagged with the `<link>` tag.
 
 ### Check high contrast
 
@@ -129,9 +129,7 @@ Ask a screen reader user to read through the PDF. If no-one is available to do t
 
 ### Use NVDA
 
-Non Visual Desktop Access (NVDA) is a free open source screen reader for Windows. It can be installed to the desktop or run from a portable USB thumb drive.
-
-http://www.nvda-project.org/
+[Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be installed to the desktop or run from a portable USB thumb drive.
 
 With NVDA running, open the PDF and use the following commands to check the PDF:
 
@@ -141,8 +139,9 @@ With NVDA running, open the PDF and use the following commands to check the PDF:
 * use the g key (repeatedly) to move through the PDF and check for text descriptions.
 NB: These commands will also work with the Jaws screen reader from Freedom Scientific.
 
-Use VoiceOver
-VoiceOver is the integrated screen reader with Mac OS X and all Apple iDevices. In Mac OS X turn VoiceOver on (or off again) using Command + f5.
+### Use VoiceOver
+
+VoiceOver is the integrated screen reader with Mac OS X and all iOS devices. In Mac OS X turn VoiceOver on (or off again) using Command + F5.
 
 With VoiceOver running open the PDF and use the following commands to check the PDF:
 
