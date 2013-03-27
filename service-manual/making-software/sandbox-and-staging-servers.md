@@ -34,7 +34,7 @@ In addition to those environments it can be helpful to have a separate staging e
 
 For those working on GOV.UK we use the [Vagrant](http://www.vagrantup.com/) tool to provide all developers with a development environment configured similarly to the production environment. 
 
-We then have a preview environment that is updated by our [Continuous Integration](http://jenkins-ci.org/) system whenever tests have passed on a change. There is then a staging environment for review of specific changes before they go to the production environment. It is updated and reviewed as part of the release process.
+We then have a preview environment that is updated by our [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration) system whenever tests have passed on a change. There is then a staging environment for review of specific changes before they go to the production environment. It is updated and reviewed as part of the release process.
 
 ##Why we do this
 * everyone on the team should be able to understand progress to date by using running software
