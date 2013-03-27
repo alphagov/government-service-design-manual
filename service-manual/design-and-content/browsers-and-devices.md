@@ -104,7 +104,7 @@ Ben Welby discusses [the operating systems, browsers and devices supported](http
 
 Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](http://digital.cabinetoffice.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices - Tom Byers, GDS') (November 2012).
 
-Dafydd Vaughan with an update on [browser usage on GOV.UK](http://digital.cabinetoffice.gov.uk/2012/12/12/browser-usage-on-gov-uk/ ‘Browser usage on GOV.UK - Dafydd Vaughan, GDS’) post-launch.
+Dafydd Vaughan with an update on [browser usage on GOV.UK](http://digital.cabinetoffice.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOVUK - Dafydd Vaughan, GDS') post-launch.
 
 The Guardian introduce their [use of responsive design](http://www.guardian.co.uk/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 
