@@ -2,7 +2,7 @@
 layout: phases
 title: Beta phase
 subtitle: Scaling up and going public
-class: beta
+phase: beta
 category: guidance
 subcategory: Phases
 status: draft

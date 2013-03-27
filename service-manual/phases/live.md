@@ -2,7 +2,7 @@
 layout: phases
 title: Live phase
 subtitle: Learn how to continuously improve your live service
-class: live
+phase: live
 category: guidance
 subcategory: Phases
 status: draft

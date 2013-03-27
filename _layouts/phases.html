@@ -18,8 +18,26 @@ section_class: phases
   <div class="article-container group">
     <div class="inner">
       <div class="phases-list">
-        <div class="{{ page.class }}">
-      {{ content }}
+        <div class="{{ page.phase }}">
+          {{ content }}
+        </div>
+
+        <div class="link-list {{ page.phase }}">
+          <h2>Guidance for this phase</h2>
+          <ul>
+            {% sorted_for p in site.pages sort_by:title %}
+              {% if p.phases %}
+                {% for phase_tag in p.phases %}
+                  {% if phase_tag == page.phase %}
+                  <li>
+                    <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+                    <span class="subtitle">{{ p.subtitle }}</span>
+                  </li>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+            {% endsorted_for %}
+          </ul>
         </div>
       </div>
     </div>
