@@ -30,4 +30,4 @@ Understanding your end-to-end deployment pipeline has massive benefits for addre
 
 If one treats long-term planning as an attempt to predict the future, then attempting to predict what features will be available for a production release slot in 6 months time is a somewhat redundant exercise. If instead, your process allows for deploying anything when it is ready, then release planning becomes a lot simpler. If a project needs to miss a release slot, then it can always be rescheduled for tomorrow or next week, rather than in 6 months, or perhaps in a year if the next slot is already full up!
 
-Another advantage is being able to quickly respond to security patches or similar changes in underlying libraries / frameworks used by your application.
+Another advantage is being able to quickly respond to security patches or similar changes in underlying libraries / frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
