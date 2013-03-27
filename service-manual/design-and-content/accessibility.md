@@ -47,7 +47,7 @@ Your service should be usable by recent versions of [Jaws](http://www.freedomsci
 
 ## Accessible formats
 
-HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.md) should be followed. There is more information on [chosing appropriate formats](/service-manual/design-and-content/chosing-appropriate-formats.md)
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.html) should be followed. There is more information on [chosing appropriate formats](/service-manual/design-and-content/chosing-appropriate-formats.html)
 
 ##Further reading
 If you want to read more about the accessibility testing we've carried out while building GOV.UK, [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/) will tell you more.
