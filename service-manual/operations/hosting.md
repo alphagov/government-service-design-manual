@@ -21,7 +21,7 @@ The software running your service will need servers to run on. This guide will h
 
 ## Deciding how to host your application
 
-The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available Procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
+The recommended approach is to involve a small cross-functional group of people. They will quickly access different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
 
 It is important to keep good notes from any interviews or deliberation sessions and to access different suppliers equally. A scoring matrix can help here.
 
@@ -31,7 +31,7 @@ It is worth stating that it's very common to use multiple suppliers. This may be
 
 There are a number of different approaches taken by suppliers of hosting services, which can make comparing offerings difficult. The following is intended only as a brief introduction.
 
-This advice is complicated because many service providers redefine the meanings for marketing reasons. In particular **Infrastructure as a service** and **Platform as a service** are marketable at the moment and often used incorrectly. Always look into the details of the services being offered.
+This advice is complicated because many service providers redefine the meanings of hosting terms for marketing reasons. In particular **Infrastructure as a service** and **Platform as a service** are marketable at the moment and often used incorrectly. Always look into the details of the services being offered.
 
 ### Ownership
 
@@ -43,7 +43,7 @@ Many providers offer co-location services which is where you purchase your own h
 
 ### Shared or managed hosting
 
-Lots of service providers have a shared or managed hosting option. This tends to mean renting specific virtual or physical machines for fixed periods of time. Different suppliers other different management services, some just manage the underlying machine while others will support the operating system and even specific applications running on the machines.
+Lots of service providers have a shared or managed hosting option. This tends to mean renting specific virtual or physical machines for fixed periods of time. Different suppliers offer different management services; some just manage the underlying machine while others will support the operating system and even specific applications running on the machines.
 
 ### Infrastructure as a service
 
@@ -51,7 +51,7 @@ In the last several years Infrastructure as a service has become a common approa
 
 ### Platform as a service
 
-Similar to Infrastructure as a service above, Platform as a service offerings tend to allow for quickly adding or removing capacity and fine grained pay on demand pricing. The difference is is that you are abstracted away from the underlying infrastructure completely. The unit here is the running application, not a virtual or physical machine. Using a Platform as a service places a number of constraints on the software architecture but can move the support burden for parts of the stack onto the supplier.
+Similar to Infrastructure as a service above, Platform as a service offerings tend to allow for quickly adding or removing capacity and fine-grained pay on demand pricing. The difference is is that you are abstracted away from the underlying infrastructure completely. The unit here is the running application, not a virtual or physical machine. Using a Platform as a service places a number of constraints on the software architecture but can move the support burden for parts of the stack onto the supplier.
 
 ## Make your decisions carefully
 

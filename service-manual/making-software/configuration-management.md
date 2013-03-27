@@ -44,13 +44,13 @@ Once described in code the infrastructure configuration is executed against the 
 
 ### Build for portability
 
-Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules it's possible to build lockin with simple technical inertia. 
+Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules it's possible to build lock-in with simple technical inertia. 
 
 Configuration management encourages a deep understanding of the configuration of the system and this can be used to move software easily between providers.
 
 ### Use the same tools for development and production
 
-A common problem in software systems is seen when code written by a development team works on their machine or a test environment but not on the production environment. A common cause of this is differences in configuration - different versions of software, different types of database or application server. This can be avoided by using the same tools for both development and production environments.
+A common problem in software systems is seen when code written by a development team works on their machine or a test environment but not on the production environment. A common cause of this is differences in configuration – different versions of software, different types of database or application server. This can be avoided by using the same tools for both development and production environments.
 
 ## Why we do this
 
