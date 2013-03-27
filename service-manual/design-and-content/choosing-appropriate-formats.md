@@ -28,7 +28,7 @@ You should publish documents in formats that reflect the format of the informati
 
 - For tabular data, use [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or a similar "structured data" format (see also [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML)). Do not publish structured data in unstructured formats such as PDF.
 
-- For written reports, consider the accessibility of your report to your readers. PDF can be an excellent display format, but without additional effort it can be inappropriate for users of screenreading software. You might use a more accessible format such as HTML, provide accessible alternate formats for the document, or invest effort in accessibility tagging your PDFs.
+- For written reports, consider the accessibility of your report to your readers. PDF can be an excellent display format, but without additional effort it can be inappropriate for users of screenreading software. You might use a more accessible format such as HTML, provide accessible alternate formats for the document, or invest effort in [accessibility tagging your PDFs](/service-manual/design-and-content/resources/creating-accessible-PDFs.html).
 
 If you are publishing tabular information (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically. By publishing in a "machine-readable" format such as CSV, you are helping them do so with minimal additional effort. Similarly, by making available accessible versions of textual reports, you are ensuring that you do not exclude users who have every right to receive your publications.
 
