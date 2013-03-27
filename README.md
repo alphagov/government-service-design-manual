@@ -33,19 +33,16 @@ The following keys are used throughout:
 
 ### Content page meta data
 
-.. list-table::
-  :header-rows: 1
-
 | Key | Values | Description |
-------------------------------
+|-----|--------|-------------|
 | `title:` | Page title | Used at the top of the page, and in links to the page |
 | `subtitle:` | Page subtitle | Used below page title, and optionally in links to the page |
-| `category` | `[agile|assisted-digital|design-and-content]` etc | The category the page lives in the browse page |
-| `layout:` | `[detailed-guidance|role-index|phases]` | Page layout |
-| `type:` | `[guide|resource]` | Used to differentiate content types so they can be grouped on index pages |
+| `category` | `agile`, `assisted-digital`, `design-and-content`, etc | The category the page lives in the browse page |
+| `layout:` | `detailed-guidance`, `role-index`, `phases`, etc | Page layout |
+| `type:` | `guide`, `resource` | Used to differentiate content types so they can be grouped on index pages |
 | `audience: primary:` | `designer, developer, researcher` etc. | Primary audience. Link to page will appear in top half of audience index page |
 | `audience: secondary:` | | Secondary audience. Link to page will appear in bottom half of audience index |
-| `phases:` | `[discovery|alpha|beta|live]` | An array of values. Adds links to page header and lists pages in relevant phase page |
+| `phases:` | `discovery`, `alpha`, `beta`, `live` | An array of values. Adds links to page header and lists pages in relevant phase page |
 | `breadcrumbs:` | An array of objects with `title:` and `url:` values | Adds a breadcrumb trail to the top of the page |
 
 Index page meta data
@@ -53,8 +50,8 @@ Index page meta data
 
 Index pages list out links to content pages, for example, the role specific pages that are built using the ``audience`` keys.
 
-| Key | Values | Description |
-------------------------------
+| Key | Description |
+|-----|-------------|
 | `hero:` |  Takes the value of the `title` key of a page | Use this to select a page for the hero promo on an index page. Any items appearing in the 'hero' slot will be removed from other lists on the page |
 
 
