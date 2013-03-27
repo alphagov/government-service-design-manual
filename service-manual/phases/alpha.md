@@ -6,6 +6,13 @@ category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases
+    url: /service-manual/phases
 ---
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.

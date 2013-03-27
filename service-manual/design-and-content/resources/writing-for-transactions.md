@@ -8,6 +8,13 @@ audience:
   primary: content-designers, designers
 type: guide
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## Writing microcopy
@@ -35,7 +42,7 @@ for things like buttons, form labels, help text, alerts and questions.
 ## Writing help text
 
 Your first strategy when it comes to help text is to design a service that's 
-so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for it's own sake - the real innovation is an
+so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for its own sake - the real innovation is an
 easy to use government service.
 
 Sometimes though, users need a little help. Here are some ways of providing it.
@@ -71,7 +78,7 @@ This is the nuclear option and should only be considered as a last resort. Popup
 
 The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (e.g. Google).
 
-The design of the start page will be determined by the nature of the service and it's audience. All start pages should meet the following goals:
+The design of the start page will be determined by the nature of the service and its audience. All start pages should meet the following goals:
 
 ### Describe the service
 

@@ -39,7 +39,7 @@ For particularly large projects with very specific requirements you may decide t
 
 ### Co-location
 
-Many providers offer co-location services which is where you purchase your own hardware to put into a managed data centre. This provides a great deal of flexibility but can introduce lead times and other physical constrains. It also requires a wide range of technical specialist skills. 
+Many providers offer co-location services which is where you purchase your own hardware to put into a managed data centre. This provides a great deal of flexibility but can introduce lead times and other physical constraints. It also requires a wide range of technical specialist skills. 
 
 ### Shared or managed hosting
 

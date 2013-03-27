@@ -83,6 +83,9 @@
         display: block;
         background-color: $main-colour;
         text-decoration: none;
+        > *{
+          margin-top: 0;
+        }
         h3, p{
           color: white;
           padding-top: 0;

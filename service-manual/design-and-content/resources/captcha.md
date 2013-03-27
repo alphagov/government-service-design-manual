@@ -13,6 +13,13 @@ phases:
   - beta
   - live
 page_class: buttons
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## What are they?
@@ -30,7 +37,7 @@ Additionally, if a 3rd party CAPTCHA service is used, there are further problems
 
 * **Privacy** - 3rd party CAPTCHA services set cookies, collect analytics and can track users across multiple sites. This introduces significant privacy concerns.
 * **Performance** - use of a 3rd party CAPTCHA service ties your performance to theirs. If their service goes offline, so does access to your service.
-* **Security** - the security of your service is tied to that of the 3rd party. If they are compromised, so is your service and it's users.
+* **Security** - the security of your service is tied to that of the 3rd party. If they are compromised, so is your service and its users.
 
 ## Alternatives to CAPTCHA
 

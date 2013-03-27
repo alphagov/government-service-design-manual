@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Designer job decription
+title: Designer job description
 category: the-team
 audience:
   primary:

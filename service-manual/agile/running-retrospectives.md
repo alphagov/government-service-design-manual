@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-One of the central principles of agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
+One of the central principles of agile is quick feedback loops – we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
 
 ## What is a retrospective?
 
@@ -61,14 +61,14 @@ Working agreements might include:
 
 * Everyone contributes
 * Do not speak over each other (except for the facilitator)
-* No laptops - focus should be on the meeting
+* No laptops – focus should be on the meeting
 
 ## Outcomes of a retrospective
 
 {:.left}
 ![Retrospective Sections](https://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
-The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
+The outcome of a retrospective should be some actions that can be taken to improve the process – ideally for the next iteration, but certainly as soon as possible.
 
 Actions should:
 
@@ -103,7 +103,7 @@ Make sure they have been completed. If not, find out why not. Do they still need
 
 ### 00:10 to 00:20 (10 mins) The Good
 
-Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own to the wall, possibly saying a few words about each. Don't allow this to develop into a discussion at this point - at the moment we are just gathering data.
+Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own to the wall, possibly saying a few words about each. Don't allow this to develop into a discussion at this point – at the moment we are just gathering data.
 
 ### 00:20 to 00:30 (10 mins) Discussion
 
@@ -126,7 +126,7 @@ Again, group the post-its and prioritise if necessary, and discuss the main area
 
 Spend some time looking at the actions we have identified, assigning them to people present and setting realistic deadlines for completion.
 
-Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
+Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun – if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
 
 ##Why we do this
 
