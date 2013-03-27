@@ -1,3 +1,26 @@
+---
+layout: detailed-guidance
+title: Creating Accessible PDFs
+subtitle: How to make PDFs that everyone can use
+category: design-and-content
+type: resource
+audience:
+  secondary: designers, developers, content-designers
+status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
+---
+
 # Overview
 
 The best way to create an accessible PDF is to create an accessible source document. Well structured Microsoft Word documents make good source documents for conversion to PDF. When a source document is converted into PDF it is tagged. The PDF tag tree reflects the structure of the document, and it’s this structure that assistive technologies like screen readers use to navigate the document.
