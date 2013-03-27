@@ -209,7 +209,7 @@ For more information on the GDS Performance Platform see this [blogpost from Ric
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Designing with Data*](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0Bwrn_Ey2B7pcYjBhNDgzOGUtNjZlYi00NjA4LTgwYjAtZWJiMmM3MTk4Nzcw/edit) provides a comprehensive understanding of how to best engage the audience with your data. A video of Brian Suda presenting on a section of his book at the 2012 DIBI conference is available [here](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 
