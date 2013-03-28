@@ -99,7 +99,7 @@ We would like to see specific expertise with practices including:
         * Aggressive automation
         * Shared goals and toolsets
 * Automated environment provisioning and deployment.
-    * Chef, Puppet, Fabric etc.
+    * [Chef][], [Puppet][], [Fabric][], [Vagrant][] etc.
     * Cloud environments
         * Hosting vs. [IaaS][] vs [PaaS][]
 * Enablement
@@ -108,7 +108,13 @@ We would like to see specific expertise with practices including:
     * Training
 * UX
 
+Note that we are looking for these things as 
+
 [invest]: http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/ "Independent, Negotiable, Valuable, Estimable, Small, Testable"
+[puppet]: http://projects.puppetlabs.com/projects/puppet
+[chef]: http://www.opscode.com/chef/
+[vagrant]: http://www.vagrantup.com/
+[fabric]: http://fabfile.org
 
 ## Tool and platform selection
 
