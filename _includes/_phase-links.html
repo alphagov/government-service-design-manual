@@ -1,0 +1,14 @@
+<ul>
+  {% sorted_for p in site.pages sort_by:title %}
+    {% if p.category == link_cat %}
+      {% for phase in p.phases %}
+        {% if phase == page.phase %}
+        <li> 
+          <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+          <span class="subtitle">{{ p.subtitle }}</span>
+        </li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  {% endsorted_for %}
+</ul>

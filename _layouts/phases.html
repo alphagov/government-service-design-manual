@@ -22,22 +22,43 @@ section_class: phases
           {{ content }}
         </div>
 
-        <div class="link-list {{ page.phase }}">
+        <div class="{{ page.phase }}">
           <h2>Guidance for this phase</h2>
-          <ul>
-            {% sorted_for p in site.pages sort_by:title %}
-              {% if p.phases %}
-                {% for phase_tag in p.phases %}
-                  {% if phase_tag == page.phase %}
-                  <li>
-                    <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-                    <span class="subtitle">{{ p.subtitle }}</span>
-                  </li>
-                  {% endif %}
-                {% endfor %}
-              {% endif %}
-            {% endsorted_for %}
-          </ul>
+
+          <div class="link-list">
+            <h2 id="agile">Agile</h2>
+            {% assign link_cat = 'agile' %}
+            {% include _phase-links.html %}
+
+            <h2 id="assisted-digital">Assisted digital</h2>
+            {% assign link_cat = 'assisted-digital' %}
+            {% include _phase-links.html %}
+
+            <h2 id="content-and-design">Design and content</h2>
+            {% assign link_cat = 'design-and-content' %}
+            {% include _phase-links.html %}
+
+            <h2 id="making-software">Making software</h2>
+            {% assign link_cat = 'making-software' %}
+            {% include _phase-links.html %}
+
+            <h2 id="measurement">Measurement</h2>
+            {% assign link_cat = 'measurement' %}
+            {% include _phase-links.html %}
+
+            <h2 id="operations">Operations</h2>
+            {% assign link_cat = 'operations' %}
+            {% include _phase-links.html %}
+
+            <h2 id="the-team">The team</h2>
+            {% assign link_cat = 'the-team' %}
+            {% include _phase-links.html %}
+
+            <h2 id="users">Users</h2>
+            {% assign link_cat = 'users' %}
+            {% include _phase-links.html %}
+          </div>
+
         </div>
       </div>
     </div>
