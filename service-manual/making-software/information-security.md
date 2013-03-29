@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-The Government Information security community and processes exist to help service managers both meet their obligations to those processes, and more importantly to help build world class services.
+The government information security community and processes exist to help service managers both meet their obligations to those processes, and more importantly to help build world class services.
 
 The assurance and accreditation processes exist to provide a structure for those activities with a shared language to allow risks, mitigations (and opportunities) to be clearly understood by everyone throughout the organisation delivering a service.
 
