@@ -20,8 +20,8 @@ breadcrumbs:
     title: Making software
     url: /service-manual/making-software
 ---
-    
-Your system is likely to be much larger than a single application, relying on other supporting infrastructure components. Even a simple application probably requires some configuration, to provide database credentials or a web service endpoint for instance. 
+
+Your system is likely to be much larger than a single application, relying on other supporting infrastructure components. Even a simple application probably requires some configuration, to provide database credentials or a web service endpoint for instance.
 
 In order to build robust, scalable and portable systems this configuration data should be well managed.
 
@@ -56,7 +56,7 @@ A common problem in software systems is seen when code written by a development 
 
 Existing approaches to managing configuration are often manual, process heavy, slow and error prone. Ultimately people are bad at carrying out detailed monotonous tasks. And installing and configuring software across tens or hundreds of servers (if done by hand) is definitely monotonous.
 
-Even if this could be done to provide everything correctly configured on day 0, over time configuration drifts if not kept in check. One traditional approach to this problem is to make configuration changes hard, thereby limiting the number of them. When trying to build agile and flexible software systems rapid change is needed and manual processes break down. 
+Even if this could be done to provide everything correctly configured on day 0, over time configuration drifts if not kept in check. One traditional approach to this problem is to make configuration changes hard, thereby limiting the number of them. When trying to build agile and flexible software systems rapid change is needed and manual processes break down.
 
 ## Further reading
 
