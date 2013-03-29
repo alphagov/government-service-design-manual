@@ -44,7 +44,7 @@ Once described in code the infrastructure configuration is executed against the 
 
 ### Build for portability
 
-Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules it's possible to build lock-in with simple technical inertia. 
+Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules it's possible to lock yourself in through technical inertia alone.
 
 Configuration management encourages a deep understanding of the configuration of the system and this can be used to move software easily between providers.
 
