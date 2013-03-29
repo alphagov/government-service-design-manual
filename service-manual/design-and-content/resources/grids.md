@@ -32,7 +32,7 @@ Use this mixin if you need to arrange content in a grid, or split part of a page
 
 ## Using the mixin
 
-The [mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_regular-grid.scss) accepts the following arguments:
+The [mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_grid.scss) accepts the following arguments:
 
 `$columns` : The number of columns in the grid, or an array representing the relative width of each column.
 
