@@ -61,7 +61,7 @@ address one or more of these concerns through:
 - Technical controls: cryptographic software, authentication and authorization
   systems, secure protocols
 
-Not every system requires a fully battery of security controls. Indeed,
+Not every system requires a full battery of security controls. Indeed,
 "completely secure systems" do not exist, and overly secure systems are often
 prohibitively expensive or thoroughly inconvenient for their users. You should
 aim to build services that are *appropriately secure*, and in practice you will
