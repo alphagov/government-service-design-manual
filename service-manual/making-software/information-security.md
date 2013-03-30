@@ -134,9 +134,9 @@ above groups.
 
 Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three "key concepts" mentioned above, and measure:
 
-* IL confidentiality: the potential impact if the information is seen by those who should not see it
-* IL integrity: the potential impact if the accuracy or completeness of the information is compromised
-* IL availability: the potential impact if the information becomes inaccessible
+* For confidentiality: the potential impact if the information is seen by those who should not see it
+* For integrity: the potential impact if the accuracy or completeness of the information is compromised
+* For availability: the potential impact if the information becomes inaccessible
 
 More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
 
