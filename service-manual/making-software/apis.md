@@ -33,13 +33,13 @@ This is especially a risk in the absence of a developer community driving [the n
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Web site leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
+Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
 
 Becoming a consumer of your own APIs not only validates your API, but exposes services [on The Web](http://www.w3.org/TR/webarch/).
 
 ### Just use The Web
 
-Consider an API to be a part of a Web site.
+Consider an API to be a part of a Website.
 
 Provide links to machine-friendly formats from human readable pages, and enable agents to easily construct URLs which link to human-friendly representations of pages.
 
