@@ -54,7 +54,7 @@ Free and open source software has a number of architectural benefits over closed
 
 Coding in the open lowers the barriers to collaboration with others inside and outside of your organisation, increasing the speed of new developers being productive on a project. Modern developers are usually more familiar with open source tools and ways of working than with proprietary products.
 
-Freedom at the point of use means open source software may be downloaded and assessed by developers without payment, prior agreement, a need to sign non-disclosure documentation, needing to waiver rights, or enter into aporia agreements on behalf of themselves or their organisation.
+Freedom at the point of use means open source software may be downloaded and assessed by developers without payment, prior agreement, a need to sign non-disclosure documentation, needing to waive rights, or enter into aporia agreements on behalf of themselves or their organisation.
 
 ### Avoid vendor lock-in
 
