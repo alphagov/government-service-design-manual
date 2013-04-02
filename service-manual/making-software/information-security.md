@@ -91,7 +91,7 @@ The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it
 
 ## Ongoing
 
-The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. New threats may emerge or systems and processes change over time. 
+The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. Over time, new threats may emerge, systems and processes may change, and assumptions may become invalid.
 
 Documentation should be kept up-to-date and additional penetration tests organised on a regular or as-needed basis.
 
