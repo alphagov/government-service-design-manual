@@ -130,7 +130,7 @@ You should consider carefully how you intend to test your integration with the s
 
 Many of the GOV.UK publishing applications send emails to provide alerts for content designers. When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
 
-Our "data insights" code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of google's API that lets us check the right data is being sent.
+Our "data insights" code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to Google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of Google's API that lets us check the right data is being sent.
 
 Our publishing systems make use of a single sign-on service. In most of our tests the interaction with that service are mocked so the applications' tests can be run in isolation, but we also have a suite of "smoke tests" that run in our preview environment and use dummy accounts to ensure that the full authentication and authorisation flow is working.
 
