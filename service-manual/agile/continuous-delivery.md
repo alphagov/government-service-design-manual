@@ -32,6 +32,6 @@ If you treat long-term planning as an attempt to predict the future, then attemp
 
 Another advantage is being able to quickly respond to security patches or similar changes in underlying libraries / frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
 
-[Agile] : /service-manual/agile
-[configuration management] : /service-manual/making-software/configuration-management.html
-[Lean philosophy] : http://en.wikipedia.org/wiki/Lean_software_development
+[Agile]: /service-manual/agile
+[configuration management]: /service-manual/making-software/configuration-management.html
+[Lean philosophy]: http://en.wikipedia.org/wiki/Lean_software_development
