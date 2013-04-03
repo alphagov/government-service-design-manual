@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
     
-Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties." 
+[Martha Lane Fox's report](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](http://en.wikipedia.org/wiki/Application_programming_interface)) to third parties." 
 
 This section is a set of guiding principles for exposing a digital service as an API.
 
@@ -33,13 +33,13 @@ This is especially a risk in the absence of a developer community driving [the n
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Web site leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
+Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
 
 Becoming a consumer of your own APIs not only validates your API, but exposes services [on The Web](http://www.w3.org/TR/webarch/).
 
 ### Just use The Web
 
-Consider an API to be a part of a Web site.
+Consider an API to be a part of a Website.
 
 Provide links to machine-friendly formats from human readable pages, and enable agents to easily construct URLs which link to human-friendly representations of pages.
 
@@ -61,7 +61,7 @@ These principles enable network effects which arise through linking and allow in
 ### Use HTTP methods as Tim intended
 Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_\(HTTP\)), PUT or DELETE method.
 
-Use PUT and DELETE which are commonly blocked by firewalls, intranet proxies, hotel Wifi and mobile operators with caution; always offer a POST alternative.
+Use PUT and DELETE with caution, as they are commonly blocked by firewalls, intranet proxies, hotel Wifi and mobile operators; always offer a POST alternative.
 
 Avoid HTTP methods which are not well defined, such as PATCH.
 
@@ -130,7 +130,7 @@ You should consider carefully how you intend to test your integration with the s
 
 Many of the GOV.UK publishing applications send emails to provide alerts for content designers. When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
 
-Our "data insights" code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of google's api that lets us check the right data is being sent.
+Our "data insights" code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to Google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of Google's API that lets us check the right data is being sent.
 
 Our publishing systems make use of a single sign-on service. In most of our tests the interaction with that service are mocked so the applications' tests can be run in isolation, but we also have a suite of "smoke tests" that run in our preview environment and use dummy accounts to ensure that the full authentication and authorisation flow is working.
 
