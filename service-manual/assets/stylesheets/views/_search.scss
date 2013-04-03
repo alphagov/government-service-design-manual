@@ -34,7 +34,7 @@
   .gsc-wrapper {
     .gsc-results {
       width: 75%;
-      
+
       .gsc-result {
         .gs-title {
           height: auto;
@@ -75,6 +75,14 @@
         .gsc-table-result {
           @include core-16;
           padding: 0;
+        }
+
+        .gs-no-results-result .gs-snippet {
+          @include core-19;
+          padding: 0;
+          margin: 0;
+          border: none;
+          background-color: transparent;
         }
       }
 
