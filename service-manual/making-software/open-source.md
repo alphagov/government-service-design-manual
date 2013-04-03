@@ -33,7 +33,7 @@ In such cases, take care to mitigate the risk of lock-in to a single supplier by
 
 Where possible use DNS addresses you own for services, and demand open formats for the import and export of your data.
 
-For unique needs and common problems which have yet to be solved well elsewhere, develop software by [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) and publish under an [open source licence](/service-manual/making-software/open-standards-and-licencing.html).
+For unique needs and common problems which have yet to be solved well elsewhere, develop software by [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) and publish under an [open source licence](/service-manual/making-software/open-standards-and-licensing.html).
 
 Whenever possible construct software in the form of small components and utilities, re-usable both inside and outside of your organisation. Keep infrastructure code and secrets, including passwords and deployment configuration and scripts, separate and privately from publicly visible source code.
 
