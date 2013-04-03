@@ -33,7 +33,9 @@
 
   .gsc-wrapper {
     .gsc-results {
-      width: 75%;
+      @include media(desktop) {
+        width: 75%;
+      }
 
       .gsc-result {
         .gs-title {
