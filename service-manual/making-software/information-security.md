@@ -25,7 +25,7 @@ It goes without saying that security of Government services is incredibly import
 
 The assurance and accreditation processes exist to provide a structure for those activities with a shared language to allow risks, mitigations (and opportunities) to be clearly understood by everyone throughout the organisation delivering a service.
 
-The important thing to note about building trustworthy and secure systems is that it's a team game. assurance and accreditation should not be a completely separate strand of work, or seen as a hurdle to be got over (or around). Only by engaging with risk and making decisions based on a range of expert opinion will you end up with the best product.
+The important thing to note about building trustworthy and secure systems is that it's a team game. Assurance and accreditation should not be a completely separate strand of work, or seen as a hurdle to be got over. Only by engaging with risk and making decisions based on a range of expert opinion will you end up with the best product.
 
 > NOTE: The following uses quite a lot of acronyms. Unfortunately these are in common usage and it's very hard to engage with the existing documentation and processes without speaking the lingo. All the acronyms should be explained before being used.
 
@@ -87,11 +87,11 @@ The Risk Management Document Set or RMADS are the result of the formal accredita
 
 ## IT Health Check (ITHC)
 
-The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about penetration and vulnerability testing for more details.
+The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about [penetration and vulnerability testing](/service-manual/operations/penetration-testing.html) for more details.
 
 ## Ongoing
 
-The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. New threats may emerge or systems and processes change over time. 
+The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. Over time, new threats may emerge, systems and processes may change, and assumptions may become invalid.
 
 Documentation should be kept up-to-date and additional penetration tests organised on a regular or as-needed basis.
 
