@@ -20,6 +20,8 @@ Many departments will find it useful to engage with a partner who can help build
 
 This is very much a superset of the things that we'll want to see from a partner. Not all departments, and not all projects, will need all of this. For instance, many projects will involve interfacing with and/or migrating from legacy systems, whereas some purely green-field projects won't need to do this. Similarly, many projects will require the partners to take responsibility for both delivery and enablement, but some will require only one or the other.
 
+One important thing to bear in mind is that with a transformation partner, we are buying a capability, not a thing.
+
 ## Track Record of Delivery
 
 The partner needs a proven track record of successful delivery, and will take responsibility for the delivery of the digital service.
