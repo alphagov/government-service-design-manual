@@ -60,7 +60,9 @@ The partner should have a track record with taking an evidence based, evolutiona
 
 ## Specific Expertise
 
-We would like to see specific expertise with practices including:
+Across the team, we'd like to see specific expertise with a number of practices. Not all these practices are mandatory for an [Agile team](/service-manual/agile/), but we'd expect a prospective partner to be able to be familiar with these practices, to be able discuss them, and to decide upon their use pragmatically.
+
+Note that how these capabilities are split across roles will differ from team to team. What matters is that these things can be done, not who in the team does what.
 
 * Development practices 
     * Pair programming
@@ -110,8 +112,6 @@ We would like to see specific expertise with practices including:
     * Training
 * UX
 
-Note that we are looking for these things as 
-
 [invest]: http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/ "Independent, Negotiable, Valuable, Estimable, Small, Testable"
 [puppet]: http://projects.puppetlabs.com/projects/puppet
 [chef]: http://www.opscode.com/chef/
@@ -133,6 +133,8 @@ The partner should not be predisposed to building solutions based upon products 
 * Build vs. Buy.
 
 Decisions should be based on evidence gathered via hands-on, code based experimentation. A collaborative approach involving workshops and the building of prototypes with vendors is encouraged.
+
+See also [Choosing Technology](/service-manual/agile/making-software/choosing-technology.html).
 
 ## Integration experience
 
