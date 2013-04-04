@@ -36,37 +36,32 @@ Services should ensure there is a obvious way for users to report problems they 
 
 *Note*: An exception is made for IE6, as this is still in large-scale use in government departments.
 
-Two distinct levels of support are given and denoted next to each browser as C or F and are defined as:
-
-* COMPLIANT
-* FUNCTIONAL
-
-Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
+Two distinct levels of support are given and denoted next to each browser. Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
 
 ### Desktop
 
 
 | OS | Browser | Support |
 |------------------------|
-| Windows  | Internet Explorer 9 | C |
-| &nbsp;  | Internet Explorer 8 | C |
-| &nbsp; | Internet Explorer 7 | C |
-| &nbsp; | Internet Explorer 6 | F |
-| &nbsp;  | Google Chrome (latest version) | C |
-| &nbsp;  | Mozilla Firefox (latest version) | C |
-| Mac OS X | Safari 5 | C |
-| &nbsp; | Google Chrome (latest version) | C |
-| &nbsp; | Mozilla Firefox (latest version) | C |
+| Windows  | Internet Explorer 9 | Compliant |
+| &nbsp;  | Internet Explorer 8 | Compliant |
+| &nbsp; | Internet Explorer 7 | Compliant |
+| &nbsp; | Internet Explorer 6 | Functional |
+| &nbsp;  | Google Chrome (latest version) | Compliant |
+| &nbsp;  | Mozilla Firefox (latest version) | Compliant |
+| Mac OS X | Safari 5 | Compliant |
+| &nbsp; | Google Chrome (latest version) | Compliant |
+| &nbsp; | Mozilla Firefox (latest version) | Compliant |
 
 ### Small screen devices
 
 | OS | Version | Browser | Support |
 |----------------------------------|
-| iOS | 6 | Mobile Safari | C |
-| iOS | 5 | Mobile Safari | F |
-| Android | 4.x | Google Chrome | C |
-| Android | 2.3 | Android Browser | F |
-| Blackberry | 6+ | &nbsp; | F |
+| iOS | 6 | Mobile Safari | Compliant |
+| iOS | 5 | Mobile Safari | Functional |
+| Android | 4.x | Google Chrome | Compliant |
+| Android | 2.3 | Android Browser | Functional |
+| Blackberry | 6+ | &nbsp; | Functional |
 
 ##Developing universally accessible services
 
