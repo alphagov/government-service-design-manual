@@ -84,7 +84,7 @@ SALARY SCALE:
 The main responsibilities of the post are:
 
 * delivering projects or programmes with a strong understanding of agile and waterfall project management methodologies, change and risk management and the interaction between product development, implementation and support services.
-* assuring all Government Digital Service Products meet the standard build requirements (e.g. functionality, usability, performance, scalability, security, resiliency, etc)
+* assuring all Government Digital Service Products meet the standard build requirements (eg functionality, usability, performance, scalability, security, resiliency, etc)
 * managing tight resource constraints, conflicting priorities and a dynamic programme would be highly beneficial
 * representing the Government Digital Service at senior level by providing governance and leadership to project teams and ensuring contract management support
 * implementing business and cultural change and introducing new process and procedures to ensure business improvements are achieved

@@ -35,7 +35,7 @@ Services will need to consider the digital skills of their users to understand w
 * could use the digital service independently but will require initial assisted digital support to build their confidence in using the service 
 * should use the digital service (ie. have the digital skills but currently use other channels) and don’t need assisted digital support
 
-Some services (e.g. where users are large corporations) will not require assisted digital. The [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) contains a demographic breakdown of who is offline and online and service teams and [these techniques](/service-manual/users/user-research/index.html) may be useful for doing user research.
+Some services (eg where users are large corporations) will not require assisted digital. The [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) contains a demographic breakdown of who is offline and online and service teams and [these techniques](/service-manual/users/user-research/index.html) may be useful for doing user research.
 
 ## What good looks like
 Good assisted digital support:

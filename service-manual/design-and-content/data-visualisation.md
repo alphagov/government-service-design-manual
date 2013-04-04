@@ -37,7 +37,7 @@ The [GOV.UK Performance Platform](https://www.gov.uk/performance) helps the Gove
 
 To effectively tell the story behind the numbers, you need to understand both your audience and the data.
 
-Only use visualisations if they make the story clearer. In many cases, a good table or words may communicate better. If there are very few data points (e.g. top rate income tax down 5%, all other rates unchanged), it’s clearer to write a sentence than draw a picture. If every item must be read precisely (to several decimal places) then a table is best.
+Only use visualisations if they make the story clearer. In many cases, a good table or words may communicate better. If there are very few data points (eg top rate income tax down 5%, all other rates unchanged), it’s clearer to write a sentence than draw a picture. If every item must be read precisely (to several decimal places) then a table is best.
 
 A good table will be clear and uncluttered. The data should be easy to read with the same decimal places or rounding and sorted into a logical order. Don't use too many different types of font, and make sure your data is referenced.
 
@@ -70,13 +70,13 @@ Strengths - comparing **items**, or a small number of time periods.
 
 Strengths - comparing **items**, especially if they have long names or many items.
 
-* Arrange bars in size order, from biggest to smallest (unless good reason i.e.data needs to be represented alphabetically).
+* Arrange bars in size order, from biggest to smallest (unless there's good reason, ie data needs to be represented alphabetically).
 * Negative values to the left of the y axis.
 
 ###Line chart
 ![Line Chart - Image 3](https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)
 
-Strengths - comparing over time or between **variables** for a **single item** (eg: site traffic vs site performance)
+Strengths - comparing over time or between **variables** for a **single item** (eg site traffic vs site performance)
 
 * Limit number of data sets to four.
 * Keep axis labels horizontal.
@@ -93,7 +93,7 @@ Strengths - simple share of **total**. Use with caution, column or bar charts ar
 ###Scatter chart
 ![Scatter Chart - Image 5](https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)
 
-Strengths - relationships between **variables** where there are **many items** (eg: volume vs cost for numerous transactions)
+Strengths - relationships between **variables** where there are **many items** (eg volume vs cost for numerous transactions)
 
 * Limit items to two to avoid confusion.
 * Include trend line if required. This should be a single solid line.
@@ -127,7 +127,7 @@ Choosing the correct visualisation is important and at GDS we reviewed what was 
 
 Keep in mind these useful tips when creating your charts.
 
-* Start axes at zero unless there's good reason not to (ie: data is clustered at high values).
+* Start axes at zero unless there's good reason not to (ie data is clustered at high values).
 * Do not say too much, limit the number of data sets.
 * If needed, put legend at the top of the chart in the same order as the data in the chart.
 * Maximise the space available to the chart and remove chartjunk.
@@ -185,7 +185,7 @@ When presenting data be aware of axes and scales. Data can be misrepresented by 
 
 ###Checklist
 1. Have you referenced data with a URL?
-2. Have you provided contact details (e.g. a mailto link)?
+2. Have you provided contact details (eg a mailto link)?
 3. Is it clear whether data is internal or public?
 4. Have you been open and transparent with data?
 

@@ -33,7 +33,7 @@ Qualitative techniques are intensive, and often small scale. These include focus
 
 Quantitative techniques involve higher-volume research, and include online surveys, face-to-face interviews, and involve a structured approach to data collection and analysis. 
 
-Product based research can be conducted in-house or via a specialist agency. In-house approaches can be quicker as they involve less lead time (e.g. procurement), but require skilled in-house researchers, and can involve the procurement of some specialist software. Typically agencies are only used when specialist skills/experience is required that is not available in-house, and/or the scale of the project would mean it is difficult to provide dedicated internal resource. 
+Product based research can be conducted in-house or via a specialist agency. In-house approaches can be quicker as they involve less lead time (eg procurement), but require skilled in-house researchers, and can involve the procurement of some specialist software. Typically agencies are only used when specialist skills/experience is required that is not available in-house, and/or the scale of the project would mean it is difficult to provide dedicated internal resource. 
 
 ## Strategic research
 
