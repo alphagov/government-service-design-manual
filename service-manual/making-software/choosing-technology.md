@@ -38,7 +38,7 @@ Try and take a step back and think about the capabilities of the technology you'
 
 ## Cost
 
-With the growth of open source many technology products (databases, operating systems, programming languages, development tools, etc.) are freely available. But a large market still exists for commercial software products. 
+With the growth of open source many technology products (databases, operating systems, programming languages, development tools, etc) are freely available. But a large market still exists for commercial software products. 
 
 When choosing technology make sure you do consider the total cost, as well as any upfront fees. Try and take into consideration costs for things like staff, support and productivity.
 
@@ -60,7 +60,7 @@ Aim to have a clear understanding of the cost or implications of moving away fro
 
 ## Build versus buy
 
-Where there is an an existing software solution which solves your problem, you should certainly consider using it. For the purposes of making this decision, making use of a piece of open source is effectively buying that piece of software.
+Where there is an existing software solution which solves your problem, you should certainly consider using it. For the purposes of making this decision, making use of a piece of open source is effectively buying that piece of software.
 
 You are more likely to buy in software that fulfils a commodity need. Development tools, build tools, utility libraries, databases and monitoring tools are all examples of software where many projects will have the same need, and it makes little sense to reinvent the wheel. For software that serves a strategic need you are far less likely to find a tool which serves and will continue to serve your needs.
 

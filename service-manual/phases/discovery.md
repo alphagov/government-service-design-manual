@@ -21,11 +21,11 @@ Typical outputs from this phase are a list of [user needs](/service-manual/users
 
 ## What is the objective of a discovery process?
 
-The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial protoypes will explore.
+The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial prototypes will explore.
 
 The high level business context will become clear, and you will begin setting targets for [your KPIs](/service-manual/measurement).
 
-You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decomissioning these.
+You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decommissioning these.
 
 This information is found through:
 

@@ -25,7 +25,7 @@ The recommended approach is to involve a small cross-functional group of people.
 
 It is important to keep good notes from any interviews or deliberation sessions and to access different suppliers equally. A scoring matrix can help here.
 
-It is worth stating that it's very common to use multiple suppliers. This may be due to them offering different but compatible services or potentially for additional redundancy. This can be technically challenging but for larger projects can provide extra resilliance.
+It is worth stating that it's very common to use multiple suppliers. This may be due to them offering different but compatible services or potentially for additional redundancy. This can be technically challenging but for larger projects can provide extra resilience.
 
 ## Types of provider
 

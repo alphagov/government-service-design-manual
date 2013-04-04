@@ -24,7 +24,7 @@ Services should be universally accessible, regardless of how the user is choosin
 
 ##Guidance
 
-Due to the large range of browsers, devices and resolutions of access routes, it is to be expected that the user's experience of a service will vary as the technical capabilities on browsers and devices vary. You must verify that your service works across a representative range of these devices and browsers, and makes accomodations for creating good experiences in all of them.
+Due to the large range of browsers, devices and resolutions of access routes, it is to be expected that the user's experience of a service will vary as the technical capabilities on browsers and devices vary. You must verify that your service works across a representative range of these devices and browsers, and makes accommodations for creating good experiences in all of them.
 
 ##Verified browsers
 

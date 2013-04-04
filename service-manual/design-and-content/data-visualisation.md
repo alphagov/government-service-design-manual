@@ -76,7 +76,7 @@ Strengths - comparing **items**, especially if they have long names or many item
 ###Line chart
 ![Line Chart - Image 3](https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)
 
-Strengths - comparing over time or between **variables** for a **single item** (e.g. site traffic vs. site performance)
+Strengths - comparing over time or between **variables** for a **single item** (eg: site traffic vs site performance)
 
 * Limit number of data sets to four.
 * Keep axis labels horizontal.
@@ -93,7 +93,7 @@ Strengths - simple share of **total**. Use with caution, column or bar charts ar
 ###Scatter chart
 ![Scatter Chart - Image 5](https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)
 
-Strengths - relationships between **variables** where there are **many items** (e.g. volume vs cost for numerous transactions)
+Strengths - relationships between **variables** where there are **many items** (eg: volume vs cost for numerous transactions)
 
 * Limit items to two to avoid confusion.
 * Include trend line if required. This should be a single solid line.
@@ -127,7 +127,7 @@ Choosing the correct visualisation is important and at GDS we reviewed what was 
 
 Keep in mind these useful tips when creating your charts.
 
-* Start axes at zero unless there's good reason not to (i.e. data is clustered at high values).
+* Start axes at zero unless there's good reason not to (ie: data is clustered at high values).
 * Do not say too much, limit the number of data sets.
 * If needed, put legend at the top of the chart in the same order as the data in the chart.
 * Maximise the space available to the chart and remove chartjunk.
