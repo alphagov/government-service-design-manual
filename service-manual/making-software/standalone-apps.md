@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Standalone apps
-subtitle: What is the government position on apps?
+title: Standalone mobile apps
+subtitle: What is the government position on mobile apps?
 category: making-software
 type: guide
 audience: 
