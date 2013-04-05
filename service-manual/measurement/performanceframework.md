@@ -87,12 +87,12 @@ Install and configure measurement platforms that meet your needs, for example di
 
 ###Checklist
 
-1.Have you installed and configured digital/web analytics
-2.Have you configured your web analytics software with the appropriate [conversion funnels?](http://en.wikipedia.org/wiki/Conversion_funnel)
-3.Do you have the capability to run user satisfaction surveys?
-4.Do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing?](http://en.wikipedia.org/wiki/Multivariate_testing)
-5.Do you have software installed for monitoring service uptime and performance?
-6.Can you generate custom performance data based on system-generated events?
+1. Have you installed and configured digital/web analytics
+2. Have you configured your web analytics software with the appropriate [conversion funnels?](http://en.wikipedia.org/wiki/Conversion_funnel)
+3. Do you have the capability to run user satisfaction surveys?
+4. Do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing?](http://en.wikipedia.org/wiki/Multivariate_testing)
+5. Do you have software installed for monitoring service uptime and performance?
+6. Can you generate custom performance data based on system-generated events?
 
 Ensure you own the data and have access to the raw data as well as reports. Make sure data is not disposed of after a short period of time.
 
@@ -133,8 +133,8 @@ Communicate performance information to your users through the appropriate dashbo
 
 ###Typical segments include:
 
-**Channel used to access service:** through which channel(s) did the user find out about and attempt to use the service?
-**New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?
+**Channel used to access service:** through which channel(s) did the user find out about and attempt to use the service?  
+**New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?  
 **Geographical region:** how popular is the digital service by region and how does that compare with online penetration in general?
 **Product type:** does the user experience vary depending on the type of product or service?
 **Value:** is performance dependent on the monetary value of the product or service being sought?
