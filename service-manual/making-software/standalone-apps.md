@@ -102,7 +102,7 @@ Ensure your service meets the [Digital by Default Service Standard](/service-man
 
 Make your [data](/service-manual/making-software/open-source.html) & [API](/service-manual/making-software/apis.html) available for re-use and you will stimulate market if there is real demand for native apps.
 
-We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) (HTML5) rather than risking proliferation of parallel versions of services as devices proliferate.
+We are [backing open standards](/service-manual/making-software/open-standards-and-licensing.html) (HTML5) rather than risking proliferation of parallel versions of services as devices proliferate.
 
 And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming & social networking.
 

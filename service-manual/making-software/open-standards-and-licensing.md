@@ -26,7 +26,7 @@ Best practice and considerations for using open standards and using, publishing 
 
 ## Guidance
 Preference should be given to using open standards with the broadest remit over local standards
-as prescribed in the [consultation on open standards](http://consultation.cabinetoffice.gov.uk/openstandards/)
+as prescribed in the [consultation on open standards](http://consultation.cabinetoffice.gov.uk/openstandards/).
 
 As with any software, using open source comes with an obligation to follow the terms of the software licence. FOSS differs from [proprietary software](http://en.wikipedia.org/wiki/Proprietary_software) in that the source code may be modified, in which case the licence may demand any derived code be republished with [attribution](http://en.wikipedia.org/wiki/Attribution_(copyright)), and under the same terms of the original licence, sometimes called [copyleft](http://en.wikipedia.org/wiki/Copyleft).
 
