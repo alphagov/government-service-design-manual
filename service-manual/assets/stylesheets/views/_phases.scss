@@ -75,6 +75,15 @@
     h3 {
       margin-top: -1em;
       border-bottom: 0;
+
+      a {
+        color: $text-colour;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
   }
 
