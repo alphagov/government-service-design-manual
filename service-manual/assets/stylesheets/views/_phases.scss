@@ -1,32 +1,95 @@
 // ===================================================
 // PHASES PAGE
 //
-
 .phases {
-  .phase-diagram {
-    width: 100%;
-    margin: 0 -1em 0 -1em;
+}
+
+// Phases
+.phases-list {
+  list-style: none;  
+  @include ie-lte(7) { 
+    list-style-image: none;
+  }
+  padding: 0;
+  padding-left: 1.5em;
+
+  > * {
+    display: block;
+    padding: 0 0 0.7em 2em;
+    margin: 0;
+    @include core-19;
+
+    // Tube line
+    border-left: dotted 0.6em;
+
+    // Tube station
+    &:before{
+      content: "";
+      display: block;
+      border: 0.3em solid;
+      background: white;
+      width: 1.2em;
+      margin: 0.5em -3.2em;
+    }
+
+    &:first-child{
+      padding-top: 0.5em;
+      margin-top: 5em;
+
+      // Interchange tube station
+      &:before{
+        border: 0.6em solid;
+        height: 1.2em;
+        border-radius: 1.2em;
+        margin: -2.8em -3.45em;
+      }
+      h3{
+        margin-top: 1em;
+      }
+    }
+
+    &.discovery,
+    &.discovery:before {
+      border-color: $discovery-colour;
+    }
+    &.alpha,
+    &.alpha:before {
+      border-color: $alpha-colour;
+    }
+    &.beta,
+    &.beta:before {
+      border-color: $beta-colour;
+    }
+    &.live,
+    &.live:before {
+      border-color: $live-colour;
+    }
+
+    p {
+      margin: 0.75em 0;
+      a {
+        @include core-19;
+      }
+    }
+
+    h3 {
+      margin-top: -1em;
+      border-bottom: 0;
+
+      a {
+        color: $text-colour;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
   }
 
-  .phase-activities {
-    margin: 1em 0;
-    padding: 0;
-    overflow: hidden;
-    list-style: none;
-
-    @extend %contain-floats;
-
-    li {
-      margin: 0 2em 0 0;
-      padding: 0;
-      float: left;
-      text-align: center;
-      width: 100px;
-    }
-
-    .output {
-      display: block;
-      background-color: $highlight-colour;
-    }
+  .link-list {
+    h3 {
+      margin-top: 1em;
+    }    
   }
 }

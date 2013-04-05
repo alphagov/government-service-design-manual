@@ -1,7 +1,8 @@
 ---
-layout: detailed-guidance
-title: Live
-class: live-phase
+layout: phases
+title: Live phase
+subtitle: Learn how to continuously improve your live service
+phase: live
 category: guidance
 subcategory: Phases
 status: draft
@@ -11,7 +12,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   - 
-    title: Phases
+    title: Phases of service design
     url: /service-manual/phases
 ---
 
@@ -43,6 +44,8 @@ You will have identified the roles required to run your service, including the [
 
 ## What are the outputs?
 
+
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/website.png" />
@@ -57,6 +60,6 @@ You will have identified the roles required to run your service, including the [
     Team size
   </li>
 </ul>
-
+-->
 
 [Previously: beta](/service-manual/phases/beta.html)
