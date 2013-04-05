@@ -35,4 +35,4 @@ Understand more about how to define, measure and implement the KPIs:
 * [digital take-up](/service-manual/measurement/digital-takeup.html)
 
 ## What else should you measure?
-The [performance framework](/service-manual/measurement/performanceframework.html) describes how to define other metrics you should measure and monitor.
+Further guidance on measuring key performance indicators can be found [here](/service-manual/measurement/performanceframework.html) describes how to define other metrics you should measure and monitor.
