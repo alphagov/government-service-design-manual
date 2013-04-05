@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-Those with the title of designer may have a particular focus on one or more specific design disciplines – interaction, graphic, UX – but a good digital service needs needs talented, flexible designers to help build user-centred products.
+Those with the title of designer may have a particular focus on one or more specific design disciplines – interaction, graphic, UX – but a good digital service needs talented, flexible designers to help build user-centred products.
 
 ## How designers work
 Designers and front-end developers should work together in one team, designing in-browser. This is a better way of working, avoiding silos and ensuring that decisions are made with complete awareness of the implications.

@@ -45,5 +45,9 @@ We work hard to make our sites and services as accessible and usable as we can f
 Your service should be usable by recent versions of [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/), [VoiceOver](http://www.apple.com/accessibility/voiceover/), [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) screen readers, [ZoomText](http://www.aisquared.com/zoomtext/), [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) and basic operating system screen magnifiers, as well as speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
 
 
+## Accessible formats
+
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.html) should be followed. There is more information on [chosing appropriate formats](/service-manual/design-and-content/chosing-appropriate-formats.html)
+
 ##Further reading
 If you want to read more about the accessibility testing we've carried out while building GOV.UK, [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/) will tell you more.

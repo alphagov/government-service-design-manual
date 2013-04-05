@@ -18,7 +18,7 @@ breadcrumbs:
       <ol>
         <li><a href="#agile">Agile</a></li>
         <li><a href="#assisted-digital">Assisted digital</a></li>
-        <li><a href="#design-and-content">Content and design</a></li>
+        <li><a href="#design-and-content">Design and Content</a></li>
         <li><a href="#making-software">Making software</a></li>
         <li><a href="#measurement">Measurement</a></li>
         <li><a href="#operations">Operations</a></li>

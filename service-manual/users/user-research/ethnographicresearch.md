@@ -29,7 +29,7 @@ This guidance looks at Ethnographic research and how it can be used in order to 
  
 Ethnographic research usually involves observing target users in their natural, real-world setting,  rather than in the artificial environment of a lab or focus group.  The aim is to gather insight into how people live; what they do; how they use things; or what they need in their everyday or professional lives.  Observations can be made at home, at work, or in leisure environments - people can be studied with their family, on their own, with work colleagues, or as part of a group of friends.  Often one participant may be recruited, but several more may be studied as part of that person’s family or friends.  
 
-Ethnographic research relies on techniques such as observation, video diaries, photographs, contextual interviews, and analysis of artifacts such as for example devices, tools or paper forms that might be used as part of a person’s job.  
+Ethnographic research relies on techniques such as observation, video diaries, photographs, contextual interviews, and analysis of artefacts such as for example devices, tools or paper forms that might be used as part of a person’s job.  
 
 Data collection can range from a 4-5 hour contextual interview, through to following a participant for several days, or even a longitudinal study over several weeks or months to investigate, for example, how a particular product or service might be used over time.  It doesn’t necessarily involve “full immersion” in a person’s life: it can involve a depth interview in a person’s home or it might involve a person simply maintaining their own video diary over a period of time.
  
@@ -41,7 +41,7 @@ Ethnographic research can provide extremely rich insight into “real life” be
  
 Ethnographic research can provide a significant amount of qualitative data, and analysis can be time consuming.  
 
-The term ‘ethnographic’ can be misused, it’s currently a bit of a “buzz word” with some agencies who may not fully understand the approach.  It is recommended that a specialist agency is used, who can demonstrate successful case studies (collecting and analysing the data). 
+The term ‘ethnographic’ can be misused, it’s currently a bit of a “buzzword” with some agencies who may not fully understand the approach.  It is recommended that a specialist agency is used, who can demonstrate successful case studies (collecting and analysing the data). 
  
 ## Participants
  

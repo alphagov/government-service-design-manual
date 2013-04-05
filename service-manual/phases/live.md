@@ -24,7 +24,7 @@ In order to provide a fully resilient service to all end users the service shoul
 
 You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
 
-And, most importanly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
+And, most importantly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
 ## What next?
 
@@ -40,7 +40,7 @@ You will repeat the whole process (discovery, alpha, beta and live) for smaller 
 
 ## Who do I need?
 
-You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accomodating specialists as appropriate.
+You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
 
 ## What are the outputs?
 
