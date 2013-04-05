@@ -168,7 +168,7 @@ Your role will involve managing the product lifecycle - initial design and/or re
 * ensure teams appreciate how market demands, investment decisions and other commercial considerations such as funding and pricing models influence suppliers and the delivery of services
 
 #### Desirable
-* identify and implement different ways of working deployed in other sectors e.g. using resources, assets and commercial arrangements
+* identify and implement different ways of working deployed in other sectors eg using resources, assets and commercial arrangements
 * develop and apply market and economic understanding and insights, working with commercial experts, to support sound commercial decision-making and recommendations
 * take a wide view, successfully achieving common goals with organisations that have different priorities
 

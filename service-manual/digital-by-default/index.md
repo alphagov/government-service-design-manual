@@ -39,7 +39,7 @@ A team must demonstrate that they have done the following to achieve the standar
 13. used the manual to develop the content and design to ensure the service has the same look, feel and tone as GOV.UK
 14. got the capacity and technical flexibility to update and improve the service on a very frequent basis
 15. made all new source code open, reuseable and published under appropriate licenses (or else provide a convincing explanation of why this cannot be done for specific subsets of the source code)
-16. used open standards and common Government platforms (e.g. Identity Assurance) where available
+16. used open standards and common Government platforms (eg Identity Assurance) where available
 17. an ongoing ability to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices
 18. instrumented analytics tools and ensured that performance data can be collected
 19. built and resourced a service that can be improved daily, ensuring that user feedback and performance data is translated into development

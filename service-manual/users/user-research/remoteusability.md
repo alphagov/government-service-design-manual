@@ -38,7 +38,7 @@ Each session usually includes tasks being given to see how users interact with t
 
 ##Where/how you might use it
  
-Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing task based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction e.g. Jobseekers Allowance, Driving Licence etc. Success is measured on whether the user can complete the tasks/transaction. Benchmarks on new and existing products are gathered so that completion rates (and other success measures) be collected and performance monitored.
+Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing task based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction eg Jobseekers Allowance, Driving Licence etc. Success is measured on whether the user can complete the tasks/transaction. Benchmarks on new and existing products are gathered so that completion rates (and other success measures) be collected and performance monitored.
 
 The key advantage of remote usability testing are the following:
 

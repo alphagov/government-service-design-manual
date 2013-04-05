@@ -30,7 +30,7 @@ In order to improve the performance of a service, you have to analyse and identi
 
 1. Have you identified who your users are?
 2. Have you articulated your users’ needs?
-3. Have you prioritised services (e.g. by number of users or cost)?
+3. Have you prioritised services (eg by number of users or cost)?
 
 There is typically a hierarchy of interested users, all of whom will have different metrics for success. Technical staff might have operational and optimisation concerns, while senior management and ministers will have more strategic and comparative concerns.These needs will be reflected in the organisation’s business objectives.
 
@@ -72,11 +72,11 @@ Establish a 'baseline' based on current performance trends by channel, against w
 ###Checklist
 
 1. Have you measured your current performance?
-2. Have you compared your performance with similar types of service (e.g. by transaction category)?
+2. Have you compared your performance with similar types of service (eg by transaction category)?
 3. Do you know who your users are in terms of age, disability, socio-economic group and internet usage?
 
 It is good practice to look at performance trends over time, rather than take a snapshot at a particular point in time. Peaks and dips in performance are then measured relative to this base (or trend) line which helps to identify the effect of communications or design initiatives. It also reveals seasonal variations in performance.
-Benchmarking against other services can also provide a useful context for judging performance. By comparing to other similar services (e.g. requesting a license or reporting information) you know whether the service is significantly better or worse than expected. A complete list of the government’s transactional services is available on GOV.UK.
+Benchmarking against other services can also provide a useful context for judging performance. By comparing to other similar services (eg requesting a license or reporting information) you know whether the service is significantly better or worse than expected. A complete list of the government’s transactional services is available on GOV.UK.
 You need to know who your users are to be able to determine whether they are likely to need assisted digital to help them use the digital service. The proportion of users needing assisted digital will vary based on the users of the particular service. For example, a higher proportion of people applying for incapacity benefits are more likely to need assistance with digital services than those needing to pay their road tax.
 
 ##Aggregate data
@@ -98,7 +98,7 @@ Be aware though that combining data from different data sources can lead to huge
 Communicate performance information to your users through the appropriate dashboards, reports and alerts. For the 4 KPIs set out in the digital strategy this will be done through the performance platform. Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, actionable and contain minimal amounts of chart junk.
 
 ###Checklist
-1. Have you done any segmentation (i.e. analysed performance data by segment)?
+1. Have you done any segmentation (ie analysed performance data by segment)?
 2. Have you designed the appropriate dashboards, reports and alerts?
 3. Are your data visualisations visible to their intended audience?
 4. Have you followed best practice design principles for data visualisation?

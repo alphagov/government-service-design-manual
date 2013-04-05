@@ -59,7 +59,7 @@ Service managers should notify the Government Digital Service technical architec
 
 **Usernames and passwords**
 
-If the service is a private alpha or private beta release then it should be protected by a username and password known only to the development team and the users who are testing the service. If a service, or part of a service, is a public alpha or beta releases then it should be clearly marked as such with a text label on every page (i.e. don’t use an image containing the word alpha or beta) and in every API response.
+If the service is a private alpha or private beta release then it should be protected by a username and password known only to the development team and the users who are testing the service. If a service, or part of a service, is a public alpha or beta releases then it should be clearly marked as such with a text label on every page (ie don’t use an image containing the word alpha or beta) and in every API response.
 
 **Multiple environments**
 

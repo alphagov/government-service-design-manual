@@ -28,7 +28,7 @@ One of the central principles of agile is quick feedback loops – we want to de
 {:.left}
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
-A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
+A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, eg a full project retrospective.
 
 A retrospective takes the following form:
 
@@ -72,7 +72,7 @@ The outcome of a retrospective should be some actions that can be taken to impro
 
 Actions should:
 
-* be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
+* be concrete and measurable (eg 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
 * have a date by which they should be completed
 * be assigned to a specific person (and not to 'the team')
 * should not be assigned to someone who is not present
