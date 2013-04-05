@@ -143,7 +143,8 @@ Communicate performance information to your users through the appropriate dashbo
 **Alerts:** are used to inform the users about a change or an event, often using attention-grabbing delivery mechanisms.  
 By making your visualisations clearly visible you maximise the likelihood that the information will be acted upon - and services thereby improved.  
 
-Best practices include:
+Best practices include:  
+
 **keeping charts plain:** don’t use shading, 3D or other distracting effects  
 **removing clutter:** don’t use trend lines, grid lines, unnecessary labelling  
 **not using pie charts:** they require more space and are harder to read than bar charts  
