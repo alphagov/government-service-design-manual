@@ -41,7 +41,7 @@ A Research brief should contain the following information:
 
 * **Cost** - this section should state the budget available for the research. It is suggested that research agencies should be asked to provide a range of price options, so that insight teams can choose the most appropriate approach for their needs.
 
-* **Deliverables** - this should outline how the research is to be delivered e.g. presentation, workshop etc.
+* **Deliverables** - this should outline how the research is to be delivered eg presentation, workshop etc.
 
 * **Timings** - this should specify when the research is to be delivered.
 

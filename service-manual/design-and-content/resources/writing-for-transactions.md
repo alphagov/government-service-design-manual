@@ -76,7 +76,7 @@ This is the nuclear option and should only be considered as a last resort. Popup
 
 ## Transaction start pages
 
-The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (e.g. Google).
+The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (eg Google).
 
 The design of the start page will be determined by the nature of the service and its audience. All start pages should meet the following goals:
 
