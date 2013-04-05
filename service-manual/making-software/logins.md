@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: User accounts and log-ins
+title: User accounts and logins
 subtitle: How to do them and how to avoid them
 category: making-software
 type: guide
