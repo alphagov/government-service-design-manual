@@ -41,7 +41,7 @@ breadcrumbs:
 ## Licensing
 
 {: .link-list} 
-* [Open standards and licencing](/service-manual/making-software/open-standards-and-licencing.html)
+* [Open standards and licensing](/service-manual/making-software/open-standards-and-licensing.html)
 
 ## Configuring services
 
