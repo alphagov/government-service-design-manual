@@ -134,19 +134,19 @@ Communicate performance information to your users through the appropriate dashbo
 ###Typical segments include:
 
 **Channel used to access service:** through which channel(s) did the user find out about and attempt to use the service?  
-**New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?  
-**Geographical region:** how popular is the digital service by region and how does that compare with online penetration in general?
-**Product type:** does the user experience vary depending on the type of product or service?
-**Value:** is performance dependent on the monetary value of the product or service being sought?
-**Dashboards:** are objective-focused and will help inform decisions, often with the help of real-time data.
-**Reports:** provide regular, scheduled snapshots of data and tend to require extra context and time to digest.
-**Alerts:** are used to inform the users about a change or an event, often using attention-grabbing delivery mechanisms.
-By making your visualisations clearly visible you maximise the likelihood that the information will be acted upon - and services thereby improved.
+**New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?   
+**Geographical region:** how popular is the digital service by region and how does that compare with online penetration in general?  
+**Product type:** does the user experience vary depending on the type of product or service?  
+**Value:** is performance dependent on the monetary value of the product or service being sought?  
+**Dashboards:** are objective-focused and will help inform decisions, often with the help of real-time data.  
+**Reports:** provide regular, scheduled snapshots of data and tend to require extra context and time to digest.  
+**Alerts:** are used to inform the users about a change or an event, often using attention-grabbing delivery mechanisms.  
+By making your visualisations clearly visible you maximise the likelihood that the information will be acted upon - and services thereby improved.  
 
 Best practices include:
-**keeping charts plain:** don’t use shading, 3D or other distracting effects
-**removing clutter:** don’t use trend lines, grid lines, unnecessary labelling
-**not using pie charts:** they require more space and are harder to read than bar charts
+**keeping charts plain:** don’t use shading, 3D or other distracting effects  
+**removing clutter:** don’t use trend lines, grid lines, unnecessary labelling  
+**not using pie charts:** they require more space and are harder to read than bar charts  
 **using text where a chart adds nothing.**
 
 ###Example
