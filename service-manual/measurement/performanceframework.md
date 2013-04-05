@@ -169,7 +169,7 @@ Test a range of performance improvement initiatives and monitor to see which wor
 Any service that meets user needs will include an element of user feedback. This should be monitored and acted upon so as to continually improve the service for users.
 A range of options are available for improving the overall performance of a service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
 
-**Price:** can the price be changed, for example to attract people to the digital channel?
+**Price:** can the price be changed, for example to attract people to the digital channel?  
 
 **Product:** can the user experience be improved (eg from user feedback, user testing, A/B testing, multivariate testing)?
 
