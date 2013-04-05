@@ -57,9 +57,9 @@ These needs will typically be reflected in the organisation’s business objecti
 You will need to identify the various users within your organisation, and prioritise their requirements. 
 
 ###Checklist
-1. a.Have you identified who your users / stakeholders are?
-2. b.Have you articulated your users / stakeholders needs?
-3. c.Have you prioritised services?
+a. Have you identified who your users / stakeholders are?
+b. Have you articulated your users / stakeholders needs?
+c. Have you prioritised services?
 
 ##Decide what to measure
 Develop simple, actionable and collectable metrics based on your understanding of user / stakeholder needs. Identify where that information will come from and how frequently it will be needed. Think especially about the functions your service is relying on and try to identify some KPIs to ensure you are constantly monitoring and improving these functions. 
