@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-In order to provide high-quality service, you will very likely want a dedicated group of specialists - or current staff dedicating some of their time - to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.
+In order to provide high-quality service, you will very likely want a dedicated group of specialists -- or current staff dedicating some of their time -- to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.
 
 Your planning will be greatly aided by drawing on the traditional contact centre management and planning skill sets; if you do not have access to staff with these skills, you may have to work closely with other groups who do in a consultancy capacity. This may include the team at GDS, or [outside specialists](/service-manual/the-team/working-with-specialists.html).
 
