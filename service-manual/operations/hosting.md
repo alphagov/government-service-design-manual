@@ -23,7 +23,7 @@ The software running your service will need servers to run on. This guide will h
 
 The recommended approach is to involve a small cross-functional group of people. They will quickly assess different options, shortlist suppliers, interview  and finally make a decision. This group should include people with a knowledge of the available procurement options and acceptable costs but must include people with a hands-on technical understanding of the service and underlying software.
 
-It is important to keep good notes from any interviews or deliberation sessions and to access different suppliers equally. A scoring matrix can help here.
+It is important to keep good notes from any interviews or deliberation sessions and to assess different suppliers equally. A scoring matrix can help here.
 
 It is worth stating that it's very common to use multiple suppliers. This may be due to them offering different but compatible services or potentially for additional redundancy. This can be technically challenging but for larger projects can provide extra resilience.
 
