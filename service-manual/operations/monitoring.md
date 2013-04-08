@@ -25,6 +25,7 @@ Knowing the current state of your service and infrastructure can help identify p
 * to aid with capacity planning activities by providing metrics over time
 * to identify potential future problems
 * to find areas of improvement, for instance badly performing systems or inefficient services
+* to be able to identify the root cause of an outage after the fact, based on data collected during the problematic event
 
 ## Setup monitoring early
 
