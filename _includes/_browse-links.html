@@ -1,0 +1,23 @@
+<ul>
+{% sorted_for p in site.pages sort_by:title %}
+  {% if p.category == link_cat %}
+  {% if p.type == 'category-index' %}
+  <li> 
+      <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+      <span class="subtitle">{{ p.subtitle }}</span>
+  </li>
+  {% endif %}
+  {% endif %}
+{% endsorted_for %}
+
+{% sorted_for p in site.pages sort_by:title %}
+  {% if p.category == link_cat %}
+  {% if p.type == 'guide' %}
+  <li> 
+      <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
+      <span class="subtitle">{{ p.subtitle }}</span>
+  </li>
+  {% endif %}
+  {% endif %}
+{% endsorted_for %}
+</ul>

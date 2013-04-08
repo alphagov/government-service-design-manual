@@ -32,229 +32,40 @@ breadcrumbs:
   <div class="inner">
     <div class="link-list">
       <h2 id="agile">Agile</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'agile' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'agile' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'agile' %}
+      {% include _browse-links.html %}
 
       <h2 id="assisted-digital">Assisted digital</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'assisted-digital' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'assisted-digital' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'assisted-digital' %}
+      {% include _browse-links.html %}
 
       <h2 id="design-and-content">Design and content</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'design-and-content' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'design-and-content' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'design-and-content' %}
+      {% include _browse-links.html %}
 
       <h2 id="making-software">Making software</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'making-software' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'making-software' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'making-software' %}
+      {% include _browse-links.html %}
 
       <h2 id="measurement">Measurement</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'measurement' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'measurement' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'measurement' %}
+      {% include _browse-links.html %}
 
       <h2 id="operations">Operations</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'operations' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'operations' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'operations' %}
+      {% include _browse-links.html %}
 
       <h2 id="phases">Phases</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'phases' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'phases' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'phases' %}
+      {% include _browse-links.html %}
 
       <h2 id="the-team">The team</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'the-team' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'the-team' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'the-team' %}
+      {% include _browse-links.html %}
 
       <h2 id="users">Users</h2>
-      <ul>
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'users' %}
-        {% if p.type == 'category-index' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-
-      {% sorted_for p in site.pages sort_by:title %}
-        {% if p.category == 'users' %}
-        {% if p.type == 'guide' %}
-        <li> 
-            <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
-            <span class="subtitle">{{ p.subtitle }}</span>
-        </li>
-        {% endif %}
-        {% endif %}
-      {% endsorted_for %}
-      </ul>
+      {% assign link_cat = 'users' %}
+      {% include _browse-links.html %}
     </div>
   </div>
 </div>

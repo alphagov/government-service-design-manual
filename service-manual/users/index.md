@@ -3,7 +3,6 @@ layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 category: users
-category: the-team
 audience:
   primary: user-researchers, designers, service-managers,
   secondary: developers, tech-archs, performance-analysts, delivery-managers

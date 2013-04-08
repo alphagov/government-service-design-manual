@@ -33,7 +33,7 @@ From a traditional perspective, user testing measures how well participants resp
 
 A product or service is usually assessed by asking small samples of the ‘target audience, in one to one sessions, to complete specific but realistic tasks. The facilitator observes how well the participants are able to complete those tasks, noting down the areas or features that cause the participant problems. Often the facilitator will ask participants to think aloud whilst completing those tasks in order to understand their decision processes better.
 
-User testing can be conducted on low-fi assets e.g. paper prototypes, wireframes and hi-fi assets e.g. html/css prototypes, live digital services. It’s most effective when conducted early within the lifecycle of a product but can be conducted towards the end of the service lifecycle to validate any usability improvements.
+User testing can be conducted on low-fi assets eg paper prototypes, wireframes and hi-fi assets eg html/css prototypes, live digital services. It’s most effective when conducted early within the lifecycle of a product but can be conducted towards the end of the service lifecycle to validate any usability improvements.
 
 ##Where/how you might use it
 
@@ -45,7 +45,7 @@ Usability testing is best suited to finding the big issues, essentially the prob
 
 The lab environment may also be considered a weakness. It means testing is conducted in a very different space to that a user will commonly be in.
 
-This method is not an appropriate for understanding user behaviour or user needs e.g. what they might want from a product / service. 
+This method is not an appropriate for understanding user behaviour or user needs eg what they might want from a product / service. 
 
 ##No./Types of participants
 
@@ -53,7 +53,7 @@ Between 5-8 participants, per round of user testing is sufficient to highlight t
 
 ##Cost
 
-Costs will vary according to your target audience e.g. niche expertise, hard to reach etc.
+Costs will vary according to your target audience eg niche expertise, hard to reach etc.
 The easiest way to recruit participants is to use a market research recruitment agency. Expect to pay from £150-£200 per recruit (includes finders fee and cash incentive).
 
 Lab hire per day varies depending on location and facilities. Expect to pay between £800-£1200 per day.

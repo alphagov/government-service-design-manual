@@ -52,7 +52,7 @@ Building useful software systems is hard. How can we make sure we're solving the
 
 Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If we dive into the solution without a good understanding of our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
 
-You can also use this goal to help you decide whether the story is "done" or delivered. i.e. Does the work that's been done meet the goal? 
+You can also use this goal to help you decide whether the story is "done" or delivered. ie Does the work that's been done meet the goal? 
 
 As a service manager writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? Suzanne and James Robertson have excellent advice on this in Mastering the Requirements Process ([reference 1](#references)).
 

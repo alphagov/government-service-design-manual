@@ -1,7 +1,8 @@
 ---
-layout: detailed-guidance
-title: Discovery
-class: discovery-phase
+layout: phases
+title: Discovery phase
+subtitle: Find out what your users need, what to measure and what your constraints are
+phase: discovery
 category: guidance
 subcategory: Phases
 status: draft
@@ -11,7 +12,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   - 
-    title: Phases
+    title: Phases of service design
     url: /service-manual/phases
 ---
 
@@ -50,6 +51,7 @@ You will leave the discovery phase with:
 * a decision to progress to next phase
 * maybe some rough prototypes
 
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
@@ -72,5 +74,6 @@ You will leave the discovery phase with:
     Team size
   </li>
 </ul>
+-->
 
 [Next: alpha](/service-manual/phases/alpha.html)
