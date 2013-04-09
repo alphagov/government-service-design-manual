@@ -81,3 +81,8 @@ If there is a market for native or hybrid apps, why should the government monopo
 We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
 And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming & social networking. For “utility” needs, such as those met by government services, the mobile web is preferred to native apps
+
+## Further Reading
+
+* [Government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
+* Tom Loosemoore's [blog post about standalone apps](http://digital.cabinetoffice.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
