@@ -66,5 +66,4 @@ Web application exploits tend to follow a relatively small number of common patt
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2010)
 * [CESG](http://www.cesg.gov.uk/)
 * [CHECK provider search](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx)
-* [Static Analysis](http://research.microsoft.com/en-us/um/people/livshits/papers/pdf/thesis.pdf)
 * [Fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing)
