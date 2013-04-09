@@ -51,7 +51,7 @@ It may be that by using information available from a call centre you can exploit
 
 Although some level of exploratory manual testing is always a good idea when looking for vulnerabilities this is time-consuming and expensive. Having some level of automation can often be a good idea.
 
-This may take the form of tests written or tools used specifically to test the security of a feature. For instance [Static Analysis](http://en.wikipedia.org/wiki/Static_program_analysis) or [input fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing).
+This may take the form of tests written or tools used specifically to test the security of a feature. For instance [static analysis](http://en.wikipedia.org/wiki/Static_program_analysis) or [input fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing).
 
 ## Why we do this
 
