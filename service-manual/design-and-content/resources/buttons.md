@@ -201,6 +201,8 @@ Don't use:
 
 ### Common actions
 
+Many of these can be used in place of ‘Submit’, which is a technical term to be avoided.
+
 'Start now'
 : Use at the beginning of the service
 
