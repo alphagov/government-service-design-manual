@@ -18,7 +18,7 @@ breadcrumbs:
 
 The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html). 
 
-Typical outputs from this phase are a list of [user needs](/service-manual/users/user-needs.html), high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than a week.
+Typical outputs from this phase are a list of [user needs](/service-manual/users/user-needs.html), high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than 4-8 weeks.
 
 ## What is the objective of a discovery process?
 
