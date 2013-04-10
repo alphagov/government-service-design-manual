@@ -125,7 +125,7 @@ or use a list...
 
 ## Aligning controls in a row
 
-You might occasionally need to arrange form controls in a row. To do this, wrap the controls in an
+You might occasionally need to arrange form controls in a row, for instance if they have short labels and there are only a few options. To do this, wrap the controls in an
 'inline group' element.
 
 ### Example
