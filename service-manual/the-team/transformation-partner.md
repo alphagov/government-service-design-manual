@@ -110,7 +110,13 @@ Note that how these capabilities are split across roles will differ from team to
     * Identification of capability gaps
     * Coaching
     * Training
+    * Mentoring
 * UX
+    * [XD](http://en.wikipedia.org/wiki/Experience_design "Experience Design")
+    * Prototyping
+    * Design
+    * Client-side coding
+    * User testing
 
 [invest]: http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/ "Independent, Negotiable, Valuable, Estimable, Small, Testable"
 [puppet]: http://projects.puppetlabs.com/projects/puppet
