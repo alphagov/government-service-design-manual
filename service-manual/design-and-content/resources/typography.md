@@ -11,6 +11,13 @@ phases:
 audience:
   primary: designers
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.

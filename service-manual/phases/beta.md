@@ -1,18 +1,26 @@
 ---
-layout: detailed-guidance
-title: Beta
-class: beta-phase
+layout: phases
+title: Beta phase
+subtitle: Scaling up and going public
+phase: beta
 category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases of service design
+    url: /service-manual/phases
 ---
 
-You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end protoype, test it in public and prepare to run it.
+You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
 
 ## What is the objective of a beta?
 
-The objective of this phase is to build a fully working prototype which you test publicly with users. You will continuously improve on the protoype until it is ready to go live, replacing or integrating with any existing services.
+The objective of this phase is to build a fully working prototype which you test publicly with users. You will continuously improve on the prototype until it is ready to go live, replacing or integrating with any existing services.
 
 This is achieved by delivering the [user stories](/service-manual/agile/writing-user-stories.html) in the backlog created in the [alpha phase](/service-manual/phases/alpha.html). This is the time to resolve any outstanding technical or process-related challenges, get the service [accredited](/service-manual/making-software/information-security.html) and plan to go live.
 
@@ -38,6 +46,8 @@ You will have:
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
 * a working system that can be used, for real, by end users
 
+
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
@@ -64,6 +74,7 @@ You will have:
     Team size
   </li>
 </ul>
+-->
 
 [Previously: alpha](/service-manual/phases/alpha.html)
 [Next: live](/service-manual/phases/live.html)

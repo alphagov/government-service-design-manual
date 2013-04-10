@@ -24,7 +24,7 @@ Services should be universally accessible, regardless of how the user is choosin
 
 ##Guidance
 
-Due to the large range of browsers, devices and resolutions of access routes, it is to be expected that the user's experience of a service will vary as the technical capabilities on browsers and devices vary. You must verify that your service works across a representative range of these devices and browsers, and makes accomodations for creating good experiences in all of them.
+Due to the large range of browsers, devices and resolutions of access routes, it is to be expected that the user's experience of a service will vary as the technical capabilities on browsers and devices vary. You must verify that your service works across a representative range of these devices and browsers, and makes accommodations for creating good experiences in all of them.
 
 ##Verified browsers
 
@@ -36,37 +36,32 @@ Services should ensure there is a obvious way for users to report problems they 
 
 *Note*: An exception is made for IE6, as this is still in large-scale use in government departments.
 
-Two distinct levels of support are given and denoted next to each browser as C or F and are defined as:
-
-* COMPLIANT
-* FUNCTIONAL
-
-Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
+Two distinct levels of support are given and denoted next to each browser. Where "latest version" is listed, it means the latest stable version plus one version back, as these browsers regularly self-update.
 
 ### Desktop
 
 
 | OS | Browser | Support |
 |------------------------|
-| Windows  | Internet Explorer 9 | C |
-| &nbsp;  | Internet Explorer 8 | C |
-| &nbsp; | Internet Explorer 7 | C |
-| &nbsp; | Internet Explorer 6 | F |
-| &nbsp;  | Google Chrome (latest version) | C |
-| &nbsp;  | Mozilla Firefox (latest version) | C |
-| Mac OS X | Safari 5 | C |
-| &nbsp; | Google Chrome (latest version) | C |
-| &nbsp; | Mozilla Firefox (latest version) | C |
+| Windows  | Internet Explorer 9 | Compliant |
+| &nbsp;  | Internet Explorer 8 | Compliant |
+| &nbsp; | Internet Explorer 7 | Compliant |
+| &nbsp; | Internet Explorer 6 | Functional |
+| &nbsp;  | Google Chrome (latest version) | Compliant |
+| &nbsp;  | Mozilla Firefox (latest version) | Compliant |
+| Mac OS X | Safari 5 | Compliant |
+| &nbsp; | Google Chrome (latest version) | Compliant |
+| &nbsp; | Mozilla Firefox (latest version) | Compliant |
 
 ### Small screen devices
 
 | OS | Version | Browser | Support |
 |----------------------------------|
-| iOS | 6 | Mobile Safari | C |
-| iOS | 5 | Mobile Safari | F |
-| Android | 4.x | Google Chrome | C |
-| Android | 2.3 | Android Browser | F |
-| Blackberry | 6+ | &nbsp; | F |
+| iOS | 6 | Mobile Safari | Compliant |
+| iOS | 5 | Mobile Safari | Functional |
+| Android | 4.x | Google Chrome | Compliant |
+| Android | 2.3 | Android Browser | Functional |
+| Blackberry | 6+ | &nbsp; | Functional |
 
 ##Developing universally accessible services
 
@@ -104,7 +99,7 @@ Ben Welby discusses [the operating systems, browsers and devices supported](http
 
 Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](http://digital.cabinetoffice.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices - Tom Byers, GDS') (November 2012).
 
-Dafydd Vaughan with an update on [browser usage on GOV.UK](http://digital.cabinetoffice.gov.uk/2012/12/12/browser-usage-on-gov-uk/ ‘Browser usage on GOV.UK - Dafydd Vaughan, GDS’) post-launch.
+Dafydd Vaughan with an update on [browser usage on GOV.UK](http://digital.cabinetoffice.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK - Dafydd Vaughan, GDS') post-launch.
 
 The Guardian introduce their [use of responsive design](http://www.guardian.co.uk/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 

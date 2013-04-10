@@ -1,11 +1,19 @@
 ---
-layout: detailed-guidance
-title: Alpha
-class: alpha-phase
+layout: phases
+title: Alpha phase
+subtitle: Build a prototype, test it with users and learn from it
+phase: alpha
 category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases of service design
+    url: /service-manual/phases
 ---
 
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.
@@ -46,6 +54,7 @@ This phase involves a relatively small core team, who will be capable of rapidly
 - cross-functional requirements
 - decision to progress to [beta phase](/service-manual/phases/beta.html)
 
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
@@ -72,6 +81,7 @@ This phase involves a relatively small core team, who will be capable of rapidly
     Team size
   </li>
 </ul>
+-->
 
 [Previously: Discovery](/service-manual/phases/discovery.html)
 [Next: Beta](/service-manual/phases/beta.html)

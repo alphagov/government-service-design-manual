@@ -11,6 +11,13 @@ phases:
 audience:
   primary: designers, developers
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.

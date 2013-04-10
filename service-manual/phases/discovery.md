@@ -1,11 +1,19 @@
 ---
-layout: detailed-guidance
-title: Discovery
-class: discovery-phase
+layout: phases
+title: Discovery phase
+subtitle: Find out what your users need, what to measure and what your constraints are
+phase: discovery
 category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases of service design
+    url: /service-manual/phases
 ---
 
 The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html). 
@@ -14,11 +22,11 @@ Typical outputs from this phase are a list of [user needs](/service-manual/users
 
 ## What is the objective of a discovery process?
 
-The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial protoypes will explore.
+The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial prototypes will explore.
 
 The high level business context will become clear, and you will begin setting targets for [your KPIs](/service-manual/measurement).
 
-You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decomissioning these.
+You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decommissioning these.
 
 This information is found through:
 
@@ -43,6 +51,7 @@ You will leave the discovery phase with:
 * a decision to progress to next phase
 * maybe some rough prototypes
 
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
@@ -65,5 +74,6 @@ You will leave the discovery phase with:
     Team size
   </li>
 </ul>
+-->
 
 [Next: alpha](/service-manual/phases/alpha.html)

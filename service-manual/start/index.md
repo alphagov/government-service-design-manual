@@ -25,13 +25,13 @@ Typically, government services are built after long, costly procurement processe
 
 <img src="/service-manual/assets/images/old-way.png" alt="Diagram showing old ways of building services" />
 
-In this way of working, users are seldom - if ever - consulted. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
+In this way of working, users are seldom – if ever – consulted about the service they'll be using. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
 
-Instead, teams need to constantly iterate against user feedback.
+This way of working tends to encourage the creation of overly prescriptive policy, which tends to form the basis of the requirements document. Instead, teams need to constantly iterate against user feedback.
 
 <img src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
-This means [building and testing in small chunks](/service-manual/agile), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies.html) and [working in an agile way](/service-manual/agile).
+This means [building and testing in small chunks](/service-manual/agile), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies.html) and [working in an agile way](/service-manual/agile). This new approach allows closer working between policy and delivery teams and as a result, the development of more responsive policy, two aims of the [Civil Service Reform plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf). 
 
 ## Essential reading
 

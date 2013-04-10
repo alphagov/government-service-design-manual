@@ -3,7 +3,6 @@ layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 category: users
-category: the-team
 audience:
   primary: user-researchers, designers, service-managers,
   secondary: developers, tech-archs, performance-analysts, delivery-managers
@@ -17,9 +16,6 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  -
-    title: Know your users
-    url: /service-manual/users
 ---
 
 User needs are at the heart of all digital by default services, and to meet them you will need to test your services and assumptions with real users.

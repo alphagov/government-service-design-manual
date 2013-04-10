@@ -21,14 +21,14 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-One of the central principles of agile is quick feedback loops - we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
+One of the central principles of agile is quick feedback loops – we want to demonstrate something to the user as soon as we can so that we can see how well it suits their needs. Retrospectives are the way we apply this to our own teams and find out what's working and what isn't, so we can continuously improve.
 
 ## What is a retrospective?
 
 {:.left}
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
-A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, e.g. a full project retrospective.
+A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where the team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, eg a full project retrospective.
 
 A retrospective takes the following form:
 
@@ -61,18 +61,18 @@ Working agreements might include:
 
 * Everyone contributes
 * Do not speak over each other (except for the facilitator)
-* No laptops - focus should be on the meeting
+* No laptops – focus should be on the meeting
 
 ## Outcomes of a retrospective
 
 {:.left}
 ![Retrospective Sections](https://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
-The outcome of a retrospective should be some actions that can be taken to improve the process - ideally for the next iteration, but certainly as soon as possible.
+The outcome of a retrospective should be some actions that can be taken to improve the process – ideally for the next iteration, but certainly as soon as possible.
 
 Actions should:
 
-* be concrete and measurable (e.g. 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
+* be concrete and measurable (eg 'write 10 more unit tests for the redirector', or 'speak to Jamie about arranging a project retrospective'; not 'write more tests', or 'we should understand the lessons learned from this project')
 * have a date by which they should be completed
 * be assigned to a specific person (and not to 'the team')
 * should not be assigned to someone who is not present
@@ -103,7 +103,7 @@ Make sure they have been completed. If not, find out why not. Do they still need
 
 ### 00:10 to 00:20 (10 mins) The Good
 
-Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own to the wall, possibly saying a few words about each. Don't allow this to develop into a discussion at this point - at the moment we are just gathering data.
+Give the team around 10 minutes to write on post-its all the things that went well in the previous two weeks. If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own to the wall, possibly saying a few words about each. Don't allow this to develop into a discussion at this point – at the moment we are just gathering data.
 
 ### 00:20 to 00:30 (10 mins) Discussion
 
@@ -126,7 +126,7 @@ Again, group the post-its and prioritise if necessary, and discuss the main area
 
 Spend some time looking at the actions we have identified, assigning them to people present and setting realistic deadlines for completion.
 
-Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun - if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
+Total: 80 mins with 10% shuffle time. It is OK to finish early if people have said what they need to. It is not OK to overrun – if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
 
 ##Why we do this
 

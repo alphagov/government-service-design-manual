@@ -38,7 +38,7 @@ Service quality isn’t just a testing issue. The quality of a system is defined
 
 ## Fast Feedback
 
-Agile is reliant on fast feedback loops, so that we can actually be agile and change when we need to change. Testing should be about giving that fast feedback, at the time when it is useful. Agile test techniques (e.g. Behaviour driven development, Acceptance test driven development) have their place and we may well use them, but they are not the primary focus of the test approach.
+Agile is reliant on fast feedback loops, so that we can actually be agile and change when we need to change. Testing should be about giving that fast feedback, at the time when it is useful. Agile test techniques (eg Behaviour driven development, Acceptance test driven development) have their place and we may well use them, but they are not the primary focus of the test approach.
 
 ## Tests are an asset of the product
 
@@ -70,7 +70,7 @@ Read the guidance about [testing code](/service-manual/making-software/code-test
 ### Exploratory Testing
 Exploratory testing is a term commonly used to describe unscripted manual testing whereby the tester uses his or her knowledge, experience and intuition to navigate through the software and identify bugs. A scripted test can only ever test a predetermined outcome. Exploratory testing aims to find and test the less obvious outcomes. A good way to think about it is that automated tests prevent bugs whereas exploratory tests find them.  
 
-Exploratory testing is normally time-boxed and has a specific purpose - e.g. 'I will spend x hours exploring y and z aspects of the system (though my explorations may take me elsewhere and it may take more or less time, I’ll use my judgement as I go)'. 
+Exploratory testing is normally time-boxed and has a specific purpose - eg 'I will spend x hours exploring y and z aspects of the system (though my explorations may take me elsewhere and it may take more or less time, I’ll use my judgement as I go)'. 
 
 The term does not imply that the tester has not prepared for the testing. They will have given the testing some detailed planning in advance, thinking for instance about the specific aspects they want to explore, and any data or other system set-up that they will need.  
 
