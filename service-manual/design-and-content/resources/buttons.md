@@ -170,8 +170,8 @@ Buttons will inherit the font size of their parent elements. Use the standard pa
 
 * Actions that have irreversable effects should look 'scary'
 * Keep them away from the other actions
-* Use an alert to check that the user really wants to do this
-* Even better, make the action reversible
+* Make the action reversible / “undo”-able
+* If that isn't possible to implement, use an alert to check that the user really wants to do this
 
 ### Launch button
 <div class="pattern-example">
