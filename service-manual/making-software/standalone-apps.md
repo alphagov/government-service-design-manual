@@ -82,6 +82,30 @@ We are [backing open standards](/service-manual/making-software/open-standards-a
 
 And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming & social networking. For “utility” needs, such as those met by government services, the mobile web is preferred to native apps
 
+## Exceptions
+
+We recognise that there’ll be a few exceptions. To help you assess whether your case is likely to be considered an exception, consider the following:
+
+### Have you met the necessary conditions?
+
+**Condition 1:** Your web service is already designed to be responsive
+
+**Condition 2:** The service or the content you’re looking to build an app for is already open to third-parties via APIs or as open data
+
+> **NOTE:** If these conditions are not in place, it is unlikely that your app proposal will be approved. If you believe there are _compelling_ reasons why these conditions have not been met, please set them out in your proposal.
+
+### More questions
+
+1. [What’s the user need?](/service-manual/users/user-needs.html) Please provide supporting evidence
+2. Which 3rd-party native/hybrid apps have already been developed to meet this user need? If  there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are 3rd-party alternatives, please state why you believe a government-developed app is required. 
+3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know Your Users](/service-manual/users) and [Writing User Stories](/service-manual/agile/writing-user-stories.html). 
+4. Is there evidence of demand for this type of app amongst your target users? If you believe there is, please provide supporting evidence e.g. examples of similar apps that have proven popular with your target audience and evidence of their popularity.
+5. Is there evidence to justify building an app for the platform you’re proposing to do this for? If so, please provide supporting evidence e.g. analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices.
+
+### The Process
+
+In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) (including details about [response times](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60699/Annex-4-2-Service-Level-Agreement.doc)) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk). 
+
 ## Further Reading
 
 * [Government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
