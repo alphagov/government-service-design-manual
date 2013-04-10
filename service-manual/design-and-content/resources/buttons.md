@@ -205,7 +205,7 @@ Don't use:
 : Use at the beginning of the service
 
 'Next'
-: not 'forward', 'go' etc.
+: Not 'forward', 'go' etc.
 
 'Finish'
 : Use at the end of a service before the final confirmation screen 
