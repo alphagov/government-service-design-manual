@@ -155,6 +155,22 @@ You might occasionally need to arrange form controls in a row. To do this, wrap 
             </label>
           </p>
         </fieldset>
+        
+## Pre-checked radios and checkboxes
+
+You may want to pre-check radios if:
+
+* we already know the answer because it was given previously
+* there is a good business reason to steer users towards a particular answer, for instance “Contact me by email” may be preferable to “Contact me by phone” to help manage callcentre workload
+* there is a strong ‘common case’ bias towards a particular answer
+
+Do not pre-check radios if:
+
+* selecting none is a valid option (to be avoided for radios only, as they can’t be unchecked)
+* we want an unbiased opinion without leading the user
+* there is a legal requirement for the user to make a choice
+
+
 
 ## Fieldsets and legends
 
