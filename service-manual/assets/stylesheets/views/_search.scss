@@ -1,0 +1,106 @@
+.search {
+  .gsc-input-box {
+    height: auto;
+    border-color: $border-colour;
+  }
+
+  input.gsc-input {
+    @include core-19;    
+  }
+
+  td.gsc-input {
+    width: (240 / 19) * 1em;
+  }
+
+  td.gsc-search-button {
+    width: auto;
+
+    input {
+      @include button($main-colour);
+      padding: 6px 27px;
+    }
+  }
+
+  .gsc-above-wrapper-area {
+    .gsc-result-info {
+      @include core-16;
+      color: $secondary-text-colour;
+      padding-left: 0;
+    }
+  }
+
+  // Results overrides
+
+  .gsc-wrapper {
+    .gsc-results {
+      @include media(desktop) {
+        width: 75%;
+      }
+
+      .gsc-result {
+        .gs-title {
+          height: auto;
+
+          a, a:link {
+            @include core-19;
+            color: $link-colour;
+
+            b {
+              @include bold-19;
+              color: $link-colour;
+            }
+          }
+
+          a:visited {
+            color: $link-visited-colour;
+          }
+
+          a:active {
+            color: $link-active-colour;
+          }
+        }
+
+        .gsc-thumbnail-inside {
+          padding: 0;
+        }
+
+        .gsc-url-top {
+          padding: 0;
+          @include core-16;
+        }
+
+        .gs-visibleUrl {
+          @include core-16;
+          color: $secondary-text-colour;
+        }
+
+        .gsc-table-result {
+          @include core-16;
+          padding: 0;
+        }
+
+        .gs-no-results-result .gs-snippet {
+          @include core-19;
+          padding: 0;
+          margin: 0;
+          border: none;
+          background-color: transparent;
+        }
+      }
+
+      .gsc-cursor-box {
+        margin-left: 0;
+        @include core-16;
+
+        .gsc-cursor-page {
+          color: $link-colour;
+        }
+
+        .gsc-cursor-current-page {
+          color: $link-colour;
+          @include bold-16;
+        }
+      }
+    }
+  }
+}

@@ -2,6 +2,28 @@
 $nav-active: $black;
 $nav-highlight: $border-colour;
 
+#global-header {
+  form#search {
+    input.button {
+      background-color: $main-colour;
+
+      &:hover {
+        background-color: lighten($main-colour, 10%);
+      }
+    }
+
+    @include ie-lte(7) {
+      input.button-active {
+        background-color: lighten($main-colour, 10%);
+      }
+
+      input.button-hover {
+        background-color: lighten($main-colour, 10%);
+      }
+    }
+  }
+}
+
 #global-nav {
   margin: 0 1em;
   border-bottom: $gutter-one-third solid $nav-highlight;
