@@ -37,4 +37,4 @@ This is a notoriously difficult technique for anything beyond broad statements, 
 
 ##Sample 
 
-Feedback can be gathered from any user feedback point e.g. email, website, survey.
+Feedback can be gathered from any user feedback point eg email, website, survey.

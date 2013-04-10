@@ -39,7 +39,7 @@ Prioritise features for them over everyone else -- including your big, scary sta
 ## “What do you want next Friday? What have we learned last week?”
 
 
-![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
+![A sprint backlog, courtesy of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
 
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
@@ -62,7 +62,7 @@ A good team includes members with all of the skills necessary to successfully de
 
 *Product Manager* - responsible for delivering return on investment, usually by creating products that users love.  The team delivers the Product Manager’s vision.
 
-*Delivery Manager* (a.k.a. Scrum master or Project Manager) - is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
+*Delivery Manager* (aka Scrum master or Project Manager) – is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
 
 *Team member* - Self organising, multi-disciplinary team that delivers prioritised user stories. Responsible for estimation.
 

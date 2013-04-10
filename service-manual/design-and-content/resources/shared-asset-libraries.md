@@ -12,6 +12,13 @@ audience:
   primary: designers, developers
   secondary: tech-arch
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Shared asset libraries are helpful for using the same frontend and

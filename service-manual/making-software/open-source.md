@@ -33,7 +33,7 @@ In such cases, take care to mitigate the risk of lock-in to a single supplier by
 
 Where possible use DNS addresses you own for services, and demand open formats for the import and export of your data.
 
-For unique needs and common problems which have yet to be solved well elsewhere, develop software by [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) and publish under an open source licence ([Legal processes/Open standards and licensing]()).
+For unique needs and common problems which have yet to be solved well elsewhere, develop software by [coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/) and publish under an [open source licence](/service-manual/making-software/open-standards-and-licensing.html).
 
 Whenever possible construct software in the form of small components and utilities, re-usable both inside and outside of your organisation. Keep infrastructure code and secrets, including passwords and deployment configuration and scripts, separate and privately from publicly visible source code.
 
@@ -54,7 +54,7 @@ Free and open source software has a number of architectural benefits over closed
 
 Coding in the open lowers the barriers to collaboration with others inside and outside of your organisation, increasing the speed of new developers being productive on a project. Modern developers are usually more familiar with open source tools and ways of working than with proprietary products.
 
-Freedom at the point of use means open source software may be downloaded and assessed by developers without payment, prior agreement, a need to sign non-disclosure documentation, needing to waiver rights, or enter into aporia agreements on behalf of themselves or their organisation.
+Freedom at the point of use means open source software may be downloaded and assessed by developers without payment, prior agreement, a need to sign non-disclosure documentation, needing to waive rights, or enter into a priori agreements on behalf of themselves or their organisation.
 
 ### Avoid vendor lock-in
 
@@ -82,5 +82,5 @@ Open source encourages re-use and benefits from [network effects](http://en.wiki
 Finally, by lowering the barriers for reuse, building for extensibility, encouraging forking, mutation and experimentation, open source fosters a culture of [open innovation](http://en.wikipedia.org/wiki/Open_innovation), leading to better products and services.
 
 ## Further reading
-* The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licencing.html).
+* The legal obligations for using open source software are outlined the section [open standards and licensing](/service-manual/making-software/open-standards-and-licensing.html).
 * Official note from [CESG](http://www.cesg.gov.uk/) on [the security of open source](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78967/OSS_Toolkit_Security_Note_v1.0.pdf).

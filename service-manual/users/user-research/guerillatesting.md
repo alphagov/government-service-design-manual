@@ -26,7 +26,7 @@ breadcrumbs:
 This guidance talks about how Guerilla testing can be used to provide user research that can feed into product and service design.
 
 ##Guidance
-Guerilla user testing is a low cost method of user testing. The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere e.g. cafe, library, train station etc, essentially anywhere where there is significant footfall.
+Guerilla user testing is a low cost method of user testing. The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere eg cafe, library, train station etc, essentially anywhere where there is significant footfall.
 
 Guerilla testing works well to quickly validate how effective a design is on its intended audience, whether certain functionality works in the way it is supposed to, or even establishing whether a brand or proposition is clear.
 
@@ -44,7 +44,7 @@ There are a few logistics that should be taken into consideration before conduct
 
 * General: always ask permission first to speak with people, outline briefly the purpose of the research and reassure them about confidentiality
 * Scope: keep it simple and quick
-* Location: consider the location and set up carefully e.g. a busy train station may have the footfall but people might be in too much of a hurry to spare the time
+* Location: consider the location and set up carefully eg a busy train station may have the footfall but people might be in too much of a hurry to spare the time
 * Equipment: for website evaluations, Silverback is an ‘easy to use’ software solution that enables screen capturing and recording. However, whenever recording sessions you must seek permission from the participant first. Provide them with a written consent form for them to sign.
 * Incentives: providing incentives for audience participation is not required or necessary. However, depending on where you are running your sessions chocolates are always a welcome ‘thank you’ for peoples’ time.
 

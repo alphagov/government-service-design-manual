@@ -21,7 +21,7 @@ breadcrumbs:
 
 Accessibility is everyone’s responsibility. Provide training and resources to help your team build accessibility into everything they do. That includes planning, designing, building and managing.
 
-## Accesibility leads
+## Accessibility leads
 
 Include at least one person with strong accessibility knowledge in your team. Give them overall responsibility for educating and supporting your team’s accessibility goals.
 

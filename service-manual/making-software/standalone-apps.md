@@ -83,12 +83,12 @@ So-called “Apps” come in several very, very different flavours.
   - Not persistent on device
   - Some device features unavailable (camera, address book)
   - Requires internet connection
-  - Not snappy enough for some complex services (e.g. Spotify, Facebook, Skype)
+  - Not snappy enough for some complex services (eg Spotify, Facebook, Skype)
   - No ‘download and buy’ revenue stream.
 
 ### Hybrid App
   - A small native app which then loads up a bespoke website
-  - So, can use device features (e.g. camera) that Web apps can’t.
+  - So, can use device features (eg camera) that Web apps can’t.
   - Requires a stand-alone website Examples “Bing for Mobile”, Netflix app, LinkedIn app, BBC News app
 
 #### Hybrid App – Pros & Cons
@@ -102,7 +102,7 @@ Ensure your service meets the [Digital by Default Service Standard](/service-man
 
 Make your [data](/service-manual/making-software/open-source.html) & [API](/service-manual/making-software/apis.html) available for re-use and you will stimulate market if there is real demand for native apps.
 
-We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) (HTML5) rather than risking proliferation of parallel versions of services as devices proliferate.
+We are [backing open standards](/service-manual/making-software/open-standards-and-licensing.html) (HTML5) rather than risking proliferation of parallel versions of services as devices proliferate.
 
 And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming & social networking.
 
@@ -131,6 +131,6 @@ NOTE: If these conditions are not in place, it is unlikely you'll obtain approva
 
   6. Is there evidence of demand for this app amongst your target users?  If 'yes', please provide supporting  evidence. 
 
-  7. Given the sheer number of apps out there is there evidence to suggest that this app will actually be downloaded? If 'yes', please provide supporting evidence e.g. examples of similar apps that have proven popular with your target audience and evidence of their popularity.
+  7. Given the sheer number of apps out there is there evidence to suggest that this app will actually be downloaded? If 'yes', please provide supporting evidence eg examples of similar apps that have proven popular with your target audience and evidence of their popularity.
 
-  8. Is there evidence of platform penetration amongst your users to justify building an app for the platform you're proposing to do this for? If 'yes', please provide supporting evidence e.g. analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices
+  8. Is there evidence of platform penetration amongst your users to justify building an app for the platform you're proposing to do this for? If 'yes', please provide supporting evidence eg analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices

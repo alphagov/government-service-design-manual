@@ -1,11 +1,19 @@
 ---
-layout: detailed-guidance
-title: Live
-class: live-phase
+layout: phases
+title: Live phase
+subtitle: Learn how to continuously improve your live service
+phase: live
 category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  - 
+    title: Phases of service design
+    url: /service-manual/phases
 ---
 
 You've been building a service to meet [users needs](/service-manual/users/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
@@ -16,7 +24,7 @@ In order to provide a fully resilient service to all end users the service shoul
 
 You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
 
-And, most importanly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
+And, most importantly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
 ## What next?
 
@@ -32,10 +40,12 @@ You will repeat the whole process (discovery, alpha, beta and live) for smaller 
 
 ## Who do I need?
 
-You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accomodating specialists as appropriate.
+You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
 
 ## What are the outputs?
 
+
+<!--
 <ul class="phase-activities">
   <li>
     <img class="output" src="/service-manual/assets/images/pictograms/website.png" />
@@ -50,6 +60,6 @@ You will have identified the roles required to run your service, including the [
     Team size
   </li>
 </ul>
-
+-->
 
 [Previously: beta](/service-manual/phases/beta.html)

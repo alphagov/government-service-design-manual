@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-In order to provide high-quality service, you will very likely want a dedicated group of specialists - or current staff dedicating some of their time - to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.
+In order to provide high-quality service, you will very likely want a dedicated group of specialists -- or current staff dedicating some of their time -- to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.
 
 Your planning will be greatly aided by drawing on the traditional contact centre management and planning skill sets; if you do not have access to staff with these skills, you may have to work closely with other groups who do in a consultancy capacity. This may include the team at GDS, or [outside specialists](/service-manual/the-team/working-with-specialists.html).
 
@@ -30,7 +30,7 @@ Your planning will be greatly aided by drawing on the traditional contact centre
 
 You’ll need to have some idea of the volume and type of contacts that you will receive for the service you’re supporting. In many cases, you can use historical data for similar services as a baseline. 
 
-This element of your planning will also need to take into account the contact channels you intend to support (e.g., email, phone, chat, Twitter, Facebook, surface mail, etc.). Ideally, each of these channels will have a separate contact forecast to aid your planning. 
+This element of your planning will also need to take into account the contact channels you intend to support (eg email, phone, chat, Twitter, Facebook, surface mail, etc.). Ideally, each of these channels will have a separate contact forecast to aid your planning. 
 
 This portion of your planning will also be informed by or will itself drive decisions about the technology you’ll use to route, handle, and store historical data from these contacts.
 

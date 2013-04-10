@@ -47,7 +47,7 @@ The normal format is each person answers the following 3 questions:
 
 * what I worked on/delivered yesterday
 * what I am working on today (and help I might need)
-* what’s blocking me (i.e. stopping me delivering a story card)
+* what’s blocking me (ie stopping me delivering a story card)
 
 (It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
 
@@ -67,7 +67,7 @@ With bigger teams this can be a hard meeting to get right. Some people want to d
 
 Some teams choose to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
 
-Make sure stories are well formed (i.e. don’t skip the “So that...” part because it’s hard), have a good, sensible list of acceptance criteria that supplement your teams’ standing criteria for ‘definition of done’ and are estimated. If stories are too big then split them into smaller stories. They stand more chance of delivering shippable code.
+Make sure stories are well formed (ie don’t skip the “So that...” part because it’s hard), have a good, sensible list of acceptance criteria that supplement your teams’ standing criteria for ‘definition of done’ and are estimated. If stories are too big then split them into smaller stories. They stand more chance of delivering shippable code.
 
 ### Sprint Review
 

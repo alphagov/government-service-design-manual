@@ -13,6 +13,13 @@ phases:
   - beta
   - live
 page_class: buttons
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Buttons should be used to signify actions that the user can perform. Here's how to create buttons in the GOV.UK style, using the [GOV.UK button Sass mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_buttons.scss).
@@ -198,7 +205,7 @@ Don't use:
 : Use at the beginning of the service
 
 'Next'
-: not 'forward', 'go' etc.
+: Not 'forward', 'go' etc.
 
 'Finish'
 : Use at the end of a service before the final confirmation screen 

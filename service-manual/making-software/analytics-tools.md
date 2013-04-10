@@ -87,7 +87,7 @@ A selection of sites that provide vendor comparison information:
 * [Analytics tool comparison](http://www.slideshare.net/shvmdhwn/analytics-tool-comparison)
 * [Enterprise Web Analytics: A Buyer’s Guide](http://searchengineland.com/buyers-guides/enterprise-web-analytics-tools-in-the-facebook-era-a-buyers-guide)
 
-For for information on digital analytics:
+For information on digital analytics:
 
 * [Occam’s Razor by Avinash Kaushik](http://www.kaushik.net/avinash/) has a wealth of useful, easily digestible information on analytics
 * [Web Analytics Demystified](http://www.webanalyticsdemystified.com/) and the [Digital Analytics Association](http://www.digitalanalyticsassociation.org/) have free whitepapers.
