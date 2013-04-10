@@ -45,12 +45,12 @@ Forms should be styled as per the examples on this page. The [GOV.UK forms mixin
     }
 
 
-Check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html) to see the different layout options in action.
+Check out the [‘create an account’ form example](/service-manual/design-and-content/resources/registration-form.html) to see the different layout options in action.
 
 
 ## Basic structure
 
-Wrap each control in an element with a class of 'group'.
+Wrap each control in an element with a class of ‘group’.
 
 ### Example
 
