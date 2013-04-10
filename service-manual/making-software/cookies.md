@@ -44,7 +44,7 @@ Responsibility for complying with these regulations lies with the website operat
 
 This guide covers how to use cookies on government services, but the principles also apply to other technologies such as HTML5 local storage.
 
-** You should minimise the use of cookies on services, store as little information as you require for as short a time as necessary to deliver a good service to users. **
+**You should minimise the use of cookies on services, store as little information as you require for as short a time as necessary to deliver a good service to users.**
 
 If your service requires cookies to be stored then you need to ensure that they can be explained simply and clearly, in a way that the majority of users can understand.
 
