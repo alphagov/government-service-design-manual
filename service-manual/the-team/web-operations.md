@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: detailed-guidance
 title: Web operations skills
 subtitle: helping develop maintainable systems
 category: the-team
