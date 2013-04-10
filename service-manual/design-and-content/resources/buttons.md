@@ -152,7 +152,7 @@ Buttons will inherit the font size of their parent elements. Use the standard pa
 ### Secondary actions
 <div class="pattern-example">
   <p>
-    <a href="#" class="button-secondary">Next step</a>
+    <a href="#" class="button-secondary">Save</a>
   </p>
 </div>
 
