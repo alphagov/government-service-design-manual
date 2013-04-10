@@ -218,11 +218,12 @@ Many of these can be used in place of ‘Submit’, which is a technical term t
 'Sign in' and 'Sign out'
 : Not 'log-in' or 'log-out'
 
+'Sign up'
+: Only use this for mailing lists
+
 'Create an account'
 : Not 'register'
 
-'Sign up'
-: Only use this for mailing lists
 
 
 ### Compound actions
