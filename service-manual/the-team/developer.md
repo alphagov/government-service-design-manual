@@ -28,7 +28,7 @@ No digital service can be effectively built, delivered, owned and operated witho
 
 Developers will be able to work directly on those services, but are also an important part of service innovation as they bring ideas, generate prototypes and contribute to a rounded team. 
 
-Once a service is live the need for developers continues. There will always be technical optimisations that can be made - faster and more responsive systems, acting to mitigate the risks of a constantly changing security environment - but as you respond to new or more clearly understood user needs the software will need to adapt. As the policy and other context around a service changes the software may need to integrate with new systems or provide new features and a development team can help ensure that work is pro-active.
+Once a service is live the need for developers continues. There will always be technical optimisations that can be made -- faster and more responsive systems, acting to mitigate the risks of a constantly changing security environment -- but as you respond to new or more clearly understood user needs the software will need to adapt. As the policy and other context around a service changes the software may need to integrate with new systems or provide new features and a development team can help ensure that work is pro-active.
 
 ## Skills and attributes:
 
@@ -47,7 +47,7 @@ You would expect any developer to:
 
 * have deep skills in at least one programming language
 * be aware of the differences between a few languages and frameworks, and be pragmatic at picking the right one
-* understand the core concepts of the internet and web - they should be able to give a good answer to the question "what happens when I click a link in a web browser"
+* understand the core concepts of the internet and web -- they should be able to give a good answer to the question "what happens when I click a link in a web browser"
 * be deeply committed to testing their work with automated tests and exploratory testing
 * be able to explain their work to people without particular technical skills
 
