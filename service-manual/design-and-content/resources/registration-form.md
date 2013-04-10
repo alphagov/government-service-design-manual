@@ -45,7 +45,7 @@ Click the label alignment options in the Sass snippet below to see how they affe
         <ol>
           <li><a href="#error1">Enter your first name</a></li>
           <li><a href="#error2">Enter your last name</a></li>
-          <li><a href="#error3">Confirm your email address</a></li>
+          <li><a href="#error3">Re-type your email address</a></li>
           <li><a href="#error4">Select at least one area of interest</a></li>
         </ol>
       </div>
@@ -119,8 +119,8 @@ Click the label alignment options in the Sass snippet below to see how they affe
             <input id="email" type="email" class="email">
           </p>
           <p class="group validation">
-            <!--<span class="validation-message" id="error3">3. Confirm your email address</span>-->
-            <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+            <span class="validation-message" id="error3">3. Re-type your email address</span>
+            <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
             <input id="email-confirm" type="email" class="email">
           </p>
         </fieldset>
