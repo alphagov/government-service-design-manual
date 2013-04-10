@@ -398,7 +398,7 @@ Nest rows of buttons in an 'action group' element.
     <div class="form-example-1">
 
         <p class="action group">
-          <input class="button" type="submit" value="Submit">
+          <input class="button" type="submit" value="Next">
           <input class="button-secondary" type="submit" value="Cancel">
         </p>
 
@@ -408,7 +408,7 @@ Nest rows of buttons in an 'action group' element.
 ### HTML
 
         <p class="action group">
-          <input class="button" type="submit" value="Submit">
+          <input class="button" type="submit" value="Next">
           <input class="button-secondary" type="submit" value="Cancel">
         </p>
 
