@@ -54,7 +54,7 @@ HTML is quicker, easier and more widely usable/accessible than PDF, but where no
 
 Accessibility is more than checking the boxes of standards compliance. When writing content, consider what information would be useful to people with access needs.
 
-For instance, in a ‘find my nearest’ service, include content like: Is there disabled parking? How far is it from the entrance? What’s the terrain like? Uphill? Downhill? Do you have to cross any roads? etc.
+For instance, in a ‘find my nearest’ service, consider user needs like: Is there disabled parking? How far is it from the entrance? What’s the terrain like? Uphill? Downhill? Will I have to cross any roads? etc.
 
 
 ##Further reading
