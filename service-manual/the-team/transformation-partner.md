@@ -148,7 +148,7 @@ See also [Choosing Technology](/service-manual/agile/making-software/choosing-te
 
 ## Integration experience
 
-The partner will need experience in building systems capable of integrating into complex environments including significant legacy systems.
+Depending on the department's existing estate, the partner may need experience in building systems capable of integrating into complex environments including significant legacy systems.
 
 An agile approach to integration is preferred, utilising such things as:
 
@@ -169,7 +169,7 @@ The partner should have proven experience with running day to day operations for
 
 ## Legacy system migration
 
-The partner should have a proven track record with the migration of complex legacy systems. 
+Depending on the department's existing estate, the partner may need to have have a proven track record with the migration of complex legacy systems. 
 
 ## Process
 
