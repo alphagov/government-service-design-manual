@@ -70,6 +70,10 @@ Software that requires customisation to fit your needs is best avoided. The ongo
 
 The services that we write will need to be deployed, [early and frequently](/service-manual/making-software/release-strategies.html). Any components that we choose should be easy to deploy and upgrade as part of an [automated pipeline](/service-manual/agile/continuous-delivery.html).
 
+## Testing
+
+[Frequent, automated testing](/service-manual/making-software/testing-in-agile.html) is essential in agile development. Software that makes testing difficult should be avoided.
+
 ## Why we do this
 
 Choosing technology is important, but it's probably not quite as important as you think. What is important are the users of that technology and being able to deliver quality at a sustainable pace and suitable cost. When making technology choices, and importantly as you develop your product and constantly reassess your selections, try and make decisions that:
