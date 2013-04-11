@@ -406,13 +406,16 @@ Use the 'visuallyhidden' class to hide labels. You need a really good reason to 
 
 ## Buttons
 
-Nest rows of buttons in an 'action group' element.
+Buttons should be horizontally left-aligned beneath the form inputs (not necessarily left aligned with the labels, and not right aligned on the page). Nest rows of buttons in an 'action group' element. The primary action should be the first button in the group.
 
 ### Example
 
 <div class="pattern-example">
-    <div class="form-example-1">
-
+        <div class="form-example-1">
+        <p class="group">
+          <label for="full-name">Full name</label>
+          <input id="full-name" type="text" class="full-name">
+        </p>
         <p class="action group">
           <input class="button" type="submit" value="Next">
           <input class="button-secondary" type="submit" value="Cancel">
