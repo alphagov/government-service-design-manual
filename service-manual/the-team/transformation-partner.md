@@ -162,7 +162,7 @@ The partner should not be predisposed to building solutions based upon products 
 
 Decisions should be based on evidence gathered via hands-on, code based experimentation. A collaborative approach involving workshops and the building of prototypes with vendors is encouraged.
 
-See also [Choosing Technology](/service-manual/agile/making-software/choosing-technology.html).
+See also [Choosing Technology](/service-manual/making-software/choosing-technology.html).
 
 ## Integration experience
 
