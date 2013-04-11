@@ -68,65 +68,83 @@ Across the team, we'd like to see specific expertise with a number of practices.
 
 Note that how these capabilities are split across roles will differ from team to team. What matters is that these things can be done, not who in the team does what.
 
-* Development practices 
-    * Pair programming
-    * Test driven development
-    * Automated testing
-    * Refactoring
-    * Appropriate use of design patterns
-    * Version control usage
-        * Frequent checkins
-        * Awareness of the pros and cons of branches vs. feature toggles
-    * Appropriate use of design patterns
-* Exploratory testing
-* Business Analysis
-    * Collaborating with customers to develop a deep understanding of the business domain.
-    * Requirement collection. 
-    * Domain modelling and development of a shared vocabulary.
-    * Expressing requirements in the form of well sized stories.
-        * The characteristics of a good story: [INVEST][]
-* Agile project planning
-    * Inception and other discovery activities.
-    * The building of an initial story list (minimum viable product), and the maintenance of the backlog.
-    * Estimation and sizing - including an understanding of the benefits and costs of estimation
-    * Iteration management.
-    * Progress tracking.
-    * Retrospectives?
-* Project Management
-    * Delivery assurance
-    * Interfacing outside the agile team
-        * Finance
-        * Procurement
-    * Delivery assurance
-    * Product Ownership.
-        * Might do it, or just ensure it's done.
-* Continuous delivery
-    * Delivering working software, early and often.
-    * Ability to talk about various tooling options, rather than being familiar with only one.
-    * DevOps should be understood as an approach, not as a role.
-        * Aggressive automation
-        * Shared goals and toolsets
-* Automated environment provisioning and deployment.
-    * [Chef][], [Puppet][], [Fabric][], [Vagrant][] etc.
-    * Cloud environments
-        * Hosting vs. [IaaS][] vs [PaaS][]
-* Enablement
-    * Identification of capability gaps
-    * Coaching
-    * Training
-    * Mentoring
-* UX
-    * [XD](http://en.wikipedia.org/wiki/Experience_design "Experience Design")
-    * Prototyping
-    * Design
-    * Client-side coding
-    * User testing
+### Development practices 
 
+* Pair programming
+* Test driven development
+* Automated testing
+* Refactoring
+* Appropriate use of design patterns
+* Version control usage
+    * Frequent checkins
+    * Awareness of the pros and cons of branches vs. feature toggles
+* Appropriate use of design patterns
+    
+### Exploratory testing
+
+### Business Analysis
+
+* Collaborating with customers to develop a deep understanding of the business domain.
+* Requirement collection. 
+* Domain modelling and development of a shared vocabulary.
+* Expressing requirements in the form of well sized stories.
+    * The characteristics of a good story: [INVEST][]
+    
 [invest]: http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/ "Independent, Negotiable, Valuable, Estimable, Small, Testable"
+        
+### Agile project planning
+
+* Inception and other discovery activities.
+* The building of an initial story list (minimum viable product), and the maintenance of the backlog.
+* Estimation and sizing - including an understanding of the benefits and costs of estimation
+* Iteration management.
+* Progress tracking.
+* Retrospectives?
+    
+### Project Management
+
+* Delivery assurance
+* Interfacing outside the agile team
+    * Finance
+    * Procurement
+* Delivery assurance
+* Product Ownership.
+    * Might do it, or just ensure it's done.
+        
+### Continuous delivery
+
+* Delivering working software, early and often.
+* Ability to talk about various tooling options, rather than being familiar with only one.
+* DevOps should be understood as an approach, not as a role.
+    * Aggressive automation
+    * Shared goals and toolsets
+        
+### Automated environment provisioning and deployment.
+
+* Provisioning tools such as [Chef][], [Puppet][] and [Vagrant][], etc.
+* Deployment tools such as [Fabric][], etc.
+* Cloud environments
+    * Hosting vs. [IaaS][] vs [PaaS][]
+    
 [puppet]: http://projects.puppetlabs.com/projects/puppet
 [chef]: http://www.opscode.com/chef/
 [vagrant]: http://www.vagrantup.com/
 [fabric]: http://fabfile.org
+        
+### Enablement
+
+* Identification of capability gaps
+* Coaching
+* Training
+* Mentoring
+    
+### UX
+
+* [XD](http://en.wikipedia.org/wiki/Experience_design "Experience Design")
+* Prototyping
+* Design
+* Client-side coding
+* User testing
 
 ## Tool and platform selection
 
