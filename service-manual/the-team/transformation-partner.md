@@ -54,6 +54,10 @@ Quality should be "baked in" to the product. The advantages brought by both inte
 
 The partner should be aligned to the [Government][governmentstrategy] and [Departmental][] Digital Strategies, and to the [Government Service Design Manual][designmanual], and to have an ability to sell these visions within the department.
 
+### Asking the difficult questions
+
+The partner needs to work with the department to build an atmosphere of healthy challenge, in which all ideas are open to question; those from the department, the partner, and anywhere else. The partner should seek to do the right thing rather than merely what is asked of them, and o work to achieve a consensus as to what this might be. This will need to be done with sensitivity, and a constructive approach from all parties.
+
 ## Evolutionary Architecture
 
 The partner should have a track record with taking an evidence based, evolutionary, domain driven approach to developing an architecture, based on a solid understanding of system's requirements and constraints. Architecture should be developed in a hands-on fashion in concert with the team's developers, with decisions based on discovery through code.
