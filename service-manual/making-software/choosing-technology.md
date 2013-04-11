@@ -74,6 +74,10 @@ The services that we write will need to be deployed, [early and frequently](/ser
 
 [Frequent, automated testing](/service-manual/making-software/testing-in-agile.html) is essential in agile development. Software that makes testing difficult should be avoided.
 
+## Playing nicely version control
+
+One frequent problem to watch for is tools that don't work well with [version control](/service-manual/making-software/version-control.html). Tools that create large binary files which need to be committed to version control, or whose files change in ways which make merging difficult should be avoided.
+
 ## Why we do this
 
 Choosing technology is important, but it's probably not quite as important as you think. What is important are the users of that technology and being able to deliver quality at a sustainable pace and suitable cost. When making technology choices, and importantly as you develop your product and constantly reassess your selections, try and make decisions that:
