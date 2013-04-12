@@ -17,8 +17,6 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-# What is devops?
-
 Many large organisations have evolved to have very separate development, quality assurance and operations business units. In many cases the overhead of communications and the misaligned incentives of the different groups leads to slow delivery and a mountain of interconnected processes. In extreme cases these units may be geographically separated, work for different organisations or under completely different management structures.
 
 Devops is a cultural and professional movement which has grown out of these frustrations. It is not a methodology or framework, rather some high minded principles and a willingness to break down silos. Specifically devops is all about [Culture](#culture), [Automation](#automation), [Measurement](#measurement) and [Sharing](#sharing).
@@ -49,19 +47,19 @@ High quality digital services need to be able to adapt quickly to user needs, th
 
 Devops isn’t a project management methodology but you will hopefully adopt some of these good habits in your organisation. These aren’t unique to devops, but they do help with breaking down silos and with the above principles.
 
-* Cross-functional teams - working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
-* Widely shared metrics - knowing what good looks like across the service is important for everyone, and sharing high and low level metrics as widely as possible is a good way of building understanding. 
+* [Cross-functional teams](/service-manual/the-team/index.html) - working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
+* [Widely shared metrics](/service-manual/measurement/index.html) - knowing what good looks like across the service is important for everyone, and sharing high and low level metrics as widely as possible is a good way of building understanding. 
 * Automating repetitive tasks - using software development to automate tasks from across the service is a good way of fostering a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
 * Post-mortems - issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
-* Regular releases - releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
+* [Regular releases](/service-manual/making-software/release-strategies.html) - releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
 
 ## Warning signs
 
 Like agile, the term devops is often used for marketing or promotional purposes. This leads to a few common usages which are not necessarily in keeping with the above discussion. Watch out for:
 
-* Devops tools. Nearly always marketing.
-* A devops team. In many cases this is just a new silo of skills and knowledge.
-* Devops as a job title. You wouldn’t call someone “an agile”
+* devops tools (nearly always marketing)
+* a devops team (in many cases this is just a new silo of skills and knowledge)
+* devops as a job title (you wouldn’t call someone “an agile”)
 
 ## Further reading
 
@@ -70,6 +68,3 @@ Like agile, the term devops is often used for marketing or promotional purposes.
 * [What is devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
 * [There’s No Such Thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
 * Those interested in devops are often also interested in [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html), [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html) and [Release Management](https://www.gov.uk/service-manual/making-software/release-strategies.html)
-
-
-
