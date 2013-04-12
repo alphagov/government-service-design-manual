@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-While the start and end of a user's journey will be on GOV.UK, the service itself will hosted elsewhere, and will need a different domain name as a result. The following document describes the use of `service.gov.uk` subdomains for hosting digital services.
+Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on GOV.UK, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
 
 > Note: This document is written as a "standard," and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 
