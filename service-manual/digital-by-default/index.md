@@ -52,7 +52,7 @@ To achieve the standard, the service team must demonstrate that they have:
 ## Further Reading
 
 {:.link-list}
-- [Find out what is required maintain the service standard after launching on GOV.UK](/service-manual/digital-by-default/maintaining-the-standard.html)
-- [Find out whether your service needs to meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html)
-- [Find out how services will be assessed against the standard](/service-manual/digital-by-default/assessments-against-the-standard.html)
-- [Find out more about how to provide evidence for meeting the standard](/service-manual/digital-by-default/providing-evidence.html)
+- [Find out which services must meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html)
+- [How services will be assessed against the standard](/service-manual/digital-by-default/assessments-against-the-standard.html)
+- [Providing evidence in order to meet the standard](/service-manual/digital-by-default/providing-evidence.html)
+- [Maintaining the service standard after release](/service-manual/digital-by-default/maintaining-the-standard.html)
