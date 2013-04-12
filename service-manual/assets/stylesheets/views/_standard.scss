@@ -5,55 +5,84 @@
 .dbd {
   // Swap standard header for DbD kitemark
   .page-header {
-    hgroup{
-      padding-top: 2em;
-    }
-    h1{
-      background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 2.2em 0.5em;
+    h1 {
+      background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 0 0.5em;
       height: 150px;
       background-size: Auto 74%;
       text-indent: -9999px;
     }
   }
-  .subtitle{
-    display: none;
+
+  .inner {
+    padding: 0
   }
 
-
   // The list of criteria
-  .standard{
-    ul{
-      display: inline-block;
-      vertical-align: middle;
-      margin-top: 1em;
-      margin-bottom: 1em;
-      padding-left: 0;
-      width:  73%;
-      border-left: 5px solid $grey-3;
-    }
-    li{
+  .standard {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1em 0;
+    padding: 0;
+
+    counter-reset: standard-counter;
+
+    >li {
       list-style: none;
-      line-height: (40 / 24);
-      padding-left: 1em;
-      //background-image: url("../images/progress-tick.png");
-      //background-repeat: no-repeat;
-      //background-position: 19px 45%;
-      &:before{
-        content: "✓";
-        color: $green;
-        margin-right: 1em;
+
+      display: block;
+      border-top: 1px solid $border-colour;
+      padding: 1em 0 2em 0;
+      margin: 0;
+      @extend %contain-floats;
+
+
+      &:before {
+        content: counter(standard-counter);
+        counter-increment: standard-counter;
+
+        display: inline-block;
+        float: left;
+        margin-right:5%;
+
+        @include bold-80;
+
+        @include media(tablet) {
+          width: 10%;
+        }
       }
-    }  
-    h3{
-      display: inline-block;
-      margin-right: 1em;
-      width: 18%;
-      @include heading-36;
-      text-align: right;
+
+      .point {
+        @include bold-24;
+
+        @include media(tablet) {
+          width: 50%;
+          float: left;
+        }
+      }
     }
-    h4{
-      margin-left: 11.4em;
-      font-weight: bold;
+
+    ul.guidance {
+      @include media(tablet) {
+        float: right;
+        margin-left: 10%;
+        width: 25%;
+      }
+
+      padding-left: 0;
+
+      >li {
+        font-size: 16px;
+        list-style: none;
+        overflow: hidden;
+        margin: 0.5em 0 0 0;
+        padding: 0.5em 0 0 0;
+        border-top: 1px solid $grey-3;
+
+        &:first-child {
+          border: none;
+          margin-top: 0;
+        }
+      }
     }
   }
 }
