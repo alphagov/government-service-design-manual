@@ -44,18 +44,3 @@ First, they will be read by the service’s users, the public. Amongst other thi
 They will also be read by the [Go Live panel](/service-manual/digital-by-default/awarding-the-standard.html#go-live-panel) to help determine whether a service is ready to be launched. Clarity on what has been done and why, and pointing to evidence for taking decisions on service design will be what they look for in their assessments. Woolly words and unsubstantiated assertions will not help. 
 
 Other teams in government will read the blogs to find out how people going through similar challenges overcame them. Blog posts should therefore be written with some consideration of any broader application an approach, tool or technique may have. That applies as much to things that didn’t work as things that did. 
-
-### Tagging posts
-
-One of the big advantages of blogs is the ability to ‘tag’ posts. Tags make it easy to search and filter posts, so the blog as a whole is a more useful source of information for those looking for guidance on a specific topic or service. 
-
-In particular, tagging blog posts with:
-
-* the name of their service (eg ERTP)
-* a reference to which part of the [service standard criteria](/service-manual/digital-by-default) the post refers to (eg 2 - multidisciplinary team, 18 - instrumented analytics)
-
-Posts can be tagged with multiple service standard criteria if appropriate. 
-
-### Editorial and comments
-
-More information on editorial guidance and commenting will be available once the GOV.UK blogging platform goes live. 
