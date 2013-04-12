@@ -15,10 +15,9 @@ breadcrumbs:
 ---
 
 ## What is the Digital by Default Service Standard?
+The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014.
 
-This page sets out the full list of requirements that services must demonstrate they have met before launch in order to achieve the service standard. It also explains what services must do in order to retain the standard once they are linked to from GOV.UK.
-
-The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014. The page sets out that standard.
+Teams must demonstrate that they have met these before launch, and must be able to maintain this quality for the full life of the service.
 
 To achieve the standard, the service team must demonstrate that they have:
 
