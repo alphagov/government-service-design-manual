@@ -21,7 +21,7 @@ breadcrumbs:
 
 Many large organisations have evolved to have very separate development, quality assurance and operations business units. In many cases the overhead of communications and the misaligned incentives of the different groups leads to slow delivery and a mountain of interconnected processes. In extreme cases these units may be geographically separated, work for different organisations or under completely different management structures.
 
-Devops is a cultural and professional movement which has grown out of these frustrations. It is not a methodology or framework, rather some high minded principles and a willingness to break down silos. Specifically devops is all about Culture, Automation, Measurement and Sharing.
+Devops is a cultural and professional movement which has grown out of these frustrations. It is not a methodology or framework, rather some high minded principles and a willingness to break down silos. Specifically devops is all about [Culture](#culture), [Automation](#automation), [Measurement](#measurement) and [Sharing](#sharing).
 
 ### Culture
 
