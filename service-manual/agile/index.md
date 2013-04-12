@@ -26,6 +26,7 @@ Agile methodologies help teams build world-class, user-focused services quickly 
 An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the team is making (whether that's in the form of project management software or whiteboards).
 
 [What does agile look like?](/service-manual/agile/what-agile-looks-like.html)
+[What is continuous delivery?](/service-manual/making-software/continuous-delivery.html)
 
 ## User stories
 
