@@ -22,6 +22,7 @@ The Government Digital Strategy explained that the scope of the service standard
 To establish whether your service needs to meet the service standard, answer the questions below.
 
 Is your service:
+
 - completely new or going through a redesign?
 - processing (or likely to process) more than 100,000 transactions every year?
 - the responsibility of a central government department, agency or non-departmental public body?
