@@ -27,7 +27,7 @@ This short guide tells you what to keep in mind when including cookies into your
 
 Cookies are small data files that are sent from a website and stored on a user's computer. They are used to store information that can be retrieved later in the visit or in future visits to the website.
 
-Many uses of cookies are harmless but sometimes they are used to track users and their browsing habits across multiple websites and target them with relevant advertising.
+Many uses of cookies are harmless, but sometimes they are used to track users and their browsing habits across multiple websites and target them with relevant advertising.
 
 ## Privacy and Electronic Communications Regulations
 
@@ -57,9 +57,9 @@ You must notify users that cookies are being stored.
 These are cookies that are set by the website that the user is currently viewing. They are under the control of the website operator and can only be accessed by the website. Data stored within the cookie is not shared with other websites.
 
 Examples of first party cookies include:
-- Cookies for storing logged in status
-- Cookies for storing user preferences
-- Some types of analytics cookies
+- cookies for storing logged in status
+- cookies for storing user preferences
+- some types of analytics cookies
 
 These types of cookies are minimally intrusive as the website owner has complete control over what data is stored within them, how long the data is stored for and what the data is used for.
 
@@ -69,10 +69,10 @@ These types of cookies are minimally intrusive as the website owner has complete
 These are cookies set by external services used on the website. The cookies are under the control of the third party service and can be accessed on any website that makes use of the service. These cookies are not controlled by the website operator and can be used to track a user from one site to another.
 
 Examples of third party cookies include:
-- Cookies from social media sharing services
-- Cookies from advertising campaign management services
-- Cookies from embedded document sharing services
-- Cookies from some analytics services
+- cookies from social media sharing services
+- cookies from advertising campaign management services
+- cookies from embedded document sharing services
+- cookies from some analytics services
 
 These types of cookies are intrusive as the website owner usually has no control over what data is collected or how it is used.
 
@@ -90,7 +90,7 @@ You can see an example of how to do this on the [GOV.UK cookies page](https://ww
 
 Each service must include a link to this page on the footer of the website. The information page must also include a link back to the main GOV.UK cookies page.
 
-Services must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when the service relies on implied consent.  GOV.UK does this with a blue information banner that is displayed at least once every 3 months with the following message:
+Services must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when the service relies on implied consent. GOV.UK does this with a blue information banner that is displayed at least once every 3 months with the following message:
 
 > "GOV.UK uses cookies to make the site simpler. [Find out more about cookies](https://www.gov.uk/support/cookies)."
 
