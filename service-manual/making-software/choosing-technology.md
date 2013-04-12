@@ -66,6 +66,18 @@ You are more likely to buy in software that fulfils a commodity need. Developmen
 
 Software that requires customisation to fit your needs is best avoided. The ongoing cost of maintaining this customisation is always greater than you think it's going to be.
 
+## Deployment
+
+The services that we write will need to be deployed, [early and frequently](/service-manual/making-software/release-strategies.html). Any components that we choose should be easy to deploy and upgrade as part of an [automated pipeline](/service-manual/agile/continuous-delivery.html).
+
+## Testing
+
+[Frequent, automated testing](/service-manual/making-software/testing-in-agile.html) is essential in agile development. Software that makes testing difficult should be avoided.
+
+## Playing nicely version control
+
+One frequent problem to watch for is tools that don't work well with [version control](/service-manual/making-software/version-control.html). Tools that create large binary files which need to be committed to version control, or whose files change in ways which make merging difficult should be avoided.
+
 ## Why we do this
 
 Choosing technology is important, but it's probably not quite as important as you think. What is important are the users of that technology and being able to deliver quality at a sustainable pace and suitable cost. When making technology choices, and importantly as you develop your product and constantly reassess your selections, try and make decisions that:
