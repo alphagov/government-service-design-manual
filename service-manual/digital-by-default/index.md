@@ -14,25 +14,23 @@ breadcrumbs:
     url: /service-manual
 ---
 
-## Introduction
+## What is the Digital by Default Service Standard?
 
-The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014. 
+This page sets out the full list of requirements that services must demonstrate they have met before launch in order to achieve the service standard. It also explains what services must do in order to retain the standard once they are linked to from GOV.UK.
 
-Services must meet the standard before they are launched on [GOV.UK](https://www.gov.uk). A draft version is set out below. It will be agreed and set in April 2013.
+The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014. The page sets out that standard.
 
-## The Digital by Default Service Standard
-
-A team must demonstrate that they have done the following to achieve the standard:
+To achieve the standard, the service team must demonstrate that they have:
 
 1. conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design
 2. put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
 3. considered the user data and information the service will be providing or storing, addressed the security level, legal responsibilities and risks associated with the service, consulting with experts where appropriate
-4. considered the privacy risks to ensure that personal data collection requirements are appropriate 
+4. considered the privacy risks to ensure that personal data collection requirements are appropriate
 5. considered the tools and systems they will be using to build, host, operate and measure their service, and how to procure them
 6. built a working prototype, using the agile, iterative and user-centred methods set out in the manual
 7. established performance benchmarks to define success in consultation with GDS, using the 4 key indicators (KPIs) defined in the manual against which the service will be measured
 8. analysed the prototype service’s success and ensured that user feedback is translated into features for the next phase of development
-9. created a service that is simple and intuitive enough that users succeed first time, unaided 
+9. created a service that is simple and intuitive enough that users succeed first time, unaided
 10. put appropriate assisted digital support in place, targeted towards those who genuinely need it
 11. a plan in place (developed with GDS) for the phasing out of existing alternative channels where appropriate
 12. considered the seamless integration of the service’s digital and any non-digital steps that are required for legal reasons
@@ -42,7 +40,7 @@ A team must demonstrate that they have done the following to achieve the standar
 16. used open standards and common Government platforms (eg Identity Assurance) where available
 17. an ongoing ability to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices
 18. instrumented analytics tools and ensured that performance data can be collected
-19. built and resourced a service that can be improved daily, ensuring that user feedback and performance data is translated into development
+19. built and resourced a service that can be improved on a very frequent basis, ensuring that user feedback and performance data is translated into development
 20. a plan in place for ongoing user testing, including the ability to support multivariate experiments
 21. achieved, and will continue to achieve, high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform (PP)
 22. achieved, and will continue to achieve, high transaction success rates across the digital and assisted digital service that are reported on the PP
@@ -51,6 +49,10 @@ A team must demonstrate that they have done the following to achieve the standar
 25. a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline
 26. successfully tested the service from beginning to end with the responsible Minister
 
-## How to meet the standard
+## Further Reading
 
-This website, the [Government Service Design Manual](/service-manual/browse), contains all the information you need to start designing and building services that meet the standard.
+{:.link-list}
+- [Find out what is required maintain the service standard after launching on GOV.UK](/service-manual/digital-by-default/maintaining-the-standard.html)
+- [Find out whether your service needs to meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html)
+- [Find out how services will be assessed against the standard](/service-manual/digital-by-default/assessments-against-the-standard.html)
+- [Find out more about how to provide evidence for meeting the standard](/service-manual/digital-by-default/providing-evidence.html)
