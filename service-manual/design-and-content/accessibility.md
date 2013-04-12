@@ -49,5 +49,13 @@ Your service should be usable by recent versions of [Jaws](http://www.freedomsci
 
 HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.html) should be followed. There is more information on [chosing appropriate formats](/service-manual/design-and-content/chosing-appropriate-formats.html)
 
+
+## Accessible content
+
+Accessibility is more than checking the boxes of standards compliance. When writing content, consider what information would be useful to people with access needs.
+
+For instance, in a ‘find my nearest’ service, consider user needs like: Is there disabled parking? How far is it from the entrance? What’s the terrain like? Uphill? Downhill? Will I have to cross any roads? etc.
+
+
 ##Further reading
 If you want to read more about the accessibility testing we've carried out while building GOV.UK, [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/) will tell you more.
