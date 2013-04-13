@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Ensuring quality
-subtitle: So good that people prefer to use them
+title: Quality
+subtitle: How to define it, measure it and maintain it
 category: agile
 type: guide
 audience:
