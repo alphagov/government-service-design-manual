@@ -11,7 +11,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-The [Government Digital Strategy](/digitalstrategy) set an ambitious target for teams building services: services so good that people prefer to use them.
+The [Government Digital Strategy](/digitalstrategy) set an ambitious target for teams building government services: make them so good that people prefer to use them.
 
 ## Putting users first
 
