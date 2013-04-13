@@ -2,15 +2,98 @@
 // HOME PAGE
 //
 
+.js-enabled .search-the-manual label {
+float: none;
+position: absolute;
+z-index: -1;
+width: 22em;
+margin-right: 0;
+background-color: #F9F9F9;
+padding: 0.2em 0 0 0.3em;
+}
+
 .homepage {
   header.page-header {
+    margin: 2em 0;
     border: none;
     padding: 0;
 
     hgroup {
       padding: 0;
-    }    
+    }  
+
   }
+
+  .intro{
+    margin: 2em 0em 0 0;
+    padding: 11em 11em 2em 12em;
+    background: url("/service-manual/assets/images/DbD-kitemark.png") no-repeat center top;
+    background-size: 62%;
+    p{
+      @include core-27;
+    }
+  }
+
+  .browse-highlights{
+    @include grid(3);
+    border-top: 5px solid $main-colour;
+    padding: 2em 0;
+    margin: 0 2em;
+    h2{
+      font-weight: 400;     
+    }
+    ul{
+      padding: 0;
+    }
+    li{
+      list-style: none;
+      padding: 0;
+    }
+  }
+
+  .search-the-manual{
+    border-top: 5px solid $main-colour;
+    margin: 0 2em 2em 2em;
+    padding: 4em 0 0 10em;
+
+    .submit{
+      border: 0;
+      height: 46px;
+      width: 46px;
+      vertical-align: top;
+      background-color: $main-colour;
+      overflow: hidden;
+      text-indent: -5000px;
+      color: white;
+      background-image: url("https://assets.digital.cabinet-office.gov.uk/static/search-button.png");
+      background-repeat: no-repeat;
+      background-position: 100% 50%;
+      background-size: 150%;
+      margin-left: -46px;
+    }
+    label{
+      font-size: 27px;
+    }
+    p{
+      padding: 0.5em;
+    }
+    input[type="search"]{
+      background-color: transparent;
+      border: 2px inset;
+      font-size: 27px;
+      padding: 0.1em 0 0.1em 0.4em;
+      margin: 0;
+      width: 23em;
+    }
+
+    #site-search-text.focus,
+    #site-search-text:focus{
+      background-color: #F9F9F9;
+    }
+
+  }
+
+
 
   .dbd-promo {
     border-bottom: 5px solid $main-colour;
@@ -91,29 +174,6 @@
     }
   }
 
-  .intro {
-    margin: 0 0 2em 0;
-    padding: 0 0 1em 0;
-    border-bottom: 3px solid $main-colour;
-
-    h2{
-       margin-top: 0;
-    }
-
-    img {
-      margin: 0 auto;
-      display: block;
-      float: right;
-      width: 30%;
-    }
-
-    a{
-      @include bold-19;
-    }
-    .button{
-      @include button($red);
-    }
-  }
 
   .service-life {
     margin: 0;
