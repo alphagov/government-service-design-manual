@@ -21,12 +21,11 @@ module Jekyll
       # gather pages and posts
       items = site.pages.dup.concat(site.posts)
 
-      # only process files that will be converted to .html and only non excluded files 
-      items = items.find_all {|i| i.output_ext == '.html' && ! @excludes.any? {|s| (i.absolute_url =~ Regexp.new(s)) != nil } } 
-      items.reject! {|i| i.data['exclude_from_search'] } 
+      items.select! { |i| page_is_html?(i) && ! page_should_be_excluded?(i) }
+      items.reject! { |i| i.data['exclude_from_search'] }
       
       # dont process index pages
-      items.reject! {|i| i.is_a?(Jekyll::Page) && i.index? }
+      items.reject! { |i| i.is_a?(Jekyll::Page) && i.index? }
 			      
       index = items.collect do |item|              
         page_paragraphs = extract_text(site, item)
@@ -53,6 +52,15 @@ module Jekyll
       page.render({}, site.site_payload)
       doc = Nokogiri::HTML(page.output)
       doc.search('p').map {|e| e.text}
+    end
+
+    protected
+    def page_is_html?(page)
+      page.output_ext == '.html'
+    end
+
+    def page_should_be_excluded?(page)
+      @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
     end
   end 
 end
