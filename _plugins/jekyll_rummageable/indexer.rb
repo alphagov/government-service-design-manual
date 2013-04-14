@@ -21,7 +21,7 @@ module Jekyll
       # gather pages and posts
       items = site.pages.dup.concat(site.posts)
 
-      items.select! { |i| page_is_html?(i) && ! page_should_be_excluded?(i) }
+      items.select! { |i| page.output_is_html? && ! page_should_be_excluded?(i) }
       items.reject! { |i| i.data['exclude_from_search'] }
       
       # dont process index pages
@@ -55,10 +55,6 @@ module Jekyll
     end
 
     protected
-    def page_is_html?(page)
-      page.output_ext == '.html'
-    end
-
     def page_should_be_excluded?(page)
       @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
     end

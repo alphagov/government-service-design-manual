@@ -11,6 +11,9 @@ module Jekyll
     def absolute_url
       "#{@dir}#{url}"
     end
-  end
 
+    def output_is_html?
+      output_ext == '.html'
+    end
+  end
 end
