@@ -39,9 +39,9 @@ People from different backgrounds (say development and operations) often have di
 
 ## Why we do this
 
-Without close collaboration between those building and testing software and those running it in production the quality of the resulting service will be compromised. This happens in all sorts of ways but the root cause is often functional silos - when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no-longer their concern. For things like quality or release management or performance this is toxic. 
+Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos; when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic. 
 
-High quality digital services need to be able to adapt quickly to user needs, this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work. 
+High quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work. 
 
 ## Good habits
 
