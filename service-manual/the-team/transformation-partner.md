@@ -122,7 +122,7 @@ Note that how these capabilities are split across roles will differ from team to
 * Provisioning tools such as [Chef][], [Puppet][] and [Vagrant][], etc
 * Deployment tools such as [Fabric][], etc
 * Cloud environments
-    * Hosting versus [IaaS][] vs [PaaS][]
+    * Hosting versus [IaaS][] versus [PaaS][]
     
 [puppet]: http://projects.puppetlabs.com/projects/puppet
 [chef]: http://www.opscode.com/chef/
