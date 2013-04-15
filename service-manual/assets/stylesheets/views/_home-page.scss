@@ -35,7 +35,9 @@ padding: 0.2em 0 0 0.3em;
 
   .browse-highlights{
     @include grid(3);
-    border-top: 5px solid $main-colour;
+    //border-top: 5px solid $main-colour;
+    border-top: 2px solid $border-colour;
+
     padding: 2em 0;
     margin: 0 2em;
     h2{
@@ -95,7 +97,15 @@ padding: 0.2em 0 0 0.3em;
 
   }
 
+  .browse-the-manual{
+    background: $highlight-colour;
+    border-top: 5px solid $main-colour;
+    margin: 0 2em;
+    padding: 0 0 1em 10em;
+    h2{
 
+    }
+  }
 
   .dbd-promo {
     border-bottom: 5px solid $main-colour;
