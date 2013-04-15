@@ -13,8 +13,8 @@ module Jekyll
     end
 
     # Index all pages except pages matching any value in config['exclude_from_search']
-    # The main content from each page is extracted and indexed at indextank.com
-    # The doc_id of each indextank document will be the absolute url to the resource without domain name 
+    # The main content from each page is extracted and placed in a file for subsequent
+    # indexing with rummager.
     def generate(site)
       puts 'Indexing pages...'
     
