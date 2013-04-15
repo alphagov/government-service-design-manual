@@ -51,7 +51,11 @@ You would expect any developer to:
 * be deeply committed to testing their work with automated tests and exploratory testing
 * be able to explain their work to people without particular technical skills
 
-Depending on what you're building and the size of the project you may need to introduce additional roles into your development team such as "tech lead", "junior/senior developer", "technical architect". GDS will provide more details on how we approach this in the coming weeks.
+## Developers in the team
+
+It's really important that your team is clear as to who makes technical decisions. Everyone on the team will have useful knowledge, skills and experience to bring to bear and you will need an agreed way to understand that input and make a call. Some teams accomplish that by appointing a Tech Lead or delegating certain decisions to a Technical Architect, others will put that responsibility in other roles. The important thing is that technical decisions be made by people equipped to understand the trade-offs involved and are clear.
+
+As your team grows it is likely that you will find a range of skills and experience. You should be ensuring a balance within the team, making sure that more junior team members are well supported and coached by more experienced team members, but that everyone's ideas are considered and engaged with.
 
 ## Guidance
 
