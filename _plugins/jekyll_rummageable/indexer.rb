@@ -24,7 +24,7 @@ module Jekyll
       items.select! { |i| page.output_is_html? && ! page_should_be_excluded?(i) }
       items.reject! { |i| i.data['exclude_from_search'] }
       
-      # dont process index pages
+      # don't process index pages
       items.reject! { |i| i.is_a?(Jekyll::Page) && i.index? }
 			      
       index = items.collect do |item|              
