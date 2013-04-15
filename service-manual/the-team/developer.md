@@ -53,9 +53,9 @@ You would expect any developer to:
 
 ## Developers in the team
 
-It's really important that your team is clear as to who makes technical decisions. Everyone on the team will have useful knowledge, skills and experience to bring to bear and you will need an agreed way to understand that input and make a call. Some teams accomplish that by appointing a Tech Lead or delegating certain decisions to a Technical Architect, others will put that responsibility in other roles. The important thing is that technical decisions be made by people equipped to understand the trade-offs involved and are clear.
+It's really important that your team is clear as to who makes technical decisions. Everyone on the team will have useful knowledge, skills and experience to bring to bear and you will need an agreed way to understand that input and make a call. Some teams accomplish that by appointing a Tech Lead or delegating certain decisions to a Technical Architect, others will put that responsibility in other roles. The important thing is that clear technical decisions be made by people equipped to understand the trade-offs involved.
 
-As your team grows it is likely that you will find a range of skills and experience. You should be ensuring a balance within the team, making sure that more junior team members are well supported and coached by more experienced team members, but that everyone's ideas are considered and engaged with.
+As your team grows it is likely that you will find a range of skills and experience. You should be ensuring a balance within the team, making sure that more junior team members are well supported and coached by more experienced team members, but that everyone's ideas are considered and engaged with by the team and its decision maker.
 
 ## Guidance
 
