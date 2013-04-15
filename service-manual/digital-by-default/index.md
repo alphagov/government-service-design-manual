@@ -53,10 +53,9 @@ To achieve the standard, the service team must demonstrate that they have:
   <li>
     <div class="point">conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
+      <li><a href="/service-manual/users.html">Know your users</a></li>
+      <li><a href="/service-manual/assisted-digital.html">Assisted digital</a></li>
     </ul>
   </li>
   <li>
@@ -64,226 +63,151 @@ To achieve the standard, the service team must demonstrate that they have:
       put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
     </div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/the-team">The team</a></li>
+      <li><a href="/service-manual/the-team/service-manager.html">Service manager</a></li>
     </ul>
   </li>
   <li>
     <div class="point">considered the user data and information the service will be providing or storing, addressed the security level, legal responsibilities and risks associated with the service, consulting with experts where appropriate</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/cookies.html">Cookies</a></li>
+      <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
     </ul>
   </li>
   <li>
     <div class="point">considered the privacy risks to ensure that personal data collection requirements are appropriate</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
+      <li><a href="/service-manual/making-software/logins.html">User accounts and log-ins</a></li>
     </ul>
   </li>
   <li>
     <div class="point">considered the tools and systems they will be using to build, host, operate and measure their service, and how to procure them</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software">Making software</a></li>
     </ul>
   </li>
   <li>
     <div class="point">built a working prototype, using the agile, iterative and user-centred methods set out in the manual</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/agile">Agile</a></li>
     </ul>
   </li>
   <li>
     <div class="point">established performance benchmarks to define success in consultation with GDS, using the 4 key indicators (KPIs) defined in the manual against which the service will be measured</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/measurement">Measurement</a></li>
     </ul>
   </li>
   <li>
     <div class="point">analysed the prototype service’s success and ensured that user feedback is translated into features for the next phase of development</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/agile/continuous-delivery.html">Continuous delivery</a></li>
     </ul>
   </li>
   <li>
     <div class="point">created a service that is simple and intuitive enough that users succeed first time, unaided</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+
     </ul>
   </li>
   <li>
     <div class="point">put appropriate assisted digital support in place, targeted towards those who genuinely need it</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/assisted-digital.html">Assisted digital</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan in place (developed with GDS) for the phasing out of existing alternative channels where appropriate</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
     </ul>
   </li>
   <li>
     <div class="point">considered the seamless integration of the service’s digital and any non-digital steps that are required for legal reasons</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
     </ul>
   </li>
   <li>
     <div class="point">used the manual to develop the content and design to ensure the service has the same look, feel and tone as GOV.UK</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/design-and-content">Design and content</a></li>
     </ul>
   </li>
   <li>
     <div class="point">got the capacity and technical flexibility to update and improve the service on a very frequent basis</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/release-strategies.html">Release strategies</a></li>
     </ul>
   </li>
   <li>
     <div class="point">made all new source code open, reuseable and published under appropriate licenses (or else provide a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/open-source.html">Open source</a></li>
     </ul>
   </li>
   <li>
     <div class="point">used open standards and common Government platforms (eg Identity Assurance) where available</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
     </ul>
   </li>
   <li>
     <div class="point">an ongoing ability to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/testing-in-agile.html">Testing in agile</a></li>
     </ul>
   </li>
   <li>
     <div class="point">instrumented analytics tools and ensured that performance data can be collected</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/analytics-tools.html">Analytics Tools</a></li>
     </ul>
   </li>
   <li>
     <div class="point">built and resourced a service that can be improved on a very frequent basis, ensuring that user feedback and performance data is translated into development</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/making-software/release-strategies.html">Release strategies</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan in place for ongoing user testing, including the ability to support multivariate experiments</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/users">Know your users</a></li>
+      <li><a href="/service-manual/users/user-research/multivariatetesting.html">Multivariate testing</a></li>
     </ul>
   </li>
   <li>
     <div class="point">achieved, and will continue to achieve, high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform (PP)</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/measurement/usersatisfaction.html">User satisfaction</a></li>
     </ul>
   </li>
   <li>
     <div class="point">achieved, and will continue to achieve, high transaction success rates across the digital and assisted digital service that are reported on the PP</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/measurement/completionrate.html">Completition rate</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan for, and evidence to support, achieving a low cost per transaction across the digital and assisted digital service that is reported on the PP</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/measurement/costpertransaction.html">Cost per transaction</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan for, and evidence to support, achieving a high digital take-up (and targeted assisted digital support at people who really need it) that is reported on the PP</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
+      <li><a href="/service-manual/measurement/digital-takeup.html">Digital takeup</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
     </ul>
   </li>
   <li>
     <div class="point">successfully tested the service from beginning to end with the responsible Minister</div>
     <ul class="guidance">
-      <li><a href="#">Agile</a></li>
-      <li><a href="#">Ensuring quality</a></li>
-      <li><a href="#">Features of agile</a></li>
-      <li><a href="#">Running retrospectives</a></li>
     </ul>
   </li>
 </ol>
