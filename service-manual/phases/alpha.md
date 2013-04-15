@@ -7,6 +7,8 @@ category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+phases:
+  - alpha
 breadcrumbs:
   -
     title: Home

@@ -2,6 +2,50 @@
 // PHASES PAGE
 //
 .phases {
+
+  article .inner{
+    padding-right: 0;
+  }
+
+
+   .phases-intro {
+
+    p{
+      //@include core-24;
+    }
+
+    @include media(tablet) {
+      width: 50%;
+      float: left;
+    }
+
+    .inner {
+      padding: 0 5em 0 0;
+      margin-bottom: 1em;
+
+      @include media(desktop) {
+        margin-bottom: 2em;
+      }
+    }
+  }
+
+  .timeline {
+    @include media(tablet) {
+      width: 50%;
+      float: right;
+    }
+
+    .inner {
+      padding: 0 1em;
+      margin-bottom: 4em;
+
+      @include media(desktop) {
+        padding: 0 4em 0 0;
+        margin-bottom: 2em;
+        margin-top: -3em;
+      }
+    }
+  }
 }
 
 // Phases
@@ -12,6 +56,10 @@
   }
   padding: 0;
   padding-left: 1.5em;
+
+  p{
+    @include core-16;
+  }
 
   > * {
     display: block;
@@ -92,4 +140,10 @@
       margin-top: 1em;
     }    
   }
+}
+
+.related-guides{
+  border-top: 5px solid $main-colour;
+  margin-top: 2em;
+  padding-top: 1em;
 }
