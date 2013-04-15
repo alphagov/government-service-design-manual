@@ -4,7 +4,7 @@ title: Standalone mobile apps
 subtitle: What is the government position on mobile apps?
 category: making-software
 type: guide
-audience: 
+audience:
   primary: service-managers
   secondary: designers, developers, performance-analysts, qa, content-designers
 phases:
@@ -23,11 +23,11 @@ breadcrumbs:
 
 ## What is the government's position on apps?
 
-The government’s position is that native & hybrid apps are currently rarely justified. At the October 2012 Digital Leaders’ meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
+The government’s position is that native and hybrid apps are currently rarely justified. At the October 2012 Digital Leaders’ meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
 
 > “Stand-alone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
-Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data & API available for re-use will stimulate the market if there is real demand for native apps.
+Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data and API available for re-use will stimulate the market if there is real demand for native apps.
 
 ## Brief background on apps landscape
 
@@ -47,9 +47,9 @@ They persist on the device and can access all the hardware features (camera, sto
 - Can be used offline, in some cases
 
 #### Cons
-- Expensive to develop & maintain
+- Expensive to develop and maintain
 - Needs several different versions (Android, iPhone, iPad, Blackberry etc)
-- Service iteration more complex (at least 3 types of app to deploy) 
+- Service iteration more complex (at least 3 types of app to deploy)
 - Can only be downloaded via gatekeeper app stores (Apple, Google)
 - Most apps are rarely downloaded, and even then hardly used
 
@@ -60,7 +60,7 @@ A web app is built using open web standards (HTML, CSS, javascript, etc) and is 
 Examples are GOV.UK, PM's dashboard, FT webapp, Virgin Active's 'My Locker', bbc.co.uk/sport.
 
 #### Pros
-- It is your website, so costs are minimised and service iteration simplified 
+- It is your website, so costs are minimised and service iteration simplified
 - Uses open standards (HTML5)
 - No gatekeepers to constrain access
 - Performance still good
@@ -76,11 +76,11 @@ Examples are GOV.UK, PM's dashboard, FT webapp, Virgin Active's 'My Locker', bbc
 
 ## Rationale for the government's position
 
-If there is a market for native or hybrid apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data & APIs. Government’s position is that native & hybrid apps currently rarely justified.
+If there is a market for native or hybrid apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps currently rarely justified.
 
 We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
-And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming & social networking. For “utility” needs, such as those met by government services, the mobile web is preferred to native apps
+And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For “utility” needs, such as those met by government services, the mobile web is preferred to native apps
 
 ## Exceptions
 
@@ -97,14 +97,14 @@ We recognise that there’ll be a few exceptions. To help you assess whether you
 ### More questions
 
 1. [What’s the user need?](/service-manual/users/user-needs.html) Please provide supporting evidence
-2. Which 3rd-party native/hybrid apps have already been developed to meet this user need? If  there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are 3rd-party alternatives, please state why you believe a government-developed app is required. 
-3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know Your Users](/service-manual/users) and [Writing User Stories](/service-manual/agile/writing-user-stories.html). 
+2. Which 3rd-party native/hybrid apps have already been developed to meet this user need? If  there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are 3rd-party alternatives, please state why you believe a government-developed app is required.
+3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know Your Users](/service-manual/users) and [Writing User Stories](/service-manual/agile/writing-user-stories.html).
 4. Is there evidence of demand for this type of app amongst your target users? If you believe there is, please provide supporting evidence e.g. examples of similar apps that have proven popular with your target audience and evidence of their popularity.
 5. Is there evidence to justify building an app for the platform you’re proposing to do this for? If so, please provide supporting evidence e.g. analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices.
 
 ### The Process
 
-In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) (including details about [response times](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60699/Annex-4-2-Service-Level-Agreement.doc)) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk). 
+In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) (including details about [response times](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60699/Annex-4-2-Service-Level-Agreement.doc)) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
 
 ## Further Reading
 
