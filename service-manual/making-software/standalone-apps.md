@@ -53,11 +53,13 @@ They persist on the device and can access all the hardware features (camera, sto
 - Can only be downloaded via gatekeeper app stores (Apple, Google)
 - Most apps are rarely downloaded, and even then hardly used
 
-### What is a web app?
+### What is responsive web design?
 
-A web app is built using open web standards (HTML, CSS, javascript, etc) and is run inside a device's web browser. Web apps can be downloaded locally or accessible over the internet.
+Responsive web design is a design approach that optimises users' viewing experiences across a wide range of devices. When a responsive website is accessed via a mobile phone, it is sometimes referred to as a 'mobile web app'.
 
-Examples are GOV.UK, PM's dashboard, FT webapp, Virgin Active's 'My Locker', bbc.co.uk/sport.
+Responsive websites are built using open web standards (HTML, CSS, javascript, etc) and they run inside a device's web browser.
+
+Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
 
 #### Pros
 - It is your website, so costs are minimised and service iteration simplified
