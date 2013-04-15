@@ -154,7 +154,7 @@ Buttons will inherit the font size of their parent elements. Use the standard pa
 ### Secondary actions
 <div class="pattern-example">
   <p>
-    <a href="#" class="button-secondary">Next step</a>
+    <a href="#" class="button-secondary">Save</a>
   </p>
 </div>
 
@@ -172,8 +172,8 @@ Buttons will inherit the font size of their parent elements. Use the standard pa
 
 * Actions that have irreversable effects should look 'scary'
 * Keep them away from the other actions
-* Use an alert to check that the user really wants to do this
-* Even better, make the action reversible
+* Make the action reversible / “undo”-able
+* If that isn't possible to implement, use an alert to check that the user really wants to do this
 
 ### Launch button
 <div class="pattern-example">
@@ -197,11 +197,13 @@ Do use:
 
 Don't use:
 
-* technical terms - eg. use ‘delete’, not ‘form reset’
+* technical terms - eg. use ‘delete’, not ‘form reset’, use one of the common actions below instead of ‘submit’
 * lots of words - eye tracking shows users are less likely to read long labels
 
 
 ### Common actions
+
+Many of these can be used in place of ‘Submit’, which is a technical term to be avoided.
 
 'Start now'
 : Use at the beginning of the service
@@ -218,11 +220,12 @@ Don't use:
 'Sign in' and 'Sign out'
 : Not 'log-in' or 'log-out'
 
+'Sign up'
+: Only use this for mailing lists
+
 'Create an account'
 : Not 'register'
 
-'Sign up'
-: Only use this for mailing lists
 
 
 ### Compound actions
