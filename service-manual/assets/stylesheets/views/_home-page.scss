@@ -35,8 +35,8 @@ padding: 0.2em 0 0 0.3em;
 
   .browse-highlights{
     @include grid(3);
-    //border-top: 5px solid $main-colour;
-    border-top: 2px solid $border-colour;
+    border-top: 5px solid $main-colour;
+    //border-top: 2px solid $border-colour;
 
     padding: 2em 0;
     margin: 0 2em;
@@ -243,4 +243,93 @@ padding: 0.2em 0 0 0.3em;
       }
     }
   }
+}
+
+.homepage-2 {
+  header.page-header {
+    margin: 2em;
+    border-bottom: 5px solid $main-colour;
+    padding: 0;
+
+    hgroup {
+      padding: 0;
+    }  
+
+  }
+
+  .intro{
+    margin: 3em 0em 3em 2em;
+    padding: 8em 1em 1em 2em;
+    background: url("/service-manual/assets/images/DbD-kitemark.png") no-repeat 2em 2em;
+    background-size: 84%;
+    width: 20em;
+    //float: right;
+    border: 1px solid #BEBEBE;
+    p{
+      //@include core-27;
+    }
+  }
+
+  .browse-highlights{
+    @include grid(3);
+    border-top: 5px solid $main-colour;
+    padding: 2em 0;
+    margin: 0 2em;
+    h2{
+      font-weight: 400;     
+    }
+    ul{
+      padding: 0;
+    }
+    li{
+      list-style: none;
+      padding: 0;
+    }
+  }
+
+  .search-the-manual{
+    background: $highlight-colour;
+    border-top: 5px solid $main-colour;
+    margin: 0 2em;
+    padding: 4em 0 1em 10em;
+
+    .submit{
+      position: relative;
+      border: 0;
+      height: 46px;
+      width: 46px;
+      vertical-align: top;
+      background-color: $main-colour;
+      overflow: hidden;
+      text-indent: -5000px;
+      color: white;
+      background-image: url("https://assets.digital.cabinet-office.gov.uk/static/search-button.png");
+      background-repeat: no-repeat;
+      background-position: 100% 50%;
+      background-size: 150%;
+      margin-left: -46px;
+    }
+    label{
+      font-size: 27px;
+    }
+    p{
+      padding: 0.5em;
+    }
+    input[type="search"]{
+      position: relative;
+      background-color: transparent;
+      border: 2px inset;
+      font-size: 27px;
+      padding: 0.1em 0 0.1em 0.4em;
+      margin: 0;
+      width: 23em;
+    }
+
+    #site-search-text.focus,
+    #site-search-text:focus{
+      background-color: white;
+    }
+
+  }
+
 }
