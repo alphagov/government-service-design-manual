@@ -21,6 +21,8 @@ breadcrumbs:
 
 Agile methodologies help teams build world-class, user-focused services quickly and affordably. It can be a very different way of working for teams used to long-specifications and procurement processes, but it's essential for delivering high-quality services to a standard that many users expect. Agile is not just for digital teams. Many different businesses use agile project management techniques. 
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0XpAtr24uUQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
 ## What agile looks like
 
 An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the team is making (whether that's in the form of project management software or whiteboards).

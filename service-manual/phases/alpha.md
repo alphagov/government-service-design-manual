@@ -20,6 +20,8 @@ When designing a digital system it is impossible to predict everything up-front.
 
 You may need to bring more [developers](/service-manual/the-team/developer.html) and [designers](/service-manual/the-team/designer.html) into [the team](/service-manual/the-team), but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta.html).
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PmaE-12KqEQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
 ## What is the objective of an alpha?
 
 The objective is to build a working prototype. This will be used by stakeholders or a closed group of end users to:

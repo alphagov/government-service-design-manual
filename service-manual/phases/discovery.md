@@ -20,6 +20,8 @@ The discovery phase is your chance to gain an understanding of what the users of
 
 Typical outputs from this phase are a list of [user needs](/service-manual/users/user-needs.html), high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than 4-8 weeks.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bLKjKXdvq3U?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
 ## What is the objective of a discovery process?
 
 The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial prototypes will explore.

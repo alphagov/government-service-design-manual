@@ -21,7 +21,9 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below. 
+This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Of5GBp9aS1?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 User research can be categorised into two broad themes – product research, and strategic research. 
 

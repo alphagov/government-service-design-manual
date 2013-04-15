@@ -21,6 +21,9 @@ breadcrumbs:
 
 Working spaces for digital projects will vary, but there are some things you can do to ensure that the space you have available can be used in the way your team needs.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9c4e6KyQ3Mk?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+
 ## What you might encounter
 
 Those working in creative and technical fields often need plenty of space for focussed, detailed work. It's not uncommon to see people spending a significant chunk of their day with headphones on to help them focus, or locked in conversation with just one person with whom they're pairing. 

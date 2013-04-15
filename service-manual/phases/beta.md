@@ -18,6 +18,8 @@ breadcrumbs:
 
 You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/s0l8HauO_PM?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
 ## What is the objective of a beta?
 
 The objective of this phase is to build a fully working prototype which you test publicly with users. You will continuously improve on the prototype until it is ready to go live, replacing or integrating with any existing services.
