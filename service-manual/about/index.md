@@ -10,6 +10,8 @@ breadcrumbs:
     url: /service-manual
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-42RbCFOcSk?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
 This website is a resource to help service managers and digital delivery teams across government meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
 It has been designed to achieve two things:
