@@ -33,7 +33,7 @@ To achieve the standard, the service team must demonstrate that they have:
 10. put appropriate [assisted digital support](/service-manual/assisted-digital.html) in place, targeted towards those who genuinely need it
 11. a plan (developed with GDS) for the phasing out of existing alternative channels where appropriate
 12. integrated the service with any non-digital steps required for legal reasons
-13. built a service with the same look, feel and tone as GOV.UK, usng [the service manual](/service-manual/design-and-content.html)
+13. built a service with the same look, feel and tone as GOV.UK, using [the service manual](/service-manual/design-and-content.html)
 14. the [capacity and technical flexibility to update and improve the service](/service-manual/making-software/release-strategies.html) on a very frequent basis
 15. made all new source code [open and reuseable](/service-manual/making-software/open-source.html), and published it under appropriate licenses (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)
 16. used [open standards](/service-manual/making-software/open-standards-and-licensing.html) and common Government platforms (eg Identity Assurance) where available
