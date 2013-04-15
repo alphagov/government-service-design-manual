@@ -5,7 +5,7 @@ subtitle: Bringing development and operations together
 category: operations
 type: guide
 status: draft
-audience: 
+audience:
   primary: web-ops
   secondary: service-managers, developers, tech-archs
 breadcrumbs:
@@ -35,23 +35,23 @@ Using data to drive change can be hugely powerful, in particular when it is done
 
 ### Sharing
 
-People from different backgrounds (say development and operations) often have different, but intersecting skill sets. Encouraging sharing between groups helps to spread an understanding of the different areas of a successful service, making resolving issues about working together and not about contract negotiation. 
+People from different backgrounds (say development and operations) often have different, but intersecting skill sets. Encouraging sharing between groups helps to spread an understanding of the different areas of a successful service, making resolving issues about working together and not about contract negotiation.
 
 ## Why we do this
 
-Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos; when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic. 
+Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos; when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic.
 
-High quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work. 
+High quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work.
 
 ## Good habits
 
 Devops isn’t a project management methodology but you will hopefully adopt some of these good habits in your organisation. These aren’t unique to devops, but they do help with breaking down silos and with the above principles.
 
-* [Cross-functional teams](/service-manual/the-team/index.html) - working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
-* [Widely shared metrics](/service-manual/measurement/index.html) - knowing what good looks like across the service is important for everyone, and sharing high and low level metrics as widely as possible is a good way of building understanding. 
-* Automating repetitive tasks - using software development to automate tasks from across the service is a good way of fostering a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
-* Post-mortems - issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
-* [Regular releases](/service-manual/making-software/release-strategies.html) - releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
+* [Cross-functional teams](/service-manual/the-team) – working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
+* [Widely shared metrics](/service-manual/measurement) – knowing what good looks like across the service is important for everyone, and sharing high and low level metrics as widely as possible is a good way of building understanding.
+* Automating repetitive tasks – using software development to automate tasks from across the service is a good way of fostering a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
+* Post-mortems – issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
+* [Regular releases](/service-manual/making-software/release-strategies.html) – releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
 
 ## Warning signs
 
