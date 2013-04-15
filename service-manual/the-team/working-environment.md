@@ -21,7 +21,7 @@ breadcrumbs:
 
 Working spaces for digital projects will vary, but there are some things you can do to ensure that the space you have available can be used in the way your team needs.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/9c4e6KyQ3Mk?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2rAE6c6cSM4?rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 
 ## What you might encounter
