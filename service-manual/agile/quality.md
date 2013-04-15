@@ -54,6 +54,7 @@ It is impossible to develop software without accruing some technical debt, but y
 In order to ensure quality a range of testing must be carried out. You can only know if your service meets the above criteria and any other definition of quality if you have tested it under normal and unusual conditions. For an example of testing under unusual stresses, it is worth reviewing Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) about the Obama 2012 campaign's preparations to ensure their software was highly available during the final days of that Presidential campaign.
 
 For further guidance on testing, see the following sections of this manual:
+
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Accessibility testing](https://www.gov.uk/service-manual/making-software/accessibility-testing.html)
 * [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
