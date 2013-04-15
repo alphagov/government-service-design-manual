@@ -23,7 +23,9 @@ breadcrumbs:
 
 ## Styling form elements
 
-Forms should be styled as per the examples on this page. The [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass like this:
+Forms should be styled as per the examples on this page.
+
+If your using [Sass](http://sass-lang.com/) in your project the [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass files like this:
 
 ### Sass
 
