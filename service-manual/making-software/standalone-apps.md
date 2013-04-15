@@ -23,7 +23,7 @@ breadcrumbs:
 
 ## What is the government's position on apps?
 
-The government’s position is that native and hybrid apps are currently rarely justified. At the October 2012 Digital Leaders’ meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
+The government’s position is that native apps are currently rarely justified. At the October 2012 Digital Leaders’ meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
 
 > “Stand-alone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
@@ -78,7 +78,7 @@ Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://ap
 
 ## Rationale for the government's position
 
-If there is a market for native or hybrid apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps currently rarely justified.
+If there is a market for native apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps currently rarely justified.
 
 We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
@@ -104,7 +104,7 @@ We recognise that there’ll be a few exceptions. To help you assess whether you
 4. Is there evidence of demand for this type of app amongst your target users? If you believe there is, please provide supporting evidence e.g. examples of similar apps that have proven popular with your target audience and evidence of their popularity.
 5. Is there evidence to justify building an app for the platform you’re proposing to do this for? If so, please provide supporting evidence e.g. analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices.
 
-### The Process
+### The process
 
 In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) (including details about [response times](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60699/Annex-4-2-Service-Level-Agreement.doc)) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
 
