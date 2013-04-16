@@ -4,8 +4,8 @@ title: A/B and multivariate experiments
 subtitle: Getting input into products and services
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -22,11 +22,13 @@ breadcrumbs:
     title: User research
     url: /service-manual/users/user-research
 ---
-    
+
 #A/B and multivariate experiments
 We interviewed Craig Sullivan, an industry guru on conversion optimization. He explains when he uses A/B and multivariate experiments in the design process.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mS0RKEUPnLA?rel=0" frameborder="0" allowfullscreen></iframe>
+<figure class="media-player-wrapper video">
+  <a href="https://www.youtube.com/watch?v=mS0RKEUPnLA">Watch Craig Sullivan explain A/B and multivariate testing</a>
+</figure>
 
 ##Further reading
 This [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1) shows how A/B experiments were used to good effect in Obama’s election campaign.

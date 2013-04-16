@@ -4,7 +4,7 @@ title: User research
 subtitle: Resources
 category: users
 type: guide
-audience: 
+audience:
   primary: user-researchers,
   secondary: designers, service-managers, developers, content-designers
 status: draft
@@ -21,6 +21,8 @@ breadcrumbs:
     title: Know your users
     url: /service-manual/users
 ---
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=1hbnPCdM4ls">Watch Angela Collins-Rees, GDS User Research Specialist, describing the importance of user research.</a></figure>
 
 The following techniques may be useful when conducting user research:
 

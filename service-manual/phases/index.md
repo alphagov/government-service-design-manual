@@ -13,9 +13,11 @@ breadcrumbs:
     url: /service-manual
 ---
 
-Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. 
+Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases.
 
 Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to start small, fail fast, and deliver value to our users as early as possible.
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=A60tNFPcBxE">Watch Richard Pope, GDS Product Manager, describe the different phases of service design.</a></figure>
 
 ## The four phases of service design
 
