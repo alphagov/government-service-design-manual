@@ -18,7 +18,7 @@ breadcrumbs:
 
 Many departments will find it useful to engage with a partner who can help build digital capability within the department at the same time as working with them to deliver working digital services. In selecting a supplier as a digital transformation partner for the department, these are some of the things that we'd like to see.
 
-This is very much a superset of the things that we'll want to see from a partner. Not all departments, and not all projects, will need all of this. For instance, many projects will involve interfacing with and/or migrating from legacy systems, whereas some purely green-field projects won't need to do this. Similarly, many projects will require the partners to take responsibility for both delivery and enablement, but some will require only one or the other.
+This is very much a superset of the things that we'll want to see from a partner. Not all departments, and not all projects, will need all of this. For instance, many projects will involve interfacing with and/or migrating from legacy systems, whereas some purely green-field projects won't need to do this. Similarly, many projects will require the transformation partner to take responsibility for both delivery and enablement, but some will require only one or the other.
 
 One important point to bear in mind is that with a transformation partner, we are buying a capability, not a thing.
 
@@ -28,7 +28,7 @@ The partner needs a proven track record of successful delivery, and will take re
 
 ## Enablement
 
-A major aim of the project should be the creation of an agile delivery capability within the department. The partner's aim should be to work alongside the department's staff during the delivery of the system, actively identifying any gaps in capability and providing training and coaching where needed. The partner's eventual intention should be to disengage from the department, leaving the department able to function on its own.
+A major aim of the project should be the creation of an agile delivery capability within the department. The partner's aim should be to work alongside the department's staff, often with the guidance and support of the Government Digital Service, during the delivery of the system; actively identifying any gaps in capability, and providing training and coaching where needed. The partner's eventual intention should be to disengage from the department, leaving the department able to function on its own.
 
 The partner will need to work on-site with the department's staff to make this possible.
 
@@ -42,7 +42,7 @@ Applying a [continuous delivery][] model requires the application of techniques 
 
 The partner should have a track record with an Agile approach to software development, aligned with the [Agile Manifesto][manifesto]. This approach should be applied in an adaptive and contexual rather than adogmatic way, and should apply learnings from such methods as [Lean][], Flow and Kanban.
 
-A cross-functional, non-siloed approach to roles within the team is preferred. For example, the QA function should be engaged as soon as each user story is picked up for development, and should work with the developers and BAs throughout the story's lifetime.
+A cross-functional, non-siloed approach to roles within the team is preferred. For example, the Quality Assurance function should be engaged as soon as each user story is picked up for development, and should work with the developers and BAs throughout the story's lifetime.
 
 [Automated testing][] should not be restricted to functional requirements. [Performance, load, and soak testing](/service-manual/operations/load-and-performance-testing) will be required to ensure the system behaves as required, and the partner should be experienced with these forms of testing.
 
