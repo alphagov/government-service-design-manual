@@ -35,9 +35,9 @@ breadcrumbs:
   <li>
     <div class="point">understood users needs, conducting research to develop a deep knowledge of who the service users are and what that implies for digital and assisted digital service design</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/users.html">Know your users</a></li>
+      <li><a href="/service-manual/users">Know your users</a></li>
       <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
-      <li><a href="/service-manual/assisted-digital.html">Assisted digital</a></li>
+      <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
     </ul>
   </li>
   <li>
@@ -93,13 +93,13 @@ breadcrumbs:
   <li>
     <div class="point">created a service that is simple and intuitive enough that users succeed first time, unaided</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-		<li><a href="/service-manual/measurement/completionrate.html">Completion rate</a></li>
+		<li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
     </ul>
   </li>
   <li>
     <div class="point">put appropriate assisted digital support in place, targeted towards those who genuinely need it</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/assisted-digital.html">Assisted digital</a></li>
+      <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
     </ul>
   </li>
   <li>
@@ -129,7 +129,7 @@ breadcrumbs:
     <div class="point">made all new source code open and reuseable, and published it under appropriate licenses (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
-      <li><a href="/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
+      <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
     </ul>
   </li>
   <li>
@@ -162,31 +162,31 @@ breadcrumbs:
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/users">Know your users</a></li>
       <li><a href="/service-manual/users/user-research">User research</a></li>
-      <li><a href="/service-manual/users/user-research/multivariatetesting.html">Multivariate testing</a></li>
+      <li><a href="/service-manual/users/user-research/multivariate-testing.html">Multivariate testing</a></li>
     </ul>
   </li>
   <li>
     <div class="point">achieved, and will continue to achieve, high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/measurement/usersatisfaction.html">User satisfaction</a></li>
+      <li><a href="/service-manual/measurement/user-satisfaction.html">User satisfaction</a></li>
     </ul>
   </li>
   <li>
     <div class="point">achieved, and will continue to achieve, high completion rates across the digital and assisted digital service that are reported on the Performance Platform</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/measurement/completionrate.html">Completition rate</a></li>
+      <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan for, and evidence to support, achieving a low cost per transaction across the digital and assisted digital service that is reported on the Performance Platform</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/measurement/costpertransaction.html">Cost per transaction</a></li>
+      <li><a href="/service-manual/measurement/cost-per-transaction.html">Cost per transaction</a></li>
     </ul>
   </li>
   <li>
     <div class="point">a plan for, and evidence to support, achieving a high digital take-up (and targeted assisted digital support at people who really need it) that is reported on the Performance Platform</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/measurement/digital-takeup.html">Digital takeup</a></li>
+      <li><a href="/service-manual/measurement/digital-takeup.html">Digital take-up</a></li>
     </ul>
   </li>
   <li>
