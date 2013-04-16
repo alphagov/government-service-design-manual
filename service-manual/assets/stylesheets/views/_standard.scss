@@ -37,6 +37,9 @@
     h2 {
       margin-top: 0;
     }
+    p{
+      @include core-24;
+    }
   }
 
   .headings {
