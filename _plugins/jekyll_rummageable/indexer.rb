@@ -21,7 +21,7 @@ module Jekyll
       # gather pages and posts
       items = site.pages.dup.concat(site.posts)
 
-      items.select! { |i| page.output_is_html? && ! page_should_be_excluded?(i) }
+      items.select! { |page| page.output_is_html? && ! page_should_be_excluded?(page) }
       items.reject! { |i| i.data['exclude_from_search'] }
       
       # don't process index pages
