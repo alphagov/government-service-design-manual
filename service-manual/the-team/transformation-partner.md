@@ -4,7 +4,6 @@ title: Selecting a Transformation Partner
 subtitle: How to go about choosing a digital transformation partner
 category: the-team
 audience: service-managers
-type: guide
 phases:
   - alpha
   - beta
