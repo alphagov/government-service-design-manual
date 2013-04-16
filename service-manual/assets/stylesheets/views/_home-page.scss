@@ -263,9 +263,9 @@ padding: 0.2em 0 0 0.3em;
   }
 
   .intro{
-    width: 26.5em;
+    width: 30.5em;
     float: left;
-    margin-right: 7em;
+    margin-right: 3em;
     p{
       @include core-24;
     }
@@ -286,9 +286,11 @@ padding: 0.2em 0 0 0.3em;
 
   .browse-highlights{
     @include grid(3);
-    border-top: 5px solid $main-colour;
+    div { 
+      border-right: solid 3em white;
+    }
     padding: 2em 0;
-    margin: 0 2em;
+    margin-left: 2em;
     h2{
       font-weight: 400;     
     }
@@ -304,6 +306,7 @@ padding: 0.2em 0 0 0.3em;
   .search-the-manual{
     background: $highlight-colour;
     border-top: 5px solid $main-colour;
+    border-bottom: 5px solid $main-colour;
     margin: 0 2em;
     padding: 4em 0 1em 10em;
 
