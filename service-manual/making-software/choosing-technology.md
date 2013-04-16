@@ -109,11 +109,10 @@ Take every opportunity to contribute back to open source projects you use. Contr
 
 ## Why we do this
 Choosing technology is important, but it’s probably not quite as important as you think. What is important are the users of that technology and being able to deliver quality at a sustainable pace and suitable cost. When making technology choices, and importantly as you develop your product and constantly reassess your selections, try and make decisions that:
-
-maximise developer productivity
-minimise total cost of ownership
-avoid lock-in
-make it easy for the government to share software that it creates
+* maximise developer productivity
+* minimise total cost of ownership
+* avoid lock-in
+* make it easy for the government to share software that it creates
 
 ## Further reading
 [Open standards considerations](/service-manual/making-software/open-standards-and-licensing.html)
