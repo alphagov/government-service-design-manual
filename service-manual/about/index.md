@@ -19,7 +19,6 @@ It has been designed to achieve two things:
 * ensure that government produces services so good that people prefer to use them
 * offer guidance for teams across government responsible for designing, building and running those services
 
-Remember, this site is currently a prototype. We are continuing to work on the content that is hosted here, and will add more guidance and features after the release in April 2013.
 
 ## The Digital by Default Service Standard
 
