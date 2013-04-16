@@ -28,19 +28,17 @@ Similarly, if the needs are to be served as part of another government service o
 
 ## What next?
 
-### Let GDS know
+### Let your users know
 
 The vast majority of users of your service will begin and end their journeys via GOV.UK. As soon as you know that your service is likely to be retired you should contact the GOV.UK team to ensure that those journeys are amended and appropriate information is supplied.
 
 The GOV.UK team will need to know why the service is being retired, and how those user needs are to be served in future so that they can provide the appropriate information, advice and links to users.
 
-### Let your users know
+For that majority of users who begin and end their journeys on GOV.UK the most important thing is to ensure that GOV.UK is updated. There will be some users, however, who access your service directly whether via links in emails, bookmarks on their computer or remembering your URLs. It's important to prepare them for the change and lay out clearly what it will mean to them.
 
-For that majority of users who begin and end their journeys on GOV.UK the most important thing is to ensure that GOV.UK is updated. There will be some users, however, who access your service directly whether via links in emails, bookmarks on their computer or remembering your URLs. It's important to prepare them for the change and lay our clearly what it will mean to them.
+Your planning should aim to produce the minimum possible disruption for users, but it will still be a significant change for them so details of what the change is, why it's being made, what they will need to do, and what will happen to their data should be made easily available.  
 
-Your planning should aim to produce the minimum possible disruption for users, but it will still be a significant change for them so details of what the change is, why it's being made, what they will need to do, and what will happen to their data should be made easily available.
-
-Users who access your service via an API will need time to update their software to use the replacement service's APIs or to make other relevant adjustments. You should reach out to your API users as early as possible and remember that they may have significant lead times for making and distributing changes.
+Users who access your service via an API will need time to update their software to use the replacement service's APIs or to make other relevant adjustments. You should reach out to your API users as early as possible and remember that they may have significant lead times for making and distributing changes. Changes to the service online will also need to be seamlessly tied in with messaging to offline users who are receiving the service through assisted digital channels.
 
 ### Plan to redirect traffic
 
