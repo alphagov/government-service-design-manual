@@ -4,6 +4,7 @@ title: Selecting a Transformation Partner
 subtitle: How to go about choosing a digital transformation partner
 category: the-team
 audience: service-managers
+type: guide
 phases:
   - alpha
   - beta
@@ -68,7 +69,7 @@ Across the team, we'd like to see specific expertise with a number of practices.
 
 Note that how these capabilities are split across roles will differ from team to team. What matters is that these things can be done, not who in the team does what.
 
-### Development practices 
+### Development practices
 
 * Pair programming
 * Test driven development
@@ -79,7 +80,7 @@ Note that how these capabilities are split across roles will differ from team to
     * Frequent checkins
     * Awareness of the pros and cons of branches versus feature toggles
 * Appropriate use of design patterns
-    
+
 ### Exploratory testing
 
 ### Business Analysis
@@ -89,9 +90,9 @@ Note that how these capabilities are split across roles will differ from team to
 * Domain modelling and development of a shared vocabulary
 * Expressing requirements in the form of well sized stories
     * The characteristics of a good story: [INVEST][]
-    
+
 [invest]: http://xp123.com/articles/invest-in-good-stories-and-smart-tasks/ "Independent, Negotiable, Valuable, Estimable, Small, Testable"
-        
+
 ### Agile project planning
 
 * Inception and other discovery activities
@@ -100,7 +101,7 @@ Note that how these capabilities are split across roles will differ from team to
 * Iteration management
 * Progress tracking
 * Retrospectives
-    
+
 ### Project Management
 
 * Delivery assurance
@@ -110,32 +111,32 @@ Note that how these capabilities are split across roles will differ from team to
 * Delivery assurance
 * Product Ownership
     * Might do it, or just ensure it's done
-        
+
 ### Continuous delivery
 
 * Delivering working software, early and often
 * Ability to talk about various tooling options, rather than being familiar with only one
 * [Devops][] should be understood as an approach, not as a role
-        
+
 ### Automated environment provisioning and deployment
 
 * Provisioning tools such as [Chef][], [Puppet][] and [Vagrant][], etc
 * Deployment tools such as [Fabric][], etc
 * Cloud environments
     * Hosting versus [IaaS][] versus [PaaS][]
-    
+
 [puppet]: http://projects.puppetlabs.com/projects/puppet
 [chef]: http://www.opscode.com/chef/
 [vagrant]: http://www.vagrantup.com/
 [fabric]: http://fabfile.org
-        
+
 ### Enablement
 
 * Identification of capability gaps
 * Coaching
 * Training
 * Mentoring
-    
+
 ### UX
 
 * [XD](http://en.wikipedia.org/wiki/Experience_design "Experience Design")
@@ -185,7 +186,7 @@ The partner should have proven experience with running day to day operations for
 
 ## Legacy system migration
 
-Depending on the department's existing estate, the partner may need to have have a proven track record with the migration of complex legacy systems. 
+Depending on the department's existing estate, the partner may need to have have a proven track record with the migration of complex legacy systems.
 
 ## Process
 
