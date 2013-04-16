@@ -127,7 +127,7 @@ or use a list...
 
 ## Aligning controls in a row
 
-You might occasionally need to arrange form controls in a row. To do this, wrap the controls in an
+You might occasionally need to arrange form controls in a row, for instance if they have short labels and there are only a few options. To do this, wrap the controls in an
 'inline group' element.
 
 ### Example
@@ -448,7 +448,7 @@ Summarise any validation errors at the top of your page like this:
       <div class="validation-summary">
         <h1>Please check the form</h1>
         <ul>
-          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error1">Re-type your email address</a></li>
           <li><a href="#error2">Select at least one area of interest</a></li>
         </ul>
       </div>
@@ -461,7 +461,7 @@ Summarise any validation errors at the top of your page like this:
       <div class="validation-summary">
         <h1>Please check the form</h1>
         <ul>
-          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error1">Re-type your email address</a></li>
           <li><a href="#error2">Select at least one area of interest</a></li>
         </ul>
       </div>
@@ -475,8 +475,8 @@ Each link should jump the user down to the corresponding form control. Add a 'va
     <div class="form-example-1">
 
       <p class="validation group">
-        <span class="validation-message" id="error1">Confirm your email address</span>
-        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <span class="validation-message" id="error1">Re-type your email address</span>
+        <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
         <input id="email-confirm" type="text" class="email">
       </p>
 
@@ -486,8 +486,8 @@ Each link should jump the user down to the corresponding form control. Add a 'va
 ### HTML
 
       <p class="validation group">
-        <span class="validation-message" id="error1">Confirm your email address</span>
-        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <span class="validation-message" id="error1">Re-type your email address</span>
+        <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
         <input id="email-confirm" type="text" class="email">
       </p>
 
