@@ -137,6 +137,9 @@
     }
 
     .guidance {
+      @include media(mobile) {
+        margin-top: 1em;
+      }
       @include media(tablet) {
         float: right;
         margin-left: 10%;
