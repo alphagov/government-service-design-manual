@@ -17,7 +17,9 @@ It has been designed to achieve two things:
 * ensure that government produces services so good that people prefer to use them
 * offer guidance for teams across government responsible for designing, building and running those services
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RS3krZ1paB4?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<figure class="media-player-wrapper video">
+	<a href="https://www.youtube.com/watch?v=RS3krZ1paB4">Watch our video about the Digital by Default Service Standard</a>
+</figure>
 
 ## The Digital by Default Service Standard
 
@@ -27,7 +29,7 @@ Creating a service standard was [one of the actions set out in the Government Di
 
 ## The Government Service Design Manual
 
-The [Government Service Design Manual](/service-manual/) is a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build service features and successful teams. 
+The [Government Service Design Manual](/service-manual/) is a pool of knowledge about how to design and build digital services. It contains code and copy for people to reuse, as well as advice about how to build service features and successful teams.
 
 Ultimately, it exists to help teams across Government meet the service standard.
 

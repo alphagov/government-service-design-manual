@@ -11,14 +11,16 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  - 
+  -
     title: Phases of service design
     url: /service-manual/phases
 ---
 
-The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html). 
+The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html).
 
 Typical outputs from this phase are a list of [user needs](/service-manual/users/user-needs.html), high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than 4-8 weeks.
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=UVX1BT0oxWU">Watch Aleks Maricic, GDS Proposition Manager, describe the discovery phase.</a></figure>
 
 ## What is the objective of a discovery process?
 
@@ -32,7 +34,7 @@ This information is found through:
 
 * workshops
 * simple mock ups
-* paper prototypes 
+* paper prototypes
 * plenty of whiteboard diagrams
 
 ## How long does it take and who should be part of it?
@@ -57,7 +59,7 @@ You will leave the discovery phase with:
 <!--
 <ul class="phase-activities">
   <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" /> 
+    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
     List of user needs
   </li>
   <li>
@@ -65,7 +67,7 @@ You will leave the discovery phase with:
     User personas
   </li>
   <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" /> 
+    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
     Rough wireframes
   </li>
   <li>
