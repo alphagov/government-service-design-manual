@@ -4,9 +4,12 @@
 
 .dbd {
   // Swap standard header for DbD kitemark
-  .page-header {
+  header.page-header {
+    margin-bottom: 0;
+    padding-bottom: 1em;
+    border-bottom: none;
     h1 {
-      background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 0 0.5em;
+      background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 50% 70%;
       background-size: 100%;
       text-indent: -9999px;
 
@@ -14,7 +17,6 @@
       height: 100px;
 
       @include media(tablet) {
-        width: 75%;
         height: 140px;
       }
 
@@ -31,7 +33,8 @@
 
   .intro {
     @include media(desktop) {
-      width: 75%;
+      width: 67%;
+      margin: 0 auto;
     }
 
     h2 {
@@ -99,10 +102,13 @@
 
       display: block;
       border-top: 1px solid $border-colour;
-      padding: 1em 0 2em 0;
+      padding: 2em 0 2em 0;
       margin: 0;
       @extend %contain-floats;
 
+      &:first-child{
+        border-top: 5px solid $main-colour;
+      }
 
       &:before {
         content: counter(standard-counter);
@@ -110,7 +116,7 @@
 
         display: inline-block;
         float: left;
-        margin-right:5%;
+        margin-right:6.5%;
         text-align: right;
 
         @include bold-80;
@@ -121,7 +127,7 @@
       }
 
       .point {
-        @include bold-24;
+        @include core-24;
 
         @include media(tablet) {
           width: 50%;
@@ -130,25 +136,30 @@
       }
     }
 
-    ul.guidance {
+    .guidance {
       @include media(tablet) {
         float: right;
         margin-left: 10%;
-        width: 25%;
+        width: 23%;
+      }
+      p{
+        font-size: 16px; 
       }
 
-      padding-left: 0;
+      ul {
+        margin: 0;
+        padding-left: 0;
 
-      >li {
-        font-size: 16px;
-        list-style: none;
-        overflow: hidden;
-        margin: 0.5em 0 0 0;
-        padding: 0.5em 0 0 0;
+        li {
+          font-size: 16px;
+          list-style: none;
+          overflow: hidden;
+          padding: 0.5em 0 0 0;
 
-        &:first-child {
-          border: none;
-          margin-top: 0;
+          &:first-child {
+            border: none;
+            margin-top: 0;
+          }
         }
       }
     }
