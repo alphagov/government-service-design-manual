@@ -257,14 +257,28 @@ padding: 0.2em 0 0 0.3em;
 
   }
 
+  .top{
+    overflow: hidden;
+    margin: 0 2em;
+  }
+
   .intro{
-    margin: 3em 0em 3em 2em;
+    width: 26.5em;
+    float: left;
+    margin-right: 7em;
+    p{
+      @include core-24;
+    }
+  }
+
+  .the-standard{
+    margin: 1em 0em 3em 2em;
     padding: 8em 1em 1em 2em;
     background: url("/service-manual/assets/images/DbD-kitemark.png") no-repeat 2em 2em;
     background-size: 84%;
     width: 20em;
-    //float: right;
-    border: 1px solid #BEBEBE;
+    float: left;
+    border: 1px solid $border-colour;
     p{
       //@include core-27;
     }
