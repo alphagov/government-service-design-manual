@@ -1,0 +1,45 @@
+---
+layout: default-wrapper
+section_class: detailed-guidance
+---
+{% include _breadcrumbs.html %}
+
+<article role="article" class="group">
+  <header class="page-header group">
+    <hgroup>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </hgroup>
+
+    {% include _meta-phases.html %}
+  </header>
+
+  <div class="article-container group">
+    <div class="contents">
+      <nav>
+        <h2>Contents</h2>
+
+        <ol>
+          <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Find out which services must meet the standard</a></li>
+          <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How services will be assessed against the standard</a></li>
+          <li><a href="/service-manual/digital-by-default/providing-evidence.html">Providing evidence in order to meet the standard</a></li>
+          <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">Maintaining the service standard after release</a></li>
+          <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">Failing to meet the standard</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="inner">
+      {{ content }}
+
+      <nav class="page-tools">
+        <ol>
+          <li><a title="View the page history on GitHub" href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
+          <li><a title="View and suggest changes to the page source on GitHub" href="https://github.com/alphagov/government-service-design-manual/blob/master{{ page.url | replace:'.html','.md' }}">Page source</a>
+        </ol>
+      </nav>
+    </div>
+  </div>
+</article>

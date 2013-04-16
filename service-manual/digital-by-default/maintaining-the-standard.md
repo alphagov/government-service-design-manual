@@ -1,10 +1,10 @@
 ---
-layout: detailed-guidance
+layout: standard-support
 title: Maintaining the standard
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
-  secondary: 
+  secondary:
 theme: getting-started
 category: dbd
 status: draft
@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-The launch of a service on GOV.UK is only the beginning. Once it has been published, users are the arbiters of its quality. Having designed the service to be iteratively developed using performance data and user insight, service teams will have all the tools and techniques they need to continuously improve what they offer. Performance against the four key indicators will be tracked and publicly displayed. 
+The launch of a service on GOV.UK is only the beginning. Once it has been published, users are the arbiters of its quality. Having designed the service to be iteratively developed using performance data and user insight, service teams will have all the tools and techniques they need to continuously improve what they offer. Performance against the four key indicators will be tracked and publicly displayed.
 
 To keep the standard, the service team **must** demonstrate that:
 
