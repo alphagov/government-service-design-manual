@@ -269,10 +269,13 @@ breadcrumbs:
   </li>
 </ol>
 
-## Further Reading
-
-- [Find out which services must meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html)
-- [How services will be assessed against the standard](/service-manual/digital-by-default/awarding-the-standard.html)
-- [Providing evidence in order to meet the standard](/service-manual/digital-by-default/providing-evidence.html)
-- [Maintaining the service standard after release](/service-manual/digital-by-default/maintaining-the-standard.html)
-- [Failing to meet the standard](/service-manual/digital-by-default/failure-to-meet-the-standard.html)
+<div class="further-reading">
+  <h2>Common questions</h2>
+  <ul>
+    <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/providing-evidence.html">How will we demonstrate we've met the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
+    <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
+  </ul>
+</div>
