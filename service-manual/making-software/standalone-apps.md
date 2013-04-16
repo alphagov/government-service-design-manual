@@ -40,18 +40,18 @@ Native apps are downloadable software applications that run using the device's o
 They persist on the device and can access all the hardware features (camera, storage, phone capabilities, etc). Because they run using native code, different versions must be created for each operating system. Examples of native apps include Spotify, Angry Birds, Instagram and Skype.
 
 #### Pros
-- Revenue (download and buy)
-- Persistent presence on device
-- Can access all functions on a device
-- Snappier performance in general
-- Can be used offline, in some cases
+- revenue (download and buy)
+- persistent presence on device
+- can access all functions on a device
+- snappier performance in general
+- can be used offline, in some cases
 
 #### Cons
-- Expensive to develop and maintain
-- Needs several different versions (Android, iPhone, iPad, Blackberry etc)
-- Service iteration more complex (at least 3 types of app to deploy)
-- Can only be downloaded via gatekeeper app stores (Apple, Google)
-- Most apps are rarely downloaded, and even then hardly used
+- expensive to develop and maintain
+- needs several different versions (Android, iPhone, iPad, Blackberry etc)
+- service iteration more complex (at least 3 types of app to deploy)
+- can only be downloaded via gatekeeper app stores (Apple, Google)
+- most apps are rarely downloaded, and even then hardly used
 
 ### What is responsive web design?
 
@@ -62,19 +62,19 @@ Responsive websites are built using open web standards (HTML, CSS, javascript, e
 Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
 
 #### Pros
-- It is your website, so costs are minimised and service iteration simplified
-- Uses open standards (HTML5)
-- No gatekeepers to constrain access
-- Performance still good
-- Mobile web outstripping mobile app reach
-- Clear winning strategy for ‘utility’ services which do not require complex device  features or persistence
+- it is your website, so costs are minimised and service iteration simplified
+- uses open standards (HTML5)
+- no gatekeepers to constrain access
+- performance still good
+- mobile web outstripping mobile app reach
+- clear winning strategy for ‘utility’ services which do not require complex device  features or persistence
 
 #### Cons
-- Not persistent on device
-- Some device features unavailable (camera, address book)
-- Requires internet connection
-- Not snappy enough for some complex services (eg Spotify, Facebook, Skype)
-- No ‘download and buy’ revenue stream
+- not persistent on device
+- some device features unavailable (camera, address book)
+- requires internet connection
+- not snappy enough for some complex services (eg Spotify, Facebook, Skype)
+- no ‘download and buy’ revenue stream
 
 ## Rationale for the government's position
 
