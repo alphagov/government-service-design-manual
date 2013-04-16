@@ -1,10 +1,10 @@
 ---
-layout: detailed-guidance
+layout: standard-support
 title: Failing to meet the standard
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
-  secondary: 
+  secondary:
 theme: getting-started
 category: dbd
 status: draft
@@ -31,7 +31,7 @@ Service progress towards meeting the standard will also be assessed at every spe
 
 ## Failure to pass the Go Live Panel
 
-If the Go Live panel does not produce unanimous approval, the service will not be awarded the standard. If the panel does not award the standard, the Chair will provide feedback to the service manager and Digital Leader on what needs to be rectified. The service manager and Digital Leader will then be invited back to present a second time to the panel on an agreed date. 
+If the Go Live panel does not produce unanimous approval, the service will not be awarded the standard and will not be linked to from GOV.UK. If the panel does not award the standard, the Chair will provide feedback to the service manager and Digital Leader on what needs to be rectified. The service manager and Digital Leader will then be invited back to present a second time to the panel on an agreed date.
 
 If the panel’s verdict demanded relatively minor changes or a small amount of additional evidence, this second assessment can be completed through correspondence. For more significant changes, a second meeting will be convened.
 
@@ -43,4 +43,4 @@ If performance levels consistently fall below those set out in the evidence pres
 
 The Performance Panel will be chaired by GDS and include representatives from other departments and external experts when suitable and available. The responsible service manager and Digital Leader will present to the panel, explaining why they believe performance levels are below levels expected at launch and set out what remedial actions they intend on taking to rectify the issues within the next 3 months. The panel will approve this plan, or suggest additional actions. It will approve changes to the performance targets set at launch only if there is compelling evidence that the user needs have demonstrably changed. It will also request monthly updates against the actions.
 
-If after a further three months the performance issues still persist, the Cabinet Office will write to the Minister responsible for the service, explaining that the service is failing to meet the standard, and that a ‘health warning’ will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed. If there is still no improvement a month after this point, GDS will recommend whether the service should be taken offline, and rolled back to a contingency that does not incur significant unintended expense for the taxpayer.
+If after a further three months the performance issues still persist, the Cabinet Office will write to the Minister responsible for the service, explaining that the service is failing to meet the standard, and that a ‘health warning’ will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed. If there is still no improvement a month after this point, GDS will recommend whether the service should be taken offline, have no link from GOV.UK, and be rolled back to an assisted digital contingency that does not incur significant unintended expense for the taxpayer.
