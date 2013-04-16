@@ -2,166 +2,349 @@
 $nav-active: $black;
 $nav-highlight: $border-colour;
 
-#global-nav {
-  margin: 0 1em;
-  border-bottom: $gutter-one-third solid $nav-highlight;
-  position: relative;
-  z-index: 100;
-  text-align:left;
+#global-header {
+  background-color: $black;
+  width: 100%;
 
-  @include media(desktop) {
-    margin: 0 2em;
-    text-align: right;
-  }
-  
-  .inner {
-    border-bottom: $gutter-one-sixth solid $nav-active;
-    padding: $gutter-one-sixth 0 0 0;
+  .header-wrapper {
+    max-width: 990px;
+    margin: 0 auto;
+    padding: 0.5em 15px;
     @extend %contain-floats;
-  }
-
-  a,
-  .toggler {
-    @include core-16;
-    display: block;
-    text-decoration: none;
-    color: $nav-active;
-    padding: $gutter-one-third 8px;
-
-    @include media(desktop) {
-      display: inline-block;
+    @include media-down(mobile){
+      padding: 0.5em 0;
     }
 
-    &:hover,
-    &:focus {
-      text-decoration: underline;
+    @include ie(6) {
+      width: 960px;
+    }
+
+    .header-global {
+      @extend %contain-floats;
+      .header-logo,
+      .site-search {
+        @extend %contain-floats;
+        width: 49%;
+        float: left;
+
+        @include media(desktop){
+          width: 33.33%;
+        }
+        @media screen and (max-width: 379px) {
+          width: auto;
+          float: none;
+        }
+
+        .content {
+          margin: 0 15px;
+        }
+      }
+      .header-logo {
+        margin: 3px 0 2px;
+      }
+      .site-search {
+        float: right;
+      }
+    }
+  }
+  &.with-proposition {
+    .header-wrapper {
+      .header-global {
+        @include media(desktop){
+          float: left;
+          width: 33.33%;
+
+          .header-logo,
+          .site-search {
+            width: 100%;
+          }
+          .header-logo {
+            margin: 0 0 6px;
+          }
+        }
+      }
+      .header-proposition {
+        @include media(desktop){
+          width: 66.66%;
+          float: left;
+        }
+        .content {
+          margin: 0 15px;
+        }
+      }
     }
   }
 
-  .home a {
-    display: block;
+  #logo {
     float: left;
-    padding-left: 0;
-    color: $text-colour;
-  }
-  .jump-link {
-    float: right;
+    position: relative;
+    width: 166px;
+    height: 30px;
+    overflow: hidden;
 
-    @include media(desktop) {
+    img {
       position: absolute;
-      left: -99999em;
+      left: -166px;
+      top: 0;
+      border: none;
+
+      /* scale oversized image to container bounds */
+      width: 200%;
+      height: 300%;
+
+      @include ie(6){
+        left: 0;
+      }
+    }
+    &:hover img {
+      top: -30px;
     }
   }
-  .toggler {
-    cursor: pointer;
-    padding: $gutter-one-third 8px;
 
-    &:focus {
-      outline: none;
+  .search-toggle {
+    display: none;
+
+    @media screen and (max-width: 379px) {
+      display: block;
+      float: right;
+      top: 0;
+      height: 30px;
+      width: 36px;
+      padding: 0;
+      margin: 0 15px;
+
+      overflow: hidden;
+      text-indent: -5000px;
+
+
+      background-color: $main-colour;
+      background-image: url("https://assets.digital.cabinet-office.gov.uk/static/search-button.png");
+      background-repeat: no-repeat;
+      background-position: 0 50%;
+
+      @include device-pixel-ratio() {
+        background-size: 52.5px 35px;
+        background-position: 100% 50%;
+      }
+
+      @include border-radius(0);
+      @include box-shadow(none);
+
+      &:active {
+        top: 0;
+      }
     }
 
-    &:after {
-      display: inline-block;
-      font-size: 8px;
-      height: 8px;
-      padding-left: 5px;
-      vertical-align: middle;
-      content: " \25BC";
-    }
+    &.js-hidden { display: none; }
   }
-  &.open {
-    .toggler {
+
+  form#search {
+    .content {
+      @extend %contain-floats;
+      position: relative;
+      background: #fff;
+    }
+    label {
+      float: left;
+      height: 35px;
+      line-height: 35px;
+      text-indent: 15px;
+      overflow: hidden;
+      display: block;
+      margin-right: 10px;
+
+      .js-enabled & {
+        float: none;
+        position: absolute;
+        left: 0;
+        top: 1px;
+        z-index: 1;
+        width: 100%;
+        margin-right: 0;
+      }
+    }
+    input {
+      @include box-sizing(border-box);
+      float: left;
+      width: 50%;
+      min-width: 0;
+      display: block;
+      margin: 0;
+      border: 0;
+      height: 35px;
+      padding: 6px 0;
+      @include ie-lte(7){
+        height: 23px;
+      }
+      @include appearance(none);
+    }
+
+    input#site-search-text {
+      @include core-16($line-height: (23/16), $line-height-640: (23/13));
+      position: relative;
+      padding: 6px;
+      z-index: 3;
+      background: transparent;
+
+      &.focus,
+      &:focus {
+        background: #fff;
+      }
+
+      @include ie-lte(7){
+        padding-left: 0;
+      }
+      .js-enabled & {
+        width: 86%;
+        @include calc(width, "100% - 37px");
+      }
+    }
+
+    input.submit {
+      position: absolute;
+      z-index: 4;
+      right: 0;
+      top: 0;
+      width: 35px;
+      height: 35px;
+
+      border: 1px solid $main-colour;
+      border-width: 0 0 0 1px;
+      @include ie-lte(7){
+        border-width: 1px;
+      }
+      border-left-color: #222;
+      @include border-radius(0);
+
+      overflow: hidden;
+      text-indent: -5000px;
+
+      color: $white;
+      background-color: $main-colour;
+      background-image: url("https://assets.digital.cabinet-office.gov.uk/static/search-button.png");
+      background-repeat: no-repeat;
+      background-position: 0 50%;
+
+      @include device-pixel-ratio() {
+        background-size: 52.5px 35px;
+        background-position: 100% 50%;
+      }
+
+      @include ie-lte(7) {
+        background-image: none;
+        width: auto;
+      }
+
+      &:hover {
+        background-color: #3ABAA8;
+      }
+    }
+
+    @include ie-lte(7) {
+      input.button-active {
+        background-color: #28A197;
+        top: 0;
+      }
+
+      input.button-hover {
+        background-color: #3ABAA8;
+      }
+    }
+
+
+    @media screen and (max-width: 379px) {
+      display: none;
+      width: 100%;
+
+      #site-search-text {
+        width: 80%;
+      }
+    }
+    &.js-visible { display: block; }
+  }
+
+  .header-proposition {
+    padding-top: 10px;
+    @include media(desktop){
+      padding-top: 0;
+    }
+    #proposition-name {
+      @include core-24;
+      font-weight: bold;
+      color: $main-colour;
+      text-decoration: none;
+    }
+    a.menu {
+      @include core-16;
+      color: $white;
+      display: block;
+      float: right;
+      text-decoration: none;
+      padding-top: 6px;
+      @include media(desktop){
+        display: none;
+      }
+      &:hover {
+        text-decoration: underline;
+      }
       &:after {
+        display: inline-block;
+        font-size: 8px;
+        height: 8px;
+        padding-left: 5px;
+        vertical-align: middle;
+        content: " \25BC";
+      }
+      &.js-hidden:after {
         content: " \25B2";
       }
     }
-  }
-  nav {
-    clear: both;
-    margin-bottom: 3px;
-
-    @include media(desktop) {
-      clear: none;
-      background: transparent;
-      position: static;
-      margin-bottom: 0;
-    }
-
-    #navigation{
+    #proposition-links {
+      clear: both;
+      @extend %contain-floats;
       margin: 0;
       padding: 0;
-      background-color: $nav-highlight;
 
-      @include media(desktop) {
-        float: right;
-        background-color: transparent;
-      }
-    }
-
-    .current {
-      color: $white;
-      background: $nav-active;
-    }
-
-    a {
-      color: $black;
-    }
-
-    li {
-      display: block;
-      position: relative;
-
-      @include media(desktop) {
-        display: inline;
-      }
-
-      .toggler {
-        position: absolute;
-        left: -9999em;
-        &:focus {
-          text-decoration: none;
+      .js-enabled & {
+        display: none;
+        @include media(desktop){
+          display: block;
         }
+        &.js-visible {
+          display: block;
+        }
+      }
+
+      li {
+        float: left;
+        width: 50%;
+        padding: 3px 0;
+        border-bottom: 1px solid $grey-2;
 
         @include media(desktop){
-          position: relative;
-          left: auto;
-          z-index: 10;
+          display: block;
+          width: auto;
+          padding: 0 15px 0 0;
+          border-bottom: 0;
+
+          &.clear-child {
+            clear: left;
+          }
+        }
+
+        a {
+          color: $white;
+          text-decoration: none;
+          @include core-14;
+
+          &:hover {
+            text-decoration: underline;
+          }
+          &.active {
+            color: $main-colour;
+          }
         }
       }
     }
   }
-  &.open {
-    .toggler {
-      background: $nav-highlight;
-    }
-    .toggler.current {
-      background: $nav-active;
-    }
-  }
-
-  .home {
-    a {
-      position: relative;
-      small {
-        position: absolute;
-        top: 0.8em;
-        text-transform: uppercase;
-        color: white;
-        -webkit-font-smoothing: subpixel-antialiased;
-        background-color: $panel-colour;
-
-        padding: 2px 5px 0;
-        margin-left: 10px;
-
-        &.alpha {
-          background-color: $alpha-colour;
-        }
-
-        &.beta {
-          background-color: $beta-colour;
-        }
-      }
-    }
-  }
-
 }
