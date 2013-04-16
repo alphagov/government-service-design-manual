@@ -19,7 +19,7 @@ breadcrumbs:
 
 The Government Digital Strategy explained that the scope of the service standard would not cover all of the 650-plus transactional services government provides to citizens and businesses. Government services cover a vast variety of activity, from the mainstream to the highly specialised. Applying the same standard to services dealing with a handful of transactions every year that was applied to those handling millions was unlikely to be helpful. 
 
-To establish whether your service needs to meet the service standard, answer the questions below. [Turn into a smart answer]
+To establish whether your service needs to meet the service standard, answer the questions below.
 
 Is your service:
 - completely new or going through a redesign?
