@@ -27,8 +27,6 @@ Is your service:
 - the responsibility of a central government department, agency or non-departmental public body?
 - being launched in April 2014 or after?
 
-[Copy below should be adapted into Smart answer]
-
 If you have answered yes to all of the questions above: 
 The service must meet the standard before it can go live on GOV.UK. 
 
