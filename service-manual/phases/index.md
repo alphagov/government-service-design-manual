@@ -25,7 +25,7 @@ Learn about the different phases of service design and get guidance for the phas
 
 ## End of service
 
-Even the best services may eventually reach retirement. That should be treated with the same care as went into the building and maintaining of that service. [Learn about the discovery phase](retirement)
+Even the best services may eventually reach retirement. That should be treated with the same care as went into the building and maintaining of that service. [Learn about the retirement phase](/service-manual/phases/retirement)
 
 <!--
 <img class="phase-diagram" src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />-->
