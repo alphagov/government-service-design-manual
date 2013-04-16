@@ -66,24 +66,24 @@ Some services (e.g. where users are large corporations) will not require assiste
 
 ### Background
 
-* [Sampling methodologies](/service-manual/users/user-research/samplingmethodologies.html)
-* [User research briefs](/service-manual/users/user-research/userresearchbriefs.html)
-* [Survey design](/service-manual/users/user-research/surveydesign.html)
-* [User research tools](/service-manual/users/user-research/userresearchtools.html)
+* [Sampling methodologies](/service-manual/users/user-research/sampling-methodologies.html)
+* [User research briefs](/service-manual/users/user-research/user-research-briefs.html)
+* [Survey design](/service-manual/users/user-research/survey-design.html)
+* [User research tools](/service-manual/users/user-research/user-research-tools.html)
  
 ### Qualitative user research techniques
 
-* [Ethnographic research](/service-manual/users/user-research/ethnographicresearch.html)
+* [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html)
 * [Expert review](/service-manual/users/user-research/expert-review.html)
-* [Guerilla testing](/service-manual/users/user-research/guerillatesting.html)
-* [Same day user testing](/service-manual/users/user-research/samedayusertesting.html)
-* [Lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
-* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
-* [Community user groups](/service-manual/users/user-research/communityusergroups.html)
+* [Guerilla testing](/service-manual/users/user-research/guerilla-testing.html)
+* [Same day user testing](/service-manual/users/user-research/same-day-user-testing.html)
+* [Lab based user testing](/service-manual/users/user-research/lab-based-user-testing.html)
+* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focus-groups-mini-groups-interviews.html)
+* [Community user groups](/service-manual/users/user-research/community-user-groups.html)
 
 ### Quantitative
 
-* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
-* [Remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
-* [Online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
-* [Online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
+* [User research surveys](/service-manual/users/user-research/user-research-surveys.html)
+* [Remote usability/summative testing](/service-manual/users/user-research/remote-usability.html)
+* [Online research panels](/service-manual/users/user-research/online-research-panels.html)
+* [Online omnibus surveying](/service-manual/users/user-research/online-omnibus-survey.html)
