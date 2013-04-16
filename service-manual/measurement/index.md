@@ -29,10 +29,10 @@ Once live, service performance will be monitored and displayed on the [performan
 Understand more about how to define, measure and implement the KPIs:
 
 {: .link-list} 
-* [cost per transaction](/service-manual/measurement/costpertransaction.html)
-* [user satisfaction](/service-manual/measurement/usersatisfaction.html)
-* [completion rate](/service-manual/measurement/completionrate.html)
+* [cost per transaction](/service-manual/measurement/cost-per-transaction.html)
+* [user satisfaction](/service-manual/measurement/user-satisfaction.html)
+* [completion rate](/service-manual/measurement/completion-rate.html)
 * [digital take-up](/service-manual/measurement/digital-takeup.html)
 
 ## What else should you measure?
-Further guidance on measuring key performance indicators can be found [here.](/service-manual/measurement/performanceframework.html) 
+Further guidance on measuring key performance indicators can be found [here.](/service-manual/measurement/performance-framework.html) 

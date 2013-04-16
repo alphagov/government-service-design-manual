@@ -29,9 +29,9 @@ The Government digital strategy specifies four core KPIs that all departments mu
 These guides explain how each KPI should be measured and reported:
 
 
-* [Cost per transaction](/costpertransaction.html)
+* [Cost per transaction](/cost-per-transaction.html)
 * [Digital take up](/digital-takeup.html)
-* [Completion rate](/completionrate.html)
+* [Completion rate](/completion-rate.html)
 * [User Satisfaction](/user-satisfaction.html)
 
 These core KPIs provide a consistent set of cross-government metrics for digital service delivery.
