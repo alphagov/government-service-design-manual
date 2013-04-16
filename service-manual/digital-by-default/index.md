@@ -128,7 +128,7 @@ breadcrumbs:
   <li>
     <div class="point">made all new source code open and reuseable, and published it under appropriate licenses (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/making-software/open-source.html">Open source</a></li>
+      <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
       <li><a href="/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
     </ul>
   </li>
