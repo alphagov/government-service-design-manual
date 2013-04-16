@@ -15,21 +15,11 @@ breadcrumbs:
 ---
 
 <div class="intro">
-  <h2>What is the Digital by Default Service Standard?</h2>
 
   <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014.</p>
 
   <p>Teams must demonstrate that they have met these before launch, and must be able to maintain this quality for the full life of the service.</p>
 </div>
-
-<ul class="headings">
-  <li id="standard-header-item">
-    <h2 id="standard-header">To achieve the standard, the service team must demonstrate that they have</h2>
-  </li>
-
-  <li id="guidance-header-item"><h3 id="guidance-header">Guidance to help</h3></li>
-</ul>
-
 
 <ol class="standard" aria-labelledby="standard-header">
   <li>
