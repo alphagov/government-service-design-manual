@@ -35,8 +35,8 @@ breadcrumbs:
   <li>
     <div class="point">understood users needs, conducting research to develop a deep knowledge of who the service users are and what that implies for digital and assisted digital service design</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
       <li><a href="/service-manual/users.html">Know your users</a></li>
+      <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
       <li><a href="/service-manual/assisted-digital.html">Assisted digital</a></li>
     </ul>
   </li>
@@ -60,7 +60,7 @@ breadcrumbs:
     <div class="point">considered the privacy risks to ensure that personal data collection requirements are appropriate</div>
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
-      <li><a href="/service-manual/making-software/logins.html">User accounts and log-ins</a></li>
+      <li><a href="/service-manual/making-software/logins.html">User accounts and logins</a></li>
     </ul>
   </li>
   <li>
@@ -74,7 +74,7 @@ breadcrumbs:
     <div class="point">built a working prototype, using the agile, iterative and user-centred methods set out in the manual</div>
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/agile">Agile</a></li>
-      <li><a href="/service-manual/phases/alpha">Alpha</a></li>
+      <li><a href="/service-manual/phases/alpha.html">Alpha phase</a></li>
       <li><a href="/service-manual/design-and-content/working-with-prototypes.html">Working with prototypes</a></li>
     </ul>
   </li>
@@ -93,7 +93,7 @@ breadcrumbs:
   <li>
     <div class="point">created a service that is simple and intuitive enough that users succeed first time, unaided</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-
+		<li><a href="/service-manual/measurement/completionrate.html">Completion rate</a></li>
     </ul>
   </li>
   <li>
@@ -122,7 +122,7 @@ breadcrumbs:
   <li>
     <div class="point">the capacity and technical flexibility to update and improve the service on a very frequent basis</div>
     <ul class="guidance" aria-labelledby="guidance-header">
-      <li><a href="/service-manual/making-software/release-strategies.html">Release strategies</a></li>
+      <li><a href="/service-manual/making-software/release-strategies.html">Releasing software</a></li>
     </ul>
   </li>
   <li>
@@ -142,6 +142,7 @@ breadcrumbs:
     <div class="point">an ongoing ability to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices</div>
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/making-software/testing-in-agile.html">Testing in agile</a></li>
+      <li><a href="/service-manual/operations">Operating a service</a></li>
     </ul>
   </li>
   <li>
@@ -160,6 +161,7 @@ breadcrumbs:
     <div class="point">a plan in place for ongoing user testing, including the ability to support multivariate experiments</div>
     <ul class="guidance" aria-labelledby="guidance-header">
       <li><a href="/service-manual/users">Know your users</a></li>
+      <li><a href="/service-manual/users/user-research">User research</a></li>
       <li><a href="/service-manual/users/user-research/multivariatetesting.html">Multivariate testing</a></li>
     </ul>
   </li>
