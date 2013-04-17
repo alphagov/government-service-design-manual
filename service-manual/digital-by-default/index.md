@@ -171,7 +171,7 @@ breadcrumbs:
     </div>
   </li>
   <li>
-    <div class="point">Make all new source code open and reuseable, and publish it under appropriate licenses (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
+    <div class="point">Make all new source code open and reuseable, and publish it under appropriate licences (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
