@@ -149,6 +149,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
+        <li>No related guides yet</li>
       </ul>
     </div>
   </li>
@@ -269,6 +270,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
+        <li>No related guides yet</li>
       </ul>
     </div>
   </li>
@@ -277,6 +279,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
+        <li>No related guides yet</li>
       </ul>
     </div>
   </li>
