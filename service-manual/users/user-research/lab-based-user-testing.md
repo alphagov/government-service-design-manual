@@ -54,6 +54,6 @@ The lab environment may also be considered a weakness. It means testing is condu
 
 This method is not an appropriate for understanding user behaviour or user needs eg what they might want from a product or service. 
 
-##No./Types of participants
+## Number and types of participants
 
 Between 5-8 participants, per round of user testing is sufficient to highlight the majority of usability issues. The key is to test often.

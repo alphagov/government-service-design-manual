@@ -33,6 +33,6 @@ Omnibus panels are ideal when you have key questions that you want answering, an
 
 An omnibus survey is not appropriate when there are too many questions required. This would result in the survey being too long (combined with questions from other clients).
 
-##Timescales
+## Timescales
 
 An online Omnibus panel can be conducted relatively quickly, with most companies running surveys twice a week with data delivered 4 days after survey goes in to field. Some companies offer an ‘on demand’ service where surveys can start any time, although a minimum number of questions is normally required.

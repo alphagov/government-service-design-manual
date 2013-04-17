@@ -45,6 +45,6 @@ Focus groups and 1:1 interviews can be expensive compared with other types of re
 
 Moderators also need to build a rapport with respondents. If he or she fails to do this, and can’t control the group adequately, it can result in the sessions being dominated by one or two participants, and biased data being collected. 
 
-##Participants
+## Participants
 
 Participants can be obtained from the general population and hard to reach groups.

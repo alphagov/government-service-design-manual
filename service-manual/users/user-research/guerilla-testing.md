@@ -58,6 +58,6 @@ The key weakness of guerilla testing as a research method it that is not statist
 
 This can vary from between 6-12 participants in any given round of guerilla testing. It is very much dependent on where and when those sessions are conducted.
 
-##GDS Example
+## GDS Example
 
 16 teenagers evaluated the National Citizen Service website. Sessions were conducted in the canteen of a further education college in Nottingham. Usability and editorial findings were discovered and quickly fed back to the development teams. The whole process took 2 days.
