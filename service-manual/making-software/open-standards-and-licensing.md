@@ -5,7 +5,7 @@ subtitle: Building services using common standards
 category: making-software
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, developers, tech-archs
 status: draft
 phases:
@@ -19,7 +19,7 @@ breadcrumbs:
     title: Making software
     url: /service-manual/making-software
 ---
-    
+
 Considerations for using open standards and why they matter.
 
 > Please note, this is for guidance purposes only, and should not be taken as [legal advice](http://en.wikipedia.org/wiki/IANACL).
@@ -58,11 +58,11 @@ We describe the reasons for these principles and their implications in the [Open
 
 The Open Standards Board will be selecting some compulsory open standards using the [Standards Hub](http://standards.data.gov.uk/) process.
 
-Where these standards have been identified you should use them. 
+Where these standards have been identified you should use them.
 
-If you are looking for an open standard and we’ve not set a compulsory one in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition. 
+If you are looking for an open standard and we’ve not set a compulsory one in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition.
 
-You should also consider how the standard fits with: 
+You should also consider how the standard fits with:
 * user and functional needs
 * security and legal requirements
 * economic efficiency of government as a whole
@@ -76,26 +76,24 @@ You’ll also need to apply for an exemption if you want to use an alternative s
 ## Why we do this
 
 By implementing open standards for software interoperability, data and document formats, we are:
-* improving our flexibility and the ability for government to deliver services based on users’ needs and avoid digital exclusion based on the technology choices we make;  
+* improving our flexibility and the ability for government to deliver services based on users’ needs and avoid digital exclusion based on the technology choices we make;
 * putting in place a level playing field for open source and proprietary software, giving us the ability to move between different technologies without the risk of lock-in;
 * making it easier to share appropriate data across and beyond government boundaries to provide efficient services for users and for our delivery partners
 * making the cost of our digital services more sustainable by reducing complexity and encouraging reuse.
 
 ## Guidance
 
-Build component-based digital services, based on open standards, to provide a flexible design to give you greater choice and enable your digital services to evolve. 
+Build component-based digital services, based on open standards, to provide a flexible design to give you greater choice and enable your digital services to evolve.
 
 Expressing your user needs in terms of required capabilities, which are in turn based on open standards, helps you to make better choices for service delivery. It also means that there is no unintentional lock-in built into government digital services.
-   	 	
+
 Whether designing and building in-house or outsourcing, you must require solutions that comply with open standards, for software interoperability, data and document formats, where they exist and meet functional needs.
 
 If there is a reason why you think using open standards is inappropriate, on an exceptional case-by-case basis an exemption may be agreed in advance by the Government’s Chief Technology Officer (or through Departmental Accounting Officer procedures for cases below the Cabinet Office’s [spend controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) threshold for IT).
 
 ##Further reading
- 
-[Standards Hub](http://standards.data.gov.uk/) - go here to get involved in the debate about which open standards we should choose and to find out about which ones we’re adopting.
 
-[Open Standards Principles](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf)
-
-Open Standards: [Open Opportunities consultation outcome](https://www.gov.uk/government/consultations/open-standards-open-opportunities-flexibility-and-efficiency-in-government-it)
+* [Standards Hub](http://standards.data.gov.uk/) - go here to get involved in the debate about which open standards we should choose and to find out about which ones we’re adopting.
+* [Open Standards Principles](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf)
+* Open Standards: [Open Opportunities consultation outcome](https://www.gov.uk/government/consultations/open-standards-open-opportunities-flexibility-and-efficiency-in-government-it)
 

@@ -4,7 +4,7 @@ title: Writing for transactions
 subtitle: Writing microcopy and help text for government services
 category: design-and-development-resources
 type: resource
-audience: 
+audience:
   primary: content-designers, designers
 type: guide
 status: draft
@@ -19,7 +19,7 @@ breadcrumbs:
 
 ## Writing microcopy
 
-Microcopy is the term given to the short words or phrases used during transactions, 
+Microcopy is the term given to the short words or phrases used during transactions,
 for things like buttons, form labels, help text, alerts and questions.
 
 ### General guidance
@@ -41,7 +41,7 @@ for things like buttons, form labels, help text, alerts and questions.
 
 ## Writing help text
 
-Your first strategy when it comes to help text is to design a service that's 
+Your first strategy when it comes to help text is to design a service that's
 so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for its own sake - the real innovation is an
 easy to use government service.
 
@@ -59,7 +59,7 @@ Sometimes though, users need a little help. Here are some ways of providing it.
       </p>
 
     </div>
-</div> 
+</div>
 
 Use this to provide examples for unfamiliar information requests or formats.
 
@@ -109,5 +109,5 @@ These pages should let the user know:
 * about any related information and services
 
 ##Further reading
-[Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle )
+[Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle)
 

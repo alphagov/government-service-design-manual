@@ -17,11 +17,11 @@ breadcrumbs:
 
 *NOTE: the following template was used to advertise a designer vacancy at GDS*
 
-POST TITLE:             Designer     
-PAYBAND:               	A				      			
-UNIT/DIVISION:       	Government Digital Service		      
-LOCATION:              	London			     						
-TYPE OF POSTING: 	     
+POST TITLE:             Designer
+PAYBAND:               	A
+UNIT/DIVISION:       	Government Digital Service
+LOCATION:              	London
+TYPE OF POSTING:
 
 ## VACANCY ADVERT
 
@@ -54,6 +54,6 @@ You'll:
 * present at internal show and tell
 * have experience of web design / interface design.
 
-#### Further reading:
+## Further reading:
 
 [Take 5 minutes to read our Design Principles to see how we think](https://www.gov.uk/designprinciples)

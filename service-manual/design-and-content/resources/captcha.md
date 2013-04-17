@@ -1,12 +1,12 @@
 ---
 layout: detailed-guidance
 title: CAPTCHA
-subtitle: Build to the GOV.UK style 
+subtitle: Build to the GOV.UK style
 category: design-and-development-resources
 type: resource
 audience:
     primary: designers, developers
-    secondary: 
+    secondary:
 status: draft
 phases:
   - alpha
@@ -50,6 +50,6 @@ Many of the risks that CAPTCHAs are aimed to mitigate can be addressed in other 
 It's important to note that even with a CAPTCHA in place bots will still get through due to advances in computer imaging and the use of CAPTCHA farms. A combination of different approaches generally gives the best results.
 
 Further reading:
-[In search of the perfect CAPTCHA](http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/)
-[CAPTCHA and the BBC](http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html)
-[Ticketmaster ditches CAPTCHA for something simpler](http://thenextweb.com/insider/2013/01/30/good-news-music-fans-ticketmaster-is-ditching-its-captcha-conundrums-for-something-simpler/)
+* [In search of the perfect CAPTCHA](http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/)
+* [CAPTCHA and the BBC](http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html)
+* [Ticketmaster ditches CAPTCHA for something simpler](http://thenextweb.com/insider/2013/01/30/good-news-music-fans-ticketmaster-is-ditching-its-captcha-conundrums-for-something-simpler/)
