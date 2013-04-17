@@ -28,8 +28,8 @@ breadcrumbs:
     <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
     <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
   </ul>
-<br>
-<h2>The criteria</h2>
+
+  <h2>The criteria</h2>
 </div>
 
 
@@ -49,7 +49,7 @@ breadcrumbs:
   <li>
     <div class="point">
       Assemble a multidisciplinary team who can design, build and operate the service, led by a single, suitably skilled and empowered Service Manager
-    </div>    
+    </div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -75,7 +75,7 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
         <li><a href="/service-manual/making-software/logins.html">User accounts and logins</a></li>
-      </ul>    
+      </ul>
     </div>
   </li>
   <li>
