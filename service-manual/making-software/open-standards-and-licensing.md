@@ -63,6 +63,7 @@ Where these standards have been identified you should use them.
 If you are looking for an open standard and we’ve not set a compulsory one in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition.
 
 You should also consider how the standard fits with:
+
 * user and functional needs
 * security and legal requirements
 * economic efficiency of government as a whole
@@ -76,6 +77,7 @@ You’ll also need to apply for an exemption if you want to use an alternative s
 ## Why we do this
 
 By implementing open standards for software interoperability, data and document formats, we are:
+
 * improving our flexibility and the ability for government to deliver services based on users’ needs and avoid digital exclusion based on the technology choices we make;
 * putting in place a level playing field for open source and proprietary software, giving us the ability to move between different technologies without the risk of lock-in;
 * making it easier to share appropriate data across and beyond government boundaries to provide efficient services for users and for our delivery partners
