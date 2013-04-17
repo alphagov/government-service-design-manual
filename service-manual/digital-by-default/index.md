@@ -16,9 +16,9 @@ breadcrumbs:
 
 <div class="intro">
 
-  <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014.</p>
+  <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
 
-  <p>To do this, teams must demonstrate that they have met the criteria below before launch, and must be able to maintain this quality for the full life of the service.</p>
+  <p>To do this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
 
   <h2>Common questions</h2>
   <ul>
@@ -28,6 +28,8 @@ breadcrumbs:
     <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
     <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
   </ul>
+<br>
+<h2>The criteria</h2>
 </div>
 
 
