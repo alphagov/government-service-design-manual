@@ -4,7 +4,7 @@ title: User needs
 subtitle: How to focus a service on users
 category: users
 type: guide
-audience: 
+audience:
     primary: user-researchers, service-managers
     secondary: designers, developers,
 status: draft
@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-Deep understanding of your users needs is crucial for building a successful digital service. 
+Deep understanding of your users needs is crucial for building a successful digital service.
 
 ## Defining user needs
 
@@ -36,7 +36,7 @@ That's an important distinction, because it means that you'll be able to more me
 
 ## You can't do it all at once
 
-You need to set the boundaries of what your service can and should offer, to prevent a bottomless list of user needs. 
+You need to set the boundaries of what your service can and should offer, to prevent a bottomless list of user needs.
 
 This is especially true of a government website such as [GOV.UK](https://www.gov.uk/). As well as identifying user needs, we identified which of those needs the government must answer. This led to the ‘It’s in if...’ criteria:
 
@@ -61,14 +61,9 @@ Expressing a user need mustn’t imply the solution. The user need should be exp
 
 ## Further reading
 
-[What was the evidence? Users’ information needs and analytics](http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/ "What was the evidence? Users’ information needs and analytics")
-
-[Using search data to meet user needs](http://digital.cabinetoffice.gov.uk/2012/01/27/search-data-user-needs/ "Using search data to meet user needs")
-
-[Exploring user needs](http://digital.cabinetoffice.gov.uk/2012/10/09/exploring-user-needs/ "Exploring user needs")
-
-[What we know about the users of Inside Government](http://digital.cabinetoffice.gov.uk/2012/11/14/what-we-know-about-the-users-of-inside-government/ "What we know about the users of Inside Government")
-
-[Meeting the needs of businesses](http://digital.cabinetoffice.gov.uk/2012/10/16/meeting-the-needs-of-businesses/ "Meeting the needs of businesses")
-
-[Introducing the Needotron: working out the shape of the product](http://digital.cabinetoffice.gov.uk/2011/09/19/introducing-the-needotron-working-out-the-shape-of-the-product/ "Introducing the Needotron: working out the shape of the product")
+* [What was the evidence? Users’ information needs and analytics](http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/ "What was the evidence? Users’ information needs and analytics")
+* [Using search data to meet user needs](http://digital.cabinetoffice.gov.uk/2012/01/27/search-data-user-needs/ "Using search data to meet user needs")
+* [Exploring user needs](http://digital.cabinetoffice.gov.uk/2012/10/09/exploring-user-needs/ "Exploring user needs")
+* [What we know about the users of Inside Government](http://digital.cabinetoffice.gov.uk/2012/11/14/what-we-know-about-the-users-of-inside-government/ "What we know about the users of Inside Government")
+* [Meeting the needs of businesses](http://digital.cabinetoffice.gov.uk/2012/10/16/meeting-the-needs-of-businesses/ "Meeting the needs of businesses")
+* [Introducing the Needotron: working out the shape of the product](http://digital.cabinetoffice.gov.uk/2011/09/19/introducing-the-needotron-working-out-the-shape-of-the-product/ "Introducing the Needotron: working out the shape of the product")

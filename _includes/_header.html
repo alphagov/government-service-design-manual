@@ -1,14 +1,26 @@
 <!--start header-->
-<header role="banner" class="group" id="global-header">
-  <div class="header-wrapper group">
-    <a href="/" title="Go to the gov.uk homepage" id="logo"><img src="https://assets.digital.cabinet-office.gov.uk/static/gov.uk_logotype-2x-24145374d271079f08d96c618cc8d4a5.png" alt="GOV.UK"></a>
+<header role="banner" id="global-header" class="with-proposition">
+  <div class="header-wrapper">
+    <div class="header-global">
+      <div class="header-logo">
+        <a href="/" title="Go to the gov.uk homepage" id="logo" class="content">
+          <img src="https://assets.digital.cabinet-office.gov.uk/static/gov.uk_logotype-2x-24145374d271079f08d96c618cc8d4a5.png" alt="GOV.UK"></a>
+        </div>
+      </div>
 
-    <a href="#search" class="button search-toggle">Search</a>
-
-    <form id="search" class="site-search" action="/search" method="get" role="search">
-      <label for="site-search-text" class="visuallyhidden">Search</label>
-      <input type="search" name="q" id="site-search-text" title="Search"><input class="button" type="submit" value="Search">
-    </form>
-  </div>
-</header>
+      <div class="header-proposition">
+        <div class="content">
+          <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+          <nav id="proposition-menu">
+            <a href="/service-manual" id="proposition-name">Government Service Design Manual</a>
+            <ul id="proposition-links">
+              <li><a href="/service-manual/digital-by-default" class="">Digital by Default Service Standard</a></li>
+              <li><a href="/service-manual/about" class="">About</a></li>
+              <li><a href="/feedback" class="">Feedback</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
 <!--end header-->
