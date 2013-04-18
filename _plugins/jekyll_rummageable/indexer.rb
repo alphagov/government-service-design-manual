@@ -22,11 +22,12 @@ module Jekyll
       items = site.pages.dup.concat(site.posts)
       puts "Got details of #{items.length} items"
 
-      items.select! { |i| i.output_is_html? }
-      items.reject! { |i| i.data['exclude_from_search'] || page_should_be_excluded?(i) }
-
-      # don't process index pages
-      items.reject! { |i| i.is_a?(Jekyll::Page) && i.index? }
+      items.reject! do |i|
+        i.data['exclude_from_search'] ||
+          page_should_be_excluded?(i) ||
+          is_index_page?(i) ||
+          ! i.output_is_html?
+      end
 
       index = items.collect do |item|
         page_paragraphs = extract_text(site, item)
@@ -56,6 +57,10 @@ module Jekyll
 
     def page_should_be_excluded?(page)
       @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
+    end
+
+    def is_index_page?(page)
+      page.is_a?(Jekyll::Page) && page.index?
     end
 
     # We need DirectoryWatcher (the gem jekyll uses to detect changes to files
