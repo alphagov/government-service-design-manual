@@ -32,8 +32,6 @@ module Jekyll
       index = items.collect do |item|
         page_paragraphs = extract_text(site, item)
 
-        puts 'Indexed ' << item.absolute_url
-
         {
           "title"             => item.data['title'] || item.name ,
           "indexable_content" => page_paragraphs.join(" ").gsub("\r"," ").gsub("\n"," "),
@@ -41,8 +39,7 @@ module Jekyll
           "link"              => item.absolute_url
         }
       end
-      puts 'Indexing done'
-      puts 'Writing index to file'
+      puts 'Indexing done, writing index to file'
       write_index_to_file(site, index)
       puts 'Index written to file'
     end
