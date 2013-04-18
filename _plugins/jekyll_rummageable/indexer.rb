@@ -40,14 +40,13 @@ module Jekyll
           "link"              => item.absolute_url
         }
       end
-      
-      File.open('_search-index.json', 'w') do |f|
-        f.puts index.to_json
-      end
-      
       puts 'Indexing done'
+      puts 'Writing index to file'
+      write_index_to_file(site, index)
+      puts 'Index written to file'
     end
 
+    protected
     # render the items, parse the output and get all text inside <p> elements
     def extract_text(site, page)
       page.render({}, site.site_payload)
@@ -55,9 +54,14 @@ module Jekyll
       doc.search('p').map {|e| e.text}
     end
 
-    protected
     def page_should_be_excluded?(page)
       @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
+    end
+
+    def write_index_to_file(site, index)
+      File.open("search-index.json", 'w') do |f|
+        f.puts index.to_json
+      end
     end
   end 
 end
