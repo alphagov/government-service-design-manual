@@ -5,10 +5,15 @@
 .dbd {
   // Swap standard header for DbD kitemark
   header.page-header {
-    margin-bottom: 0.5em;
-    margin-top: 2em;
-    padding-bottom: 1em;
+    margin: 2em 0 0.5em 0em;
+    padding: 0 0 1em 0;
     border-bottom: none;
+
+    @include media(desktop) {
+      width: 67%;
+      margin: 0 auto;
+    }
+
     h1 {
       background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 50% 70%;
       background-size: 100%;
