@@ -19,7 +19,7 @@ fi
 
 bundle exec jekyll ./_site
 cp -R ./_site/service-manual $GUIDANCE_PATH
-mv search-index.json $SEARCH_CONTENT_PATH
+mv _search-index.json $SEARCH_CONTENT_PATH/servie-manual.json
 
 echo "*****"
 echo "You should now use git to push the changes to the design principles app."

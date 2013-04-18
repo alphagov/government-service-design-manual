@@ -41,7 +41,7 @@ module Jekyll
         }
       end
       
-      File.open('search-index.json', 'w') do |f|
+      File.open('_search-index.json', 'w') do |f|
         f.puts index.to_json
       end
       
