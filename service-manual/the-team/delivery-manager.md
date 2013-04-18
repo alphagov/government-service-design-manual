@@ -18,6 +18,8 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
+<figure class="media-player-wrapper video"><a href="http://www.youtube.com/watch?v=ipHEn97mws4">Watch Peter Herlihy, Delivery Manager for Inside Government, describing what his work entails.</a></figure>
+
 The delivery manager sets the team up for successful delivery. Remove obstacles, or blockers to progress, constantly helping the team become more self organising. They enable the work a team does rather than impose how it’s done.
 
 ## The importance of delivery managers
