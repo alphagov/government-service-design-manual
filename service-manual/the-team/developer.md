@@ -18,6 +18,8 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
+<figure class="media-player-wrapper video"><a href="http://www.youtube.com/watch?v=xEcsGlZn__w">Dafydd Vaughan, Developer at GDS, talks about what his work involves.</a></figure>
+
 Developers build software with a relentless focus on how it will be used. They continually improve the service by identifying new tools and techniques and removing technical bottlenecks
 
 Good digital services will require code to be written, adapted, maintained and supported. A team of skilled developers will be able to make sure that happens in an efficient and transparent way, and to help continually improve the service by identifying new tools and techniques and removing technical bottlenecks.
