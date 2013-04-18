@@ -20,14 +20,15 @@ module Jekyll
     
       # gather pages and posts
       items = site.pages.dup.concat(site.posts)
+      puts "Got details of #{items.length} items"
 
-      items.select! { |i| page.output_is_html? && ! page_should_be_excluded?(i) }
+      items.select! { |i| i.output_is_html? && page_should_be_excluded?(i) }
       items.reject! { |i| i.data['exclude_from_search'] }
-      
+
       # don't process index pages
       items.reject! { |i| i.is_a?(Jekyll::Page) && i.index? }
-			      
-      index = items.collect do |item|              
+
+      index = items.collect do |item|
         page_paragraphs = extract_text(site, item)
 
         puts 'Indexed ' << item.absolute_url
