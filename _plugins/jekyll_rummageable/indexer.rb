@@ -58,8 +58,12 @@ module Jekyll
       @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
     end
 
+    # We need DirectoryWatcher (the gem jekyll uses to detect changes to files
+    # when in auto mode) to ignore the search index file, otherwise we hit an
+    # infinite loop. Unfortunately that's not very configurable so using a
+    # dotfile is the easiest way to achieve that.
     def write_index_to_file(site, index)
-      File.open("search-index.json", 'w') do |f|
+      File.open(".search-index.json", 'w') do |f|
         f.puts index.to_json
       end
     end
