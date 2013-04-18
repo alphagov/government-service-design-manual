@@ -22,8 +22,8 @@ module Jekyll
       items = site.pages.dup.concat(site.posts)
       puts "Got details of #{items.length} items"
 
-      items.select! { |i| i.output_is_html? && page_should_be_excluded?(i) }
-      items.reject! { |i| i.data['exclude_from_search'] }
+      items.select! { |i| i.output_is_html? }
+      items.reject! { |i| i.data['exclude_from_search'] || page_should_be_excluded?(i) }
 
       # don't process index pages
       items.reject! { |i| i.is_a?(Jekyll::Page) && i.index? }
