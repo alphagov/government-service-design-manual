@@ -37,7 +37,7 @@ This method starts with identifying the user goals, then conducting a task analy
 
 ## Where and how you might use it
 
-Both of these approaches can be used to evaluate an existing product or website, or as a quick, low cost method of evaluating a product in development. These approaches can be considered to be “better than nothing”, but will never provide the same quality insight as testing with real end users. However, a competent usability specialist will often identify issues that are subsequently seen in traditional user testing or in actual use.
+Both of these approaches can be used to evaluate an existing product or website, or as a quick, low cost method of evaluating a product in development. These approaches can be considered to be 'better than nothing', but will never provide the same quality insight as testing with real end users. However, a competent usability specialist will often identify issues that are subsequently seen in traditional user testing or in actual use.
 
 Some agencies conduct expert reviews as the first step of all usability projects.
 

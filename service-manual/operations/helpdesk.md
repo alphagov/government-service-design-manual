@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-In order to provide high-quality service, you will very likely want a dedicated group of specialists -- or current staff dedicating some of their time -- to handle user enquiries and to help direct them to the information they want. We’ll use the term “Helpdesk” to refer to them.
+In order to provide high-quality service, you will very likely want a dedicated group of specialists -- or current staff dedicating some of their time -- to handle user enquiries and to help direct them to the information they want. We’ll use the term 'Helpdesk' to refer to them.
 
 Your planning will be greatly aided by drawing on the traditional contact centre management and planning skill sets; if you do not have access to staff with these skills, you may have to work closely with other groups who do in a consultancy capacity. This may include the team at GDS, or [outside specialists](/service-manual/the-team/working-with-specialists.html).
 
@@ -44,7 +44,7 @@ If you’re building off of deep historical data, you may be able to model the A
 
 You’ll also need to have an idea of the service level that should be maintained by your Helpdesk.  
 
-Generally, service level (“SL” or “SLA”) is expressed as x percent of contacts resolved in y time units. As an example, you might plan to answer 80% of your incoming email contacts in 24 hours.  
+Generally, service level (SL or SLA) is expressed as x percent of contacts resolved in y time units. As an example, you might plan to answer 80% of your incoming email contacts in 24 hours.  
 
 You’ll need to know the desired service level to plan how many agents you’ll need for your Helpdesk.  Conversely, if your staffing is constrained by other factors, you may use this value as a constant and solve for the best service level that can be achieved at a certain volume level.
 

@@ -68,7 +68,7 @@ For the good of your team and to get the best results from bringing in a special
 
 An underlying principle behind agile development is that people are more important than process. Throughout the digital world, it is proven that great teams make great products whether they're in government or business.
 
-At GDS, we do not call people “resources”, whether permanent or contract. You look after people, resources are things you use (and discard!).
+At GDS, we do not call people 'resources', whether permanent or contract. You look after people, resources are things you use (and discard!).
 
 ### Guidance for a smooth induction
 

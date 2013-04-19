@@ -49,7 +49,7 @@ You would expect any developer to:
 
 * have deep skills in at least one programming language
 * be aware of the differences between a few languages and frameworks, and be pragmatic at picking the right one
-* understand the core concepts of the internet and web -- they should be able to give a good answer to the question "what happens when I click a link in a web browser"
+* understand the core concepts of the internet and web -- they should be able to give a good answer to the question 'what happens when I click a link in a web browser?'
 * be deeply committed to testing their work with automated tests and exploratory testing
 * be able to explain their work to people without particular technical skills
 

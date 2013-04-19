@@ -23,7 +23,7 @@ breadcrumbs:
 ---
 
 ## What are they?
-[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for "Completely Automated Public Turing test to tell Computers and Humans Apart". These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form. They are usually used to prevent bots (automated software) from completing a form or accessing a system.
+[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for Completely Automated Public Turing test to tell Computers and Humans Apart. These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form. They are usually used to prevent bots (automated software) from completing a form or accessing a system.
 
 ## Why shouldn't I use one?
 

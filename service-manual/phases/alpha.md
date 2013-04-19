@@ -39,7 +39,7 @@ Following demonstration of your alpha, you may choose to discard the code and st
 
 The alpha doesn't need to be a complete, end-to-end service. You're looking to demonstrate just enough so users gain some understanding of the service.
 
-Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users needs to meet them? If not, find out more and make a new prototype.
+Think of it as a proof-of-concept. Is the solution appropriate? Is your approach viable? Do you have enough understanding of your users' needs to meet them? If not, find out more and make a new prototype.
 
 ## How long does it take?
 The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in week long sprints over a 6-9 week period.

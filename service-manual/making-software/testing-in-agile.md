@@ -56,7 +56,7 @@ Everybody in the programme needs to understand and agree the approach to testing
 
 ## Optimise value
 
-Testing, done well, will inform the best way forward and get the best “bang for buck” in terms of effort expended in various functional or non-functional areas.  It will help make the tough decisions, and drive the development effort based on the risk of each choice of story.  It will help the prioritisation based on the understanding of the complexity of the system.
+Testing, done well, will inform the best way forward and get the best 'bang for buck' in terms of effort expended in various functional or non-functional areas.  It will help make the tough decisions, and drive the development effort based on the risk of each choice of story.  It will help the prioritisation based on the understanding of the complexity of the system.
 
 ## Types of testing
 
