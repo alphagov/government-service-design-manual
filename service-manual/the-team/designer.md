@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-<figure class="media-player-wrapper video"><a href="http://www.youtube.com/watch?v=d_Om02sbn_c">Watch GDS Designer Mark Hurrell talk about his work.</a></figure>
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=d_Om02sbn_c">Watch GDS Designer Mark Hurrell talk about his work.</a></figure>
 
 Those with the title of designer may have a particular focus on one or more specific design disciplines – interaction, graphic, UX – but a good digital service needs talented, flexible designers to help build user-centred products.
 

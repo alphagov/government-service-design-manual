@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-<figure class="media-player-wrapper video"><a href="http://www.youtube.com/watch?v=xEcsGlZn__w">Dafydd Vaughan, Developer at GDS, talks about what his work involves.</a></figure>
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=xEcsGlZn__w">Dafydd Vaughan, Developer at GDS, talks about what his work involves.</a></figure>
 
 Developers build software with a relentless focus on how it will be used. They continually improve the service by identifying new tools and techniques and removing technical bottlenecks
 
