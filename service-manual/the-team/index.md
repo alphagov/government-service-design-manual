@@ -29,9 +29,9 @@ The service manager is likely to need support from a core team focused on analys
 
 There are a range of skills and capabilities that need to come together to successfully deliver a digital service. The focus is likely to shift as you move through the different phases of development - from discovery, through alphas and betas, preparing for launch, and then running and iteratively improving the live service. The core team is likely to remain fairly constant, but may need to draw in additional resource and expertise along the way. 
 
-At the heart of any digital delivery team will be the “makers” - the designers, developers, technical architects and others who design, build, test and deploy the software and content that meet the needs of your users. 
+At the heart of any digital delivery team will be the 'makers' - the designers, developers, technical architects and others who design, build, test and deploy the software and content that meet the needs of your users. 
 
-Supporting and enabling this “making” are others who make sure the user needs are well understood, clearly articulated and prioritised, that stakeholders are kept informed, that releases are well communicated, that users of the service are supported, that performance is monitored etc. 
+Supporting and enabling this 'making' are others who make sure the user needs are well understood, clearly articulated and prioritised, that stakeholders are kept informed, that releases are well communicated, that users of the service are supported, that performance is monitored etc. 
 
 ### The team
 
@@ -42,7 +42,7 @@ A core digital delivery team needs to be able to:
 * manage and report to stakeholders
 * managing dependencies on other teams 
 * where needed, [procure services or solutions from 3rd parties](/service-manual/the-team/working-with-specialists.html)
-* design, build, test, demo and iterate software solutions (the “making”!)
+* design, build, test, demo and iterate software solutions (the 'making'!)
 * [test solutions](/service-manual/users/introduction-to-user-research.html) on real users 
 * [deploy and host](/service-manual/operations/hosting.html) the software 
 * find solutions for [accrediting and handling of data](/service-manual/making-software/information-security.html)
@@ -50,7 +50,7 @@ A core digital delivery team needs to be able to:
 
 There is no hard and fast rule on the roles or team structure needed to fulfil these functions, but a core team will probably consist of:
 
-* a [service manager](/service-manual/the-team/service-manager.html) (the “product owner”)
+* a [service manager](/service-manual/the-team/service-manager.html) (the 'product owner')
 	* probably supported by a product manager 
 	* possibly supported by one or more business analysts 
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
@@ -66,7 +66,7 @@ The team will also have a shared understanding of the [accessibility needs](/ser
 
 ### Working with delivery teams outside of government
 
-If some elements are going to be delivered by 3rd parties (eg software, hosting or operational support) then it will be important to have “intelligent buyers” in the team. These people will know how to go about [selecting](/service-manual/the-team/transformation-partner.html) and [procuring specialists, and what to do to make sure their onboarding is as smooth as possible](/service-manual/the-team/working-with-specialists.html).
+If some elements are going to be delivered by 3rd parties (eg software, hosting or operational support) then it will be important to have 'intelligent buyers' in the team. These people will know how to go about [selecting](/service-manual/the-team/transformation-partner.html) and [procuring specialists, and what to do to make sure their onboarding is as smooth as possible](/service-manual/the-team/working-with-specialists.html).
 
 ## Your working environment
 

@@ -43,9 +43,9 @@ That may include:
 * the ability of the team to quickly add or modify features to respond to changing requirements or contexts
 
 
-### A note on "Technical debt"
+### A note on technical debt
 
-It is common to talk of "technical debt" in software. Definitions of technical debt vary, but generally it means compromises made in the development of an application or system favouring speed of delivery over a clean, extensible technical design.
+It is common to talk of 'technical debt' in software. Definitions of technical debt vary, but generally it means compromises made in the development of an application or system favouring speed of delivery over a clean, extensible technical design.
 
 It is impossible to develop software without accruing some technical debt, but you should ensure your team have some way of sharing an understanding of the technical debt in their system. A large amount of technical debt slows down future development and having a clear picture will let you prioritise work to reduce it and thereby ensure your ability to iterate rapidly in future.
 
