@@ -1,10 +1,10 @@
 ---
-layout: detailed-guidance
+layout: standard
 title: Digital by Default Service Standard
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
-  secondary: 
+  secondary:
 theme: getting-started
 category: dbd
 status: draft
@@ -14,43 +14,275 @@ breadcrumbs:
     url: /service-manual
 ---
 
-## Introduction
+<div class="intro">
 
-The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) committed the government to ensuring all new or redesigned transactional services meet a Digital by Default Service Standard from April 2014. 
+  <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
 
-Services must meet the standard before they are launched on [GOV.UK](https://www.gov.uk). A draft version is set out below. It will be agreed and set in April 2013.
+  <p>To do this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
 
-## The Digital by Default Service Standard
+  <h2>Common questions</h2>
+  <ul>
+    <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/providing-evidence.html">How will we demonstrate we've met the standard?</a></li>
+    <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
+    <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
+  </ul>
 
-A team must demonstrate that they have done the following to achieve the standard:
+  <h2>The criteria</h2>
+</div>
 
-1. conducted research to develop a deep knowledge of who the service users are, what the user needs are, and what that implies for their digital and assisted digital service design
-2. put in place a multidisciplinary team, led by a single, suitably skilled and empowered Service Manager, to design, build, operate and run the service
-3. considered the user data and information the service will be providing or storing, addressed the security level, legal responsibilities and risks associated with the service, consulting with experts where appropriate
-4. considered the privacy risks to ensure that personal data collection requirements are appropriate 
-5. considered the tools and systems they will be using to build, host, operate and measure their service, and how to procure them
-6. built a working prototype, using the agile, iterative and user-centred methods set out in the manual
-7. established performance benchmarks to define success in consultation with GDS, using the 4 key indicators (KPIs) defined in the manual against which the service will be measured
-8. analysed the prototype service’s success and ensured that user feedback is translated into features for the next phase of development
-9. created a service that is simple and intuitive enough that users succeed first time, unaided 
-10. put appropriate assisted digital support in place, targeted towards those who genuinely need it
-11. a plan in place (developed with GDS) for the phasing out of existing alternative channels where appropriate
-12. considered the seamless integration of the service’s digital and any non-digital steps that are required for legal reasons
-13. used the manual to develop the content and design to ensure the service has the same look, feel and tone as GOV.UK
-14. got the capacity and technical flexibility to update and improve the service on a very frequent basis
-15. made all new source code open, reuseable and published under appropriate licenses (or else provide a convincing explanation of why this cannot be done for specific subsets of the source code)
-16. used open standards and common Government platforms (eg Identity Assurance) where available
-17. an ongoing ability to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices
-18. instrumented analytics tools and ensured that performance data can be collected
-19. built and resourced a service that can be improved daily, ensuring that user feedback and performance data is translated into development
-20. a plan in place for ongoing user testing, including the ability to support multivariate experiments
-21. achieved, and will continue to achieve, high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform (PP)
-22. achieved, and will continue to achieve, high transaction success rates across the digital and assisted digital service that are reported on the PP
-23. a plan for, and evidence to support, achieving a low cost per transaction across the digital and assisted digital service that is reported on the PP
-24. a plan for, and evidence to support, achieving a high digital take-up (and targeted assisted digital support at people who really need it) that is reported on the PP
-25. a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline
-26. successfully tested the service from beginning to end with the responsible Minister
 
-## How to meet the standard
 
-This website, the [Government Service Design Manual](/service-manual/browse), contains all the information you need to start designing and building services that meet the standard.
+<ol class="standard">
+  <li>
+    <div class="point">Understand user needs, conducting research to develop a deep knowledge of who the service users are and what that implies for digital and assisted digital service design</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
+        <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">
+      Assemble a multidisciplinary team who can design, build and operate the service, led by a single, suitably skilled and empowered Service Manager
+    </div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/the-team">The team</a></li>
+        <li><a href="/service-manual/the-team/service-manager.html">Service manager</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Consider what user data and information the service will be providing or storing, and address the security level, legal responsibilities and risks associated with the service, consulting with experts where appropriate</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/cookies.html">Cookies</a></li>
+        <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Consider the privacy risks to ensure that personal data collection requirements are appropriate</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/information-security.html">Information security</a></li>
+        <li><a href="/service-manual/making-software/logins.html">User accounts and logins</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Consider the tools and systems they will be using to build, host, operate and measure their service, and how to procure them</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software">Making software</a></li>
+        <li><a href="/service-manual/operations">Operating a service</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Build a working prototype, using the agile, iterative and user-centred methods set out in the manual</div>
+    <div class="guidance">
+    <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/agile">Agile</a></li>
+        <li><a href="/service-manual/phases/alpha.html">Alpha phase</a></li>
+        <li><a href="/service-manual/design-and-content/working-with-prototypes.html">Working with prototypes</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Establish performance benchmarks, in consultation with GDS, using the four key indicators (KPIs) defined in the manual, against which the service will be measured</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/measurement">Measurement</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Analyse the prototype service’s success, translating user feedback into features and tasks for the next phase of development</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/agile/continuous-delivery.html">Continuous delivery</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Create a service that is simple and intuitive enough that users succeed first time, unaided</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+  		<li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Put appropriate assisted digital support in place, targeted towards those who genuinely need it</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Plan (with GDS) for the phasing out of existing alternative channels where appropriate</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/phases/retirement.html">Retirement phase</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Integrate the service with any non-digital steps required for legal reasons</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li>No related guides yet</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/design-and-content">Design and content</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Make sure you have the capacity and technical flexibility to update and improve the service on a very frequent basis</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/release-strategies.html">Releasing software</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Make all new source code open and reuseable, and publish it under appropriate licences (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
+        <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Use open standards and common Government platforms (eg Identity Assurance) where available</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Be able to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/testing-in-agile.html">Testing in agile</a></li>
+        <li><a href="/service-manual/operations">Operating a service</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Instrument analytics tools which collect performance data</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/analytics-tools.html">Analytics Tools</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Build and resource a service that can be improved on a very frequent basis, in response to user feedback or performance data for example</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/making-software/release-strategies.html">Release strategies</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Put a plan in place for ongoing user testing, including the ability to support multivariate experiments</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/users/user-research">User research</a></li>
+        <li><a href="/service-manual/users/user-research/multivariate-testing.html">Multivariate testing</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Achieve ongoing high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/measurement/user-satisfaction.html">User satisfaction</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Achieve ongoing high completion rates across the digital and assisted digital service that are reported on the Performance Platform</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Create a plan for, and evidence to support, achieving a low cost per transaction across the digital and assisted digital service that is reported on the Performance Platform</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/measurement/cost-per-transaction.html">Cost per transaction</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Create a plan for, and evidence to support, achieving a high digital take-up (and targeted assisted digital support at people who really need it) that is reported on the Performance Platform</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li><a href="/service-manual/measurement/digital-takeup.html">Digital take-up</a></li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Create a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li>No related guides yet</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="point">Successfully test the service from beginning to end with the Minister responsible for it</div>
+    <div class="guidance">
+      <p>Related guides</p>
+      <ul>
+        <li>No related guides yet</li>
+      </ul>
+    </div>
+  </li>
+</ol>
+
+

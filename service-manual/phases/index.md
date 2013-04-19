@@ -9,9 +9,6 @@ theme: getting-started
 status: draft
 ---
 
-
-
-
 <div class="phases-intro">
   <div class="inner">
 
@@ -23,8 +20,7 @@ status: draft
 
       <p>This iterative approach allows the team working on the service to start small, learn fast, and deliver value to our users as early as possible.</p>
 
-      <br>
-
+      <p>Even the best services may eventually reach retirement. That should be treated with the same care as went into the building and maintaining of that service. <a href="/service-manual/phases/retirement">Learn about the retirement phase</a></p>
 
   </div>
 </div>

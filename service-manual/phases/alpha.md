@@ -13,7 +13,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  - 
+  -
     title: Phases of service design
     url: /service-manual/phases
 ---
@@ -21,6 +21,8 @@ breadcrumbs:
 When designing a digital system it is impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start building solutions for these.
 
 You may need to bring more [developers](/service-manual/the-team/developer.html) and [designers](/service-manual/the-team/designer.html) into [the team](/service-manual/the-team), but the whole phase should not last longer than about six to eight weeks. By the end of the phase you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta.html).
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=PmaE-12KqEQ">Watch Sarah Richards, GDS Content Design Lead, describe what happens during the alpha phase.</a></figure>
 
 ## What is the objective of an alpha?
 

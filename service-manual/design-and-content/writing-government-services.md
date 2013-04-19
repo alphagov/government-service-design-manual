@@ -6,7 +6,7 @@ category: design-and-content
 type: guide
 audience:
   primary: service-managers, designers, developers, content-designers
-  secondary: performance-analysts, user-researchers 
+  secondary: performance-analysts, user-researchers
 status: draft
 phases:
   - alpha
@@ -97,5 +97,5 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 
 ##Further reading
-[How users read](/service-manual/design-and-content/how-users-read.html)
-[Style guide](https://www.gov.uk/designprinciples/styleguide)
+* [How users read](/service-manual/design-and-content/how-users-read.html)
+* [Style guide](https://www.gov.uk/designprinciples/styleguide)

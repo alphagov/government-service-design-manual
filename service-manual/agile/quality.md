@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Ensuring Quality
-subtitle: So good that people prefer to use them
+title: Quality
+subtitle: How to define it, measure it and maintain it
 category: agile
 type: guide
 audience:
@@ -26,7 +26,7 @@ Quality is at the heart of building services that are so good that people prefer
 
 If the system being produced is lacking in quality, then it should be evident to everyone involved, and every person on the project should be taking action to increase quality and fix issues.
 
-## Defining Quality
+## Defining quality
 
 Quality will mean different things to different members of the team. Fundamentally it is about the end-to-end experience of the service's users, from the start to the end of the transaction.
 
@@ -43,9 +43,10 @@ That may include:
 * the ability of the team to quickly add or modify features to respond to changing requirements or contexts
 
 
-### A note on "Technical Debt"
+### A note on "Technical debt"
 
 It is common to talk of "technical debt" in software. Definitions of technical debt vary, but generally it means compromises made in the development of an application or system favouring speed of delivery over a clean, extensible technical design.
+
 It is impossible to develop software without accruing some technical debt, but you should ensure your team have some way of sharing an understanding of the technical debt in their system. A large amount of technical debt slows down future development and having a clear picture will let you prioritise work to reduce it and thereby ensure your ability to iterate rapidly in future.
 
 ## Testing
@@ -53,13 +54,14 @@ It is impossible to develop software without accruing some technical debt, but y
 In order to ensure quality a range of testing must be carried out. You can only know if your service meets the above criteria and any other definition of quality if you have tested it under normal and unusual conditions. For an example of testing under unusual stresses, it is worth reviewing Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) about the Obama 2012 campaign's preparations to ensure their software was highly available during the final days of that Presidential campaign.
 
 For further guidance on testing, see the following sections of this manual:
+
 * [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
 * [Accessibility testing](https://www.gov.uk/service-manual/making-software/accessibility-testing.html)
 * [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
 * [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
-## Team Roles and QA Specialists
+## Team roles and QA specialists
 
 The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the Service Manager. It is essential that the Service Manager works with the team to understand the measures that they need to put in place to ensure quality.
 

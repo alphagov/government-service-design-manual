@@ -5,7 +5,7 @@ subtitle: How and why we run retrospectives.
 category: agile
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, delivery-managers
 status: draft
 phases:
@@ -134,8 +134,9 @@ By having a retrospective regularly, we can make small improvements often, ideal
 
 
 ##Further reading
-The Agile Retrospective Wiki has some very useful resources, including <a href="http://retrospectivewiki.org/index.php?title=Retrospective_Plans" target="_blank">plans for different types of retrospectives</a>.
 
-This is a very useful book <a href="http://pragprog.com/book/dlret/agile-retrospectives" target="_blank">Agile Retrospectives: Making Good Teams Great</a>.
+The Agile Retrospective Wiki has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
+
+This is a very useful book [Agile Retrospectives: Making Good Teams Great](http://pragprog.com/book/dlret/agile-retrospectives).
 
 Retrospective plan photo by <a href="https://twitter.com/annashipman" target="_blank">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete" target="_blank">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.

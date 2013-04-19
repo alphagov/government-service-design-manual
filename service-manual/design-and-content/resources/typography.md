@@ -46,12 +46,8 @@ Type should be large enough to be easily read. This is generally larger than man
 
 ##Further reading
 
-[Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
-
-[Shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html)
-
-[Sass Repositories](/service-manual/design-and-content/resources/sass-repositories.html)
-
-[Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html)
-
-[Accessibility requirements](/service-manual/design-and-content/accessibility.html)
+* [Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
+* [Shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html)
+* [Sass Repositories](/service-manual/design-and-content/resources/sass-repositories.html)
+* [Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html)
+* [Accessibility requirements](/service-manual/design-and-content/accessibility.html)

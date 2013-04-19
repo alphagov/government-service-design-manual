@@ -2,8 +2,10 @@
 
 set -e
 
-DIRECTORY="../design-principles/public"
+DESIGN_PRINCIPLES_ROOT="../design-principles"
+DIRECTORY="$DESIGN_PRINCIPLES_ROOT/public"
 GUIDANCE_PATH="$DIRECTORY/service-manual"
+SEARCH_CONTENT_PATH="$DESIGN_PRINCIPLES_ROOT/db/index/"
 
 if [ ! -d "$DIRECTORY" ]; then
   echo "Couldn't find design principles app in $DIRECTORY"
@@ -17,6 +19,7 @@ fi
 
 bundle exec jekyll ./_site
 cp -R ./_site/service-manual $GUIDANCE_PATH
+mv ./.search-index.json $SEARCH_CONTENT_PATH/service-manual.json
 
 echo "*****"
 echo "You should now use git to push the changes to the design principles app."

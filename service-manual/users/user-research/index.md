@@ -4,7 +4,7 @@ title: User research
 subtitle: Resources
 category: users
 type: guide
-audience: 
+audience:
   primary: user-researchers,
   secondary: designers, service-managers, developers, content-designers
 status: draft
@@ -22,23 +22,25 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=1hbnPCdM4ls">Watch Angela Collins-Rees, GDS User Research Specialist, describing the importance of user research.</a></figure>
+
 The following techniques may be useful when conducting user research:
 
 * [card sorting](https://www.gov.uk/service-manual/users/card-sorting.html)
-* [discussion guides](/service-manual/users/user-research/discussionguides.html)
-* [multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
-* [user research surveys](/service-manual/users/user-research/userresearchsurveys.html)
-* [sentiment analysis](/service-manual/users/user-research/sentimentanalysis.html)
-* [sampling methodologies](/service-manual/users/user-research/samplingmethodologies.html)
-* [survey design](/service-manual/users/user-research/surveydesign.html)
-* [user research tools](/service-manual/users/user-research/userresearchtools.html)
-* [ethnographic research](/service-manual/users/user-research/ethnographicresearch.html)
+* [discussion guides](/service-manual/users/user-research/discussion-guides.html)
+* [multivariate testing](/service-manual/users/user-research/multivariate-testing.html)
+* [user research surveys](/service-manual/users/user-research/user-research-surveys.html)
+* [sentiment analysis](/service-manual/users/user-research/sentiment-analysis.html)
+* [sampling methodologies](/service-manual/users/user-research/sampling-methodologies.html)
+* [survey design](/service-manual/users/user-research/survey-design.html)
+* [user research tools](/service-manual/users/user-research/user-research-tools.html)
+* [ethnographic research](/service-manual/users/user-research/ethnographic-research.html)
 * [expert review](/service-manual/users/user-research/expert-review.html)
-* [guerilla testing](/service-manual/users/user-research/guerillatesting.html)
-* [same day user testing](/service-manual/users/user-research/samedayusertesting.html)
-* [lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
-* [focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
-* [community user groups](/service-manual/users/user-research/communityusergroups.html)
-* [remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
-* [online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
-* [online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
+* [guerilla testing](/service-manual/users/user-research/guerilla-testing.html)
+* [same day user testing](/service-manual/users/user-research/same-day-user-testing.html)
+* [lab based user testing](/service-manual/users/user-research/lab-based-user-testing.html)
+* [focus groups and 1:1 interviews](/service-manual/users/user-research/focus-groups-mini-groups-interviews.html)
+* [community user groups](/service-manual/users/user-research/community-user-groups.html)
+* [remote usability/summative testing](/service-manual/users/user-research/remote-usability.html)
+* [online research panels](/service-manual/users/user-research/online-research-panels.html)
+* [online omnibus surveying](/service-manual/users/user-research/online-omnibus-survey.html)

@@ -13,12 +13,14 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  - 
+  -
     title: Phases of service design
     url: /service-manual/phases
 ---
 
 You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=s0l8HauO_PM">Watch Martyn Inglis, GDS technical architect, describe what happens during the beta phase.</a></figure>
 
 ## What is the objective of a beta?
 

@@ -3,6 +3,7 @@ layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your user's needs
 category: users
+type: category-index
 audience:
   primary: user-researchers, designers, service-managers,
   secondary: developers, tech-archs, performance-analysts, delivery-managers
@@ -39,26 +40,26 @@ The following techniques may be useful when conducting user research
 
 {: .link-list}
 * [Card sorting](/service-manual/users/card-sorting.html)
-* [Discussion guides](/service-manual/users/user-research/discussionguides.html)
-* [Multivariate testing](/service-manual/users/user-research/multivariatetesting.html)
-* [User research surveys](/service-manual/users/user-research/userresearchsurveys.html)
-* [Sentiment analysis](/service-manual/users/user-research/sentimentanalysis.html)
-* [Sampling methodologies](/service-manual/users/user-research/samplingmethodologies.html)
-* [Survey design](/service-manual/users/user-research/surveydesign.html)
-* [User research tools](/service-manual/users/user-research/userresearchtools.html)
-* [Ethnographic research](/service-manual/users/user-research/ethnographicresearch.html)
+* [Discussion guides](/service-manual/users/user-research/discussion-guides.html)
+* [Multivariate testing](/service-manual/users/user-research/multivariate-testing.html)
+* [User research surveys](/service-manual/users/user-research/user-research-surveys.html)
+* [Sentiment analysis](/service-manual/users/user-research/sentiment-analysis.html)
+* [Sampling methodologies](/service-manual/users/user-research/sampling-methodologies.html)
+* [Survey design](/service-manual/users/user-research/survey-design.html)
+* [User research tools](/service-manual/users/user-research/user-research-tools.html)
+* [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html)
 * [Expert review](/service-manual/users/user-research/expert-review.html)
-* [Guerilla testing](/service-manual/users/user-research/guerillatesting.html)
-* [Same day user testing](/service-manual/users/user-research/samedayusertesting.html)
-* [Lab based user testing](/service-manual/users/user-research/labbasedusertesting.html)
-* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focusgroupsminigroupsandinterviews.html)
-* [Community user groups](/service-manual/users/user-research/communityusergroups.html)
-* [Remote usability/summative testing](/service-manual/users/user-research/remoteusability.html)
-* [Online research panels](/service-manual/users/user-research/onlineresearchpanels.html)
-* [Online omnibus surveying](/service-manual/users/user-research/onlineomnibussurvey.html)
+* [Guerilla testing](/service-manual/users/user-research/guerilla-testing.html)
+* [Same day user testing](/service-manual/users/user-research/same-day-user-testing.html)
+* [Lab based user testing](/service-manual/users/user-research/lab-based-user-testing.html)
+* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focus-groups-mini-groups-interviews.html)
+* [Community user groups](/service-manual/users/user-research/community-user-groups.html)
+* [Remote usability/summative testing](/service-manual/users/user-research/remote-usability.html)
+* [Online research panels](/service-manual/users/user-research/online-research-panels.html)
+* [Online omnibus surveying](/service-manual/users/user-research/online-omnibus-survey.html)
 
 ## User research briefs
 
 As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results in a useful format.
 
-[Learn how to write user research briefs](/service-manual/users/user-research/userresearchbriefs.html)
+[Learn how to write user research briefs](/service-manual/users/user-research/user-research-briefs.html)

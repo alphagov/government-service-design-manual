@@ -10,9 +10,6 @@ css: /gsdm/css/phases.css
 phases:
   - discovery
 breadcrumbs:
-  -
-    title: Home
-    url: /service-manual
   - 
     title: Service design phases
     url: /service-manual/phases
@@ -21,9 +18,11 @@ breadcrumbs:
 {:.intro}
 The discovery phase is your chance to find out what the users of your service need, what the business requirements are and what technological or policy related constraints there might be.
 
-This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html). Typical outputs from this phase are a list of [user needs](/service-manual/users/user-needs.html), high level wireframes or prototypes and possibly user personas. It's a very short phase, probably taking no more than 4-8 weeks.
+The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html).
 
 ## Objectives
+
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=UVX1BT0oxWU">Watch Aleks Maricic, GDS Proposition Manager, describe the discovery phase.</a></figure>
 
 The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial prototypes will explore.
 
@@ -35,16 +34,18 @@ This information is found through:
 
 * workshops
 * simple mock ups
-* paper prototypes 
+* paper prototypes
 * plenty of whiteboard diagrams
 
 ## The team
 
 [A small team will be required](/service-manual/the-team), consisting of your stakeholders and any core team members that have been identified, including the [service manager](/service-manual/the-team/service-manager.html).
 
-## Timescales
 
-The phase should not take longer than 4-8 weeks. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
+# Timescales
+
+The phase should not take longer than 4-8 weeks. During the final week you should be setting up the broad scope of a  project and an initial backlog to deliver against. This is known as an 'inception'. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
+
 
 ## Outputs
 
@@ -62,3 +63,4 @@ You will leave the discovery phase with:
 
 {:.related-guides}
 ## Related guides and resources
+

@@ -49,7 +49,7 @@ For each of these criteria, you should identify which are fulfilled as part of t
 The privacy and security of data is of the utmost importance. Make sure your analytics solution and processes take the following into account:
 
 * do not collect and process any personal information (the terms and conditions of your analytics provider will probably expressly forbid you from doing this)
-* turn off any data sharing (some suppliers may collect data anonymously more internal benchmarking)
+* turn off any data sharing (some suppliers may collect data anonymously for internal benchmarking)
 * anonymise IP addresses that your analytics provider collects, by removing the last octet of the address
 * obtain and review your vendor’s privacy and security policy
 * you should own and be able to export analytics data (pay attention to terms and conditions for any free products)
