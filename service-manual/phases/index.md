@@ -15,7 +15,7 @@ status: draft
 <div class="phases-intro">
   <div class="inner">
 
-            <iframe width="420" height="260" src="https://www.youtube.com/embed/A60tNFPcBxE?rel=0" frameborder="0" allowfullscreen=""></iframe>
+      <figure class="media-player-wrapper video" width="420" height="260" ><a href="https://www.youtube.com/watch?v=_cyI7DMhgYc">Watch Richard Pope, GDS Product Manager, describe the different phases of service design.</a></figure>
 
       <p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases.</p>
 
