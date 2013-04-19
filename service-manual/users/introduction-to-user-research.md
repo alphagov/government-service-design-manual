@@ -21,6 +21,8 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=1hbnPCdM4ls">Watch Angela Collins-Rees, GDS User Research Specialist, describing the importance of user research.</a></figure>
+
 This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below. 
 
 User research can be categorised into two broad themes – product research, and strategic research. 
