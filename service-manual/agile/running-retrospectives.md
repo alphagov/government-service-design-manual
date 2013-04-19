@@ -88,7 +88,7 @@ Subsequent retrospectives should follow up on actions to make sure they have bee
 
 This is a possible template for a sample retrospective for a team of 8-10, covering a two-week sprint.
 
-Each of the activities is timeboxed, and it is up to the facilitator to make sure that this is adhered to. For this scope and number of people, 90 minutes is a reasonable length of time. It is advisable to build in about 10% "shuffle time" to move between activities to ensure it doesn't overrun.
+Each of the activities is timeboxed, and it is up to the facilitator to make sure that this is adhered to. For this scope and number of people, 90 minutes is a reasonable length of time. It is advisable to build in about 10% 'shuffle time' to move between activities to ensure it doesn't overrun.
 
 ### 00:00 to 00:05 (5 mins) Setting the scene
 

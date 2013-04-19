@@ -45,7 +45,7 @@ This will allow you to make sure you understand its specific characteristics, co
 When choosing technology make sure you consider the total cost, as well as any upfront fees. Try and take into consideration costs for things like staff, support or licensing costs (where applicable), the productivity of ongoing service improvement work, and any exit costs (especially around migration of data to a future replacement system) that might be caused by the use of non-open standard formats or protocol extensions. Ensure that you understand the cost implications of any unusually high user loads in production systems.
 
 ## Consider people
-Try and involve the whole team in technology choices. That doesn’t mean no-one owns the decision making but that you want the development team (including web ops people) to share their insights into the options available and how they will affect the overall system, and thereby get their “buy in” to the technology choices made. Technology preferences vary, and technology choice can divide opinion.
+Try and involve the whole team in technology choices. That doesn’t mean no-one owns the decision making but that you want the development team (including web ops people) to share their insights into the options available and how they will affect the overall system, and thereby get their 'buy in' to the technology choices made. Technology preferences vary, and technology choice can divide opinion.
 
 All things being equal, picking technologies that developers and operations staff like will typically result in improved productivity.
 
@@ -78,10 +78,10 @@ c) directly threaten our national security
 
 In practice, sharing usually means uploading the source code and documentation to a public source code repository, keeping it updated with subsequent changes that you make (or accept from other people), and putting in place [appropriate information security assurance to reduce and mitigate the risk of an exploit appearing in publicly-viewable software](/service-manual/making-software/information-security.html).
 
-> In some cases you might want to store the “master” version of your software on an internal source code control system and replicate the latest version to a public repository.
+> In some cases you might want to store the 'master' version of your software on an internal source code control system and replicate the latest version to a public repository.
 
 ## Reasons not to share software
-Sometimes it's not possible to share software that was developed for the government by a third party because the third party retains ownership of the "intellectual property" (IP) embodied in that software. Contracts that allow third parties to retain ownership of IP in software that's been developed for the government, and/or that restrict the government's ability to share this software under a permissive, GPL-compatible open source licence, should be avoided.
+Sometimes it's not possible to share software that was developed for the government by a third party because the third party retains ownership of the 'intellectual property' (IP) embodied in that software. Contracts that allow third parties to retain ownership of IP in software that's been developed for the government, and/or that restrict the government's ability to share this software under a permissive, GPL-compatible open source licence, should be avoided.
 
 On other occasions the team may take a risk-based decision not to share some of the software they have created, for instance to avoid exposing in public the details of a particular risk-assessment algorithm or process. It's good engineering practice in any case to encapsulate software, and so often in this situation a large portion of the software for a given system or service can still be shared in public.
 

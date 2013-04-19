@@ -19,7 +19,7 @@ breadcrumbs:
 
 Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on GOV.UK, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
 
-> Note: This document is written as a "standard," and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
+> Note: This document is written as a 'standard', and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 
 ## One entry point
 
@@ -33,7 +33,7 @@ The start page URL for a given service will be allocated by GDS based on discuss
 
 The transactional part of a service – the dynamically generated pages where users interact with the service – will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service.
 
-> Note: This does not apply to the set of interactive tools on GOV.UK known as “smart answers” which are developed and maintained by GDS in partnership with other government departments.
+> Note: This does not apply to the set of interactive tools on GOV.UK known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
 
 For all new digital government services going live from 1 April 2013 GDS will create a domain name of the form `servicename.service.gov.uk` (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
@@ -63,7 +63,7 @@ If the service is a private alpha or private beta release then it should be prot
 
 **Multiple environments**
 
-It is good practice to have multiple “environments” for the development, testing and live (aka production) versions of any service. The [development and testing environments](/service-manual/making-software/sandbox-and-staging-servers.html) allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
+It is good practice to have multiple 'environments' for the development, testing and live (aka production) versions of any service. The [development and testing environments](/service-manual/making-software/sandbox-and-staging-servers.html) allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
 
 Therefore, you MAY create other subdomains of `servicename.service.gov.uk` for use in testing and development, such as `www-preview.` and `www-dev.`. If there is a compelling reason to use a non `.gov.uk` domain for testing and/or development subdomains, that’s also acceptable.
 
@@ -117,7 +117,7 @@ If you have contracted with [CDN](https://en.wikipedia.org/wiki/Content_delivery
 
 Your suppliers will use these subdomains to address your `www`, `admin` and `assets` services.
 
-Detailed configuration advice for origin servers is outside of the scope of this document, but it is important to ensure that these "origin domains" only listen for traffic from trusted source such as
+Detailed configuration advice for origin servers is outside of the scope of this document, but it is important to ensure that these 'origin domains' only listen for traffic from trusted source such as
 
 - the DDOS protection provider’s servers
 - the locations where the service itself is being developed and/or managed
