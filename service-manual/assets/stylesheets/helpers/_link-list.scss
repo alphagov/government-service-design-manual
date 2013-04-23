@@ -44,6 +44,7 @@
       color: $secondary-text-colour;
       text-decoration: none;
       margin: 0;
+      width: 65%;
 
       @include media(desktop) {
         display: inline-block;

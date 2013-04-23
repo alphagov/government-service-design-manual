@@ -7,6 +7,8 @@ category: guidance
 subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
+phases:
+  - live
 breadcrumbs:
   -
     title: Home
@@ -16,6 +18,7 @@ breadcrumbs:
     url: /service-manual/phases
 ---
 
+{:.intro}
 You've been building a service to meet [users needs](/service-manual/users/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
 ## What does going 'live' mean?
@@ -42,24 +45,9 @@ You will repeat the whole process (discovery, alpha, beta and live) for smaller 
 
 You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
 
-## What are the outputs?
+**[Final phase: retirement](/service-manual/phases/retirement.html)**
 
+[Previous phase: beta](/service-manual/phases/beta.html)
 
-<!--
-<ul class="phase-activities">
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/website.png" />
-    Live service
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
-    User feedback
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/live-larger.png" />
-    Team size
-  </li>
-</ul>
--->
-
-[Previously: beta](/service-manual/phases/beta.html)
+{:.related-guides}
+## Related guides and resources
