@@ -44,16 +44,18 @@ If you need part of a team or a complete team, remember: you are buying skills t
 When you are considering an individual or company to work with, they should give you evidence of:
 
 * a proven track record of [Agile](https://www.gov.uk/service-manual/agile/index.html) delivery 
-* that they will use [continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html) methods
+* how they will use [continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html) methods
 * how they will share knowledge and provide coaching and mentoring to civil servants who are developing and/or will be responsible for the service
 * how they will deliver in an Agile way; possibly while working with departments who work in waterfall or PRINCE delivery method 
 * their commitment to work on-site with civil servants to share knowledge
-* how they will [‘bake in’](https://www.gov.uk/service-manual/agile/quality.html) quality to the process
+* how they will ‘bake in’ [quality](https://www.gov.uk/service-manual/agile/quality.html) to the process
 
 They should also be aware of the [departmental digital strategies](http://publications.cabinetoffice.gov.uk/digital/#departmental-strategies) and how they will need to work with them.
 
 GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. Later in 2013, you will be able to use the Digital Procurement Framework.
 
+##People, not process
+An underlying principle behind Agile development is that people are more important than process. It has been proven that great teams make great products whether they’re in government or business. 
 
 At GDS, we don’t call people ‘resources’, whether permanent or contract. You look after people, resources are things you use (and discard).
 
