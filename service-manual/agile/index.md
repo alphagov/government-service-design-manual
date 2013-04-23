@@ -22,7 +22,7 @@ breadcrumbs:
 Agile methodologies help teams build world-class, user-focused services quickly and affordably. It can be a very different way of working for teams used to long-specifications and procurement processes, but it's essential for delivering high-quality services to a standard that many users expect. Agile is not just for digital teams. Many different businesses use agile project management techniques.
 
 <figure class="media-player-wrapper video">
-	<a href="http://www.youtube.com/watch?v=0XpAtr24uUQ">Watch Roo Reynolds, GDS product manager, describe agile</a
+	<a href="https://www.youtube.com/watch?v=0XpAtr24uUQ">Watch Roo Reynolds, GDS product manager, describe agile</a
 	>
 </figure>
 
