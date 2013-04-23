@@ -16,7 +16,10 @@ breadcrumbs:
     url: /service-manual/phases
 ---
 
-Even the best services may eventually reach retirement. Changes in policy may mean that the service is no longer offered or new understanding may mean that those user needs are better provided through a different service. Whatever the reason, the retirement of digital services should be handled with the same degree of care as their creation, with a constant focus on user needs.
+{:.intro}
+Even the best services may eventually reach retirement. Changes in policy may mean that the service is no longer offered or new understanding may mean that those user needs are better provided through a different service.
+
+Whatever the reason, the retirement of digital services should be handled with the same degree of care as their creation, with a constant focus on user needs.
 
 ## What about the needs?
 
@@ -52,4 +55,4 @@ In running your service you will have accrued a large amount of data about the s
 
 Where data is being transferred to a new service owner, that should be done in accordance with your existing data protection policies, and communicated clearly to your users.
 
-[Previously: live](/service-manual/phases/live.html)
+[Previous phase: live](/service-manual/phases/live.html)

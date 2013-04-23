@@ -10,6 +10,9 @@ css: /gsdm/css/phases.css
 phases:
   - discovery
 breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
   - 
     title: Service design phases
     url: /service-manual/phases

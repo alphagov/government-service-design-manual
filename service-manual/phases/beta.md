@@ -18,6 +18,7 @@ breadcrumbs:
     url: /service-manual/phases
 ---
 
+{:.intro}
 You've tested your solutions to [user needs](/service-manual/users/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=s0l8HauO_PM">Watch Martyn Inglis, GDS technical architect, describe what happens during the beta phase.</a></figure>
@@ -50,35 +51,9 @@ You will have:
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
 * a working system that can be used, for real, by end users
 
+**[Next phase: live](/service-manual/phases/live.html)**
 
-<!--
-<ul class="phase-activities">
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/backlog.png" />
-    User story backlog
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/design-and-build.png" />
-    Design and build
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/prototype.png" />
-    Working service
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/presentation.png" />
-    Show and tell
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/discussion.png" />
-    Retrospective
-  </li>
-  <li>
-    <img class="output" src="/service-manual/assets/images/pictograms/beta-large.png" />
-    Team size
-  </li>
-</ul>
--->
+[Previous phase: alpha](/service-manual/phases/alpha.html)
 
-[Previously: alpha](/service-manual/phases/alpha.html)
-[Next: live](/service-manual/phases/live.html)
+{:.related-guides}
+## Related guides and resources
