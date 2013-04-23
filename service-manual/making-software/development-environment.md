@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-As software developers, the environments we use every day matter greatly. Below are a set of guidelines for development environments to enable the [exemplar projects][] (service transformations committed to in the Government Digital Strategy) to:
+As software developers, the environments we use every day matter greatly. Below are a set of guidelines for development environments to enable the [exemplar projects][] (service transformations committed to in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy)) to:
 
 * test software choices to prove they are valid
 * experiment quickly with new approaches
