@@ -112,12 +112,18 @@
     &.live:before {
       border-color: $live-colour;
     }
-    &.retirement,
-    &.retirement:before {
-      border-color: $retirement-colour;
-    }
     &.retirement{
-      //border-left-color: transparent;
+      border-left-color: transparent;
+      h3{
+        margin-top: -2.2em;
+      }
+    }
+    &.retirement:before {
+      border: 0.6em solid;
+      height: 1.2em;
+      border-radius: 1.2em;
+      margin: 0.5em -3.45em;
+      border-color: $retirement-colour;
     }
 
     p {
