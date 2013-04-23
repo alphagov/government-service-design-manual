@@ -73,7 +73,11 @@ And don’t forget, contractors can’t sign things.
 
 
 ##Working together
-Suppliers and permanent staff should create an environment where difficult questions can be asked and all ideas are listened to. All should work to do the right thing for the user, not just what they have been asked to do.
+Suppliers and permanent staff should sit together, work together and work through problems together. The team should create an environment where difficult questions can be asked and all ideas are listened to. All team members should work to do the right thing for the user, not just what they have been asked to do.
+
+Both suppliers and permanent staff should suggest ideas and work together to identify further skills gaps and solutions to create a better product.
+
+The individual's or company's intention should always be to disengage from the department, leaving the team to function on its own.
 
 
 ##Knowledge transfer
