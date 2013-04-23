@@ -18,6 +18,8 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=xEcsGlZn__w">Dafydd Vaughan, Developer at GDS, talks about what his work involves.</a></figure>
+
 Developers build software with a relentless focus on how it will be used. They continually improve the service by identifying new tools and techniques and removing technical bottlenecks
 
 Good digital services will require code to be written, adapted, maintained and supported. A team of skilled developers will be able to make sure that happens in an efficient and transparent way, and to help continually improve the service by identifying new tools and techniques and removing technical bottlenecks.
@@ -47,7 +49,7 @@ You would expect any developer to:
 
 * have deep skills in at least one programming language
 * be aware of the differences between a few languages and frameworks, and be pragmatic at picking the right one
-* understand the core concepts of the internet and web -- they should be able to give a good answer to the question "what happens when I click a link in a web browser"
+* understand the core concepts of the internet and web -- they should be able to give a good answer to the question 'what happens when I click a link in a web browser?'
 * be deeply committed to testing their work with automated tests and exploratory testing
 * be able to explain their work to people without particular technical skills
 

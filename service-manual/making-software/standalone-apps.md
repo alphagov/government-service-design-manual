@@ -31,7 +31,7 @@ Ensuring your service meets the [Digital by Default Service Standard](/service-m
 
 ## Brief background on apps landscape
 
-So-called “apps” come in several different flavours, therefore confusion is understandable. When people are talking about "apps", they can mean device-specific "download and install" apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or HTML5) or even various hybrids of the two.
+So-called 'apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or HTML5) or even various hybrids of the two.
 
 ### What is a native app?
 
@@ -82,7 +82,7 @@ If there is a market for native apps, why should the government monopolise it? T
 
 We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
-And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For “utility” needs, such as those met by government services, the mobile web is preferred to native apps
+And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For 'utility' needs, such as those met by government services, the mobile web is preferred to native apps
 
 ## Exceptions
 

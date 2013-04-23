@@ -31,7 +31,7 @@ processes that exist to help you build world class secure services.
 
 ## Introduction to information security
 
-The term "information security" refers to the theory and practice of defending
+The term information security refers to the theory and practice of defending
 data or information systems against unauthorized or unintended access,
 destruction, disruption or tampering. Security professionals frequently refer to
 three key concepts:
@@ -62,7 +62,7 @@ address one or more of these concerns through:
   systems, secure protocols
 
 Not every system requires a full battery of security controls. Indeed,
-"completely secure systems" do not exist, and overly secure systems are often
+'completely secure systems' do not exist, and overly secure systems are often
 prohibitively expensive or thoroughly inconvenient for their users. You should
 aim to build services that are *appropriately secure*, and in practice you will
 be guided by an assessment of the risks associated with a lapse in
@@ -132,7 +132,7 @@ above groups.
 
 ## Business Impact Levels
 
-Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three "key concepts" mentioned above, and measure:
+Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three key concepts mentioned above, and measure:
 
 * For confidentiality: the potential impact if the information is seen by those who should not see it
 * For integrity: the potential impact if the accuracy or completeness of the information is compromised

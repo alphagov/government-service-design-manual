@@ -25,20 +25,24 @@ breadcrumbs:
     
 The abundance of free survey tools makes it cheap and easy for user research teams to produce their own surveys. However, thought still needs to be given to the survey design, understanding the goal(s) of the survey , and how the results will be used.
 
-##Guidance
+## What to consider when creating a survey
  
-In order to increase the effectiveness of the survey it is important to include an introduction that explains the purpose of the survey to potential respondents, and also provide some reasons that will make them want to take part eg the results will be published, their feedback will help improve the website etc. As it’s unlikely that it will be possible to include monetary incentives, it’s important the introduction is worded in a manner that increases the likelihood that people will want to take part. It is also recommended that people are informed of how long the survey will take to complete as this will reduce drop out rate (people who start the survey but don’t finish).
+In order to increase the effectiveness of the survey, it is important to include an introduction that explains the purpose of the survey to potential respondents. Make it clear what the survey will be used for, and how it will help improve the service.
+
+As it’s unlikely that it will be possible to include monetary incentives, it’s important the introduction is worded in a manner that increases the likelihood that people will want to take part. It is also recommended that people are informed of how long the survey will take to complete as this will reduce drop out rate (people who start the survey but don’t finish).
  
-**Questions**
+### Questions
  
-Screener questions should be placed at the beginning of surveys to ensure that the correct people take the survey eg demographic information, reason for visiting etc. Quotas may also be set so that you can control the number of people taking the survey that fall into a specific demographic group or audience type. A typical user survey will be structured in the following manner:
+Screener questions should be placed at the beginning of surveys to ensure that the correct people take the survey eg demographic information, reason for visiting etc. Quotas may also be set so that you can control the number of people taking the survey that fall into a specific demographic group or audience type. 
+
+A typical user survey will be structured in the following manner:
  
-* Introduction – purpose of the survey, why it’s important that people take part.
-* Screener questions – questions that ensure the correct people complete the survey eg demographic, reasons for visiting
-* KPI questions – [questions that benchmark performance](https://www.gov.uk/service-manual/measurement/index.html) eg satisfaction, recommendation.
-* Follow up demographic questions – additional respondent information eg working/not working, salary, location etc
+* introduction – purpose of the survey, why it’s important that people take part.
+* screener questions
+* KPI questions – [questions that benchmark performance](https://www.gov.uk/service-manual/measurement/index.html)
+* follow up demographic questions – additional respondent information eg working/not working, salary, location etc
  
-**Common survey question types**
+### Common survey question types
  
 Surveys are normally composed of the following types of questions:
  
@@ -73,7 +77,6 @@ Q. You rated 'ease of using the site' as fair or poor. Please tell us why you ga
  
 Q. The site was easy to use
  
- 
 *  Strongly agree
 *  Agree
 *  Neither agree nor disagree
@@ -85,10 +88,10 @@ Once you have decided on the questions that you want to be included, it is neces
  
 It is recommended that all surveys are tested thoroughly to ensure the correct data data is collected.
 
-##GDS Example 
+## GDS Example 
 
 [GOV.UK Survey](/service-manual/assets/documents/GOVUK-Survey.pdf) (PDF, 213KB)
 
-##Further reading
+## Further reading
 
 [University of Leeds - Guide to design of questionnaires](http://iss.leeds.ac.uk/info/312/surveys/217/guide_to_the_design_of_questionnaires)

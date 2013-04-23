@@ -49,13 +49,13 @@ This might seem like an obvious one, but teams working together to deliver a pro
 
 When working on the design, development and operation of a service it's essential that your team be able to be in constant contact with one another to make rapid decisions, provide support and information and to ensure everyone's aware of the project as a whole.
 
-Some of that will be achieved through regular short meetings such as a daily standup or weekly "show and tell" session, but there's also a need for an asynchronous mechanism that's more immediate and conversational than email but that allows people to dip in and out.
+Some of that will be achieved through regular short meetings such as a daily standup or weekly 'show and tell' session, but there's also a need for an asynchronous mechanism that's more immediate and conversational than email but that allows people to dip in and out.
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat) (IRC) – and similar tools such as group messengers, [Campfire](http://campfirenow.com/), and so on – operate as software running on the user's computer as a dedicated application or in a web browser, supporting a constant stream of live conversation. Typically, a user would leave the service running in the background while working on other things, switching focus when a break is needed or when you need to ask a specific question. Questions might be along the lines of:
 
->* "Has anyone else encountered this bug in our search component?"
->* "Is anyone else working on the main dashboard template?"
->* "Does anyone know how to configure this server to support more connections?"
+>* 'Has anyone else encountered this bug in our search component?'
+>* 'Is anyone else working on the main dashboard template?'
+>* 'Does anyone know how to configure this server to support more connections?'
 
 Anyone on the team would be able to respond with information, suggestions of other people to talk to, and so on. Because it is network based it will also work regardless of geography so distributed teams can continue to communicate as if they were in one room.
 

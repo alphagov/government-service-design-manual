@@ -163,7 +163,7 @@ You might occasionally need to arrange form controls in a row, for instance if t
 You may want to pre-check radios if:
 
 * we already know the answer because it was given previously
-* there is a good business reason to steer users towards a particular answer, for instance “Contact me by email” may be preferable to “Contact me by phone” to help manage callcentre workload
+* there is a good business reason to steer users towards a particular answer, for instance 'Contact me by email' may be preferable to 'Contact me by phone' to help manage callcentre workload
 * there is a strong ‘common case’ bias towards a particular answer
 
 Do not pre-check radios if:

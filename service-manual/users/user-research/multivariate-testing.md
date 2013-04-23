@@ -23,13 +23,13 @@ breadcrumbs:
     url: /service-manual/users/user-research
 ---
 
-#A/B and multivariate experiments
-We interviewed Craig Sullivan, an industry guru on conversion optimization. He explains when he uses A/B and multivariate experiments in the design process.
+We interviewed Craig Sullivan, an industry expert on conversion optimization. He explains when he uses A/B and multivariate experiments in the design process.
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=mS0RKEUPnLA">Watch Craig Sullivan explain A/B and multivariate testing</a>
 </figure>
 
-##Further reading
+## Further reading
+
 * This [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1) shows how A/B experiments were used to good effect in Obama’s election campaign.
 * This [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing) shows how multivariate experiments were used to improve conversion rates at Lovefilm.
