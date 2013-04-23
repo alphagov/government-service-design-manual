@@ -51,7 +51,7 @@ module Jekyll
       copy_of_page = page.dup
       copy_of_page.render({}, site.site_payload)
       doc = Nokogiri::HTML(copy_of_page.output)
-      doc.search('p').map { |e| e.text}
+      doc.search('h1,h2,h3,h4,h5,li,blockquote,p').map { |e| e.text }
     end
 
     def page_should_be_excluded?(page)
