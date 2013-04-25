@@ -36,7 +36,7 @@ module Jekyll
         {
           "title"             => item.data['title'] || item.name ,
           "indexable_content" => page_paragraphs.join(" ").gsub("\r"," ").gsub("\n"," "),
-          "description"       => page_paragraphs.first,
+          "description"       => extract_summary(site, item),
           "link"              => item.absolute_url
         }
       end
@@ -48,10 +48,13 @@ module Jekyll
     protected
     # render the items, parse the output and get all text inside <p> elements
     def extract_text(site, page)
-      copy_of_page = page.dup
-      copy_of_page.render({}, site.site_payload)
-      doc = Nokogiri::HTML(copy_of_page.output)
+      doc = page_as_doc(site, page)
       doc.search('h1,h2,h3,h4,h5,li,blockquote,p').map { |e| e.text }
+    end
+
+    def extract_summary(site, page)
+      doc = page_as_doc(site, page)
+      doc.search('p').map { |e| e.text }.first
     end
 
     def page_should_be_excluded?(page)
@@ -70,6 +73,14 @@ module Jekyll
       File.open(".search-index.json", 'w') do |f|
         f.puts index.to_json
       end
+    end
+
+    private
+
+    def page_as_doc(site, page)
+      copy_of_page = page.dup
+      copy_of_page.render({}, site.site_payload)
+      Nokogiri::HTML(copy_of_page.output)
     end
   end
 end
