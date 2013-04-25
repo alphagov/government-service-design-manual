@@ -20,13 +20,13 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-Cost per transaction is a measure of the total cost to the government of providing each completed transaction.
-
-## Why measure cost per transaction
-
 Cost per transaction is an important measure of a service’s efficiency. As services become more efficient, the cost per transaction will fall.
 
-The difference in the transaction costs through each available channel can also be a useful measure. Understanding cost per transaction for each channel will help you to accurately forecast savings and build a strong business case for channel shift.
+## What you will be measuring
+
+Cost per transaction is a measure of the total cost to the government of providing each completed transaction.
+
+You will also want to measure the difference in the cost of the transaction through each available channel. Understanding these costs will help you to accurately forecast savings and build a strong business case for making services digital by default.
 
 ## How to measure cost per transaction
 
@@ -36,7 +36,7 @@ The total cost includes all fixed and variable costs of the transaction through 
 
 Where resources (eg call centres) are shared with other services, costs should be apportioned. For example, if half of all calls received relate to a specific service, then 50% of the call centre costs should be apportioned to that service.
 
-## Cost per digital transaction
+### Cost per digital transaction
 
 The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](/service-manual/assisted-digital) transactions.
 
@@ -76,15 +76,15 @@ The following should be excluded:
 
 Having agreed a goal for your digital take-up, the following formula will provide a starting point for discussions with GDS on your overall cost per transaction.
 
-* goal for cost per transaction (CPT)
+* goal for cost per transaction (Target)
 * current overall cost per transaction (A)
 * current digital cost per transaction (B)
 * current digital take-up (X)
 * digital take-up goal (Y)
 
-> CPT=A+((B-A)/(1-X))*(Y-X)
+> Target=A+((B-A)/(1-X))*(Y-X)
 
-eg if the current average CPT is £2 and digital CPT is 50p, and if current digital take-up is 40% and the target is 80%, the target for average CPT would be £1.
+eg if the current average cost per transaction is £2 and digital cost per transaction is 50p, and if current digital take-up is 40% and the target is 80%, the target for average cost per transaction would be £1.
 
 GDS can calculate this for you based on current figures.
 
