@@ -83,17 +83,17 @@ Offline parts of the process can still be measured but this is likely to be done
 In order to successfully measure your service completion rate, we recommend that:
 
 * during the discovery phase you
-** ensure all transaction pages have unique URLs
-** develop a plan to measure completion rate throughout product development
-** assess the available analytics tools
+  * ensure all transaction pages have unique URLs
+  * develop a plan to measure completion rate throughout product development
+  * assess the available analytics tools
 * in your alpha you
-** benchmark task completion rate via usability testing and establish reasons for failed transactions
-** procure digital analytics tool
+  * benchmark task completion rate via usability testing and establish reasons for failed transactions
+  * procure digital analytics tool
 * during your beta you
-** conduct another round of usability testing to ensure that task completion rates improve
+  * conduct another round of usability testing to ensure that task completion rates improve
 * when a service is live you
-** analyse task completion rate to continually improve the service
-** carry out further usability testing to continually identify any usability problems and feed into service design
+  * analyse task completion rate to continually improve the service
+  * carry out further usability testing to continually identify any usability problems and feed into service design
 
 ### How frequently should I measure task completion rate?
 
