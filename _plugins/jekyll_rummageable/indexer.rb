@@ -8,7 +8,7 @@ module Jekyll
 
     def initialize(config = {})
       super(config)
-                  
+
       @excludes = config['exclude_from_search'] || []
     end
 
@@ -17,7 +17,7 @@ module Jekyll
     # indexing with rummager.
     def generate(site)
       puts 'Indexing pages...'
-    
+
       # gather pages and posts
       items = site.pages + site.posts
 
@@ -41,7 +41,7 @@ module Jekyll
         }
       end
       puts 'Indexing done, writing index to file'
-      # write_index_to_file(site, index)
+      write_index_to_file(site, index)
       puts 'Index written to file'
     end
 
@@ -71,5 +71,5 @@ module Jekyll
         f.puts index.to_json
       end
     end
-  end 
+  end
 end
