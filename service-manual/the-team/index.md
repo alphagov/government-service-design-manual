@@ -66,7 +66,7 @@ The team will also have a shared understanding of the [accessibility needs](/ser
 
 ### Working with delivery teams outside of government
 
-If some elements are going to be delivered by 3rd parties (eg software, hosting or operational support) then it will be important to have 'intelligent buyers' in the team. These people will know how to go about [selecting](/service-manual/the-team/transformation-partner.html) and [procuring specialists, and what to do to make sure their onboarding is as smooth as possible](/service-manual/the-team/working-with-specialists.html).
+If some elements are going to be delivered by 3rd parties (eg software, hosting or operational support) then it will be important to have 'intelligent buyers' in the team. These people will know how to go about [selecting and procuring specialists](/service-manual/the-team/working-with-specialists.html), and what to do to make sure their introduction to the team is as smooth as possible.
 
 ## Your working environment
 
