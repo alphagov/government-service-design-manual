@@ -20,23 +20,23 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
-
-* Overall, how satisfied were you with this [eg car tax] service today?
-
-	* Very satisfied
-	* Satisfied
-	* Neither satisfied or dissatisfied
-	* Dissatisfied
-	* Very dissatisfied
-
-## Why measure user satisfaction?
-
 A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Satisfaction provides a qualitative measure of how satisfying the experience is.
 
 Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
 
 Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
+
+## What you will be measuring
+
+Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
+
+Q: Overall, how satisfied were you with this [eg car tax] service today?
+
+  * Very satisfied
+	* Satisfied
+	* Neither satisfied or dissatisfied
+	* Dissatisfied
+	* Very dissatisfied
 
 ## How to measure user satisfaction
 
