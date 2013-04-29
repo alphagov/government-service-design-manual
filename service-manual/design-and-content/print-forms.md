@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require a 'wet signature' or multiple signature to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital.html) support.
+Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital.html) support.
 
 For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you will want to bear in mind.
 
@@ -56,7 +56,7 @@ In the Lasting Power of Attorney application forms, this meant
 * explaining most terms and differences inline
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
-[Templates like the one below]() (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specilist terms and langauge accessible to the majority of users.
+[Templates]() (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specilist terms and langauge accessible to the majority of users.
 
 Where specilist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
 
@@ -66,3 +66,7 @@ Skilled content designers and copywriters will make forms – whether online or 
 They complement the digital transaction, and should be easy to process by staff working to support the digital service.
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
+
+## Further reading
+
+* [Template for forms (based on the Lasting Power of Attorney transaction)]()
