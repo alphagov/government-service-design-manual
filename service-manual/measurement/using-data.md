@@ -20,20 +20,23 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-This guide was developed by GDS to help you move from identifying and measuring KPIs, through to presenting and acting on the data.
-
-The guide follows a seven stage iterative process:
+Simply collecting information about how a service is running isn't enough to make judgements about how to improve it. A process of continual iteration accompanying close measurement will help you to see what needs improvement and how to investigate ways of improving a service.
 
 ![Diagram showing seven stage iterative process](/service-manual/assets/images/kpis/monitor.png)
+
+##Understand user needs/decide what to measure
+The core KPIs ([cost per transaction](/service-manual/measurement/cost-per-transaction.html), [user satisfaction](/service-manual/measurement/user-satisfaction.html), [completion rate](/service-manual/measurement/completion-rate.html) and [digital take-up](/service-manual/measurement/digital-takeup.html)) established in the [service standard](/service-manual/digital-by-default/index.html), and any [other KPIs](/service-manual/measurement/other-kpis.html) you choose to measure must accurately reflect the needs of your users and stakeholders. 
+
+This will allow you to measure a service's ability to meet those needs.
+
+##Install and configure platforms
+While building your service you should make sure that appropriate analytics tools are being used to monitor the service, collecting the data neccessary to produce accurate and timely measurements.
+
+Guidance for [choosing and installing these packages is available within the manual](/service-manual/making-software/analytics-tools.html).
 
 ##Establish a baseline
 
 Establish a 'baseline' based on current performance trends by channel, against which changes to the service will be judged. This will help you pinpoint the effectiveness of your initiatives, and identify what worked.
-
-###Checklist
-1. Have you measured your current performance?
-2. Have you compared your performance with similar types of service (e.g. by transaction category)?
-3. Do you know who your users are in terms of age, disability, socio-economic group and internet usage?
 
 It is good practice to look at performance trends over time, rather than take a snapshot at a particular point in time. Peaks and dips in performance are then measured relative to this base (or trend) line which helps to identify the effect of communications or design initiatives. It also reveals seasonal variations in performance.
 
@@ -41,27 +44,13 @@ It is good practice to look at performance trends over time, rather than take a 
 
 Collect and aggregate performance information from multiple sources and across multiple channels. Make sure you understand what this will mean in terms of system requirements.
 
-###Checklist
-
-1. Have you collected data on costs, usage and performance?
-2. Have you collected performance data from digital and non-digital channels?
-3. Do you know how many people use the service, by channel?
-4. Have you aggregated performance data to enable it to be easily combined?
-
 Combining data often reveals useful insights, for example into service efficiency (eg cost per transaction and total cost to serve) or proportional usage by channel (eg percentage digital uptake vs post, phone etc).
 
 ##Analyse and visualise data
 
 Communicate performance information to your users through the appropriate dashboards, reports and alerts. Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, actionable and contain minimal amounts of [chart junk](http://en.wikipedia.org/wiki/Chartjunk).
 
-###Checklist
-
-1. Have you done any segmentation (i.e. analysed performance data by segment)?
-2. Have you designed the appropriate dashboards, reports and alerts?
-3. Are your data visualisations visible to their intended audience?
-4. Have you followed best practice design principles for data visualisation?
-
-###Typical segments include:
+Typical segments include:
 
 - **Channel used to access service:** through which channel(s) did the user find out about and attempt to use the service?
 - **New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?
@@ -81,33 +70,17 @@ Best practices include:
 - **not using pie charts:** they require more space and are harder to read than bar charts
 - **using text where a chart adds nothing.**
 
-###Example
-
-**Developer dashboards**
-
-On GOV.UK dashboards keep our developers and editors up to date with the latest status reports and highlight any critical problems. They are displayed on large screens close to developers’ desks so that they can be easily monitored. This means that bugs can be spotted quickly and fixed.
-Read this [blog article](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/) to find out how these dashboards were developed.
-
 ##Monitor, iterate, and improve
 
 Test a range of performance improvement initiatives and monitor to see which work well. These can be piloted on a subset of your users to minimise risk. Implement the best performing solutions widely and then repeat this process relentlessly: what you measure will change over the course of a product or project's lifetime.
 
-###Checklist
+Any service that meets user needs will include an element of user feedback. This should be monitored and acted upon so as to continually improve the service for users. A range of options are available for improving the overall performance of a service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
 
-1. Are you monitoring and acting upon user feedback?
-2. Have you done any  [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) or [multivariate testing?](http://en.wikipedia.org/wiki/Multivariate_testing)
-3. Have you taken an iterative approach to developing your service?
+* **Price:** can the price be changed, for example to attract people to the digital channel?
+* **Product:** can the user experience be improved (eg from user feedback, user testing, A/B testing, multivariate testing)?
+* **Placement:** can the digital service URL be placed on printed materials and voice recordings?
+* **Promotion:** can greater use of email and social media be used to promote repeated use of the digital service?
 
-Any service that meets user needs will include an element of user feedback. This should be monitored and acted upon so as to continually improve the service for users.
-A range of options are available for improving the overall performance of a service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
-
-**Price:** can the price be changed, for example to attract people to the digital channel?
-
-**Product:** can the user experience be improved (eg from user feedback, user testing, A/B testing, multivariate testing)?
-
-**Placement:** can the digital service URL be placed on printed materials and voice recordings?
-
-**Promotion:** can greater use of email and social media be used to promote repeated use of the digital service?
 Taking an iterative approach to service development increases the pace of improvement and minimises the risk of failure. Don’t wait until the end to do this, it should happen continuously throughout the process.
 
 ##Further reading
