@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-A good service enables users to complete tasks successfully. A great service is also enjoyable to use. Satisfaction provides a qualitative measure of how satisfying the experience is.
+A good service enables users to complete tasks successfully. Satisfaction provides a qualitative measure of how satisfying the experience is.
 
 Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
 
@@ -54,27 +54,19 @@ Although this survey will not be contribute to the overall measure of user satis
 
 ## When to measure user satisfaction
 
-In order to successfully measure the user satisfaction of your service we recommend you follow the guidance below:
+In order to successfully measure the user satisfaction of your service we recommend that:
 
-Discovery
-
-* benchmark the existing service for future comparison
-* develop a plan to measure user satisfaction throughout product development
-
-Alpha
-
-* benchmark user satisfaction via remote usability testing and/or a satisfaction survey
-
-Beta
-
-* measure user satisfaction via remote usability testing and/or satisfaction survey
-* identify why people are dissatisfied or not completing transactions and take steps to improve
-
-Live
-
-* measure user satisfaction continually and monitor results on at least a monthly basis
-* carry out a more comprehensive user demographics, usage and attitudes survey every six months
-
+* during the discovery phase you
+  * benchmark the existing service for future comparison
+  * develop a plan to measure user satisfaction throughout product development
+* in your alpha you
+  * benchmark user satisfaction via remote usability testing and/or a satisfaction survey
+* during your beta you
+  * measure user satisfaction via remote usability testing and/or satisfaction survey
+  * identify why people are dissatisfied or not completing transactions and take steps to improve
+* when a service is live you
+  * measure user satisfaction continually and monitor results on at least a monthly basis
+  * carry out a more comprehensive user demographics, usage and attitudes survey every six months
 
 ## What about post launch?
 
