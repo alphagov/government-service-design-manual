@@ -1,4 +1,3 @@
-
 [VIDEO GOES HERE]
 
 Content designers make sure that the content on the site meets the needs of the user as clearly and quickly as possible.
