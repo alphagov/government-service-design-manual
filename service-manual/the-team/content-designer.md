@@ -1,7 +1,8 @@
 [VIDEO GOES HERE]
 
-Content designers make sure that the content on the site meets the needs of the user as clearly and quickly as possible.
-The importance of content designers
+Content designers make sure that the content on the site meets the needs of the user as clearly, simply and quickly as possible.
+
+##The importance of content designers
 You can add up, but it doesn’t mean you’re an accountant. You can write, but it doesn’t mean you’re a content designer.
 
 For many reasons, in the past the government has often published content that’s difficult to understand and difficult to act on. 
@@ -36,5 +37,4 @@ Content designers must be able to:
 Read [guidance in the manual of particular interest to content designers](https://www.gov.uk/service-manual/content-designers).
 
 ##Job description
-[Content designer template]
-- THIS NEEDS TO BE CODED UP: https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1WxXw65_ZN9B3WyeBpxnhqM4QsXBu7VBkTKhaQkWnfsY/edit
+[Content designer template](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1WxXw65_ZN9B3WyeBpxnhqM4QsXBu7VBkTKhaQkWnfsY/edit) (THIS NEEDS TO BE CODED UP)
