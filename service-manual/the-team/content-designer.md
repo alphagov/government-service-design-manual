@@ -37,4 +37,4 @@ Content designers must be able to:
 Read [guidance in the manual of particular interest to content designers](https://www.gov.uk/service-manual/content-designers).
 
 ##Job description
-[Content designer template](https://docs.google.com/a/digital.cabinet-office.gov.uk/document/d/1WxXw65_ZN9B3WyeBpxnhqM4QsXBu7VBkTKhaQkWnfsY/edit) (THIS NEEDS TO BE CODED UP)
+[Content designer template](/content-designer-jd.md) (THIS ISN'T THE CORRECT LINK - NEEDS SWAPPING OUT)
