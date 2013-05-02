@@ -72,22 +72,6 @@ The following should be excluded:
 * replacement costs of items notionally insured
 * start up costs (those which can be capitalised in the accounts)
 
-## How to calculate your cost per transaction target
-
-Having agreed a goal for your digital take-up, the following formula will provide a starting point for discussions with GDS on your overall cost per transaction.
-
-* goal for cost per transaction (Target)
-* current overall cost per transaction (A)
-* current digital cost per transaction (B)
-* current digital take-up (X)
-* digital take-up goal (Y)
-
-> Target=A+(((B-A)/(1-X))*(Y-X))
-
-For example, if the current average cost per transaction is £2 and digital cost per transaction is 50p, and if current digital take-up is 40% and the target is 80%, the target for average cost per transaction would be £1.
-
-GDS can calculate this for you based on current figures.
-
 ## How frequently should I measure cost per transaction?
 
 Cost per transaction is measured on a quarterly basis. It should cover the last twelve months to eliminate seasonal fluctuations.
