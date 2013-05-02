@@ -38,7 +38,7 @@ This portion of your planning will also be informed by or will itself drive deci
 
 You’ll also want to have at least some idea of the average handling time (AHT) and variance for each type of contact. 
 
-If you’re building off of deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
+If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
 
 ## Service Level: How quickly must we respond to user contacts?
 
