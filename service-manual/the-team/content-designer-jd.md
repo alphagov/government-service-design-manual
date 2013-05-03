@@ -7,7 +7,7 @@ You'll be responsible for identifying and matching user needs to appropriate con
 
 The main responsibilities of the post are:
 
-- identifying user needs using a range of tools and producing high-quality products to satisfy prioritised tasks.
+- identifying user needs using a range of tools and producing high-quality products to satisfy prioritised tasks
 
 - content production -  scoping, commissioning, writing, editing and publishing digital content across GOV.UK, assuring customer journeys and managing relationships with subject matter experts to ensure content accuracy
 
