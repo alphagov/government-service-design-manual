@@ -20,13 +20,13 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
+Digital take-up is a long term strategic measure of how well digital by default service is working. You will monitor this on a monthly basis to track that it is on course with the desired performance trajectory.
+
+## What you will be measuring
+
 Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/service-manual/assisted-digital/index.html) users.
 
 A digital transaction is one where the primary interaction between the user and the service has been through a digital user interface. Where it is possible to complete only part of a transaction online,  such transactions should still be classified as digital.
-
-## Why measure digital take-up?
-
-Digital take-up is a long term strategic measure of how well digital by default service is working. You will monitor this on a monthly basis to track that it is on course with the desired performance trajectory.
 
 ## How do I measure digital take up?
 
