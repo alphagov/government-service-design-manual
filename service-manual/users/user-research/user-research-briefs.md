@@ -55,4 +55,4 @@ A brief should contain the following information:
 
 ## See also
 
-[Working with consultants and specialists](/service-manual/the-team/working-with-specialists.html)
+[Working with specialist suppliers](/service-manual/the-team/working-with-specialists.html)
