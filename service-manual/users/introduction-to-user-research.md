@@ -56,13 +56,16 @@ Typically this will involve some initial fact finding in the early stages to und
 | Card Sorting | | 1:1 interviews | |
 | User surveys | | | |
 
-Please note that each service/product will have a different proportion of users who are not online and this will need to be considered when formulating an appropriate research approach. The services/product will need to consider the digital skills of their users to understand which users who currently don’t use digital channels: 
+## Assited digital research
+Each service/product will have a different proportion of users who are not online and this will need to be considered when formulating an appropriate research approach for [assisted digital](/service-manual/assisted-digital.html) users.
 
-can’t ever use the digital service independently and will always need assisted digital support
-could use the digital service independently but will require initial assisted digital support to build their confidence in using the service 
-should use the digital service (ie. have the digital skills but currently use other channels) and don’t need assisted digital support
+The services/product will need to consider the digital skills of their users to understand which users who currently don’t use digital channels: 
 
-Some services (e.g. where users are large corporations) will not require assisted digital. The Digital Landscape Research contains a demographic breakdown of who is offline and online and service teams and these techniques may be useful for doing user research.
+* can’t ever use the digital service independently and will always need assisted digital support
+* could use the digital service independently but will require initial assisted digital support to build their confidence in using the service 
+* should use the digital service (ie. have the digital skills but currently use other channels) and don’t need assisted digital support
+
+Some services (e.g. where users are large corporations) will not require assisted digital. The [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) contains a demographic breakdown of who is offline and online and service teams and these techniques may be useful for doing user research.
 
 ## Research methods
 
