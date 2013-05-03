@@ -92,10 +92,6 @@ Communicating and marketing:
 - proposing ways in which communication and marketing can add creative and innovative impact 
 - establishing systems and processes which enable effective information sharing 
 
-Specialist skills
-
-Accredited web editor within a government department
-
 
 
 
