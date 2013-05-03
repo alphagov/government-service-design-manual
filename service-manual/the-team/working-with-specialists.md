@@ -32,8 +32,9 @@ GDS can help you hire some roles. We have job descriptions for:
 * [designers](https://www.gov.uk/service-manual/the-team/designer.html)
 * [developers](https://www.gov.uk/service-manual/the-team/developer.html)
 * [web ops](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [content designer](/service-manual/the-team/content-designer.html)
 
-Other descriptions, eg content designers, will be published soon.
+Other descriptions will be made available. Please [contact the team](/service-manual/feedback.html) if you have particular descriptions in mind. 
 
 GDS can give you some advice on certain candidates or interviews and setting contracts. 
 
