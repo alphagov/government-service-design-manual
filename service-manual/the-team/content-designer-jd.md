@@ -1,5 +1,21 @@
-##Post title 
-Content designer 				
+---
+layout: detailed-guidance
+title: Content designer job description
+category: the-team
+audience:
+  primary:
+status: draft
+phases:
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: The team
+    url: /service-manual/the-team
+---
+
+*NOTE: the following template was used to advertise a content designer vacancy at GDS*				
 	
 ##Job description
 
@@ -7,27 +23,19 @@ You'll be responsible for identifying and matching user needs to appropriate con
 
 The main responsibilities of the post are:
 
-- identifying user needs using a range of tools and producing high-quality products to satisfy prioritised tasks
-
-- content production -  scoping, commissioning, writing, editing and publishing digital content across GOV.UK, assuring customer journeys and managing relationships with subject matter experts to ensure content accuracy
-
-- being accountable for the delivery of content assets that are accurate, timely, high-quality (based on insight and outputs of user testing, relevant to audience, easily understood, SEO optimised) and consistent with the government’s Global Experience Language
-
-- being accountable for, choosing the optimum format for displaying information to the user and presenting ideas to product managers
-
-- being accountable for ensuring appropriate policy and legal checking within other parts of government, and timely publishing of content assets
-
-- monitoring the performance of content and tools and work with the product manager and a multi-disciplinary team to understand user behaviours and feedback, identifying ways to improve the effectiveness of content and to iteratively improve the product
-
-- working with the product manager and other parts of government to proactively identify forthcoming changes in government policy and reactively respond to external events that will require changes in the content
-
-- making timely and confident decisions to continually improve the performance of the product, and swiftly select the correct editorial option under stressful or emergency conditions
-
-- being active in the development and application of content and format strategies and be an evangelist with GDS and other parts of government
-
-- enabling central publishing activities as required, participation in the emergency publishing rota and other ad hoc activities
-
-
+* identifying user needs using a range of tools and producing high-quality products to satisfy prioritised tasks
+* content production
+    * scoping, commissioning, writing, editing and publishing digital content across GOV.UK
+    * assuring customer journeys through GOV.UK
+    * managing relationships with subject matter experts to ensure content accuracy
+* being accountable for the delivery of content assets that are accurate, timely, high-quality (based on insight and outputs of user testing, relevant to audience, easily understood, SEO optimised) and consistent with the [style guide](/designprinciples/styleguide)
+* being accountable for, choosing the optimum format for displaying information to the user and presenting ideas to product managers
+* being accountable for ensuring appropriate policy and legal checking within other parts of government, and timely publishing of content assets
+* monitoring the performance of content and tools and work with the product manager and a multi-disciplinary team to understand user behaviours and feedback, identifying ways to improve the effectiveness of content and to iteratively improve the product
+* working with the product manager and other parts of government to proactively identify forthcoming changes in government policy and reactively respond to external events that will require changes in the content
+* making timely and confident decisions to continually improve the performance of the product, and swiftly select the correct editorial option under stressful or emergency conditions
+* being active in the development and application of content and format strategies and be an evangelist with GDS and other parts of government
+* enabling central publishing activities as required, participation in the emergency publishing rota and other ad hoc activities
 
 ##Competencies/skills required
 
@@ -90,8 +98,4 @@ Communicating and marketing:
 
 - working with experts to ensure that diverse audiences can easily understand complex information 
 - proposing ways in which communication and marketing can add creative and innovative impact 
-- establishing systems and processes which enable effective information sharing 
-
-
-
-
+- establishing systems and processes which enable effective information sharing
