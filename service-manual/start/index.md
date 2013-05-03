@@ -11,7 +11,14 @@ breadcrumbs:
     url: /service-manual
 ---
 
-The [Government Digital Strategy](/digitalstrategy) set an ambitious target for teams building government services: make them so good that people prefer to use them.
+The service manual is here to help service managers and digital delivery teams across government make services so good that people prefer to use them. It's made up of two things;
+
+* the [Digital by Default Service Standard](/service-manual/digital-by-default), a list of criteria that services and teams must meet before they go live
+* the [Government Service Design Manual](/service-manual), a pool of guidance and advice about how to design and build digital services from teams across government
+
+<figure class="media-player-wrapper video">
+	<a href="https://www.youtube.com/watch?v=RS3krZ1paB4">Watch our video about the Digital by Default Service Standard</a>
+</figure>
 
 ## Putting users first
 
@@ -27,7 +34,7 @@ Typically, government services are built after long, costly procurement processe
 
 In this way of working, users are seldom – if ever – consulted about the service they'll be using. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
 
-This way of working tends to encourage the creation of overly prescriptive policy, which tends to form the basis of the requirements document. Instead, teams need to constantly iterate against user feedback.
+This way of working tends to encourage the creation of overly prescriptive policy, which then forms the basis of the requirements document. Instead, teams need to constantly iterate against user feedback.
 
 <img src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
@@ -55,8 +62,8 @@ SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK Governmen
   <a href="https://www.youtube.com/watch?v=X1A8cg__LpM">Watch Stephen Kelly at SPRINT13</a>
 </figure>
 
-## Government Service Design Manual
+## Start building digital by default services
 
-When you're confident about the basics of service design, you can start exploring the advice and guidance in the manual.
+When you're confident about the basics of service design and the requirement of [the standard](/service-manual/digital-by-default), you can start exploring the advice and guidance in the manual.
 
 You can explore the manual by [phase of delivery](/service-manual/phases), [specific roles](/service-manual), or [by topic](/service-manual/browse).
