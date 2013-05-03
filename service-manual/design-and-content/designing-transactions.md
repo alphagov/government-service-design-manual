@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Designing transactions
-subtitle: Desiging useful and usable government services
+subtitle: Designing useful and usable government services
 category: content-and-design
 type: guide
 audience:
