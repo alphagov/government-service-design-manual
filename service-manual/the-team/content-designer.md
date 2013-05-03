@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-<figure class="media-player-wrapper video"><a href="http://www.youtube.com/watch?v=oCv1VY5l-k0">Watch Padma Gillen, content designer for GOV.UK mainstream, describing what his work entails.</a></figure>
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=oCv1VY5l-k0">Watch Padma Gillen, content designer for GOV.UK mainstream, describing what his work entails.</a></figure>
 
 Content designers make sure that the writing on the site or service meets the needs of the user as clearly, simply and quickly as possible.
 
