@@ -22,7 +22,7 @@ breadcrumbs:
 ---
 
 ## Headers
-When your service is in alpha or beta you will need to clearly label this so your users are aware your service is not officially live and they are to use it at their own risk. This label should appear in the header, the label should link to an about page on your service clearly explaining these risks.
+Users will need to know if your service is in alpha or beta. Many will not recognise these terms, or know what they mean. Users therefore need to be made aware that a service is not yet 'officially' live, and they therefore to use it at their own risk. That means labelling the service clearly, and explaining what it means for them. Alpha or beta labels should appear in the header, and link to an about page on your service clearly explaining what these terms mean.
 
 ### Service title and navigation
 The title of your service should sit in the header, clearly labelling the service to your users. This title should link back to the homepage of your service (which should generally be http://servicename.service.gov.uk/).
