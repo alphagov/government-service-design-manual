@@ -20,15 +20,15 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-The completion rate measures the proportion of people who start a transaction and are able to complete it.
-
-A transaction is a self-contained process that the service manager has defined in relation to the service. Typically this will be completing an entire transaction from end to end but where a transaction can be completed only partly online, it may be completing a discrete process within the transaction: booking an appointment or completing a part of an application, for example.
-
-## Why measure completion rate? 
-
 When users are unable to complete a digital transaction it can lead to avoidable contact through other channels. This in turn leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
 
 Measuring end-to-end completion rates helps identify whether users have problems completing a transaction; subsequent analysis of drop-out rates at each step of a transaction can then pinpoint the specific processes that users fail to complete.
+
+## What you will be measuring
+
+The completion rate measures the proportion of people who start a transaction and are able to complete it.
+
+A transaction is a self-contained process that the service manager has defined in relation to the service. Typically this will be completing an entire transaction from end to end but where a transaction can be completed only partly online, it may be completing a discrete process within the transaction: booking an appointment or completing a part of an application, for example.
 
 ## How to measure completion rate
 
@@ -36,7 +36,7 @@ The end-to-end completion rate can be calculated as the number of completed tran
 
 ### Before the transaction starts
 
-Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction has started.  They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce dropouts later in the transaction.
+Users should be told clearly what the outcome of the transaction will be, who can use it, how long it is likely to take, and what they will need to complete it (eg a reference number or credit card) before the transaction has started. They will also need to be provided with the eligibility criteria and the costs to complete the transaction. This will help to reduce dropouts later in the transaction.
 
 Typically this information will be given on a single page. In some cases, there may be a set of pages that checks a user’s eligibility based on information they provide.
 
@@ -80,30 +80,20 @@ Offline parts of the process can still be measured but this is likely to be done
 
 ## When to measure completion rate
 
-In order to successfully measure your service completion rate we recommend follow the guidance below:
+In order to successfully measure your service completion rate, we recommend that:
 
-### Guidance/Tool
-
-Discovery
-
-* Ensure all transaction pages have unique URLs
-* Develop a plan to measure completion rate throughout product development
-* Assess the available analytics tools
-
-Alpha
-
-* Benchmark task completion rate via usability testing and establish reasons for failed transactions
-* Procure digital analytics tool
-
-Beta
-
-* Conduct another round of usability testing to ensure that task completion rates improve
-
-Live
-
-* Analyse task completion rate to continually improve the service
-* Carry out further usability testing to continually identify any usability problems and feed into service design
-
+* during the discovery phase you
+  * ensure all transaction pages have unique URLs
+  * develop a plan to measure completion rate throughout product development
+  * assess the available analytics tools
+* in your alpha you
+  * benchmark task completion rate via usability testing and establish reasons for failed transactions
+  * procure digital analytics tool
+* during your beta you
+  * conduct another round of usability testing to ensure that task completion rates improve
+* when a service is live you
+  * analyse task completion rate to continually improve the service
+  * carry out further usability testing to continually identify any usability problems and feed into service design
 
 ### How frequently should I measure task completion rate?
 
