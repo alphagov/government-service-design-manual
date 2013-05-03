@@ -43,7 +43,7 @@ Focussed on the specific details of the code ensuring that each discrete unit of
 
 We aim to write a first set of tests at the start of working on a feature. An acceptance test that describes the end-to-end behaviour ensures that everyone involved understands the objective of a piece of work, and can demonstrate progress through the story at hand. Unit tests can then be written to understand the implementation of the code.
 
-Tests are often described as "happy path" or "sad path". Happy path tests verify that the system can be used as intended, while sad-path tests verify that it handles errors (whether bad input from a user, a vital API being unavailable, or some other issue) gracefully. We start with happy path tests and a few simple sad path tests and then add more sad path tests as our understanding of the code and its dependencies develops.
+Tests are often described as 'happy path' or 'sad path'. Happy path tests verify that the system can be used as intended, while sad-path tests verify that it handles errors (whether bad input from a user, a vital API being unavailable, or some other issue) gracefully. We start with happy path tests and a few simple sad path tests and then add more sad path tests as our understanding of the code and its dependencies develops.
 
 Tests should also be written whenever a bug is discovered. A test to reproduce the bug should be written before it is fixed, allowing you to verify that the bug has been fixed and ensure that it isn't reintroduced later.
 

@@ -20,11 +20,9 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
     
-Martha Lane Fox's report report called for government to act as a "wholesaler as well as the retail shop front for services and content by mandating the development and opening up of Application Programme Interfaces [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to third parties." 
+[Martha Lane Fox's report](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler, as well as the retail shop front, for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](http://en.wikipedia.org/wiki/Application_programming_interface)) to third parties." 
 
 This section is a set of guiding principles for exposing a digital service as an API.
-
-{% include _toc.md %}
 
 ##Guidance
 
@@ -35,13 +33,13 @@ This is especially a risk in the absence of a developer community driving [the n
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Web site leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
+Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
 
 Becoming a consumer of your own APIs not only validates your API, but exposes services [on The Web](http://www.w3.org/TR/webarch/).
 
 ### Just use The Web
 
-Consider an API to be a part of a Web site.
+Consider an API to be a part of a Website.
 
 Provide links to machine-friendly formats from human readable pages, and enable agents to easily construct URLs which link to human-friendly representations of pages.
 
@@ -63,7 +61,7 @@ These principles enable network effects which arise through linking and allow in
 ### Use HTTP methods as Tim intended
 Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_\(HTTP\)), PUT or DELETE method.
 
-Use PUT and DELETE which are commonly blocked by firewalls, intranet proxies, hotel Wifi and mobile operators with caution; always offer a POST alternative.
+Use PUT and DELETE with caution, as they are commonly blocked by firewalls, intranet proxies, hotel Wifi and mobile operators; always offer a POST alternative.
 
 Avoid HTTP methods which are not well defined, such as PATCH.
 
@@ -81,6 +79,8 @@ Where possible, also offer other formats most suited to a specific domain, such 
 - [vCard](http://en.wikipedia.org/wiki/VCard) for name and addresses
 - [KML](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](http://en.wikipedia.org/wiki/GeoRSS) for geographical data
 - [m3u](http://en.wikipedia.org/wiki/.m3u) for playlists
+
+_This advice builds on our [more general guidance on data and content publication formats](/service-manual/design-and-content/choosing-appropriate-formats.html)._
 
 Include hyperlinks to alternative representations as [link headers](http://www.w3.org/TR/html51/document-metadata.html#the-link-element) as well as in content.
 
@@ -111,7 +111,7 @@ Where content is sensitive, or requires authentication, use encryption (HTTPS) a
 ### Practice service evolution:
 
 - build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected (The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; Postel's Law explains the ability for The Web and Internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content)
-- preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, e.g. don't change a `title` field from to the prefix for a name to the person's job title.
+- preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to the meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
 When changing URIs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
@@ -130,11 +130,11 @@ At GDS we encourage the use of adapter code that is entirely focussed on interfa
 ### Testing
 You should consider carefully how you intend to test your integration with the service. In day to day development you will want to be able to test your code without making (computationally or potentially financially) costly calls out to third party services so you should come up with a way of providing mock versions of those APIs. For full system tests, however, you will want to test the full flow including the third-party service so an automated mechanism should be built for that.
 
-Many of the GOV.UK publishing applications send emails to provide alerts for content designers. When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
+Many of the GOV.UK publishing applications send emails to provide alerts for [content designers](/service-manual/the-team/content-designer.html). When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
 
-Our "data insights" code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of google's api that lets us check the right data is being sent.
+Our 'data insights' code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to Google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of Google's API that lets us check the right data is being sent.
 
-Our publishing systems make use of a single sign-on service. In most of our tests the interaction with that service are mocked so the applications' tests can be run in isolation, but we also have a suite of "smoke tests" that run in our preview environment and use dummy accounts to ensure that the full authentication and authorisation flow is working.
+Our publishing systems make use of a single sign-on service. In most of our tests the interaction with that service are mocked so the applications' tests can be run in isolation, but we also have a suite of smoke tests that run in our preview environment and use dummy accounts to ensure that the full authentication and authorisation flow is working.
 
 The Licence Application Tool integrates with a number of third-party payment services. It makes use of test accounts with those services to verify it is able to communicate with them and is sending the right data to complete payments.
 
@@ -146,8 +146,6 @@ The details of that fallback will vary according to your service. It may be that
 You should be clear with your users about what is happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
 
 ##Further reading
-This guide is an outline of the alpha [GDS API Design Principles](https://github.com/alphagov/api-design-principles).
-
-The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
-
-The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
+* The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
+* The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
+* The WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.

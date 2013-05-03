@@ -12,11 +12,20 @@ phases:
   - alpha
   - beta
   - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## Styling form elements
 
-Forms should be styled as per the examples on this page. The [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass like this:
+Forms should be styled as per the examples on this page.
+
+If you're using [Sass](http://sass-lang.com/) in your project the [GOV.UK forms mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss) provides a configurable framework for styling your forms in this way. Use it in your Sass files like this:
 
 ### Sass
 
@@ -32,18 +41,18 @@ Forms should be styled as per the examples on this page. The [GOV.UK forms mixin
       @include form(left)
     }
 
-    // Right aligned labels. Lable width is 9em
+    // Right aligned labels. Label width is 9em
     .form-3 { 
       @include form(right, 9em)
     }
 
 
-Check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html) to see the different layout options in action.
+Check out the [‘create an account’ form example](/service-manual/design-and-content/resources/registration-form.html) to see the different layout options in action.
 
 
 ## Basic structure
 
-Wrap each control in an element with a class of 'group'.
+Wrap each control in an element with a class of ‘group’.
 
 ### Example
 
@@ -118,7 +127,7 @@ or use a list...
 
 ## Aligning controls in a row
 
-You might occasionally need to arrange form controls in a row. To do this, wrap the controls in an
+You might occasionally need to arrange form controls in a row, for instance if they have short labels and there are only a few options. To do this, wrap the controls in an
 'inline group' element.
 
 ### Example
@@ -148,6 +157,22 @@ You might occasionally need to arrange form controls in a row. To do this, wrap 
             </label>
           </p>
         </fieldset>
+        
+## Pre-checked radios and checkboxes
+
+You may want to pre-check radios if:
+
+* we already know the answer because it was given previously
+* there is a good business reason to steer users towards a particular answer, for instance 'Contact me by email' may be preferable to 'Contact me by phone' to help manage callcentre workload
+* there is a strong ‘common case’ bias towards a particular answer
+
+Do not pre-check radios if:
+
+* selecting none is a valid option (to be avoided for radios only, as they can’t be unchecked)
+* we want an unbiased opinion without leading the user
+* there is a legal requirement for the user to make a choice
+
+
 
 ## Fieldsets and legends
 
@@ -383,15 +408,18 @@ Use the 'visuallyhidden' class to hide labels. You need a really good reason to 
 
 ## Buttons
 
-Nest rows of buttons in an 'action group' element.
+Buttons should be horizontally left-aligned beneath the form inputs (not necessarily left aligned with the labels, and not right aligned on the page). Nest rows of buttons in an 'action group' element. The primary action should be the first button in the group.
 
 ### Example
 
 <div class="pattern-example">
-    <div class="form-example-1">
-
+        <div class="form-example-1">
+        <p class="group">
+          <label for="full-name">Full name</label>
+          <input id="full-name" type="text" class="full-name">
+        </p>
         <p class="action group">
-          <input class="button" type="submit" value="Submit">
+          <input class="button" type="submit" value="Next">
           <input class="button-secondary" type="submit" value="Cancel">
         </p>
 
@@ -401,7 +429,7 @@ Nest rows of buttons in an 'action group' element.
 ### HTML
 
         <p class="action group">
-          <input class="button" type="submit" value="Submit">
+          <input class="button" type="submit" value="Next">
           <input class="button-secondary" type="submit" value="Cancel">
         </p>
 
@@ -420,7 +448,7 @@ Summarise any validation errors at the top of your page like this:
       <div class="validation-summary">
         <h1>Please check the form</h1>
         <ul>
-          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error1">Re-type your email address</a></li>
           <li><a href="#error2">Select at least one area of interest</a></li>
         </ul>
       </div>
@@ -433,7 +461,7 @@ Summarise any validation errors at the top of your page like this:
       <div class="validation-summary">
         <h1>Please check the form</h1>
         <ul>
-          <li><a href="#error1">Confirm your email address</a></li>
+          <li><a href="#error1">Re-type your email address</a></li>
           <li><a href="#error2">Select at least one area of interest</a></li>
         </ul>
       </div>
@@ -447,8 +475,8 @@ Each link should jump the user down to the corresponding form control. Add a 'va
     <div class="form-example-1">
 
       <p class="validation group">
-        <span class="validation-message" id="error1">Confirm your email address</span>
-        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <span class="validation-message" id="error1">Re-type your email address</span>
+        <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
         <input id="email-confirm" type="text" class="email">
       </p>
 
@@ -458,8 +486,8 @@ Each link should jump the user down to the corresponding form control. Add a 'va
 ### HTML
 
       <p class="validation group">
-        <span class="validation-message" id="error1">Confirm your email address</span>
-        <label for="email-confirm">Confirm email <abbr title="Mandatory">*</abbr></label>
+        <span class="validation-message" id="error1">Re-type your email address</span>
+        <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
         <input id="email-confirm" type="text" class="email">
       </p>
 

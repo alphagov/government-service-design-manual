@@ -1,7 +1,7 @@
 ---
-layout: phases
-title: Discovery, Alpha, Beta, Live
-subtitle: The four phases of service develpment
+layout: phases-index
+title: Service design phases
+subtitle: Learn about the discovery, alpha, beta, and live phases of service design
 category: phases
 type: category-index
 secondary-audience: designer, developer, tech-arch, researcher, analyst
@@ -9,15 +9,26 @@ theme: getting-started
 status: draft
 ---
 
+<div class="phases-intro">
+  <div class="inner">
 
-Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases. 
+      <figure class="media-player-wrapper video" width="420" height="260" ><a href="https://www.youtube.com/watch?v=_cyI7DMhgYc">Watch Richard Pope, GDS Product Manager, describe the different phases of service design.</a></figure>
 
-Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout. This iterative approach allows the team working on the service to start small, fail fast, and deliver value to our users as early as possible.
+      <p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases.</p>
 
-<img class="phase-diagram" src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
+      <p>Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout.</p>
 
-{: .link-list} 
-Phase 1: [Discovery](/service-manual/phases/discovery.html)
-Phase 2: [Alpha](/service-manual/phases/alpha.html)
-Phase 3: [Beta](/service-manual/phases/beta.html)
-Phase 4: [Live](/service-manual/phases/live.html)
+      <p>This iterative approach allows the team working on the service to start small, learn fast, and deliver value to our users as early as possible.</p>
+
+  </div>
+</div>
+
+<div class="timeline">
+  <div class="inner">
+    <div class="service-life">
+
+      {% include _phases.html %}
+
+    </div>
+  </div>
+</div>

@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Designer job decription
+title: Designer job description
 category: the-team
 audience:
   primary:
@@ -17,11 +17,11 @@ breadcrumbs:
 
 *NOTE: the following template was used to advertise a designer vacancy at GDS*
 
-POST TITLE:             Designer     
-PAYBAND:               	A				      			
-UNIT/DIVISION:       	Government Digital Service		      
-LOCATION:              	London			     						
-TYPE OF POSTING: 	     
+POST TITLE:             Designer
+PAYBAND:               	A
+UNIT/DIVISION:       	Government Digital Service
+LOCATION:              	London
+TYPE OF POSTING:
 
 ## VACANCY ADVERT
 
@@ -43,6 +43,7 @@ This is the ideal opportunity to gain experience working on large digital produc
 
 ## PERSON SPECIFICATION - COMPETENCES/SKILLS REQUIRED
 You'll:
+
 * be good at designing information regardless of what media it's for
 * have mastered basic typography and have an interest in learning more
 * be able to create design concepts that answer a brief and go beyond expectations
@@ -53,6 +54,6 @@ You'll:
 * present at internal show and tell
 * have experience of web design / interface design.
 
-#### Further reading:
+## Further reading:
 
 [Take 5 minutes to read our Design Principles to see how we think](https://www.gov.uk/designprinciples)

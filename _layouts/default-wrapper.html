@@ -14,21 +14,6 @@
 
     <section id="content" role="main" class="group">
 
-      <div class="js-toggle-nav" id="global-nav">
-        <div class="inner">
-          <span class="home"><a href="/service-manual" {% if page.section == 'home' %}class="current"{% endif %}>Government Service Design Manual<small class="beta">beta</small></a></span>
-          <nav role="navigation" class="content">
-            <ul id="navigation">
-              <li><a href="/service-manual/digital-by-default" {% if page.section == 'dbd' %}class="current"{% endif %}>Digital by Default Service Standard</a></li>
-              <li><a href="/service-manual/about" {% if page.section == 'about' %}class="current"{% endif %}>About</a></li>
-              <li><a href="/service-manual/feedback" {% if page.section == 'feedback' %}class="current"{% endif %}>Feedback</a></li>
-            </ul>
-          </nav>
-        </div>
-      </div>
-
-      {% include _caveat-notice.html %}
-
       {{ content }}
 
     </section>

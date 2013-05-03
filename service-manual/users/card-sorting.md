@@ -39,7 +39,7 @@ Open card sorts are most suitable for identifying how users think about informat
 
 ##Weaknesses/when not to use
 
-The analysis of card sorting can be difficult if no clear categories emerge. It can also be difficult to conduct a card sort on a very large website with a broad scope of content (e.g. GOV.UK) since the maximum number of cards may not be representative of all of the content.
+The analysis of card sorting can be difficult if no clear categories emerge. It can also be difficult to conduct a card sort on a very large website with a broad scope of content (eg GOV.UK) since the maximum number of cards may not be representative of all of the content.
 
 ## Online tools
 

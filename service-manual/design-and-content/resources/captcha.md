@@ -1,22 +1,29 @@
 ---
 layout: detailed-guidance
 title: CAPTCHA
-subtitle: Build to the GOV.UK style 
+subtitle: Build to the GOV.UK style
 category: design-and-development-resources
 type: resource
 audience:
     primary: designers, developers
-    secondary: 
+    secondary:
 status: draft
 phases:
   - alpha
   - beta
   - live
 page_class: buttons
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## What are they?
-[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for "Completely Automated Public Turing test to tell Computers and Humans Apart". These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form. They are usually used to prevent bots (automated software) from completing a form or accessing a system.
+[CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) stands for Completely Automated Public Turing test to tell Computers and Humans Apart. These are usually images of jumbled up text that a user needs to decipher and enter before submitting a form. They are usually used to prevent bots (automated software) from completing a form or accessing a system.
 
 ## Why shouldn't I use one?
 
@@ -30,7 +37,7 @@ Additionally, if a 3rd party CAPTCHA service is used, there are further problems
 
 * **Privacy** - 3rd party CAPTCHA services set cookies, collect analytics and can track users across multiple sites. This introduces significant privacy concerns.
 * **Performance** - use of a 3rd party CAPTCHA service ties your performance to theirs. If their service goes offline, so does access to your service.
-* **Security** - the security of your service is tied to that of the 3rd party. If they are compromised, so is your service and it's users.
+* **Security** - the security of your service is tied to that of the 3rd party. If they are compromised, so is your service and its users.
 
 ## Alternatives to CAPTCHA
 
@@ -43,6 +50,6 @@ Many of the risks that CAPTCHAs are aimed to mitigate can be addressed in other 
 It's important to note that even with a CAPTCHA in place bots will still get through due to advances in computer imaging and the use of CAPTCHA farms. A combination of different approaches generally gives the best results.
 
 Further reading:
-[In search of the perfect CAPTCHA](http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/)
-[CAPTCHA and the BBC](http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html)
-[Ticketmaster ditches CAPTCHA for something simpler](http://thenextweb.com/insider/2013/01/30/good-news-music-fans-ticketmaster-is-ditching-its-captcha-conundrums-for-something-simpler/)
+* [In search of the perfect CAPTCHA](http://coding.smashingmagazine.com/2011/03/04/in-search-of-the-perfect-captcha/)
+* [CAPTCHA and the BBC](http://www.bbc.co.uk/blogs/bbcinternet/2010/10/captcha_and_bbc_id.html)
+* [Ticketmaster ditches CAPTCHA for something simpler](http://thenextweb.com/insider/2013/01/30/good-news-music-fans-ticketmaster-is-ditching-its-captcha-conundrums-for-something-simpler/)

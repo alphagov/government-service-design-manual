@@ -37,7 +37,7 @@ The [GOV.UK Performance Platform](https://www.gov.uk/performance) helps the Gove
 
 To effectively tell the story behind the numbers, you need to understand both your audience and the data.
 
-Only use visualisations if they make the story clearer. In many cases, a good table or words may communicate better. If there are very few data points (e.g. top rate income tax down 5%, all other rates unchanged), it’s clearer to write a sentence than draw a picture. If every item must be read precisely (to several decimal places) then a table is best.
+Only use visualisations if they make the story clearer. In many cases, a good table or words may communicate better. If there are very few data points (eg top rate income tax down 5%, all other rates unchanged), it’s clearer to write a sentence than draw a picture. If every item must be read precisely (to several decimal places) then a table is best.
 
 A good table will be clear and uncluttered. The data should be easy to read with the same decimal places or rounding and sorted into a logical order. Don't use too many different types of font, and make sure your data is referenced.
 
@@ -45,16 +45,16 @@ But visualisations often are the right answer and the data is the most important
 
 
 ### Checklist
-a) Who are your audience?
-b) How much detail do they need?
-c) What story does the data tell?
-d) Do you need a visualisation?
+1. Who are your audience?
+2. How much detail do they need?
+3. What story does the data tell?
+4. Do you need a visualisation?
 
 ## Choosing your visualisation and templates
 
-Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. A guide to infographics is available [here](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0B9lK1009bUPiQ1FvcVRUVDkzcWc/edit). Most computer programmes come with a range of visualisations. There are also visualisation tools available online and a blog of free ones [here](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
+Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. GDS has produced [a guide to infographics](/service-manual/assets/Infographics%20Guide.pdf). Most computer programmes come with a range of visualisations. There are also visualisation tools available online, this [blog showcases some free ones](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
 
-Each chart has its own strength. Below are the core 5 with templates, a google spreadsheet of these is available [here](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)
+Each chart has its own strength. Below are the core 5 with templates, a [google spreadsheet of these is available](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)
 
 ###Column chart
 ![Column Chart - Image 1](https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)
@@ -70,13 +70,13 @@ Strengths - comparing **items**, or a small number of time periods.
 
 Strengths - comparing **items**, especially if they have long names or many items.
 
-* Arrange bars in size order, from biggest to smallest (unless good reason i.e.data needs to be represented alphabetically).
+* Arrange bars in size order, from biggest to smallest (unless there's good reason, ie data needs to be represented alphabetically).
 * Negative values to the left of the y axis.
 
 ###Line chart
 ![Line Chart - Image 3](https://docs.google.com/drawings/pub?id=1EPgsC32JClcIjApetWMFHLPNSZQEoViSacc0ySmclp4&w=337&h=237)
 
-Strengths - comparing over time or between **variables** for a **single item** (e.g. site traffic vs. site performance)
+Strengths - comparing over time or between **variables** for a **single item** (eg site traffic vs site performance)
 
 * Limit number of data sets to four.
 * Keep axis labels horizontal.
@@ -93,7 +93,7 @@ Strengths - simple share of **total**. Use with caution, column or bar charts ar
 ###Scatter chart
 ![Scatter Chart - Image 5](https://docs.google.com/drawings/pub?id=1yBH8YxdFGHM4N9xXuZeD4M9CIVcxYicfRznktcSLDKw&w=337&h=237)
 
-Strengths - relationships between **variables** where there are **many items** (e.g. volume vs cost for numerous transactions)
+Strengths - relationships between **variables** where there are **many items** (eg volume vs cost for numerous transactions)
 
 * Limit items to two to avoid confusion.
 * Include trend line if required. This should be a single solid line.
@@ -101,12 +101,13 @@ Strengths - relationships between **variables** where there are **many items** (
 There is more help on choosing the right chart [here](http://www.verstaresearch.com/types-of-charts.jpg). It is important to not confuse your audience.
 
 ###Checklist
-a) What visualisations are available?
-b) Have you chosen the right visualisation for the data?
-c) What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
+1. What visualisations are available?
+2. Have you chosen the right visualisation for the data?
+3. What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
 
 ###Worked example
 Choosing the correct visualisation is important and at GDS we reviewed what was being used in the performance dashboard. As the example below shows, Pie charts with many items are not clear. We used a stacked bar chart to better represent the data.
+
 ####Before
 ![Bad Pie Chart - Image 6](https://docs.google.com/drawings/pub?id=1LWpYB-dagFps939s7RP9xRvMgqn0UsJcUv_d_RxY8Xc&w=337&h=237)
 
@@ -126,7 +127,7 @@ Choosing the correct visualisation is important and at GDS we reviewed what was 
 
 Keep in mind these useful tips when creating your charts.
 
-* Start axes at zero unless there's good reason not to (i.e. data is clustered at high values).
+* Start axes at zero unless there's good reason not to (ie data is clustered at high values).
 * Do not say too much, limit the number of data sets.
 * If needed, put legend at the top of the chart in the same order as the data in the chart.
 * Maximise the space available to the chart and remove chartjunk.
@@ -153,12 +154,12 @@ Poor colour choice can change how the data is perceived in a visualisation. For 
 Colour blindness makes it difficult for a user to differentiate between data sets. Labelling charts directly and different line styles can help. If your visualisations are likely to be printed it is important the colours work in greyscale as not all users will have high quality printers.
 
 ###Checklist
-a) Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?
-b) Have you got the right amount of supporting information?
-c) Have you got the right amount of data?
-d) Have you used the GDS colour palette?
-e) Will the colours work for people with colour blindness or greyscale?
-f) Are your colours appropriate for the data?
+1. Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?
+2. Have you got the right amount of supporting information?
+3. Have you got the right amount of data?
+4. Have you used the GDS colour palette?
+5. Will the colours work for people with colour blindness or greyscale?
+6. Are your colours appropriate for the data?
 
 ###Worked Example - GDS Performance Dashboard
 The example below from GDS' senior management dashboard shows how avoiding chart junk and limiting the number of datasets can enhance your visualisation.
@@ -183,10 +184,10 @@ Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov
 When presenting data be aware of axes and scales. Data can be misrepresented by only showing a selection if it is not clear why an extract has been chosen. Consider where the visualisation might be published. For example, if published alongside other visualisations the reader is likely to assume the scales are consistent. This might change how your data is perceived.
 
 ###Checklist
-a) Have you referenced data with a URL?
-b) Have you provided contact details (e.g. a mailto link)?
-c) Is it clear whether data is internal or public?
-d) Have you been open and transparent with data?
+1. Have you referenced data with a URL?
+2. Have you provided contact details (eg a mailto link)?
+3. Is it clear whether data is internal or public?
+4. Have you been open and transparent with data?
 
 ###Worked example
 
@@ -208,11 +209,11 @@ For more information on the GDS Performance Platform see this [blogpost from Ric
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Designing with Data*](https://docs.google.com/a/digital.cabinet-office.gov.uk/file/d/0Bwrn_Ey2B7pcYjBhNDgzOGUtNjZlYi00NjA4LTgwYjAtZWJiMmM3MTk4Nzcw/edit) provides a comprehensive understanding of how to best engage the audience with your data. A video of Brian Suda presenting on a section of his book at the 2012 DIBI conference is available [here](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 
-Edward Tufte’s [*The Visual Display of Quantitative Information*](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisations and introduces the concept of chartjunk. A video of Edward Tufte discussing his theories on visual thinking and analytical design is available [here](http://www.youtube.com/watch?v=Th_1azZA2OY).
+Edward Tufte’s [*The Visual Display of Quantitative Information*](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisations and introduces the concept of chartjunk. Here is a [video of Edward Tufte discussing his theories on visual thinking and analytical design](http://www.youtube.com/watch?v=Th_1azZA2OY).
 
 This article from the [Peltier Tech blog](http://peltiertech.com/WordPress/ten-chart-design-principles-guest-post/) covers the ten chart design principles.
 

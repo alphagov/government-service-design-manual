@@ -1,163 +1,32 @@
 // GLOBAL NAVIGATION
-$nav-active: $border-colour;
-$nav-highlight: $black;
-
-#global-nav {
-  margin: 0;
-  border-bottom: $gutter-one-third solid $nav-highlight;
-  position: relative;
-  z-index: 100;
-  text-align:left;
-
-  @include media(tablet){
-    margin: 0;
-  }
-  
-  @include media(desktop){
-    text-align: right;
-  }
-  
-  .inner {
-    border-bottom: $gutter-one-sixth solid $nav-active;
-    padding: $gutter-one-sixth 2em 2em 2em;
-    @extend %contain-floats;
-    @include media(tablet){
-      padding-bottom: 0;
-    }
-  }
-
-  a,
-  .toggler {
-    @include core-16;
-    display: block;
-    padding: $gutter-one-third 8px;
-    text-decoration: none;
-    color: $nav-active;
-
-    @include media(desktop){
-      display: inline-block;
-    }
-
-    &:hover,
-    &:focus {
-      text-decoration: underline;
-    }
-  }
-
-  .home a {
-    display: block;
-    float: left;
-    padding-left: 0;
-    color: $text-colour;
-  }
-  .jump-link {
-    float: right;
-
-    @include media(desktop){
-      position: absolute;
-      left: -99999em;
-    }
-  }
-  .toggler {
-    cursor: pointer;
-
-    &:focus {
-      outline: none;
-    }
-    &:after {
-      display: inline-block;
-      font-size: 8px;
-      height: 8px;
-      padding-left: 5px;
-      vertical-align: middle;
-      content: " \25BC";
-    }
-  }
-  &.open {
-    .toggler {
-      &:after {
-        content: " \25B2";
+#global-header {
+  &.with-proposition {
+    .search-toggle {
+      @media screen and (max-width: 379px) {
+        background-color: $main-colour;
       }
     }
-  }
-  nav {
-    clear: both;
-    margin-bottom: 3px;
 
-    @include media(desktop){
-      clear: none;
-      background: transparent;
-      position: static;
-      margin-bottom: 0;
-    }
-
-    #navigation{
-      margin: 0;
-      padding: 0;
-      float: right;
-    }
-
-    .current {
-      color: $white;
-      background: $nav-active;
-    }
-    a {
-      color: $black;
-    }
-    li {
-      display: block;
-      position: relative;
-
-      @include media(desktop){
-        display: inline;
+    form#search {
+      input.submit {
+        border: 1px solid $main-colour;
+        background-color: $main-colour;
       }
-      .toggler {
-        position: absolute;
-        left: -9999em;
-        &:focus {
-          text-decoration: none;
-        }
+    }
 
-        @include media(desktop){
-          position: relative;
-          left: auto;
-          z-index: 10;
+    .header-proposition {
+      #proposition-name {
+        color: $main-colour;
+      }
+      #proposition-links {
+        li {
+          a {
+            &.active {
+              color: $main-colour;
+            }
+          }
         }
       }
     }
   }
-  &.open {
-    .toggler {
-      background: $nav-highlight;
-    }
-    .toggler.current {
-      background: $nav-active;
-    }
-  }
-
-  .home {
-    a {
-      position: relative;
-      small {
-        position: absolute;
-        top: 0.8em;
-        text-transform: uppercase;
-        color: white;
-        -webkit-font-smoothing: subpixel-antialiased;
-        background-color: $panel-colour;
-
-        padding: 2px 5px 0;
-        margin-left: 10px;
-
-        &.alpha {
-          background-color: $alpha-colour;
-        }
-
-        &.beta {
-          background-color: $beta-colour;
-        }
-      }
-    }
-  }
-
 }

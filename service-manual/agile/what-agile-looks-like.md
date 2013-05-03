@@ -31,7 +31,7 @@ This short guide lists a few of the behaviours common to agile projects that sup
 ## Understand your users 
 
 
-![Real people will use your product](http://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
+![Real people will use your product](https://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
 
 
 Prioritise features for them over everyone else -- including your big, scary stakeholders, and seek their feedback early and often.  Really listen to them.  Even when they tell you things you don’t want to hear or disagree with.  If possible, use data from real people using your product to influence the direction of the project. Your focus on the user should be relentless.
@@ -39,7 +39,7 @@ Prioritise features for them over everyone else -- including your big, scary sta
 ## “What do you want next Friday? What have we learned last week?”
 
 
-![A sprint backlog, coutesty of http://www.flickr.com/photos/psd/](http://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
+![A sprint backlog, courtesy of http://www.flickr.com/photos/psd/](https://farm9.staticflickr.com/8043/8100964765_acf4032d09.jpg)
 
 
 Iterate often. Build something focused on the next most valuable user need and show it to them; listen to their feedback and improve it. Keep doing this until you have something so useful that they would not be without it. 
@@ -54,7 +54,7 @@ The software and the team continue to learn through delivery and iterate and imp
 
 ## Small, agile teams
 
-![The unit of delivery is the team](http://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
+![The unit of delivery is the team](https://farm9.staticflickr.com/8374/8451589322_e9f612cf5b.jpg)
 
 Small teams of between five to ten people are often more productive and predictable than larger teams. Forget man-days and think about the team as the unit of delivery.  
 
@@ -62,7 +62,7 @@ A good team includes members with all of the skills necessary to successfully de
 
 *Product Manager* - responsible for delivering return on investment, usually by creating products that users love.  The team delivers the Product Manager’s vision.
 
-*Delivery Manager* (a.k.a. Scrum master or Project Manager) - is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
+*Delivery Manager* (aka Scrum master or Project Manager) – is the agile expert that is responsible for removing blockers (things slowing a team down).  They also usually act as a facilitator at team get togethers.
 
 *Team member* - Self organising, multi-disciplinary team that delivers prioritised user stories. Responsible for estimation.
 
@@ -72,14 +72,14 @@ A good team can estimate their output, or velocity, very effectively and consist
 
 ## Fail fast
 
-![Failing, so fix it!](http://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
+![Failing, so fix it!](https://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
 
 Releasing little pieces of code often improves quality and visibility and reduces cost to market, but using agile techniques does not guarantee success. You can still fail!  What agile methodologies do allow you to do is to spot problems earlier and resolve them.  
 
 Here’s a few examples of how:
 
 >* releasing working software to your users often allows you to get feedback quickly and hear or see what they think.  If the product is wrong you can easily change direction and iterate.
->* if your software is rarely released to production you are not demonstrating value to your sponsor. You run the risk of creating a “too-big-to-fail” service that isn't fit for public consumption but must be releaesed anyway. That means another press headline!  Ship! Ship! Ship!
+>* if your software is rarely released to production you are not demonstrating value to your sponsor. You run the risk of creating a 'too-big-to-fail' service that isn't fit for public consumption but must be released anyway. That means another press headline!  Ship! Ship! Ship!
 >* if your teams’ velocity is consistently volatile, beyond the initial 4-6 sprints, then this is indicative of something that needs fixing.  Perhaps there is hidden complexity or poor estimation.
 >* Test Driven Development (writing tests in code before you develop the features) has a wealth of metrics that highlight quality issues early.  Establish what these are early on, baseline and monitor throughout the project.
 
@@ -87,7 +87,7 @@ Don’t be afraid to fail or experiment.  Learn to fail, and create a culture th
 
 ##Continuous Planning
 
-![Planning session](http://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
+![Planning session](https://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
 
 It’s a myth that you don’t plan on agile projects.  The freedom of agile projects does not come free: you have to plan.  You just plan differently and continuously.
 
@@ -98,11 +98,11 @@ Typically teams plan together, usually on at least two levels:
 >* at the release level, they identify and prioritise the features we must have, and would like to have by the deadline.  
 >* at the iteration level, they plan for the next features to implement, in priority order. If features are too large to be estimated or delivered within a single iteration, they break them down further.
 
-These plans are usually reviewed after every sprint and adjusted based on “the weather yesterday”, new facts and requirements that will inevitably be uncovered along the way.
+These plans are usually reviewed after every sprint and adjusted based on 'the weather yesterday', new facts and requirements that will inevitably be uncovered along the way.
 
 ##Bad smells
 
-![Do go here!](http://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
+![Do go here!](https://farm9.staticflickr.com/8424/7503675672_72ff8a1fa9.jpg)
 
 Teams new to agile should be wary of these familiar situations and reactions to doing things differently.  They have a bad smell about them and undermine your project and its chances of success.
 
@@ -112,6 +112,6 @@ Teams new to agile should be wary of these familiar situations and reactions to 
 
 >* *There's no continuous integration environment*. Start right: with a continuous development environment.  If your teams are not insisting on this from the outset then you've probably got the wrong team.  So much about iterative software development is contingent on the ability to continuously deploy and run automated tests as you do.
 
->* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've not got the right attitude to delivering production-ready software.  You need to embed a quality culture into the team.
+>* *You have a separate QA department*. If your team's attitude to quality is to throw the software they've developed over the wall to a QA department, then they've got the wrong attitude to delivering production-ready software.  You need to embed a quality culture into the team.
 
 This is by no means an exhaustive list, but these are most common things to watch out for.

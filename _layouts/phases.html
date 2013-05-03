@@ -1,23 +1,47 @@
 ---
-layout: default-wrapper
-section_class: wide phases
+layout: detailed-guidance
+section_class: phases
 ---
 
-<article role="article" class="group">
-  <header class="page-header group">
-    <hgroup>
-      <h1>{{ page.title }}</h1>
-      {% if page.subtitle %}
-      <h2 class="subtitle">{{ page.subtitle }}</h2>
-      {% endif %}
-    </hgroup>
-  </header>
 
-  <div class="article-container group">
-    <div class="inner">
-      {{ content }}
-    </div>
+
+<div class="{{ page.phase }}">
+  {{ content }}
+
+  <div class="link-list">
+    <h3 id="agile">Agile</h3>
+    {% assign link_cat = 'agile' %}
+    {% include _phase-links.html %}
+
+    <h3 id="assisted-digital">Assisted digital</h3>
+    {% assign link_cat = 'assisted-digital' %}
+    {% include _phase-links.html %}
+
+    <h3 id="content-and-design">Design and content</h3>
+    {% assign link_cat = 'design-and-content' %}
+    {% include _phase-links.html %}
+
+    <h3 id="making-software">Making software</h3>
+    {% assign link_cat = 'making-software' %}
+    {% include _phase-links.html %}
+
+    <h3 id="measurement">Measurement</h3>
+    {% assign link_cat = 'measurement' %}
+    {% include _phase-links.html %}
+
+    <h3 id="operations">Operations</h3>
+    {% assign link_cat = 'operations' %}
+    {% include _phase-links.html %}
+
+    <h3 id="the-team">The team</h3>
+    {% assign link_cat = 'the-team' %}
+    {% include _phase-links.html %}
+
+    <h3 id="users">Users</h3>
+    {% assign link_cat = 'users' %}
+    {% include _phase-links.html %}
   </div>
-</article>
+
+</div>
 
 

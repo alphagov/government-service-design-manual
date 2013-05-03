@@ -5,7 +5,7 @@ subtitle: Ensuring user data stays secure
 category: making-software
 type: guide
 audience:
-  primary: service-managers, web-ops, developers, tech-archs, 
+  primary: service-managers, web-ops, developers, tech-archs,
   secondary: delivery-managers, qa
 status: draft
 phases:
@@ -21,47 +21,122 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-It goes without saying that security of Government services is incredibly important. The Government Information security community and processes exist to help service managers both meet their obligations to those processes, and more importantly to help build world class services.
+When building your service, you will need to ensure that appropriate steps are
+taken to ensure its security. Information security is a topic both broad and
+deep, drawing from fields ranging from economics and psychology through to
+mathematics and probability, and this document cannot claim to provide a
+thorough review of the field. Instead, it aims to provide you with the briefest
+of introductions to information security, and will explain the communities and
+processes that exist to help you build world class secure services.
 
-The assurance and accreditation processes exist to provide a structure for those activities with a shared language to allow risks, mitigations (and opportunities) to be clearly understood by everyone throughout the organisation delivering a service.
+## Introduction to information security
 
-The important thing to note about building trustworthy and secure systems is that it's a team game. assurance and accreditation should not be a completely separate strand of work, or seen as a hurdle to be got over (or around). Only by engaging with risk and making decisions based on a range of expert opinion will you end up with the best product.
+The term information security refers to the theory and practice of defending
+data or information systems against unauthorized or unintended access,
+destruction, disruption or tampering. Security professionals frequently refer to
+three key concepts:
 
-> NOTE: The following uses quite a lot of acronyms. Unfortunately these are in common usage and it's very hard to engage with the existing documentation and processes without speaking the lingo. All the acronyms should be explained before being used.
+Confidentiality
+: the assurance that information is not disclosed to individuals or systems that
+  are not authorized to receive it.
+
+Integrity
+: the assurance that information can not be modified by those who are not
+  authorized to modify it, or that any such modifications will not pass
+  undetected.
+
+Availability
+: the assurance that information is available when it is needed, specifically
+  that mishap or malice cannot affect the ability of systems to provide the
+  information when requested.
+
+In government, much is made of these three "key concepts of information
+security," as will be explained below. Security systems typically attempt to
+address one or more of these concerns through:
+
+- Physical controls: walls, locked doors, guards
+- Procedural controls: managerial oversight, staff training, defined emergency
+  response processes
+- Regulatory controls: legislation, policy, rules of conduct
+- Technical controls: cryptographic software, authentication and authorization
+  systems, secure protocols
+
+Not every system requires a full battery of security controls. Indeed,
+'completely secure systems' do not exist, and overly secure systems are often
+prohibitively expensive or thoroughly inconvenient for their users. You should
+aim to build services that are *appropriately secure*, and in practice you will
+be guided by an assessment of the risks associated with a lapse in
+the confidentiality, integrity, or availability of your service.
+
+## Information security in government
+
+Within government, there is an established set of assurance and accreditation
+processes. These provide a structure and a shared language within which to
+discuss, analyse and address security considerations. If the processes work
+correctly, managers should have a clear and accurate understanding of what risks
+they are accepting, and those delivering the service should know what controls
+they are going to employ to mitigate those risks.
+
+> **Assurance** is the broad set of activities involved in assessing and
+> managing the risks associated with the system under development, while
+> **accreditation** refers to a subset of the assurance work, involving a formal
+> and independently verified process similar to
+> [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
+
+The important thing to note about building trustworthy and secure systems is
+that it is a team game. Assurance and accreditation should not be a completely
+separate strand of work, or be seen as a hurdle to be jumped over (or
+sidestepped). Only by engaging with risk and making decisions based on a range
+of expert opinion will you end up with the best product.
+
+The rest of this document will introduce you to assurance and accreditation in
+government. The content will use quite a lot of acronyms; unfortunately these
+are in common usage and it's very hard to engage with the existing documentation
+and processes without speaking the lingo. We include them here in the hope that
+they will provide a helpful reference which can be used when reading existing
+documentation.
 
 ## Roles
 
-It's important to understand the different roles involved within the process detailed below. One of the first things you should do on your project is to establish who plays each of these roles. Note that all of them require formal training and specialist skills.
+It's important to understand the different roles involved within the process
+detailed below. One of the first things you should do on your project is to
+establish who plays each of these roles. Note that all of them require formal
+training and specialist skills.
 
-**Senior Information Risk Owner (SIRO)**
+Senior Information Risk Owner (SIRO)
+: Generally a senior member of the lead organisation providing the service.
+  Ultimately responsible for the risk profile of the service, it is the SIRO's
+  job to know whether all the risks been identified, whether there appropriate
+  mitigations in place so that the risks can be accepted, and so on.
 
-Generally a senior member of the lead organisation providing the service. Ultimately responsible for the risk profile of the service: have all the risks been identified, are there appropriate mitigations in place so that the risks can be accepted, and so on.
+Accreditor
+: More hands on than the SIRO, the accreditor or accreditors will work with the
+  project team to help with understanding the process, identify risks and
+  suggest mitigations.
 
-**Accreditor**
+CESG Listed Adviser Scheme (CLAS) Consultant
+: Part of the formal accreditation process. Responsible for much of the formal
+  documentation.
 
-More hands on than the SIRO, the accreditor or accreditors will work with the project team to help with understanding the process, identify risks and suggest mitigations.
+CESG (originally Communications-Electronics Security Group)
+: [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency
+  responsible for Information Security. They can provide technical assistance or
+  consultation on project issues.
 
-**CLAS Consultant**
-
-Part of the formal Accreditation process. Responsible for much of the formal documentation.
-
-**CESG**
-
-[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. Can provide technical assistance or consultation on project issues.
-
-## Assurance vs accreditation
-
-Assurance is the wider set of activities involved in assessing and managing the risks associated with the system under development. Accreditation is a subset of the assurance work, involving a formal and externally verified process similar to [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
-
-All projects, however small, should involve some level of assurance. This may be as simple as documenting the limited risks and proposing to the SIRO that the project does not require a formal accreditation. For anything involving sensitive data or of interest to lots of people an accreditation stage will be required.
+All projects, however small, should involve some level of assurance. This may be
+as simple as documenting the limited risks and proposing to the SIRO that the
+project does not require a formal accreditation. For anything involving
+sensitive data or of interest to lots of people an accreditation stage will be
+required, and this process is likely to include representatives from all of the
+above groups.
 
 ## Business Impact Levels
 
-Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three following criteria:
+Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in Government projects. Specifically they are numbers between 0 and 6 for each of the three key concepts mentioned above, and measure:
 
-* confidentiality - the potential impact if the information is seen by those who should not see it
-* integrity - the potential impact if the accuracy or completeness of the information is compromised
-* availability - the potential impact if the information becomes inaccessible
+* For confidentiality: the potential impact if the information is seen by those who should not see it
+* For integrity: the potential impact if the accuracy or completeness of the information is compromised
+* For availability: the potential impact if the information becomes inaccessible
 
 More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
 
@@ -73,13 +148,13 @@ A close working relationship will be essential to ensure that business impact le
 
 ## Good Practice Guides (GPG)
 
-The Good Practice Guides (GPG) are documents published by CESG on specific topics of interest to various types of projects. These can act as a good starting point when looking to identify risks and put in place mitigations. 
+The Good Practice Guides (GPG) are documents published by CESG on specific topics of interest to various types of projects. These can act as a good starting point when looking to identify risks and put in place mitigations.
 
 Unfortunately many of these documents are Restricted. It is advisable to establish a working relationship with CESG early on in the project to make sure you can access these documents. Examples include:
 
-* GPG13 - Protective monitoring
-* GPG8 - Protecting External Connections to the Internet
-* GPG12 - Use of Virtualisation Products for Data Separation
+* GPG13 – Protective monitoring
+* GPG8 – Protecting External Connections to the Internet
+* GPG12 – Use of Virtualisation Products for Data Separation
 
 ## Risk Management Document Set (RMADS)
 
@@ -87,11 +162,11 @@ The Risk Management Document Set or RMADS are the result of the formal accredita
 
 ## IT Health Check (ITHC)
 
-The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about penetration and vulnerability testing for more details.
+The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it is a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about [penetration and vulnerability testing](/service-manual/operations/penetration-testing.html) for more details.
 
 ## Ongoing
 
-The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. New threats may emerge or systems and processes change over time. 
+The assurance and accreditation work described above is not just about getting a project to launch. It also covers the running of the resulting service. Over time, new threats may emerge, systems and processes may change, and assumptions may become invalid.
 
 Documentation should be kept up-to-date and additional penetration tests organised on a regular or as-needed basis.
 
@@ -112,14 +187,28 @@ It is important to start understanding risks and engaging with the assurance and
 
 ## Risk management
 
-It's important to understand the assurance and accreditation processes and tools are all about managing the risk associated with the running service. Security is part of this, but just one part. 
+It's important to understand the assurance and accreditation processes and tools are all about managing the risk associated with the running service. Security is part of this, but just one part.
 
-Nearly everything brings with it risks: technology choice, staffing, processes, access to restricted documents, data aggregation, etc. It is important to understand those risks and put in place sensible and suitable mitigations. It is unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future exploits. 
+Nearly everything brings with it risks: technology choice, staffing, processes, access to restricted documents, data aggregation, etc. It is important to understand those risks and put in place sensible and suitable mitigations. It is unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future exploits.
 
 The aim is a system where the risks are known and the team, working with risk professionals, have made careful decisions about how to deal with them.
 
 ## Further reading
 
-* [HMG IA Standard No. 1 - Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf)
-* [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/)
-* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
+* [Security Engineering — Ross
+  Anderson](http://www.cl.cam.ac.uk/~rja14/book.html): a comprehensive textbook covering the theory and practice of building secure systems.
+* [HMG IA Standard No. 1 – Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems.
+* [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/): a brief introduction to Business Impact Levels.
+* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables.
+
+*[BCS]: Baseline Control Set
+*[CESG]: UK National Technical Authority for information assurance
+*[CHECK]: A CESG scheme to accredit 3rd party penetration testers
+*[CLAS]: CESG Listed Adviser Scheme
+*[GPG]: Good Practice Guide
+*[GPGs]: Good Practice Guides
+*[IA]: information assurance
+*[IL]: Impact Level
+*[ITHC]: IT Health Check
+*[RMADS]: Risk Management Document Set
+*[SIRO]: Senior Information Risk Officer

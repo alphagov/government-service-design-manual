@@ -6,7 +6,7 @@ category: design-and-content
 type: guide
 audience:
   primary: service-managers, designers, developers, content-designers
-  secondary: performance-analysts, user-researchers 
+  secondary: performance-analysts, user-researchers
 status: draft
 phases:
   - alpha
@@ -83,7 +83,7 @@ The terms and conditions of your service must be understandable to the majority 
 
 ##Guidance/Tool
 
-[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/style-guide).
+[GOV.UK's terms and conditions](https://www.gov.uk/support/terms-conditions) were written to conform both the legal terms defined by the [Treasury Solicitors Department](http://www.tsol.gov.uk/) (TSol) and to the [style guide of GOV.UK](https://www.gov.uk/designprinciples/styleguide).
 
 These form a template for other services to use, and cover many of the conditions that operational services published as part of [GOV.UK](https://www.gov.uk) will require.
 
@@ -97,5 +97,5 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 
 ##Further reading
-[How users read](/service-manual/design-and-content/how-users-read.html)
-[Style guide](https://www.gov.uk/designprinciples/styleguide)
+* [How users read](/service-manual/design-and-content/how-users-read.html)
+* [Style guide](https://www.gov.uk/designprinciples/styleguide)

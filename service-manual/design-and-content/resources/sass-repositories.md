@@ -11,6 +11,13 @@ phases:
 audience:
   primary: designers, developers
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a gem that enable us to quickly build pages that conform to our styles.
@@ -29,7 +36,7 @@ The second is a way to develop responsive sites while not giving older browsers 
 
 The third is a way to keep browser specific styles out of our projects. We encapsulate new or non-standardised CSS into mixins. In this way we can easily update all the instances of a new CSS property without having to do a search and replace across all of our projects.
 
-For a full list of the different Sass techniques we have available look at the [readme on the `govuk_frontend_toolkit` gem](https://github.com/alphagov/govuk_frontend_toolkit).
+For a full list of the different Sass techniques we have available look at the [readme on the govuk_frontend_toolkit gem](https://github.com/alphagov/govuk_frontend_toolkit).
 
 ## Typography and Colours
 
@@ -82,4 +89,4 @@ The `border-radius` line here is designed to use the different border-radius imp
 
 ## Further reading
 
-For more information check out the Readme on the [`govuk_frontend_toolkit` gem](https://github.com/alphagov/govuk_frontend_toolkit)
+For more information check out the Readme on the [govuk_frontend_toolkit gem](https://github.com/alphagov/govuk_frontend_toolkit)

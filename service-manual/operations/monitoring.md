@@ -25,6 +25,7 @@ Knowing the current state of your service and infrastructure can help identify p
 * to aid with capacity planning activities by providing metrics over time
 * to identify potential future problems
 * to find areas of improvement, for instance badly performing systems or inefficient services
+* to be able to identify the root cause of an outage after the fact, based on data collected during the problematic event
 
 ## Setup monitoring early
 
@@ -48,6 +49,6 @@ The monitoring system, or rather any dashboards, interactive tools or reports, s
 
 ## Further reading
 
-* [Radiating Information](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/)Examples of some of the monitoring dashboards used while building GOV.UK
-* [Open Source Monitoring](https://speakerdeck.com/obfuscurity/the-state-of-open-source-monitoring) 
+* [Radiating Information](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/) gives examples of some of the monitoring dashboards used while building GOV.UK
+* [Open Source Monitoring](https://speakerdeck.com/obfuscurity/the-state-of-open-source-monitoring) explains some of the terminology and available open-source tools
 

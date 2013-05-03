@@ -23,8 +23,9 @@ breadcrumbs:
 
 {: .link-list} 
 * [Monitoring](/service-manual/operations/monitoring.html)
-* [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-domains.html)
+* [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains.html)
 * [Hosting](/service-manual/operations/hosting.html)
+* [Devops](/service-manual/operations/devops.html)
 
 ## Testing
 

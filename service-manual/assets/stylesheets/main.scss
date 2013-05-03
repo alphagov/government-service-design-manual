@@ -5,16 +5,18 @@
 // From the toolkit
 @import "../toolkit/stylesheets/_colours";
 @import "../toolkit/stylesheets/_css3";
+@import "../toolkit/stylesheets/_device-pixels";
 @import "../toolkit/stylesheets/_typography";
 @import "../toolkit/stylesheets/_conditionals";
 @import "../toolkit/stylesheets/_shims";
+
+@import "helpers/_conditionals2.scss";
 
 // style-guide
 @import "styleguide/_colours.scss";
 @import "styleguide/_dimensions.scss";
 
 @import "design-patterns/_utils.scss";
-@import "design-patterns/_panels.scss";
 @import "design-patterns/_accordion-form.scss";
 @import "design-patterns/_account-management-tools.scss";
 @import "design-patterns/_buttons.scss";
@@ -29,7 +31,6 @@
 
 // Helpers
 @import "helpers/_breadcrumbs.scss";
-@import "helpers/_caveat-notice.scss";
 @import "helpers/_contents.scss";
 @import "helpers/_github-links.scss";
 @import "helpers/_global-nav.scss";
@@ -37,6 +38,7 @@
 @import "helpers/_page-header.scss";
 @import "helpers/_page-header-meta.scss";
 @import "helpers/_page-status.scss";
+@import "helpers/_page-tools.scss";
 @import "helpers/_role-links.scss";
 @import "helpers/_tables.scss";
 @import "helpers/_tooltip.scss";

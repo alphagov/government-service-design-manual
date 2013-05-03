@@ -21,60 +21,91 @@ breadcrumbs:
 ---
 
 
-This short guide tells you what to keep in mind when including cookies into your services, and how and why we notify users about cookies on [GOV.UK](https://www.gov.uk).
+This short guide tells you what to keep in mind when including cookies into your services, and how and why you must notify users about cookies on your service.
 
-## Using Cookies
+## What are they?
 
-You should minimise the use of cookies throughout services. Store as little information as you require for as short a time as necessary to deliver a good service to users.
+Cookies are small data files that are sent from a website and stored on a user's computer. They are used to store information that can be retrieved later in the visit or in future visits to the website.
 
-If your service requires new cookies to be set then you need to ensure that they can be explained simply and clearly, in a way that the majority of users can understand.
+Many uses of cookies are harmless, but sometimes they are used to track users and their browsing habits across multiple websites and target them with relevant advertising.
 
-You will need to notify users whenever a specific action sets a cookie. This will look like this:
+## Privacy and Electronic Communications Regulations
 
-> "[sets a cookie](https://www.gov.uk/support/cookies#)"
+In May 2011, the [Privacy and Electronic Communications Regulations](http://ico.org.uk/for_organisations/privacy_and_electronic_communications) were updated to require website operators to gain consent before storing or retrieving data from a user's computer (or other device). This change directly affects the use of cookies and other similar technologies such as HTML5 local storage.
 
-That link will take users to the cookies page, and the appropriate description of the cookie being set.
+Before using cookies the website operator [needs](http://www.ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies) to either:
+- get explicit, informed consent from the user before storing cookies on a user's computer
+- be satisfied that the user understands that their actions will result in cookies being stored (implied consent)
+- be satisfied that the cookie is "absolutely essential" to the operation of the website (eg cookies used for operating a shopping cart)
+
+Responsibility for complying with these regulations lies with the website operator.
+
+## Using cookies
+
+This guide covers how to use cookies on government services, but the principles also apply to other technologies such as HTML5 local storage.
+
+**You should minimise the use of cookies on services, store as little information as you require for as short a time as necessary to deliver a good service to users.**
+
+If your service requires cookies to be stored then you need to ensure that they can be explained simply and clearly, in a way that the majority of users can understand.
+
+You must notify users that cookies are being stored.
+
+## Types of cookies
+
+### First party cookies
+
+These are cookies that are set by the website that the user is currently viewing. They are under the control of the website operator and can only be accessed by the website. Data stored within the cookie is not shared with other websites.
+
+Examples of first party cookies include:
+- cookies for storing logged in status
+- cookies for storing user preferences
+- some types of analytics cookies
+
+These types of cookies are minimally intrusive as the website owner has complete control over what data is stored within them, how long the data is stored for and what the data is used for.
 
 
-## Cookie warnings
+### Third party cookies
 
-Whenever a user visits [GOV.UK](https://www.gov.uk) for the first time we notify them on our use of cookies using this message:
+These are cookies set by external services used on the website. The cookies are under the control of the third party service and can be accessed on any website that makes use of the service. These cookies are not controlled by the website operator and can be used to track a user from one site to another.
+
+Examples of third party cookies include:
+- cookies from social media sharing services
+- cookies from advertising campaign management services
+- cookies from embedded document sharing services
+- cookies from some analytics services
+
+These types of cookies are intrusive as the website owner usually has no control over what data is collected or how it is used.
+
+### Exempt cookies
+
+A number of uses of cookies are exempt from the requirement to gain consent. These include cookies that are used for load balancing or cookies that are "absolutely essential" to the use of a website (eg used to store shopping cart contents).
+
+While these cookies are exempt from the Privacy and Electronic Communications Regulations, you should still notify users that these cookies are in use.
+
+## Cookie information and warnings
+
+All services on the `service.gov.uk` subdomain must include a cookie information page. This page must contain information about the cookies used throughout the site, followed by an explanation of each cookie's purpose and how long it stored for.
+
+You can see an example of how to do this on the [GOV.UK cookies page](https://www.gov.uk/support/cookies).
+
+Each service must include a link to this page on the footer of the website. The information page must also include a link back to the main GOV.UK cookies page.
+
+Services must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when the service relies on implied consent. GOV.UK does this with a blue information banner that is displayed at least once every 3 months with the following message:
 
 > "GOV.UK uses cookies to make the site simpler. [Find out more about cookies](https://www.gov.uk/support/cookies)."
 
-On [the cookies page at GOV.UK](https://www.gov.uk/support/cookies) you can see a breakdown of the kinds of cookie used throughout the site, followed by an explanation of each cookie’s purpose. For example:
+Where explicit consent is required, services must notify their users before the cookie is set. You should do this with the `sets a cookie` text linked to the appropriate details on the cookie information page.
 
-### Storing your approximate location
+## Cookie scoping and attributes
 
-Some pages on this site provide you with information based on your location. So when you enter your postcode, we save your approximate location to a cookie. This means you don’t have to keep typing your postcode in, and means we’ll always point you towards services that are closest to you e.g. the nearest UK online centre.
+Cookies must be scoped to their originating domain name only eg `www.servicename.service.gov.uk` not `.gov.uk`.
 
-<table>
-    <tr>
-        <td>Name</td>
-        <td>Purpose</td>
-        <td>Expires</td>
-    </tr>
-    <tr>
-        <td>govukgeo</td>
-        <td>Saves details about your location so that services which require this information are consistent</td>
-        <td>4 months</td>
-    </tr>
-</table>
+Cookies should not be used on domains that host only static assets (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit)
 
-## Cookies on existing transactions
-
-The [GOV.UK](https://www.gov.uk) cookies policy does not cover 3rd party transactions. Unfortunately, most existing services were built before the updated EU Privacy Directive came into force, so weren't built with it in mind (hence not having cookie policies).
-
-New and redesigned services will be expected to notify users that cookies are being set beforehand, using a 'sets a cookie' line of text near the action that triggers the cookie (this text should be linked to the appropriate part of the cookie information page). You can see an example of how that works on GOV.UK [here](https://www.gov.uk/dvla-offices).
-
-Where a user can't be notified before the cookie is set (i.e. if it's set when the user first visits the service using implied consent), the service should use a banner similar to that on [GOV.UK](https://www.gov.uk) to inform people that this is the case and link them to the further information.
-
-## Why we do this
-This policy is in line with EU Law and was devised following extensive research during the beta of [GOV.UK](https://www.gov.uk). It follows the [The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011](http://www.legislation.gov.uk/uksi/2011/1208/contents/made) (PECR). You can read more about how we decided this in [this blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/).
+Cookies must be sent with the `Secure` attribute and should, where appropriate, be sent with the `HttpOnly` attribute. These [flags provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
 
 
-##Further reading
+## Further reading
 [The ICO's latest guidance](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx)
 
 This [blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](https://www.gov.uk).
-

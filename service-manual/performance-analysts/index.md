@@ -4,4 +4,8 @@ title: Resources for performance analysts
 subtitle: Guidance and tools for measuring performance
 audience: performance-analysts
 hero: KPIs
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
 ---

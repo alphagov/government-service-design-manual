@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents).
+The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents). Your services must also comply with any other legal requirements, including providing services in accordance with your Welsh Langage Scheme, if you have one.
 
 ## Accessibility standard
 
@@ -43,6 +43,18 @@ We work hard to make our sites and services as accessible and usable as we can f
 ## Assistive technologies
 
 Your service should be usable by recent versions of [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/), [VoiceOver](http://www.apple.com/accessibility/voiceover/), [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) screen readers, [ZoomText](http://www.aisquared.com/zoomtext/), [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) and basic operating system screen magnifiers, as well as speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
+
+
+## Accessible formats
+
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.html) should be followed. There is more information on [chosing appropriate formats](/service-manual/design-and-content/chosing-appropriate-formats.html)
+
+
+## Accessible content
+
+Accessibility is more than checking the boxes of standards compliance. When writing content, consider what information would be useful to people with access needs.
+
+For instance, in a ‘find my nearest’ service, consider user needs like: Is there disabled parking? How far is it from the entrance? What’s the terrain like? Uphill? Downhill? Will I have to cross any roads? etc.
 
 
 ##Further reading

@@ -3,7 +3,6 @@
   padding-bottom: 2em;
 
   h3 {
-    margin-top: 1em;
     padding-top: 0.5em;
     margin-top: 1em;
   }
@@ -17,15 +16,18 @@
     font-size: 16px;
     list-style: none;
     overflow: hidden;
-    margin-top: 0.5em;
-    padding-top: 0.5em;
-    padding-left: 0;
+    margin: 0.5em 0 0 0;
+    padding: 0.5em 0 0 0;
     border-top: 1px solid $grey-3;
 
     a {
-      display: inline-block;
-      width: 34%;
+      display: block;
       vertical-align: top;
+
+      @include media(desktop) {
+        display: inline-block;
+        width: 34%;
+      }
 
       span {
         display: block;
@@ -35,21 +37,18 @@
         width: 34%;
         text-decoration: underline;
       }
-      .description {
-        width: 64%;
-        color: $secondary-text-colour;
-      }
-      &:hover .description {
-        text-decoration: underline;
-      }
     }
 
     span.subtitle {
       @include core-16;
-      display: inline-block;
       color: $secondary-text-colour;
       text-decoration: none;
       margin: 0;
+      width: 65%;
+
+      @include media(desktop) {
+        display: inline-block;
+      }
     }
   }
 }

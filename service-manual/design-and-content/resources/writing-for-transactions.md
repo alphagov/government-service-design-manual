@@ -4,15 +4,22 @@ title: Writing for transactions
 subtitle: Writing microcopy and help text for government services
 category: design-and-development-resources
 type: resource
-audience: 
+audience:
   primary: content-designers, designers
 type: guide
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## Writing microcopy
 
-Microcopy is the term given to the short words or phrases used during transactions, 
+Microcopy is the term given to the short words or phrases used during transactions,
 for things like buttons, form labels, help text, alerts and questions.
 
 ### General guidance
@@ -34,8 +41,8 @@ for things like buttons, form labels, help text, alerts and questions.
 
 ## Writing help text
 
-Your first strategy when it comes to help text is to design a service that's 
-so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for it's own sake - the real innovation is an
+Your first strategy when it comes to help text is to design a service that's
+so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for its own sake - the real innovation is an
 easy to use government service.
 
 Sometimes though, users need a little help. Here are some ways of providing it.
@@ -52,7 +59,7 @@ Sometimes though, users need a little help. Here are some ways of providing it.
       </p>
 
     </div>
-</div> 
+</div>
 
 Use this to provide examples for unfamiliar information requests or formats.
 
@@ -69,9 +76,9 @@ This is the nuclear option and should only be considered as a last resort. Popup
 
 ## Transaction start pages
 
-The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (e.g. Google).
+The start point for any GOV.UK transaction should be a page on the GOV.UK domain. Users should not be able to jump to a later page in the service via some other means (eg Google).
 
-The design of the start page will be determined by the nature of the service and it's audience. All start pages should meet the following goals:
+The design of the start page will be determined by the nature of the service and its audience. All start pages should meet the following goals:
 
 ### Describe the service
 
@@ -91,12 +98,16 @@ It's better to ask a few questions up front (and explain why you're doing this) 
 
 ## Transaction end pages
 
-The end point of any transaction should be a page on the GOV.UK domain. These pages should:
+The end point of any transaction should be a page on the GOV.UK domain.
 
-1) Let the user know that they have successfully completed the transaction
-2) If further actions are required, let the users know what they are
-3) If no further actions are required, point users in the direction of other relevant information and services
+These pages should let the user know:
+
+* that they have successfully completed the transaction
+* what further actions they need to perform, and when
+* what further actions they can expect from the service, and when
+* who they should contact with any queries or complaints
+* about any related information and services
 
 ##Further reading
-[Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle )
+[Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle)
 

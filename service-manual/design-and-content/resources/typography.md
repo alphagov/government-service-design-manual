@@ -11,6 +11,13 @@ phases:
 audience:
   primary: designers
 status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
@@ -25,7 +32,7 @@ We currently use two weights of New Transport: Light and Bold. Italics should no
 
 New Transport is not licenced for use outside of the GOV.UK domain. When your service goes live you'll be given access to the typeface.
 
-If the service uses numbers in columns or tables, you should change these to use the tabular number version of Transport New. This replaces the standard numbers with new versions that are spaced more evenly. The main noticable difference is a base on the character 1. GDS has used this on the Performance Platform and Trade Tariff.
+If the service uses numbers in columns or tables, you should change these to use the tabular number version of New Transport. This replaces the standard numbers with new versions that have a fixed width. The main noticable difference is a base on the character 1. GDS has used this on the [Performance Platform](/performance) and Trade Tariff.
 
 
 ## Colour contrast
@@ -39,12 +46,8 @@ Type should be large enough to be easily read. This is generally larger than man
 
 ##Further reading
 
-[Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
-
-[Shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html)
-
-[Sass Repositories](/service-manual/design-and-content/resources/sass-repositories.html)
-
-[Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html)
-
-[Accessibility requirements](/service-manual/design-and-content/accessibility.html)
+* [Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
+* [Shared asset libraries](/service-manual/design-and-content/resources/shared-asset-libraries.html)
+* [Sass Repositories](/service-manual/design-and-content/resources/sass-repositories.html)
+* [Colour palettes](/service-manual/design-and-content/resources/colour-palettes.html)
+* [Accessibility requirements](/service-manual/design-and-content/accessibility.html)
