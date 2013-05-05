@@ -199,7 +199,7 @@ Here are a few principles to keep in mind when you're designing transactions.
 
 ### 1. Be honest about the proposition
 
-The deeper in to a transaction someone goes, the more they are invested in it and the greater their annoyance if they have to abandon their efforts because of some unforseen issue.
+The further in to a transaction someone gets, the more time they have invested in it and the greater their annoyance if they have to abandon it for some reason.
 
 Be honest about what you're offering users, and what you're not offering them. In particular, people need to know up front about the following:
 
@@ -210,7 +210,9 @@ Be honest about what you're offering users, and what you're not offering them. I
 * Any equipment that will be required (eg. a printer)
 * Any non-digital parts of the transaction 
 
-Some common sense is also required if you're not to overload people with information before they even start. If the transaction follows widely accepted norms (for example, around payment methods or delivery times) it's less important to tell people up front, though you do still need to make this information available.
+Use common sense though. Don't try to make everyone to read a page of terms and conditions before they start (they won't).
+
+The best approach is to meet (or exceed) people's expectations. For example, if your delivery times are typical and you accept all the usual payment methods then you wont need to warn everyone about them up front.
 
 ### 2. Respect the natural flow of the underlying process
 
