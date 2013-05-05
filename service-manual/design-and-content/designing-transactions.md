@@ -22,14 +22,16 @@ breadcrumbs:
 
 ## What is a transaction?
 
-It's an exchange between two or more parties. Government transactions typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
+It's an exchange between two or more parties. 
+
+[Government transactions](http://transactionsexplorer.cabinetoffice.gov.uk/) typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
 
 For example, when someone applies for a passport they exchange information and money for the right to travel.
 
 {:.pad}
 !['Diagram showing 'applying for a passport' transaction'](designing-transactions/passport-transaction.png)
 
-A service is made up of a collection of related or connected transactions.
+A service is made up of a collection of related or connected transactions. 
 
 Most digital transactions take the form of a dialogue between the user and a system, which acts on behalf of the other party. It's the system's interface which determines in large part the quality of the overall user experience.
 
@@ -44,7 +46,7 @@ Either way, you'll need to decide what kind of interface best fits your transact
 
 Interface metaphors can come from the physical or digital world and include things like address book, library, trash can, email inbox, timeline, bank statement, pinboard etc.
 
-Just avoid the temptation to go over the top with any physical metaphors (we don't want to see any leatherbound address books with bookmarks sticking out of them).
+Avoid the temptation to go over the top with any physical metaphors (we don't want to see any leatherbound address books with bookmarks sticking out of them).
 
 ## How to structure the transaction
 
@@ -63,7 +65,7 @@ Ask yourself:
 
 How you answer these questions will help you decide how to structure the transaction. It can help to think in terms of levels: sections, subsections, groups etc. Try not to worry about how those levels should be represented in the interface until you have a broader understanding of the overall structure.
 
-For example, on a web site, you might choose to have one section per page, or multiple sections per page. It depends on what's best for the user.
+For example, on a web site, you might choose to have one section per page, or multiple sections per page. It depends on what's going to work best for your users.
 
 ## Example structures
 
@@ -163,6 +165,10 @@ Saving progress does not necessarily mean you require user accounts, logins, ema
 
 For more complex transactions that don't store personal data you might be able to offer users a unique, and hard-to-guess URL that they can use to get back to their session.
 
+## Indicating mandatory fields
+
+If you follow the principle of not asking for information you don't need, then most of your fields will be mandatory and you shouldn't need to mark them as such with '*' symbols or other conventions. Instead, mark the optional fields, by adding '(optional)' to their label.
+
 ## Helping users
 
 You should be aiming for a service that's so intuitive people don't need any help in using it. If you find yourself explaining the interface *within* the interface it's a sign that something has gone wrong. Time to try out some different ideas.
@@ -182,7 +188,9 @@ Use familiar language
 : eg. 'Registration number' rather than 'Vehicle Registration Mark' 
 
 
-Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction. Here are three approaches:
+Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
+
+Here are three approaches:
 
 Inline help
 : Short, snappy text, positioned near the part of the interface it refers to. If it's something that everyone needs to know, make it permanently visible.
@@ -239,4 +247,9 @@ Every request for information from the user:
 Asking for information because 'it might be useful' or 'it helps with our record keeping' is not acceptable.
 
 
+
+## Resources
+
+* <http://transactionsexplorer.cabinetoffice.gov.uk/>
+* <http://www.uxforthemasses.com/forms-usability/>
 
