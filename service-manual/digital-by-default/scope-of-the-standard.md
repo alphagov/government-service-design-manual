@@ -1,7 +1,7 @@
 ---
 layout: standard-support
 title: Scope of the standard
-subtitle: Services so good that people prefer to use them
+subtitle: Which services must meet the standard
 audience:
   primary: service-manager
   secondary:
