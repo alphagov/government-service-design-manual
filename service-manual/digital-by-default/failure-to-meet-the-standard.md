@@ -39,7 +39,7 @@ If the service fails to pass the panel on two occasions, the Cabinet Office will
 
 ## Failure of a live service to meet performance goals
 
-[Performance levels](/service-manual/performance.index.html) of a service will be monitored closely, particularly in that servioce's first three months. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html), GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
+[Performance levels](/service-manual/performance.index.html) of a service will be monitored closely. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html) for three months GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
 
 ### The performance panel
 The performance panel will be chaired by GDS. It will include representatives from other departments and may feature external experts when suitable. 

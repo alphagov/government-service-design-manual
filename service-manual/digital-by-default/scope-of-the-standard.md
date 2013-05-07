@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-[The standard](/service-manual/digital-by-default.html) does not apply to all government services. As described in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/), only high-volume transactions being released after April 2014 will need to meet it.
+While the information and guidance within the manual will be useful for teams in all servives, [the standard](/service-manual/digital-by-default.html) itself will not not apply to all government services. As described in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/), only high-volume transactions being released after April 2014 will need to meet it.
 
 ## The criteria
 
@@ -36,5 +36,3 @@ If you have answered **no** to one or more of these questions then your service 
 Government services cover a vast variety of activity, from the mainstream to the highly specialised. 
 
 Applying the same standard to services dealing with a handful of transactions every year that was applied to those handling millions is unlikely to be helpful. 
-
-That said, the criteria and guidance will still be useful for those developing digital services.
