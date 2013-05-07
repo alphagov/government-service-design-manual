@@ -21,7 +21,7 @@ Meeting (and keeping) the standard isn't simply a 'one size fits all' exercise. 
 
 ##How assessment works
 
-A team's service manager will present [a public beta of the service](/service-manual/phases/beta.html) alongside [content from the service’s public blog](/service-manual/communications/index.html.html) to a [Go Live panel](/service-manual/digital-by-default/go-live-panel.html) including experts from within and outside government.
+A team's service manager will present [a public beta of the service](/service-manual/phases/beta.html) alongside [content from the service’s public blog](/service-manual/communications/index.html.html) to a [go live panel](/service-manual/digital-by-default/go-live-panel.html) including experts from within and outside government.
 
 The service manager will have to demonstrate that the service and team have consistently met the criteria in the standard to the unanimous satisfaction of the panel. The panel will apply common sense and a degree of flexibility to their assessments, giving teams feedback and guidance about how to improve a service when it looks like they will not meet the standard.
 
@@ -53,4 +53,4 @@ If the service redesign or build process is at an early stage, GDS will make mee
 
 If the service redesign or build process is at a more advanced stage, GDS will make recommendations for additional spending on the basis of the evidence available for a service being on track to meet the standard. This evidence will be taken from the team’s public blog. GDS will also explicitly state when the team should return for further approval.
 
-A team will go through this process more than once to unlock spending approval for each phase of a service, supporting an iterative approach to service design. Rather than increasing the volume of paperwork the public blog will be used for evidence of progress, and will also help GDS to provide departments with targeted support and feedback on whether they are on track to meet the standard far in advance of a Go Live panel.
+A team will go through this process more than once to unlock spending approval for each phase of a service, supporting an iterative approach to service design. Rather than increasing the volume of paperwork the public blog will be used for evidence of progress, and will also help GDS to provide departments with targeted support and feedback on whether they are on track to meet the standard far in advance of a go live panel.
