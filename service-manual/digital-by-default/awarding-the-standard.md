@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-Meeting and retaining the standard isn't simply a 'one size fits all' exercise. All services within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html) will be assessed against the [criteria of the standard](/service-manual/digital-by-default).
+Meeting (and keeping) the standard isn't simply a 'one size fits all' exercise. All services within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html) will be assessed against the [criteria of the standard](/service-manual/digital-by-default).
 
 ##How assessment works
 
