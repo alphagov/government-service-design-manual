@@ -1,7 +1,7 @@
 ---
 layout: standard
 title: Writing blog posts
-subtitle: Services so good that people prefer to use them
+subtitle: Techniques for writing about service transformation
 audience:
   primary: service-manager
   secondary:

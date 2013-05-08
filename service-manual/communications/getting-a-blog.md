@@ -1,7 +1,7 @@
 ---
 layout: standard
-title: Writing blog posts
-subtitle: Services so good that people prefer to use them
+title: Getting a blog
+subtitle: Applying for a blog hosted on GOV.UK
 audience:
   primary: service-manager
   secondary:
@@ -13,8 +13,6 @@ breadcrumbs:
     title: Home
     url: /service-manual
 ---
-
-Getting a blog
 
 Any business case made for continuous series of posts that are relevant to the work of a team or organisation is likely to be accepted. Continuity is important: a few interesting articles do not make a blog by themselves (though they may be posts on a blog). Creating a new blog is a commitment to sustaining it over time, and needs resources allocated to a flow of new posts, comments and reader engagement.
 

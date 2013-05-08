@@ -1,7 +1,7 @@
 ---
 layout: standard
 title: Communications
-subtitle: Sharing services with users and colleagues
+subtitle: Talking about services with users and colleagues
 audience:
   primary: service-manager
   secondary:
@@ -12,25 +12,6 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
----
-
----
-layout: standard-support
-title: Providing evidence
-subtitle: Services so good that people prefer to use them
-audience:
-  primary: service-manager
-  secondary:
-theme: getting-started
-category: dbd
-status: draft
-breadcrumbs:
-  -
-    title: Home
-    url: /service-manual
-  -
-    title: Digital by Default Service Standard
-    url: /service-manual/digital-by-default
 ---
 
 A blog is a series of articles (posts) published on a regular basis, around a particular topic or theme.  It should inform and stimulate feedback in the form of reader comments and author responses. Blogs are not just words - they often feature photos and videos, and almost always link to additional sources of online information. They are usually less formal and more engaging in tone than traditional forms of communication, and appeal to a wider audience as a result.
