@@ -1,7 +1,7 @@
 ---
 layout: standard
-title: Digital by Default Service Standard
-subtitle: Services so good that people prefer to use them
+title: Communications
+subtitle: Sharing services with users and colleagues
 audience:
   primary: service-manager
   secondary:
@@ -32,6 +32,13 @@ breadcrumbs:
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
 ---
+
+A blog is a series of articles (posts) published on a regular basis, around a particular topic or theme.  It should inform and stimulate feedback in the form of reader comments and author responses. Blogs are not just words - they often feature photos and videos, and almost always link to additional sources of online information. They are usually less formal and more engaging in tone than traditional forms of communication, and appeal to a wider audience as a result.
+
+
+
+
+
 
 Having high quality, regularly updated and publicly available evidence to demonstrate how services have met the standard is really important. It provides the whole of government with a repository of information to use in other similar service transformations, and an easy way of sharing ideas within and across departments.
 
