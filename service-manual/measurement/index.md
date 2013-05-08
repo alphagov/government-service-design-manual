@@ -32,7 +32,7 @@ The [digital by default service standard](/service-manual/digital-by-default) se
 * [completion rate](/service-manual/measurement/completion-rate.html)
 * [digital take-up](/service-manual/measurement/digital-takeup.html)
 
-These aren't the only things a service will measure. Each team will want to identify unique indicators to help judge the effectiveness of a service, and you can read [guidance on establishing these bespoke KPIs](/service-manual/measurement/other-kpis.html)too.
+These aren't the only things a service will measure. Each team will want to identify unique indicators to help judge the effectiveness of a service, and you can read [guidance on establishing these bespoke KPIs](/service-manual/measurement/other-kpis.html) too.
 
 ## What happens to the data
 
