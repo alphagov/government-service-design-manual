@@ -26,39 +26,47 @@ Occasionally, digital services will need paper forms at some stage in the transa
 For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you will want to bear in mind.
 
 ## Don't make paper forms unless you have to
-The most important thing to remember is that print forms – or printer-friendly versions of online forms – should only be made when absolutely neccessary.
+The most important thing to remember is that print forms should only be made when absolutely neccessary.
 
-For example, the legislation governing applications for Lasting Power of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a printed version of the online form has to form part of the final service.
+For example, the legislation governing Lasting Powers of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a printed version of the online form has to be part of the final service.
 
 ## Do as much as possible online
 Aim for as much of the transaction as possible to be completed online. Users should have to print as little as possible in order to complete an application, which means:
 
 * getting rid of any duplication
-* minimising the fields that need completing
-* making sure a user only prints the forms they require
 * pre-populating forms with information entered online
-* collecting only the information you need
+* making sure a user only prints the forms they require
+* eliminating unneccesary steps and fields (if a field is marked as optional, consider whether you need to collect that information at all)
 
 ## Start from scratch
-In lots of cases, paper channels will exist for services being redesigned. But these pre-existing forms will, in many cases, not be suitable for new or redesigned transactions.
+In lots of cases, paper forms will exist for services being redesigned. The launch of the digital service gives you an opportunity to improve them. When doing so, don't just base your designs on the existing forms. Look at what information you need to carry out the transaction, and try to eliminate unnecessary steps.
 
-On the other hand, this should mean that performance data is available for these forms. This will tell you more about error rates, difficulties users have with specific terminology, and the most common options people select (if multiple versions of a form or service are available). This should be useful information while you design the new forms.
+Performance data should be available for the existing forms. This will tell you about the most common options people select and the kinds of mistakes they make. This will be useful information while you design the new forms.
 
 ## The context of a form may be other forms (not the web)
 Links, smart answers, search boxes and drop downs are not available in print publications. If a transaction requires multiple forms you will need to make sure the design and layout helps users navigate them as easily as their online counterparts.
 
 In the Lasting Power of Attorney application forms, this meant
 
-* renaming the forms so it was clear in which order they needed to be completed
-* changing the order of the questions in response to user testing
-* including entry fields for questions that, online, would be eliminated in certain instances (after check boxes, for example)
+* numbering the forms so it was clear in which order they needed to be completed
+* clearly indicating when questions are optional ('skip this question if...')
+* improving the forms in response to user testing
+* giving an overview of the application process at the start
 * labelling pages and continuation sheets clearly
-* explaining most terms and differences inline
+* explaining jargon inline
+
+## Test your forms with real users
+
+You should test your paper forms with real users. For complex forms, plan for 3 rounds of [lab testing](/service-manual/users/user-research/lab-based-user-testing.html), making improvements to the form between each round.
+
+You'll gain valuable insight by attending the user research in person.
+
+Get [an introduction to user research](/service-manual/users/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
-[Templates]() (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specilist terms and langauge accessible to the majority of users.
+[Templates]() (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
-Where specilist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
+Where specialist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
 
 Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/user-satisfaction.html) in the process.
 
@@ -67,6 +75,6 @@ They complement the digital transaction, and should be easy to process by staff 
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
 
-## Further reading
+## Download templates and examples
 
 * [Template for forms (based on the Lasting Power of Attorney transaction)]()
