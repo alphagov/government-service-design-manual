@@ -79,7 +79,7 @@ You'll gain valuable insight by attending the user research in person.
 Get [an introduction to user research](/service-manual/users/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
-[Templates]() (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
+[Templates](#templates) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
 Where specialist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
 
@@ -90,6 +90,8 @@ They complement the digital transaction, and should be easy to process by staff 
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
 
-## Download templates and examples
+## Templates and examples <a id="templates"></a>
 
-* [Template for forms (based on the Lasting Power of Attorney transaction)]()
+[Contact us](/feedback/contact) if you're starting work on print forms.
+We can send you the LPA form pack to use as a template.
+The redesigned LPA forms will be published by the MOJ soon as part of a formal consultation.
