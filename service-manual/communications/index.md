@@ -1,4 +1,20 @@
 ---
+layout: standard
+title: Digital by Default Service Standard
+subtitle: Services so good that people prefer to use them
+audience:
+  primary: service-manager
+  secondary:
+theme: getting-started
+category: dbd
+status: draft
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+---
+
+---
 layout: standard-support
 title: Providing evidence
 subtitle: Services so good that people prefer to use them

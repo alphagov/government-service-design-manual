@@ -1,7 +1,7 @@
 ---
 layout: standard-support
 title: Maintaining the standard
-subtitle: Services so good that people prefer to use them
+subtitle: Ensuring services keep meeting a high standard
 audience:
   primary: service-manager
   secondary:

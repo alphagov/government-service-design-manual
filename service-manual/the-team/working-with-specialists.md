@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Working with specialists and suppliers
+title: Working with specialist suppliers
 subtitle: How people outside government can help build your service
 category: the-team
 type: guide
@@ -32,8 +32,9 @@ GDS can help you hire some roles. We have job descriptions for:
 * [designers](https://www.gov.uk/service-manual/the-team/designer.html)
 * [developers](https://www.gov.uk/service-manual/the-team/developer.html)
 * [web ops](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [content designer](/service-manual/the-team/content-designer.html)
 
-Other descriptions, eg content designers, will be published soon.
+Other descriptions will be made available. Please [contact the team](/service-manual/feedback.html) if you have particular descriptions in mind. 
 
 GDS can give you some advice on certain candidates or interviews and setting contracts. 
 
@@ -82,7 +83,8 @@ The individual's or company's intention should always be to disengage from the d
 
 ##Knowledge transfer
 Your team structure and processes should centre around transferring knowledge to permanent staff, wherever possible.
-Don’t let a contractor or consultant become a single point of failure and treat all team members (permanent and contractors) the same. 
+
+Don’t let a contractor become a single point of failure and treat all team members (permanent and contractors) the same. 
 
 ##Further reading
 A blogpost by Meri Williams of GDS on [people management in an agile setting](http://digital.cabinetoffice.gov.uk/2012/11/27/people-management-in-an-agile-setting)

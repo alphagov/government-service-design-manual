@@ -173,9 +173,9 @@ Click the label alignment options in the Sass snippet below to see how they affe
         <fieldset>
           <legend>I prefer to be contacted by</legend>
           <ul class="option group">
-            <li><label for="email"><input id="email" type="radio" name="preferred-contact" checked> Email</label></li>
-            <li><label for="telephone"><input id="telephone" type="radio" name="preferred-contact"> Telephone</label></li>
-            <li><label for="post"><input id="post" type="radio" name="preferred-contact"> Post</label></li>
+            <li><label for="contact-email"><input id="contact-email" type="radio" name="preferred-contact" checked> Email</label></li>
+            <li><label for="contact-telephone"><input id="contact-telephone" type="radio" name="preferred-contact"> Telephone</label></li>
+            <li><label for="contact-post"><input id="contact-post" type="radio" name="preferred-contact"> Post</label></li>
           </ul>
         </fieldset>
         <p class="action group">
