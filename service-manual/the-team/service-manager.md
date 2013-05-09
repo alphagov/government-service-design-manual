@@ -19,6 +19,9 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=bfH4nJNtv_g">Carolyn Williams, Service Manager
+at DVLA, talks about her role.</a></figure>
+
 Service managers are individuals who work full-time to develop and deliver all the changes necessary to provide effective user focused digital services.
 
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
