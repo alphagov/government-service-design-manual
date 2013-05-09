@@ -42,9 +42,11 @@ Aim for as much of the transaction as possible to be completed online. Users sho
 In lots of cases, paper forms will exist for services being redesigned. The launch of the digital service gives you an opportunity to improve them. When doing so, don't just base your designs on the existing forms. Look at what information you need to carry out the transaction, and try to eliminate unnecessary steps.
 
 <img src="/service-manual/assets/images/print-forms/before.png" alt="The existing LPA form pack contained 14 different documents" />
+
 <figcaption>The existing LPA form pack contained 14 different documents. It was hard to know where to begin</figcaption>
 
 <img src="/service-manual/assets/images/print-forms/after.png" alt="The proposed redesigned LPA form pack contains 4 documents, clearly numbered so you know where to begin" />
+
 <figcaption>The proposed redesigned LPA form pack contains 4 documents, clearly numbered so you know where to begin</figcaption>
 
 Performance data should be available for the existing forms. This will tell you about the most common options people select and the kinds of mistakes they make. This will be useful information while you design the new forms.
@@ -53,6 +55,7 @@ Performance data should be available for the existing forms. This will tell you 
 Links, smart answers, search boxes and drop downs are not available in print publications. If a transaction requires multiple forms you will need to make sure the design and layout helps users navigate them as easily as their online counterparts.
 
 <img src="/service-manual/assets/images/print-forms/numbering.png" alt="The proposed redesigned LPA forms are clearly numbered so you know where to begin" />
+
 <figcaption>The proposed redesigned LPA forms are clearly numbered so you know where to begin</figcaption>
 
 In the Lasting Power of Attorney application forms, this meant
@@ -65,9 +68,11 @@ In the Lasting Power of Attorney application forms, this meant
 * explaining jargon inline
 
 <img src="/service-manual/assets/images/print-forms/process.png" alt="The new LPA form gives you an overview of the entire process" />
+
 <figcaption>The new LPA form gives you an overview of the entire process</figcaption>
 
 <img src="/service-manual/assets/images/print-forms/skip.png" alt="Steps which you may be able to skip are clearly marked" />
+
 <figcaption>Steps which you may be able to skip are clearly marked</figcaption>
 
 ## Test your forms with real users
@@ -86,6 +91,7 @@ Where specialist terms are unavoidable, or neccessary, you will need people who 
 Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/user-satisfaction.html) in the process.
 
 ##Forms are not an alternative channel
+
 They complement the digital transaction, and should be easy to process by staff working to support the digital service.
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
@@ -94,4 +100,4 @@ Their performance also has an impact on the [KPIs you gather for digital service
 
 [Contact us](/feedback/contact) if you're starting work on print forms.
 We can send you the LPA form pack to use as a template.
-The redesigned LPA forms will be published by the MOJ soon as part of a formal consultation.
+The redesigned LPA forms will be made public soon by the MOJ as part of a formal consultation.
