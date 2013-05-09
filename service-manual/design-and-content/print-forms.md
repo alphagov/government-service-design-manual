@@ -93,5 +93,12 @@ Their performance also has an impact on the [KPIs you gather for digital service
 ## Templates and examples <a id="templates"></a>
 
 [Contact us](/feedback/contact) if you're starting work on print forms.
-We can send you the LPA form pack to use as a template.
-The redesigned LPA forms will be published by the MOJ soon as part of a formal consultation.
+We can send you the LPA form pack to use as a template. (The redesigned LPA forms will be made public by the MOJ soon as part of a formal consultation.)
+
+### Download template form
+
+* [InDesign CS6 (.indd) file](/service-manual/assets/documents/print-forms/template-form.indd)
+* [InDesign CS4 (.idml) file](/service-manual/assets/documents/print-forms/template-form.idml)
+* [PDF file (not editable)](/service-manual/assets/documents/print-forms/template-form.pdf)
+
+
