@@ -99,7 +99,6 @@ Their performance also has an impact on the [KPIs you gather for digital service
 ## Templates and examples <a id="templates"></a>
 
 [Contact us](/feedback/contact) if you're starting work on print forms.
-<<<<<<< HEAD
 We can send you the LPA form pack to use as a template. (The redesigned LPA forms will be made public soon by the MOJ as part of a formal consultation.)
 
 ### Download template form
