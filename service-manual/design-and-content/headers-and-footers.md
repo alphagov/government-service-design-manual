@@ -27,12 +27,18 @@ When your service is in alpha or beta you will need to clearly label this so you
 ### Service title and navigation
 The title of your service should sit in the header, clearly labelling the service to your users. This title should link back to the homepage of your service (which should generally be http://servicename.service.gov.uk/).
 
+[![Example headers showing service title and alpha/beta badges](/service-manual/assets/images/header-footer/not-govuk-no-search.png)](/service-manual/assets/images/header-footer/not-govuk-no-search.png)
+
 If necessary a navigation menu should live in the header. This should link to the main areas of your service. This menu should not be more than two lines deep at full width and ideally should contain as few links as possible. This will obviously depend on the complexity of your service but if you are finding you have a lot of links here you should think about the user need for each top level link.
+
+[![Example headers showing navigation](/service-manual/assets/images/header-footer/not-govuk-with-prop.png)](/service-manual/assets/images/header-footer/not-govuk-with-prop.png)
 
 The links in the header should remain constant no matter what state the service is in. Navigation and information that does change throughout the process (eg user account information, shopping basket count, etc) should sit in a separate sub-navigation.
 
 ### Search
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
+
+[![Example headers showing search box](/service-manual/assets/images/header-footer/not-govuk-standard.png)](/service-manual/assets/images/header-footer/not-govuk-standard.png)
 
 You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labeled and given appropriate ARIA attributes. They should also be visually differntiated from the main search box.
 
@@ -42,7 +48,11 @@ Information that changes over the course of the transaction or service should no
 ### Using the GOV.UK logotype
 You can only use the GOV.UK logotype if your service is currently available on the service.gov.uk subdomain. If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device.
 
+[![Example headers showing GOV.UK logo](/service-manual/assets/images/header-footer/govuk-standard.png)](/service-manual/assets/images/header-footer/govuk-standard.png)
+
 If your service is availble on the service.gov.uk subdomain you may use the GOV.UK logotype prefixed with an alpha or beta label. You may not use the crown until your service has passed the standard and has been declared live by the Go Live panel. The logotype should link back to [GOV.UK](https://www.gov.uk/)
+
+[![Example headers showing GOV.UK logo with navigation](/service-manual/assets/images/header-footer/govuk-with-prop.png)](/service-manual/assets/images/header-footer/govuk-with-prop.png)
 
 ### Using the crown
 Once your service has passed the standard and has been declared live you may use the crown.
