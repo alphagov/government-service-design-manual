@@ -48,18 +48,20 @@ to overcome those obstacles.
 ## Personal Specification - Competencies / Skills 
 
 SEEING THE BIG PICTURE
-Essential  					
+
+**Essential**  					
 
 * Building on the inter-dependencies and relationships between teams to create a common purpose
 * Clarifying and communicating team objectives, bringing a broader perspective to a team so that it can focus on different delivery approaches
 * Co-ordinating and monitoring team performance, utilising team diversity to maximise effectiveness
 
-Desirable
+**Desirable**
 
 * Familiarity with the public sector and government processes
 
 BUILDING CAPABILITY FOR ALL
-Essential						
+
+**Essential**						
 
 * Valuing contributions from everyone, rewarding productive behaviour and promptly addressing any poor performance
 * Ability to work in a diverse team of highly talented staff, from different disciplines and backgrounds.
@@ -67,14 +69,16 @@ Essential
 * Ensuring equal access to learning and development opportunities to enable all people to realise their full potential
 							
 LEADING AND COMMUNICATING
-Essential
+
+**Essential**
 
 * Strong communication skills; the ability to make extremely complex subjects clear and easy to comprehend.
 * Excellent stakeholder management skills, and the ability to form strong collaborative relationships.
 * Proposing ways in which communication and marketing can add creative and innovative impact
 
 MAKING EFFECTIVE DECISIONS	
-Essential
+
+**Essential**
 
 * Identifying emerging performance issues or trends and proposing decisive strategic action
 * Probing evidence to identify quick fixes and user needs for service improvements
@@ -82,19 +86,21 @@ Essential
 * The ability to make sound judgements under pressure and competing demands.
 
 DELIVERING AT PACE
-Essential
+
+**Essential**
 
 * Ensuring efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
 * Managing across boundaries to ensure delivery of benefits and sharing lessons learned
 							
 DELIVERING VALUE FOR MONEY
 
-Desirable	 	 	 					
+**Desirable**	 	 	 					
 * Experience of complying with government guidance on finance and procurement policies and applying procedures correctly
 * Advising on future resource requirements and assessing the implications of changing demands
 
 MANAGING A QUALITY SERVICE
-Essential										
+
+**Essential**										
 
 * Investing time to understand customer and stakeholder expectations and priorities, developing services to meet those needs, including when they change
 * Anticipating and managing problems, bringing issues and conflict into the open and taking pre-emptive action
