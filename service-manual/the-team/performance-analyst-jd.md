@@ -15,7 +15,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-*NOTE: the following template was used to advertise a content designer vacancy at GDS*
+*NOTE: the following template was used to advertise a performance analyst vacancy at GDS*
 
 ## Job description
 
