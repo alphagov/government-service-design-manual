@@ -31,7 +31,7 @@ Many business processes are ripe for automation. Automation removes manual, erro
 
 ### Measurement
 
-Using data to drive change can be hugely powerful, in particular when it is done to involve people from different groups in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can be transformative on it’s own.
+Using data to drive change can be hugely powerful, in particular when it is done to involve people from different groups in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can be transformative on its own.
 
 ### Sharing
 
