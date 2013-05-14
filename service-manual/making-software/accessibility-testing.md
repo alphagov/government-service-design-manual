@@ -29,7 +29,11 @@ It’s important to consider a range of disabilities when you are testing any pr
 * auditory disabilities which can also affect language 
 * motor skills impairments eg those affected by arthritis, strokes, RSI
 
-Section III of the [Disability Discrimination Act (DDA)](http://www.nidirect.gov.uk/the-disability-discrimination-act-dda), also states that websites should be accessible to blind and disabled users. The Code of Practice for this section of the DDA was published on 27th May 2002. The elements most relevant to website designs are set out in [this blogpost](http://www.webcredible.co.uk/user-friendly-resources/web-accessibility/uk-website-legal-requirements.shtml).
+The [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/introduction) came into force in 2010 and is intended to tackle discrimination against members of society who may be unfairly treated due to age, disability, race, religion or sexual orientation.
+
+We have a duty to [make adjustments for disabled persons](http://www.legislation.gov.uk/ukpga/2010/15/part/2/chapter/2/crossheading/adjustments-for-disabled-persons) so that we do not exclude them from the services we provide and must make every reasonable attempt to ensure access.
+
+The RNIB has a [useful guide to the UK law](http://www.rnib.org.uk/professionals/webaccessibility/lawsandstandards/Pages/uk_law.aspx) and how it affects the accessibility of your site or service.
 
 ## Carrying out accessibility testing
 
