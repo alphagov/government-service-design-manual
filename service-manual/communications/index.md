@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Digital by Default Service Standard
-subtitle: Services so good that people prefer to use them
+title: Communication
+subtitle: Telling users and government about digital services
 audience:
   primary: service-manager
   secondary:
