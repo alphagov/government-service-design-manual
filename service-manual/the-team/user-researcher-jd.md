@@ -19,21 +19,21 @@ breadcrumbs:
 
 ## Job description
 
-The government’s approach to digital and IT put user needs at the heart of decision making. User Researchers are therefore key figures in service teams, working to generate the feedback and insight service teams need to build a clear picture of their users and deliver solutions that they need.  They will support Service Managers by generating new and useful user insights and translating it into features and actions that will allow them to iteratively improve their service for users.
+The government’s approach to digital and IT put user needs at the heart of decision making. User Researchers are therefore key figures in [service teams](/service-manual/the-team.html), working to generate the feedback and insight service teams need to build a clear picture of their users and deliver solutions that they need.  They will support [service managers](/service-manual/the-team/service-manager.html) by generating new and useful user insights and translating it into features and actions that will allow them to iteratively improve their service for users.
 
-You will be experienced in using a variety of user testing methodologies to reveal actionable customer insights. You will have excellent analytical and problem solving skills, and the ability to quickly develop recommendations based on quantitative and qualitative evidence. You will need to be confident in explaining user needs to senior civil servants, and for acting as a persuasive advocate for those needs both within the team and the department at large. You will also be comfortable working with data, from gathering and analysis through to design and presentation. 
+You will be experienced in using a variety of [user testing](/service-manual/users/introduction-to-user-research.html) methodologies to reveal actionable customer insights. You will have excellent analytical and problem solving skills, and the ability to quickly develop recommendations based on quantitative and qualitative evidence. You will need to be confident in explaining user needs to senior civil servants, and for acting as a persuasive advocate for those needs both within the team and the department at large. You will also be comfortable working with data, from gathering and analysis through to design and presentation. 
 
 The main responsibilities of the post are:
 
-* Planning, designing and conducting in-house usability testing sessions to support the design and development of digital government services.
-* Leading the usability testing process from developing user recruitment briefs through to test moderation, analysis and report writing.
-* Conducting in-house research to test new product and concept developments. Including user requirements gathering and early stage concept and prototype testing, guerrilla research, and other approaches to ensuring the user need is fully understood in the service design
-* Working with Service Managers to devise appropriate research strategies to generate focused insights and to convert concepts into high quality stimulus material.
-* Working closely with designers and developers to turn user data into actionable product/service requirements that feed into prototype development, and influence product direction.
-* Applying knowledge in human factors, ethnography, and the user-centered design process to product and service design in an iterative development environment.
-* Presenting findings and related design/business recommendations and customer insights to senior decision makers.
-* Managing day-to-day operations with a range of usability and market research agencies with accountability for schedules, value for money and deliverables.
-* Promoting user centred design principles and best practice within government, contributing to the Government Service Design Manual.
+* planning, designing and conducting in-house usability testing sessions to support the design and development of digital government services
+* leading the usability testing process from developing user recruitment briefs through to test moderation, analysis and report writing
+* conducting in-house research to test new product and concept developments (including user requirements gathering and early stage concept and prototype testing, guerrilla research, and other approaches to ensuring the user need is fully understood in the service design)
+* working with Service Managers to devise appropriate research strategies to generate focused insights and to convert concepts into high quality stimulus material
+* working closely with designers and developers to turn user data into actionable product/service requirements that feed into prototype development, and influence product direction
+* applying knowledge in human factors, ethnography, and the user-centered design process to product and service design in an iterative development environment
+* presenting findings and related design/business recommendations and customer insights to senior decision makers
+* managing day-to-day operations with a range of usability and market research agencies with accountability for schedules, value for money and deliverables
+* promoting user centred design principles and best practice within government, contributing to the Government Service Design Manual
 
 ## Personal Specification - Competencies / Skills 
 
