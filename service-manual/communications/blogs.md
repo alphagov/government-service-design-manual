@@ -16,7 +16,7 @@ breadcrumbs:
     url: /service-manual/communications
 ---
 
-Blogs are used as a public record of the work and research being carried out by service teams throughout government. They’re an effective way of communicating with colleagues and stakeholders, and offer teams to share learning or ask for help in the creation of services that meet the Digital by Default Service Standard
+Blogs are used as a public record of the work and research being carried out by service teams throughout government. They’re an effective way of communicating with colleagues and stakeholders, and offer teams to share learning or ask for help in the creation of services that meet the Digital by Default Service Standard.
 
 ## Why use a blog
 Having high quality, regularly updated and publicly available evidence to demonstrate how services have met the standard is really important. It provides the whole of government with a repository of information to use in other similar service transformations, and an easy way of sharing ideas within and across departments.
@@ -24,9 +24,9 @@ Having high quality, regularly updated and publicly available evidence to demons
 As a means of providing evidence for the standard, blogging has a relatively low impact on a team’s existing process. We expects posts to be regular and candid, reflecting the pace of development within an organisation and providing plenty of opportunity for members of a go live panel to review a teams progress in advance of the review.
 
 ## Getting a blog
-GDS is setting up a GOV.UK blogging platform to help services provide evidence in this way. It will be ready from the beginning of May. More details about how to set up a blog will be available soon.
+GDS is setting up a GOV.UK blogging platform to help services provide evidence in this way. It will be ready from the end of May. More details about how to set up a blog will be available soon.
 
-If your department or team already has a blog, there’s no need to start an additional one. [Let us know where it is](mailto:dbdss@digital.cabinet-office.gov.uk), and GDS will make sure it is linked to from the GOV.UK platform -- so there is one place that hosts all the service team blogs in government.
+If your department or team already has a blog, there’s no need to start an additional one. [Let us know where it is](mailto:dbdss@digital.cabinet-office.gov.uk) and GDS will make sure it is linked to from the GOV.UK platform, so there is one place that hosts all the service team blogs in government.
 
 ## How to write a blog post
 
