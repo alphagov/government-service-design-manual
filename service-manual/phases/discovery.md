@@ -19,19 +19,21 @@ breadcrumbs:
 ---
 
 {:.intro}
-The discovery phase is your chance to find out what the users of your service need, what the business requirements are and what technological or policy related constraints there might be.
+What are the [needs of your users](/service-manual/users/user-needs.html)? What services currently meet those? How are they [performing](/service-manual/performance.html)? What technological or policy related constraints might there be?
 
-The discovery phase is your chance to gain an understanding of what the users of the service need, what the business requirements are and what technological or policy related constraints there might be. This is achieved through [research, workshops and interviews](/service-manual/users/introduction-to-user-research.html).
+Before you start building a service you need to build up a picture of what the context for that service is. That means lots of [user research](/service-manual/users/introduction-to-user-research.html), close analysis of policies, laws and business needs, and workshops and interviews which establish the criteria for success of your service.
 
 ## Objectives
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=UVX1BT0oxWU">Watch Aleks Maricic, GDS Proposition Manager, describe the discovery phase.</a></figure>
 
-The discovery phase will give you a high-level understanding of users needs, what the existing service landscape looks like and a sense of what your initial prototypes will explore.
+The discovery phase will give you a high-level understanding of [users needs](/service-manual/users/user-needs.html), what the existing service landscape looks like and a sense of what your [initial prototypes](/service-manual/design-and-content/working-with-prototypes.html) will explore.
+
+A high-level user needs analysis needs to be conducted. You need to find out who your user is i.e what demographic and socio-economic groups they are from. After this, you can then focus on their potential assisted digital needs. 
 
 The high level business context will become clear, and you will begin setting targets for [your KPIs](/service-manual/measurement).
 
-You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for replacing or decommissioning these.
+You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for [replacing or decommissioning these](/service-manual/phases/retirement.html).
 
 This information is found through:
 
@@ -47,7 +49,7 @@ This information is found through:
 
 # Timescales
 
-The phase should not take longer than 4-8 weeks. During the final week you should be setting up the broad scope of a  project and an initial backlog to deliver against. This is known as an 'inception'. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
+The phase should not take longer than 4-8 weeks. During the final week you should be setting up the broad scope of a project and an initial set of [user stories](/service-manual/agile/writing-user-stories.html) (also known as a backlog) to deliver against. This is known as an 'inception'. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
 
 
 ## Outputs
@@ -56,11 +58,13 @@ You will leave the discovery phase with:
 
 * a prioritised list of [user needs](/service-manual/users/user-needs.html)
 * a prioritised list of [story cards](/service-manual/agile/writing-user-stories.html) to feed into project teams
-* understanding of landscape
+* understanding of existing services, including those run by non-government sources
 * understanding of [team](/service-manual/the-team) and capability required to deliver the project
 * ability to scope and plan an [alpha](/service-manual/phases/alpha.html)
 * a decision to progress to next phase
 * maybe some rough prototypes
+* a list of stakeholders and input from them about existing services
+* a sense of existing assisted digital support for the transaction or audience
 
 **[Next phase: alpha](/service-manual/phases/alpha.html)**
 
