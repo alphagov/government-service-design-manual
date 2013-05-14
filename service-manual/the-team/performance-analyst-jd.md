@@ -19,31 +19,22 @@ breadcrumbs:
 
 ## Job description
 
-Digital Performance Analysts sit at the heart of a team, working to specify, collect, analyse, and present the 
-key performance data and analysis for their service.  The post holder will be part of a revolution in the way 
-in which government continuously measures, assesses, and improves performance in transacting with the public. 
-They support service managers by generating new and useful information and translating it into actions that 
-will allow them to iteratively improve their service for users.
+Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team.html), working to specify, collect, analyse, and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
 
-You will have excellent analytical and problem solving skills will enable you to quickly develop recommendations 
-based on the quantitative and qualitative evidence gathered via web analytics, financial data and user feedback. 
-You will need to be confident in explaining technical concepts to senior civil servants with limited technological 
-background. You will be comfortable working with data, from gathering and analysis through to design and 
-presentation. Commercial experience of performance management is an advantage. 
+They support service managers by generating new and useful information and translating it into actions that will allow them to iteratively improve their service for users.
+
+You will have excellent analytical and problem solving skills will enable you to quickly develop recommendations based on the quantitative and qualitative evidence gathered via [web analytics](/service-manual/making-software/analytics-tools.html), [financial data](/service-manual/measurement/cost-per-transaction.html) and [user feedback](/service-manual/operations/helpdesk.html). 
+
+You will need to be confident in explaining technical concepts to senior civil servants with limited technological background. You will be comfortable working with data, from gathering and analysis through to design and presentation. Commercial experience of performance management is an advantage. 
 
 The main responsibilities of the post are to:
 
-* support the service manager in ensuring that their service meets the performance requirements set out in the 
-Digital by Default Service Standard;
-* communicate service performance against key indicators to the Cabinet Office and other senior stakeholders within 
-the department;
-* ensure high quality analysis of departmental transaction data;
-* support the procurement of the necessary digital platforms to support automated and real-time collection and 
-presentation of data;
-* share examples of best practice in digital performance management across government, contributing to the 
-Government Service Design Manual;
-* identify delivery obstacles to improving transactional performance within departments and working with teams 
-to overcome those obstacles.
+* support the [service manager](/service-manual/the-team/service-manager.html) in ensuring that their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default.html)
+* communicate service performance against key indicators to the Cabinet Office and other senior stakeholders within the department
+* ensure high quality analysis of departmental [transaction data](/service-manual/measurement/cost-per-transaction.html)
+* support the procurement of the [necessary digital platforms](/service-manual/making-software/analytics-tools.html) to support automated and real-time collection and presentation of data
+* share examples of best practice in digital performance management across government, contributing to the [Government Service Design Manual](/service-manual.html)
+* identify delivery obstacles to improving transactional performance within departments and working with teams to overcome those obstacles.
 
 ## Personal Specification - Competencies / Skills 
 
