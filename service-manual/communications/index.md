@@ -1,5 +1,5 @@
 ---
-layout: standard
+layout: category-index
 title: Communications
 subtitle: Talking about services with users and colleagues
 audience:
@@ -18,7 +18,7 @@ Service teams moving through the development process will want to make sure that
 
 As many such redesigns are still in the early stages, guidance about communicating is still evolving.
 
-In the meantime, you can read about: 
+In the meantime, you can read about:
 
 * [using blogs to report on a service's progress](/service-manual/communications/blogs.html)
 * how [channel shift](/service-manual/measurement/channel-shift.html) will be measured for every service
