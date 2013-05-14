@@ -1,5 +1,5 @@
 ---
-layout: standard
+layout: detailed-guidance
 title: Digital by Default Service Standard
 subtitle: Services so good that people prefer to use them
 audience:
@@ -12,25 +12,6 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
----
-
----
-layout: standard-support
-title: Providing evidence
-subtitle: Services so good that people prefer to use them
-audience:
-  primary: service-manager
-  secondary:
-theme: getting-started
-category: dbd
-status: draft
-breadcrumbs:
-  -
-    title: Home
-    url: /service-manual
-  -
-    title: Digital by Default Service Standard
-    url: /service-manual/digital-by-default
 ---
 
 Having high quality, regularly updated and publicly available evidence to demonstrate how services have met the standard is really important. It provides the whole of government with a repository of information to use in other similar service transformations, and an easy way of sharing ideas within and across departments.
