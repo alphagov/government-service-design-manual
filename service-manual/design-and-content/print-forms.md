@@ -28,7 +28,7 @@ For the most part you can approach these as design challenges like any other - t
 ## Don't make paper forms unless you have to
 The most important thing to remember is that print forms should only be made when absolutely neccessary.
 
-For example, the legislation governing Lasting Powers of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a printed version of the online form has to be part of the final service.
+For example, the legislation governing Lasting Powers of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a print form has to be part of the final service.
 
 ## Do as much as possible online
 Aim for as much of the transaction as possible to be completed online. Users should have to print as little as possible in order to complete an application, which means:
@@ -75,6 +75,18 @@ In the Lasting Power of Attorney application forms, this meant
 
 <figcaption>Steps which you may be able to skip are clearly marked</figcaption>
 
+## Digital to paper and back to digital again
+
+Your paper forms are a small but important part of a digital process. Typically you'll be switching to paper forms to collect a signature.
+
+Here are some ways you can make this transition easier:
+
+* Add familiarity by showing some of the information the user has just entered in large font – their name, for example.
+* Create a transcript of the information entered using the digital tool, with a signature box at the bottom.
+* If your digital output has to match an existing paper form, you can still add a cover sheet with user's input (for familiarity)
+* Clearly explain the next step. For example, give the address to send the form to, or give a web address to continue using the digital tool. If you give a URL, include a short ID string which logs the user in and takes them to the relevant step
+* The digital and paper counterparts should have a similar look and feel
+
 ## Test your forms with real users
 
 You should test your paper forms with real users. For complex forms, plan for 3 rounds of [lab testing](/service-manual/users/user-research/lab-based-user-testing.html), making improvements to the form between each round.
@@ -84,7 +96,8 @@ You'll gain valuable insight by attending the user research in person.
 Get [an introduction to user research](/service-manual/users/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
-[Templates](#templates) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
+
+[Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
 Where specialist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
 
@@ -96,7 +109,7 @@ They complement the digital transaction, and should be easy to process by staff 
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
 
-## Templates and examples <a id="templates"></a>
+## Templates and examples
 
 [Contact us](/feedback/contact) if you're starting work on print forms.
 We can send you the LPA form pack to use as a template. (The redesigned LPA forms will be made public soon by the MOJ as part of a formal consultation.)
