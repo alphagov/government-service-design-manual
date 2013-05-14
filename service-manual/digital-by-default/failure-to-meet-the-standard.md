@@ -25,7 +25,7 @@ A service may fail to meet [the standard](/service-manual/digital-by-default/ind
 
 ## Failure during service design
 
-If there is evidence that a service is being designed in a way which is not in line with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with the responsible service manager and Digital Leader and suggest corrective action.
+If there is evidence that a service is being designed in a way which is not in line with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with the responsible service manager and [Digital Leader](/service-manager/the-team/digital-leader.html) and suggest corrective action.
 
 Service progress towards meeting the standard will also be assessed at every [spending control](https://www.gov.uk/service-manual/agile/spending-controls.html) point the service passes through. If the department cannot provide sufficient evidence that the work completed so far is in line with the criteria and evidence requirements of the standard, further spending on the project will not be approved. If the business case is rejected, GDS will stipulate what the service must provide evidence for in order for funding to be released.
 
