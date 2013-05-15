@@ -30,6 +30,8 @@ The main responsibilities of the post are:
 * conducting in-house research to test new product and concept developments (including user requirements gathering and early stage concept and prototype testing, guerrilla research, and other approaches to ensuring the user need is fully understood in the service design)
 * working with Service Managers to devise appropriate research strategies to generate focused insights and to convert concepts into high quality stimulus material
 * working closely with designers and developers to turn user data into actionable product/service requirements that feed into prototype development, and influence product direction
+* Designing, scripting and analysing ad-hoc quantitative surveys using in-house software licences
+* Managing ad-hoc qualitative/quantitative research projects such as proposition development, visual identity and customer experience mapping
 * applying knowledge in human factors, ethnography, and the user-centered design process to product and service design in an iterative development environment
 * presenting findings and related design/business recommendations and customer insights to senior decision makers
 * managing day-to-day operations with a range of usability and market research agencies with accountability for schedules, value for money and deliverables
