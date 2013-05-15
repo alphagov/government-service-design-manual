@@ -181,7 +181,7 @@ breadcrumbs:
     </div>
   </li>
   <li>
-    <div class="point">Use open standards and common Government platforms (eg Identity Assurance) where available</div>
+    <div class="point">Use open standards and common Government platforms (eg [identity assurance](/service-manual/identity-assurance.html)) where available</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
