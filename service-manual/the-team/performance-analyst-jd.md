@@ -19,7 +19,7 @@ breadcrumbs:
 
 ## Job description
 
-Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team.html), working to specify, collect, analyse, and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
+Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team.html), working to specify, collect and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
 
 They support service managers by generating new and useful information and translating it into actions that will allow them to iteratively improve their service for users.
 
@@ -98,6 +98,8 @@ MANAGING A QUALITY SERVICE
 * Identifying and introducing improved services to deliver customer and stakeholder requirements.
 
 SPECIALIST SKILLS
+
+**Essential**
 
 * Familiarity with web technologies an advantage
 * Familiarity with data analysis and visualisation tools an advantage: e.g. Google Analytics, Google Refine, Tableau etc.
