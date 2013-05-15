@@ -40,10 +40,12 @@ More information will be published in the manual when it's available.
 ##Further reading
 
 **Essential**
-[Good Practice Guide 43:]() Requirements for secure delivery of online public services
+
+* [Good Practice Guide 43:]() Requirements for secure delivery of online public services
 
 **Helpful**
-[Good Practice Guide 44:]() Authentication Credentials in Support of HMG Online Services 
-[Good Practice Guide 45:]() Identity Proofing and Verifying the Identity of an Individual in Support of HMG Online Services
-[Identity assurance: enabling trusted transactions](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions)
-[Blog posts from the IDA team](http://digital.cabinetoffice.gov.uk/?s=identity+assurance)
+
+* [Good Practice Guide 44:]() Authentication Credentials in Support of HMG Online Services 
+* [Good Practice Guide 45:]() Identity Proofing and Verifying the Identity of an Individual in Support of HMG Online Services
+* [Identity assurance: enabling trusted transactions](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions)
+* [Blog posts from the IDA team](http://digital.cabinetoffice.gov.uk/?s=identity+assurance)
