@@ -24,7 +24,11 @@ The identity assurance service (or IDA) will provide a simple, safe way for peop
 
 Users will choose from a group of companies to help prove their identity when they sign in to GOV.UK. These companies will be certified by government and will perform simple checks to confirm the user's identity to GOV.UK. 
 
-This means user information will be split into smaller parts and the responsibility of storage shared. This will be safer than storing everything centrally, and a secure way to access services online.
+This means that:
+* user information will be split into smaller parts 
+* the responsibility of storage that information will be shared 
+
+This will be safer than storing everything centrally, and a secure way to access services online.
 
 ##What's happening now?
 
