@@ -27,18 +27,18 @@ Users will need to know if your service is in alpha or beta. Many will not recog
 ### Service title and navigation
 The title of your service should sit in the header, clearly labelling the service to your users. This title should link back to the homepage of your service (which should generally be http://servicename.service.gov.uk/).
 
-[![Example headers showing service title and alpha/beta badges](/service-manual/assets/images/header-footer/not-govuk-no-search.png)](/service-manual/assets/images/header-footer/not-govuk-no-search.png)
+[![Example headers showing service title and alpha/beta badges](/service-manual/assets/images/header-footer/not-govuk-standard.png)](/service-manual/assets/images/header-footer/not-govuk-standard.png)
 
 If necessary a navigation menu should live in the header. This should link to the main areas of your service. This menu should not be more than two lines deep at full width and ideally should contain as few links as possible. This will obviously depend on the complexity of your service but if you are finding you have a lot of links here you should think about the user need for each top level link.
 
-[![Example headers showing navigation](/service-manual/assets/images/header-footer/not-govuk-with-prop.png)](/service-manual/assets/images/header-footer/not-govuk-with-prop.png)
+[![Example headers showing navigation](/service-manual/assets/images/header-footer/not-govuk-nav.png)](/service-manual/assets/images/header-footer/not-govuk-nav.png)
 
 The links in the header should remain constant no matter what state the service is in. Navigation and information that does change throughout the process (eg user account information, shopping basket count, etc) should sit in a separate sub-navigation.
 
 ### Search
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
 
-[![Example headers showing search box](/service-manual/assets/images/header-footer/not-govuk-standard.png)](/service-manual/assets/images/header-footer/not-govuk-standard.png)
+[![Example headers showing search box](/service-manual/assets/images/header-footer/not-govuk-search.png)](/service-manual/assets/images/header-footer/not-govuk-search.png)
 
 You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labeled and given appropriate ARIA attributes. They should also be visually differntiated from the main search box.
 
@@ -52,7 +52,7 @@ You can only use the GOV.UK logotype if your service is currently available on t
 
 If your service is availble on the service.gov.uk subdomain you may use the GOV.UK logotype prefixed with an alpha or beta label. You may not use the crown until your service has passed the standard and has been declared live by the Go Live panel. The logotype should link back to [GOV.UK](https://www.gov.uk/)
 
-[![Example headers showing GOV.UK logo with navigation](/service-manual/assets/images/header-footer/govuk-with-prop.png)](/service-manual/assets/images/header-footer/govuk-with-prop.png)
+[![Example headers showing GOV.UK logo with navigation](/service-manual/assets/images/header-footer/govuk-search-nav.png)](/service-manual/assets/images/header-footer/govuk-search-nav.png)
 
 ### Using the crown
 Once your service has passed the standard and has been declared live you may use the crown.
@@ -63,14 +63,5 @@ The footer of your service should follow the design patterns used by the GOV.UK 
 The footer should also state the appropriate copyright and licence notices.
 
 ## Templates and styles
-You can access the templates and styles in the static repositiory on the GDS Github account. They are also available via HTTP.
-
-We have created 4 templates for both alpha and beta services, showing the various ways the header can work with a combination of elements.
-
-| standard | alpha | beta | GOV.UK alpha | GOV.UK beta |
-| no search | alpha | beta | GOV.UK alpha | GOV.UK beta |
-| service title and navigation |   |   | GOV.UK alpha | GOV.UK beta |
-| service title no search |   |   | GOV.UK alpha | GOV.UK beta |
-
-You should obviously tailor the header to suit your service based on the guidelines above.
+If need access to the templates and styles please make a request via [our feedback form](/feedback).
 
