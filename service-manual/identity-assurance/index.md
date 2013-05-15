@@ -25,16 +25,17 @@ The identity assurance service (or IDA) will provide a simple, safe way for peop
 Users will choose from a group of companies to help prove their identity when they sign in to GOV.UK. These companies will be certified by government and will perform simple checks to confirm the user's identity to GOV.UK. 
 
 This means that:
-* user information will be split into smaller parts 
-* the responsibility of storage that information will be shared 
 
-This will be safer than storing everything centrally, and a secure way to access services online.
+* user information can be split into smaller parts 
+* the responsibility of storing that information will be shared 
+
+This will be safer than storing everything centrally, and is a secure way to access services online.
 
 ##What's happening now?
 
-The identity assurance service is at the prototype stage, being tested in a weekly cycle of user research and development. The service will launch in stages, across different departments from late 2013. Research and development will continue throughout. 
+The identity assurance service is at the prototype stage, being tested in a weekly cycle of user research and development. The service will launch in stages, across different departments from late 2013.  
 
-More information will be published in the manual when it's available. In the meantime contact [Amanda Derrick](amanda.derrick@digital.cabinet-office.gov.uk) if you need more detail.
+More information will be published in the manual when it's available.
 
 ##Further reading
 
