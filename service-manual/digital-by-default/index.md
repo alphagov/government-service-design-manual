@@ -34,7 +34,7 @@ breadcrumbs:
 
 
 <ol class="standard">
-  <li>
+  <li id="criterion-1">
     <div class="point">Understand user needs, conducting research to develop a deep knowledge of who the service users are and what that implies for digital and assisted digital service design</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -45,7 +45,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-2">
     <div class="point">
       Assemble a multidisciplinary team who can design, build and operate the service, led by a single, suitably skilled and empowered Service Manager
     </div>
@@ -57,7 +57,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-3">
     <div class="point">Consider what user data and information the service will be providing or storing, and address the security level, legal responsibilities and risks associated with the service, consulting with experts where appropriate</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -67,7 +67,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-4">
     <div class="point">Consider the privacy risks to ensure that personal data collection requirements are appropriate</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -77,7 +77,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-5">
     <div class="point">Consider the tools and systems they will be using to build, host, operate and measure their service, and how to procure them</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -87,7 +87,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-6">
     <div class="point">Build a working prototype, using the agile, iterative and user-centred methods set out in the manual</div>
     <div class="guidance">
     <p>Related guides</p>
@@ -98,7 +98,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-7">
     <div class="point">Establish performance benchmarks, in consultation with GDS, using the four key indicators (KPIs) defined in the manual, against which the service will be measured</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -107,7 +107,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-8">
     <div class="point">Analyse the prototype service’s success, translating user feedback into features and tasks for the next phase of development</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -116,7 +116,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-9">
     <div class="point">Create a service that is simple and intuitive enough that users succeed first time, unaided</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -125,7 +125,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-10">
     <div class="point">Put appropriate assisted digital support in place, targeted towards those who genuinely need it</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -134,7 +134,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-11">
     <div class="point">Plan (with GDS) for the phasing out of existing alternative channels where appropriate</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -143,7 +143,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-12">
     <div class="point">Integrate the service with any non-digital steps required for legal reasons</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -152,7 +152,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-13">
     <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -161,7 +161,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-14">
     <div class="point">Make sure you have the capacity and technical flexibility to update and improve the service on a very frequent basis</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -170,7 +170,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-15">
     <div class="point">Make all new source code open and reuseable, and publish it under appropriate licences (or have provided a convincing explanation of why this cannot be done for specific subsets of the source code)</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -180,8 +180,8 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
-    <div class="point">Use open standards and common Government platforms (eg [identity assurance](/service-manual/identity-assurance.html)) where available</div>
+  <li id="criterion-16">
+    <div class="point">Use open standards and common Government platforms (eg <a href="/service-manual/identity-assurance.html">identity assurance</a>) where available</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -189,7 +189,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-17">
     <div class="point">Be able to test the end-to-end service as if it were in an environment identical to that of the live version, with dummy accounts and a representative sample of potential service users, on all common browsers and devices</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -199,7 +199,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-18">
     <div class="point">Instrument analytics tools which collect performance data</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -208,7 +208,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-19">
     <div class="point">Build and resource a service that can be improved on a very frequent basis, in response to user feedback or performance data for example</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -217,7 +217,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-20">
     <div class="point">Put a plan in place for ongoing user testing, including the ability to support multivariate experiments</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -228,7 +228,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-21">
     <div class="point">Achieve ongoing high levels of user satisfaction across the digital and assisted digital service that are reported on the Performance Platform</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -237,7 +237,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-22">
     <div class="point">Achieve ongoing high completion rates across the digital and assisted digital service that are reported on the Performance Platform</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -246,7 +246,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-23">
     <div class="point">Create a plan for, and evidence to support, achieving a low cost per transaction across the digital and assisted digital service that is reported on the Performance Platform</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -255,7 +255,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-24">
     <div class="point">Create a plan for, and evidence to support, achieving a high digital take-up (and targeted assisted digital support at people who really need it) that is reported on the Performance Platform</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -264,7 +264,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-25">
     <div class="point">Create a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline</div>
     <div class="guidance">
       <p>Related guides</p>
@@ -273,7 +273,7 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-  <li>
+  <li id="criterion-26">
     <div class="point">Successfully test the service from beginning to end with the Minister responsible for it</div>
     <div class="guidance">
       <p>Related guides</p>
