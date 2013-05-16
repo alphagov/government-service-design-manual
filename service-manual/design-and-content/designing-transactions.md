@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Designing transactions
 subtitle: Designing useful and usable government services
-category: content-and-design
+category: design-and-content
 type: guide
 audience:
   primary: designer
@@ -22,7 +22,7 @@ breadcrumbs:
 
 ## What is a transaction?
 
-It's an exchange between two or more parties. 
+It's an exchange between two or more parties.
 
 [Government transactions](http://transactionsexplorer.cabinetoffice.gov.uk/) typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
 
@@ -31,7 +31,7 @@ For example, when someone applies for a passport they exchange information and m
 {:.pad}
 !['Diagram showing 'applying for a passport' transaction'](designing-transactions/passport-transaction.png)
 
-A service is made up of a collection of related or connected transactions. 
+A service is made up of a collection of related or connected transactions.
 
 Most digital transactions take the form of a dialogue between the user and a system, which acts on behalf of the other party. It's the system's interface which determines in large part the quality of the overall user experience.
 
@@ -91,7 +91,7 @@ All sections are positioned on a single page.
 * How do you save partial progress?
 * Can be harder to track analytics like drop-off rates
 
---- 
+---
 
 ### Option2 : Wizard
 
@@ -105,7 +105,7 @@ Each section goes on it's own page.
 * It's easier to let the user save progress
 * A long transaction can feel more manageable
 * Easier to guide a user through an unfamiliar process
-* Easier to capture analytics like drop-off rates for each section 
+* Easier to capture analytics like drop-off rates for each section
 
 #### **The bad**
 
@@ -185,7 +185,7 @@ Leverage the context of the surrounding elements
 : "I'm on the address page, I must be being asked for an address"
 
 Use familiar language
-: eg. 'Registration number' rather than 'Vehicle Registration Mark' 
+: eg. 'Registration number' rather than 'Vehicle Registration Mark'
 
 
 Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
@@ -216,7 +216,7 @@ Be honest about what you're offering users, and what you're not offering them. I
 * Any uncommon or hard-to-find infomation they'll need to provide
 * Any constraints on who can complete the transaction (age, nationality etc.)
 * Any equipment that will be required (eg. a printer)
-* Any non-digital parts of the transaction 
+* Any non-digital parts of the transaction
 
 Use common sense though. Don't try to make everyone to read a page of terms and conditions before they start (they won't).
 
