@@ -43,7 +43,7 @@ You will need to build relationships with new suppliers that you may have found 
 
 There could be a need to write-off previous financial investment, so you will need courage and conviction to stop spending on old, legacy systems. 
 
-The Cabinet Office, through the [IT spend controls](/service-manual/agile/spending-controls.html), has a strong preference against extending contracts to support legacy systems so at the very least you’ll need an exit management strategy that sets out a plan for how you’ll get out of this outdated technology.
+The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems so at the very least you’ll need an exit management strategy that sets out a plan for how you’ll get out of this outdated technology.
 
 The cost of maintaining out of date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/users/user-needs.html).
 

@@ -1,11 +1,11 @@
 ---
 layout: detailed-guidance
-title: Navigating the controls process
-subtitle:
-category: agile
+title: Spending controls
+subtitle: Navigating the controls process
+category: chief-technology-officer
 type: guide
-audience:
-  primary:
+audience: 
+  primary: chief-technology-officers
   secondary: service-managers, designers, delivery-managers, developers, tech-archs
 status: draft
 phases:
@@ -18,8 +18,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Agile
-    url: /service-manual/agile
+    title: Technology
+    url: /service-manual/technology
 ---
 
 Organisations should follow the rules set out in [Managing Public Money](http://www.hm-treasury.gov.uk/psr_mpm_index.htm) which sets out the overriding principles for dealing with resources used by public sector organisations in the UK.
