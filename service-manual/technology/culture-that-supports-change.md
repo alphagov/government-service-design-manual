@@ -35,15 +35,15 @@ You have:
 
 ##What you might need to change
 
-To deliver better public services you’ll need to change existing behaviours and cultures and successfully transition to new ways of working. You may need to develop the skills within your team and keep up to date on new methods and technologies and change your physical [environment](/service-manual/the-team/working-environment.html) to suit the team.
+To deliver better public services you’ll need to change existing behaviours and cultures and successfully transition to new ways of working. You may need to develop the skills within your team and keep up to date on new methods and technologies. It may also be necessary to change your physical [working environment](/service-manual/the-team/working-environment.html) to get the best out of your team.
 
 You may need to radically change governance and management structures and will need to run projects in a more [agile](/service-manual/agile/index.html) way.
 
-You will need to build relationships with new suppliers that you may have found through new procurement routes, [G-Cloud](http://gcloud.civilservice.gov.uk/) for example.
+You will need to build relationships with new suppliers that you may have found through new procurement routes, such as the [G-Cloud](http://gcloud.civilservice.gov.uk/).
 
-There could be a need to write-off previous financial investment, so you will need courage and conviction to stop spending on old, legacy systems. 
+It may be necessary and more cost-effective to write-off previous financial investments, so you will need courage and conviction to stop spending on old, legacy systems. 
 
-The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems so at the very least you’ll need an exit management strategy that sets out a plan for how you’ll get out of this outdated technology.
+The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least youwill need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
 
 The cost of maintaining out of date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/users/user-needs.html).
 
@@ -53,7 +53,7 @@ If you’re in this position, it’s also likely that the [architecture](/servic
 
 You may come across inertia or resistance when you try to make necessary changes to your technology or how your service is provided. 
 
-Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater the likely resistance. 
+Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be. 
 
 The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small or medium-sized businesses.
 
@@ -69,9 +69,9 @@ If you have incumbent suppliers, it is important that you understand and anticip
 
 Incumbent suppliers will have data that reflects the past success of their business models and the way their business worked. They will be less certain about the future and may be concerned about the weakening of their market share and their exposure to genuine, open competition.
 
-The rewards and culture of these companies are likely to be built on their current business model. That will reinforce their internal resistance to change. It is difficult for them to persuade shareholders and financial investors to replace a well-understood, if obsolete, business model with a more utility approach. The IT as utility market is not yet fully established, so they will be uncertain about it even though this model might bring higher profits on lower revenues.
+The rewards and culture of these companies are likely to be built on their current business model. That will reinforce their internal resistance to change. It is difficult for them to persuade shareholders and financial investors to replace a well-understood, if obsolete, business model with an approach that favours the treatment of some IT products as commodities. The IT as utility market is not yet fully established, so they will be uncertain about it even though this model might bring them higher profits on lower revenues.
 
-You will also see similar resistance in-house, where many staff may have long grown accustomed to old ways of working and need assistance and mentoring to help update their skills and experience. Some may have become dependent on external suppliers’ advice. Some may even have built their career on accreditation in a single supplier’s technologies.
+You will also see similar resistance in-house, where many staff may have long grown accustomed to old ways of working. It is important that as a leader you provide the assistance and mentoring they need to help update their skills and experience. Some may have become dependent on external suppliers’ advice. Some may even have built their career on accreditation in a single supplier’s technologies.
 
 ##Why you need an environment that supports change
 
