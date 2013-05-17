@@ -21,7 +21,7 @@ Meeting (and keeping) the standard isn't simply a 'one size fits all' exercise. 
 
 ##How assessment works
 
-A team's service manager will present [a public beta of the service](/service-manual/phases/beta.html) alongside [content from the service’s public blog](/service-manual/communications/index.html.html) to a [go live panel](/service-manual/digital-by-default/go-live-panel.html) including experts from within and outside government.
+A team's service manager will present [a public beta of the service](/service-manual/phases/beta.html) alongside [content from the service’s public blog](/service-manual/communications/index.html) to a [go live panel](/service-manual/digital-by-default/go-live-panel.html) including experts from within and outside government.
 
 The service manager will have to demonstrate that the service and team have consistently met the criteria in the standard to the unanimous satisfaction of the panel. The panel will apply common sense and a degree of flexibility to their assessments, giving teams feedback and guidance about how to improve a service when it looks like they will not meet the standard.
 
