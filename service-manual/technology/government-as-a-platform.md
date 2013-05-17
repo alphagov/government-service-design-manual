@@ -17,17 +17,17 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-The UK government is implementing a [platform-based](http://www.publications.cabinetoffice.gov.uk/digital/strategy/case-studies/government-as-platform/) operating model. [Google](http://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](http://engineering.twitter.com/2010/09/tech-behind-new-twittercom.html) and [Facebook](https://www.facebook.com/Engineering), amongst many others, have all built their success on the back of platforms. They have developed a core set of technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original platform provider could have done on their own.
+The UK government is implementing a [platform-based](http://www.publications.cabinetoffice.gov.uk/digital/strategy/case-studies/government-as-platform/) operating model. [Google](http://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](http://engineering.twitter.com/2010/09/tech-behind-new-twittercom.html) and [Facebook](https://www.facebook.com/Engineering), amongst many others, have all built their success on the back of platforms. They have developed a core set of technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original  provider could have done on their own.
 
 ##What does government as a platform mean?
 
 One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses. 
 
-Businesses such as Amazon are able to iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase etc.). They deliver a scalable, consistent high quality user experience using open source and open standards. Their world looks something like this:
+Businesses such as Amazon are able to iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase, etc). They deliver a scalable, consistent high quality user experience using open source and open standards. Their world looks something like this:
 
 <img src="/service-manual/assets/images/platform-diagram.png" alt="Diagram showing a simple version of Amazon's platform diagram" />
 
-Whilst government can learn from this it cannot simplistically copy it. Government has many diverse and complex legacy systems and processes, almost all operating in silos. As a consequence, government currently looks something like this:
+Whilst government can learn from this model, it cannot simplistically copy it. Government has many diverse and complex legacy systems and processes, almost all of them operating in silos. As a consequence, government currently looks something like this:
 
 <img src="/service-manual/assets/images/current-government-systems.png" alt="Diagram showing a simplified version of the current state of government systems" />
 
@@ -35,7 +35,7 @@ This move to a platform-based model is a significant transition. A platform prov
 
 ## Moving to the platform model
 
-Moving to a platform model does not imply a “top-down” conceptual identification of a list of platforms that government will buy or build. Platforms will emerge out of [user need](/service-manual/users/user-needs.html) and [good architectural practices](/service-manual/technology/architecture.html), but only as a consequence of the practical experience of building the features required.
+Moving to a platform model does not imply a “top-down” conceptual identification of a list of platforms that government will buy or build. Platforms will emerge out of [user needs](/service-manual/users/user-needs.html) and [good architectural practices](/service-manual/technology/architecture.html), but only as a consequence of the practical experience of building the features required.
 
 Platforms are defined by connectors and functionality – characterised by open interfaces, open data standards, and commonality. 
 
@@ -47,9 +47,9 @@ The figures below illustrate the journey required.
 
 ## Working with organisations outside of government
 
-This move to platforms does not assume that government has to develop everything in-house: many of government’s needs can be met by cost-efficient utility services that already exist. Yet government can also help establish best practice in areas such as the privacy of citizen’s personal data, helping lead by example. 
+This move to platforms does not assume that government has to develop everything in-house: many of government’s needs can be met by cost-efficient utility services that already exist. Yet government can also help to establish best practice in areas such as personal data privacy, leading by example. 
 
-Wherever appropriate, the government should use existing external platforms, such as, for example, payments services (ranging from third party merchant acquirer services to the UK’s national payments infrastructure). Deciding to develop platforms in-house will happen only where that makes best sense in terms of meeting users’ needs in the most flexible and cost-effective way.
+Wherever appropriate, the government should use existing external platforms, such as payments services (ranging from third party merchant acquirer services to the UK’s national payments infrastructure). Deciding to develop platforms in-house will happen only where that is the best way to meet users’ needs in the most flexible and cost-effective way.
 
 Government will draw upon the experience of other organisations that have already made this journey. Many have created platforms that initially sit across the top of existing silos to expedite agile and effective digital service delivery. This co-existence enables the benefits of the platform model to be realised quickly, even in a brownfield environment such as government, whilst the silos below the waterline are gradually reduced in importance and eventually obsoleted.
 
