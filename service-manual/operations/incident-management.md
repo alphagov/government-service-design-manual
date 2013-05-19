@@ -32,13 +32,17 @@ Preparation for incidents is vital. That starts with doing whatever we can to av
 
 ### Understand the risks
 A realistic understanding of risks, threats and the general landscape your service is operating within will help you prepare.
-In all of these aspects proportionality is vital and your service team and stakeholders needs to make a call about risks, failure scenarios, and what you might need to do in different situations. For example, if your service fails out of hours but is unlikely to have significant impact on users is it okay to fall back to a friendly error page and avoid tricky late night operations, or is it vital that it's always available? There will be a significant cost to the latter, but some services are vital and will need support staff with detailed technical knowledge to be available 24/7/365.
+
+In all of these aspects proportionality is vital and your service team and stakeholders needs to make a call about risks, failure scenarios, and what you might need to do in different situations. For example, if your service fails out of hours but is unlikely to have significant impact on users is it okay to fall back to a friendly error page and avoid tricky late night operations, or is it vital that it's always available? There will be a significant cost to the latter, but some services are vital and will need support staff with detailed technical knowledge to be available 24x7x365.
 
 ### Test your service
 Effective testing of software for its correctness, performance and security will significantly reduce the chances of an incident. Ensuring that you've got appropriate flexibility in your infrastructure and that it's designed for resilience will help you avoid risks from individual components failing. 
+
 Prior to launch and at regular intervals you should test what does happen when individual or multiple components fail. If a server fails are others able to pick up the slack? If a user's operation can't be completed are they presented with a useful explanation?
-Online video provider Netflix have become well known in the web development community for their "Simian Army":https://github.com/Netflix/SimianArmy a collection of tools including the "Chaos Monkey" that they can deploy to randomly switch off parts of their infrastructure. This is run in their development and production environments and ensures that they are building systems that degrade gracefully (or just keep working) even when components fail. Read more about Chaos Monkey on the "Netflix TechBlog":http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html
-For more on testing see https://www.gov.uk/service-manual/agile/quality
+
+Online video provider Netflix have become well known in the web development community for their [Simian Army](https://github.com/Netflix/SimianArmy) a collection of tools including the "Chaos Monkey" that they can deploy to randomly switch off parts of their infrastructure. This is run in their development and production environments and ensures that they are building systems that degrade gracefully (or just keep working) even when components fail. Read more about Chaos Monkey on the [Netflix TechBlog](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html)
+
+For more on testing see [Ensuring Quality](https://www.gov.uk/service-manual/agile/quality)
 
 ### Have a process
 If an incident occurs there will be many things that may need to happen:
