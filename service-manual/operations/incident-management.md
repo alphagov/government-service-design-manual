@@ -50,18 +50,21 @@ If an incident occurs there will be many things that may need to happen:
 * Appropriate technical steps will be needed to fix, lock-down or otherwise change the service
 * You may need to co-ordinate responses with suppliers such as your infrastructure provider
 * Senior Stakeholders will need to be informed
-* Decisions will need to be taken rapidly
+
+All of these will require decisions to be taken and communicated rapidly and effectively.
 
 It is easy for even a small incident to generate confusion, and it's vital to have a framework for how you'll respond. That should cover:
-* What kinds of incidents do you have and how do you understand their severity? Is this a small technical hitch that you can fix in the next release or is it a serious security incident that needs your Senior Information Risk Officer's immediate attention?
-* Who needs to be informed about each type of incident and how will they be informed? We use email lists for different types of  incidents that include senior technical and management people.
-* What do we know? There should be a clear register of what is known and what the questions are, next steps to take and who's doing what. Whether that's a shared online document or a list on the wall, everyone working on the incident should have a clear point of reference.
-* Who is in charge? Lots of decisions are needed in particular incidents and lots of information may be generated.  An individual with appropriate skills to understand all elements of the problem should be in charge and able to make the immediate decisions.
-* Who's managing communications? Clear communication channels with users, stakeholders and decision makers are vital but it's easy to generate distracting noise. An individual should be in charge of running those communications. This may be the same person who's in charge of decision making, but that will depend on the scale of the situation. If it is a different person they should be reporting to the person making the decisions.
-* How do you record incidents and follow-up to ensure that lessons are learned and next steps taken?
+* **How do you categorise incidents and how do you understand their severity?** Is this a small technical hitch that you can fix in the next release or is it a serious security incident that requires everyone to switch focus and needs your Senior Information Risk Officer's immediate attention?
+* **Who needs to be informed about each type of incident and how will they be informed?** We use email lists for different types of  incidents that include senior technical and management people.
+* **How will we document what we know?** There should be a clear register of what is known, what outstanding questions there are, next steps to take and who's doing what. Whether that's a shared online document or a list on the wall, everyone working on the incident should have a clear point of reference.
+* **Who will be in charge?** Lots of decisions are needed in particular incidents and lots of information may be generated.  An individual with appropriate skills to understand all elements of the problem should be in charge and able to make the immediate decisions.
+* **Who will manage communications?** Clear communication channels with users, stakeholders and decision makers are vital but it's easy to generate distracting noise. An individual should be in charge of running those communications. This may be the same person who's in charge of decision making, but that will depend on the scale of the situation. If it is a different person they should be reporting to the person making the decisions.
+* **How will incidents be recorded and followed-up?** There will be lessons to learn from any incident and a clear process of recording what happened and agreeing follow-up actions will make sure that you improve your service and strengthen your team.
 
 ### Rehearse Failures
 Automated testing can take you so far, but it won't tell you how your team responds under pressure. Consider running "Game Day" exercises where you simulate failures without the team's knowledge and test how your response mechanisms work.
+
+It's vital to manage stress during incidents, appreciating the urgency of the situation but not putting undue pressure that hurts the team's performance. Rehearsals of potential failures will help ensure that the whole team knows what will be expected of them.
 
 ## After The Fact
 
