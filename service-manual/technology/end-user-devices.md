@@ -31,7 +31,7 @@ The [Government ICT Strategy](https://www.gov.uk/government/publications/uk-gove
 
 The [Civil Service Reform Plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf)(PDF, 365KB) requires departments to address “frustrating” IT tools for civil servants. Its Workplace Transformation programme will streamline working practises, supported by effective IT.
 
-The [Government Protective Marking Scheme Review]() and resultant [Security Classification Policy](), together with the [Open Standards](https://www.gov.uk/government/publications/open-standards-principles) policy, require a reform of the principles by which IT tools for civil servants are designed, procured and managed. Civil servants are expected to take responsibility and apply reasonable judgement when dealing with information, removing the need for overbearing technical  controls.
+The Government Protective Marking Scheme Review and resultant Security Classification Policy, together with the [Open Standards](https://www.gov.uk/government/publications/open-standards-principles) policy, require a reform of the principles by which IT tools for civil servants are designed, procured and managed. Civil servants are expected to take responsibility and apply reasonable judgement when dealing with information, removing the need for overbearing technical  controls.
 
 ##Start with user needs
 
