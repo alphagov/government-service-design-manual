@@ -19,7 +19,7 @@ breadcrumbs:
 
 Protecting information from valid threats to its confidentiality, integrity and availability is an enabler of digital services. Without such protection, digital services would be impossible or unsafe.
 
-**Please note:** This guide sets out the governing principles for developing efficiently secured digital services. It also busts common myths around security. There is another guide about [the practical process of security accreditation](/service-manual/making-software/information-security.html).
+**Please note:** This guide sets out the governing principles for developing efficiently secured digital services. It also busts some common myths around security. There is another guide about [the practical process of security accreditation](/service-manual/making-software/information-security.html).
 
 ##Security must be proportionate and justified
 
@@ -47,7 +47,7 @@ A small set of software will perform security enforcing functions, such as firew
 
 ##Trust responsible users, audit and verify
 
-It is the intention of the [Civil Service Reform Plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf)(PDF, 365KB) and the new Security Classification Policy that there is greater emphasis on user responsibility, reducing expensive and overbearing technical controls. This requires proper training to assist users in handling sensitive information, and auditing to verify users are acting responsibly.
+It is the intention of the [Civil Service Reform Plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf) and the new Security Classification Policy that there is greater emphasis on user responsibility, reducing expensive and overbearing technical controls. This requires proper training to assist users in handling sensitive information, and auditing to verify users are acting responsibly.
 
 Users should be trusted to carry out their roles and given the responsibility to do so securely.
 
