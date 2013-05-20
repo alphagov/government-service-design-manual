@@ -44,5 +44,5 @@ The platform will consist of a series of modules from which Services can choose.
 ##Who are we?
 The Performance Platform team are part of GDS.  Within GDS we sit within ‘PDU’ - the Performance Delivery Unit. PDU also includes other teams with complementary skill sets such as product analysis, business analysis and user research.
 
-See more at: (https://www.gov.uk/performance)
-Contact: (Nayeema.Chowdhury@digital.cabinet-office.gov.uk)
+See more at: https://www.gov.uk/performance
+Contact: Nayeema.Chowdhury@digital.cabinet-office.gov.uk
