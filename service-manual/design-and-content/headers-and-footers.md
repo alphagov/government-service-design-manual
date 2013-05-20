@@ -21,8 +21,10 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
+Users will need to know if your service is in [alpha]() or [beta](). Many will not recognise these terms, or know what they mean. Users therefore need to be made aware that a service is not yet 'officially' live, and they therefore to use it at their own risk. That means labelling the service clearly, and explaining what it means for them. 
+
 ## Headers
-Users will need to know if your service is in alpha or beta. Many will not recognise these terms, or know what they mean. Users therefore need to be made aware that a service is not yet 'officially' live, and they therefore to use it at their own risk. That means labelling the service clearly, and explaining what it means for them. Alpha or beta labels should appear in the header, and link to an about page on your service clearly explaining what these terms mean.
+Alpha or beta labels should appear in the header, and link to an about page on your service clearly explaining what these terms mean.
 
 ### Service title and navigation
 The title of your service should sit in the header, clearly labelling the service to your users. This title should link back to the homepage of your service (which should generally be http://servicename.service.gov.uk/).
@@ -33,7 +35,7 @@ If necessary a navigation menu should live in the header. This should link to th
 
 [![Example headers showing navigation](/service-manual/assets/images/header-footer/not-govuk-nav.png)](/service-manual/assets/images/header-footer/not-govuk-nav.png)
 
-The links in the header should remain constant no matter what state the service is in. Navigation and information that does change throughout the process (eg user account information, shopping basket count, etc) should sit in a separate sub-navigation.
+The links in the header should remain constant no matter the state of the service or the stage in the process a user has reached. Navigation and information that does change throughout the process (eg user account information, shopping basket count, etc) should sit in a separate sub-navigation.
 
 ### Search
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
@@ -50,7 +52,7 @@ You can only use the GOV.UK logotype if your service is currently available on t
 
 [![Example headers showing GOV.UK logo](/service-manual/assets/images/header-footer/govuk-standard.png)](/service-manual/assets/images/header-footer/govuk-standard.png)
 
-If your service is availble on the service.gov.uk subdomain you may use the GOV.UK logotype prefixed with an alpha or beta label. You may not use the crown until your service has passed the standard and has been declared live by the Go Live panel. The logotype should link back to [GOV.UK](https://www.gov.uk/)
+If your service is availble on the service.gov.uk subdomain you may use the GOV.UK logotype prefixed with an alpha or beta label. You may not use the crown until your service has passed the standard and has been declared live by the [go live panel](/service-manual/digital-by-default/go-live-panel.html). The logotype should link back to [GOV.UK](https://www.gov.uk/)
 
 [![Example headers showing GOV.UK logo with navigation](/service-manual/assets/images/header-footer/govuk-search-nav.png)](/service-manual/assets/images/header-footer/govuk-search-nav.png)
 
@@ -58,10 +60,9 @@ If your service is availble on the service.gov.uk subdomain you may use the GOV.
 Once your service has passed the standard and has been declared live you may use the crown.
 
 ## Footers
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service including help, FAQs, support and feedback.
+The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service including user support and feedback.
 
 The footer should also state the appropriate copyright and licence notices.
 
 ## Templates and styles
 If need access to the templates and styles please make a request via [our feedback form](/feedback).
-
