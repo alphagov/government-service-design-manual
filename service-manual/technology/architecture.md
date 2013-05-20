@@ -49,9 +49,8 @@ It is however okay to duplicate to optimise the user experience (but there shoul
 
 Products and Services are the things that users engage with to find information or complete transactions. As such, they should be designed around the needs of the end user rather than the service provider. They can be either Mission IT (internal facing) or Digital Public Services (external facing).
 
----
 | Products Are: | Products Are NOT: |
----
+|-----|--------|
 | designed and developed in a user specific way to meet: a) a set of user needs, with success measured by the extent to which those needs are met, and b) a policy outcome | an elaboration of an internal organisational structure |
 | subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?” | a product in the narrow sense of a specific application/box product (i.e. not Microsoft Dynamics, or Oracle e-business suite, or DropBox) |
 | a single point of user engagement, driven by user needs | fixed in time, but designed to evolve to meet changing needs |
