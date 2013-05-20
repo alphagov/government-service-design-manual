@@ -25,11 +25,11 @@ FOR Managers of Government Services  WHO NEED a means of making data driven deci
 
 ##In detail
 The Performance Platform will provide visualisations, alerts, dashboards and feeds to enable timely and transparent decisions on the services and content that government offers.  Via the combination of different sources of information (e.g. service desk, infrastructure, analytics, surveys, finance data, etc.), the output will foster greater understanding and insight rather than simply communicating facts.  It will:
-Enable government to make decisions based on data
-Do the hard work to make data collection, retrieval, and presentation simple for users
-Be open to any government service supplying their data and customising their outputs, and open to the public
-Be independent of proprietary monitoring software  (e.g. google analytics)
-Automate routine analysis and visualisation, and use insights to provoke further detailed analysis
+* Enable government to make decisions based on data
+* Do the hard work to make data collection, retrieval, and presentation simple for users
+* Be open to any government service supplying their data and customising their outputs, and open to the public
+* Be independent of proprietary monitoring software  (e.g. google analytics)
+* Automate routine analysis and visualisation, and use insights to provoke further detailed analysis
 
 ##Put data in
 Services will be able to supply their performance data via standard Application Programming Interface (API).  These APIs will be defined, documented and supported by the Performance Platform team.  The Service will be responsible for collecting and supplying their data to the API.
