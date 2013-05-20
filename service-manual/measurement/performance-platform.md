@@ -32,7 +32,7 @@ The Performance Platform will provide visualisations, alerts, dashboards and fee
 * Automate routine analysis and visualisation, and use insights to provoke further detailed analysis
 
 ##Put data in
-Services will be able to supply their performance data via standard Application Programming Interface (API).  These APIs will be defined, documented and supported by the Performance Platform team.  The Service will be responsible for collecting and supplying their data to the API.
+Services will be able to supply their performance data via standard [Application Programming Interface (API)](http://www.techterms.com/definition/api).  These APIs will be defined, documented and supported by the Performance Platform team.  The Service will be responsible for collecting and supplying their data to the API.
 
 Services can also send additional performance data should they wish.  For instance, they may know now that that a particular item of data is important to them but there may not be an existing module that makes use of that data.  They will be able to start sending it to the Performance Platform straight away so that they when they are in a position to use it, the historical data is already there.
 
