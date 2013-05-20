@@ -14,7 +14,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-Government needs services that are genuinely agile and responsive to changing needs – where change reduces, not raises, cost and risk – making government more productive, and our public services better. To do that, Chief Technology Officers (CTO) need to make major structural improvements to how IT is used and procured, alongside an approach which:
+Government needs services that are genuinely responsive to changing needs – where change reduces, not raises, cost and risk – making government more productive, and our public services better. To do that, Chief Technology Officers (CTOs) and their teams need to make major structural improvements to how IT is used and procured, as part of an approach which:
 
 * focuses on user needs
 * puts outcomes, not inputs first
@@ -24,7 +24,7 @@ Government needs services that are genuinely agile and responsive to changing ne
 Liam Maxwell, Chief Technology Officer of Her Majesty's Government,[wrote about the landscape CTOs are operating in](). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
 
 ##The technology code of practice
-The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for funding will be judged against. The eighteen points describe a vision of technology provision which can meet and adapt to the changing needs of users throughout government.
+The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for funding will be judged against. The eighteen points describe a vision of technology provision which can meet and adapt to the changing needs of users throughout government, and are consistent with the [Digital by Default Service Standard](/service-manual/digital-by-default.html).
 
 ##Processes and controls
 The [spending controls](/service-manual/technology/spending-controls.html) process ensures that spending on IT and digital services meets the needs of users and provides good value for money.
