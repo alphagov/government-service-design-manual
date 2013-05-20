@@ -43,11 +43,11 @@ The vast majority of government’s information will fall into the lowest – OF
 
 To defend against threats such as these, government will use only the very best security technology sourced from the commercial market, and there will be no need for any bespoke or government-only controls at this level.
 
-A small set of software will perform security enforcing functions, such as firewalling or encrypting data. Such products require assurance that they function as advertised, achieved through the  CESG Commercial Product Assurance (CPA) scheme. This scheme is lightweight compared to previous schemes, reflecting the commercial grade risks for OFFICIAL information.
+A small set of software will perform security enforcing functions, such as firewalling or encrypting data. Such products require assurance that they function as advertised, achieved through the [CESG Commercial Product Assurance (CPA) scheme](http://www.cesg.gov.uk/servicecatalogue/CPA/Pages/CPA.aspx). This scheme is lightweight compared to previous schemes, reflecting the commercial grade risks for OFFICIAL information.
 
 ##Trust responsible users, audit and verify
 
-It is the intention of the Civil Service Reform Plan and the new Security Classification Policy that there is greater emphasis on user responsibility, reducing expensive and overbearing technical controls. This requires proper training to assist users in handling sensitive information, and auditing to verify users are acting responsibly.
+It is the intention of the [Civil Service Reform Plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf)(PDF, 365KB) and the new Security Classification Policy that there is greater emphasis on user responsibility, reducing expensive and overbearing technical controls. This requires proper training to assist users in handling sensitive information, and auditing to verify users are acting responsibly.
 
 Users should be trusted to carry out their roles and given the responsibility to do so securely.
 
@@ -76,13 +76,12 @@ Specifying security requirements of the form "must be accreditable for IL3” mu
 
 Instead, when writing IT contracts, departments should think about what they care about from an information assurance perspective and specify requirements that actually manage their concerns. As well as getting a solution that address the real business needs, this approach also allows industry to innovate to solve the security problem.
 
-
 ##Top 8 security myths
-
 
 ###1. "Security says No!"
 
 It is often said that security is the reason something can't be done. This is very rarely the case in practice - rather, security is being (mis)used as a handy excuse to not do something. 
+
 Good information risk management practices allow organisations to understand the risks they are taking with their information assets, and work out the most effective ways to manage and control those risks - whilst not hindering business.
 
 If someone tells you that "Security says No", or that "CESG say No", you should ask for more information to learn what the risks actually are, and what techniques and tools are available to help manage those risks.
@@ -97,7 +96,7 @@ Clearly, any accreditation activity which just generates documentation that's ne
 
 Experience has shown that the licensing model for software is not an accurate gauge for the security of the finished item. There are very securely-developed open source projects and proprietary products. The opposite is also true. The experience and competence of those developing code is of primary importance.
 
-The same considerations should be given to the security of open source products as are applied to proprietary code. The Open Source toolkit <link> has more information.
+The same considerations should be given to the security of open source products as are applied to proprietary code. The [Open Source toolkit](https://www.gov.uk/government/publications/open-source-procurement-toolkit) has more information.
 
 ###4. "Product X can't be used because it isn't accredited by CESG"
 
@@ -121,7 +120,7 @@ FOUNDATION grade assured products are appropriate for the protection of these sy
 
 ###6. "I'm not a target for cyber attack!"
 
-Sometimes it is obvious that attackers are going to be interested in getting hold of your sensitive information - it has clear value to someone. However, immediate financial reward isn't the only reason Government IT systems get attacked. 
+Sometimes it is obvious that attackers are going to be interested in getting hold of your sensitive information - it has clear value to someone. However, immediate financial reward isn't the only reason government IT systems get attacked. 
 
 Attackers may be disgruntled insiders, seeking to disrupt or embarrass an organisation. Attacks may come from protest groups, seeking a platform for their views. Or attacks may seek to use one system as a point to launch attacks on another - so you might not be the primary target, but might unwittingly be a conduit to them. 
 
