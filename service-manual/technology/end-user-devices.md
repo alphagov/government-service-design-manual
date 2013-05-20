@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: End user devices
 subtitle: Delivering IT that meets the needs of users
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft

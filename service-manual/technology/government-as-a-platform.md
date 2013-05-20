@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Government as a platform
 subtitle: Services built on a shared core 
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft

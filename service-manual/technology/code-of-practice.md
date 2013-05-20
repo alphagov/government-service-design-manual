@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Technology code of practice
 subtitle: Guidelines for the approval of technology spending
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft

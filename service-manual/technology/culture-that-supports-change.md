@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Creating a culture that supports change
 subtitle: The freedom to meet changing needs and expectations
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft

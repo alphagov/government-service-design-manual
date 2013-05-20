@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Service integration and management
 subtitle: Managing providers in an efficient way
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft

@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Security as enabler
 subtitle: Using technological change to build secure services
 category: chief-technology-officer
-type: category-index
+type: guide
 audience:
   primary: chief-technology-officers
 status: draft
