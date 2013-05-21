@@ -55,4 +55,4 @@ If there is still no improvement a month after this point, GDS will recommend wh
 
 * be [taken offline](/service-manual/phases/retirement.html)
 * not be linked to from GOV.UK
-* be rolled back to an [assisted digital](/service-manual/assisted-digital.html) contingency (that does not incur significant unintended expense for the taxpayer)
+* be rolled back to an [assisted digital](/service-manual/assisted-digital) contingency (that does not incur significant unintended expense for the taxpayer)
