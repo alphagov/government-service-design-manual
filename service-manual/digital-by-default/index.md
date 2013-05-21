@@ -183,13 +183,8 @@ breadcrumbs:
       </ul>
     </div>
   </li>
-<<<<<<< HEAD
-  <li>
-    <div class="point">Use open standards and common government platforms (eg identity assurance) where available</div>
-=======
   <li id="criterion-16">
     <div class="point">Use open standards and common Government platforms (eg <a href="/service-manual/identity-assurance">identity assurance</a>) where available</div>
->>>>>>> master
     <div class="guidance">
       <p>Related guides</p>
       <ul>
