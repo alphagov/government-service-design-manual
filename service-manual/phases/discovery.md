@@ -29,9 +29,9 @@ Before you start building a service you need to build up a picture of what the c
 
 The discovery phase will give you a high-level understanding of [users needs](/service-manual/users/user-needs.html), what the existing service landscape looks like and a sense of what your [initial prototypes](/service-manual/design-and-content/working-with-prototypes.html) will explore.
 
-A high-level user needs analysis needs to be conducted. You need to find out who your user is i.e what demographic and socio-economic groups they are from. After this, you can then focus on their potential assisted digital needs. 
+A high-level analysis of user needs should be conducted. You need to find out who your user is, ie what demographic and socio-economic groups they are from. After this, you can then focus on their potential [assisted digital](/service-manual/assisted-digital) needs.
 
-The high level business context will become clear, and you will begin setting targets for [your KPIs](/service-manual/measurement).
+The high-level business context will become clear, and you will begin setting targets for [your KPIs](/service-manual/measurement).
 
 You will also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for [replacing or decommissioning these](/service-manual/phases/retirement.html).
 
