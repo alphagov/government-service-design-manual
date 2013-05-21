@@ -84,6 +84,7 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/making-software">Making software</a></li>
         <li><a href="/service-manual/operations">Operating a service</a></li>
+        <li><a href="/service-manual/technology">Technology guides</a></li>
       </ul>
     </div>
   </li>
@@ -148,7 +149,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li>No related guides yet</li>
+        <li><a href="/service-manual/design-and-content/print-forms">Printed forms</a></li>
       </ul>
     </div>
   </li>
@@ -177,11 +178,18 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
         <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
+        <li><a href="/service-manual/technology/culture-that-supports-change">Culture that supports change</a></li>
+
       </ul>
     </div>
   </li>
+<<<<<<< HEAD
+  <li>
+    <div class="point">Use open standards and common government platforms (eg identity assurance) where available</div>
+=======
   <li id="criterion-16">
     <div class="point">Use open standards and common Government platforms (eg <a href="/service-manual/identity-assurance">identity assurance</a>) where available</div>
+>>>>>>> master
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -205,6 +213,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/making-software/analytics-tools.html">Analytics Tools</a></li>
+        <li><a href="/service-manual/measurement/performance-platform">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -234,6 +243,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/user-satisfaction.html">User satisfaction</a></li>
+        <li><a href="/service-manual/measurement/performance-platform">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -243,6 +253,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
+        <li><a href="/service-manual/measurement/performance-platform">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -252,6 +263,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/cost-per-transaction.html">Cost per transaction</a></li>
+        <li><a href="/service-manual/measurement/performance-platform">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -261,6 +273,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/digital-takeup.html">Digital take-up</a></li>
+        <li><a href="/service-manual/measurement/performance-platform">Performance platform</a></li>
       </ul>
     </div>
   </li>
