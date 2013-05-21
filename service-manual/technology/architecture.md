@@ -52,7 +52,7 @@ Products and Services are the things that users engage with to find information 
 | Products Are: | Products Are NOT: |
 |-----|--------|
 | designed and developed in a user specific way to meet: a) a set of user needs, with success measured by the extent to which those needs are met, and b) a policy outcome | an elaboration of an internal organisational structure |
-| subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?” | a product in the narrow sense of a specific application/box product (i.e. not Microsoft Dynamics, or Oracle e-business suite, or DropBox) |
+| subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?” | a product in the narrow sense of a specific application/box product, ie not Microsoft Dynamics, or Oracle e-business suite, or DropBox |
 | a single point of user engagement, driven by user needs | fixed in time, but designed to evolve to meet changing needs |
 | the responsibility of a [service manager](/service-manual/service-managers) (the user representative), not necessarily the owning department: reporting lines should be based around product and user need (with all the implications for governance that entails) | |
 | guided by clear product roadmaps and timescales based on user need and policy | |
@@ -76,7 +76,7 @@ Examples of legacy applications are likely to span benefits systems, case manage
 To achieve this:
 
 * new user services must take the opportunity to reduce dependency on legacy systems, and new programmes should where possible avoid nugatory expenditure on integrating with such systems
-* the volume of such systems, their cost of support and business criticality should continually decrease – i.e. they exist to fulfil a current specific need, but should not be the focus of further investment
+* the volume of such systems, their cost of support and business criticality should continually decrease, ie they exist to fulfil a current specific need, but should not be the focus of further investment
 * departments should baseline and plan to migrate/mitigate existing systems (triage the ‘old and broke’, ‘old and works’ and ‘defunct’), ensuring value is released:
 	* badly engineered systems should be contained
 	* the working legacy should be modernised to reduce costs and risks and wrapped where appropriate to provide open interfaces and interoperability with platforms
