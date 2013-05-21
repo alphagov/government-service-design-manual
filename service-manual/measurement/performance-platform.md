@@ -39,7 +39,9 @@ Services will be able to supply their performance data via standard [Application
 Services can also send additional performance data should they wish. For instance, they may know now that that a particular item of data is important to them but there may not be an existing module that makes use of that data. They will be able to start sending it to the platform straight away so that they when they are in a position to use it, the historical data is already there.
 
 ##Get useful insights out
-The platform will consist of a series of modules from which services can choose. These modules will be designed by the Performance Platform team working closely with services. 
+The platform will consist of a series of modules from which services can choose. These modules will be designed by the Performance Platform team working closely with services.
+
+![Licensing performance platform](/service-manual/assets/images/measurement/licensing.jpg)
 
 When a new module is added, it will be offered to all services on the platform and they can each decide if they want to adopt it or not. There will be default modules relevant to all services, modules relevant to similar groups of services (e.g. applying for something, requesting information, booking an appointment), [Key Performance Indicator](/measurement/index.html) modules, and the ability for services to develop their own custom modules.
 
