@@ -112,7 +112,7 @@ w/c 23rd January 2012
 ### Managing Finance and Resources
 
 #### Essential 
-* plans effectively and utilises budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
+* plans effectively and uses budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
 
 #### Desirable
 * ensures an appropriate understanding of roles and responsibilities in complying with guidance on finance policies and procedures

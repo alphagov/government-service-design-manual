@@ -22,28 +22,28 @@ Architecture is not just about the design and deployment of technology - to be s
 These include:
 
 * the high-level **business** vision and requirements that guide the design of processes and systems around the needs of users (recognise that business requirements *will* change over time, so design solutions that minimise the impact of such changes)
-* an **information** model covering both public and private data, as well as wider information management requirements such as business intelligence
+* an **information** model covering both public and private data, as well as wider information management requirements like business intelligence
 * **technology**, the modelling of core capabilities, their structure and relationships
 * **implementation**, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects
-* throughout the project lifecycle you will need to ensure **stakeholders** stay aligned on what is needed (you will need to resolve issues when stakeholder requirements conflict with business drivers (such as reduced cost), system design (such as network latency) and operational issues (such as security, privacy and auditing))
+* throughout the project lifecycle you will need to ensure **stakeholders** stay aligned on what is needed (you will need to resolve issues when stakeholder requirements conflict with business drivers (like reduced cost), system design (like network latency) and operational issues (like security, privacy and auditing))
 
 The term “architecture” includes both the **logical** design as well as its **physical** implementation. Logical architecture based on [user-centric service design](https://www.gov.uk/service-manual/start#a-new-way-of-doing-things) and clear [user needs](/service-manual/users/user-needs.html) should always precede physical architecture - at a minimum you need to understand [what capabilities are required](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) before starting to narrow down on product choices.
 
 The [technology code of practice](/service-manual/technology/code-of-practice.html) provides guidance on the consistent use of technology across government.
 
 ##Our reference model
-Our reference model draws upon modern [platform-based architectures](/service-manual/technology/government-as-a-platform.html). We should utilise the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments such as [Estonia](http://e-estonia.com/components/x-road).
+Our reference model draws upon modern [platform-based architectures](/service-manual/technology/government-as-a-platform.html). We should use the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments like [Estonia](http://e-estonia.com/components/x-road).
 
 <img src="/service-manual/assets/images/architecture-reference-model.png" alt="Diagram showing government architecture reference model" />
 
-To support this our architecture will need to move away from tightly-coupled and proprietary models towards an open, interoperable architecture using [open standards](/service-manual/making-software/open-standards-and-licensing.html) and [open interfaces](/service-manual/making-software/apis.html) (e.g. XML- and JSON-based data services) to maximise government’s flexibility and improve the speed of delivery of services.
+To support this our architecture will need to move away from tightly-coupled and proprietary models towards an open, interoperable architecture using [open standards](/service-manual/making-software/open-standards-and-licensing.html) and [open interfaces](/service-manual/making-software/apis.html), eg XML- and JSON-based data services, to maximise government’s flexibility and improve the speed of delivery of services.
 
 We will also apply principles of non-duplication:
 
 * no duplication of data ownership – to prevent synchronisation, data quality, security, and privacy problems
 * limit duplication of development effort – to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes: wherever possible (and tested against the “[rule of three](http://www.maheshpai.info/?p=20)”), we will use and re-use standard, interoperable components, interfaces, data formats and processes using open standards
 
-It is however okay to duplicate to optimise the user experience (but there should be clear master-slave data relationships should information itself be replicated, e.g. for reasons of performance).
+It is however okay to duplicate to optimise the user experience (but there should be clear master-slave data relationships should information itself be replicated, eg for reasons of performance).
 
 ##Products and Services
 
