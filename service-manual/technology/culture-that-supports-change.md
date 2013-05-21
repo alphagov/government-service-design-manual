@@ -26,6 +26,7 @@ Improving the way that you deliver digital services is more about cultural and b
 Your digital services are based on user needs, not on organisation structures and processes.
 
 You have:
+
 * a [team](/service-manual/the-team.html) that is knowledgeable about existing and emerging technology options 
 * a governance and management structure that is an enabler, not a bottleneck or barrier to change
 * flexible commercial models that meet your needs (e.g. commodity or utility provision)
