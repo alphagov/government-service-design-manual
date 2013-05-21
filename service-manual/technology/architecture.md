@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Guidance for CTO's
+title: Technology architecture
 subtitle: Empowering Chief Technology Officers across government
 category: chief-technology-officer
 type: guide
@@ -22,9 +22,9 @@ Architecture is not just about the design and deployment of technology - to be s
 These include:
 
 * the high-level **business** vision and requirements that guide the design of processes and systems around the needs of users (recognise that business requirements *will* change over time, so design solutions that minimise the impact of such changes)
-* an **information** model covering both public and private data, as well as wider information management requirements such as business intelligence 
+* an **information** model covering both public and private data, as well as wider information management requirements such as business intelligence
 * **technology**, the modelling of core capabilities, their structure and relationships
-* **implementation**, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects 
+* **implementation**, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects
 * throughout the project lifecycle you will need to ensure **stakeholders** stay aligned on what is needed (you will need to resolve issues when stakeholder requirements conflict with business drivers (such as reduced cost), system design (such as network latency) and operational issues (such as security, privacy and auditing))
 
 The term “architecture” includes both the **logical** design as well as its **physical** implementation. Logical architecture based on [user-centric service design](https://www.gov.uk/service-manual/start#a-new-way-of-doing-things) and clear [user needs](/service-manual/users/user-needs.html) should always precede physical architecture - at a minimum you need to understand [what capabilities are required](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) before starting to narrow down on product choices.
@@ -32,7 +32,7 @@ The term “architecture” includes both the **logical** design as well as its 
 The [technology code of practice](/service-manual/technology/code-of-practice.html) provides guidance on the consistent use of technology across government.
 
 ##Our reference model
-Our reference model draws upon modern [platform-based architectures](/service-manual/technology/government-as-a-platform.html). We should utilise the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments such as [Estonia](http://e-estonia.com/components/x-road). 
+Our reference model draws upon modern [platform-based architectures](/service-manual/technology/government-as-a-platform.html). We should utilise the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments such as [Estonia](http://e-estonia.com/components/x-road).
 
 <img src="/service-manual/assets/images/architecture-reference-model.png" alt="Diagram showing government architecture reference model" />
 
@@ -59,7 +59,7 @@ Products and Services are the things that users engage with to find information 
 
 ##Platforms
 
-Platforms provide a set of open interfaces, protocols, data formats and tools that enable software developers to rapidly deliver products and services. 
+Platforms provide a set of open interfaces, protocols, data formats and tools that enable software developers to rapidly deliver products and services.
 
 Examples of platforms are the GOV.UK publishing platform, the performance platform, and the [identity assurance](/service-manual/identity-assurance.html) platform - they are not things like ‘Windows Server’ or ‘Linux Server’.
 
@@ -69,7 +69,7 @@ More on government platforms can be found [here](/service-manual/technology/gove
 
 ## The Legacy Estate
 
-“Legacy” is used as shorthand to reference existing mission IT systems and components that have been designed to meet historic requirements. Often they are built using technologies that have become difficult and expensive to maintain or change. 
+“Legacy” is used as shorthand to reference existing mission IT systems and components that have been designed to meet historic requirements. Often they are built using technologies that have become difficult and expensive to maintain or change.
 
 Examples of legacy applications are likely to span benefits systems, case management systems, and customer relationship management systems. Over time the dependence on legacy platforms should be reduced as successful new platforms are developed.
 
@@ -78,7 +78,7 @@ To achieve this:
 * new user services must take the opportunity to reduce dependency on legacy systems, and new programmes should where possible avoid nugatory expenditure on integrating with such systems
 * the volume of such systems, their cost of support and business criticality should continually decrease – i.e. they exist to fulfil a current specific need, but should not be the focus of further investment
 * departments should baseline and plan to migrate/mitigate existing systems (triage the ‘old and broke’, ‘old and works’ and ‘defunct’), ensuring value is released:
-	* badly engineered systems should be contained 
+	* badly engineered systems should be contained
 	* the working legacy should be modernised to reduce costs and risks and wrapped where appropriate to provide open interfaces and interoperability with platforms
 	* legacy applications should be replaced / re-architected periodically to prevent situations where the application can no longer be supported because it has grown too complex for anyone to understand or too expensive relative to the benefits delivered
 	* open standards must be used for interoperability between systems and departments, with adaptors used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards). You should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies
