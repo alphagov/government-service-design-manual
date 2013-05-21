@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Performance Platform
-subtitle: displaying performance metrics
+title: Performance platform
+subtitle: Displaying performance metrics
 status: draft
 category: measurement
 type: guide
@@ -20,29 +20,29 @@ breadcrumbs:
     url: /service-manual/measurement/performance-platform.md
 ---
 
-##The [Performance Platform](https://www.gov.uk/performance) is ...
-FOR Managers of Government Services  WHO NEED a means of making data driven decisions based on both digital and non‑digital sources.  THE Performance Platform IS A toolkit that allows them to supply their service related data and get back alerts, visualisations and structured data SO THAT they can improve their services, meet the [Digital Service Standard](https://www.gov.uk/service-manual/digital-by-default) AND UNIQUELY draw insight by comparing data across multiple services and sources.
+The [Performance Platform](https://www.gov.uk/performance) is for service managers who need a means of making data-driven decisions based on both digital and non‑digital sources.
 
-##In detail
-The Performance Platform will provide visualisations, alerts, dashboards and feeds to enable timely and transparent decisions on the services and content that government offers.  Via the combination of different sources of information (e.g. service desk, infrastructure, analytics, surveys, finance data, etc.), the output will foster greater understanding and insight rather than simply communicating facts.  It will:
-* Enable government to make decisions based on data
-* Do the hard work to make data collection, retrieval, and presentation simple for users
-* Be open to any government service supplying their data and customising their outputs, and open to the public
-* Be independent of proprietary monitoring software  (e.g. google analytics)
-* Automate routine analysis and visualisation, and use insights to provoke further detailed analysis
+It's a toolkit which allows them to supply their service data in return for alerts, visualisations and structured data which they can use to improve their services, meet [the service standard](https://www.gov.uk/service-manual/digital-by-default) and draw insight by comparing data across multiple services and sources.
+
+##What the platform will offer
+The platform will provide visualisations, alerts, dashboards and feeds to enable timely and transparent decisions on the services and content that government offers. By combining different sources of information (e.g. service desk, infrastructure, analytics, surveys, finance data, etc.), it will produce outputs which foster greater understanding of the data rather than simply communicating facts. It will:
+
+* enable government to make decisions based on data
+* do the hard work to make data collection, retrieval, and presentation simple for users
+* be open to any government service supplying their data and customising their outputs, and open to the public
+* be independent of proprietary monitoring software  (e.g. google analytics)
+* automate routine analysis and visualisation, and use insights to provoke further detailed analysis
 
 ##Put data in
-Services will be able to supply their performance data via standard [Application Programming Interface (API)](http://www.techterms.com/definition/api).  These APIs will be defined, documented and supported by the Performance Platform team.  The Service will be responsible for collecting and supplying their data to the API.
+Services will be able to supply their performance data via standard [Application Programming Interfaces (APIs)](http://www.techterms.com/definition/api). These APIs will be defined, documented and supported by the Performance Platform team. The service will be responsible for collecting and supplying their data to the API.
 
-Services can also send additional performance data should they wish.  For instance, they may know now that that a particular item of data is important to them but there may not be an existing module that makes use of that data.  They will be able to start sending it to the Performance Platform straight away so that they when they are in a position to use it, the historical data is already there.
+Services can also send additional performance data should they wish. For instance, they may know now that that a particular item of data is important to them but there may not be an existing module that makes use of that data. They will be able to start sending it to the platform straight away so that they when they are in a position to use it, the historical data is already there.
 
 ##Get useful insights out
+The platform will consist of a series of modules from which services can choose. These modules will be designed by the Performance Platform team working closely with services. 
 
-The platform will consist of a series of modules from which Services can choose.   These modules will be designed by the Performance Platform team working closely with one or more individual Services.   When a new module is added, it will be offered to all Services on the platform and they can each decide if they want to adopt it or not.  There will be default modules relevant to all Services, type-based modules relevant to similar groups of Services (e.g.  applying for something, requesting information, booking an appointment), Key Performance Indicator modules that support the  Digital Service Standard, and the ability for Services to develop their own custom Service-specific modules.
+When a new module is added, it will be offered to all services on the platform and they can each decide if they want to adopt it or not. There will be default modules relevant to all services, modules relevant to similar groups of services (e.g. applying for something, requesting information, booking an appointment), [Key Performance Indicator](/measurement/index.html) modules, and the ability for services to develop their own custom modules.
 
-
-##Who are we?
-The Performance Platform team are part of GDS.  Within GDS we sit within ‘PDU’ - the Performance Delivery Unit. PDU also includes other teams with complementary skill sets such as product analysis, business analysis and user research.
-
-See more at: https://www.gov.uk/performance  
-Contact: Nayeema.Chowdhury@digital.cabinet-office.gov.uk
+##Futher information
+[The Performance Platform](/performance/)
+[Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)
