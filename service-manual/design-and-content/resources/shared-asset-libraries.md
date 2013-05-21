@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Shared asset libraries
-subtitle: How gov.uk uses shared asset libraries, and where we provide our code
+subtitle: How GOV.UK uses shared asset libraries, and where we provide our code
 category: design-and-development-resources
 type: resource
 phases:
