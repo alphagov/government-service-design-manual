@@ -36,6 +36,6 @@ These aren't the only things a service will measure. Each team will want to iden
 
 ## What happens to the data
 
-Once live, service performance will be monitored and displayed on the [performance platform](https://www.gov.uk/performance). This data will be presented in uniquely configurable modules, and (where possible) is visible to the public.
+Once live, service performance will be monitored and displayed on the [performance platform](/service-manual/measurement/performance-platform.html). This data will be presented in uniquely configurable modules, and (where possible) is visible to the public.
 
 You will then want to use the data to [investigate how well a service is performing, and as a prompt for further investigation and testing](/service-manual/measurement/using-data.html).
