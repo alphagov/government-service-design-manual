@@ -29,7 +29,7 @@ You have:
 
 * a [team](/service-manual/the-team) that is knowledgeable about existing and emerging technology options
 * a governance and management structure that is an enabler, not a bottleneck or barrier to change
-* flexible commercial models that meet your needs (e.g. commodity or utility provision)
+* flexible commercial models that meet your needs, eg commodity or utility provision
 * a diverse, competitive market from which to [choose your suppliers or products](/service-manual/making-software/choosing-technology.html)
 * transparency and trust in your supplier relationships
 * pricing competition and the ability to switch between alternative suppliers
