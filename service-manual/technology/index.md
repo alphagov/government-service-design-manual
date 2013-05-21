@@ -1,6 +1,6 @@
 ---
 layout: category-index
-title: Guidance for CTO's
+title: Guidance for CTOs
 subtitle: Empowering Chief Technology Officers across government
 category: chief-technology-officer
 type: category-index
