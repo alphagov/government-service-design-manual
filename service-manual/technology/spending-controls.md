@@ -4,7 +4,7 @@ title: Spending controls
 subtitle: Navigating the controls process
 category: chief-technology-officer
 type: guide
-audience: 
+audience:
   primary: chief-technology-officers
   secondary: service-managers, designers, delivery-managers, developers, tech-archs
 status: draft
