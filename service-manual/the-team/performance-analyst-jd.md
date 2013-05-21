@@ -102,4 +102,4 @@ SPECIALIST SKILLS
 **Essential**
 
 * Familiarity with web technologies an advantage
-* Familiarity with data analysis and visualisation tools an advantage: e.g. Google Analytics, Google Refine, Tableau etc.
+* Familiarity with data analysis and visualisation tools an advantage, eg Google Analytics, Google Refine, Tableau, etc.
