@@ -109,6 +109,6 @@ This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-nee
 
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The focus of the service team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. End to end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](https://www.gov.uk/performance) and will be publicly available from the point of launch.
+The focus of the service team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. End to end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](/service-manual/measurement/performance-platform.html). and will be publicly available from the point of launch.
 
 Further usability should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made. 

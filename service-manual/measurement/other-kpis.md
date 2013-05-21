@@ -63,4 +63,4 @@ The NAO report [Digital Britain One: Shared infrastructure and services for gove
 
 [Occam’s Razor](http://www.kaushik.net/avinash/) is an excellent blog by Avinash Kaushik with loads of useful advice on metrics, KPIs and analytics. See for example [this article on how to set good performance indicators](http://www.kaushik.net/avinash/rules-choosing-web-analytics-key-performance-indicators/).
 
-GDS is developing a [performance platform](https://www.gov.uk/performance) which will allow aggregation of data from a range of sources including web analytics, survey and finance data.
+GDS is developing a [performance platform](/service-manual/measurement/performance-platform.html) which will allow aggregation of data from a range of sources including web analytics, survey and finance data.

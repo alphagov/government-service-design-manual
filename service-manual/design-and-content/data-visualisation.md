@@ -205,7 +205,7 @@ When presenting data be aware of axes and scales. Data can be misrepresented by 
 
 ## Further reading
 
-For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/).
+More information about the [performance platform](/service-manual/measurement/performance-platform.html).
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
