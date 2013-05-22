@@ -13,6 +13,8 @@ header.page-header {
     h1 {
       @include bold-48;
       color: $text-colour;
+      padding-top: 0.7rem;
+      padding-bottom: 1.3rem;
     }
 
     h2.subtitle{
