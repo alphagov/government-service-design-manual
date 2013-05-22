@@ -27,7 +27,7 @@ You've tested your solutions to [user needs](/service-manual/users/user-needs.ht
 
 The objective of this phase is to build a fully working prototype which you test publicly with users. You will continuously improve on the prototype until it is ready to go live, replacing or integrating with any existing services.
 
-This is achieved by delivering the [user stories](/service-manual/agile/writing-user-stories.html) in the backlog created in the [alpha phase](/service-manual/phases/alpha.html). This is the time to resolve any outstanding technical or process-related challenges, get the service [accredited](/service-manual/making-software/information-security.html) and plan to [go live](/service-manual/phases/live/html).
+This is achieved by delivering the [user stories](/service-manual/agile/writing-user-stories.html) in the backlog created in the [alpha phase](/service-manual/phases/alpha.html). This is the time to resolve any outstanding technical or process-related challenges, get the service [accredited](/service-manual/making-software/information-security.html) and plan to [go live](/service-manual/phases/live.html).
 
 You will also be resolving technical and process challenges, meeting for the first time many of the technical criteria outlined in the [service standard](/service-manual/digital-by-default). You should be [rapidly releasing](/service-manual/making-software/release-strategies.html) updates and improvements into the [development environment](/service-manual/making-software/development-environment.html), and [measuring the impact](/service-manual/measurement) of your changes to the KPIs established in your [discovery](/service-manual/phases/discovery.html) and [alpha](/service-manual/phases/alpha.html) phases.
 
