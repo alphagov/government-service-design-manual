@@ -56,7 +56,7 @@ You may come across inertia or resistance when you try to make necessary changes
 
 Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be.
 
-The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small or medium-sized businesses.
+The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small- or medium-sized businesses.
 
 You may find that you have become [locked-in](/service-manual/making-software/choosing-technology.html#lock-in) to a particular contract or technology. As part of your consideration of the total cost of ownership of a particular solution, you should have estimated the cost of exit at the start of implementation.
 
