@@ -22,13 +22,13 @@ Many public services require the user to prove their identity as an early and ne
 
 The Identity Assurance Service will provide a simple, secure way for people to access public services on GOV.UK.
 
-The service is currently being prototyped. The IDAP team is working closely with several government departments, and a beta identity assurance service will be available from late 2013 to support one or two beta digital services.
+The service is currently being prototyped. The Identity Assurance Programme (IDAP) team is working closely with several government departments, and a beta identity assurance service will be available from late 2013 to support one or two beta digital services.
 
 ##The Identity Assurance Service
 
-The Identity Assurance Service, developed by the Identity Assurance Programme (IDAP) within the Government Digital Service (GDS) will be the default service for all government departments providing public digital services which require identity assurance.
+The Identity Assurance Service, developed by the IDAP within the Government Digital Service (GDS) will be the default service for all government departments providing public digital services which require identity assurance.
 
-You should be working closely with IDAP to ensure that your identity assurance solution is aligned with IDAP’s cross-government platform.
+You should be working closely with IDAP to ensure that your identity assurance solution is aligned with IDAPs cross-government platform.
 
 ##How does it work?
 
