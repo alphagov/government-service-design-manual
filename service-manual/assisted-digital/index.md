@@ -59,4 +59,4 @@ There will be a strong presumption towards procuring external resource to provid
 Where an alternative channel remains, it will be re-calibrated to provide assisted digital support.
 
 ## How are we developing our approach to assisted digital?
-Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-05). The experiences with these services will inform shared models and shared procurement routes for assisted digital. If you are not an exemplar service but would like to get involved in this work, please [contact GDS](/service-manual/feedback.html).
+Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-05). The experiences with these services will inform shared models and shared procurement routes for assisted digital. If you are not an exemplar service but would like to get involved in this work, please [contact GDS](/service-manual/feedback).

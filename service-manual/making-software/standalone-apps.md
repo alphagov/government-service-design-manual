@@ -80,7 +80,7 @@ Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://ap
 
 If there is a market for native apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps currently rarely justified.
 
-We are [backing open standards](/service-manual/making-software/open-standards-and-licencing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
+We are [backing open standards](/service-manual/making-software/open-standards-and-licensing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
 And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For 'utility' needs, such as those met by government services, the mobile web is preferred to native apps
 
