@@ -61,7 +61,7 @@ Products and Services are the things that users engage with to find information 
 
 Platforms provide a set of open interfaces, protocols, data formats and tools that enable software developers to rapidly deliver products and services.
 
-Examples of platforms are the GOV.UK publishing platform, the performance platform, and the [identity assurance](/service-manual/identity-assurance.html) platform - they are not things like ‘Windows Server’ or ‘Linux Server’.
+Examples of platforms are the GOV.UK publishing platform, the performance platform, and the [identity assurance](/service-manual/identity-assurance) platform - they are not things like ‘Windows Server’ or ‘Linux Server’.
 
 Platform should be kept as simple as possible, but designed to have no barriers to scaling up and scaling out. New features should be added only when required by new product needs - platforms emerge from the demands of products rather than being driven by top-down architectural process.
 

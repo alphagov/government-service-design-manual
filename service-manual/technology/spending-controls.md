@@ -24,7 +24,7 @@ breadcrumbs:
 
 Organisations should follow the rules set out in [Managing Public Money](http://www.hm-treasury.gov.uk/psr_mpm_index.htm) which sets out the overriding principles for dealing with resources used by public sector organisations in the UK.
 
-The HMG [Spend Controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) supplement those rules with specific controls for spend in the following areas: Advertising and marketing and communications; Strategic Supplier Management, including disputes; Commercial models; ICT; Digital Service Delivery (including [identity assurance](/service-manual/identity-assurance.html)); External Recruitment; Consultancy; Redundancy and Compensation; Learning and Development; Property and Facilities Management.
+The HMG [Spend Controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) supplement those rules with specific controls for spend in the following areas: Advertising and marketing and communications; Strategic Supplier Management, including disputes; Commercial models; ICT; Digital Service Delivery (including [identity assurance](/service-manual/identity-assurance)); External Recruitment; Consultancy; Redundancy and Compensation; Learning and Development; Property and Facilities Management.
 
 ## The process
 
