@@ -30,7 +30,7 @@ For your project to proceed, you must demonstrate that you have met all applicab
 
 1. Ensure systems, information and processes are designed around the needs of the service user, providing as simple and as integrated an experience as possible. Be very clear who the users are and how to engage with them and ensure their needs are met.
 2. Demonstrate value for money in your [business case](http://www.hm-treasury.gov.uk/data_greenbook_business.htm) and articulate the options considered in a full and objective appraisal.
-3. All new or redesigned digital services meet the [Digital by Default Service Standard](/service-manual/digital-by-default.html).
+3. All new or redesigned digital services meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 4. Ensure a level-playing field for [open source software](https://www.gov.uk/government/publications/open-source-procurement-toolkit). Demonstrate an active and fair consideration of using open source software – taking account of the total lifetime cost of ownership of the solution, including exit and transition costs.  
 5. Use [open standards](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), and common government platforms (eg GOV.UK, identity assurance, shared services) where available. 
 6. Make data open by default, whilst minimising and securing personal data, or data restricted for national security reasons. Public data should be made available by default in both human and open machine readable formats. Users should have access to, and control over, their own personal data.
