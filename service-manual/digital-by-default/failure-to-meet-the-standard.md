@@ -25,9 +25,9 @@ A service may fail to meet [the standard](/service-manual/digital-by-default/ind
 
 ## Failure during service design
 
-If there is evidence that a service is being designed in a way which is not in line with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with the responsible service manager and [Digital Leader](/service-manager/the-team/digital-leader.html) and suggest corrective action.
+If there is evidence that a service is being designed in a way which is not in line with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with the responsible service manager and [Digital Leader](/service-manual/the-team/digital-leader.html) and suggest corrective action.
 
-Service progress towards meeting the standard will also be assessed at every [spending control](https://www.gov.uk/service-manual/technology/spending-controls.html) point the service passes through. If the department cannot provide sufficient evidence that the work completed so far is in line with the criteria and evidence requirements of the standard, further spending on the project will not be approved. If the business case is rejected, GDS will stipulate what the service must provide evidence for in order for funding to be released.
+Service progress towards meeting the standard will also be assessed at every [spending control](/service-manual/technology/spending-controls.html) point the service passes through. If the department cannot provide sufficient evidence that the work completed so far is in line with the criteria and evidence requirements of the standard, further spending on the project will not be approved. If the business case is rejected, GDS will stipulate what the service must provide evidence for in order for funding to be released.
 
 ## Failure to pass the go live Panel
 
@@ -39,7 +39,7 @@ If the service fails to pass the panel on two occasions, the Cabinet Office will
 
 ## Failure of a live service to meet performance goals
 
-[Performance levels](/service-manual/performance.index.html) of a service will be monitored closely. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html) for three months GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
+[Performance levels](/service-manual/performance) of a service will be monitored closely. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html) for three months GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
 
 ### The performance panel
 The performance panel will be chaired by GDS. It will include representatives from other departments and may feature external experts when suitable. 
