@@ -23,4 +23,4 @@ In the meantime, you can read about:
 * [using blogs to report on a service's progress](/service-manual/communications/blogs.html)
 * how [channel shift](/service-manual/measurement/channel-shift.html) will be measured for every service
 * engaging with [users during development](/service-manual/users/user-research.html)
-* talking to stakeholders to anticipate the needs of [assisted digital users](/service-manual/assisted-digital.html)
+* talking to stakeholders to anticipate the needs of [assisted digital users](/service-manual/assisted-digital)
