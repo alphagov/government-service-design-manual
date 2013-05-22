@@ -36,6 +36,8 @@ Our reference model draws upon modern [platform-based architectures](/service-ma
 
 <img src="/service-manual/assets/images/architecture-reference-model.png" alt="Diagram showing government architecture reference model" />
 
+Note: examples are for illustration purposes only.
+
 To support this our architecture will need to move away from tightly-coupled and proprietary models towards an open, interoperable architecture using [open standards](/service-manual/making-software/open-standards-and-licensing.html) and [open interfaces](/service-manual/making-software/apis.html), eg XML- and JSON-based data services, to maximise government’s flexibility and improve the speed of delivery of services.
 
 We will also apply principles of non-duplication:
