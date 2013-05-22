@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual
   -
     title: Measurement
-    url: /service-manual/measurement/performance-platform.md
+    url: /service-manual/measurement/performance-platform
 ---
 
 The [Performance Platform](https://www.gov.uk/performance) is for service managers who need a means of making data-driven decisions based on both digital and non‑digital sources.
