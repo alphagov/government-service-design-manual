@@ -48,7 +48,7 @@ The Cabinet Office, through the [IT spend controls](/service-manual/technology/s
 
 The cost of maintaining out of date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/users/user-needs.html).
 
-If you’re in this position, it’s also likely that the [architecture](/service-manual/technology/architecture.html) and [hosting](/service-manual/operations/hosting.html) of your existing estate may need to be rethought.
+If you’re in this position, it’s also likely that the [architecture](/service-manual/technology/architecture.html) and [hosting](/service-manual/operations/hosting.html) of your [existing estate](/service-manual/technology/architecture.html#the-legacy-estate) may need to be rethought.
 
 ##Breaking down barriers to technology change
 
