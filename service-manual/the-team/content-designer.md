@@ -36,10 +36,10 @@ The content designer’s job is to make sure that doesn’t happen.
 ##Skills and attributes
 Content designers must be able to:
 
-- [identify user needs](/service-manual/users.html) - based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders and analytics data both from the site and from search engines
+- [identify user needs](/service-manual/users) - based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders and analytics data both from the site and from search engines
 - gain an in-depth knowledge of a wide range of subjects - so they can make informed decisions about the best way to present information to users
 - develop content plans and strategies - high-level plans showing how the identified user needs will be met
-- [write great content](/service-manual/writing-government-services.html) - in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
+- [write great content](/service-manual/design-and-content/writing-government-services.html) - in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
 - edit content - making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user - grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
 - work with developers and designers to [create better solutions](http://digital.cabinetoffice.gov.uk/2012/11/05/tools-over-content/) - for example, writing logic and content for smart answers
