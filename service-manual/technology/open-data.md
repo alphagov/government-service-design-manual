@@ -6,6 +6,7 @@ category: chief-technology-officer
 type: category-index
 audience:
   primary: chief-technology-officers
+  secondary: chief-technology-officers
 status: draft
 phases:
 breadcrumbs:
