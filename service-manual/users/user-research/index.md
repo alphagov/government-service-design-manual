@@ -24,17 +24,17 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=1hbnPCdM4ls">Watch Angela Collins-Rees, GDS User Research Specialist, describing the importance of user research.</a></figure>
 
-Conducting user research helps us to understand our users better. It’s how we find out what they're currently doing, how they're doing something, what they want, what they think they want, and what we think they want. All of this helps us to define the [user needs](/service-manual/users/user-needs).
+Conducting user research helps us to understand our users better. It’s how we find out what they're currently doing, how they're doing something, what they want, what they think they want, and what we think they want. All of this helps us to define the [user needs](/service-manual/users/user-needs.html).
 
 We use a range of methods, techniques and approaches to tease that insight out in order to inform design, development and improvement of our products and services. 
 
 ## What kind of research and when?
 
-In the [discovery phase](/service-manual/phases/discovery.html) you want to understand the way users currently interact with a service, ideally in the environment they would do it ‘normally’. [Etnographic research](/service-manual/users/ethnographic-research.html) is useful for that. 
+In the [discovery phase](/service-manual/phases/discovery.html) you want to understand the way users currently interact with a service, ideally in the environment they would do it ‘normally’. [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html) is useful for that. 
 
-Further down the product development life cycle, when you have [a prototype or wireframes](/service-manual/phases/alpha.html), [usability testing](/service-manual/users/remote-usability.html) will help you understand ways your users interact with your solutions to their needs.
+Further down the product development life cycle, when you have [a prototype or wireframes](/service-manual/phases/alpha.html), [usability testing](/service-manual/users/user-research/remote-usability.html) will help you understand ways your users interact with your solutions to their needs.
 
-Then, in [beta](/service-manual/phases/beta.html) and beyond, quantitative methods like [surveys and feedback questionnaires](/service-manual/users/survey-design.html) can help you understand what problems are emerging for increasing numbers of users.
+Then, in [beta](/service-manual/phases/beta.html) and beyond, quantitative methods like [surveys and feedback questionnaires](/service-manual/users/user-research/survey-design.html) can help you understand what problems are emerging for increasing numbers of users.
 
 Generally, a mix of qualitative and quantitative methods will give you a broad understanding of users needs and how you can improve services to meet those needs.
 

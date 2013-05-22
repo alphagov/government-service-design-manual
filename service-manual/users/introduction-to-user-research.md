@@ -57,7 +57,7 @@ Typically this will involve some initial fact finding in the early stages to und
 | User surveys | | | |
 
 ## Assisted digital research
-Each service/product will have a different proportion of users who are not online and this will need to be considered when formulating an appropriate research approach for [assisted digital](/service-manual/assisted-digital.html) users.
+Each service/product will have a different proportion of users who are not online and this will need to be considered when formulating an appropriate research approach for [assisted digital](/service-manual/assisted-digital) users.
 
 The services/product will need to consider the digital skills of their users to understand which users who currently don’t use digital channels: 
 
