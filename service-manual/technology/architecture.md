@@ -40,12 +40,12 @@ Note: examples are for illustration purposes only.
 
 To support this our architecture will need to move away from tightly-coupled and proprietary models towards an open, interoperable architecture using [open standards](/service-manual/making-software/open-standards-and-licensing.html) and [open interfaces](/service-manual/making-software/apis.html), eg XML- and JSON-based data services, to maximise government’s flexibility and improve the speed of delivery of services.
 
-We will also apply principles of non-duplication:
+We should strive to:
 
-* no duplication of data ownership – to prevent synchronisation, data quality, security, and privacy problems
-* limit duplication of development effort – to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes: wherever possible (and tested against the “[rule of three](http://www.maheshpai.info/?p=20)”), we will use and re-use standard, interoperable components, interfaces, data formats and processes using open standards
+* avoid duplication of data ownership – to prevent synchronisation, data quality, security, and privacy problems
+* limit duplication of development effort – to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes. Wherever possible (and tested against the “[rule of three](http://www.maheshpai.info/?p=20)”), we will use and reuse standard, interoperable components, interfaces, data formats and processes using open standards
 
-It is however okay to duplicate to optimise the user experience (but there should be clear master-slave data relationships should information itself be replicated, eg for reasons of performance).
+Duplication is OK when used to optimise the user experience (but there should be clear master-slave data relationships should information itself be replicated, eg for reasons of performance).
 
 ##Products and Services
 
