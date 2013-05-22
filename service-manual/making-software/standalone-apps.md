@@ -27,7 +27,7 @@ The government’s position is that native apps are currently rarely justified. 
 
 > “Stand-alone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
-Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data and API available for re-use will stimulate the market if there is real demand for native apps.
+Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data and API available for reuse will stimulate the market if there is real demand for native apps.
 
 ## Brief background on apps landscape
 

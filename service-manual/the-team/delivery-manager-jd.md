@@ -140,7 +140,7 @@ The main responsibilities of the post are:
 
 #### Desirable
 * anticipates business needs and managing resource requirements
-* plans effectively and uses budgets and resources, including the authority to re-deploy funds across functions, to deliver measurable value for money
+* plans effectively and uses budgets and resources, including the authority to redeploy funds across functions, to deliver measurable value for money
 
 ### Communicating and Marketing
 
