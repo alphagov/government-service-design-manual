@@ -29,7 +29,7 @@ You have:
 
 * a [team](/service-manual/the-team) that is knowledgeable about existing and emerging technology options
 * a governance and management structure that is an enabler, not a bottleneck or barrier to change
-* flexible commercial models that meet your needs (e.g. commodity or utility provision)
+* flexible commercial models that meet your needs, eg commodity or utility provision
 * a diverse, competitive market from which to [choose your suppliers or products](/service-manual/making-software/choosing-technology.html)
 * transparency and trust in your supplier relationships
 * pricing competition and the ability to switch between alternative suppliers
@@ -44,11 +44,11 @@ You will need to build relationships with new suppliers that you may have found 
 
 It may be necessary and more cost-effective to write-off previous financial investments, so you will need courage and conviction to stop spending on old, legacy systems.
 
-The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least youwill need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
+The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least you will need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
 
 The cost of maintaining out of date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/users/user-needs.html).
 
-If you’re in this position, it’s also likely that the [architecture](/service-manual/technology/architecture.html) and [hosting](/service-manual/operations/hosting.html) of your existing estate may need to be rethought.
+If you’re in this position, it’s also likely that the [architecture](/service-manual/technology/architecture.html) and [hosting](/service-manual/operations/hosting.html) of your [existing estate](/service-manual/technology/architecture.html#the-legacy-estate) may need to be rethought.
 
 ##Breaking down barriers to technology change
 
@@ -56,7 +56,7 @@ You may come across inertia or resistance when you try to make necessary changes
 
 Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be.
 
-The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small or medium-sized businesses.
+The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small- or medium-sized businesses.
 
 You may find that you have become [locked-in](/service-manual/making-software/choosing-technology.html#lock-in) to a particular contract or technology. As part of your consideration of the total cost of ownership of a particular solution, you should have estimated the cost of exit at the start of implementation.
 

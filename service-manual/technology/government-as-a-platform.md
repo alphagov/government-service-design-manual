@@ -31,7 +31,7 @@ Whilst government can learn from this model, it cannot simplistically copy it. G
 
 <img src="/service-manual/assets/images/current-government-systems.png" alt="Diagram showing a simplified version of the current state of government systems" />
 
-This move to a platform-based model is a significant transition. A platform provides essential technology infrastructure, including core applications that demonstrate the potential of the platform. Other organisations and developers can utilise the platform to innovate and build upon. The core platform provider enforces “rules of the road” (such as the open technical standards and processes to be used) to ensure consistency, and that applications based on the platform will work well together. 
+This move to a platform-based model is a significant transition. A platform provides essential technology infrastructure, including core applications that demonstrate the potential of the platform. Other organisations and developers can use the platform to innovate and build upon. The core platform provider enforces “rules of the road” (such as the open technical standards and processes to be used) to ensure consistency, and that applications based on the platform will work well together. 
 
 ## Moving to the platform model
 

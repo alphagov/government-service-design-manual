@@ -6,7 +6,7 @@ category: users
 type: guide
 audience:
     primary: user-researchers, service-managers
-    secondary: designers, developers,
+    secondary: designers, developers, chief-technology-officers
 status: draft
 phases:
   - discovery
