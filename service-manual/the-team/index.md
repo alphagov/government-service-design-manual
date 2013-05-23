@@ -17,7 +17,7 @@ breadcrumbs:
 
 The right team needs to be in place to deliver a digital by default service. Teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. 
 
-They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is re-designing and running, and the extent to which each will be delivered in house.
+They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is redesigning and running, and the extent to which each will be delivered in house.
 
 ## Service managers
 

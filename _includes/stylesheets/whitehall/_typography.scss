@@ -4,7 +4,7 @@
 //  ANATOMY OF A TYPE STYLE
 //  -----------------------
 //  These are a collection of graphic styles. They are deliberately
-//  abstracted from semantic HTML context to enable flexible re-use.
+//  abstracted from semantic HTML context to enable flexible reuse.
 //  Although there is a lot of duplication within this file, as long
 //  as you GZIP your CSS it shouldnt cause any bloat.
 //
@@ -25,7 +25,7 @@
 //      font-weight: 300;
 //      letter-spacing: 0.01em;
 //      text-transform: none;
-//      _ Again, we cant assume anything about pre-exising CSS on the
+//      _ Again, we can't assume anything about pre-existing CSS on the
 //        page, so setting these values (even if just resetting them
 //        to default values) will increase the robustness of the style.
 //
