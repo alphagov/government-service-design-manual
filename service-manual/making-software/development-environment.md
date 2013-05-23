@@ -54,7 +54,7 @@ We should be able to remotely provision new machines ourselves to meet our needs
 
 ### Suitable range of virtual machine options
 
-Support for 64 bit architectures and a range of virtual machine sizes at least up to 4 cores, 16GB RAM and 300GB disk
+Support for 64 bit architectures and a range of virtual machine sizes at least up to 4 cores, 16GB RAM and 300GB disk.
 
 ### Run own operating system
 

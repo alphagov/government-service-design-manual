@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-Deep understanding of your users needs is crucial for building a successful digital service.
+Deep understanding of your users' needs is crucial for building a successful digital service.
 
 ## Defining user needs
 

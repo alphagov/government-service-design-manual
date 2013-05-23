@@ -80,7 +80,7 @@ By implementing open standards for software interoperability, data and document 
 
 * improving our flexibility and the ability for government to deliver services based on users’ needs and avoid digital exclusion based on the technology choices we make;
 * putting in place a level playing field for open source and proprietary software, giving us the ability to move between different technologies without the risk of lock-in;
-* making it easier to share appropriate data across and beyond government boundaries to provide efficient services for users and for our delivery partners
+* making it easier to share appropriate data across and beyond government boundaries to provide efficient services for users and for our delivery partners;
 * making the cost of our digital services more sustainable by reducing complexity and encouraging reuse.
 
 ## Guidance
