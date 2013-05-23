@@ -5,7 +5,7 @@ subtitle: Secure access to public services
 category: identity-assurance
 type: category-index
 audience:
-  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
+  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers, chief-technology-officers
 status: draft
 phases:
   - discovery

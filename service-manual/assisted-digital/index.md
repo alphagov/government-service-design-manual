@@ -56,7 +56,7 @@ To ensure consistency, assisted digital support must follow shared models of ass
 
 There will be a strong presumption towards procuring external resource to provide assisted digital support, from the private sector, the voluntary sector, and other parts of the public sector. In exceptional circumstances, departments may seek an exemption from this requirement; for example, where a business case for external provision does not demonstrate good value for money. Transitioning from in-house to external provision will be phased in as the marketplace of assisted digital providers is established.
 
-Where an alternative channel remains, it will be re-calibrated to provide assisted digital support.
+Where an alternative channel remains, it will be recalibrated to provide assisted digital support.
 
 ## How are we developing our approach to assisted digital?
 Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-05). The experiences with these services will inform shared models and shared procurement routes for assisted digital. If you are not an exemplar service but would like to get involved in this work, please [contact GDS](/service-manual/feedback).
