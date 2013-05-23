@@ -25,12 +25,12 @@ The [Performance Platform](https://www.gov.uk/performance) is for service manage
 It's a toolkit which allows them to supply their service data in return for alerts, visualisations and structured data which they can use to improve their services, meet [the service standard](https://www.gov.uk/service-manual/digital-by-default) and draw insight by comparing data across multiple services and sources.
 
 ##What the platform will offer
-The platform will provide visualisations, alerts, dashboards and feeds to enable timely and transparent decisions on the services and content that government offers. By combining different sources of information (e.g. service desk, infrastructure, analytics, surveys, finance data, etc.), it will produce outputs which foster greater understanding of the data rather than simply communicating facts. It will:
+The platform will provide visualisations, alerts, dashboards and feeds to enable timely and transparent decisions on the services and content that government offers. By combining different sources of information (eg service desk, infrastructure, analytics, surveys, finance data, etc), it will produce outputs which foster greater understanding of the data rather than simply communicating facts. It will:
 
 * enable government to make decisions based on data
 * do the hard work to make data collection, retrieval, and presentation simple for users
 * be open to any government service supplying their data and customising their outputs, and open to the public
-* be independent of proprietary monitoring software  (e.g. google analytics)
+* be independent of proprietary monitoring software (eg Google Analytics)
 * automate routine analysis and visualisation, and use insights to provoke further detailed analysis
 
 ##Put data in
@@ -43,8 +43,8 @@ The platform will consist of a series of modules from which services can choose.
 
 ![Licensing performance platform](/service-manual/assets/images/measurement/licensing.jpg)
 
-When a new module is added, it will be offered to all services on the platform and they can each decide if they want to adopt it or not. There will be default modules relevant to all services, modules relevant to similar groups of services (e.g. applying for something, requesting information, booking an appointment), [Key Performance Indicator](service-manual/measurement) modules, and the ability for services to develop their own custom modules.
+When a new module is added, it will be offered to all services on the platform and they can each decide if they want to adopt it or not. There will be default modules relevant to all services, modules relevant to similar groups of services (eg applying for something, requesting information, booking an appointment), [Key Performance Indicator](service-manual/measurement) modules, and the ability for services to develop their own custom modules.
 
 ##Further information
-[The Performance Platform](/performance)
-[Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)
+* [The Performance Platform](/performance)
+* [Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)

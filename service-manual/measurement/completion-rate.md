@@ -76,7 +76,7 @@ Some transactional services have parts which are digital and others which are no
 
 In these situations the second online part of the transaction should be treated as a resumption of the first part. Where it is not possible to match the two, the discrete digital parts of the service should be treated as separate tasks, with the measure completion rate measured for each. 
 
-Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (e.g from surveys, diary studies, focus groups).
+Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (eg from surveys, diary studies, focus groups).
 
 ## When to measure completion rate
 

@@ -197,7 +197,7 @@ Do use:
 
 Don't use:
 
-* technical terms - eg. use ‘delete’, not ‘form reset’, use one of the common actions below instead of ‘submit’
+* technical terms - eg use ‘delete’, not ‘form reset’, use one of the common actions below instead of ‘submit’
 * lots of words - eye tracking shows users are less likely to read long labels
 
 
