@@ -31,6 +31,7 @@ Data about service performance allows [service managers](/service-manual/the-tea
 You should publish all public data, unless it is private data collected from people or restricted for national security reasons.
 
 Public data is anonymised data:
+
 * on which public services are run and assessed
 * on which policy decisions are based
 * is collected or generated in the course of your service delivery
@@ -85,7 +86,9 @@ The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.
 This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for re-use. There are a number of licenses in the framework. You can choose one to suit your particular needs. For free UK Government data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
 
 ## Why we do this
+
 Your open data can give:
+
 * your users information and informed choice about the services they use
 * your service managers the information they can rely on to deliver what your users need
 * businesses and the community or voluntary sector the opportunity to take the data released and produce goods and services from it
