@@ -46,5 +46,5 @@ The platform will consist of a series of modules from which services can choose.
 When a new module is added, it will be offered to all services on the platform and they can each decide if they want to adopt it or not. There will be default modules relevant to all services, modules relevant to similar groups of services (e.g. applying for something, requesting information, booking an appointment), [Key Performance Indicator](service-manual/measurement) modules, and the ability for services to develop their own custom modules.
 
 ##Further information
-[The Performance Platform](/service-manual/performance)
+[The Performance Platform](/performance)
 [Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)

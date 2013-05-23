@@ -13,13 +13,13 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  - 
+  -
     title: Service design phases
     url: /service-manual/phases
 ---
 
 {:.intro}
-What are the [needs of your users](/service-manual/users/user-needs.html)? What services currently meet those? How are they [performing](/service-manual/performance)? What technological or policy related constraints might there be?
+What are the [needs of your users](/service-manual/users/user-needs.html)? What services currently meet those? How are they [performing](/service-manual/measurement/performance-platform)? What technological or policy related constraints might there be?
 
 Before you start building a service you need to build up a picture of what the context for that service is. That means lots of [user research](/service-manual/users/introduction-to-user-research.html), close analysis of policies, laws and business needs, and workshops and interviews which establish the criteria for success of your service.
 
