@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## What is a transaction?

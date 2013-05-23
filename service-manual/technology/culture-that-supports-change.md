@@ -27,7 +27,7 @@ Your digital services are based on user needs, not on organisation structures an
 
 You have:
 
-* a [team](/service-manual/the-team.html) that is knowledgeable about existing and emerging technology options 
+* a [team](/service-manual/the-team) that is knowledgeable about existing and emerging technology options
 * a governance and management structure that is an enabler, not a bottleneck or barrier to change
 * flexible commercial models that meet your needs (e.g. commodity or utility provision)
 * a diverse, competitive market from which to [choose your suppliers or products](/service-manual/making-software/choosing-technology.html)
@@ -42,7 +42,7 @@ You may need to radically change governance and management structures and will n
 
 You will need to build relationships with new suppliers that you may have found through new procurement routes, such as the [G-Cloud](http://gcloud.civilservice.gov.uk/).
 
-It may be necessary and more cost-effective to write-off previous financial investments, so you will need courage and conviction to stop spending on old, legacy systems. 
+It may be necessary and more cost-effective to write-off previous financial investments, so you will need courage and conviction to stop spending on old, legacy systems.
 
 The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least youwill need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
 
@@ -52,15 +52,15 @@ If you’re in this position, it’s also likely that the [architecture](/servic
 
 ##Breaking down barriers to technology change
 
-You may come across inertia or resistance when you try to make necessary changes to your technology or how your service is provided. 
+You may come across inertia or resistance when you try to make necessary changes to your technology or how your service is provided.
 
-Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be. 
+Your existing supplier base will tend to resist change – and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be.
 
 The changes needed will often be more successfully initiated and delivered by those not encumbered by past success – new market entrants and those traditionally closed-out from government business, such as small or medium-sized businesses.
 
-You may find that you have become [locked-in](/service-manual/making-software/choosing-technology.html#lock-in) to a particular contract or technology. As part of your consideration of the total cost of ownership of a particular solution, you should have estimated the cost of exit at the start of implementation. 
+You may find that you have become [locked-in](/service-manual/making-software/choosing-technology.html#lock-in) to a particular contract or technology. As part of your consideration of the total cost of ownership of a particular solution, you should have estimated the cost of exit at the start of implementation.
 
-If you try to move and find that cost is a barrier, any unlocking costs that you have identified must be associated with the incumbent supplier/system and not be considered as part of the cost of a new solution. 
+If you try to move and find that cost is a barrier, any unlocking costs that you have identified must be associated with the incumbent supplier/system and not be considered as part of the cost of a new solution.
 
 Building on [open standards](/service-manual/making-software/open-standards-and-licensing.html) or selecting products which use them will help you to avoid this problem in the future.
 
@@ -76,7 +76,7 @@ You will also see similar resistance in-house, where many staff may have long gr
 
 ##Why you need an environment that supports change
 
-Flexible technology and services give service managers the ability evolve services and make them responsive to users needs. It also avoids costly and more risky big bang changes. 
+Flexible technology and services give service managers the ability evolve services and make them responsive to users needs. It also avoids costly and more risky big bang changes.
 
 Reducing the risk of lock-in to suppliers, software, service and support, or to old and inefficient IT, means that you have the ability to choose what best meets the outcomes you are looking for at a sustainable and competitive cost and at a timescale that suits you.
 
@@ -86,7 +86,7 @@ Reducing the risk of lock-in to suppliers, software, service and support, or to 
 
 [G-Cloud](http://gcloud.civilservice.gov.uk/) - the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products.
 
-Guidance about [the team you’ll need to have in place](uk/service-manual/the-team/index.html) to build a successful service.
+Guidance about [the team you’ll need to have in place](/service-manual/the-team) to build a successful service.
 
 Blog post from GDS about [making better choices for the technology we use](http://digital.cabinetoffice.gov.uk/2013/03/26/better-tech-choices/)
 

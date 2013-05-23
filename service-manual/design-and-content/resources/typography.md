@@ -32,7 +32,7 @@ We currently use two weights of New Transport: Light and Bold. Italics should no
 
 New Transport is not licenced for use outside of the GOV.UK domain. When your service goes live you'll be given access to the typeface.
 
-If the service uses numbers in columns or tables, you should change these to use the tabular number version of New Transport. This replaces the standard numbers with new versions that have a fixed width. The main noticable difference is a base on the character 1. GDS has used this on the [Performance Platform](/performance) and Trade Tariff.
+If the service uses numbers in columns or tables, you should change these to use the tabular number version of New Transport. This replaces the standard numbers with new versions that have a fixed width. The main noticable difference is a base on the character 1. GDS has used this on the [Performance Platform](/service-manual/performance) and Trade Tariff.
 
 
 ## Colour contrast

@@ -21,7 +21,7 @@ A service may fail to meet [the standard](/service-manual/digital-by-default/ind
 
 * during the service’s design, prior to going live
 * rejection at a [go live panel](/service-manual/digital-by-default/go-live-panel.html)
-* a live service falling below the [performance targets](/service-manual/measurement/index.html) approved at launch
+* a live service falling below the [performance targets](/service-manual/measurement) approved at launch
 
 ## Failure during service design
 
@@ -42,14 +42,14 @@ If the service fails to pass the panel on two occasions, the Cabinet Office will
 [Performance levels](/service-manual/performance) of a service will be monitored closely. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html) for three months GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
 
 ### The performance panel
-The performance panel will be chaired by GDS. It will include representatives from other departments and may feature external experts when suitable. 
+The performance panel will be chaired by GDS. It will include representatives from other departments and may feature external experts when suitable.
 
-The service manager and Digital Leader will present to the panel, explaining why they believe performance levels are below those expected at launch and set out what remedial actions they intend on taking to rectify the issues within the next three months. The panel will approve this plan, or suggest additional actions. 
+The service manager and Digital Leader will present to the panel, explaining why they believe performance levels are below those expected at launch and set out what remedial actions they intend on taking to rectify the issues within the next three months. The panel will approve this plan, or suggest additional actions.
 
 It will approve changes to the performance targets set at launch only if there is compelling evidence that the [user needs](/service-manual/users/user-needs.html) have demonstrably changed. It will also request monthly updates against the actions.
 
 ### Failing services
-If after a further three months the performance issues still persist, the Cabinet Office will write to the Minister responsible for the service, explaining that the service is failing to meet the standard, and that a warning will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed. 
+If after a further three months the performance issues still persist, the Cabinet Office will write to the Minister responsible for the service, explaining that the service is failing to meet the standard, and that a warning will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed.
 
 If there is still no improvement a month after this point, GDS will recommend whether the service should;
 
