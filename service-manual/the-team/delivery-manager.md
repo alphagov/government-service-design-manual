@@ -52,7 +52,7 @@ A delivery manager will also need the following skills:
 [Delivery Manager](/service-manual/the-team/delivery-manager-jd.html)
 
 ## Guidance
-Read [articles in the manual of particular interest to delivery managers](/service-manual/delivery-managers/).
+Read [articles in the manual of particular interest to delivery managers](/service-manual/service-managers).
 
 ## Further reading
 * [Good health check](http://www.scrumalliance.org/articles/103-the-managers-role-in-agile) from the Scrum Alliance for delivery managers.
