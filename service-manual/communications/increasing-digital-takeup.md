@@ -15,6 +15,8 @@ breadcrumbs:
 ---
 
 It’s essential to increase the take-up of government digital services so more users can experience the benefits of redesigned government services. Increased take-up will also make it possible for [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service. 
+
+Digital take-up is one of the four key performance indicators your service will need to [benchmark, measure and monitor](/service-manual/measurement/digital-takeup.html) in order to meet the [Digital by Default Service Standard](/service-manual/digital-by-default). 
  
 ##Background
 
