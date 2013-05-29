@@ -21,7 +21,7 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=qLR1LnxplAY">Nick Stenning talks about what it means to be in web operations.</a></figure>
 
-Web operations (sometimes called systems administrators, operations engineers or site reliability engineers) run the production systems and help the development team build software that is easy to operate, scale and secure. 
+Web operations (sometimes called systems administrators, operations engineers or site reliability engineers) run the production systems and help the development team build software that is easy to operate, scale and secure.
 
 This involves expertise in infrastructure, configuration management, monitoring, deployment and operating systems.
 
@@ -60,6 +60,10 @@ And ideally have an interest in or some experience with:
 * compliance, auditing and security
 * open source development
 * experience in a product centric environment
+
+##Guidance
+
+Read [guidance in the manual of particular interest to web ops](/service-manual/web-ops).
 
 ## Job Description
 
