@@ -25,7 +25,7 @@ Content designers make sure that the writing on the site or service meets the ne
 ##The importance of content designers
 You can add up, but it doesn’t mean you’re an accountant. You can write, but it doesn’t mean you’re a content designer.
 
-For many reasons, in the past the government has often published content that’s difficult to understand and difficult to act on. 
+For many reasons, in the past the government has often published content that’s difficult to understand and difficult to act on.
 
 What gets published can be more about what the government wants to say than what the user needs to know.
 
@@ -53,7 +53,7 @@ Content designers must be able to:
 
 ##Guidance
 
-Read [guidance in the manual of particular interest to content designers](https://www.gov.uk/service-manual/content-designers).
+Read [guidance in the manual of particular interest to content designers](/service-manual/designers).
 
 ##Job description
 [Content designer template](/service-manual/the-team/content-designer-jd.html)
