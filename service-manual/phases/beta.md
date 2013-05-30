@@ -49,7 +49,7 @@ You will have:
 * a collection of prioritised work to be done (your backlog)
 * a [user testing plan](/service-manual/users/introduction-to-user-research.html)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
-* provision for Assisted Digital support, which has been fully tested
+* provision for assisted digital support, which has been fully tested
 * a working system that can be used, for real, by end users
 
 **[Next phase: live](/service-manual/phases/live.html)**
