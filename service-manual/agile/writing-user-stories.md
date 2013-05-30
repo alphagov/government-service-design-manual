@@ -80,7 +80,7 @@ Stories can come from many places, but the most common sources include,
 * user proxies embedded within your team - this may include the service manager or product owner
 * observation - watch real users using your service
 
-See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/system/asset/file/259/User-Stories-Applied-Mike-Cohn.pdf).
+See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
 
 ## References
 
