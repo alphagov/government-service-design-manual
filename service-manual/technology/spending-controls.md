@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Spending controls
 subtitle: Navigating the controls process
-category: chief-technology-officer
+category: technology
 type: guide
 audience:
   primary: chief-technology-officers

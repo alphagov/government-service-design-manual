@@ -2,7 +2,7 @@
 layout: category-index
 title: Guidance for CTOs
 subtitle: Empowering Chief Technology Officers across government
-category: chief-technology-officer
+category: technology
 type: category-index
 audience:
   primary: chief-technology-officers
@@ -32,7 +32,7 @@ The [spending controls](/service-manual/technology/spending-controls.html) proce
 ##Building on openness
 There must be a level playing field for open source and proprietary software solution, that allows organisations the flexibility to change technologies and innovate based on data. This means:
 
-* building on [open standards](/service-manual/making-software/open-standards-and-licensing.html) 
+* building on [open standards](/service-manual/making-software/open-standards-and-licensing.html)
 * building on [open data](/service-manual/technology/open-data.html)
 * building on your own [API](/service-manual/making-software/apis.html)
 
