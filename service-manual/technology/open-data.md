@@ -2,8 +2,8 @@
 layout: detailed-guidance
 title: Open data
 subtitle: Accessible, machine readable data about services
-category: chief-technology-officer
-type: category-index
+category: technology
+type: guide
 audience:
   primary: chief-technology-officers
   secondary: chief-technology-officers
@@ -96,13 +96,13 @@ Your open data can give:
 
 Building your services on open formats and open standards means that you can more easily share, reuse or exchange data. It will also mean that you will have a choice in which technology to implement, rather than being limited to a particular product or supplier.
 
-##Examples of open data in action	 	
+##Examples of open data in action
 You can browse the [apps section of data.gov.uk](http://data.gov.uk/apps) to see hundreds of applications that have been built using open government data.
 
-You can also find case studies of how people are sharing, using and building open data on the [data.gov.uk](http://data.gov.uk) site. 
+You can also find case studies of how people are sharing, using and building open data on the [data.gov.uk](http://data.gov.uk) site.
 
 ##Where to get help
-	 	 	
+
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk
 
 The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
