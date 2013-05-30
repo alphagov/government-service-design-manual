@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Testing in an agile environment
-subtitle: What testing your service might look like
+subtitle: How to get testing right
 category: agile
 type: guide
 audience: 
@@ -22,63 +22,105 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-Fundamentally, the basics of any testing approach still apply in the Agile world. However, the focus of testing can be quite different.  
+The basics of any testing approach still apply in the Agile world, but the aim of testing can be quite different.
 
-It is important to recognize why we are testing in the first place, and that is to build the best quality system we can, that does what the customer requires, at a cost that everyone agrees we can afford  (cost being money, business change, risk etc.).  Too often, the focus of testing is to validate what has been produced and that alone, when in actuality it should be more about the following 7 concepts:
+It is important to recognise why you are testing in the first place:
+
+* to build the best quality system you can
+* to make sure it does what the customer requires
+* that it’s done at a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
+
+Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about the following 7 concepts:
+
+* building quality in
+* everyone is responsible for quality
+* fast feedback
+* tests are an asset of the product
+* faster delivery into production
+* clear and constant view of testing
+* optimise value
+
 
 ## Building quality in
 
-You cannot test quality at the end, which is the mistake many teams make. Expend the vast majority of your effort building quality in at the start instead. 
+Use the vast majority of your efforts building quality in at the start, and test the quality throughout the project - not at the end when it’s too late.
 
-When you write user stories, ensure that you define acceptance criteria against which you can test. Once past that point, testing should primarily be a verification of what we already know and understand to be true, there should be no surprises in the latter stages.
+When you write user stories, make sure that you can test against your acceptance criteria standards. Testing should confirm what you already know and understand to be true, so there should be no surprises in the latter stages.
 
 ## Everyone is responsible for quality
 
-Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it. If there is a problem in the quality of the system being produced, then it should be evident to everyone involved, and every person on the project should be taking action to increase quality and fix issues.
+Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it. 
+
+Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
 
 ## Fast Feedback
 
-Agile is reliant on fast feedback loops, so that we can actually be agile and change when we need to change. Testing should be about giving that fast feedback, at the time when it is useful. Agile test techniques (eg Behaviour driven development, Acceptance test driven development) have their place and we may well use them, but they are not the primary focus of the test approach.
+A successful agile project relies on fast feedback loops. Getting feedback and getting it fast means you can actually be agile and change when you need to change.
+
+Your testing should be about giving and getting that fast feedback - at a time when it’s useful. Agile test techniques (eg behaviour driven development, acceptance test driven development) have their place and you can use them, but don’t make them the centre of your approach to testing.
 
 ## Tests are an asset of the product
 
-By this we mean that testing is built with reuse in mind. It takes a lot of effort to do testing correctly, we don’t want it to be a throwaway exercise that has to start from scratch each time there is a new release, or a new project. Automated tests need to be written with the same care and rigour as production code.
+When you build a test, build it to a standard that makes it suitable to use for testing multiple times throughout your project.
+
+It takes a lot of effort to do testing correctly, so don’t make it a throwaway exercise that has to start from scratch each time there’s a new release, or a new project.
+
+Write your automated tests with the same care and accuracy as production code.
 
 ## Faster delivery into production
 
-While testing is necessary and valuable to the programme as a whole, any time it takes for that code to go live once written is essentially wasted time. Testing should be a tool that is used to get the fastest possible confirmation that it is as expected, or that it isn’t and needs to be reworked.
+Testing is necessary and valuable to the programme, but the time it takes for your code to go live once written is time wasted.
 
-Testing doesn’t always need to be exhaustive at every level, it needs to be applicable to the situation at hand. It should be the job of the team to agree on the necessary testing at each level, based on the appetite for risk of the product owner and the likelihood of risk in the application.
+Use testing to get the fastest possible confirmation that everything is as you expect - or that it isn’t and needs to be fixed.
+
+It doesn’t always need to be exhaustive at every level, but it does need to be relevant to the current situation. Your team needs to agree on the necessary testing at each level, based on the preferences of the product owner and the likelihood of risk in the application itself.
 
 ## Clear and consistent view of testing
 
-Everybody in the programme needs to understand and agree the approach to testing, and everybody needs to understand where they fit in and what they are required to do.
+Everybody in your programme needs to understand and agree on:
+
+* the approach to testing
+* where they fit in
+* what they’re required to do
 
 ## Optimise value
 
-Testing, done well, will inform the best way forward and get the best 'bang for buck' in terms of effort expended in various functional or non-functional areas.  It will help make the tough decisions, and drive the development effort based on the risk of each choice of story.  It will help the prioritisation based on the understanding of the complexity of the system.
+When done well, testing will inform you of the best way forward. It’ll also give you the best value in terms of effort used in various functional or nonfunctional areas and will:
+
+* help make the tough decisions
+* direct development based on the risk of each user story
+* help with the order of priority, based on the complexity of the system
 
 ## Types of testing
 
-The most noticeable difference with testing in an Agile world is that the majority of your  test effort will be focussed on automated tests.   
-These tests run in Continuous Integration (C.I.) which means that they form part of your code base and every time you make a change to your code, your tests are automatically run. This gives you immediate feedback on the quality of your code and helps prevent bugs being found at a later stage when they are expensive and complicated to resolve.
+The most noticeable difference with testing in an agile project is that the majority of your test efforts will be centred on automated tests. 
+These tests run in [continuous integration (C.I.)](/service-manual/agile/continuous-delivery.html), which means that they form part of your codebase - every time you make a change to your code, your tests are automatically run. You’ll get immediate feedback on the quality of your code and it’ll help to prevent bugs happening at a later stage (when they’re expensive and complicated to resolve.)
 
 ### Code Testing
 Read the guidance about [testing code](/service-manual/making-software/code-testing.html).  
 
-
 ### Exploratory Testing
-Exploratory testing is a term commonly used to describe unscripted manual testing whereby the tester uses his or her knowledge, experience and intuition to navigate through the software and identify bugs. A scripted test can only ever test a predetermined outcome. Exploratory testing aims to find and test the less obvious outcomes. A good way to think about it is that automated tests prevent bugs whereas exploratory tests find them.  
+Exploratory  testing is a term commonly used to describe unscripted manual testing. This is where the tester uses his or her knowledge, experience and intuition to go through through the software and identify bugs.
 
-Exploratory testing is normally time-boxed and has a specific purpose - eg 'I will spend x hours exploring y and z aspects of the system (though my explorations may take me elsewhere and it may take more or less time, I’ll use my judgement as I go)'. 
+The difference between unscripted and scripted tests is that a scripted test can only ever test a predetermined outcome. Exploratory testing (unscripted) doesn’t mean you don’t prepare for the testing.
 
-The term does not imply that the tester has not prepared for the testing. They will have given the testing some detailed planning in advance, thinking for instance about the specific aspects they want to explore, and any data or other system set-up that they will need.  
+Exploratory testing is:
 
-Automation may still play a part - not to run the tests themselves but, for instance, to set up the data or to get a set of transactions into predetermined states.
+* always planned in advance, in detail, including:
+    * the specific aspects you want to explore
+    * any need for extra data or a different system set-up to perform the testing
+* used to find and test the less obvious outcomes (automated tests prevent bugs whereas exploratory tests find them)
+* normally timeboxed (runs for a fixed period of time)
+* has a specific purpose - eg ‘I will spend x hours exploring y and z aspects of the system (though this may take me elsewhere and it may take more or less time, so I’ll use my judgement as I go)’
+* not always without automation – automation can be used to set up the data or to get a set of transactions (just not to run the tests)
 
-In a team where you have a one or more dedicated ‘quality analysts’ or ‘testers’ this type of testing will normally be part of their role. In a developer-only team time will need to be put aside for them the developers themselves to do this type of testing. As a developer has been deeply involved in writing the code, it is sometime difficult for them to step far enough from the system to see paths through the system that they hadn’t previously envisaged. To help with this it’s ideal if they can be assigned to exploratory testing for a full day to allow the appropriate amount of context switching. It is also preferable if they are exploring parts of the system that they have been less involved in developing.
+The quality analysts or testers in your team carry out this type of testing. If your team is made up of only developers, you’ll need to put time aside for the developers to do the testing, but bear in mind that:
 
-When a manual test uncovers a defect, it is important to always add an automated test to catch it going forward and hence prevent any reoccurrence.
+* as developers are deeply involved in writing the code, it’s sometime difficult for them to see ways through the system that they hadn’t previously thought of
+* it’s ideal for developers to be assigned to exploratory testing for a full day to allow the appropriate amount of context switching (the way a central processing unit changes from one task to another without the tasks conflicting)
+* it’s preferable if they explore parts of the system that they haven’t really developed
+
+When a manual test finds a defect, it’s important to always add an automated test to stop it from happening again.
 
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
@@ -92,11 +134,19 @@ Read the guidance about [penetration testing](/service-manual/operations/penetra
 Read the guidance about [accessibility testing](/service-manual/making-software/accessibility-testing.html)
 
 ### Crowd Sourced Testing
-Crowd sourced testing is a good way of speeding up your manual testing and/or achieving better coverage.  
+Crowdsourced testing doesn’t use a set group of people to carry out testing (known as outsource testing). It uses different people from different places in different jobs. It’s a good way of speeding up your manual testing and/or covering more ground.
 
-There are external companies who provide this as a service, but at GDS we do it internally. We simply put out a call for as many volunteers as possible across the organisation to put aside a few hours on a particular day for testing. We then give them some guidance on what we need testing and a central place for them to log bugs and hey presto! Sometimes we incentivise people by creating a ‘leader board’ showing who has tested the most things.  
+There are external companies who provide this as a service, but GDS do it internally by:
 
-Examples of where we have used this effectively include for pre-release testing of additional devices/browsers and for the detailed checking of hundreds of pieces of content on GOV.UK back to old content on DirectGov and BusinessLink.
+* putting out a call for as many volunteers as possible across the organisation to put aside a few hours on a particular day for testing
+* giving some guidance on what needs to be tested
+* providing somewhere to log bugs
+* sometimes motivating testers by creating a ‘leaderboard’ that shows who’s tested the most things
+
+Examples of where GDS used this effectively include:
+
+* the pre-release testing of additional devices/browsers
+* the detailed checking of hundreds of pieces of content on GOV.UK against old content on DirectGov and BusinessLink
 
 ### Test Your Ideas
 Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/users/introduction-to-user-research.html).
