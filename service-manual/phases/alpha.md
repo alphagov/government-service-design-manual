@@ -38,7 +38,7 @@ The objective is to build a working prototype. This will be used by stakeholders
 * gain shared understanding of the service at a coding and integrations level
 * understand what or who you will need to deliver a [beta](/service-manual/phases/beta.html)
 
-Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open, engagement process with your stakeholders. Try to involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Consider running a series of workshops with these stakeholders to develop your options.
+Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open, engagement process with your stakeholders. Involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
 
 Following demonstration of your alpha, you may choose to discard the code and start fresh in the [beta](/service-manual/phases/beta.html). If, however, your code is robust enough you may continue to iterate against your prototype.
 
@@ -64,8 +64,9 @@ This core team will be a mix of stakeholders, and makers (designers and develope
 * understanding around legacy systems to replace or wrap or integrate with
 * cross-functional requirements
 * decision to progress to [beta phase](/service-manual/phases/beta.html)
-* build upon and analyse the research you have commissioned on user needs
-* contact GDS about the content of your assisted digital provision
+* final analysis on the research you have commissioned on user needs
+* developed options for assisted digital provision, running workshops with your stakeholders and GDS.
+
 
 **[Next phase: beta](/service-manual/phases/beta.html)**
 
