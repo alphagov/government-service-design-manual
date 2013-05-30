@@ -33,8 +33,6 @@ Whether you're designing content, interfaces or whole services for GOV.UK, you s
 
 The [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) tells you what writing conventions to adopt for GOV.UK. There's also more general advice on [how our users read](/service-manual/design-and-content/how-users-read.html) and how to [write for government services](/service-manual/design-and-content/writing-government-services.html) and [transactions](/service-manual/design-and-content/resources/writing-for-transactions.html). We also have guidance on [data visualisation](/service-manual/design-and-content/data-visualisation.html).
 
-[See all guides for content designers](/service-manual/content-designers)
-
 
 ## Interface design
 
