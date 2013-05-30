@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Service integration and management
 subtitle: Managing providers in an efficient way
-category: chief-technology-officer
+category: technology
 type: guide
 audience:
   primary: chief-technology-officers
@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Service integration and management enables an organisation to manage the providers of services in a consistent and efficient way, ensuring that performance across a portfolio of multi-sourced goods and services meets user needs. 
+Service integration and management enables an organisation to manage the providers of services in a consistent and efficient way, ensuring that performance across a portfolio of multi-sourced goods and services meets user needs.
 
 ##Service integration today
 

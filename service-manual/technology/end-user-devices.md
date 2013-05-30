@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: End user devices
 subtitle: Delivering IT that meets the needs of users
-category: chief-technology-officer
+category: technology
 type: guide
 audience:
   primary: chief-technology-officers
@@ -19,7 +19,7 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=7rnsqrraNb8">Watch a short film describing the new approach to end user devices.</a></figure>
 
-The [ICT Strategy](https://www.gov.uk/government/publications/uk-government-ict-strategy-resources) committed the government to developing and implementing an [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy). This strategy has aimed to address historic issues, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences. These issues have been compounded by: 
+The [ICT Strategy](https://www.gov.uk/government/publications/uk-government-ict-strategy-resources) committed the government to developing and implementing an [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy). This strategy has aimed to address historic issues, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences. These issues have been compounded by:
 
 * overly expensive end user devices and associated services
 * an inability to change user IT to meet user needs
@@ -45,6 +45,6 @@ We need to get 4 basic things right:
 | Sustained Value | Making sure that value can be sustained after something has been bought. This means designing for change, and opening up access to all types of suppliers, including open source or small businesses |
 | Consumerised IT | We need to make it possible to use the sort of general, commodity technology that works well for consumers, and for other businesses |
 
-The [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy) will help departments and suppliers understand what kinds of design decisions they should now be making. 
+The [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy) will help departments and suppliers understand what kinds of design decisions they should now be making.
 
 There’s specific guidance on the standards that need to be met to ensure that digital services don’t become heavily dependent on particular products or suppliers, and a new security framework has been developed with CESG (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.
