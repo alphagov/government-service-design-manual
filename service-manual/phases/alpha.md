@@ -42,6 +42,8 @@ Continue to build upon and analyse the research you have commissioned on user ne
 
 Following demonstration of your alpha, you may choose to discard the code and start fresh in the [beta](/service-manual/phases/beta.html). If, however, your code is robust enough you may continue to iterate against your prototype.
 
+[Develop options for the assisted digital support](/service-manual/assisted-digital/action-plan.html#alpha-stage) for your service. To help develop the options, continue to build upon and analyse the research you have commissioned on user needs. Bring in the expertise of organisations working with people who are offline and users themselves. Run workshops to develop your options.
+
 ## What should be in my alpha?
 
 The alpha doesn't need to be a complete, end-to-end transaction. You're looking to demonstrate just enough so users gain some understanding of the service.
@@ -65,7 +67,7 @@ This core team will be a mix of stakeholders, and makers (designers and develope
 * cross-functional requirements
 * decision to progress to [beta phase](/service-manual/phases/beta.html)
 * final analysis on the research you have commissioned on user needs
-* developed options for assisted digital provision, running workshops with your stakeholders and GDS.
+* options for the assisted digital support for your service
 
 
 **[Next phase: beta](/service-manual/phases/beta.html)**
