@@ -20,13 +20,7 @@ breadcrumbs:
 
 Most of your users will be able to use new and redesigned services unaided, but there are some who will need help. This support is referred to as assisted digital.
 
-Assisted digital support can be provided:
-
-* in person
-* on the phone
-* when using the service
-* by having someone else use the service on behalf of a user
-* through other appropriate methods, eg remotely
+Assisted digital support might be provided in person, on the phone, or through other appropriate channels. Users will be given help to use the service, or someone will use it alongside them on their behalf.
 
 You can read more about assisted digital in the publication '[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
 
@@ -52,28 +46,21 @@ Good assisted digital support:
 
 * is based on [user needs](/service-manual/users/user-needs.html)
 * acts as an alternative way to access the digital service
-* is consistent with the digital service
 * includes an opportunity to learn, and encourages users to use the digital service independently in the future (where appropriate)
-* can be provided externally from where you’re based (ie in person)
-* helps to get [more people using digital services](/service-manual/measurement/digital-takeup.html)  - replacing existing non-digital channels, such as phone or face-to-face, as the demand for them decreases
+* can be provided externally from government, ie by the private and voluntary sectors
+* replaces existing non-digital channels, such as phone or face--to--face, as the demand for them decreases
 
 For more details, see our [assisted digital action plan](/service-manual/assisted-digital/assisted-digital-action-plan.html).
 
 ##What assisted digital support will look like
 
-Assisted digital support must follow shared models of assisted digital and be procured collaboratively to make sure it’s consistent. Shared models and procurement routes are currently being developed by GDS and departments in conjunction with the Government Procurement Service (GPS). For more information, see the publication ‘[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
-
-External resource will be used to provide assisted digital support, coming from the:
-
-* private sector
-* voluntary sector
-* other parts of the public sector
+Assisted digital support must follow shared models of assisted digital and be procured from the private and voluntary and community sector to make sure it’s consistent. Shared models and procurement routes are currently being developed by GDS and departments in conjunction with the Government Procurement Service (GPS). For more information, see the publication ‘[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
 
 Only in exceptional circumstances can a department ask for an exemption from this requirement, eg where a business case for using external resources doesn’t demonstrate good value for money.
 
 Moving from in-house to external resources will be phased in as the marketplace of assisted digital providers is established.
 
-Alternative channels of resource will be adjusted to provide assisted digital support in a consistent style with other resources.
+Where an alternative channel remains, it must be redesigned to provide assisted digital support.
 
 ##How we’re developing an approach to assisted digital
 
