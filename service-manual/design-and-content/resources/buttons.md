@@ -22,15 +22,11 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-Buttons should be used to signify actions that the user can perform. Here's how to create buttons in the GOV.UK style.
-
-If you're using [Sass](http://sass-lang.com/) in your project the [GOV.UK button Sass mixin](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_buttons.scss) will help.
+Buttons should be used to signify actions that the user can perform.
 
 ## Button styles
 
-The button mixin styles can be applied to links, inputs and button tags, like this:
-
-### Example
+Buttons can be made of links, inputs and button tags. CSS should be used to separate the technical implementation of a button from its style, like this:
 
 <div class="pattern-example">
   <p>
@@ -40,25 +36,9 @@ The button mixin styles can be applied to links, inputs and button tags, like th
   </p>
 </div>
 
-### HTML
-
-    <p>
-      <button class="button">Button tag</button>
-      <a href="#" class="button">Link tag</a>
-      <input class="button" type="submit" value="Input tag" /> 
-    </p>
-
-### Sass
-
-    @import "buttons"
-
-    .button{
-     @include button;
-    }
-
 ## Button colours
 
-The default button colour is `$green`, but different colours can be assigned. You need a good reason to do this though. 
+Buttons should have a default colour (such as green). Alternative colours should be possible but only to indicate different actions. 
 
 ### Example
 
@@ -70,31 +50,9 @@ The default button colour is `$green`, but different colours can be assigned. Yo
   </p>
 </div>
 
-The button text colour automatically switches from light to dark, depending on the background colour.
-
-### HTML
-
-    <p>
-      <a href="#" class="button">Primary action</a> 
-      <a href="#" class="button-secondary">Secondary action</a> 
-      <a href="#" class="button-warning">Warning action</a>
-    </p>
-
-### Sass
-
-    .button{
-     @include button;
-    }
-    .button-secondary{
-      @include button($grey-3);
-    }
-    .button-warning{
-     @include button($red);
-    }
-
 ## Disabling buttons
 
-Use the 'disabled' attribute or class, depending on which kind of element you're styling.
+As with the default browser style, buttons will need a disabled style to indicate when the `disabled` attribute is set.
 
 ### Example
 
@@ -103,39 +61,6 @@ Use the 'disabled' attribute or class, depending on which kind of element you're
     <button class="button" disabled="disabled">Button tag</button>
     <a class="disabled button">Link tag</a>
     <input class="button" disabled type="submit" value="Input tag" /> 
-  </p>
-</div>
-
-### HTML
-
-    <p>
-      <button class="button" disabled="disabled">Button tag</button>
-      <a class="disabled button">Link tag</a>
-      <input class="button" disabled type="submit" value="Input tag" /> 
-    </p>
-
-
-## Button sizes
-
-Buttons will inherit the font size of their parent elements. Use the standard paragraph text size wherever possible. More complex interfaces may occasionally require smaller buttons.
-
-### Example
-
-<div class="pattern-example">
-  <p>
-    <a href="#" class="button">Primary action</a> 
-    <a href="#" class="button-secondary">Secondary action</a> 
-    <a href="#" class="button-warning">Warning action</a>
-  </p>
-  <div>
-    <a href="#" class="button">Primary action</a> 
-    <a href="#" class="button-secondary">Secondary action</a> 
-    <a href="#" class="button-warning">Warning action</a>
-  </div>
-  <p>
-    <a href="#" class="x-small button">Primary action</a> 
-    <a href="#" class="x-small button-secondary">Secondary action</a> 
-    <a href="#" class="x-small button-warning">Warning action</a>
   </p>
 </div>
 
