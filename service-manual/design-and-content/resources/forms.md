@@ -29,7 +29,7 @@ Browsers have default styling for forms usually shared with that of the operatin
 
 More so than other HTML elements the [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
 
-## User Interface Patterns
+## User interface patterns
 
 In the forms so far created for [GOV.UK](https://www.gov.uk) certain patterns of display have emerged as solutions to common UI problems. What follows is a guide to those patterns.
 
