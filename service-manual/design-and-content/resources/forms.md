@@ -290,6 +290,18 @@ The red bar visually connects the summary to the messages in the form and aids q
 
 To see all the examples above in a single form, check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
 
+# Examples on [GOV.UK](https://www.gov.uk)
+
+Examples of forms currently in use across [GOV.UK](https://www.gov.uk) are:
+
+* [Contact page](https://www.gov.uk/feedback/contact)
+* [Freedom of information request form](https://www.gov.uk/feedback/foi)
+* [Search results page](https://www.gov.uk/search?q=tax)
+* [404 page](https://www.gov.uk/notapage)
+* [Report a problem form](https://www.gov.uk/vat) (click the 'Report a problem' link to view)
+* [Licence finder](https://www.gov.uk/licence-finder/sectors)
+* [Trade Tariff](https://www.gov.uk/trade-tariff/sections)
+
 <script>
   $(function() {
 
