@@ -118,7 +118,7 @@ Use this information as a step-by-step checklist for increasing your digital tak
 
 Your digital take-up will not be as successful if you:
 
-* have unstructured routes into your service (eg email – e-forms are much better)
+* have unstructured routes into your service (eg email – online forms are much better)
 * make other channels easier (eg pre-populating paper forms but not online ones)
 * request unnecessary information
 * unquestioningly maintain service standards for traditional channels; review them once your digital service is up and running
