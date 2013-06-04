@@ -46,6 +46,10 @@ The extent to which people are online varies by age, gender and socio-economic s
 
 Digital take-up is a long term strategic measure and you should be looking to achieve the target level within five years of launch.
 
+## How should I increase digital take-up?
+
+Read guidance on [ways of encouraging the use of digital by default services](/service-manual/communications/increasing-digital-takeup.html).
+
 ## What about assisted digital?
 
 Some users will never use the digital service but will still have to have access to the same level of service as those using the digital service. This is called assisted digital and departments will need to determine the appropriate mix of channels to support these users. For more information on assisted digital please refer to [this section](/service-manual/assisted-digital) of the manual.
