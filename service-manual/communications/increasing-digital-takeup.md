@@ -14,10 +14,10 @@ breadcrumbs:
     url: /service-manual
 ---
 
-It’s essential to increase the take-up of government digital services so more users can experience the benefits of redesigned government services. Increased take-up will also make it possible for [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service. 
+It’s essential to increase the take-up of government digital services so more users can experience the benefits of redesigned government services. Increased take-up will also make it possible for [Assisted Digital](https://www.gov.uk/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service.
 
-Digital take-up is one of the four key performance indicators your service will need to [benchmark, measure and monitor](/service-manual/measurement/digital-takeup.html) in order to meet the [Digital by Default Service Standard](/service-manual/digital-by-default). 
- 
+Digital take-up is one of the four key performance indicators your service will need to [benchmark, measure and monitor](/service-manual/measurement/digital-takeup.html) in order to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
+
 ##Background
 
 In 2012, [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) found that 82% of the population were online and over 60% of people had used online banking. Yet the take-up of most government digital services was well below those figures.
@@ -30,22 +30,22 @@ The following steps have proven to be successful in ‘shifting’ people away f
 * security issues
 * trust
 * awareness
-* wider issues around digital inclusion 
+* wider issues around digital inclusion
 
 
 These 10 steps will generate a higher take-up for services aimed at individual end-users (for ideas to promote digital take-up by businesses, see [the Cabinet Office Case studies](http://webarchive.nationalarchives.gov.uk/+/http://www.cabinetoffice.gov.uk/media/261356/channel_strategy_cases.pdf) (PDF, 344KB).)
 
-Use this information as a step-by-step checklist for increasing your digital take-up. Every action is important and should be considered and seriously attempted. 
+Use this information as a step-by-step checklist for increasing your digital take-up. Every action is important and should be considered and seriously attempted.
 
-##How to increase your digital take-up 
+##How to increase your digital take-up
 
 1. Understand how and why people use your service by:
 
-* mapping the end-to-end user journey of those who currently use your services via offline channels 
+* mapping the end-to-end user journey of those who currently use your services via offline channels
 * identifying what it is in the offline process that makes it more convenient for service users to continue to use your service this way
 * identifying the benefits that using the digital service will offer (these might include convenience, speed, reduced cost etc) your current offline users
 * identifying the barriers that stop your users from wanting to use your digital service (what must you convince them about?)
-* knowing which intermediaries your users trust to give them information/ reassurance about the service
+* knowing which intermediaries your users trust to give them information / reassurance about the service
 
 2. Get users to try digital for the first time by:
 
@@ -63,8 +63,8 @@ Use this information as a step-by-step checklist for increasing your digital tak
 * being aware of any perceived barriers, amongst your user groups or delivery partners, to using your digital service:
     * develop a set of ‘myth busters’ for these barriers and communicate these to both partners and users
 * providing information about the new digital service and its benefits via both digital and non-digital channels
-* making it easy to get to your digital service - eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
-* incorporating the memorable URL into all your publicity, eg letters, email footers, hard and soft copy, out-of-hours phone messages, etc - put phone numbers and physical addresses in less prominent places in any communications
+* making it easy to get to your digital service – eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
+* incorporating the memorable URL into all your publicity, eg letters, email footers, hard and soft copy, out-of-hours phone messages, etc – put phone numbers and physical addresses in less prominent places in any communications
 * getting information on your digital service into partner publications / websites that your target users might go to for other reasons
 * checking if the information about your service and guidance for using it is set out in jargon-free language that your users find comprehensible – be sure to user-test it
 
@@ -75,15 +75,15 @@ Use this information as a step-by-step checklist for increasing your digital tak
 * making sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
 * mapping all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
 * making sure that all touch points are being used to promote digital ie frontline staff, partner organisations, voluntary groups, etc
-* making sure that staff and partners are familiar with the service through prior demos and help with digital transactions - you need to train staff well, so that they are able to help users and don’t lead them back to more traditional channels
-* handling change with sensitivity - incorporate early engagement with staff and unions into your plans, as well as planning staffing adjustments due to channel shift to avoid future disruption
+* making sure that staff and partners are familiar with the service through prior demos and help with digital transactions – you need to train staff well, so that they are able to help users and don’t lead them back to more traditional channels
+* handling change with sensitivity – incorporate early engagement with staff and unions into your plans, as well as planning staffing adjustments due to channel shift to avoid future disruption
 
 5. Reward digital users by:
 
 * investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
     * charging users less for digital transactions
     * extending submission deadlines (eg Self Assessment tax returns)
-    * providing additional service features, such as application progress tracking, and text reminders of deadlines - [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s Information Assurance team, so it’s important to engage them early
+    * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s Information Assurance team, so it’s important to engage them early
 
 6. Overcome legislative barriers by:
 
@@ -92,7 +92,7 @@ Use this information as a step-by-step checklist for increasing your digital tak
 
 7. Identify and minimise security risks by:
 
-* setting out the steps you have taken to protect your users from fraud and inappropriate data sharing - in plain English
+* setting out the steps you have taken to protect your users from fraud and inappropriate data sharing – in plain English
 * taking necessary steps to educate users about your services and procedures so you can reduce their risk of being susceptible to scams and phishing activity
 * making sure that your department’s SPOC is aware of your service and is helping for your service users appropriately:
     * every department with transactions used by individuals (as opposed to businesses) should have a single point of contact (SPOC) that coordinates the investigation and resolution of end-users’ reports about scams or phishing activity
@@ -104,7 +104,7 @@ Use this information as a step-by-step checklist for increasing your digital tak
 9. Track and measure channel shift by:
 
 * getting access to usage levels data, so you can make useful comparisons against a task carried out in 2 different ways, eg number of registration requests completed via offline channels as well as via your digital service
-* determining how much each transaction costs, through each channel, when accessed by your users - lumping together the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
+* determining how much each transaction costs, through each channel, when accessed by your users – lumping together the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
 * setting the right metrics for measuring digital take-up
 * measuring the number of calls that your users are making to your call centre in relation to problems related to your digital service
 * putting a process in place for monitoring the savings that comes from channel shift
@@ -118,7 +118,7 @@ Use this information as a step-by-step checklist for increasing your digital tak
 
 Your digital take-up will not be as successful if you:
 
-* have unstructured routes into your service (eg email - e-forms are much better)
+* have unstructured routes into your service (eg email – e-forms are much better)
 * make other channels easier (eg pre-populating paper forms but not online ones)
 * request unnecessary information
 * unquestioningly maintain service standards for traditional channels; review them once your digital service is up and running
