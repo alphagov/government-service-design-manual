@@ -43,7 +43,7 @@ Generally, a mix of qualitative and quantitative methods will give you a broad u
 Three things to keep in mind while conducting research will help you deliver a service that meets [the standard](/service-manual/digital-by-default/index.html);
 
 * really get to know your users, have a deep understanding of their needs and how to meet them
-* be clear on where your product is in its lifecycle,b ecause you can then choose particular methods or techniques to conduct some research that will be appropriate at that particular time
+* be clear on where your product is in its lifecycle, because you can then choose particular methods or techniques to conduct some research that will be appropriate at that particular time
 * get the team who are developing your product or service involved with the research as well, because everyone needs to understand the users to build a successful service
 
 ## User research techniques
