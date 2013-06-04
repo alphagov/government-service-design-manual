@@ -26,7 +26,7 @@ Buttons should be used to signify actions that the user can perform.
 
 ## Button styles
 
-Buttons can be made of links, inputs and button tags. CSS should be used to separate the technical implementation of a button from its style, like this:
+Buttons can be made of links, inputs and button tags. CSS should be used to separate the technical implementation of a button from its style so it looks the same whatever tag is used, like this:
 
 <div class="pattern-example">
   <p>
