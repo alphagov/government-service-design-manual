@@ -21,116 +21,149 @@ breadcrumbs:
     url: /service-manual/assisted-digital
 ---
 
-Using the assisted digital action plan will help you to:
-* understand your users’ assisted digital needs
-* design support that meets their needs
-
-##Discovery stage
-
-###Action 1: understand your users
-
-Get as much data on your users as possible and get an idea of how many of your users might need some form of assisted digital support. If there’s data you’d like but don’t have, put in a procedure to get it.
+The assisted digital action plan will help you to:
  
-Also look at how you currently work with your user experts to deliver your service to users who need help making a transaction.
+* understand the needs of your assisted digital users
+* develop assisted digital support that meets their needs
 
-Concentrate gathering information on:
-
-* the percentage of users that completes all/part of the current transaction digitally
-* the initial percentage of users you’d like to have using your new digital service (ie how many of your users should/could/will never complete the transaction digitally)
-* the demographic, socioeconomic and disability groups your users come from
-* where your users live – are they concentrated in areas of the country with reduced access to the internet?
-* what your users would do if they had no support to help them complete the transaction digitally - would they rather not complete the transaction at all?
-* why some users prefer not to use digital channels – are they:
-    * concerned about the security of the transaction?
-    * worried about using computers in general?
-* the kind of support users would like to have, such as:
-    * demonstrations of the service
-    * a dedicated phone line
-    * other forms of support
-* the support already available to users
-
-###Action 2: develop assisted digital user profiles/stories
-
-From action 1, you now know who your users are and how many of them may require some form of assisted digital support.
+The plan currently has more detailed information on the discovery and alpha stages of a project. This is because most of the services being redesigned are currently in those stages, and is where the steps are most similar across services.
  
-Now you need to build up a profile/story of the user groups least likely to complete a transaction online without some form of assistance - ie do you believe that users requiring assisted digital support have certain needs?
+The plan will be updated as more services move through the redesign process.
 
-Develop a series of user stories that concentrate on assisted digital needs.
+##Discovery: understand your users and their needs
 
-Eg “I’m a claimant and I want reassurance that my application for Carer's Allowance is made securely, so I can be confident that my personal information remains secure.”
+###1. Understand how many of your users will need assisted digital support
 
-Read [guidance on writing user stories](/service-manual/agile/writing-user-stories.html) for more information on how to do this.
+The first step is to understand how many of your users:
+
+* have the digital skills to use the new digital service independently
+* will need assisted digital support
  
-###Action 3: develop your vision of an assisted digital user journey
+Right now this will be an estimated figure.
+
+You might be able to identity this from existing user insight, or you may need to commission more research to fill this gap. Use the GDS ‘[Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/)’ alongside your own understanding of your users, as it provides a cross-population view of who is online and who is offline.
+
+###2. Understand more about your users and their needs
  
-Think about the end-to-end process. What do you think a user journey may look like?
+Once you’ve identified your assisted digital users, start to gather more information about them. Again, this might be information you already have or new information you need to gather.
+
+Concentrate getting information on:
+
+* the basics of these users  
+* who they are (eg socioeconomic group, age)
+* where they are located (eg are they in locations where getting access to the internet is difficult)
+* why they need assisted digital support:
+    * do they lack digital skills?
+    * do they lack access to the internet?
+    * do they lack confidence in doing digital transactions with government?
+* what kind of support would work for them, such as:
+    * face-to-face support with someone doing the transaction alongside them
+    * telephone support
+    * intermediaries they’re already in contact with about the service
+
+If someone has internet access and skills, but prefers not to use the digital service, then they are targets for [channel shift](/service-manual/measurement/digital-takeup.html), not assisted digital.
  
-Visualise the process by drawing it out, using a series of sticky notes to plot out the user journey. Concentrate on:
+As part of your research, think about ways support for your service is already available. You can learn from this and make it part of the assisted digital support for your service. Support is already available if:
 
-* each time a user interacts digitally in the transaction
-* the support that can be used at each stage to help the user successfully carry out the transaction
-
-Use each of the user profiles/personas you’ve developed. Make sure that as many of these user needs are met when developing your user journey.
-
-##Alpha stage
-
-###Action 4: Opening up the conversation with user experts
+* some of your users go to intermediaries or proxy users to access your digital service
+* your department works with organisations who help people develop digital skills
+* the delivery of your service involves other organisations who provide support to assisted digital users
  
-Run workshops with expert organisations working with your users and people who are offline whilst working with GDS to explore the range of options available in to delivering your assisted digital user journey. Ask these experts to challenge your assisted digital user journey and take on board their suggestions.
+This support may be formally put in place by your department, happening informally, or is part of the other organisations’ work, eg:
  
-Work with GDS to see whether:
-
-* any other government department has completed the process
-* any lessons have been learnt that could help you
+* there might be intermediary groups, like lawyers, who are involved in the service delivery process
+* if your service has a high proportion of older users, charities may be helping those users access services
  
-As part of the Open Policy Making process at GDS, a lot of this information will be published on GDS blogs. Consider doing something similar to engage the biggest range of experts who work with your users.
+At this stage, your understanding of user needs and existing support will be high level and have gaps, but you can fill these gaps as you progress through the service build.
 
-##Beta stage
+##Alpha: develop options for assisted digital support
 
-###Action 5: review your options and test your process
+###3. Develop assisted digital user stories
  
-Now it’s time to review what you’ve planned so far.
+Now that you’ve completed steps 1 and 2, it’s time to develop a series of user stories for your assisted digital users:
+
+* eg “I’m a claimant who has never used the internet - I need access to the internet and help to use the service, so I can make an application”
+* eg “I’m a claimant who has access to the internet, but I usually just send emails and watch videos, so I need some help to use the digital service”
  
-Use anything learnt from your last action to help finalise plans for assisted digital support and confirm your approach with those expert organisations already working with your users.
+Read guidance on [writing user stories](/service-manual/agile/writing-user-stories.html) for more information on how to do this.
 
-Develop a small-scale test of your proposed assisted digital option, working with:
+###4. Develop your vision of an assisted digital user journey
 
-* organisations who work with your users
-* providers
-* intermediates
-* GDS
+Think about using your service from start to finish - what do you think a user journey will look like? Concentrate on developing multiple user journeys.
  
-As part of beta testing, get users who’d actually need assisted digital support to test the support you’ve developed. Doing so means you can see whether or not your support meets their needs.
+A simple way to do this is to visualise the process by drawing it out step by step, using a series of sticky notes to plot out the user journey. Each time a user interacts digitally in the transaction, consider the support that an assisted digital user would need.
+ 
+Use each of the user profiles / stories you’ve developed and think about how their needs could be met.
 
-Ask the user if they were:
+###5. Open up your work to users and experts
 
-* able to complete the transaction without any assisted digital support.
+Involve users and experts already supporting people who are offline to access services. You’ll have identified these people and what they do in the discovery phase. Involving them will help you to come up with better options for assisted digital support.
+ 
+You can do this at any stage of the process – and the more you do it, the better - but at the very least involve them at the stage.
+ 
+People you could involve are:
+
+* your existing users who will need assisted digital support in the future
+* people in your organisation who work with assisted digital users
+* organisations who support people offline to access services
+* organisations who are already providing formal/informal support to your users
+
+GDS can introduce you to such organisations and have published information on work already carried out with these groups on the [GDS blog](http://digital.cabinetoffice.gov.uk/). Contact the assisted digital team at GDS for more details.
+  
+###6. Narrow it down to preferred options for assisted digital support
+ 
+Consolidate your ideas and options into a list of preferred options for assisted digital support, bringing together:
+
+* the ideas you generated in sections 4 and 5
+* your understanding of the size of your assisted digital user group
+* your understanding of what the digital service might look like
+
+This will also help with forming your requirements for procuring this support from the private and voluntary sectors.
+ 
+Completing these steps means you’ll leave the alpha stage with:
+* an increased understanding of your users and their needs
+* options for your assisted digital support to test during the beta phase
+ 
+GDS, departments, and the Government Procurement Service have begun market engagement to set up a shared procurement route for commissioning assisted digital services. If you are not already involved in this work, please contact the assisted digital team at GDS.
+ 
+##Beta: public testing
+
+###7. Prepare and pilot assisted digital support alongside your digital service
+
+Develop a pilot of your proposed assisted digital option or options, and test it alongside the digital service with real assisted digital users.
+
+At a minimum, ask users if they were:
+
 * able to complete the transaction with the assisted digital support, and if so, ask:
     * what the user thought of the journey
     * what went well
-    * if they think there’s something missing that would make the transaction easier to complete
 * unable to complete the transaction with the assisted digital support, and if so, find out:
     * what stopped the user from completing the transaction
-    * what could be done to improve their experience
-    * if they’d now been put off from wanting to use a similar service in the future
+    * what else is needed to help them complete the transaction
 
-###Action 6: review of assisted digital testing stage
+###8. Review the pilot
 
-Review the results of your small-scale beta test, involving:
+Review the results of your beta test. Again, open up this review to users, experts and intermediaries. Act upon any lessons learnt from testing.
 
-* organisations who work with your users
-* providers
-* intermediates
-* GDS
+##Live
+
+###9. Plan, commission and implement assisted digital services
  
-Act upon any lessons learnt from testing and implement any necessary changes.
+Plan and commission assisted digital services from private and voluntary sector providers, based on your findings from the beta test.
  
-The next stage is to develop a rollout plan on a larger scale for your assisted digital support - GDS is currently working with the Government Procurement Service to set up a framework for procuring the support for this.
+Work closely with colleagues developing plans for increasing digital take-up and phasing out existing alternative channels (eg paper channels) - criteria 11 and 24 of the Service Standard.
 
-##Live stage
+Combined with your work on assisted digital, these will come together to help:
 
-###Action 7: review of assisted digital provision after go-live
+* encourage everyone who can use digital services independently to do so
+* target assisted digital support at the people who really need it
+* close non-digital channels as demand decreases
  
-After your digital service has gone live, continue to review your assisted digital support with your user experts, providers, and intermediates.
+##Support models
+GDS are developing shared models of assisted digital support to make sure consistency exists across all services. Once these models are in place, all services must follow them. Contact the GDS assisted digital team for more details.
+
+###10. Review assisted digital provision regularly
  
-Continue to ask users for their feedback, so you know that your support is still meeting their needs. If not, adjust your support accordingly.
+After 3-6 months, review your assisted digital support with your users, providers and external experts.
+
+Continue to ask users for their feedback, so you know that your support is still meeting their needs. If it isn’t meeting their needs, adjust your support according to the feedback.
