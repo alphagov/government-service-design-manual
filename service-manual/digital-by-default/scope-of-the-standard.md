@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-While the information and guidance within the manual will be useful for teams in all servives, [the standard](/service-manual/digital-by-default) itself will not not apply to all government services. As described in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/), only high-volume transactions being released after April 2014 will need to meet it.
+While the information and guidance within the manual will be useful for teams in all services, [the standard](/service-manual/digital-by-default) itself will not not apply to all government services. As described in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/), only high-volume transactions being released after April 2014 will need to meet it.
 
 ## The criteria
 
