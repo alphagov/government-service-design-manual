@@ -1,6 +1,8 @@
 .detailed-guidance {
   .article-container {
     .inner {
+      padding: 0 1em;
+
       @include media(desktop) {
         margin-left: 25%;
       }
