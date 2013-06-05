@@ -86,6 +86,3 @@ Your code is ready to go live if it has:
 * passed any necessary specialist testing
 
 Deploy to production the same way as you deploy to any other environment – use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time – you’re performing a task that’s been validated at each stage throughout the deployment pipeline.
-
-##Retrospectives
-[Retrospectives](/service-manual/agile/running-retrospectives.html) are run at the end of each sprint to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
