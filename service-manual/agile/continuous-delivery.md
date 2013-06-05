@@ -23,13 +23,13 @@ breadcrumbs:
 ---
 
 Continuous delivery is about producing regular iterations of your software that’s ready to be released (deployed), though you don’t have to release these iterations to the public.
- 
+
 Producing regular iterations makes it easier for you to:
 
 * add improvements
 * fix bugs
 * test expectations about your end product
- 
+
 If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up - and stock is waste.
 
 From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_development)
@@ -40,12 +40,12 @@ From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_developmen
 Automate your deployment process. Doing so means you are forced to fully understand it, and any issues with moving code from your [version control system](/service-manual/making-software/version-control.html) into production (when it’s gone live) can be dealt with early on.
 
 Automating it early also means that code will be tested and any bugs fixed so that [releases become frequent](/service-manual/making-software/release-strategies.html), low-risk, almost boring events.
- 
-Don’t plan production release slots far in advance. You can’t be certain what will be ready in 6 months time. 
+
+Don’t plan production release slots far in advance. You can’t be certain what will be ready in 6 months time.
 
 Make your release planning simpler - make sure it’s flexible enough that any feature or update to your software can be deployed when it’s ready. Then, if a feature needs to miss a release slot, it can easily be rescheduled for tomorrow or next week, rather than in 6 months, or more if the next slot is already full.
- 
-Another advantage is being able to quickly respond to security patches or similar changes in underlying  libraries or frameworks used by your application. You can quickly make a change and watch the update flow through the various gates  in your deployment pipeline, confident that nothing has been broken.
+
+Another advantage is being able to quickly respond to security patches or similar changes in underlying  libraries or frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
 
 ##The deployment pipeline
 
@@ -55,7 +55,7 @@ Understand your end-to-end deployment pipeline. Knowing how it works and how eac
 
 * [configuration management](/service-manual/making-software/configuration-management.html) (how you maintain consistency with your product’s performance and functionality)
 * the automation of your build, deploy, test and release processes
- 
+
 The deployment pipeline has 4 stages:
 * commit stage
 * shared sandbox environment
@@ -66,7 +66,7 @@ The deployment pipeline has 4 stages:
 When your developer checks into [version control](/service-manual/making-software/version-control.html) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile.html) should be run against the latest version of the code. Any quick, easy-to-identify defects, such as [compile errors](http://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing), will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
 
 ###Shared sandbox environment
-Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run and the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.  
+Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run and the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.
 
 Make the sandbox environment as similar to the production (live) version as far as is practical: eg, if production uses Postgres, the sandbox should also use Postgres and not another database such as MySQL or sqlite.
 
