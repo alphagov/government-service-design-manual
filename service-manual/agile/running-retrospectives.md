@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way to do this and to find out what’s working and what isn’t, so you can continuously improve.
+A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
 ## What’s a retrospective?
 
