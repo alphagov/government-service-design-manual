@@ -63,17 +63,17 @@ The deployment pipeline has 4 stages:
 * production environment
 
 ###The commit stage
-When your developer checks into [version control](/service-manual/making-software/version-control.html) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile.html) should be run against the latest version of the code. Any quick, easy-to-identify defects, such as [compile errors](http://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing), will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
+When your developer checks into [version control](/service-manual/making-software/version-control.html) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile.html) should be run against the latest version of the code. Any quick, easy-to-identify defects, like [compile errors](http://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing), will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
 
 ###Shared sandbox environment
 Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run and the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.
 
-Make the sandbox environment as similar to the production (live) version as far as is practical: eg, if production uses Postgres, the sandbox should also use Postgres and not another database such as MySQL or sqlite.
+Make the sandbox environment as similar to the production (live) version as far as is practical: eg, if production uses Postgres, the sandbox should also use Postgres and not another database like MySQL or sqlite.
 
 The purpose is to find any defects in the code. If a defect is found, stop the version of the code at this stage. If it passes the sandbox environment it can move on to further specialist testing environments.
 
 ###Specialist testing environments
-You may need to perform additional testing for specialist requirements, such as [load and performance testing](/service-manual/operations/load-and-performance-testing.html), [penetration testing](/service-manual/operations/penetration-testing.html), or [accessibility testing](/service-manual/making-software/accessibility-testing.html). The amount of environments you’ll need will depend on the requirements and conditions of your individual projects.
+You may need to perform additional testing for specialist requirements, like [load and performance testing](/service-manual/operations/load-and-performance-testing.html), [penetration testing](/service-manual/operations/penetration-testing.html), or [accessibility testing](/service-manual/making-software/accessibility-testing.html). The amount of environments you’ll need will depend on the requirements and conditions of your individual projects.
 
 When you are satisfied with the quality of the code move it to the live production environment.
 
