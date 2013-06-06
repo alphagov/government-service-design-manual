@@ -21,7 +21,7 @@ Formal assessments of new and redesigned services against the standard will begi
 
 GDS will **not** expect any services to fully meet the standard before they receive spending or domain approval before April 2014. Assessments against the standard over 13/14 will be used to help to highlight areas of improvement for services, and identify systemic problems. However, GDS will continue to use the Cabinet Office controls to stop the launch of any new service which doesn’t meet user needs; can’t be iteratively improved; or contains other clear risks to government or the users.
 
-To request an assessment, please email [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk) with a brief summary of the service.
+To request an assessment, please email [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk?subject="Digital by Default assessment request") with a brief summary of the service.
 
 The [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html) is set out here. In addition to testing before a service goes live, service managers may wish to request an assessment where:
 
@@ -35,4 +35,4 @@ The assessments will be done by a GDS product manager and technical architect an
 * can it be rapidly improved?
 * is it safe, ie are appropriate security and privacy protections in place?
 
-Once again, to request a digital by default service assessment please email: [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk)
+Once again, to request a digital by default service assessment please email: [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk?subject="Digital by Default assessment request")
