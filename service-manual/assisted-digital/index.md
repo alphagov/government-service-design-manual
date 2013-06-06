@@ -50,7 +50,7 @@ Good assisted digital support:
 * can be provided externally from government, ie by the private and voluntary sectors
 * replaces existing non-digital channels, such as phone or face--to--face, as the demand for them decreases
 
-For more details, see our [assisted digital action plan](/service-manual/assisted-digital/assisted-digital-action-plan.html).
+For more details, see our [assisted digital action plan](/service-manual/assisted-digital/action-plan.html).
 
 ##What assisted digital support will look like
 
