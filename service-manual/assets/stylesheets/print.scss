@@ -1,0 +1,55 @@
+// ===================================================
+// GOVERNMENT SERVICE DESIGN MANUAL
+//
+// PRINT STYLESHEET
+//
+
+$is-print: true;
+
+// From the toolkit
+@import "../toolkit/stylesheets/_colours";
+@import "../toolkit/stylesheets/_typography";
+@import "../toolkit/stylesheets/_conditionals";
+@import "../toolkit/stylesheets/_shims";
+
+// style-guide
+@import "styleguide/_colours.scss";
+
+//Views
+@import "views/_standard";
+
+.header-proposition{
+  display: none;
+}
+
+article header h1{
+  padding-top: 0;
+  font-size: 48px;
+  font-weight: 700;
+  border-bottom: 0;
+  margin: 0.5em 0 0 0;
+  padding: 0.5em 0 0 0;
+  border-top: 1px solid #7F7F7F;
+}
+
+h2.subtitle{
+  margin: 0 0 1.5em 0;
+  color: #6F777B;
+  font-family: "nta",Arial,sans-serif;
+  font-size: 24px;
+  font-size: 2.4rem;
+  line-height: 1.25;
+  font-weight: 400;
+}
+
+.meta-phases{
+  display: none;
+}
+
+.dbd-promo{
+  display: none;
+}
+
+.standard {
+  list-style-type: none;
+}

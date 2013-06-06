@@ -10,7 +10,10 @@
     border-bottom: none;
 
     @include media(desktop) {
-      width: 67%;
+      @if $is-print == false {
+        width: 67%;
+      }
+
       margin: 0 auto;
     }
 
@@ -61,6 +64,22 @@
 
     p{
       @include core-24;
+
+      @if $is-print == true {
+        a { 
+          text-decoration: none;
+        }
+        a[href^="http://"]:after {
+          content: "";
+        }
+      }
+
+    }
+
+    @if $is-print == true {
+      .common-questions{
+        display: none;
+      }      
     }
 
     ul {
@@ -124,13 +143,20 @@
         @include core-24;
 
         @include media(tablet) {
-          width: 50%;
+          @if $is-print == true {
+            width: 67%;
+          } @else {
+            width: 50%;
+          }
           float: left;
         }
       }
     }
 
     .guidance {
+      @if $is-print == true {
+        display: none;
+      }
       @include media(mobile) {
         margin-top: 1em;
       }

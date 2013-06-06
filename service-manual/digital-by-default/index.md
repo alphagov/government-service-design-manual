@@ -20,15 +20,18 @@ breadcrumbs:
 
   <p>To do this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
 
-  <h2>Common questions</h2>
-  <ul>
-    <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
-    <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
-  </ul>
-
+  <div class="common-questions">
+    <h2>Common questions</h2>
+    <ul>
+      <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
+      <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
+    </ul>
+    
   <h2>The criteria</h2>
+  </div>
+
 </div>
 
 
