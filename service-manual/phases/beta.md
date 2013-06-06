@@ -31,6 +31,8 @@ This is achieved by delivering the [user stories](/service-manual/agile/writing-
 
 You will also be resolving technical and process challenges, meeting for the first time many of the technical criteria outlined in the [service standard](/service-manual/digital-by-default). You should be [rapidly releasing](/service-manual/making-software/release-strategies.html) updates and improvements into the [development environment](/service-manual/making-software/development-environment.html), and [measuring the impact](/service-manual/measurement) of your changes to the KPIs established in your [discovery](/service-manual/phases/discovery.html) and [alpha](/service-manual/phases/alpha.html) phases.
 
+You will also [test the assisted digital support](/service-manual/assisted-digital/action-plan.html#beta-stage) for the digital service. You might test one or more of the options you developed in the alpha phase.
+
 ## How long does it take?
 
 The exact duration of your beta will depend on the scope of your project, but an appropriately sized team shouldn't take more than a few months to deliver a public beta.
@@ -49,7 +51,7 @@ You will have:
 * a collection of prioritised work to be done (your backlog)
 * a [user testing plan](/service-manual/users/introduction-to-user-research.html)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
-* provision for Assisted Digital support, which has been fully tested
+* tested the assisted digital support for your service
 * a working system that can be used, for real, by end users
 
 **[Next phase: live](/service-manual/phases/live.html)**
