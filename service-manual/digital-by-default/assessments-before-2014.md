@@ -24,6 +24,7 @@ GDS will **not** expect any services to fully meet the standard before they rece
 To request an assessment, please email [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk) with a brief summary of the service.
 
 The [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html) is set out here. In addition to testing before a service goes live, service managers may wish to request an assessment where:
+
 * you require spend approval to move on to the next phase of a build.
 * you want to go live on a service.gov.uk sub domain
 * or just want to test how the service measures up against the standard before moving on to the next phase of development
