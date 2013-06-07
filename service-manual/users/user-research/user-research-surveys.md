@@ -23,7 +23,7 @@ breadcrumbs:
     url: /service-manual/users/user-research
 ---
 
-Surveys comprise of closed ended questions with fixed responses such as ‘yes’, ‘no’, ‘very satisfied’ to very dissatisfied’, ‘excellent’ to ‘poor’ etc, and open ended questions that allow respondents to provide verbatim responses.
+Surveys contain closed ended questions with fixed responses such as ‘yes’, ‘no’, ‘very satisfied’ to very dissatisfied’, ‘excellent’ to ‘poor’ etc, and open ended questions that allow respondents to provide verbatim responses.
 
 ## How surveys work
 
