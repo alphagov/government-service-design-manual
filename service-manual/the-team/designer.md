@@ -40,7 +40,7 @@ When evaluating their design work, it is important that the designer can explain
 You should also ask the designer to talk about any significant differences between the design they present in their portfolio and the actual live design. It is important that designers create appropriate work and are able to persuade stakeholders and their team to make good design decisions.
 
 ## Job description templates
-See an [example of a designer job description](/service-manual/the-team/designer-jd.html) provided by GDS.
+See an [example of a designer job description](/service-manual/the-team/recruitment/designer-jd.html) provided by GDS.
 
 ##Further reading
 * [Specific guidance for designers working on digital by default services](/service-manual/designers).
