@@ -33,7 +33,7 @@ A retrospective is a meeting at the end of a [sprint](/service-manual/agile/feat
 A retrospective takes the following form:
 
 1.    gather data
-2.    produce insights
+2.    generate insights
 3.    decide what to do
 
 This is a chance for everyone in your team to contribute to improving process/productivity.
@@ -62,14 +62,18 @@ Working agreements could be that:
 
 * everyone contributes
 * no one speaks over the other (except for the facilitator)
-* no laptops are in the meeting
+* no phones or laptops are allowed - everyone should be concentrating on the discussion
 
 ## Outcomes of a retrospective
 
 {:.left}
 ![Retrospective Sections](https://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
-Make actions that will improve the process of your project the outcome of your retrospectives. Aim to achieve these actions for the next iteration. If that’s not possible, do it as soon as you can.
+During the discussion you will uncover some successes you can celebrate, as well as some problems that you can fix or things you can improve.
+
+Make a list of actions that will address these. Aim to have done them within the next sprint or iteration. 
+
+Some problems may take longer to fix, in which case you should try to make an action that will start the process of improving it by your next retrospective.
 
 Actions should:
 * be concrete and measurable (eg ‘write 10 more unit tests for the redirector’, or ‘speak to Jamie about arranging a project retrospective’; not ‘write more tests’, or ‘we should understand the lessons learned from this project’)
@@ -88,7 +92,7 @@ Retrospectives should follow up on the actions of previous retrospectives to mak
 
 You can use this template for your retrospectives. It’s based on a team of 8 to 10 and covers a 2-week sprint. 90 minutes is a reasonable amount of time to use for this scope and amount of people.
 
-Each of the activities is timeboxed (has deadlines), and it’s your facilitator’s job to make sure that your team stick to this.
+Each of the activities is timeboxed (has a set time it will run for), and it’s your facilitator’s job to make sure that your team stick to this.
 
 Build in about 10% ‘shuffle time’ to move between activities to make sure it doesn’t overrun.
 
@@ -116,7 +120,7 @@ Don’t allow this to develop into a discussion at this point – you just want 
 
 ### Discussion: 00:20 to 00:30 (10 mins) 
 
-Group the post-its into common themes. If there are too many, have the team prioritise, eg by voting with stickers.
+Group the post-its into common themes. If there are too many to discuss in the time you have then have the team prioritise, eg by voting with stickers.
 
 Discuss each of the main areas in turn:
 
