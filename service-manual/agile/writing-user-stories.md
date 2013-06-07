@@ -118,9 +118,15 @@ When development work actually starts, consult the users or user representative 
 
 Using user stories in this way allows you to avoid ‘analysis paralysis’, the painful condition of trying to guess the details of some far-future goal.
 
+## Acceptance criteria in user stories
+
+Acceptance criteria are used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins. 
+
+Only include these on the back of the story card if the team finds them useful for recording user assumptions they might later forget. Sometimes writing acceptance criteria on the story card is useful where the user or user representative is not immediately available but is no substitute at all for face-to-face conversation.
+
 ## Stories only work in an agile team
 
-The success of a user story is dependent on regular face-to-face communication between developers and user representatives.
+The success of a user story is dependent on regular face-to-face communication between developers and users or user representatives.
 
 Your service manager and other user representatives need to be available to developers every day, and have enough time to think through and answer questions. Don’t underestimate how time-consuming this work can be!
 
