@@ -141,7 +141,7 @@
       margin: 0;
       @extend %contain-floats;
 
-     // page-break-inside: avoid;
+      page-break-inside: avoid;
 
       &:first-child{
         border-top: 5px solid $main-colour;
@@ -177,10 +177,17 @@
             width: 50%;
           }
           float: left;
+          margin-bottom: 1em;
         }
+        orphans: 0;
 
-        width: 67%;
-        float: left;
+        width: 86%;
+        @include media(desktop) {        
+          float: left;
+        }
+        @include media(mobile) {   
+          padding-left: 15%;
+        }
       }
       
     }
@@ -191,6 +198,7 @@
       }
       @include media(mobile) {
         margin-top: 1em;
+        padding-left: 15%;
       }
       @include media(tablet) {
         float: right;
