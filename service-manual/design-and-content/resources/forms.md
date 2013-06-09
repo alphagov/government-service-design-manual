@@ -25,13 +25,13 @@ breadcrumbs:
 
 Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html). 
 
-Browsers have default styling for forms usually shared with that of the operating system user interface (UI) making it familiar to users. These defaults are also highly accessible to all types of users so any styling added should be consideration given to ensure it does not remove any of this functionality.
+Browsers have default styling for forms usually shared with that of the operating system user interface (UI) making it familiar to users. These defaults are also highly accessible to all types of users so consideration should be given to ensure that styling added does not remove any of this functionality.
 
-More so than other HTML elements the [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
+The [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML. This is more important than with other HTML elements as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
 
 ## User interface patterns
 
-In the forms so far created for [GOV.UK](https://www.gov.uk) certain patterns of display have emerged as solutions to common UI problems. What follows is a guide to those patterns.
+In the forms created so far on [GOV.UK](https://www.gov.uk) certain patterns of display have emerged as solutions to common UI problems. What follows is a guide to those patterns.
 
 ## Aligning controls in a column
 
