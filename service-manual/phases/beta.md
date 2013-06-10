@@ -4,9 +4,7 @@ title: Beta phase
 subtitle: Scaling up and going public
 phase: beta
 category: guidance
-subcategory: Phases
 status: draft
-css: /gsdm/css/phases.css
 phases:
   - beta
 breadcrumbs:
@@ -54,9 +52,6 @@ You will have:
 * tested the assisted digital support for your service
 * a working system that can be used, for real, by end users
 
-**[Next phase: live](/service-manual/phases/live.html)**
-
-[Previous phase: alpha](/service-manual/phases/alpha.html)
-
-{:.related-guides}
-## Related guides and resources
+{:.phase-nav}
+* **[Next phase: live](/service-manual/phases/live.html)**
+* [Previous phase: alpha](/service-manual/phases/alpha.html)

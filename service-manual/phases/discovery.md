@@ -4,9 +4,7 @@ title: Discovery phase
 subtitle: Find out what your users need, what to measure and what your constraints are
 phase: discovery
 category: guidance
-subcategory: Phases
 status: draft
-css: /gsdm/css/phases.css
 phases:
   - discovery
 breadcrumbs:
@@ -66,9 +64,6 @@ You will leave the discovery phase with:
 * understanding of existing services, including those run by non-government sources
 * understanding of how many of your users will need assisted digital support, and what their user needs are
 
-
-**[Next phase: alpha](/service-manual/phases/alpha.html)**
-
-{:.related-guides}
-## Related guides and resources
+{:.phase-nav}
+* **[Next phase: alpha](/service-manual/phases/alpha.html)**
 
