@@ -102,7 +102,7 @@ Explain the scope, and if necessary, purpose. If your team don’t know each oth
 
 ### Actions from the previous retrospective: 00:05 to 00:10 (5 mins) 
 
-Make sure they’ve been completed, asking if:
+Make sure they've been completed. If any haven't, ask if::
 
 * they still need to be done
 * why haven’t they been completed - set a new deadline if necessary, but don’t keep carrying actions over
