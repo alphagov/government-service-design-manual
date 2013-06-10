@@ -5,7 +5,6 @@ subtitle: Build a prototype, test it with users and learn from it
 phase: alpha
 category: guidance
 status: draft
-css: /gsdm/css/phases.css
 phases:
   - alpha
 breadcrumbs:
@@ -68,10 +67,6 @@ This core team will be a mix of stakeholders, and makers (designers and develope
 * final analysis on the research you have commissioned on user needs
 * options for the assisted digital support for your service
 
-
-**[Next phase: beta](/service-manual/phases/beta.html)**
-
-[Previous phase: discovery](/service-manual/phases/discovery.html)
-
-{:.related-guides}
-## Related guides and resources
+{:.phase-nav}
+* **[Next phase: beta](/service-manual/phases/beta.html)**
+* [Previous phase: discovery](/service-manual/phases/discovery.html)

@@ -1,11 +1,10 @@
 ---
-layout: detailed-guidance
+layout: phases
 title: Retirement phase
 subtitle: Learn what to do when your service is retired or superseded
 phase: retirement
 category: guidance
 status: draft
-css: /gsdm/css/phases.css
 breadcrumbs:
   -
     title: Home
@@ -54,4 +53,5 @@ In running your service you will have accrued a large amount of data about the s
 
 Where data is being transferred to a new service owner, that should be done in accordance with your existing data protection policies, and communicated clearly to your users.
 
-[Previous phase: live](/service-manual/phases/live.html)
+{:.phase-nav}
+* [Previous phase: live](/service-manual/phases/live.html)

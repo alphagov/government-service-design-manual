@@ -5,6 +5,15 @@
  .meta-phases{
   display: none;
  }
+
+  .phase-nav{
+    margin: 3em 0;
+    padding: 0;
+    li{
+      list-style-type: none;
+      padding-left: 0;
+    }
+  }
 }
 
 // Phases
