@@ -2,10 +2,11 @@
 layout: detailed-guidance
 title: Open data
 subtitle: Accessible, machine readable data about services
-category: chief-technology-officer
-type: category-index
+category: technology
+type: guide
 audience:
   primary: chief-technology-officers
+  secondary: chief-technology-officers
 status: draft
 phases:
 breadcrumbs:
@@ -31,6 +32,7 @@ Data about service performance allows [service managers](/service-manual/the-tea
 You should publish all public data, unless it is private data collected from people or restricted for national security reasons.
 
 Public data is anonymised data:
+
 * on which public services are run and assessed
 * on which policy decisions are based
 * is collected or generated in the course of your service delivery
@@ -47,17 +49,17 @@ You should aim to reach at least the Three Star standard.
 The Open Data Principles that you must follow are:
 
 1. Public data policy and practice will be clearly driven by the public and businesses that want and use the data, including what data is released when and in what form
-2. Public data will be published in re-usable, machine-readable form
-3. Public data will be released under the same open licence which enables free re-use, including commercial re-use
+2. Public data will be published in reusable, machine-readable form
+3. Public data will be released under the same open licence which enables free reuse, including commercial reuse
 4. Public data will be available and easy to find through a single, easy-to use, online access point ([data.gov.uk](http://data.gov.uk))
 5. Public data will be published using [open standards](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard---definition), and following relevant recommendations of the [World Wide Web Consortium (W3C)](http://www.w3.org/)
 6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions
-7. Public data underlying the Government’s own websites will be published in re-usable form
+7. Public data underlying the Government’s own websites will be published in reusable form
 8. Public data will be timely and fine-grained
 9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/design-and-content/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data)
 10. Public data will be freely available to use in any lawful way
 11. Public data will be available without application or registration, and without requiring details of the user
-12. Public bodies should actively encourage the re-use of their public data
+12. Public bodies should actively encourage the reuse of their public data
 13. Public bodies should maintain and publish inventories of their data holdings
 14. Public bodies should publish relevant metadata about their datasets and this should be available through a single online access point; and they should publish supporting descriptions of the format provenance and meaning of the data
 
@@ -82,23 +84,25 @@ If you are using new technology to handle personal data or reusing the data in a
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
 
-This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for re-use. There are a number of licenses in the framework. You can choose one to suit your particular needs. For free UK Government data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
+This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. You can choose one to suit your particular needs. For free UK Government data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
 
 ## Why we do this
+
 Your open data can give:
+
 * your users information and informed choice about the services they use
 * your service managers the information they can rely on to deliver what your users need
 * businesses and the community or voluntary sector the opportunity to take the data released and produce goods and services from it
 
-Building your services on open formats and open standards means that you can more easily share, re-use or exchange data. It will also mean that you will have a choice in which technology to implement, rather than being limited to a particular product or supplier.
+Building your services on open formats and open standards means that you can more easily share, reuse or exchange data. It will also mean that you will have a choice in which technology to implement, rather than being limited to a particular product or supplier.
 
-##Examples of open data in action	 	
+##Examples of open data in action
 You can browse the [apps section of data.gov.uk](http://data.gov.uk/apps) to see hundreds of applications that have been built using open government data.
 
-You can also find case studies of how people are sharing, using and building open data on the [data.gov.uk](http://data.gov.uk) site. 
+You can also find case studies of how people are sharing, using and building open data on the [data.gov.uk](http://data.gov.uk) site.
 
 ##Where to get help
-	 	 	
+
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk
 
 The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.

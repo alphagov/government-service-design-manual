@@ -18,14 +18,14 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=oCv1VY5l-k0">Watch Padma Gillen, content designer for GOV.UK mainstream, describing what his work entails.</a></figure>
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=kUlL1AU_CO0">Watch Padma Gillen, content designer for GOV.UK mainstream, describing what his work entails.</a></figure>
 
 Content designers make sure that the writing on the site or service meets the needs of the user as clearly, simply and quickly as possible.
 
 ##The importance of content designers
 You can add up, but it doesn’t mean you’re an accountant. You can write, but it doesn’t mean you’re a content designer.
 
-For many reasons, in the past the government has often published content that’s difficult to understand and difficult to act on. 
+For many reasons, in the past the government has often published content that’s difficult to understand and difficult to act on.
 
 What gets published can be more about what the government wants to say than what the user needs to know.
 
@@ -53,7 +53,7 @@ Content designers must be able to:
 
 ##Guidance
 
-Read [guidance in the manual of particular interest to content designers](https://www.gov.uk/service-manual/content-designers).
+Read [guidance in the manual of particular interest to content designers](/service-manual/designers).
 
 ##Job description
 [Content designer template](/service-manual/the-team/content-designer-jd.html)

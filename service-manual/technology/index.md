@@ -1,8 +1,8 @@
 ---
 layout: category-index
-title: Guidance for CTO's
+title: Guidance for CTOs
 subtitle: Empowering Chief Technology Officers across government
-category: chief-technology-officer
+category: technology
 type: category-index
 audience:
   primary: chief-technology-officers
@@ -21,7 +21,7 @@ Government needs services that are genuinely agile and responsive to changing ne
 * uses openness to our advantage – open data, open standards, open source, open markets
 * ensures that technology becomes so good that our colleagues, citizens and businesses want to use it
 
-Liam Maxwell, Chief Technology Officer of Her Majesty's Government,[wrote a post on the GDS blog about the landscape CTOs are operating in](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
+Liam Maxwell, Chief Technology Officer of the UK Government, [wrote a post on the GDS blog about the landscape CTOs are operating in](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
 
 ##The technology code of practice
 The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for spending approval will be judged against. The eighteen points describe a vision of technology provision which can meet and adapt to the changing needs of users throughout government.
@@ -32,7 +32,7 @@ The [spending controls](/service-manual/technology/spending-controls.html) proce
 ##Building on openness
 There must be a level playing field for open source and proprietary software solution, that allows organisations the flexibility to change technologies and innovate based on data. This means:
 
-* building on [open standards](/service-manual/making-software/open-standards-and-licensing.html) 
+* building on [open standards](/service-manual/making-software/open-standards-and-licensing.html)
 * building on [open data](/service-manual/technology/open-data.html)
 * building on your own [API](/service-manual/making-software/apis.html)
 

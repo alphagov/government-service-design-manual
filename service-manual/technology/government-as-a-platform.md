@@ -1,8 +1,8 @@
 ---
 layout: detailed-guidance
 title: Government as a platform
-subtitle: Services built on a shared core 
-category: chief-technology-officer
+subtitle: Services built on a shared core
+category: technology
 type: guide
 audience:
   primary: chief-technology-officers
@@ -21,7 +21,7 @@ The government is implementing a [platform-based](http://www.publications.cabine
 
 ##What does government as a platform mean?
 
-One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses. 
+One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses.
 
 Businesses like Amazon iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase, etc). They deliver a scalable, consistent high quality user experience using open source and open standards. Their world looks something like this:
 
@@ -31,13 +31,13 @@ Whilst government can learn from this model, it cannot simplistically copy it. G
 
 <img src="/service-manual/assets/images/current-government-systems.png" alt="Diagram showing a simplified version of the current state of government systems" />
 
-This move to a platform-based model is a significant transition. A platform provides essential technology infrastructure, including core applications that demonstrate the potential of the platform. Other organisations and developers can utilise the platform to innovate and build upon. The core platform provider enforces “rules of the road” (such as the open technical standards and processes to be used) to ensure consistency, and that applications based on the platform will work well together. 
+This move to a platform-based model is a significant transition. A platform provides essential technology infrastructure, including core applications that demonstrate the potential of the platform. Other organisations and developers can use the platform to innovate and build upon. The core platform provider enforces “rules of the road” (such as the open technical standards and processes to be used) to ensure consistency, and that applications based on the platform will work well together.
 
 ## Moving to the platform model
 
 Moving to a platform model does not imply a “top-down” conceptual identification of a list of platforms that government will buy or build. Platforms will emerge out of [user needs](/service-manual/users/user-needs.html) and [good architectural practices](/service-manual/technology/architecture.html), but only as a consequence of the practical experience of building the features required.
 
-Platforms are defined by connectors and functionality – characterised by open interfaces, open data standards, and commonality. 
+Platforms are defined by connectors and functionality – characterised by open interfaces, open data standards, and commonality.
 
 The figures below illustrate the journey required.
 
@@ -47,7 +47,7 @@ The figures below illustrate the journey required.
 
 ## Working with organisations outside of government
 
-A move to platforms does not mean that government has to develop everything in-house: many of government’s needs can be met by existing cost-efficient utility services. However, government can help to establish best practice in areas such as personal data privacy. 
+A move to platforms does not mean that government has to develop everything in-house: many of government’s needs can be met by existing cost-efficient utility services. However, government can help to establish best practice in areas such as personal data privacy.
 
 Wherever appropriate, the government should use existing external platforms, such as payments services (ranging from third party merchant acquirer services to the UK’s national payments infrastructure). Deciding to develop platforms in-house will happen only where that is the best way to meet users’ needs in the most flexible and cost-effective way.
 
@@ -55,7 +55,7 @@ Government will draw upon the experience of other organisations that have alread
 
 This is the approach that government will follow, ensuring that it develops a well-defined schedule for switching off legacy environments as the platform model is progressively implemented.
 
-Further reading: 
+Further reading:
 
 * [Tim O’Reilly’s “Government as a Platform”](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
 * [Agile Architecture](http://www.agilemodeling.com/essays/agileArchitecture.htm)

@@ -185,7 +185,7 @@ Leverage the context of the surrounding elements
 : "I'm on the address page, I must be being asked for an address"
 
 Use familiar language
-: eg. 'Registration number' rather than 'Vehicle Registration Mark'
+: eg 'Registration number' rather than 'Vehicle Registration Mark'
 
 
 Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
@@ -214,8 +214,8 @@ Be honest about what you're offering users, and what you're not offering them. I
 * Any costs involved
 * Any waiting periods or delays
 * Any uncommon or hard-to-find infomation they'll need to provide
-* Any constraints on who can complete the transaction (age, nationality etc.)
-* Any equipment that will be required (eg. a printer)
+* Any constraints on who can complete the transaction (age, nationality etc)
+* Any equipment that will be required (eg a printer)
 * Any non-digital parts of the transaction
 
 Use common sense though. Don't try to make everyone to read a page of terms and conditions before they start (they won't).

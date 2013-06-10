@@ -3,8 +3,8 @@ layout: category-index
 title: Measurement
 subtitle: Data you need to measure and monitor
 audience:
-  primary: performance-analysts, service-managers 
-  secondary: 
+  primary: performance-analysts, service-managers
+  secondary:
 status: draft
 category: measurement
 type: category-index
@@ -19,13 +19,13 @@ breadcrumbs:
     url: /service-manual
 ---
 
-It's essential that we measure how services are performing to encure that services continue to meet user needs in a cost-effective and efficient way.
+It's essential that we measure how services are performing to ensure that services continue to meet user needs in a cost-effective and efficient way.
 
 The metrics a service monitors are a way of starting a conversation around the strengths and weaknesses of a service, helping teams to investigate ways of making the service better over time.
 
 ## What will you measure
 
-The [digital by default service standard](/service-manual/digital-by-default) sets four Key Performance Indicators (KPIs) to measure the success of your service: 
+The [digital by default service standard](/service-manual/digital-by-default) sets four Key Performance Indicators (KPIs) to measure the success of your service:
 
 * [cost per transaction](/service-manual/measurement/cost-per-transaction.html)
 * [user satisfaction](/service-manual/measurement/user-satisfaction.html)
