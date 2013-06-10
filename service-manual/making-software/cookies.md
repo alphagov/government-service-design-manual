@@ -34,6 +34,7 @@ Many uses of cookies are harmless, but sometimes they are used to track users an
 In May 2011, the [Privacy and Electronic Communications Regulations](http://ico.org.uk/for_organisations/privacy_and_electronic_communications) were updated to require website operators to gain consent before storing or retrieving data from a user's computer (or other device). This change directly affects the use of cookies and other similar technologies such as HTML5 local storage.
 
 Before using cookies the website operator [needs](http://www.ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies) to either:
+
 - get explicit, informed consent from the user before storing cookies on a user's computer
 - be satisfied that the user understands that their actions will result in cookies being stored (implied consent)
 - be satisfied that the cookie is "absolutely essential" to the operation of the website (eg cookies used for operating a shopping cart)
@@ -57,6 +58,7 @@ You must notify users that cookies are being stored.
 These are cookies that are set by the website that the user is currently viewing. They are under the control of the website operator and can only be accessed by the website. Data stored within the cookie is not shared with other websites.
 
 Examples of first party cookies include:
+
 - cookies for storing logged in status
 - cookies for storing user preferences
 - some types of analytics cookies
@@ -69,6 +71,7 @@ These types of cookies are minimally intrusive as the website owner has complete
 These are cookies set by external services used on the website. The cookies are under the control of the third party service and can be accessed on any website that makes use of the service. These cookies are not controlled by the website operator and can be used to track a user from one site to another.
 
 Examples of third party cookies include:
+
 - cookies from social media sharing services
 - cookies from advertising campaign management services
 - cookies from embedded document sharing services
@@ -100,7 +103,7 @@ Where explicit consent is required, services must notify their users before the 
 
 Cookies must be scoped to their originating domain name only eg `www.servicename.service.gov.uk` not `.gov.uk`.
 
-Cookies should not be used on domains that host only static assets (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit)
+Cookies should not be used on domains that host only static assets (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit).
 
 Cookies must be sent with the `Secure` attribute and should, where appropriate, be sent with the `HttpOnly` attribute. These [flags provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
 

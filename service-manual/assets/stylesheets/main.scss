@@ -12,6 +12,10 @@
 
 @import "helpers/_conditionals2.scss";
 
+// Layouts & typography
+@import "layouts/_gsdm.scss";
+@import "helpers/_typography.scss";
+
 // style-guide
 @import "styleguide/_colours.scss";
 @import "styleguide/_dimensions.scss";
@@ -42,6 +46,7 @@
 @import "helpers/_role-links.scss";
 @import "helpers/_tables.scss";
 @import "helpers/_tooltip.scss";
+@import "helpers/_inline-images.scss";
 
 // Views
 @import "views/_default.scss";
@@ -68,6 +73,3 @@
 @import "views/_progress-indicator.scss";
 @import "views/_grid.scss";
 
-
-// Layouts
-@import "layouts/_gsdm.scss";

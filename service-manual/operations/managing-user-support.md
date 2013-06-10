@@ -29,7 +29,7 @@ Your ability to act quickly and constructively on user feedback will ultimately 
 
 Depending on the complexity of your contact types and the sophistication of the systems you use to handle them, this might be almost completely manual (with metadata created for the contact by the staff handling it) or largely automated (with the software you use to aid contact handling adding most of the metadata automatically).
 
-Minimally, you’ll want to stratify contacts by channel (phone, email, chat, social media, surface mail, etc.) and by the target group that can act on the feedback. For example, some feedback may be directly dealt with by your organisation, while other types may need to be sent to other departments or groups for their use.
+Minimally, you’ll want to stratify contacts by channel (phone, email, chat, social media, surface mail, etc) and by the target group that can act on the feedback. For example, some feedback may be directly dealt with by your organisation, while other types may need to be sent to other departments or groups for their use.
 
 ## Potential dimensions for stratification
 
@@ -52,7 +52,7 @@ You will want to be very thoughtful about data collection of user details, given
 Is a reply necessary/expected or not?
 
 **Enquiry status**
-Whether a contact is open, pending some other action, solved, etc.
+Whether a contact is open, pending some other action, solved, etc
 
 **Enquiry category or categories**
 Some internal sectional or functional categories along which you’ll want to be able to stratify--think of separate URLs or sections on a large website as a concrete example.

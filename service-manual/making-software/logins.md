@@ -6,7 +6,7 @@ category: making-software
 type: guide
 audience:
   primary: developers, tech-archs
-  secondary: designers, service-managers 
+  secondary: designers, service-managers
 status: draft
 phases:
   - discovery
@@ -28,9 +28,9 @@ Building a login system is a significant undertaking. While there are numerous o
 
 ## Find alternatives
 
-Many features that are often implemented using login systems can be completed in other (and potentially more useful) ways. 
+Many features that are often implemented using login systems can be completed in other (and potentially more useful) ways.
 
-Saving search results, for example, doesn't require a login but just a way of helping users remember a specific URL. Instead of having them log in you could provide a tool to help send the URL to an email address or instructions on creating a bookmark in their browser. Or perhaps you could just take their email address and let them know if the search results change? 
+Saving search results, for example, doesn't require a login but just a way of helping users remember a specific URL. Instead of having them log in you could provide a tool to help send the URL to an email address or instructions on creating a bookmark in their browser. Or perhaps you could just take their email address and let them know if the search results change?
 
 The precise details will vary according to what users need from your service, but if there's an alternative to a login system that should be preferred.
 
@@ -45,9 +45,9 @@ If building a service for a small number of clearly identified agents then it is
 
 * specifically monitor use of the system for attempts to gain access, with identifiers such as unusually high number of failed login attempts over a short period of time, or a sequence of failed logins on a given account over a long period of time
 * segment user data from other data you hold to avoid aggregating a large amount of identifiable information
-* swap to a new identity system such as the Government ID Assurance scheme without invasive changes to the rest of your codebase
+* swap to a new identity system such as the [identity assurance](/service-manual/identity-assurance) scheme without invasive changes to the rest of your codebase
 
-If you need to build a system for a broad range of citizens and businesses, or you need to do sophisticated matching with other systems in order to build trust in the identity of your users then you should explore the advice published by the ID Assurance team.
+If you need to build a system for a broad range of citizens and businesses, or you need to do sophisticated matching with other systems in order to build trust in the identity of your users then you should explore the [advice published by the ID Assurance team](/service-manual/identity-assurance).
 
 ## Examples
 

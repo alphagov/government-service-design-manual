@@ -3,16 +3,23 @@
 //
 .phases {
 
-  article .inner{
-    padding-right: 0;
+  article {
+    .article-container {
+      margin: 0 2em;
+    }
+
+    .inner {
+      padding-right: 0;
+      margin: 0 1em;
+
+      @include media(tablet) {
+        margin: 0 2em;
+      }
+    }
   }
 
 
    .phases-intro {
-
-    p{
-      //@include core-24;
-    }
 
     @include media(tablet) {
       width: 50%;
@@ -20,8 +27,12 @@
     }
 
     .inner {
-      padding: 0 5em 0 0;
+      padding: 0;
       margin-bottom: 1em;
+
+      @include media(tablet) {
+        padding-right: 5em;
+      }
 
       @include media(desktop) {
         margin-bottom: 2em;
@@ -50,8 +61,8 @@
 
 // Phases
 .phases-list {
-  list-style: none;  
-  @include ie-lte(7) { 
+  list-style: none;
+  @include ie-lte(7) {
     list-style-image: none;
   }
   padding: 0;
@@ -151,7 +162,7 @@
   .link-list {
     h3 {
       margin-top: 1em;
-    }    
+    }
   }
 }
 

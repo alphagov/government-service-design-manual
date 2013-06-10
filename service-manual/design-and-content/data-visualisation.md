@@ -52,7 +52,7 @@ But visualisations often are the right answer and the data is the most important
 
 ## Choosing your visualisation and templates
 
-Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. GDS has produced [a guide to infographics](/service-manual/assets/Infographics%20Guide.pdf). Most computer programmes come with a range of visualisations. There are also visualisation tools available online, this [blog showcases some free ones](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
+Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. This guide focuses on charts. GDS has produced [a guide to infographics](/service-manual/assets/documents/Infographics_Guide.pdf). Most computer programmes come with a range of visualisations. There are also visualisation tools available online, this [blog showcases some free ones](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1).
 
 Each chart has its own strength. Below are the core 5 with templates, a [google spreadsheet of these is available](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)
 
@@ -205,7 +205,7 @@ When presenting data be aware of axes and scales. Data can be misrepresented by 
 
 ## Further reading
 
-For more information on the GDS Performance Platform see this [blogpost from Richard Sargeant, GDS' Director of Performance & Delivery](http://digital.cabinetoffice.gov.uk/2012/10/03/building-a-performance-platform-for-gov-uk/).
+More information about the [performance platform](/service-manual/measurement/performance-platform.html).
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 

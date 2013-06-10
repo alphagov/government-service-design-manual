@@ -1,0 +1,265 @@
+body {
+  color: $text-colour;
+  line-height: 1.5;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+ol, ul, nav ol, nav ul {
+  list-style: inherit;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+}
+
+a,
+a:visited {
+  color: $link-colour;
+}
+
+a:hover {
+  color: $link-hover-colour;
+}
+
+a:active {
+  color: $link-active-colour;
+}
+
+p {
+  @include core-19;
+}
+
+h2, h3, h4 {
+  font-weight: 400;
+}
+
+h2 {
+  @include core-24;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+h3 {
+  @include core-19;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+h4 {
+  @include core-19;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+/*
+ * Text styles for articles.
+ * It's kind of like typography innit.
+*/
+
+h1 {
+  @include bold-24;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+header h1 {
+  @include heading-27;
+  font-weight: 700;
+  color: $text-colour;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  @include ie-lte(8) {
+    zoom: 1;
+  }
+}
+
+.wf-nta-n4-active article header h1 span {
+  font-family: "NTA", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+article h1 + h2 {
+  margin-top: 0.75em;
+}
+
+article h2 {
+  @include bold-24;
+  margin: 1.2em 0 0.4em 0;
+}
+
+article h2 + h3 {
+  margin-top: 0.75em;
+}
+
+article h3 {
+  @include bold-19;
+  margin-top: 1em;
+  margin-bottom: 0.75em;
+}
+
+article h3 + h4 {
+  margin-top: 0.75em;
+}
+
+article h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+article h3 + table {
+  margin-top: 0.652em;
+}
+
+article h4 + table {
+  margin-top: 0.75em;
+}
+
+article h2 + p,  article h3 + p,  article h4 + p,
+article h2 + ol, article h3 + ol, article h4 + ol,
+article h2 + ul, article h3 + ul, article h4 + ul {
+  margin-top: 0.2em;
+}
+
+article h1,
+article h2,
+article h3,
+article h4 {
+  color: $text-colour;
+}
+
+article p, article ul, article ol {
+  margin: 0.75em 0;
+}
+
+article p {
+  @include core-19;
+}
+
+article p + .help-notice{
+  margin-top: 2em;
+}
+
+article li {
+  @include core-19;
+  margin: 0.25em 0;
+  padding-left: 0.3em;
+
+  @include media-down(mobile) {
+    margin-left: 16px;
+    margin-left: 1.6rem;
+    padding-left: 0;
+  }
+
+  ul,
+  ol {
+    margin: 0;
+    list-style-position: inside;
+  }
+
+  li {
+    @include core-19;
+    list-style-type: circle;
+  }
+
+  p {
+    @include core-19;
+    margin: 0;
+  }
+}
+
+article ul, article ol {
+  padding-left: 1em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
+
+  @include media-down(mobile) {
+    padding-left: 0;
+    margin-left: 0;
+  }
+}
+
+/*
+ * Example has a green background, so we need an additional indent to
+ * avoid the bullets hanging on the edge of the colour.
+*/
+article ul {
+  list-style-type: circle;
+  list-style-image: image-url("bullet-disc-5px.gif");
+}
+
+article ol {
+  list-style-type: decimal;
+}
+
+article table ul {
+  padding-left: 0.75em;
+  margin: 0;
+}
+
+article table ul li:last-child {
+  margin-bottom: 0;
+}
+
+article dl {
+  margin-top: 1.5em;
+  margin-bottom: 1.88em;
+}
+
+article dt {
+  @include core-19;
+  margin-bottom: 0.25em;
+}
+
+article dd {
+  margin-bottom: 0.75em;
+}
+
+article table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 1em -1em 2em -1em;
+  width: 105.95%;
+
+  caption {
+    @include bold-24;
+    margin: 0.4em 0.5em 0.4em 0.7em;
+    text-align: left;
+  }
+}
+
+article th, article td {
+  @include core-16;
+  vertical-align: top;
+  padding: 0.7em 0.5em 0.7em 1em;
+}
+
+article tr:nth-child(even) td {
+  background-color: $white;
+}
+
+article td {
+  background: $canvas-colour;
+  border: dotted 1px $border-colour;
+
+  small {
+    @include core-16;
+  }
+}
+
+/* reduce table font size on very small screens */
+@media screen and (max-width: 320px) {
+  article th, article td, article td small {
+    font-size: 1rem;
+  }
+}
+
+article th {
+  line-height: 1.25em;
+  text-align: left;
+  color: $text-colour;
+  font-weight: 700;
+  background-color: $panel-colour;
+  border: solid 1px $border-colour;
+}

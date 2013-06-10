@@ -57,6 +57,10 @@ Digital take-up is a long term strategic measure. Look to achieve the target lev
 
 Read guidance on [increasing digital take-up](/service-manual/communications/increasing-digital-takeup.html).
 
+## How should I increase digital take-up?
+
+Read guidance on [ways of encouraging the use of digital by default services](/service-manual/communications/increasing-digital-takeup.html).
+
 ## What about assisted digital?
 
 Some users will never use the digital service, but will still have to have access to the same level of service as those using your digital service. Departments will need to determine the appropriate mix of channels to support assisted digital users. Read [guidance on assisted digital](/service-manual/assisted-digital) for more information.

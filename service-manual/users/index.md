@@ -1,7 +1,7 @@
 ---
 layout: category-index
 title: Know your users
-subtitle: Techniques for understanding your user's needs
+subtitle: Techniques for understanding your users' needs
 category: users
 type: category-index
 audience:

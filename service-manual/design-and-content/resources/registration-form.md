@@ -22,10 +22,10 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-This example form incorporates most of the basic form elements and lets you play with different label alignments.
+This example form incorporates most of the basic user interface (UI) patterns for forms and lets you play with different label alignments.
 For a detailed breakdown of each element and how to code and style it, see our [forms design pattern page](forms.html).
 
-Click the label alignment options in the Sass snippet below to see how they affect the layout.
+Click the label alignment options in the snippet below to see how they affect the layout.
 
 ### Example
 
@@ -173,9 +173,9 @@ Click the label alignment options in the Sass snippet below to see how they affe
         <fieldset>
           <legend>I prefer to be contacted by</legend>
           <ul class="option group">
-            <li><label for="email"><input id="email" type="radio" name="preferred-contact" checked> Email</label></li>
-            <li><label for="telephone"><input id="telephone" type="radio" name="preferred-contact"> Telephone</label></li>
-            <li><label for="post"><input id="post" type="radio" name="preferred-contact"> Post</label></li>
+            <li><label for="contact-email"><input id="contact-email" type="radio" name="preferred-contact" checked> Email</label></li>
+            <li><label for="contact-telephone"><input id="contact-telephone" type="radio" name="preferred-contact"> Telephone</label></li>
+            <li><label for="contact-post"><input id="contact-post" type="radio" name="preferred-contact"> Post</label></li>
           </ul>
         </fieldset>
         <p class="action group">

@@ -10,17 +10,13 @@ status: draft
 ---
 
 <div class="phases-intro">
-  <div class="inner">
+  <figure class="media-player-wrapper video" width="420" height="260" ><a href="https://www.youtube.com/watch?v=_cyI7DMhgYc">Watch Richard Pope, GDS Product Manager, describe the different phases of service design.</a></figure>
 
-      <figure class="media-player-wrapper video" width="420" height="260" ><a href="https://www.youtube.com/watch?v=_cyI7DMhgYc">Watch Richard Pope, GDS Product Manager, describe the different phases of service design.</a></figure>
+  <p>Building a digital service is a complex task, with many risks. By breaking development into phases you minimise risk, learning about what works and what doesn't, iterating as you go.</p>
 
-      <p>Building a great digital service is a complex task, with many risks. To maximise the chances of success it is best to break the work down into discrete phases.</p>
+  <p>As the service progresses through development you'll find out more about users needs, development requirements and the conditions your service will be operating in. The level of detail, complexity and risk will increase along the way.</p>
 
-      <p>Each phase can be thought of as an iteration of the idea, increasing the level of detail, complexity and risk throughout.</p>
-
-      <p>This iterative approach allows the team working on the service to start small, learn fast, and deliver value to our users as early as possible.</p>
-
-  </div>
+  <p>This approach allows the team making and operating the service to start small, learn fast, and deliver value to users as soon as possible.</p>
 </div>
 
 <div class="timeline">

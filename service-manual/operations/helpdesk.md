@@ -30,7 +30,7 @@ Your planning will be greatly aided by drawing on the traditional contact centre
 
 You’ll need to have some idea of the volume and type of contacts that you will receive for the service you’re supporting. In many cases, you can use historical data for similar services as a baseline. 
 
-This element of your planning will also need to take into account the contact channels you intend to support (eg email, phone, chat, Twitter, Facebook, surface mail, etc.). Ideally, each of these channels will have a separate contact forecast to aid your planning. 
+This element of your planning will also need to take into account the contact channels you intend to support (eg email, phone, chat, Twitter, Facebook, surface mail, etc). Ideally, each of these channels will have a separate contact forecast to aid your planning. 
 
 This portion of your planning will also be informed by or will itself drive decisions about the technology you’ll use to route, handle, and store historical data from these contacts.
 
@@ -38,7 +38,7 @@ This portion of your planning will also be informed by or will itself drive deci
 
 You’ll also want to have at least some idea of the average handling time (AHT) and variance for each type of contact. 
 
-If you’re building off of deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
+If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
 
 ## Service Level: How quickly must we respond to user contacts?
 
