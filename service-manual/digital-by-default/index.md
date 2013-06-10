@@ -297,4 +297,5 @@ breadcrumbs:
   </li>
 </ol>
 
+<p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
 

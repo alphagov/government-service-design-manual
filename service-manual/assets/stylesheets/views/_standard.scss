@@ -86,16 +86,6 @@
 
     p{
       @include core-24;
-
-      @if $is-print == true {
-        a { 
-          text-decoration: none;
-        }
-        a[href^="http://"]:after {
-          content: "";
-        }
-      }
-
     }
 
     @if $is-print == true {
@@ -239,4 +229,27 @@
       }
     }
   }
+
+
+  @if $is-print == true {
+      a { 
+        text-decoration: none;
+      }
+      a:after {
+        content: "";
+      }
+    }
+
+
+  .print-footer{
+    @if $is-print == false {
+      display: none;
+    } @else {
+      border-top: 5px solid $main-colour;
+      @include core-24;
+      padding-top: 1em;
+      margin-top: 1em;
+    }
+  }
+
 }
