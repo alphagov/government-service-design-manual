@@ -22,10 +22,10 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-This example form incorporates most of the basic form elements and lets you play with different label alignments.
+This example form incorporates most of the basic user interface (UI) patterns for forms and lets you play with different label alignments.
 For a detailed breakdown of each element and how to code and style it, see our [forms design pattern page](forms.html).
 
-Click the label alignment options in the Sass snippet below to see how they affect the layout.
+Click the label alignment options in the snippet below to see how they affect the layout.
 
 ### Example
 
