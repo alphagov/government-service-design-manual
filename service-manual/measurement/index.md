@@ -19,23 +19,23 @@ breadcrumbs:
     url: /service-manual
 ---
 
-It's essential that we measure how services are performing to ensure that services continue to meet user needs in a cost-effective and efficient way.
+It’s essential to measure how your service is performing, so you can make sure that your service continues to meet user needs in a cost-effective and efficient way.
 
-The metrics a service monitors are a way of starting a conversation around the strengths and weaknesses of a service, helping teams to investigate ways of making the service better over time.
+Do this by monitoring your metrics. Your metrics are a way to start discussing the strengths and weaknesses of your service, and will help your team to find ways of improving your service over time.
 
-## What will you measure
+## What you will measure
 
-The [digital by default service standard](/service-manual/digital-by-default) sets four Key Performance Indicators (KPIs) to measure the success of your service:
+The [digital by default service standard](/service-manual/digital-by-default) states four key performance indicators (KPIs) which should be used to measure the success of your service:
 
 * [cost per transaction](/service-manual/measurement/cost-per-transaction.html)
 * [user satisfaction](/service-manual/measurement/user-satisfaction.html)
 * [completion rate](/service-manual/measurement/completion-rate.html)
 * [digital take-up](/service-manual/measurement/digital-takeup.html)
 
-These aren't the only things a service will measure. Each team will want to identify unique indicators to help judge the effectiveness of a service, and you can read [guidance on establishing these bespoke KPIs](/service-manual/measurement/other-kpis.html) too.
+These aren’t the only things your service should measure. Identify unique indicators to your service to help judge its effectiveness. Read [guidance on establishing KPIs specific to your service](/service-manual/measurement/other-kpis.html).
 
-## What happens to the data
+## What happens to your data
 
-Once live, service performance will be monitored and displayed on the [performance platform](/service-manual/measurement/performance-platform.html). This data will be presented in uniquely configurable modules, and (where possible) is visible to the public.
+Once live, the performance of your service will be monitored and displayed on the [performance platform](/service-manual/measurement/performance-platform.html). This data will be presented in modeules capable of being uniquely configured, and (where possible) will be visible to the public.
 
-You will then want to use the data to [investigate how well a service is performing, and as a prompt for further investigation and testing](/service-manual/measurement/using-data.html).
+Use this data to [investigate how well a service is performing, and as a prompt for further investigation and testing](/service-manual/measurement/using-data.html).
