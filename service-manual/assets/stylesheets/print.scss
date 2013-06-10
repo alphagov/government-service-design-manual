@@ -18,10 +18,30 @@ $is-print: true;
 //Views
 @import "views/_standard";
 
-.header-proposition{
-  display: none;
+// Site header
+.header-proposition {
+  border-bottom: 1px solid #7F7F7F;
+  .menu{
+    display: none;
+  }
+  #proposition-menu{
+    display: block !important;
+    #proposition-name{
+      text-decoration: none;
+      display: block;
+      padding: 1em 0;
+      font-size: 1.8rem;
+      &:after{
+        content: "";
+      }
+    }
+    #proposition-links{
+      display: none;
+    }
+  }
 }
 
+// Page header
 article header h1{
   padding-top: 0;
   font-size: 48px;
@@ -29,27 +49,14 @@ article header h1{
   border-bottom: 0;
   margin: 0.5em 0 0 0;
   padding: 0.5em 0 0 0;
-  border-top: 1px solid #7F7F7F;
 }
-
 h2.subtitle{
   margin: 0 0 1.5em 0;
-  color: #6F777B;
-  font-family: "nta",Arial,sans-serif;
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 1.25;
   font-weight: 400;
 }
-
 .meta-phases{
   display: none;
-}
-
-.dbd-promo{
-  display: none;
-}
-
-.standard {
-  list-style-type: none;
 }
