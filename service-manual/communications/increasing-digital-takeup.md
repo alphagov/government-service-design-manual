@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Increasing digital takeup
+title: Increasing digital take-up
 subtitle: Moving users to digital by default services
 category: communications
 type: guide
