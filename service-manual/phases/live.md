@@ -4,9 +4,7 @@ title: Live phase
 subtitle: Learn how to continuously improve your live service
 phase: live
 category: guidance
-subcategory: Phases
 status: draft
-css: /gsdm/css/phases.css
 phases:
   - live
 breadcrumbs:
@@ -45,9 +43,6 @@ You will repeat the whole process (discovery, alpha, beta and live) for smaller 
 
 You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
 
-**[Final phase: retirement](/service-manual/phases/retirement.html)**
-
-[Previous phase: beta](/service-manual/phases/beta.html)
-
-{:.related-guides}
-## Related guides and resources
+{:.phase-nav}
+* **[Final phase: retirement](/service-manual/phases/retirement.html)**
+* [Previous phase: beta](/service-manual/phases/beta.html)
