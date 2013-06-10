@@ -20,7 +20,7 @@ $is-print: true;
 
 // Site header
 .header-proposition {
-  border-bottom: 1px solid #7F7F7F;
+  margin-top: 3em;
   .menu{
     display: none;
   }
@@ -29,7 +29,6 @@ $is-print: true;
     #proposition-name{
       text-decoration: none;
       display: block;
-      padding: 1em 0;
       font-size: 1.8rem;
       &:after{
         content: "";
@@ -47,15 +46,16 @@ article header h1{
   font-size: 48px;
   font-weight: 700;
   border-bottom: 0;
-  margin: 0.5em 0 0 0;
-  padding: 0.5em 0 0 0;
+  margin: 0;
+  padding: 0;
 }
 h2.subtitle{
-  margin: 0 0 1.5em 0;
+  margin: 0 0 1em 0;
   font-size: 24px;
   font-size: 2.4rem;
   line-height: 1.25;
   font-weight: 400;
+padding-top: 1em;
 }
 .meta-phases{
   display: none;
