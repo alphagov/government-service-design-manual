@@ -4,7 +4,6 @@ title: Live phase
 subtitle: Learn how to continuously improve your live service
 phase: live
 category: guidance
-subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
 phases:

@@ -4,7 +4,6 @@ title: Alpha phase
 subtitle: Build a prototype, test it with users and learn from it
 phase: alpha
 category: guidance
-subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
 phases:

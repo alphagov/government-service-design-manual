@@ -4,7 +4,6 @@ title: Beta phase
 subtitle: Scaling up and going public
 phase: beta
 category: guidance
-subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
 phases:

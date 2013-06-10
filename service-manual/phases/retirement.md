@@ -4,7 +4,6 @@ title: Retirement phase
 subtitle: Learn what to do when your service is retired or superseded
 phase: retirement
 category: guidance
-subcategory: Phases
 status: draft
 css: /gsdm/css/phases.css
 breadcrumbs:
