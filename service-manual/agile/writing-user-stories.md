@@ -122,7 +122,7 @@ Using user stories in this way allows you to avoid ‘analysis paralysis’, the
 
 ## Acceptance criteria in user stories
 
-Acceptance criteria are used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins. 
+Acceptance criteria can be used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins. 
 
 Only include these on the back of the story card if the team finds them useful for recording user assumptions they might later forget. Sometimes writing acceptance criteria on the story card is useful where the user or user representative is not immediately available but is no substitute at all for face-to-face conversation.
 
