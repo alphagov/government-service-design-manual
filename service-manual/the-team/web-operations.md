@@ -67,7 +67,7 @@ Read [guidance in the manual of particular interest to web ops](/service-manual/
 
 ## Job Description
 
-A [sample job description for web operations](/service-manual/the-team/web-operations-jd.html) provided by GDS.
+A [sample job description for web operations](/service-manual/the-team/recruitment/web-operations-jd.html) provided by GDS.
 
 ## Further reading
 
