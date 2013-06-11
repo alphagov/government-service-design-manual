@@ -19,7 +19,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-Agile is a specific way to manage a project that will help you and your team to build world-class, user-focused services quickly and affordably. 
+Agile methodologies will help you and your team to build world-class, user-centred services quickly and affordably. 
 
 This way of working can be very different for those used to long specifications and procurement processes, but it’s essential for producing high-quality services to a standard that many users expect. 
 
@@ -33,17 +33,19 @@ This way of working can be very different for those used to long specifications 
 
 An agile project is about creating fast iterations of products based on the feedback of real users. 
 
-It means regularly releasing small parts of code; constant communication between team members, and using equipment that displays progress being made by your team (ie project management software or whiteboards).
+It means regularly releasing small pieces of functionality; constant communication between team members, and using equipment that displays progress being made by your team (eg project management software or whiteboards).
 
-Learn about:
+Find out more information on:
+
 * [what an agile project looks like](/service-manual/agile/what-agile-looks-like.html)
 * [what continuous delivery is](/service-manual/agile/continuous-delivery.html)
 
 ## User stories
 
-User understanding is the most important factor when creating a service, so you need to have a clear understanding of what users’ need and make sure those needs are met. To achieve this you should write user stories.
+User understanding is the most important factor when creating a service, so you need to have a clear understanding of what users need and make sure those needs are met. You can achieve this by writing user stories. 
 
 A user story is generally one or more sentences in length and describes: 
+
 * who the user is
 * what they need from the service
 * why they need it
@@ -56,10 +58,11 @@ Learn [how to write effective user stories](/service-manual/agile/writing-user-s
 
 Product development during an agile project is broken into different stages, called sprints. 
 
-In a sprint, team members aim to achieve goals within set timeframes. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer or shorter sprints.
+In a sprint, team members aim to achieve goals within set timeframes. A sprint at GDS generally lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer or shorter sprints.
 
 Have daily team meetings (stand-ups). Stand-ups are an opportunity for members of your team to discuss: 
-* the previous days work
+
+* the previous days' work
 * what they plan to work on
 * any blockers to their progress
 
@@ -68,6 +71,7 @@ Learn [how to structure sprint cycles and standups](/service-manual/agile/featur
 ## Retrospectives
 
 Run retrospectives at the end of each sprint.  A retrospective should cover:
+
 * what went well
 * what went badly
 * how to improve the working environment or process for the next sprint
