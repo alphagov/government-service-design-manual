@@ -1,8 +1,11 @@
 .detailed-guidance {
   .article-container {
     .inner {
+      padding: 0 1em 2em 1em;
+
       @include media(desktop) {
         margin-left: 25%;
+        padding: 0 10em 2em 1em;
       }
 
       // 1st para is bigger

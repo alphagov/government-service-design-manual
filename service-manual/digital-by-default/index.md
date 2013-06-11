@@ -16,19 +16,24 @@ breadcrumbs:
 
 <div class="intro">
 
+  <img src="/service-manual/assets/images/DbD-kitemark.png" />
+
   <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
 
   <p>To do this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
 
-  <h2>Common questions</h2>
-  <ul>
-    <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
-    <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
-  </ul>
+  <div class="common-questions">
+    <h2>Common questions</h2>
+    <ul>
+      <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
+      <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
+    </ul>
 
   <h2>The criteria</h2>
+  </div>
+
 </div>
 
 
@@ -292,4 +297,5 @@ breadcrumbs:
   </li>
 </ol>
 
+<p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
 

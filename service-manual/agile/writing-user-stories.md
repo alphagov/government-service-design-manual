@@ -4,8 +4,8 @@ title: Writing user stories
 subtitle: How to write a useful user story
 category: agile
 type: guide
-audience: 
-  primary: 
+audience:
+  primary:
   secondary: service-managers, designers, delivery-managers, developers
 status: draft
 phases:
@@ -67,7 +67,7 @@ They don’t capture every detail, but you should have a more in-depth discussio
 
 {:.hide-headers}
 |-------------------------------------------------------------------------------------------
-| Name    | 
+| Name    |
 |-------------------------------------------------------------------------------------------
 | **Actor:**     | As a      | journalist
 | **Narrative:** | I want to | see contact information relating to the news article I am reading
@@ -106,7 +106,7 @@ Use this as a reminder of the main interaction that needs to be addressed as par
 
 ## Taking a rain check – the promise of a conversation
 
-[Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html). 
+[Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html).
 
 Face-to-face is:
 
@@ -122,7 +122,7 @@ Using user stories in this way allows you to avoid ‘analysis paralysis’, the
 
 ## Acceptance criteria in user stories
 
-Acceptance criteria can be used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins. 
+Acceptance criteria can be used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins.
 
 Only include these on the back of the story card if the team finds them useful for recording user assumptions they might later forget. Sometimes writing acceptance criteria on the story card is useful where the user or user representative is not immediately available but is no substitute at all for face-to-face conversation.
 
@@ -140,4 +140,11 @@ Stories can come from many places, but the most common sources include:
 * user representatives embedded within your team - this may include the service manager or product owner
 * observation - watch real users using your service
 
-Read more about writing user stories in [User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
+See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
+
+## References
+
+1. Mastering the Requirements Process, 3rd Ed, Suzanne Robertson & James Robertson, 2012
+2. Agile Alliance, "Agile - What is it?", [http://www.jconne.com/agile1whatisit/](http://www.jconne.com/agile1whatisit/), accessed 7/1/2013
+3. Twelve Principles of the Agile Manifesto - [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
+4. User Stories Applied, Mike Cohn, 2004. Free chapter on "[Writing User Stories](http://www.mountaingoatsoftware.com/system/asset/file/259/User-Stories-Applied-Mike-Cohn.pdf)" available at [http://www.mountaingoatsoftware.com/books/user-stories-applied](http://www.mountaingoatsoftware.com/books/user-stories-applied)

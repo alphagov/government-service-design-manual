@@ -23,7 +23,7 @@ breadcrumbs:
     url: /service-manual/users/user-research
 ---
     
-User testing is a ‘qualitative’ research method, used to gauge how easy and intuitive a (product, service, website) is to use and whether it supports the needs of it’s intended audience.
+User testing is a ‘qualitative’ research method, used to gauge how easy and intuitive a (product, service, website) is to use and whether it supports the needs of its intended audience.
 
 ## How lab-based user testing works
 

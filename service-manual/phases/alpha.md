@@ -4,9 +4,7 @@ title: Alpha phase
 subtitle: Build a prototype, test it with users and learn from it
 phase: alpha
 category: guidance
-subcategory: Phases
 status: draft
-css: /gsdm/css/phases.css
 phases:
   - alpha
 breadcrumbs:
@@ -38,9 +36,11 @@ The objective is to build a working prototype. This will be used by stakeholders
 * gain shared understanding of the service at a coding and integrations level
 * understand what or who you will need to deliver a [beta](/service-manual/phases/beta.html)
 
-Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open, engagement process with your stakeholders. Try to involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Consider running a series of workshops with these stakeholders to develop your options.
+Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open, engagement process with your stakeholders. Involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
 
 Following demonstration of your alpha, you may choose to discard the code and start fresh in the [beta](/service-manual/phases/beta.html). If, however, your code is robust enough you may continue to iterate against your prototype.
+
+[Develop options for the assisted digital support](/service-manual/assisted-digital/action-plan.html#alpha-stage) for your service. To help develop the options, continue to build upon and analyse the research you have commissioned on user needs. Bring in the expertise of organisations working with people who are offline and users themselves. Run workshops to develop your options.
 
 ## What should be in my alpha?
 
@@ -64,12 +64,9 @@ This core team will be a mix of stakeholders, and makers (designers and develope
 * understanding around legacy systems to replace or wrap or integrate with
 * cross-functional requirements
 * decision to progress to [beta phase](/service-manual/phases/beta.html)
-* build upon and analyse the research you have commissioned on user needs
-* contact GDS about the content of your assisted digital provision
+* final analysis on the research you have commissioned on user needs
+* options for the assisted digital support for your service
 
-**[Next phase: beta](/service-manual/phases/beta.html)**
-
-[Previous phase: discovery](/service-manual/phases/discovery.html)
-
-{:.related-guides}
-## Related guides and resources
+{:.phase-nav}
+* **[Next phase: beta](/service-manual/phases/beta.html)**
+* [Previous phase: discovery](/service-manual/phases/discovery.html)
