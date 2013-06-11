@@ -45,7 +45,7 @@ Too often the aim of testing is to validate what has been produced and nothing e
 
 Use the vast majority of your efforts building quality in at the start, and test the quality throughout the project - not at the end when it’s too late.
 
-When you write user stories, make sure that you can test against your acceptance criteria standards. Testing should confirm what you already know and understand to be true, so there should be no surprises in the latter stages.
+Define acceptance criteria standards for your user stories. You can either do this when you first write your user stories or later on in the form of acceptance tests when you start development work. Testing should confirm what you already know and understand to be true, so there should be no surprises in the latter stages.
 
 ## Everyone is responsible for quality
 
@@ -53,7 +53,7 @@ Service quality isn’t just a testing issue. The quality of a system is defined
 
 Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
 
-## Fast Feedback
+## Fast feedback
 
 A successful agile project relies on fast feedback loops. Getting feedback and getting it fast means you can actually be agile and change when you need to change.
 
