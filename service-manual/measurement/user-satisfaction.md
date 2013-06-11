@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: User satisfaction
-subtitle: Are users happy with the service you have provided
+subtitle: Are users happy with the service you’ve provided
 category: measurement
 type: guide
 audience:
@@ -20,15 +20,15 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-A good service enables users to complete tasks successfully. Satisfaction provides a qualitative measure of how satisfying the experience is.
+A good service makes it possible for users to successfully complete tasks. User satisfaction helps you to measure the overall quality of the service experience.
 
-Many government transactions are mandatory and therefore not inherently enjoyable - sometimes referred to as grudge transactions - but you should endeavour to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
+Many government transactions are mandatory for users, so they’re not naturally enjoyable, and are sometimes referred to as grudge transactions. Still, try to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
 
-Asking users how satisfied they are with a service can provide a measure of all the elements contributing to the overall user experience such as ease of use, navigation and design.
+Asking users how satisfied they are with a service can provide you with a measure of all the parts that contribute to the overall user experience, like ease of use, navigation and design.
 
 ## What you will be measuring
 
-Defined as the percentage of people who answered either “very satisfied” nor “satisfied” on a five-point scale in response to the question:
+Define user satisfaction as the percentage of people who answered either “very satisfied” or “satisfied” on a 5-point scale in response to the following question.
 
 Q: Overall, how satisfied were you with this [eg car tax] service today?
 
@@ -44,37 +44,44 @@ GOV.UK will provide a user satisfaction survey at the end of your transactional 
 
 ## What happens if a user exits the transaction mid way through?
 
-You should measure all user journeys through your transaction to understand drop off points.
+Measure all user journeys through your transaction to better understand drop off points.
 
-If a user drops out your should try and collect some qualitative data to explain why they did not complete the transaction. For example:
+If a user drops out your should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. Eg,‘please tell us why are you unable to complete this transaction.’
 
-> ‘Please tell us why are you unable to complete this transaction.’
-
-Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop of points and find ways to improve transactions.
+Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop-off points and find ways to improve transactions.
 
 ## When to measure user satisfaction
 
-In order to successfully measure the user satisfaction of your service we recommend that:
+To successfully measure the user satisfaction of your service, we recommend that you measure through all stages of your service.
 
-* during the discovery phase you
-  * benchmark the existing service for future comparison
-  * develop a plan to measure user satisfaction throughout product development
-* in your alpha you
-  * benchmark user satisfaction via remote usability testing and/or a satisfaction survey
-* during your beta you
-  * measure user satisfaction via remote usability testing and/or satisfaction survey
-  * identify why people are dissatisfied or not completing transactions and take steps to improve
-* when a service is live you
-  * measure user satisfaction continually and monitor results on at least a monthly basis
-  * carry out a more comprehensive user demographics, usage and attitudes survey every six months
+###Discovery
+During the discovery phase:
+
+* benchmark your existing service for future comparison
+* develop a plan to measure user satisfaction throughout product development
+
+###Alpha
+Benchmark user satisfaction via remote usability testing and/or a satisfaction survey.
+
+###Beta
+During your beta phase:
+
+* measure user satisfaction via remote usability testing and/or satisfaction survey
+* identify why people are dissatisfied or not completing transactions and take steps to improve user satisfaction levels
+
+###Production (live)
+Once your service is live:
+
+* measure user satisfaction continually and monitor results on at least a monthly basis
+* carry out a more comprehensive user demographics, usage and attitudes survey every 6 months
 
 ## What about post launch?
 
-An exit survey will be run continuously on your service, and report satisfaction on a monthly basis. You can use this data to improve your service.
+An exit survey will be run continuously on your service, and will report on user satisfaction on a monthly basis. You can use this data to improve your service.
 
-You should also carry out a more comprehensive user satisfaction survey every six months.
+Analyse the major factors generating satisfaction with the service. You can do this by asking additional questions (eg on ease of use, accuracy, look and feel).
 
-You could consider analysing the key factors driving satisfaction with the service. For example, by asking additional questions (eg on ease of use, accuracy, look and feel) you can determine which of those factors is most positively contributing to user satisfaction and hence prioritise where to focus ongoing design efforts.
+You can then determine which of those factors is most positively contributing to user satisfaction and prioritise where to direct ongoing design efforts.
 
 ## Further reading
 [Survey design](/service-manual/users/user-research/survey-design.html)
