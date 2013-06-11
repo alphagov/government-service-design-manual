@@ -3,6 +3,19 @@
 //
 
 .dbd {
+
+  @if $is-print == true {
+    .header-wrapper{
+      display: none;
+    }
+    article{
+      width: 90%;
+    }
+    article header h1{
+      border-top: none;
+    }
+  }
+
   // Swap standard header for DbD kitemark
   header.page-header {
     margin: 2em 0 0.5em 0em;
@@ -10,7 +23,10 @@
     border-bottom: none;
 
     @include media(desktop) {
-      width: 67%;
+      @if $is-print == false {
+        width: 67%;
+      }
+
       margin: 0 auto;
     }
 
@@ -27,10 +43,12 @@
     }
 
     h1 {
+      @if $is-print == true {
+        display: none;
+      }
       background: url('/service-manual/assets/images/DbD-kitemark.png') no-repeat 50% 70%;
       background-size: 100%;
       text-indent: -9999px;
-
       width: 100%;
       height: 100px;
 
@@ -54,6 +72,13 @@
       width: 67%;
       margin: 0 auto;
     }
+    
+    img{
+      margin-bottom: 1.5em;
+      @if $is-print == false {
+        display: none;
+      }
+    }
 
     h2 {
       margin-top: 0;
@@ -61,6 +86,12 @@
 
     p{
       @include core-24;
+    }
+
+    @if $is-print == true {
+      .common-questions{
+        display: none;
+      }      
     }
 
     ul {
@@ -85,7 +116,7 @@
 
   // The list of criteria
   .standard {
-    display: inline-block;
+    //display: inline-block;
     vertical-align: middle;
     padding: 0;
 
@@ -99,6 +130,8 @@
       padding: 2em 0 2em 0;
       margin: 0;
       @extend %contain-floats;
+
+      page-break-inside: avoid;
 
       &:first-child{
         border-top: 5px solid $main-colour;
@@ -118,21 +151,44 @@
         @include media(tablet) {
           width: 10%;
         }
+
+        @if $is-print == true {
+          width: 10%;
+        }
       }
 
       .point {
         @include core-24;
 
         @include media(tablet) {
-          width: 50%;
+          @if $is-print == true {
+            width: 67%;
+          } @else {
+            width: 50%;
+          }
+          float: left;
+          margin-bottom: 1em;
+        }
+        orphans: 0;
+
+        width: 86%;
+        @include media(desktop) {        
           float: left;
         }
+        @include media(mobile) {   
+          padding-left: 15%;
+        }
       }
+      
     }
 
     .guidance {
+      @if $is-print == true {
+        display: none;
+      }
       @include media(mobile) {
         margin-top: 1em;
+        padding-left: 15%;
       }
       @include media(tablet) {
         float: right;
@@ -161,6 +217,7 @@
         }
       }
     }
+
   }
 
   .link-list {
@@ -172,4 +229,27 @@
       }
     }
   }
+
+
+  @if $is-print == true {
+      a { 
+        text-decoration: none;
+      }
+      a:after {
+        content: "";
+      }
+    }
+
+
+  .print-footer{
+    @if $is-print == false {
+      display: none;
+    } @else {
+      border-top: 5px solid $main-colour;
+      @include core-24;
+      padding-top: 1em;
+      margin-top: 1em;
+    }
+  }
+
 }
