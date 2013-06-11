@@ -28,9 +28,11 @@ A user story briefly explains:
 * what the user needs the service for (narrative)
 * why the user needs it (goal)
 
-User stories are an essential part of the agile toolkit. They’re a way of organising your work into manageable chunks that create substantial value, and can be discussed and prioritised independently.
+User stories are an essential part of the agile toolkit. They’re a way of organising your work into manageable chunks that create tangible value, and can be discussed and prioritised independently.
 
-Decide if your team writes user stories at a specific time in a sprint cycle or over a couple of sessions. User stories will only work if people in your team are set to represent users and their needs. 
+User stories are a technique which relies on other agile practices, including continuous delivery, and face-to-face communication with user representatives. It is not sufficient to simply 'set' a user representative: that user representative needs to be in the same place as the team and available to the team a sufficient amount of time.
+
+User stories can be added to a product backlog at any point in the sprint cycle by any person in the team. It's up to the product owner to coordinate and prioritise them, and to select stories for each sprint at the start of each sprint cycle.
 
 Discuss the stories ahead of sprint planning with:
 
@@ -47,11 +49,11 @@ A user story is represented through a story card that has a title and a few line
 
 Your story cards can be virtual, as well as actual cards. On a large product/service keep your stories in a digital format, and then turn them into physical cards as part of sprint planning.
 
-When writing a user story, make sure the story:
+When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
 
-* is well-formed (ie don’t skip the part explaining why there’s a need for a service just because it can be difficult)
-* have a good, sensible list of acceptance criteria that adds to your teams’ criteria for what is considered finished/completed
-* are estimated - if stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code
+You might want to include a list of acceptance criteria. These should be an 'aid memoire' for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+
+If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
 
 ### Structure
 Story cards follow a standard structure:
