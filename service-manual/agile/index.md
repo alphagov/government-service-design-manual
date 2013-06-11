@@ -19,7 +19,9 @@ breadcrumbs:
     url: /service-manual
 ---
 
-Agile methodologies help teams build world-class, user-focused services quickly and affordably. It can be a very different way of working for teams used to long-specifications and procurement processes, but it's essential for delivering high-quality services to a standard that many users expect. Agile is not just for digital teams. Many different businesses use agile project management techniques.
+Agile methodologies will help you and your team to build world-class, user-centred services quickly and affordably. 
+
+This way of working can be very different for those used to long specifications and procurement processes, but it’s essential for producing high-quality services to a standard that many users expect. 
 
 <figure class="media-player-wrapper video">
 	<a href="https://www.youtube.com/watch?v=0XpAtr24uUQ">Watch Roo Reynolds, GDS product manager, describe agile</a
@@ -27,32 +29,53 @@ Agile methodologies help teams build world-class, user-focused services quickly 
 </figure>
 
 
-## What agile looks like
+## What is an agile project?
 
-An agile project is focused on producing rapid iterations on products based on feedback from real users. Regular, rapid releases of small parts of code and constant communication between team-members makes for a fast-paced environment, facilitated by equipment that visualises the progress the team is making (whether that's in the form of project management software or whiteboards).
+An agile project is about creating fast iterations of products based on the feedback of real users. 
 
-[What does agile look like?](/service-manual/agile/what-agile-looks-like.html)
-[What is continuous delivery?](/service-manual/agile/continuous-delivery.html)
+It means regularly releasing small pieces of functionality; constant communication between team members, and using equipment that displays progress being made by your team (eg project management software or whiteboards).
+
+Find out more information on:
+
+* [what an agile project looks like](/service-manual/agile/what-agile-looks-like.html)
+* [what continuous delivery is](/service-manual/agile/continuous-delivery.html)
 
 ## User stories
 
-Users are the heart of every digital by default service. This means having a clear understanding of what needs a feature being developed must meet. User stories are the prompts that help a team to produce these features, and writing them well can make a huge difference to the quality and speed of development.
+User understanding is the most important factor when creating a service, so you need to have a clear understanding of what users need and make sure those needs are met. You can achieve this by writing user stories. 
 
-[Find out how to write effective user stories](/service-manual/agile/writing-user-stories.html)
+A user story is generally one or more sentences in length and describes: 
 
-## Features of agile
+* who the user is
+* what they need from the service
+* why they need it
 
-Agile product development is usually broken into small units of work called sprints. At GDS a sprint lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer sprints.
+These user stories will help your team to produce the required features of your service, and writing them well can make a huge difference to the quality and speed of development.
 
-Standups take place daily, and are an opportunity for teams to discuss the previous days work, tell people what they plan to work on, and reveal any blockers to progress.
+Learn [how to write effective user stories](/service-manual/agile/writing-user-stories.html).
 
-[Find out how to structure sprint cycles and standups](/service-manual/agile/features-of-agile.html)
+## Main features of agile
+
+Product development during an agile project is broken into different stages, called sprints. 
+
+In a sprint, team members aim to achieve goals within set timeframes. A sprint at GDS generally lasts a week and runs from Wednesday to Tuesday, however other agile development teams may run longer or shorter sprints.
+
+Have daily team meetings (stand-ups). Stand-ups are an opportunity for members of your team to discuss: 
+
+* the previous days' work
+* what they plan to work on
+* any blockers to their progress
+
+Learn [how to structure sprint cycles and standups](/service-manual/agile/features-of-agile.html).
 
 ## Retrospectives
 
-Retrospectives are run at the end of each sprint to talk about what went well, what went badly and how to improve the working environment or process for the next sprint. Retrospectives can also increase in scope, to cover full projects or project phases.
+Run retrospectives at the end of each sprint.  A retrospective should cover:
 
-[Find out how to run a retrospective](/service-manual/agile/running-retrospectives.html)
+* what went well
+* what went badly
+* how to improve the working environment or process for the next sprint
 
+Retrospectives can also increase in scope to cover full projects or project phases.
 
-
+Learn [how to run a retrospective](/service-manual/agile/running-retrospectives.html)

@@ -22,53 +22,61 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-Quality is at the heart of building services that are so good that people prefer to use them. It is the responsibility of every member of the team and the quality of a system is defined by the people who create it.
+If you want people to use your service and to enjoy using it, put quality at the forefront of your project.
 
-If the system being produced is lacking in quality, then it should be evident to everyone involved, and every person on the project should be taking action to increase quality and fix issues.
+Quality is the responsibility of every member of your team – the people who create the service create the quality of it. Every person on your project should be part of increasing quality and fixing issues.
 
 ## Defining quality
 
-Quality will mean different things to different members of the team. Fundamentally it is about the end-to-end experience of the service's users, from the start to the end of the transaction.
+Quality will mean different things to different members of the team. Fundamentally it is about the end-to-end experience of the service's users, from the start to the end of the transaction, which may include:
 
-That may include:
-
-* the accessibility of the service to the broadest possible range of users across an appropriate range of devices
-* the simplicity of the interactions involved
+* accessibility for (the widest possible range of) users, across an appropriate range of devices
+* how simple it is to interact with the service
 * the ability of the service provider to quickly provide appropriate support
-* whether the storage and handling of any data is proportionate and secure
-* the robustness of the underlying software and infrastructure
- * is the code well tested and largely bug-free?
- * does it respond quickly when placed under reasonable amounts of load?
- * can it be scaled rapidly to handle unusual amounts of traffic
-* the ability of the team to quickly add or modify features to respond to changing requirements or contexts
-
+* whether the storage and handling of any data is suitable and secure
+* the strength and security of essential software and the infrastructure
+* making sure the [code is well-tested](/service-manual/making-software/code-testing.html)
+* seeing if it responds quickly when dealing with lots of users at once ([load testing](/service-manual/operations/load-and-performance-testing.html))
+* if it can be scaled rapidly to handle unusual amounts of traffic
+* the ability of the team to quickly add or change features to respond to changing requirements or settings
 
 ### A note on technical debt
 
-It is common to talk of 'technical debt' in software. Definitions of technical debt vary, but generally it means compromises made in the development of an application or system favouring speed of delivery over a clean, extensible technical design.
+‘Technical debt’ is a common term in software development, and definitions vary. Generally, technical debt is a term used to describe compromises made in the development of a product, just so it can be finished quickly - instead of creating a clean, expandable technical design. These compromises mean there’s still work to be done, even though the overall product is finished. 
 
-It is impossible to develop software without accruing some technical debt, but you should ensure your team have some way of sharing an understanding of the technical debt in their system. A large amount of technical debt slows down future development and having a clear picture will let you prioritise work to reduce it and thereby ensure your ability to iterate rapidly in future.
+It’s impossible to develop your software without building up some technical debt, so make sure your team have some way of sharing an understanding of the technical debt in their system.
+
+A large amount of technical debt will slow down future development.  Know how much of it you have and you can prioritise work to reduce it, and can continue to iterate rapidly in the future.
 
 ## Testing
 
-In order to ensure quality a range of testing must be carried out. You can only know if your service meets the above criteria and any other definition of quality if you have tested it under normal and unusual conditions. For an example of testing under unusual stresses, it is worth reviewing Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) about the Obama 2012 campaign's preparations to ensure their software was highly available during the final days of that Presidential campaign.
+You won’t know how great your product is or if it meets your criteria without testing it – in both normal and unusual conditions. 
 
-For further guidance on testing, see the following sections of this manual:
+Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) is worth reviewing as an example of testing software and teams under unusual stresses (in this case, the final stages of a Presidential campaign).
 
-* [Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [Accessibility testing](https://www.gov.uk/service-manual/making-software/accessibility-testing.html)
-* [Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
-* [Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
+The following sections of this manual give further information on testing:
+
+* [testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
+* [accessibility testing](https://www.gov.uk/service-manual/making-software/accessibility-testing.html)
+* [testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
+* [load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
+* [vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
 ## Team roles and QA specialists
 
-The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the Service Manager. It is essential that the Service Manager works with the team to understand the measures that they need to put in place to ensure quality.
+The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the Service Manager.
+ 
+Make sure your Service Manager works with the rest of your team. Otherwise you risk your team not understanding what measures they need to put in place to guarantee quality.
 
-That will include making sure that the team are considering quality when writing development stories and allowing time and resources to test what they're building, doing the groundwork to ensure that assumptions about the accessibility of a service are regularly tested, taking the time to consider failure scenarios and how they will respond, and so on.
+Your team will need to consider quality when writing user stories, and allow time and resources to be used for:
 
-At times there will be a need for specialist skills and facilities to ensure good testing. For example, there should always be some [Penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html) undertaken by people outside the team as an outside perspective helps challenge assumptions and identify weaknesses the team are not in a position to see clearly.
+* testing what is being built
+* doing the basics, so assumptions about accessibility can be regularly tested
+* taking the time to consider failure scenarios and how to respond
 
-Some teams may seek to employ a Quality Assurance specialist. That role can be helpful to ensure all quality-related activities are co-ordinated and to make sure that the team is getting the training and resources they need to make a high quality service.
+Using specialist skills and facilities is a good way to make sure testing is thorough, and is typically used for: 
 
-A QA specialist should have a clear remit and be expected to work with the team to build quality into everything they do rather than simply adding a review gate to the development process. We encourage teams employing a QA specialist to consider such a role a short-term responsibility with the intention that they quickly leave the team able to manage quality as part of their standard development and iteration of the service.
+* [penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html) - having people outside of the team carry out this task helps challenge assumptions and identify weaknesses, giving a valuable outside perspective
+* hiring Quality Assurance Specialists – they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
+    * having a clear remit and working with your team to build quality into everything they do, instead of just adding a gate review() to the development process
+    * being a short-term role, leaving your team capable of managing quality as part of their standard development and iteration of your service
