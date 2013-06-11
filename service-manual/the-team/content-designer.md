@@ -56,4 +56,4 @@ Content designers must be able to:
 Read [guidance in the manual of particular interest to content designers](/service-manual/designers).
 
 ##Job description
-[Content designer template](/service-manual/the-team/content-designer-jd.html)
+[Content designer template](/service-manual/the-team/recruitment/content-designer-jd.html)

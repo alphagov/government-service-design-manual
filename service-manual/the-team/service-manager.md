@@ -52,7 +52,7 @@ Cabinet Office will help departments to recruit suitably skilled individuals. Ne
 
 ## Sample job description
 
-An [example job description for this role](/service-manual/the-team/service-manager-jd.html) provided by GDS.
+An [example job description for this role](/service-manual/the-team/recruitment/service-manager-jd.html) provided by GDS.
 
 ## Guidance
 
