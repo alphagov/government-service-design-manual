@@ -14,6 +14,8 @@ breadcrumbs:
     url: /service-manual
 ---
 
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=mVuJPk8Kf3U">Liam Maxwell, Chief Technology Officer for government, describes the new approach to IT.</a></figure>
+
 Government needs services that are genuinely agile and responsive to changing needs – where change reduces, not raises, cost and risk – making government more productive, and our public services better. To do that, Chief Technology Officers (CTOs) need to help government departments make major structural improvements to how technology is used and procured, alongside an approach which:
 
 * focuses on user needs
