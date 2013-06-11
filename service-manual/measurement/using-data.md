@@ -20,89 +20,94 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-Simply collecting information about how a service is running isn't enough to make judgements about how to improve it. A process of continual iteration accompanying close measurement will help you to see what needs improvement and how to investigate ways of improving a service.
+Simply collecting information about how your service is running isn’t enough to make judgements about how to improve it. A process of continual iteration and close measurement will help you to see what needs improvement and how to investigate ways of improving your service.
 
 ![Diagram showing seven stage iterative process](/service-manual/assets/images/kpis/monitor.png)
 
 ##Understand user needs/decide what to measure
-The core KPIs ([cost per transaction](/service-manual/measurement/cost-per-transaction.html), [user satisfaction](/service-manual/measurement/user-satisfaction.html), [completion rate](/service-manual/measurement/completion-rate.html) and [digital take-up](/service-manual/measurement/digital-takeup.html)) established in the [service standard](/service-manual/digital-by-default/index.html), and any [other KPIs](/service-manual/measurement/other-kpis.html) you choose to measure must accurately reflect the needs of your users and stakeholders. 
 
-This will allow you to measure a service's ability to meet those needs.
+Make sure the [core KPIs](/service-manual/measurement#what-will-you-measure) established in the [service standard](/service-manual/digital-by-default/index.html), and any [other KPIs](/service-manual/measurement/other-kpis.html) you choose to measure, accurately reflect the needs of your users and stakeholders.
+
+This will allow you to measure the ability of your service to meet user needs.
 
 ##Install and configure platforms
-While building your service you should make sure that appropriate analytics tools are being used to monitor the service, collecting the data necessary to produce accurate and timely measurements.
+While building your service, make sure that appropriate analytics tools are being used to monitor the service, collecting the data necessary to produce accurate and timely measurements.
 
-Guidance for [choosing and installing these packages is available within the manual](/service-manual/making-software/analytics-tools.html).
+For more information, read guidance on [choosing analytics tools](/service-manual/making-software/analytics-tools.html).
 
 ##Establish a baseline
 
-Establish a 'baseline' based on current performance trends by channel, against which changes to the service will be judged. This will help you pinpoint the effectiveness of your initiatives, and identify what worked.
+Establish a ‘baseline’ based on the current performance trends of each channel. Use this to judge the effectiveness of any changes to your service. This will help you pinpoint the effectiveness of your initiatives, and identify what worked.
 
-It is good practice to look at performance trends over time, rather than take a snapshot at a particular point in time. Peaks and dips in performance are then measured relative to this base (or trend) line which helps to identify the effect of communications or design initiatives. It also reveals seasonal variations in performance.
+Look at performance trends over time, rather than taking a snapshot at a particular point. Peaks and dips in performance can then be measured in relation to this base (or trend) line, which helps to:
+
+* identify the effect of your communications or design initiatives
+* reveal seasonal variations in performance
 
 ##Aggregate data
 
-Collect and aggregate performance information from multiple sources and across multiple channels. Make sure you understand what this will mean in terms of system requirements.
+Collect and combine performance information from multiple sources and across multiple channels. Make sure you understand what this will mean in terms of system requirements.
 
-Combining data often reveals useful insights, for example into service efficiency (eg cost per transaction and total cost to serve) or proportional usage by channel (eg percentage digital uptake vs post, phone etc).
+Combining data often reveals useful insights, eg into service efficiency (cost per transaction and total cost to serve) or the amount of usage by channel (percentage digital uptake vs post, phone etc).
 
 ##Analyse and visualise data
 
-Communicate performance information to your users through the appropriate dashboards, reports and alerts. Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, actionable and contain minimal amounts of [chart junk](http://en.wikipedia.org/wiki/Chartjunk).
+Communicate performance information to your users through the appropriate:
+
+* dashboards
+* reports
+* alerts
+ 
+Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, useful and contain minimal amounts of  [chart junk](http://en.wikipedia.org/wiki/Chartjunk).
 
 Typical segments include:
 
-- **Channel used to access service:** through which channel(s) did the user find out about and attempt to use the service?
-- **New vs. repeat visitors:** are first time users behaving differently to those who have used the service before?
-- **Geographical region:** how popular is the digital service by region and how does that compare with online penetration in general?
-- **Product type:** does the user experience vary depending on the type of product or service?
-- **Value:** is performance dependent on the monetary value of the product or service being sought?
-- **Dashboards:** are objective-focused and will help inform decisions, often with the help of real-time data.
-- **Reports:** provide regular, scheduled snapshots of data and tend to require extra - context and time to digest.
-- **Alerts:** are used to inform the users about a change or an event, often using attention-grabbing delivery mechanisms.
+* channel used to access service - through which channel(s) did the user find out about and attempt to use the service?
+* new vs. repeat visitors - are first time users behaving differently to those who have used the service before?
+* geographical region - how popular is the digital service by region and how does that compare with online penetration in general?
+* product type - does the user experience vary depending on the type of product or service?
+* value - is performance dependent on the monetary value of the product or service being sought?
+* dashboards - based on objectives and will help inform decisions, often with the help of real-time data
+* reports - providing regular, scheduled snapshots of data, but tend to need extra context and time to absorb
+* alerts - used to inform the users about a change or an event, often using attention-grabbing tools to do so
 
-By making your visualisations clearly visible you maximise the likelihood that the information will be acted upon - and services thereby improved.
+By making your visualisations easy to understand you significantly increase the likelihood that the information will be used to improve your service.
 
 Best practices include:
 
-- **keeping charts plain:** don’t use shading, 3D or other distracting effects
-- **removing clutter:** don’t use trend lines, grid lines, unnecessary labelling
-- **not using pie charts:** they require more space and are harder to read than bar charts
-- **using text where a chart adds nothing.**
+* keeping charts plain - don’t use shading, 3D or other distracting effects
+* removing clutter - don’t use trend lines, grid lines, unnecessary labelling
+* not using pie charts - they require more space and are harder to read than bar charts
+* using text where a chart adds nothing
 
 ##Monitor, iterate, and improve
 
-Test a range of performance improvement initiatives and monitor to see which work well. These can be piloted on a subset of your users to minimise risk. Implement the best performing solutions widely and then repeat this process relentlessly: what you measure will change over the course of a product or project's lifetime.
+1.    Test a range of actions for improving performance and monitor to see which work well. Pilot these on a portion of your users to minimise risk.
+2.    Implement the best performing solutions widely and then repeat this process continuously as what you measure will change over the course of your product or project’s lifetime.
 
-Any service that meets user needs will include an element of user feedback. This should be monitored and acted upon so as to continually improve the service for users. A range of options are available for improving the overall performance of a service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
+Any service that meets user needs will include an element of user feedback. Monitor this and act on it. Doing so will help to continually improve the service for your users.
 
-* **Price:** can the price be changed, for example to attract people to the digital channel?
-* **Product:** can the user experience be improved (eg from user feedback, user testing, A/B testing, multivariate testing)?
-* **Placement:** can the digital service URL be placed on printed materials and voice recordings?
-* **Promotion:** can greater use of email and social media be used to promote repeated use of the digital service?
+Many options are available for improving the overall performance of your service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
 
-Taking an iterative approach to service development increases the pace of improvement and minimises the risk of failure. Don’t wait until the end to do this, it should happen continuously throughout the process.
+* price – change the price eg to attract people to the digital channel
+* product – improve the user experience (eg from user feedback, user testing, A/B testing, multivariate testing)
+* placement - place the digital service URL on printed materials and in voice recordings
+* promotion – increase your use of email and social media to encourage repeated use of your digital service
+
+Taking an iterative approach to service development will increase the speed of improvements and minimises the risk of failure. Don’t wait until the end to do this – do it continuously throughout the process.
 
 ##Further reading
 
-[This article](http://www.guardian.co.uk/money/2010/dec/22/amazon-top-consumer-satisfaction) in The Guardian shows online customer satisfaction scores for retailers. These scores are based on the Customer Satisfaction Index.
+To find out more about ways to use data, try reading:
 
-[Great article](http://radar.oreilly.com/2010/06/what-is-data-science.html) by Mike Loukides on the role of the data scientist.
-
-Total Cost to Serve is a [method (PDF, 79k)](http://www.hmrc.gov.uk/research/cost-of-time.pdf) for calculating the cost of a transaction for both the service provider and the user. HMRC have developed a method for calculating the cost of users time when interacting with government. This is important because some channels may be quicker to use than others.
-
-[Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) is an excellent book by Brian Suda which helps you to design beautiful and powerful data visualisations.
-
-[Juice Analytics](http://www.juiceanalytics.com/) is a great website with loads of useful resources on how to design and develop useful data visualisations and dashboards.
-
-Edward Tufte’s [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisation and introduces the concept of chartjunk.
-
-The [Flowing Data](http://flowingdata.com/) blog by Nathan Yau is a useful source of data visualisation news.
-
-The [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery) is a stunning collection of data visualisations.
-
-[Nicely presented overview](http://selection.datavisualization.ch/) of some of the tools available for data visualisation.
-
-This [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1) shows how A/B testing was used to good effect in Obama’s election campaign.
-
-This [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing) shows how multivariate testing was used to improve conversion rates at Lovefilm.
+* an article on [online customer satisfaction scores](http://www.guardian.co.uk/money/2010/dec/22/amazon-top-consumer-satisfaction) for retailers, based on the Customer Satisfaction Index, written for *The Guardian*
+* '[The role of the data scientist](http://radar.oreilly.com/2010/06/what-is-data-science.html)' by Mike Loukides
+* '[Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government - this is important because some channels may be quicker to use than others)
+* [Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data), an excellent book by Brian Suda which helps you to design beautiful and powerful data visualisations
+* [Juice Analytics](http://www.juiceanalytics.com/), a website with lots of useful resources on how to design and develop useful data visualisations and dashboards
+* Edward Tufte’s [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi), an original piece of work on data visualisation and introduces the concept of chartjunk
+* the [Flowing Data](http://flowingdata.com/) blog by Nathan Yau, a useful source of data visualisation news
+* the [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery), a stunning collection of data visualisations
+* a [nicely presented overview](http://selection.datavisualization.ch/) of some of the tools available for data visualisation
+* this [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1), which shows how A/B testing was used to good effect in Obama’s election campaign
+* this [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing), which shows how multivariate testing was used to improve conversion rates at Lovefilm
