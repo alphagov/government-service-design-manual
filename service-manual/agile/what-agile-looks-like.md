@@ -5,7 +5,7 @@ subtitle: Common features of agile projects
 category: agile
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, designers, delivery-managers, developers, tech-archs
 status: draft
 phases:
@@ -22,9 +22,9 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-Agile can be a liberating way of working. It won’t stop you from using existing skills and knowledge, but it will require your team, users and stakeholders to start working together in new ways. 
+Agile can be a liberating way of working. It won’t stop you from using existing skills and knowledge, but it will require your team, users and stakeholders to start working together in new ways.
 
-## Understand your users 
+## Understand your users
 
 
 ![Real people will use your product](https://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
@@ -42,8 +42,9 @@ Iterate often. Build something that strives to achieve the most valuable user ne
 It might sound like over-simplifying the complexity of software development and project management, but agile development is all about “What do you want by next Friday?”
 
 The process of producing incremental, production-ready software allows your team to:
+
 * give value to their users and stakeholders regularly
-* shorten feedback loops that could be longer if using a waterfall methodology (where you only move on to the next phase when the phase you’re working on is complete)  
+* shorten feedback loops that could be longer if using a waterfall methodology (where you only move on to the next phase when the phase you’re working on is complete)
 * think about what features are the next most important to produce
 * direct their efforts on creating useable software
 
@@ -59,7 +60,7 @@ Small teams of between 5 to 10 people are often more productive and predictable 
 
 A good team includes members with all of the skills necessary to successfully produce software. A fully functioning team has 3 main roles:
 
-* Product Manager - a role probably performed by the [Service manager](/service-manual/the-team/delivery-manager.html)) responsible for delivering return on investment, usually by creating products that users love 
+* Product Manager - a role probably performed by the [Service manager](/service-manual/the-team/service-manager.html)) responsible for delivering return on investment, usually by creating products that users love
 * [Delivery Manager](/service-manual/the-team/delivery-manager.html) (aka Scrum Master or Project Manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
 * [Team members](https://www.gov.uk/service-manual/the-team/index.html) - self-organising and multi-disciplinary, they produce user stories, carry out the Product Manager’s vision and are responsible for estimating their output and speed
 
@@ -76,11 +77,12 @@ A good team means you’re able to estimate your output, or speed, very effectiv
 ![Failing, so fix it!](https://farm8.staticflickr.com/7189/6875228285_9b2409663f.jpg)
 
 Regularly releasing little pieces of code will:
+
 * improve quality
 * improve visibility
 * reduce cost to market
 
-Agile techniques don’t guarantee success - you can still fail!  
+Agile techniques don’t guarantee success - you can still fail!
 
 But these techniques do allow you to spot problems earlier on and resolve them. You can resolve issues, and stop issues from happening, by:
 

@@ -135,6 +135,7 @@ Your service manager and other user representatives need to be available to deve
 ## How to get user stories
 
 Stories can come from many places, but the most common sources include:
+
 * story writing workshops - more commonly at the start of a project, the development team and stakeholders will get together to write stories
 * user interviews with real users - ideally, you will set up a user panel which the development team have ongoing access to
 * user representatives embedded within your team - this may include the service manager or product owner

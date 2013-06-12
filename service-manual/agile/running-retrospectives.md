@@ -25,7 +25,6 @@ A central principle of agile is quick feedback loops – you demonstrate somethi
 
 ## What’s a retrospective?
 
-{:.left}
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
 A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where your team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, eg a full project retrospective.
@@ -41,7 +40,6 @@ This is a chance for everyone in your team to contribute to improving process/pr
 
 ## The facilitator
 
-{:.left}
 ![A retrospective plan](/service-manual/assets/images/planning_retro.jpg)
 
 All retrospectives must be facilitated. The facilitator’s role is to give everyone a chance to talk about their concerns and give positive feedback. At the same time, they make sure the meeting remains a structured, productive meeting and doesn’t turn into just a moanfest. Ideally, your facilitator will be someone outside of your team so your whole team can contribute, but it’s not essential.
@@ -66,12 +64,11 @@ Working agreements could be that:
 
 ## Outcomes of a retrospective
 
-{:.left}
 ![Retrospective Sections](https://farm9.staticflickr.com/8453/8002453131_7fd9489dfd_d.jpg)
 
 During the discussion you will uncover some successes you can celebrate, as well as some problems that you can fix or things you can improve.
 
-Make a list of actions that will address these. Aim to have done them within the next sprint or iteration. 
+Make a list of actions that will address these. Aim to have done them within the next sprint or iteration.
 
 Some problems may take longer to fix, in which case you should try to make an action that will start the process of improving it by your next retrospective.
 
@@ -96,11 +93,11 @@ Each of the activities is timeboxed (has a set time it will run for), and it’s
 
 Build in about 10% ‘shuffle time’ to move between activities to make sure it doesn’t overrun.
 
-### Setting the scene: 00:00 to 00:05 (5 mins) 
+### Setting the scene: 00:00 to 00:05 (5 mins)
 
 Explain the scope, and if necessary, purpose. If your team don’t know each other and/or are shy, include brief introductions.
 
-### Actions from the previous retrospective: 00:05 to 00:10 (5 mins) 
+### Actions from the previous retrospective: 00:05 to 00:10 (5 mins)
 
 Make sure they've been completed. If any haven't, ask if::
 
@@ -110,7 +107,7 @@ Make sure they've been completed. If any haven't, ask if::
 {:.left}
 ![A Bad](https://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
 
-### The good: 00:10 to 00:20 (10 mins) 
+### The good: 00:10 to 00:20 (10 mins)
 
 Give your team around 10 minutes to write down all the things that went well in the previous 2 weeks on post-it notes.
 
@@ -118,7 +115,7 @@ If anonymity is important to encourage free expression, collect them in and add 
 
 Don’t allow this to develop into a discussion at this point – you just want to gather data.
 
-### Discussion: 00:20 to 00:30 (10 mins) 
+### Discussion: 00:20 to 00:30 (10 mins)
 
 Group the post-its into common themes. If there are too many to discuss in the time you have then have the team prioritise, eg by voting with stickers.
 
@@ -139,7 +136,6 @@ Again, group the post-its, prioritise if necessary, and discuss the main areas:
 * can we work out what we need to do to improve matters, or prevent specific things happening again?
 * can we draw out specific actions that someone here can take that will help?
 
-{:.left}
 ![Post-its](https://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
 
 ### Actions: 01:05 to 01:20 (15 mins)

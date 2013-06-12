@@ -5,7 +5,7 @@ subtitle: Sprints, stand-ups and other regular meetings
 category: agile
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
 status: draft
 phases:
@@ -25,7 +25,7 @@ Some common features of the agile development methods we’ve used at GDS.
 
 ##Sprints
 
-Sprints are part of an agile process that uses [Scrum](en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
+Sprints are part of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
 
 Sprints are about planning what you and your team will achieve and when you will achieve it by. Each member of your team should have a task to complete within each sprint.
 
@@ -88,7 +88,7 @@ This meeting can be hard to get right with large teams. Some people want to dig 
 
 ### Sprint Review
 
-This is a chance for team members to demonstrate the work they’ve produced during the sprint. You can include stakeholders in this meeting and also use it to inform stakeholders which user stories haven’t been completed and why. 
+This is a chance for team members to demonstrate the work they’ve produced during the sprint. You can include stakeholders in this meeting and also use it to inform stakeholders which user stories haven’t been completed and why.
 
 ### Retrospectives
 These meetings are important opportunities to iterate the team’s working process. [Learn how to run retrospectives](/service-manual/agile/running-retrospectives.html).
@@ -97,4 +97,4 @@ These meetings are important opportunities to iterate the team’s working proce
 User stories are essential to the development of your service and the user experience, so it’s important that you know how to write them well. [Learn how to write a user story](/service-manual/agile/writing-user-stories.html).
 
 ### Testing in Agile
-Testing in Agile is about constantly improving the quality of your service. [Learn about Agile testing methods](/service-manual/making-software/testing-in-agile.html).  
+Testing in Agile is about constantly improving the quality of your service. [Learn about Agile testing methods](/service-manual/making-software/testing-in-agile.html).
