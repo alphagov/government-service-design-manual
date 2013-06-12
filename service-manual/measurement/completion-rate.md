@@ -22,7 +22,7 @@ breadcrumbs:
 
 When users are unable to complete a digital transaction it can lead to avoidable contact through other channels. This leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
 
-Measuring end-to-end completion rates helps  to identify whether users have problems completing a transaction. Analysing the drop-out rate at each step of a transaction will pinpoint the specific processes that users fail to complete.
+Measuring end-to-end completion rates helps to identify whether users have problems completing a transaction. Analysing the drop-out rate at each step of a transaction will pinpoint the specific processes that users fail to complete.
 
 ## What you will be measuring
 
