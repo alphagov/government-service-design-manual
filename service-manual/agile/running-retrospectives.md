@@ -73,6 +73,7 @@ Make a list of actions that will address these. Aim to have done them within the
 Some problems may take longer to fix, in which case you should try to make an action that will start the process of improving it by your next retrospective.
 
 Actions should:
+
 * be concrete and measurable (eg ‘write 10 more unit tests for the redirector’, or ‘speak to Jamie about arranging a project retrospective’; not ‘write more tests’, or ‘we should understand the lessons learned from this project’)
 * have a date by which they should be completed
 * be assigned to a specific person (and not to ‘the team’)
@@ -99,7 +100,7 @@ Explain the scope, and if necessary, purpose. If your team don’t know each oth
 
 ### Actions from the previous retrospective: 00:05 to 00:10 (5 mins)
 
-Make sure they've been completed. If any haven't, ask if::
+Make sure they've been completed. If any haven't, ask if:
 
 * they still need to be done
 * why haven’t they been completed - set a new deadline if necessary, but don’t keep carrying actions over
@@ -132,6 +133,7 @@ Give the team around 15 minutes to write post-its for anything that went badly.
 ### Discussion: 00:45 to 01:05 (20 mins)
 
 Again, group the post-its, prioritise if necessary, and discuss the main areas:
+
 * can we work out why these things went badly?
 * can we work out what we need to do to improve matters, or prevent specific things happening again?
 * can we draw out specific actions that someone here can take that will help?

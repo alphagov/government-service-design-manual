@@ -35,7 +35,7 @@ If your software isn’t ready to be used then it’s not creating any real valu
 From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_development)
 
 > Test all iterations of your software, either through public user testing or automated testing (using separate software to perform the testing).
- 
+
 ## Deployment
 Automate your deployment process. Doing so means you are forced to fully understand it, and any issues with moving code from your [version control system](/service-manual/making-software/version-control.html) into production (when it’s gone live) can be dealt with early on.
 
@@ -57,6 +57,7 @@ Understand your end-to-end deployment pipeline. Knowing how it works and how eac
 * the automation of your build, deploy, test and release processes
 
 The deployment pipeline has 4 stages:
+
 * commit stage
 * shared sandbox environment
 * specialist testing environment
