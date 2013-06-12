@@ -60,9 +60,9 @@ Small teams of between 5 to 10 people are often more productive and predictable 
 
 A good team includes members with all of the skills necessary to successfully produce software. A fully functioning team has 3 main roles:
 
-* Product Manager - a role probably performed by the [Service manager](/service-manual/the-team/service-manager.html)) responsible for delivering return on investment, usually by creating products that users love
+* Product Manager – a role probably performed by the [Service manager](/service-manual/the-team/service-manager.html)) responsible for delivering return on investment, usually by creating products that users love
 * [Delivery Manager](/service-manual/the-team/delivery-manager.html) (aka Scrum Master or Project Manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
-* [Team members](https://www.gov.uk/service-manual/the-team/index.html) - self-organising and multi-disciplinary, they produce user stories, carry out the Product Manager’s vision and are responsible for estimating their output and speed
+* [Team members](https://www.gov.uk/service-manual/the-team/index.html) – self-organising and multi-disciplinary, they produce user stories, carry out the Product Manager’s vision and are responsible for estimating their output and speed
 
 Encourage your team members to pair up, as working together is beneficial. Two people working on one thing will:
 
