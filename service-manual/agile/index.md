@@ -62,7 +62,7 @@ In a sprint, team members aim to achieve goals within set timeframes. A sprint a
 
 Have daily team meetings (stand-ups). Stand-ups are an opportunity for members of your team to discuss: 
 
-* the previous days work
+* the previous day's work
 * what they plan to work on
 * any blockers to their progress
 
