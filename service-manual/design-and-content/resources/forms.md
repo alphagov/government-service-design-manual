@@ -25,7 +25,7 @@ breadcrumbs:
 
 Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html). 
 
-Browsers have default styling for forms usually shared with that of the operating system user interface (UI) making it familiar to users. These defaults are also highly accessible to all types of users so consideration should be given to ensure that styling added does not remove any of this functionality.
+Browsers have default styling for forms. This is usually shared with the styling of the operating system user interface (UI), making it familiar to users. Ensure that any styling you add does not remove any of the native, highly accessible functionality offered by these defaults.
 
 The [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML. This is more important than with other HTML elements as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
 
