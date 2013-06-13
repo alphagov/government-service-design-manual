@@ -121,6 +121,7 @@ Consolidate your ideas and options into a list of preferred options for assisted
 This will also help with forming your requirements for procuring this support from the private and voluntary sectors.
  
 Completing these steps means you’ll leave the alpha stage with:
+
 * an increased understanding of your users and their needs
 * options for your assisted digital support to test during the beta phase
  
