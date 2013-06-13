@@ -78,7 +78,7 @@ Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://ap
 
 ## Rationale for the government's position
 
-If there is a market for native apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps currently rarely justified.
+If there is a market for native apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps are currently rarely justified.
 
 We are [backing open standards](/service-manual/making-software/open-standards-and-licensing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
