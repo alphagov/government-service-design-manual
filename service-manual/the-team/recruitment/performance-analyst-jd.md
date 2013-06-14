@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Content designer job description
+title: Performance analyst job description
 category: the-team
 audience:
   primary:
