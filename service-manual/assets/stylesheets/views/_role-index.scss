@@ -7,6 +7,9 @@
     h1 {
       @include bold-48;
     }
+
+    border-bottom: none;
+    padding-bottom: 0;
   }
 
   .article-container {
@@ -129,5 +132,45 @@
   .all-guides {
     @include core-19;
     margin-bottom: 2em;
+  }
+
+  .role-section {
+    border-top: 5px solid $main-colour;
+    margin: 0 1em 2em 1em;
+
+    @include media(desktop) {
+      margin: 0 2em 2em 2em;
+    }
+
+    h2 {
+      @include bold-36;
+      margin: 1em 0 0.4em 0;
+    }
+
+    .description {
+      @include media(tablet) {
+        width: 33%;
+        float: left;
+      }
+    }
+
+    .link-list {
+      @include media(tablet) {
+        width: 67%;
+        float: left;
+      }
+
+      li {
+        @include media(tablet) {
+          width: 46%;
+          margin-left: 4%;
+          float: left;
+        }
+
+        a {
+          width: auto;
+        }
+      }
+    }
   }
 }
