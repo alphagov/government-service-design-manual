@@ -76,7 +76,7 @@ application server or database (provided by another team in your
 department) which runs on an Infrastructure as a Service platform
 (provided via contract with a commercial supplier) which relies on
 network connectivity and power from utilities (which you have no direct
-contract with). This can become quite complex in a Service Orientated
+contract with). This can become quite complex in a Service Oriented
 Architecture where you rely on other software applications and
 interfaces.
 
