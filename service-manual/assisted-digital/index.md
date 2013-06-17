@@ -22,6 +22,8 @@ Most of your users will be able to use new and redesigned services unaided, but 
 
 Assisted digital support might be provided in person, on the phone, or through other appropriate channels. Users will be given help to use the service, or someone will use it alongside them on their behalf.
 
+<img src="/service-manual/assets/images/ad-image.jpg" alt="Diagram showing the digital and assisted digital routes to a digital service" />
+
 You can read more about assisted digital in the publication '[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
 
 ##The users who need assisted digital support
