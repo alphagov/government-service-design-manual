@@ -5,12 +5,12 @@
   {% include _head.html %}
 
 </head>
-<body class="mainstream full-width {{ page.section }}">
+<body class="mainstream full-width {% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %} {{ page.section }}">
   <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
   {% include _header.html %}
 
-  <div id="wrapper" class="{% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %}">
+  <div id="wrapper">
 
     <section id="content" role="main" class="group">
 
@@ -21,7 +21,6 @@
 
   {% include _footer.html %}
 
-  {% include _analytics.html %}
-
+  {% include _scripts.html %}
 </body>
 </html>

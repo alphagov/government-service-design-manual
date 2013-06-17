@@ -32,7 +32,7 @@ Developers will be able to work directly on those services, but are also an impo
 
 Once a service is live the need for developers continues. There will always be technical optimisations that can be made -- faster and more responsive systems, acting to mitigate the risks of a constantly changing security environment -- but as you respond to new or more clearly understood user needs the software will need to adapt. As the policy and other context around a service changes the software may need to integrate with new systems or provide new features and a development team can help ensure that work is pro-active.
 
-## Skills and attributes:
+## Skills and attributes
 
 A great developer:
 
@@ -65,4 +65,4 @@ Read [guidance in the manual of particular interest to developers](/service-manu
 
 ## Job description
 
-See an [example of a developer job description](/service-manual/the-team/developer-jd.html) provided by GDS.
+See an [example of a developer job description](/service-manual/the-team/recruitment/developer-jd.html) provided by GDS.

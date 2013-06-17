@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Content designer job description
+title: Performance analyst job description
 category: the-team
 audience:
   primary:
@@ -19,7 +19,7 @@ breadcrumbs:
 
 ## Job description
 
-Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team.html), working to specify, collect and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
+Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team), working to specify, collect and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
 
 They support service managers by generating new and useful information and translating it into actions that will allow them to iteratively improve their service for users.
 
@@ -29,11 +29,11 @@ You will need to be confident in explaining technical concepts to senior civil s
 
 The main responsibilities of the post are to:
 
-* support the [service manager](/service-manual/the-team/service-manager.html) in ensuring that their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default.html)
+* support the [service manager](/service-manual/the-team/service-manager.html) in ensuring that their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default)
 * communicate service performance against key indicators to the Cabinet Office and other senior stakeholders within the department
 * ensure high quality analysis of departmental [transaction data](/service-manual/measurement/cost-per-transaction.html)
 * support the procurement of the [necessary digital platforms](/service-manual/making-software/analytics-tools.html) to support automated and real-time collection and presentation of data
-* share examples of best practice in digital performance management across government, contributing to the [Government Service Design Manual](/service-manual.html)
+* share examples of best practice in digital performance management across government, contributing to the [Government Service Design Manual](/service-manual)
 * identify delivery obstacles to improving transactional performance within departments and working with teams to overcome those obstacles.
 
 ## Personal Specification - Competencies / Skills 
@@ -102,4 +102,4 @@ SPECIALIST SKILLS
 **Essential**
 
 * Familiarity with web technologies an advantage
-* Familiarity with data analysis and visualisation tools an advantage: e.g. Google Analytics, Google Refine, Tableau etc.
+* Familiarity with data analysis and visualisation tools an advantage, eg Google Analytics, Google Refine, Tableau, etc.

@@ -21,12 +21,12 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital.html) support.
+Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital) support.
 
 For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you will want to bear in mind.
 
 ## Don't make paper forms unless you have to
-The most important thing to remember is that print forms should only be made when absolutely neccessary.
+The most important thing to remember is that print forms should only be made when absolutely necessary.
 
 For example, the legislation governing Lasting Powers of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a print form has to be part of the final service.
 
@@ -99,15 +99,15 @@ Get [an introduction to user research](/service-manual/users/introduction-to-use
 
 [Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
-Where specialist terms are unavoidable, or neccessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/writing-government-services.html) when working on the design.
+Where specialist terms are unavoidable, or necessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/design-and-content/writing-government-services.html) when working on the design.
 
-Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/user-satisfaction.html) in the process.
+Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
 
 ##Forms are not an alternative channel
 
 They complement the digital transaction, and should be easy to process by staff working to support the digital service.
 
-Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement.html).
+Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement).
 
 ## Templates and examples
 

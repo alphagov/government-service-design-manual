@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Continuous Delivery
+title: Continuous delivery
 subtitle: Making releases boring
 category: agile
 type: guide
@@ -22,49 +22,68 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-Continuous Delivery builds upon the iterative, adaptive process of delivering valuable software and testing assumptions about product direction. From the [Lean philosophy][], software that is not in production isn't delivering value, it should be treated as inventory piling up, and inventory is waste.
+Continuous delivery is about producing regular iterations of your software that’s ready to be released (deployed), though you don’t have to release these iterations to the public.
 
-[Agile][] development practices normally look to have a product in a deployable state at the end of each iteration. It does not necessarily follow that the product should be deployed at the end of each iteration. The important thing is having the capability to do so.
+Producing regular iterations makes it easier for you to:
 
-Understanding your end-to-end deployment pipeline has massive benefits for addressing [configuration management][] and the automation of your build, deploy, test and release processes. By automating your deployment process, you are forced to fully understand it and resolve early on any issues with getting code from your version control system into production. Automating the deployment early also means that it will be tested and bugs ironed out, so that [releases become frequent, low-risk][release regularly], almost boring events.
+* add improvements
+* fix bugs
+* test expectations about your end product
 
-If you treat long-term planning as an attempt to predict the future, then attempting to predict what features will be available for a production release slot in 6 months time is a somewhat redundant exercise. If instead, your process allows for deploying anything when it is ready, then release planning becomes a lot simpler. If a project needs to miss a release slot, then it can always be rescheduled for tomorrow or next week, rather than in 6 months, or perhaps in a year if the next slot is already full up.
+If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up - and stock is waste.
 
-Another advantage is being able to quickly respond to security patches or similar changes in underlying libraries / frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
+From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_development)
 
-## The deployment pipeline
+> Test all iterations of your software, either through public user testing or automated testing (using separate software to perform the testing).
 
-What happens to code between it being written by a developer, and deployed to production? We refer to this process as the **deployment pipeline**.
+## Deployment
+Automate your deployment process. Doing so means you are forced to fully understand it, and any issues with moving code from your [version control system](/service-manual/making-software/version-control.html) into production (when it’s gone live) can be dealt with early on.
 
-### The commit stage
+Automating it early also means that code will be tested and any bugs fixed so that [releases become frequent](/service-manual/making-software/release-strategies.html), low-risk, almost boring events.
 
-Whenever a developer checks into [version control][], a [suite of tests][testing in agile] is run against the latest version of the code. At this stage, any quick, easy-to-identify defects such as compile errors or unit test failures are caught. If the tests pass, the code progresses to the next stage.
+Don’t plan production release slots far in advance. You can’t be certain what will be ready in 6 months time.
 
-### Shared sandbox environment
+Make your release planning simpler - make sure it’s flexible enough that any feature or update to your software can be deployed when it’s ready. Then, if a feature needs to miss a release slot, it can easily be rescheduled for tomorrow or next week, rather than in 6 months, or more if the next slot is already full.
 
-The code is deployed to a shared [sandbox][] environment, where everyone involved in the project can observe it. The sandbox should be similar to production as far as is practical: for example, if production uses Postgres, the sandbox should also use Postgres and not another database such as MySQL or sqlite.
+Another advantage is being able to quickly respond to security patches or similar changes in underlying  libraries or frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
 
-Every commit is considered a potential candidate to be released into production. The sandbox environment is the first environment where the application is deployed and run. This is the first stage where it can be visually inspected for [quality][] by anybody on the team. The purpose is to identify any defect which means the application should not be deployed to production. If such a defect is found, this version of the code stops here; otherwise, it can proceed to further specialist testing environments.
+##The deployment pipeline
 
-### Specialist testing environments
+What happens to code between it being written by a developer and deployed to production is known as the deployment pipeline.
 
-There may be a need for other testing environments, to enable testing for specialist requirements such as [load and performance testing][], [penetration testing][], or [accessibility testing][]. How many environments are needed will depend on the requirements and constraints of individual projects.
+Understand your end-to-end deployment pipeline. Knowing how it works and how each element works together will have implications for:
 
-If code is determined to be of satisfactory quality, it can now proceed to the live production environment.
+* [configuration management](/service-manual/making-software/configuration-management.html) (how you maintain consistency with your product’s performance and functionality)
+* the automation of your build, deploy, test and release processes
 
-### Production environment
+The deployment pipeline has 4 stages:
 
-Once code has passed the commit stage, been deployed into the shared sandbox environment, had any necessary specialist testing run on it, it is considered suitable to go live. Deploying to production should be done in the same way as deploying to any other environment -- using the same scripts, same [configuration management][] tooling, and the same version of the code. This ensures that when code is released to production, you are not doing it for the first time; you are instead performing an operation which has been validated at each stage throughout the deployment pipeline.
+* commit stage
+* shared sandbox environment
+* specialist testing environment
+* production environment
 
-[Agile]: /service-manual/agile
-[Lean philosophy]: http://en.wikipedia.org/wiki/Lean_software_development
-[accessibility testing]: /service-manual/making-software/accessibility-testing.html
-[configuration management]: /service-manual/making-software/configuration-management.html
-[development environment]: /service-manual/making-software/development-environment.html
-[load and performance testing]: /service-manual/operations/load-and-performance-testing.html
-[penetration testing]: /service-manual/operations/penetration-testing.html
-[quality]: /service-manual/agile/quality.html
-[release regularly]: /service-manual/making-software/release-strategies.html
-[sandbox]: /service-manual/making-software/sandbox-and-staging-servers.html
-[testing in agile]: /service-manual/making-software/testing-in-agile.html
-[version control]: /service-manual/making-software/version-control.html
+###The commit stage
+When your developer checks into [version control](/service-manual/making-software/version-control.html) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile.html) should be run against the latest version of the code. Any quick, easy-to-identify defects, like [compile errors](http://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing), will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
+
+###Shared sandbox environment
+Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run and the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.
+
+Make the sandbox environment as similar to the production (live) version as far as is practical: eg, if production uses Postgres, the sandbox should also use Postgres and not another database like MySQL or sqlite.
+
+The purpose is to find any defects in the code. If a defect is found, stop the version of the code at this stage. If it passes the sandbox environment it can move on to further specialist testing environments.
+
+###Specialist testing environments
+You may need to perform additional testing for specialist requirements, like [load and performance testing](/service-manual/operations/load-and-performance-testing.html), [penetration testing](/service-manual/operations/penetration-testing.html), or [accessibility testing](/service-manual/making-software/accessibility-testing.html). The amount of environments you’ll need will depend on the requirements and conditions of your individual projects.
+
+When you are satisfied with the quality of the code move it to the live production environment.
+
+###Production environment
+
+Your code is ready to go live if it has:
+
+* passed the commit stage
+* passed the shared sandbox environment
+* passed any necessary specialist testing
+
+Deploy to production the same way as you deploy to any other environment – use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time – you’re performing a task that’s been validated at each stage throughout the deployment pipeline.

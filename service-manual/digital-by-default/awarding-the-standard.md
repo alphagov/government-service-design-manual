@@ -43,7 +43,7 @@ It also means that there is published audit trail of progress that can be used t
 
 While there are no fixed deadlines for meeting the standard, we expect that redesign or transformation of a service should take 18-24 months. As a result, having feedback throughout the process is really important, reducing the risk of lengthy projects going off-track.
 
-To enable this, and support an agile approach to design, progress against the standard will be monitored as part of existing [spending control processes](https://www.gov.uk/service-manual/agile/spending-controls.html).
+To enable this, and support an agile approach to design, progress against the standard will be monitored as part of existing [spending control processes](/service-manual/technology/spending-controls.html).
 
 Departments currently need [Cabinet Office approval for digital spending](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1). To simplify this process, a dedicated account manager will work with each department in order to help prioritise their projects.
 

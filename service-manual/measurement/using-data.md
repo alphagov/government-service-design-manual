@@ -30,7 +30,7 @@ The core KPIs ([cost per transaction](/service-manual/measurement/cost-per-trans
 This will allow you to measure a service's ability to meet those needs.
 
 ##Install and configure platforms
-While building your service you should make sure that appropriate analytics tools are being used to monitor the service, collecting the data neccessary to produce accurate and timely measurements.
+While building your service you should make sure that appropriate analytics tools are being used to monitor the service, collecting the data necessary to produce accurate and timely measurements.
 
 Guidance for [choosing and installing these packages is available within the manual](/service-manual/making-software/analytics-tools.html).
 

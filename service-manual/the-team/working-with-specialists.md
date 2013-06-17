@@ -27,14 +27,16 @@ When you have an idea of the service you are going to create, talk to your team 
 If not, you can hire individuals or companies to fill in the gaps of specialist skills.
 
 ##Individuals
+
 GDS can help you hire some roles. We have job descriptions for:
+
 * [delivery managers](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
 * [designers](https://www.gov.uk/service-manual/the-team/designer.html)
 * [developers](https://www.gov.uk/service-manual/the-team/developer.html)
 * [web ops](https://www.gov.uk/service-manual/the-team/web-operations.html)
 * [content designer](/service-manual/the-team/content-designer.html)
 
-Other descriptions will be made available. Please [contact the team](/service-manual/feedback.html) if you have particular descriptions in mind. 
+Other descriptions will be made available. Please [contact the team](/service-manual/feedback) if you have particular descriptions in mind. 
 
 GDS can give you some advice on certain candidates or interviews and setting contracts. 
 

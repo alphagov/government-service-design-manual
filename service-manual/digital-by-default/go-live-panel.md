@@ -17,11 +17,11 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-A go live panel will make the final decision on whether a service should be awarded [the standard](/service-manual/digital-by-default.html) and be launched. 
+A go live panel will make the final decision on whether a service should be awarded [the standard](/service-manual/digital-by-default) and be launched. 
 
 ## When does it meet and who is on it
 
-The panel will convene within 2-3 weeks of a request being made by the responsible [service manager](/service-manual/the-team/service-manager). It will be chaired by GDS, and include a [Digital Leader](/service-manual/the-team/digital-leader.html) and a service manager (not from the presenting department) on the panel. It will also include other independent experts if suitable and available. Other Digital Leaders and service managers will be free to attend as observers.
+The panel will convene within 2-3 weeks of a request being made by the responsible [service manager](/service-manual/the-team/service-manager.html). It will be chaired by GDS, and include a [Digital Leader](/service-manual/the-team/digital-leader.html) and a service manager (not from the presenting department) on the panel. It will also include other independent experts if suitable and available. Other Digital Leaders and service managers will be free to attend as observers.
 
 ## What will happen
 

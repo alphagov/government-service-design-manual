@@ -16,19 +16,25 @@ breadcrumbs:
 
 <div class="intro">
 
+  <img src="/service-manual/assets/images/DbD-kitemark.png" />
+
   <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
 
   <p>To do this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
 
-  <h2>Common questions</h2>
-  <ul>
-    <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
-    <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
-    <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
-  </ul>
+  <div class="common-questions">
+    <h2>Common questions</h2>
+    <ul>
+      <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
+      <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
+      <li><a href="/service-manual/digital-by-default/assessments-before-2014.html">How will services be assessed before 2014?</a></li>
+      <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
+    </ul>
 
   <h2>The criteria</h2>
+  </div>
+
 </div>
 
 
@@ -84,6 +90,7 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/making-software">Making software</a></li>
         <li><a href="/service-manual/operations">Operating a service</a></li>
+        <li><a href="/service-manual/technology">Technology guides</a></li>
       </ul>
     </div>
   </li>
@@ -148,7 +155,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li>No related guides yet</li>
+        <li><a href="/service-manual/design-and-content/print-forms.html">Printed forms</a></li>
       </ul>
     </div>
   </li>
@@ -177,6 +184,8 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
         <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
+        <li><a href="/service-manual/technology/culture-that-supports-change.html">Culture that supports change</a></li>
+
       </ul>
     </div>
   </li>
@@ -205,6 +214,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/making-software/analytics-tools.html">Analytics Tools</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -234,6 +244,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/user-satisfaction.html">User satisfaction</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -243,6 +254,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -252,6 +264,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/cost-per-transaction.html">Cost per transaction</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -261,6 +274,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/digital-takeup.html">Digital take-up</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
       </ul>
     </div>
   </li>
@@ -284,4 +298,5 @@ breadcrumbs:
   </li>
 </ol>
 
+<p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
 

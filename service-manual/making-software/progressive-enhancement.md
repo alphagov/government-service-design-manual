@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-When creating web pages, the only part of it that you can rely upon working is the HTML (and even that can fail, but without it there is no web page and everything else becomes moot). The attitude towards building for the web with this in mind is called [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement). Briefly, each extra layer (images, styling, behaviour, video, audio) of the page should be seen as optional. If you build pages with the idea that anything other than HTML that you add is optional, you will create a better and more robust web page.
+When creating web pages, the only part of it that you can rely upon working is the HTML (and even that can fail, but without it there is no web page and everything else becomes moot). The attitude towards building for the web with this in mind is called [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement). Briefly, each extra layer (images, styling, behaviour, video, audio) of the page should be seen as optional. If you build pages with the idea that parts other than HTML are optional, you will create a better and more robust web page.
 
 ## First, just make it work
 
@@ -40,7 +40,7 @@ A common misunderstanding is that designing sites to work without CSS, JavaScrip
 
 There are many scenarios where the extra layers can fail to load, including temporary network errors and DNS lookup failures. The server that the resource is found on could be overloaded or down, and fail to respond in time or at all.
 
-On top of failures there is deliberate filtering of the Internet. Many large institutions (eg. banks and financial institutions, some government departments) have corporate firewalls that block, remove or alter content from the Internet. Mobile network providers have been known to resample images and otherwise alter content in order to make the load times faster and reduce bandwidth consumed. Also some antivirus and personal firewall software will alter and/or block content.
+On top of failures there is deliberate filtering of the Internet. Many large institutions (eg banks and financial institutions, some government departments) have corporate firewalls that block, remove or alter content from the Internet. Mobile network providers have been known to resample images and otherwise alter content in order to make the load times faster and reduce bandwidth consumed. Also some antivirus and personal firewall software will alter and/or block content.
 
 And, of course, there are people who do turn off features in their browsers deliberately. We should respect their decision and still provide them with a usable and useful service.
 
@@ -52,9 +52,9 @@ Adding an image to a page requires suitable alternative text (and may also need 
 
 Styling cannot be the only method by which information is shared. "Text in bold" is not enough when you can't differentiate bold from normal text. "Red items are required" is not enough when you don't have the colours applied, cannot see the colours or cannot distinguish them because of colour blindness.
 
-Video and audio without transcripts and/or subtitles are unsuitable for hearing impaired people. Information appearing in a video in a visual only form (eg. a question then answered by the people on screen in an interview) is unsuitable for people with visual impairments.
+Video and audio without transcripts and/or subtitles are unsuitable for hearing impaired people. Information appearing in a video in a visual-only form (eg a question then answered by the people on screen in an interview) is unsuitable for people with visual impairments.
 
-Making an interactive element that requires a mouse (eg. a hover effect, a drag and drop operation) is unusable by someone who only uses a keyboard or a touch-only device such as a smartphone or tablet.
+Making an interactive element that requires a mouse (eg a hover effect, a drag and drop operation) is unusable by someone who only uses a keyboard or a touch-only device such as a smartphone or tablet.
 
 ## Further reading
 

@@ -76,7 +76,7 @@ Some transactional services have parts which are digital and others which are no
 
 In these situations the second online part of the transaction should be treated as a resumption of the first part. Where it is not possible to match the two, the discrete digital parts of the service should be treated as separate tasks, with the measure completion rate measured for each. 
 
-Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (e.g from surveys, diary studies, focus groups).
+Offline parts of the process can still be measured but this is likely to be done through qualitative feedback (eg from surveys, diary studies, focus groups).
 
 ## When to measure completion rate
 
@@ -109,6 +109,6 @@ This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-nee
 
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The focus of the service team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. End to end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](https://www.gov.uk/performance) and will be publicly available from the point of launch.
+The focus of the service team’s activities will be to continually improve this by monitoring where users are dropping out of the transaction process and testing out new designs for those pages. End to end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](/service-manual/measurement/performance-platform.html). and will be publicly available from the point of launch.
 
 Further usability should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made. 

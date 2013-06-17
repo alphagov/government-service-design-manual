@@ -4,8 +4,8 @@ title: Writing user stories
 subtitle: How to write a useful user story
 category: agile
 type: guide
-audience: 
-  primary: 
+audience:
+  primary:
   secondary: service-managers, designers, delivery-managers, developers
 status: draft
 phases:
@@ -22,65 +22,126 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-User stories are an essential part of the agile toolkit, a way of organising work into manageable chunks that each deliver concrete value, which may be then discussed and prioritised independently of each other. User stories only work in the context of an agile team with embedded user representatives.
+A user story briefly explains:
 
-## Story cards
+* the person using the service (actor)
+* what the user needs the service for (narrative)
+* why the user needs it (goal)
+
+User stories are an essential part of the agile toolkit. They’re a way of organising your work into manageable chunks that create tangible value, and can be discussed and prioritised independently.
+
+User stories are a technique which relies on other agile practices, including continuous delivery, and face-to-face communication with user representatives. It is not sufficient to simply 'set' a user representative: that user representative needs to be in the same place as the team and available to the team a sufficient amount of time.
+
+User stories can be added to a product backlog at any point in the sprint cycle by any person in the team. It's up to the product owner to coordinate and prioritise them, and to select stories for each sprint at the start of each sprint cycle.
+
+Discuss the stories ahead of sprint planning with:
+
+* relevant team members
+* subject matter experts
+* stakeholders
+
+## User story cards
 
 {:.left}
 ![A user story index card](https://farm9.staticflickr.com/8372/8358344190_f48b88c254_n.jpg)
 
-A user story is represented by a story card with a title and a few lines of text.
+A user story is represented through a story card that has a title and a few lines of text.
 
-Story cards can be virtual as well as actual cards. On a large product/service you're likely to keep your stories in a digital format, and then turn them into physical cards as part of sprint planning.
+Your story cards can be virtual, as well as actual cards. On a large product/service keep your stories in a digital format, and then turn them into physical cards as part of sprint planning.
 
-Story cards follow a standard structure – title, actor, narrative and goal. They do not capture every detail. Rather, they are a promise of further discussion at the appropriate time.
+When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
+
+You might want to include a list of acceptance criteria. These should be an 'aid memoire' for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+
+If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
+
+### Structure
+Story cards follow a standard structure:
+
+* title
+* actor
+* narrative
+* goal
+
+They don’t capture every detail, but you should have a more in-depth discussion about a user story at the appropriate time.
 
 {:.hide-headers}
 |-------------------------------------------------------------------------------------------
-| Name    | 
+| Name    |
 |-------------------------------------------------------------------------------------------
 | **Actor:**     | As a      | journalist
 | **Narrative:** | I want to | see contact information relating to the news article I am reading
 | **Goal:**      | So that   | I can get directly in touch with the press office about it
 |-------------------------------------------------------------------------------------------
 
-
-
 ## Working outside-in using goals
 
-Building useful software systems is hard. How can we make sure we're solving the right problem? Developers love solving problems and playing around with technology, so it can be tempting to dive in to solutions before really understanding the problem. 
+Building useful software systems is hard, so you need to make sure you’re solving the right problem.
 
-Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If we dive into the solution without a good understanding of our users, we risk solving the wrong problem, or coming up with solutions which don't really work for our users in the real world. That's why the most important part of a user story is the **GOAL**. 
+Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If you dive into the solution without a good understanding of your users, you risk solving the wrong problem, or coming up with solutions which don’t really work for your users in the real world. That’s why the most important part of a user story is the goal.
 
-You can also use this goal to help you decide whether the story is "done" or delivered. ie Does the work that's been done meet the goal? 
+###Goal
 
-As a service manager writing stories with your development team, always start by thinking about and discussing your users' goals. Why do they want to use your service? What are they trying to achieve? What need has motivated them to seek out your service? In what context do they use it? At home? At work? On a mobile phone? Whilst caring for a child? How often? Suzanne and James Robertson have excellent advice on this in Mastering the Requirements Process ([reference 1](#references)).
+Use this to help you decide whether the story is “done” or delivered, ie does the work meet the goal of the user?
 
-Being specific about the **ACTOR** can help you to break down interactions into logical chunks. Sometimes the actor will be a user of your service. Sometimes the actor will be an administrator, technician or manager within your organisation. Hopefully you already have a good understanding of your users from preliminary project work or existing research. If not, make sure you take the time to develop that understanding.
+When writing stories with your development team, always start by thinking about and discussing your users’ goals:
 
-Finally the narrative should serve as a reminder of the main flow of interaction which needs to be addressed. However the story card does not need to spell out every detail.
+* why do they want to use your service?
+* what are they trying to achieve?
+* what need has motivated them to seek out your service?
+* in what context do they use it - at home/work/on a mobile phone/whilst caring for a child?
+* how often do they use it?
 
-## Taking a rain check &mdash; the promise of a conversation
+Suzanne and James Robertson have excellent advice on this in the book *Mastering the Requirements Process* (3rd edition).
 
-[Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html). Face-to-face is faster and more accurate than written documentation and allows developers to build up a detailed mental model of the user goals, workflows, constraints and all of the myriad issues which must be taken into account when building a software system. 
+###Actor
+Being specific about the actor will help you to break down interactions into logical chunks.
 
-The story card is just a placeholder, a promise to have a conversation when the time is right. We can use the story card and some brief initial conversations to estimate a story and fit it into an agile backlog. When development work actually starts the users or user proxy can be consulted to fill out the details. The user story is the sum of all of these conversations, sketches and whiteboard diagrams, not just the card. These conversations need never be written down or archived, instead they are translated directly into automated tests and working code.
+Sometimes the actor will be a user of your service, or the actor will be an administrator, technician or manager within your organisation.
 
-Using user stories in this way allows us to avoid 'analysis paralysis', the painful condition of trying to speculatively detail some far-future goal.
+Make sure you already have a good understanding of your users from your initial project work or existing research. If not, take the time to develop that understanding.
+
+###Narrative
+Use this as a reminder of the main interaction that needs to be addressed as part of the user experience. Remember that the story card does not need to spell out every detail.
+
+## Taking a rain check – the promise of a conversation
+
+[Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html).
+
+Face-to-face is:
+
+* faster
+* more accurate than written documentation
+* allows developers to build up a detailed mental model of the user goals, workflows, constraints, and the countless issues which must be taken into account when building a software system
+
+The story card is just a placeholder, a promise to have a conversation when the time is right. Use the story card and some brief initial conversations to estimate the amount of time a story needs to be completed and then put it into an agile backlog.
+
+When development work actually starts, consult the users or user representative to fill out the story details. A user story is the sum of all of these conversations, sketches and whiteboard diagrams - not just the card. You don’t need to write down or archive your conversations, but translate them directly into automated tests and working code.
+
+Using user stories in this way allows you to avoid ‘analysis paralysis’, the painful condition of trying to guess the details of some far-future goal.
+
+## Acceptance criteria in user stories
+
+Acceptance criteria can be used to determine when a story is done. These follow a conversation between developer and user or user representative and are considered before coding begins.
+
+Only include these on the back of the story card if the team finds them useful for recording user assumptions they might later forget. Sometimes writing acceptance criteria on the story card is useful where the user or user representative is not immediately available but is no substitute at all for face-to-face conversation.
 
 ## Stories only work in an agile team
 
-User stories are dependent on regular face-to-face communication between developers and user representatives. Your service manager and other user representatives need to be available to developers every day, and have sufficient time to think through and answer questions. Don't underestimate how time-consuming this work can be!
+The success of a user story is dependent on regular face-to-face communication between developers and users or user representatives.
 
-## Where stories come from
-Stories can come from many places, but the most common sources include,
+Your service manager and other user representatives need to be available to developers every day, and have enough time to think through and answer questions. Don’t underestimate how time-consuming this work can be!
+
+## How to get user stories
+
+Stories can come from many places, but the most common sources include:
 
 * story writing workshops - more commonly at the start of a project, the development team and stakeholders will get together to write stories
-* user interviews with real users - ideally, you will set up a user panel to which the dev team have ongoing access
-* user proxies embedded within your team - this may include the service manager or product owner
+* user interviews with real users - ideally, you will set up a user panel which the development team have ongoing access to
+* user representatives embedded within your team - this may include the service manager or product owner
 * observation - watch real users using your service
 
-See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/system/asset/file/259/User-Stories-Applied-Mike-Cohn.pdf).
+See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
 
 ## References
 

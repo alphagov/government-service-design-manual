@@ -16,11 +16,11 @@ breadcrumbs:
 
 Service teams moving through the development process will want to make sure that users and stakeholders know about any changes to how they interact with government transactions.
 
-As many such redesigns are still in the early stages, guidance about communicating is still evolving.
+As many such redesigns are still in the early stages, guidance about talking about them is still evolving.
 
 In the meantime, you can read about:
 
 * [using blogs to report on a service's progress](/service-manual/communications/blogs.html)
-* how [channel shift](/service-manual/measurement/channel-shift.html) will be measured for every service
-* engaging with [users during development](/service-manual/users/user-research.html)
-* talking to stakeholders to anticipate the needs of [assisted digital users](/service-manual/assisted-digital.html)
+* how [digital take-up](/service-manual/measurement/digital-takeup.html) will be measured for every service and how to [increase digital take-up](/service-manual/communications/increasing-digital-takeup.html)
+* engaging with [users during development](/service-manual/users/user-research)
+* talking to stakeholders to anticipate the needs of [assisted digital users](/service-manual/assisted-digital)

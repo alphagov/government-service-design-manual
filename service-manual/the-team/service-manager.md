@@ -36,7 +36,7 @@ These Service Managers will:
 * be accountable for the quality and usage of their service, and able to iterate the service based on user feedback at least every month
 * be able to lead effectively on the change management and process re-engineering required to implement successful services
 * have the digital literacy to engage with technical staff and suppliers to define the best system and platform configurations to achieve business/user objectives
-* encourage the maximum possible take-up of their digital service by effective marketing, and specify/manage the requirements for [assisted digital](/service-manual/assisted-digital.html) activity to supplement this
+* encourage the maximum possible take-up of their digital service by effective marketing, and specify/manage the requirements for [assisted digital](/service-manual/assisted-digital) activity to supplement this
 * oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the digital by default service standard, identifying and mitigating risks, and be empowered to deliver on all aspects
 * actively participate in networking with other Service Managers inside and outside government, and share good practice and learning
 
@@ -46,13 +46,13 @@ This will depend on the scale of the service you are working on.  In some cases 
 
 ## Help with hiring service managers
 
-The [government digital strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be re-designed, operated and improved by a skilled, experienced and empowered Service Manager.
+The [government digital strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be redesigned, operated and improved by a skilled, experienced and empowered Service Manager.
 
 Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 
 ## Sample job description
 
-An [example job description for this role](/service-manual/the-team/service-manager-jd.html) provided by GDS.
+An [example job description for this role](/service-manual/the-team/recruitment/service-manager-jd.html) provided by GDS.
 
 ## Guidance
 

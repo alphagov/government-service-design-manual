@@ -5,7 +5,7 @@ subtitle: Sprints, stand-ups and other regular meetings
 category: agile
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
 status: draft
 phases:
@@ -21,58 +21,80 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-Here are some of the common features of the agile development methods we've used at GDS.
+Some common features of the agile development methods we’ve used at GDS.
 
-## Sprints
+##Sprints
 
-Sprints are the rhythmic foundation of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)). They usually last 1-2 weeks.
+Sprints are part of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
 
-Factors in deciding the length of your sprints include:
+Sprints are about planning what you and your team will achieve and when you will achieve it by. Each member of your team should have a task to complete within each sprint.
 
-* how long is the project? If it’s only a couple of months then shorter sprints give you greater flexibility and visibility of what’s going on and an opportunity to iterate and adaptively plan
-* shorter sprints allow teams that are new to Scrum get used to the regular meeting formats and familiarise themselves with the process. For those teams that a familiar with Scrum then moving to longer sprint cycles reduces the overhead of Sprint Planning, Review and [Retrospectives](/service-manual/agile/running-retrospectives.html)
-* if you choose to release to production only at the end of each sprint (it’s optional, but perfectly OK), then how often do you want to ship production ready code?
+Each sprint is of equal length and usually lasts between 1 to 2 weeks, but you can use longer or shorter sprints in your project.
 
-Teams commonly start with a Sprint 0, which is used to get the development and working environments setup, agree some of the design principles (technical, product, interaction, content) and prepare the backlog for the first sprint.
+When deciding the length of your sprints, consider:
 
-Note: There are other agile methodologies that do not rely on sprinting such as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)). However it’s common for teams to start with Scrum and sprint.
+* the length of the project – use shorter sprints for shorter projects, giving you greater visibility of what’s going on, the opportunity to iterate and the flexibility to adaptively plan
+* team members that are new to the Scrum process:
+    * shorter sprints means those that are new to Scrum get used to the regular meeting formats and processes faster
+* how often you release code to production  - if it’s only released at the end of each sprint decide how often do you want to ship production-ready code
+
+Start the process with a sprint 0. This sprint is about preparing your team for the first sprint. Use a sprint 0 to:
+
+* get the development and working environments set up
+* agree some of the design principles (technical, product, interaction, content)
+* prepare the product backlog for the first sprint
+
+While there are other agile methodologies that don’t rely on sprinting, such as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common for teams to start with scrum and sprint.
 
 ## Standard meetings
 
+Agile processes have 4 different types of regular meetings:
+
+* daily stand-ups
+* sprint planning
+* sprint reviews
+* retrospectives
+
 ### Daily Stand Up
 
-A daily meeting with all of the team. It should take no more than 15 minutes and typically takes less time. It’s best if you do it standing up, in a semi-circle in front of the project wall. This helps keep it short and allows participants to point at story cards on the wall to keep things on topic.
+Have daily meetings with your team lasting no more than 15 minutes. It’s best if you do it standing up, in a semicircle, in front of your project wall. This will help you to keep it short and allows your team members to point at user story cards on the wall to keep things on topic.
 
-The normal format is each person answers the following 3 questions:
+Each member of your team should answer:
 
-* what I worked on/delivered yesterday
+* what I worked on/produced yesterday
 * what I am working on today (and help I might need)
-* what’s blocking me (ie stopping me delivering a story card)
+* what’s blocking me (ie stopping me from finishing a user story card)
 
-(It sometimes helps to have an object that you (gently) throw randomly to the a person in the stand-up to signify they should speak next. It keeps people on their toes, the randomness stops it feeling too repetitive and allows the last person that speaks to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this, it’s just something to experiment with.)
+To stop your meetings from becoming repetitive, have an object that you (gently) throw to someone to signify they should speak next. Pick people at random - it keeps people on their toes and lets the person speaking to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this - it’s just something to experiment with.
 
-It’s OK to ask a waffler to wind up. If people try to solve issues within the stand up then team members can call time on the conversation and decide to convene a huddle after the stand-up to discuss in a smaller group. I think it’s a sign of a good, constructive stand up if you spin up a couple of ad-hoc huddles afterwards and I believe it shows people are getting something out of the meeting.
+Ask people to keep it brief and don’t be afraid to remind them of this. If people try to solve issues during the stand-up, stop the conversation and arrange a huddle after the stand-up to discuss in a smaller group.
 
 ### Sprint planning
 
-Sprint planning is done at the start of each sprint. It requires stories to have been written in advance with acceptance criteria.
+Sprint planning is done at the start of each sprint. It requires user stories to have been written in advance with acceptance criteria.
 
-It’s the Product Owners job to read out the stories and explain the acceptance criteria in priority order. It is the job of the team to understand the story and acceptance criteria and agree the number of stories they will commit to within each sprint and agree the tasks needed to complete it.
+The Product Owner should read out the stories and explain the acceptance criteria in order of priority. It’s the job of the team to:
 
-There is a good description of this meeting on the [Agile Learning Labs website](http://www.agilelearninglabs.com/resources/scrum-introduction/) and how it has two parts: the “what we will do?” and the “how we will do it?”
+* understand the story and acceptance criteria
+* agree on the number of user stories they’ll aim to achieve within each sprint
+* agree on the tasks needed to complete it
 
-With bigger teams this can be a hard meeting to get right. Some people want to dig deep and question every story, others want to keep moving and don’t want to go into detail. Persevere! it’s an important part of the sprint and like Marmite, love or hate it, it’s good for you.
+A good description of sprint planning is on the [Agile Learning Labs website](http://www.agilelearninglabs.com/resources/scrum-introduction/), explaining its 2 parts:
 
-### Story time
+* what we will do?
+* how we will do it?
 
-Some teams choose to write or refine their stories at a single, set time within their sprint cycle, others choose to do it over a couple of sessions. It’s up to you, but don’t miss it. It’s vital that you have good stories and there has been constructively discussed with relevant team members, subject matter experts and stakeholders in good time, ahead of sprint planning.
-
-Make sure stories are well formed (ie don’t skip the ‘So that...’ part because it’s hard), have a good, sensible list of acceptance criteria that supplement your teams’ standing criteria for ‘definition of done’ and are estimated. If stories are too big then split them into smaller stories. They stand more chance of delivering shippable code.
+This meeting can be hard to get right with large teams. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere! it’s an important part of the sprint and like Marmite, love or hate it, it’s good for you.
 
 ### Sprint Review
 
-There needs to be a moment at the end of the sprint where the team get to demonstrate the work they have delivered. The whole team needs to feel on the hook for delivery.
+This is a chance for team members to demonstrate the work they’ve produced during the sprint. You can include stakeholders in this meeting and also use it to inform stakeholders which user stories haven’t been completed and why.
 
-### Sprint Retrospective
+### Retrospectives
+These meetings are important opportunities to iterate the team’s working process. [Learn how to run retrospectives](/service-manual/agile/running-retrospectives.html).
 
-These meetings are important opportunities to iterate the team's working process. [Read detailed guidance about how to run retrospectives](/service-manual/agile/running-retrospectives.html).
+### User stories
+User stories are essential to the development of your service and the user experience, so it’s important that you know how to write them well. [Learn how to write a user story](/service-manual/agile/writing-user-stories.html).
+
+### Testing in Agile
+Testing in Agile is about constantly improving the quality of your service. [Learn about Agile testing methods](/service-manual/making-software/testing-in-agile.html).

@@ -6,7 +6,7 @@ category: users
 type: guide
 audience:
     primary: user-researchers, service-managers
-    secondary: designers, developers,
+    secondary: designers, developers, chief-technology-officers
 status: draft
 phases:
   - discovery
@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-Deep understanding of your users needs is crucial for building a successful digital service.
+Deep understanding of your users' needs is crucial for building a successful digital service.
 
 ## Defining user needs
 
@@ -45,7 +45,7 @@ This is especially true of a government website such as [GOV.UK](https://www.gov
 - it’s something that people can do or it’s something people need to know before they can do something that’s regulated by/related to the government
 - it’s something the government provides, does or pays for
 - it’s inherent to a person’s or an organisation’s rights and obligations
-- it’s straightforward advice that helps people to comply with their statutory obligations (eg. what records you should keep for your HMRC tax return) or provides certain kinds of advice and support to businesses, but excludes general life or business advice that is provided by third parties
+- it’s straightforward advice that helps people to comply with their statutory obligations (eg what records you should keep for your HMRC tax return) or provides certain kinds of advice and support to businesses, but excludes general life or business advice that is provided by third parties
 
 Similar criteria may help you determine which needs you build a service to meet.
 

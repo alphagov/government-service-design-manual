@@ -17,7 +17,7 @@ breadcrumbs:
 
 The right team needs to be in place to deliver a digital by default service. Teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products. 
 
-They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is re-designing and running, and the extent to which each will be delivered in house.
+They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is redesigning and running, and the extent to which each will be delivered in house.
 
 ## Service managers
 
@@ -52,7 +52,7 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 
 * a [service manager](/service-manual/the-team/service-manager.html) (the 'product owner')
 	* probably supported by a product manager 
-	* possibly supported by one or more performance analysts ([job description for this role](/service-manual/the-team/performance-analyst-jd.html)) 
+	* possibly supported by one or more performance analysts ([job description for this role](/service-manual/the-team/recruitment/performance-analyst-jd.html)) 
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
 * a tech lead
 * one or more [designers](/service-manual/the-team/designer.html)
@@ -60,9 +60,9 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 * one or more [content designers](/service-manual/the-team/content-designer.html)
 * the support of a technical architect
 * the support of some [web ops expertise](/service-manual/the-team/web-operations.html)
-* the support of some user research expertise ([job description for this role](/service-manual/the-team/user-researcher-jd.html)) 
+* the support of some user research expertise ([job description for this role](/service-manual/the-team/recruitment/user-researcher-jd.html)) 
 
-The team will also have a shared understanding of the [accessibility needs](/service-manual/the-team/accessibility.html) of a service's users.
+The team will also have a shared understanding of the [accessibility needs](/service-manual/the-team/accessibility.html) and possible [assisted digital](/service-manual/assisted-digital) needs of a service's users.
 
 ### Working with delivery teams outside of government
 

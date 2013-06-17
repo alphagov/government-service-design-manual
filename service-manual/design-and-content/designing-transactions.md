@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Content and design
-    url: /service-manual/content-and-design
+    title: Design and content
+    url: /service-manual/design-and-content
 ---
 
 ## What is a transaction?
@@ -29,7 +29,7 @@ It's an exchange between two or more parties.
 For example, when someone applies for a passport they exchange information and money for the right to travel.
 
 {:.pad}
-!['Diagram showing 'applying for a passport' transaction'](designing-transactions/passport-transaction.png)
+!['Diagram showing 'applying for a passport' transaction'](/service-manual/assets/images/designing-transactions/passport-transaction.png)
 
 A service is made up of a collection of related or connected transactions.
 
@@ -40,7 +40,7 @@ Most digital transactions take the form of a dialogue between the user and a sys
 The dialogue between a user and a system can be realised in different ways. It might resemble a verbal conversation, with the system asking questions and the user answering them. It might be more visual, with the user querying the system by interacting with a map or diagram.
 
 {:.pad}
-!['A transaction as a verbal exchange'](designing-transactions/transaction-dialogue.png)
+!['A transaction as a verbal exchange'](/service-manual/assets/images/designing-transactions/transaction-dialogue.png)
 
 Either way, you'll need to decide what kind of interface best fits your transaction and how to structure it. It can help people understand how to use your service if you adopt an appropriate design metaphor for your interface.
 
@@ -74,7 +74,7 @@ For example, on a web site, you might choose to have one section per page, or mu
 All sections are positioned on a single page.
 
 {:.left}
-![Diagram showing all sections on a page](designing-transactions/one-page.png)
+![Diagram showing all sections on a page](/service-manual/assets/images/designing-transactions/one-page.png)
 
 #### **The good**
 
@@ -97,7 +97,7 @@ All sections are positioned on a single page.
 
 Each section goes on it's own page.
 
-![Diagram showing each section on it's own page](designing-transactions/wizard.png)
+![Diagram showing each section on it's own page](/service-manual/assets/images/designing-transactions/wizard.png)
 
 #### **The good**
 
@@ -122,7 +122,7 @@ Each section goes on it's own page.
 
 All sections on a single page, but each new section only appears once the previous section has been completed.
 
-![Diagram showing an accordion form](designing-transactions/accordion-3.png)
+![Diagram showing an accordion form](/service-manual/assets/images/designing-transactions/accordion-3.png)
 
 #### **The good**
 
@@ -149,7 +149,7 @@ Within this hybrid option there are still some important design decisions to mak
 
 For more complicated transactions, some combination of the other options might be your best bet.
 
-![Diagram showing a hybrid transaction](designing-transactions/hybrid.png)
+![Diagram showing a hybrid transaction](/service-manual/assets/images/designing-transactions/hybrid.png)
 
 Again, done well this can give you the benefits of both the single page and wizard approaches. It also allows you to create a sense of rhythm to the overall flow, which can help people to understand when they have moved into a different part of the transaction, and break up the monotony of filling in forms.
 
@@ -185,7 +185,7 @@ Leverage the context of the surrounding elements
 : "I'm on the address page, I must be being asked for an address"
 
 Use familiar language
-: eg. 'Registration number' rather than 'Vehicle Registration Mark'
+: eg 'Registration number' rather than 'Vehicle Registration Mark'
 
 
 Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
@@ -214,8 +214,8 @@ Be honest about what you're offering users, and what you're not offering them. I
 * Any costs involved
 * Any waiting periods or delays
 * Any uncommon or hard-to-find infomation they'll need to provide
-* Any constraints on who can complete the transaction (age, nationality etc.)
-* Any equipment that will be required (eg. a printer)
+* Any constraints on who can complete the transaction (age, nationality etc)
+* Any equipment that will be required (eg a printer)
 * Any non-digital parts of the transaction
 
 Use common sense though. Don't try to make everyone to read a page of terms and conditions before they start (they won't).

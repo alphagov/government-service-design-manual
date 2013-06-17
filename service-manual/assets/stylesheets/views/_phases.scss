@@ -2,56 +2,24 @@
 // PHASES PAGE
 //
 .phases {
+ .meta-phases{
+  display: none;
+ }
 
-  article .inner{
-    padding-right: 0;
-  }
-
-
-   .phases-intro {
-
-    p{
-      //@include core-24;
-    }
-
-    @include media(tablet) {
-      width: 50%;
-      float: left;
-    }
-
-    .inner {
-      padding: 0 5em 0 0;
-      margin-bottom: 1em;
-
-      @include media(desktop) {
-        margin-bottom: 2em;
-      }
-    }
-  }
-
-  .timeline {
-    @include media(tablet) {
-      width: 50%;
-      float: right;
-    }
-
-    .inner {
-      padding: 0 1em;
-      margin-bottom: 4em;
-
-      @include media(desktop) {
-        padding: 0 4em 0 0;
-        margin-bottom: 2em;
-        margin-top: -3em;
-      }
+  .phase-nav{
+    margin: 3em 0;
+    padding: 0;
+    li{
+      list-style-type: none;
+      padding-left: 0;
     }
   }
 }
 
 // Phases
 .phases-list {
-  list-style: none;  
-  @include ie-lte(7) { 
+  list-style: none;
+  @include ie-lte(7) {
     list-style-image: none;
   }
   padding: 0;
@@ -151,12 +119,6 @@
   .link-list {
     h3 {
       margin-top: 1em;
-    }    
+    }
   }
-}
-
-.related-guides{
-  border-top: 5px solid $main-colour;
-  margin-top: 2em;
-  padding-top: 1em;
 }
