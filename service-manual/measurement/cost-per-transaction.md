@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Measuring cost per transaction
-subtitle: The total cost to government of each transaction
+subtitle: Work out the total cost of each transaction
 category: measurement
 type: guide
 audience: 
@@ -24,27 +24,29 @@ Cost per transaction is an important measure of a service’s efficiency. As ser
 
 ## What you will be measuring
 
-Cost per transaction is a measure of the total cost to the government of providing each completed transaction.
+Cost per transaction is about how much it costs government to provide each completed transaction.
 
-You will also want to measure the difference in the cost of the transaction through each available channel. Understanding these costs will help you to accurately forecast savings and build a strong business case for making services digital by default.
+Measure the difference in the cost of the transaction through each available channel. Understanding these costs will help you to accurately forecast savings and build a strong business case for making services digital by default.
 
 ## How to measure cost per transaction
 
-The *average* cost per transaction is calculated as the total cost of providing the service divided by the total number of completed transactions.
+1.    Work out the total cost of providing the service.
+2.    Divide the total cost of providing the service by the total number of completed transactions.
 
 The total cost includes all fixed and variable costs of the transaction through a given channel, including overheads. It does not include start up costs.
 
-Where resources (eg call centres) are shared with other services, costs should be apportioned. For example, if half of all calls received relate to a specific service, then 50% of the call centre costs should be apportioned to that service.
+Where resources (eg call centres) are shared with other services, costs should be split appropriately. For example, if half of all calls received relate to a specific service, then assign 50% of the call centre costs to that service.
 
 ### Cost per digital transaction
 
-The cost per *digital* transaction is the total cost of providing the digital service divided by the total number of transactions completed digitally, including [assisted digital](/service-manual/assisted-digital) transactions.
+1.    Work out the total cost of providing the digital service
+2.    Divide the total cost by the total number of transactions completed digitally, including [assisted digital](/service-manual/assisted-digital) transactions.
 
-Where processes and costs are common to more than one channel (eg processing wet signatures for passports, or printing driving licences), they should be apportioned. For example, if half of all transactions are completed digitally, then 50% of the common costs should be apportioned to the digital channel.
+Where processes and costs are common to more than one channel (eg processing wet signatures for passports, or printing driving licences), split costs appropriately. For example, if half of all transactions are completed digitally, then assign 50% of the common costs to the digital channel.
 
-## What costs should be included
+## Costs to include
 
-The full cost of the transaction should include:
+In the full cost of the transaction, include:
 
 * accommodation, including capital charges for freehold properties
 * fixtures and fittings
@@ -57,23 +59,23 @@ The full cost of the transaction should include:
 * raw materials and stocks
 * research and development
 * depreciation of start up and one-off capital items
-* taxes: VAT, council tax, stamp duty, etc
+* taxes (VAT, council tax, stamp duty, etc)
 * capital charges (if they were not met separately when the service was established)
-* notional or actual insurance premiums
+* speculative or actual insurance premiums
 * fees to sub-contractors
 * distribution costs, including transport
 * advertising
 * bad debts
 * provisions
 
-The following should be excluded:
+Exclude the following:
 
 * enforcement costs
 * replacement costs of items notionally insured
 * start up costs (those which can be capitalised in the accounts)
 
-## How frequently should I measure cost per transaction?
+## How often cost per transaction should be measured
 
-Cost per transaction is measured on a quarterly basis. It should cover the last twelve months to eliminate seasonal fluctuations.
+Measure cost per transaction on a quarterly basis. It should cover the last 12 months to eliminate seasonal fluctuations.
 
-Cost per transaction should be measured for the existing service - if there is one - to create a baseline against which future cost per transaction can be compared. When the digital service is exposed to real users (whether in alpha or beta) it should be included in the reported cost per transaction.
+Measure cost per transaction for your existing service - if there is one - to create a baseline for comparing the future cost per transaction. When the digital service is exposed to real users (whether in alpha or beta) include it in the reported cost per transaction.
