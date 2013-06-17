@@ -20,31 +20,42 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-Digital take-up is a long term strategic measure of how well digital by default service is working. You will monitor this on a monthly basis to track that it is on course with the desired performance trajectory.
+Digital take-up is a long term strategic measure of how well digital by default service is working. You will monitor this on a monthly basis to track that it is on course with the desired performance levels.
 
-## What you will be measuring
+## What you'll be measuring
 
-Digital take up is the proportion of people completing your transaction online, including [Assisted Digital](/service-manual/assisted-digital/index.html) users.
+Digital take up is the amount of people completing your transaction online, including [assisted digital](/service-manual/assisted-digital/index.html) users.
 
-A digital transaction is one where the primary interaction between the user and the service has been through a digital user interface. Where it is possible to complete only part of a transaction online,  such transactions should still be classified as digital.
+A digital transaction is one where the main interaction between the user and the service has been through a digital user interface. Still classify transactions as digital, even if only a part of a transaction is completed online.
 
-## How do I measure digital take up?
+## How to measure digital take-up
 
-Digital take up is calculated taking the number of completed digital transactions in a calendar month divided by the total number of transactions in the same month, expressed as a percentage.
+1.    Take the number of completed digital transactions in a calendar month.
+2.    Divide it by the total number of transactions in the same month, expressed as a percentage.
 
-The total number of transactions will be made up of all non digital transactions including call centre transactions and paper based transactions. This data will need to be recorded and collected to ensure your digital take up figure is accurate.
+The total number of transactions will be made up of all non-digital transactions, including call centre transactions and paper-based transactions. Record and collect this data to make sure your digital take-up figure is accurate.
 
-## What level of digital take-up should I aim for?
+## The level of digital take-up to aim for
 
-The Digital Landscape research found that 82% of adults in the UK are online. It therefore seems sensible to aim for something in that region. However, about [a third](http://publications.cabinetoffice.gov.uk/digital/research/#fig-2) of those online have never accessed government information or services online so this will involve a significant channel shift for most services.
+The publication '[Digital Landscape research](http://publications.cabinetoffice.gov.uk/digital/research/)' found that 82% of adults in the UK are online, so it's sensible to aim for something in that region. However, about [a third](http://publications.cabinetoffice.gov.uk/digital/research/#fig-2) of those online have never accessed government information or services online, so this will involve a significant channel shift for most services.
 
-## What about services for users who are more or less than 82% online?
+## Services for users who are more or less than 82% online
 
-The extent to which people are online varies by age, gender and socio-economic status. The digital landscape research has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) that should act as a guide.
+Who is online, and how often, varies by: 
 
-## When should this level of take-up be achieved by?
+* age
+* gender
+* socio-economic status
 
-Digital take-up is a long term strategic measure and you should be looking to achieve the target level within five years of launch.
+Use the 'Digital landscape research' as a guide. It has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) of who is onlie and offline.
+
+## Achieving your digital take-up targets
+
+Digital take-up is a long term strategic measure. Look to achieve the target level within 5 years of launch
+
+##How to increase digital take-up
+
+Read guidance on [increasing digital take-up](/service-manual/communications/increasing-digital-takeup.html).
 
 ## How should I increase digital take-up?
 
@@ -52,4 +63,4 @@ Read guidance on [ways of encouraging the use of digital by default services](/s
 
 ## What about assisted digital?
 
-Some users will never use the digital service but will still have to have access to the same level of service as those using the digital service. This is called assisted digital and departments will need to determine the appropriate mix of channels to support these users. For more information on assisted digital please refer to [this section](/service-manual/assisted-digital) of the manual.
+Some users will never use the digital service, but will still have to have access to the same level of service as those using your digital service. Departments will need to determine the appropriate mix of channels to support assisted digital users. Read [guidance on assisted digital](/service-manual/assisted-digital) for more information.
