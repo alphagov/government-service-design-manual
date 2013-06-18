@@ -7,20 +7,20 @@
     border: none;
     padding: 0;
 
-    hgroup {
+    .hgroup {
       padding: 0;
-    }    
+    }
   }
 
   .dbd-promo {
     border-bottom: 5px solid $main-colour;
-    overflow: hidden;  
+    overflow: hidden;
     margin: 2em 1em;
 
     @include media(desktop) {
       margin: 0.5em 2em 2em 2em;
     }
-    
+
     p {
       margin: 1em 0;
       float: left;
@@ -31,7 +31,7 @@
         width: 44%;
       }
     }
-    
+
     .logo {
       display: block;
       padding: 0;
@@ -117,7 +117,7 @@
 
   .service-life {
     margin: 0;
-    
+
     h2 {
       margin-top: 0;
       // @include bold-36;
