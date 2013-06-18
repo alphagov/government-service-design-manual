@@ -30,7 +30,7 @@
       margin: 0 auto;
     }
 
-    hgroup {
+    .hgroup {
       margin: 0 1em;
 
       @include media(tablet) {
@@ -72,7 +72,7 @@
       width: 67%;
       margin: 0 auto;
     }
-    
+
     img{
       margin-bottom: 1.5em;
       @if $is-print == false {
@@ -91,7 +91,7 @@
     @if $is-print == true {
       .common-questions{
         display: none;
-      }      
+      }
     }
 
     ul {
@@ -172,14 +172,14 @@
         orphans: 0;
 
         width: 86%;
-        @include media(desktop) {        
+        @include media(desktop) {
           float: left;
         }
-        @include media(mobile) {   
+        @include media(mobile) {
           padding-left: 15%;
         }
       }
-      
+
     }
 
     .guidance {
@@ -232,7 +232,7 @@
 
 
   @if $is-print == true {
-      a { 
+      a {
         text-decoration: none;
       }
       a:after {

@@ -4,12 +4,12 @@ section_class: wide role-index
 ---
 
 <header class="page-header group">
-  <hgroup>
+  <div class="hgroup">
     <h1{% if page.long-title %} class="long-title"{% endif %}>{{ page.title }}</h1>
     {% if page.subtitle %}
     <h2 class="subtitle">{{ page.subtitle }}</h2>
     {% endif %}
-  </hgroup>
+  </div>
 </header>
 
 {% assign hero = false %}
@@ -39,7 +39,7 @@ section_class: wide role-index
       <ul>
       {% sorted_for p in site.pages sort_by:title %}
         {% if p.audience.primary contains page.audience and (p.type == 'guide' or p.type == 'resource') and p.title != page.hero %}
-        <li> 
+        <li>
             <a href="{{ p.url }}">{{ p.title }}</a>
         </li>
         {% endif %}
@@ -52,11 +52,11 @@ section_class: wide role-index
 
   <div class="link-list more-guides">
     <h3>More guides from the manual</h3>
-  
+
     <ul>
     {% sorted_for p in site.pages sort_by:title %}
       {% if p.audience.secondary contains page.audience %}
-      <li> 
+      <li>
           <a href="{{ p.url }}" title="{{ p.subtitle }}">{{ p.title }}</a>
           <span class="subtitle">{{ p.subtitle }}</span>
       </li>
