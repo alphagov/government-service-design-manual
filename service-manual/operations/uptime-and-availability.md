@@ -33,8 +33,8 @@ off (or fail) gracefully. The possible states for a service should not be
 limited to on or off. Individual components could be designed to fall
 back to minimal functions. A read-only mode could be introduced where
 information can be looked at but not changed. If your service is reliant
-on a third-party service, it could queue information for later processing
-if that service were to become unavailable.
+on a third-party service, you could queue information for later
+processing if that service were to become unavailable.
 
 Remeber to build in redundancy and avoid single points of failure. You
 can avoid the problem of a web server failing by having more than one
