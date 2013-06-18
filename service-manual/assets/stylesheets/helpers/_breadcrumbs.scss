@@ -7,7 +7,7 @@
   padding: 0;
   background: white;
   padding: 1em 2em 0 2em;
-  
+
   li {
     display: inline-block;
     margin: 0;
@@ -18,7 +18,15 @@
 #global-breadcrumb{
   padding: 0.75em 0;
   margin: 0 1em;
+  border-bottom: 1px solid $border-colour;
+
   @include media(desktop) {
     margin: 0 2em;
+  }
+
+  nav {
+    margin: 0;
+    padding: 0;
+    border: none;
   }
 }
