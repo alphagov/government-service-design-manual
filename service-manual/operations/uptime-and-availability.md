@@ -54,7 +54,7 @@ cause a real problem.
 Don't forget that people will be using your service when you are not at
 work. Failures during out-of-hours periods can go unnoticed for long
 periods of time if no-one is responsible for them. Make sure you
-consider evenings and weekends and also whether an on-call systems is
+consider evenings and weekends and also whether an on-call system is
 appropriate, or whether you need a dedicated 24/7 support capability.
 
 ## Trade-offs
