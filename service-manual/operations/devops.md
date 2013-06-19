@@ -17,54 +17,105 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Many large organisations have evolved to have very separate development, quality assurance and operations business units. In many cases the overhead of communications and the misaligned incentives of the different groups leads to slow delivery and a mountain of interconnected processes. In extreme cases these units may be geographically separated, work for different organisations or under completely different management structures.
+Devops is a cultural and professional movement in response to the mistakes commonly made by large organisations. Often organisations will have very separate units for:
 
-Devops is a cultural and professional movement which has grown out of these frustrations. It's not a methodology or framework; it's honest principles and a willingness to break down silos. Specifically devops is all about [culture](#culture), [automation](#automation), [measurement](#measurement) and [sharing](#sharing).
+* development
+* quality assurance
+* operations business
+
+In extreme cases these units may be:
+
+* based in different locations
+* work for different organisations
+* under completely different management structures
+
+Communication costs between these units, and their individual incentives, leads to slow delivery and a mountain of interconnected processes.
+
+This is what Devops aims to correct. It is not a methodology or framework, but a set of principles and a willingness to break down silos. Specifically Devops is all about:
+
+* [culture](#culture)
+* [automation](#automation)
+* [measurement](#measurement)
+* [sharing](#sharing)
 
 ### Culture
 
-It's important to realise that devops requires a culture shift towards shared ownership and collaboration across silos involved in building and managing a service. Especially for existing organisations, this is by far the most important element.
+Devops requires a culture shift towards shared ownership and for silos involved in building and managing a service to work together. This is the most important element for existing organisations.
 
 ### Automation
 
-Many business processes are ripe for automation. Automation removes manual, error prone tasks allowing people to focus on the quality of the running service. Common areas that could benefit from automation are release management, provisioning, configuration management, systems integration, monitoring, orchestration and testing.
+Many business processes are ready to be automated. Automation removes manual, error prone tasks - allowing people to concentrate on the quality of the service. Common areas that benefit from automation are:
+
+* release management (releasing software)
+* provisioning
+* configuration management
+* systems integration
+* monitoring
+* orchestration (the arrangement and maintenance of complex computer systems)
+* testing
 
 ### Measurement
 
-Using data to drive change can be hugely powerful, in particular when it's done to involve people from different groups in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can be transformative on its own.
+Data can be incredibly powerful for implementing change, especially when it’s used to get people from different groups involved in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can implement change on its own.
 
 ### Sharing
 
-People from different backgrounds (eg development and operations) often have different, but intersecting skill sets. Encouraging sharing between groups helps to spread an understanding of the different areas of a successful service. Sharing helps resolve issues about working together; it's not about contract negotiation.
+People from different backgrounds (ie development and operations) often have different, but overlapping skill sets. Sharing between groups will spread an understanding of the different areas behind a successful service, so encourage it. Resolving issues will then be more about working together and not negotiating contracts.
 
-## Why we do this
+## Why Devops
 
-Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos: when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic.
+The quality of your service will be compromised if teams can't work together, specifically:
 
-High-quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work.
+* those who build and test software
+* those that run it in production
+
+The root cause is often functional silos; when one group owns a specific area (say quality) it’s easy for other areas to assume that it’s no longer their concern.
+
+This attitude is toxic, especially in areas such as:
+
+* quality
+* release management
+* performance
+
+High quality digital services need to be able to adapt quickly to user needs, and this can only happen with close collaboration between different groups.
+
+Make sure the groups in your team:
+
+* have a shared sense of ownership of the service
+* have a shared sense of the problem
+* develop a culture of making measurable improvements to how things work
 
 ## Good habits
 
-Devops isn’t a project management methodology but you'll hopefully adopt some of these good habits in your organisation. The good habits set out below aren’t unique to devops, but they do help with breaking down silos and with the above principles:
+Devops isn’t a project management methodology, but use these good habits in your organisation. While not unique to Devops, they help with breaking down silos when used with the above principles:
 
-1. [Cross-functional teams](/service-manual/the-team) – working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
-2. [Widely shared metrics](/service-manual/measurement) – knowing what good looks like across the service is important for everyone, and sharing high and low-level metrics as widely as possible is a good way of building understanding.
-3. Automating repetitive tasks – using software development to automate tasks from across the service is a good way of establishing a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
-4. Post-mortems – issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
-5. [Regular releases](/service-manual/making-software/release-strategies.html) – releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
+* [cross-functional teams](/service-manual/the-team) – make sure your teams are made up of people from different functions (this helps with the team owning the end-to-end quality of service and makes it easier to break down silos)
+* [widely shared metrics](/service-manual/measurement) – it’s important for everyone to know what ‘good’ looks like so share high and low level metrics as widely as possible as it builds understanding
+* automating repetitive tasks – use software development to automate tasks across the service as it:
+  * encourages a better understanding of the whole service
+  * frees up smart people from doing repetitive manual tasks
+* post-mortems – issues will happen so it’s critical that everyone across different teams learns from them; running post-mortems (an analysis session after an event) with people from different groups is a great way of spreading knowledge
+* [regular releases](/service-manual/making-software/release-strategies) – the capacity for releasing software is often limited in siloed organisations, because the responsibilities of the different parts of the release are often spread out across teams - getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation
 
 ## Warning signs
 
-Like agile, the term devops is often used for marketing or promotional purposes. This leads to a few common usages which are not necessarily in keeping with the above discussion. Watch out for:
+Like agile, the term devops is often used for marketing or promotional purposes. This leads to a few common usages, which aren’t necessarily in keeping with what’s been said here. Watch out for:
 
-* devops tools (nearly always marketing)
-* a devops team (in many cases this is just a new silo of skills and knowledge)
-* devops as a job title (you wouldn’t call someone “an agile”)
+* Devops tools (nearly always marketing)
+* a Devops team (in many cases this is just a new silo of skills and knowledge)
+* Devops as a job title (you wouldn’t call someone “an agile”)
+
+## Related guides in the Service Manual
+
+Those interested in Devops are often also interested in:
+
+* [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
+* [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
+* [Release Management](https://www.gov.uk/service-manual/making-software/release-strategies.html)
 
 ## Further reading
 
-* [What devops means to me](http://www.opscode.com/blog/2010/07/16/what-devops-means-to-me/)
-* [What is this devops thing anyway?](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
-* [What is devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
-* [There’s No Such Thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
-* those interested in devops are often also interested in [Configuration Management](/service-manual/making-software/configuration-management.html), [Monitoring](/service-manual/operations/monitoring.html) and [Release Management](/service-manual/making-software/release-strategies.html)
+* [what Devops means to me](http://www.opscode.com/blog/2010/07/16/what-devops-means-to-me/)
+* [what is this Devops thing anyway?](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
+* [what is Devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
+* [there’s no such thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
