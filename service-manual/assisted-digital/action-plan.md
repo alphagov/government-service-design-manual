@@ -26,6 +26,11 @@ The assisted digital action plan will help you to:
 * understand the needs of your assisted digital users
 * develop assisted digital support that meets their needs
 
+<figure class="media-player-wrapper video">
+  <a href="https://www.youtube.com/watch?v=UBCkzTtRgK4">Watch the team describe how assisted digital is part of a service</a
+  >
+</figure>
+
 The plan currently has more detailed information on the discovery and alpha stages of a project. This is because most of the services being redesigned are currently in those stages, and is where the steps are most similar across services.
  
 The plan will be updated as more services move through the redesign process.

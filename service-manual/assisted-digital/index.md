@@ -20,6 +20,11 @@ breadcrumbs:
 
 Most of your users will be able to use new and redesigned services unaided, but there are some who will need help. This support is referred to as assisted digital.
 
+<figure class="media-player-wrapper video">
+	<a href="https://www.youtube.com/watch?v=CnCCmwxdPWQ">Watch the team describe what assisted digital means</a
+	>
+</figure>
+
 Assisted digital support might be provided in person, on the phone, or through other appropriate channels. Users will be given help to use the service, or someone will use it alongside them on their behalf.
 
 <img src="/service-manual/assets/images/ad-image.jpg" alt="Diagram showing the digital and assisted digital routes to a digital service" />
