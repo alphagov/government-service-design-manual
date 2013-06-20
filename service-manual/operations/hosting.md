@@ -19,7 +19,7 @@ breadcrumbs:
 
 You need servers to run your software. The information here will help you decide how you host your applications and the things to consider when selecting a vendor.
 
-## Deciding how to host your application
+## Decide how you'll host your application
 
 To begin with, involve a small cross-functional group of people who will quickly:
 
