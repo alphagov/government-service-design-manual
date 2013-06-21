@@ -189,21 +189,39 @@
       }
 
       p {
-        margin: 0 0 0.75em 0;
+        margin: 0 $gutter-two-thirds 0 0;
       }
     }
 
     .link-list {
       @include media(tablet) {
-        width: 67%;
+        width: (100%/3)*2;
         float: left;
       }
 
       li {
+        border: none;
+        padding: 0;
+        margin: 0;
+
+        span {
+          display: block;
+          margin: 0 0 0.5em 0;
+          padding: 0.5em 0 0 0;
+          border-top: 1px solid $grey-3;
+        }
+
         @include media(tablet) {
-          width: 46%;
-          margin-left: 4%;
+          width: 50%;
           float: left;
+
+          span {
+            margin: 0 $gutter-one-third 0.5em $gutter-one-third;
+          }
+
+          &:nth-child(even) span {
+            margin: 0 0 0.5em $gutter-two-thirds;
+          }
         }
 
         a {
