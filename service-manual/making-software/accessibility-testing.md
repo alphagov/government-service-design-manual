@@ -22,12 +22,12 @@ breadcrumbs:
 
 Accessibility testing is very similar to [usability testing](/service-manual/users/introduction-to-user-research.html), in that it is about ensuring that a product or service is easy to use for its intended audience. That audience includes users who access the service via a range of assistive technologies, such as screen readers, voice recognition software, trackball devices and so on.
 
-It’s important to consider a range of disabilities when you are testing any product or service, including those with;
+It’s important to consider a range of disabilities when you are testing any product or service, including those with:
 
-* cognitive and learning disabilities eg dyslexia or attention deficit disorders
-* visual impairments eg total and partial blindness, colour blindness, poor vision 
+* cognitive and learning disabilities, eg dyslexia or attention deficit disorders
+* visual impairments, eg total and partial blindness, colour blindness or poor vision 
 * auditory disabilities which can also affect language 
-* motor skills impairments eg those affected by arthritis, strokes, RSI
+* motor skills impairments, eg those affected by arthritis, strokes or RSI
 
 The [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/introduction) came into force in 2010 and is intended to tackle discrimination against members of society who may be unfairly treated due to age, disability, race, religion or sexual orientation.
 
@@ -39,13 +39,13 @@ The RNIB has a [useful guide to the UK law](http://www.rnib.org.uk/professionals
 
 Most accessibility testing is typically conducted after an accessibility audit has been conducted.
 
-Accessibility testing with participants with a range of needs is best conducted in the participants' own homes. This is because they will often have things set up to suit their individual needs and the whole process is less stressful for them eg travel, environment.
+Accessibility testing with participants with a range of needs is best conducted in the participants' own homes. This is because they will often have things set up to suit their individual needs and the whole process is less stressful for them, eg travel, environment.
 
 ##When not to use it
 
-It is often difficult to conduct accessibility testing early on in the process of service design. The service must be fairly robust in order for it to be evaluated by people using assistive technologies eg a screen reader will read out the contents of a web page so the code needs to be well structured. 
+It is often difficult to conduct accessibility testing early on in the process of service design. The service must be fairly robust in order for it to be evaluated by people using assistive technologies, eg a screen reader will read out the contents of a web page so the code needs to be well structured. 
 
-For accessibility testing to be worth doing, real content needs to be in place rather than ‘dummy text’ if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms etc must be in place if motor skills are being assessed.
+For accessibility testing to be worth doing, real content needs to be in place rather than ‘dummy text’ if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms, etc must be in place if motor skills are being assessed.
 
 ## Accessibility audits
 
@@ -63,7 +63,7 @@ Disabled participants should be included as part of a wider user testing recruit
 
 ## Cost
 
-This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies eg [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc
+This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies, eg [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc.
 
 Additional costs can be incurred if these participants are travelling to your testing location and/or require specialist assistance with carers or travel.
 
