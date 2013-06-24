@@ -31,8 +31,8 @@ The [scope of the standard](/service-manual/digital-by-default/scope-of-the-stan
 
 Assessments for services will be:
 
-* madatory for services with a user base of **over** 100,000 transactions
-* voluntary for services with a user base of **under** 100,000 transactons
+* madatory for services anticipated to process **over** 100,000 transactions per year.
+* voluntary for services anticipated to process **under** 100,000 transactons per year.
 
 The assessments will be done by a GDS product manager and technical architect and analyst. All [26 points of the standard](/service-manual/digital-by-default) will be considered but before April 2014 the primary considerations will be:
 
