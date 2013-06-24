@@ -98,7 +98,7 @@ Devops isn’t a project management methodology, but use these good habits in yo
 
 ## Warning signs
 
-Like agile, the term devops is often used for marketing or promotional purposes. This leads to a few common usages, which aren’t necessarily in keeping with what’s been said here. Watch out for:
+Like agile, the term Devops is often used for marketing or promotional purposes. This leads to a few common usages, which aren’t necessarily in keeping with what’s been said here. Watch out for:
 
 * Devops tools (nearly always marketing)
 * a Devops team (in many cases this is just a new silo of skills and knowledge)
