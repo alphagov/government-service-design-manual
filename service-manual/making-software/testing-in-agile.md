@@ -57,7 +57,7 @@ Your team should be able to see a problem in the quality of your system. Every p
 
 A successful agile project relies on fast feedback loops. Getting feedback and getting it fast means you can actually be agile and change when you need to change.
 
-Your testing should be about giving and getting that fast feedback - at a time when it’s useful. Agile test techniques (eg behaviour driven development, acceptance test driven development) have their place and you can use them, but don’t make them the centre of your approach to testing.
+Your testing should be about giving and getting that fast feedback - at a time when it’s useful. [Automated code testing techniques](/service-manual/making-software/code-testing) have their place and you can use them, but don’t make them the centre of your approach to testing.
 
 ## Tests are an asset of the product
 
