@@ -44,7 +44,7 @@ Devops requires a culture shift towards shared ownership and for silos involved 
 
 ### Automation
 
-Many business processes are ready to be automated. Automation removes manual, error-prone tasks - allowing people to concentrate on the quality of the service. Common areas that benefit from automation are:
+Many business processes are ready to be automated. Automation removes manual, error-prone tasks -- allowing people to concentrate on the quality of the service. Common areas that benefit from automation are:
 
 * release management (releasing software)
 * provisioning
