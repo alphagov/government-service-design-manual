@@ -27,7 +27,7 @@ The assisted digital action plan will help you to:
 * develop assisted digital support that meets their needs
 
 <figure class="media-player-wrapper video">
-  <a href="https://www.youtube.com/watch?v=UBCkzTtRgK4">Watch the team describe how assisted digital is part of a service</a
+  <a href="https://www.youtube.com/watch?v=hJUL-nz1crk">Watch the team describe how assisted digital is part of a service</a
   >
 </figure>
 
