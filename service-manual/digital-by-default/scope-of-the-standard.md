@@ -26,7 +26,7 @@ To establish whether your service needs to meet the service standard, ask yourse
 * completely new and/or being redesigned?
 * processing (or likely to process) more than 100,000 transactions every year?
 * the responsibility of a central government department, agency or non-departmental public body?
-* being launched in April 2014 or after?
+
 
 If you have answered **yes** to all of these then the service must meet the standard before it can go live.
 
