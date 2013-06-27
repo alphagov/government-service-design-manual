@@ -20,55 +20,74 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-Accessibility testing is very similar to [usability testing](/service-manual/users/introduction-to-user-research.html), in that it is about ensuring that a product or service is easy to use for its intended audience. That audience includes users who access the service via a range of assistive technologies, such as screen readers, voice recognition software, trackball devices and so on.
+Accessibility testing is very similar to [usability testing](/service-manual/users/introduction-to-user-research.html), in that it is about making sure that a product or service is easy for its intended audience to use. That audience includes users who access the service via a range of assistive technologies like: 
 
-It’s important to consider a range of disabilities when you are testing any product or service, including those with;
+* screen readers
+* voice recognition software
+* trackball devices
 
-* cognitive and learning disabilities eg dyslexia or attention deficit disorders
-* visual impairments eg total and partial blindness, colour blindness, poor vision 
-* auditory disabilities which can also affect language 
-* motor skills impairments eg those affected by arthritis, strokes, RSI
+It’s important to consider a range of disabilities when you're testing any product or service, including those with:
 
-The [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/introduction) came into force in 2010 and is intended to tackle discrimination against members of society who may be unfairly treated due to age, disability, race, religion or sexual orientation.
+* cognitive and learning disabilities, eg dyslexia or attention deficit disorders
+* visual impairments, eg total and partial blindness, colour blindness, poor vision 
+* auditory disabilities, which can also affect language 
+* motor skills impairments, eg those affected by arthritis, strokes, RSI
 
-We have a duty to [make adjustments for disabled persons](http://www.legislation.gov.uk/ukpga/2010/15/part/2/chapter/2/crossheading/adjustments-for-disabled-persons) so that we do not exclude them from the services we provide and must make every reasonable attempt to ensure access.
+The [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/introduction) came into force in 2010 and is intended to stop discrimination against members of society who may be unfairly treated due to age, disability, race, religion or sexual orientation.
+
+You have a duty to [make adjustments for disabled persons](http://www.legislation.gov.uk/ukpga/2010/15/part/2/chapter/2/crossheading/adjustments-for-disabled-persons) so that they're not excluded from your service, making every reasonable attempt to provide access.
 
 The RNIB has a [useful guide to the UK law](http://www.rnib.org.uk/professionals/webaccessibility/lawsandstandards/Pages/uk_law.aspx) and how it affects the accessibility of your site or service.
 
 ## Carrying out accessibility testing
 
-Most accessibility testing is typically conducted after an accessibility audit has been conducted.
+Most accessibility testing is typically done after an accessibility audit has been conducted.
 
-Accessibility testing with participants with a range of needs is best conducted in the participants' own homes. This is because they will often have things set up to suit their individual needs and the whole process is less stressful for them eg travel, environment.
+If a participant has a range of needs it’s best to do accessibility testing in the participant’s own home. This is because: 
 
-##When not to use it
+* they'll often have things set up to suit their individual needs 
+* it'll make the whole process less stressful for them, eg not having to travel or change environment
 
-It is often difficult to conduct accessibility testing early on in the process of service design. The service must be fairly robust in order for it to be evaluated by people using assistive technologies eg a screen reader will read out the contents of a web page so the code needs to be well structured. 
+## When not to use it
 
-For accessibility testing to be worth doing, real content needs to be in place rather than ‘dummy text’ if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms etc must be in place if motor skills are being assessed.
+It’s often difficult to carry out accessibility testing early on in the process of service design. Your service must be fairly stable for it to be evaluated by people using assistive technologies, eg a screen reader will read out the contents of a web page, so the code needs to be well structured.
+
+Only do accessibility testing when:
+
+* real content is in place, rather than ‘dummy text’ - this is so it can be properly assessed by those with any cognitive or learning difficulties 
+* interactive elements, such as calls to action, hyperlinks, forms etc are in place - this is so it can be properly assessed by those with motor skill impairments
 
 ## Accessibility audits
 
-Full lab-based accessibility testing is not necessary for every project. An accessibility audit may be a more efficient and cost-effective way to review a service, depending on its typical user needs.
+Full lab-based accessibility testing is not necessary for every project. An accessibility audit may be a more efficient and cost-effective way to review your service, depending on your typical user needs.
 
-Accessibility audits are an alternative to standard accessibility testing. An accessibility audit involves an accessibility expert reviewing the site or service, highlighting all accessibility issues and making recommendations for fixing them. 
+Accessibility audits are an alternative to standard accessibility testing. An accessibility audit involves an accessibility expert reviewing your site or service, highlighting all accessibility issues and making recommendations for fixing them. 
 
 They would typically use assistive software used by disabled web users (eg a screen reader) to effectively carry out the audit. See the [W3C accessibility guidelines](http://www.w3.org/TR/WCAG/) for further information.
 
-Accessibility audits are cheaper and quicker than accessibility testing but rely primarily on the expertise of the person conducting them.
+Accessibility audits are cheaper and quicker than accessibility testing, but rely primarily on the expertise of the person doing them.
 
 ## Types of participants
 
-Disabled participants should be included as part of a wider user testing recruitment process. The numbers will be small, but should aim to capture a range of disabilities and assistive technologies.
+Include disabled participants as part of a wider user testing recruitment process. The numbers will be small, but aim to capture a range of disabilities and assistive technologies
 
 ## Cost
 
-This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies eg [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc
+Disabled participants are a harder to reach audience, so the cost of recruiting participants can be relatively expensive. Recruit participants through specialist organisations or agencies, eg [RNIB](http://www.rnib.org.uk/Pages/Home.aspx).
 
-Additional costs can be incurred if these participants are travelling to your testing location and/or require specialist assistance with carers or travel.
+Expect costs to increase if:
+
+* participants are travelling to your testing location 
+* participants require specialist assistance with carers or travel
+
 
 ## Timescales
 
-Recruitment via an agency can take up to 2 weeks, depending on the target audience. Conducting testing sessions can take between 2-3 days depending on the number of participants. This may vary depending on whether the sessions are lab-based or structured sessions in a ‘home environment’. Analysis and reporting should take up to a week.
+Timings will vary, eg whether sessions are lab-based or structured in a ‘home environment’, but generally:
 
-These estimates are dependent on the project's scope, and the availability of ‘robust’ testing assets.
+* recruitment via an agency can take up to 2 weeks, depending on the target audience
+* testing sessions can take between 2-3 days depending on the number of participants 
+* analysis and reporting will take up to a week
+
+These estimates are dependent on your project’s scope, and the availability of testing assets.
+
