@@ -19,9 +19,6 @@ breadcrumbs:
   -
     title: The team
     url: /service-manual/the-team
-  -
-    title: Service managers
-    url: /service-manual/the-team/service-manager
 ---
 
 GDS is creating a highly practical induction and development programme to help you as a new service manager.
