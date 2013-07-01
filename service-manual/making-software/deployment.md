@@ -325,12 +325,12 @@ frontend application's operation.
 
 ### Making writes asynchronous ###
 
-Another method of avoiding failures during deployments is to eschew
-synchronous write operations and instead post any write operations to
-a message queue. That way, when the backend system which consumes from
-the queue is disabled during a deployment, the frontend does not start
-seeing errors; rather, it just sees an increase in the time taken to
-see a write reflected in further read operations.
+Another method of avoiding failures during deployments is to make
+write operations asynchronous by posting them to a message queue. That
+way, when the backend system which consumes from the queue is disabled
+during a deployment, the frontend does not start seeing errors;
+rather, it just sees an increase in the time taken to see a write
+reflected in further read operations.
 
 ## Smoke tests ##
 
