@@ -4,8 +4,8 @@ title: Rewarding technology leaders
 subtitle: Salary advice for digital and technology staff
 category: the-team
 type: guide
-audience: service-managers, chief-technology-officers
-  primary: 
+audience:
+  primary: service-managers, chief-technology-officers
 status: draft
 long-title: true
 phases:
@@ -25,9 +25,9 @@ breadcrumbs:
     url: /service-manual/the-team/recruitment
 ---
 
-Delivering the business change required to create excellent digital public services and supporting technology systems in departments will be a large and exciting challenge for those who lead it. For that transformation to be successful, we have to make sure that we have ‘best in class’ candidates for technology leadership and specialist positions in post. These roles will demand a combination of highly sought after strategic, delivery and leadership skills, as well as specialist technical knowledge. Appropriately rewarding such staff is essential to their recruitment and retention. 
+Delivering the business change required to create excellent digital public services and supporting technology systems in departments will be a large and exciting challenge for those who lead it. For that transformation to be successful, we have to make sure that we have ‘best in class’ candidates for technology leadership and specialist positions in post. These roles will demand a combination of highly sought after strategic, delivery and leadership skills, as well as specialist technical knowledge. Appropriately rewarding such staff is essential to their recruitment and retention.
 
-Government is not looking for average candidates. We need people with a track record of delivery and an appetite for driving important change in a highly visible job. As such, GDS recommends that departments offer candidates between 75th and 90th percentile of the typical London-weighted salary band for a similar role in the private sector. GDS has conducted independent benchmarking research that samples hundreds of similar roles in order to produce these range figures, and will review the market rate on an ongoing basis to ensure that the offer government makes to technology is highly competitive. For further advice on salary offers, please contact the [Recruitment Hub](mailto:digitaltalent@digital.cabinet-office.gov.uk). 
+Government is not looking for average candidates. We need people with a track record of delivery and an appetite for driving important change in a highly visible job. As such, GDS recommends that departments offer candidates between 75th and 90th percentile of the typical London-weighted salary band for a similar role in the private sector. GDS has conducted independent benchmarking research that samples hundreds of similar roles in order to produce these range figures, and will review the market rate on an ongoing basis to ensure that the offer government makes to technology is highly competitive. For further advice on salary offers, please contact the [Recruitment Hub](mailto:digitaltalent@digital.cabinet-office.gov.uk).
 
 ## SCS roles
 
@@ -40,7 +40,7 @@ Government is not looking for average candidates. We need people with a track re
 | Head of Business IT  | SCS Payband 1 | £85,000 - £95,000 |
 
 
-The scope, responsibilities and interactions with other senior leaders that the successful candidate takes on will vary across departments, depending on their size, the number of services they are responsible for, and the extent of their existing IT estate. 
+The scope, responsibilities and interactions with other senior leaders that the successful candidate takes on will vary across departments, depending on their size, the number of services they are responsible for, and the extent of their existing IT estate.
 
 ## Non-SCS specialist roles
 
