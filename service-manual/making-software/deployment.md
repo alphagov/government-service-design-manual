@@ -73,10 +73,10 @@ solution.
 ## Repeatable, auditable deployments ##
 
 You should know at any moment what version of your service is running
-in each environment. Furthermore, whenever a deployment hits
-production, you should be able to trace the changes that it introduced
-all the way back to the initial code commits in the source code
-repositories which went into that deploy.
+in each environment. When a deployment hits production, you should be
+able to trace the changes that it introduced all the way back to the
+initial code commits in the source code repositories which went into
+that deploy.
 
 Combined with small, frequent releases, if any problem does hit
 production, you will be able to immediately narrow down the cause to a
