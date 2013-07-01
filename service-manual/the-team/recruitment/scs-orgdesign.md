@@ -43,7 +43,7 @@ This diagram sets out a template structure for a medium to large department, tha
 
 In this model Service Managers and Technology Project Leads have analogous roles - they deliver either the digital services or supporting back-end technology that meets users needs, and ensure that what they deliver is operated in such a way that continues to iteratively improve the offering. In bigger departments, it is likely there would be multiple people in these posts. The Head of Policy and Performance plays a coordinating role across the digital and technology estate, responsible for strategy and policy development, governance and capability building. The Head of Business IT ensures that the technology estate the organisation is running delivers significantly improved value for money, through the deployment of common services and the effective management (and retirement where appropriate) of legacy systems and contracts.
 
-[insert org diagram 1]
+![diagram describing scenario 1](/service-manual/assets/images/recruitment/scenario-1.png)
 
 ## Scenario 2
 
@@ -53,7 +53,7 @@ The choice of a CTO or CDO to lead technology transformation in smaller departme
 
 In organisations with multiple public facing digital services, a CDO is likely to be a more appropriate choice as new mission IT and the retirement of the existing technology estate must be done in such a way that fully supports the transformation of those digital services. However, in organisations where there are fewer public-facing services, a greater emphasis on driving more value for money from mission IT and providing more effective internal technology, a CTO may be more appropriate. In either case, a Director-level leader in this position will need to have a good combination of CDO and CTO skills.
 
-[insert org diagram 2]
+![diagram describing scenario 2](/service-manual/assets/images/recruitment/scenario-2.png)
 
 ## Scenario 3
 
@@ -61,4 +61,4 @@ This diagram sets out a template structure for a department that does not manage
 
 The focus of the digital deputy director is therefore on policy, strategy and capability building in departments, as well as working closely with GDS to manage the organisation’s online presence on GOV.UK. The technology deputy director is likely to be primarily focused on delivering far greater value for money from the organisation’s technology estate, and liaising with the centre to make the best use of common technology services. GDS will support the CTO in coordinating across the digital and technology workstreams, ensuring effective portfolio and performance management through data collection and a clear oversight across all ongoing projects.
 
-[insert org diagram 3]
+![diagram describing scenario 3](/service-manual/assets/images/recruitment/scenario-3.png)
