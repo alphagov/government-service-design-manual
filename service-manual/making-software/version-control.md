@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Version control
-subtitle: Ensure the team can collaborate on code
+subtitle: Make sure the team can work together on code
 category: making-software
 type: guide
 audience:
@@ -21,18 +21,28 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-All software development projects must use a version control system. Version control allows you to track changes to code over time, meaning that you can quickly step back to an earlier version where necessary and you can annotate your changes with explanatory details to help future developers understand the process. Version control will also provide tools to audit who has made changes to the code and what has changed.
+Every software development project has to use a version control system. Version control allows you to track changes to code over time, which means you can:
+
+* quickly step back to an earlier version where necessary
+* annotate your changes with explanatory details to help future developers understand the process
+
+Version control also has tools for seeing what code has been changed, how it's been changed, and who made the changes.
+
 
 ## Commits
 
-Those updating the code should make small, discrete 'commits' of changes that are grouped according to their intention. They should be committed with a clear message explaining what the intention of the change was and (where appropriate) providing links to any supporting information such as development stories, bug reports, or third-party documentation.
+When updating the code, make small, discrete ‘commits’ of changes and group the changes according to their intention. Any changes should be committed with a clear message explaining what changes have happened, and (where appropriate) provide links to any supporting information like development stories, bug reports, or 3rd party documentation.
 
 ## Version control systems
 
-At GDS we prefer to use a distributed version control system. This means that everyone involved in the process has a full copy of the code and of its history. This makes it easier for developers to create 'branches' in their code to explore new features or approaches without treading on the toes of those working on different aspects of the service. We use [Git](http://en.wikipedia.org/wiki/Git_(software)), which is one of the highest profile options.
+GDS use a distributed version control system called [Git](http://git-scm.com/), which is one of the most well-known options.
 
-It also provides extra resilience; if the network is unavailable the developers can continue to work and make small incremental commits, merging their changes back with everyone else's at a later date.
+Using a distributed version control system:
 
-## Not just code
+* means that everyone involved in the process has a full copy of the code and its history
+* makes it easier for developers to create ‘branches’ in their code to explore new features or approaches without treading on the work of others
+* will provide extra resilience when the network is unavailable, eg the developers can continue to work and make small incremental commits, merging their changes back with everyone else’s at a later date
 
-It's a good idea to also use version control for other aspects of your work, not just code. We use the same version control tools to manage this document as we do our code, and the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/) was also produced that way.
+## Not just for code
+
+It’s a good idea to also use version control for other areas of your work, not just code. GDS use the same version control tools to manage code and this document. The '[Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/)' was also produced that way.
