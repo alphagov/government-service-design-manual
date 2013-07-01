@@ -44,4 +44,4 @@ Using a distributed version control system:
 
 ## Not just for code
 
-It's a good idea to also use version control for other areas of your work, not just code. GDS use the same version control tools to manage code and this document. The [Government Digital Strategy](/government/publications/government-digital-strategy) was also produced that way.
+It's a good idea to also use version control for other aspects of your work, not just code. GDS use the same version control tools to manage code and this document. The [Government Digital Strategy](/government/publications/government-digital-strategy) was also produced that way.
