@@ -33,7 +33,9 @@ All queries for the hub should be made to [digitaltalent@digital.cabinet-office.
 
 ## SCS recruitment
 
-GDS must approve the job descriptions and appointments for all SCS-level technology positions. The template [job descriptions], [organisation design advice] and [salary guidance] should be a useful starting point for departments and agencies to tailor to their specific roles. For SCS level hires, the Recruitment Hub will also provide:
+GDS must approve the job descriptions and appointments for all SCS-level technology positions. The template [job descriptions], [organisation design advice] and [salary guidance] should be a useful starting point for departments and agencies to tailor to their specific roles. 
+
+For SCS level hires, the Recruitment Hub will also provide:
 
 * feedback, advice and approval on tailored organisational design and SCS job descriptions as needed, to ensure that the lines of reporting and share of responsibilities between other digital and technology (IT) leaders within organisations are clearly set out.
 * coordinated headhunting support for departments looking to identify interim senior appointments
@@ -43,7 +45,9 @@ After a job description has been agreed and advertised, departments should conta
 
 ## Non-SCS specialist recruitment
 
-GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in special digital skills. The template [job descriptions], [organisation design advice] and [salary guidance] should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles. In addition, the Recruitment Hub will provide:
+GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in special digital skills. The template [job descriptions], [organisation design advice] and [salary guidance] should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles. 
+
+In addition, the Recruitment Hub will provide:
 
 * feedback and advice on the design and organisation of digital delivery teams within departments 
 * coordinated headhunting support for departments looking to identify specialist digital skills
