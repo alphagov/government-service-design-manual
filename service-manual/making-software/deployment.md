@@ -86,14 +86,14 @@ with a code change to fix the production issue -- is achievable
 because the deployment process is automated and the lead time is
 short.
 
-Furthermore, by having a repeatable deployment process, scaling and
-recovering from failure become easy. Suppose you want to add more
-application servers to host a particular application, either to
-respond to higher demand, or to replace failed instances. Once you
-have provisioned the required machines, you can just re-run your
-deployment process on the new machines to deploy the software. Without
-a repeatable deployment process, adding machines becomes manual and
-error-prone.
+An additional benefit of having a repeatable deployment process is
+that scaling and recovering from failure become easy. Suppose you want
+to add more application servers to host a particular application,
+either to respond to higher demand, or to replace failed
+instances. Once you have provisioned the required machines, you can
+just re-run your deployment process on the new machines to deploy the
+software. Without a repeatable deployment process, adding machines
+becomes manual and error-prone.
 
 ## Zero downtime deployments
 
