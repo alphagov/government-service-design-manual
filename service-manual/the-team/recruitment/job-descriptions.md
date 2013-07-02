@@ -44,11 +44,11 @@ Before advertising any SCS technology position, the GDS Recruitment Hub must hav
 
 ### SCS roles
 
-* Chief Digital Officer (CDO) [odt](CDO-applicant-pack-SM.odt) / [docx](CDO-applicant-pack-SM.docx)
-* Chief Technology Officer (CTO) [odt](CTO-applicant-pack-SM.odt) / [docx](CTO-applicant-pack-SM.docx)
-* Head of Business IT [odt](Head-of-Business-IT-pack-SM.odt) / [docx](Head-of-Business-IT-pack-SM.docx)
-* Head of Policy and Performance [odt](Head-of-Policy-and-Performance-pack-SM.odt) / [docx](Head-of-Policy-and-Performance-pack-SM.docx)
-* Digital Service Manager [odt](Service-Manager-pack-SM.odt) / [docx](Service-Manager-pack-SM.docx)
+* Chief Digital Officer (CDO) [Download as Open Office doc](CDO-applicant-pack-SM.odt) / [Download as MS Word doc](CDO-applicant-pack-SM.docx)
+* Chief Technology Officer (CTO) [Download as Open Office doc](CTO-applicant-pack-SM.odt) / [Download as MS Word doc](CTO-applicant-pack-SM.docx)
+* Head of Business IT [Download as Open Office doc](Head-of-Business-IT-pack-SM.odt) / [Download as MS Word doc](Head-of-Business-IT-pack-SM.docx)
+* Head of Policy and Performance [Download as Open Office doc](Head-of-Policy-and-Performance-pack-SM.odt) / [Download as MS Word doc](Head-of-Policy-and-Performance-pack-SM.docx)
+* Digital Service Manager [Download as Open Office doc](Service-Manager-pack-SM.odt) / [Download as MS Word doc](Service-Manager-pack-SM.docx)
 
 ### Non-SCS specialist roles
 
