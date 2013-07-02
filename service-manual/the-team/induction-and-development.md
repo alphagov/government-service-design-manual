@@ -25,7 +25,7 @@ GDS is creating a highly practical induction and development programme to help y
 
 We're developing the programme iteratively with discovery, alpha and beta phases, moving into live from autumn 2013.
 
-As a participant, you’ll be in a group of six to eight service managers and will commit 10 days to the programme over the course of a month.
+As a participant, you’ll be in a group of 6 to 8 service managers and will commit 10 days to the programme over the course of a month.
 
 While on the programme you will:
 
@@ -37,7 +37,7 @@ While on the programme you will:
 Back in your department you will be better able to:
 
 *  advocate for digital by default
-*  establish and track user-centred KPIs
+*  establish and track user-centred key performance indicators
 *  model the right behaviours
 *  get things done and operate your services effectively
 
@@ -51,7 +51,7 @@ User-centred processes start with [user needs](/service-manual/users/user-needs.
 
 *  meet some users of government digital services
 *  explore different techniques for finding out what users need
-*  write some user stories; and
+*  write some user stories
 *  decide what requirements count as user needs
 
 ###Digital leadership
