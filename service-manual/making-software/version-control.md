@@ -5,7 +5,7 @@ subtitle: Make sure the team can work together on code
 category: making-software
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, developers, tech-archs
 status: draft
 phases:
@@ -28,14 +28,13 @@ Every software development project has to use a version control system. Version 
 
 Version control also has tools for seeing what code has been changed, how it's been changed, and who made the changes.
 
-
 ## Commits
 
 When updating the code, make small, discrete ‘commits’ of changes and group the changes according to their intention. Any changes should be committed with a clear message explaining what changes have happened, and (where appropriate) provide links to any supporting information like development stories, bug reports, or 3rd party documentation.
 
 ## Version control systems
 
-GDS use a distributed version control system called [Git](http://git-scm.com/), which is one of the most well-known options.
+GDS use a distributed version control system called [Git](http://en.wikipedia.org/wiki/Git_(software), which is one of the most well-known options.
 
 Using a distributed version control system:
 
@@ -45,4 +44,4 @@ Using a distributed version control system:
 
 ## Not just for code
 
-It’s a good idea to also use version control for other areas of your work, not just code. GDS use the same version control tools to manage code and this document. The '[Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/)' was also produced that way.
+It’s a good idea to also use version control for other aspects of your work, not just code. GDS use the same version control tools to manage code and this document. The '[Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/)' was also produced that way.
