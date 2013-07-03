@@ -49,6 +49,7 @@ Before advertising any SCS technology position, the GDS Recruitment Hub must hav
 * Head of Business IT [Download as Open Office doc](Head-of-Business-IT-pack-SM.odt) / [Download as MS Word doc](Head-of-Business-IT-pack-SM.docx)
 * Head of Policy and Performance [Download as Open Office doc](Head-of-Policy-and-Performance-pack-SM.odt) / [Download as MS Word doc](Head-of-Policy-and-Performance-pack-SM.docx)
 * Digital Service Manager [Download as Open Office doc](Service-Manager-pack-SM.odt) / [Download as MS Word doc](Service-Manager-pack-SM.docx)
+* Technology Lead [Download as Open Office doc] / [Download as MS Word doc]
 
 ### Non-SCS specialist roles
 
