@@ -73,7 +73,7 @@ GDS describe the reasons for these principles and their implications in '[Open S
 
 The Open Standards Board will be selecting some compulsory open standards using the [Standards Hub](http://standards.data.gov.uk/) process. Use standards that have been identified.
 
-There might be instances where you’re looking for an open standard and GDS have not set a compulsory one in that space. If so, do a thorough assessment of existing standards and choose one that meets your needs and is consistent with GDS' definitions.
+There might be instances where you’re looking for an open standard and GDS have not set a compulsory one in that space. If so, do a thorough assessment of existing standards and choose one that meets your needs and is consistent with GDS's definitions.
 
 You should also consider how the standard fits with:
 * user and functional needs
@@ -84,7 +84,7 @@ You should also consider how the standard fits with:
 
 You’ll need to apply for exemptions to open standards if:
 
-* you’re considering use of a standard that doesn’t meet GDS' definitions of an open standard
+* you’re considering use of a standard that doesn’t meet GDS's definitions of an open standard
 * you want to use an alternative standard to one that performs the same function (if a compulsory standard has already been selected for that specific purpose)
 
 ## Why GDS do this
