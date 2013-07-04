@@ -49,6 +49,19 @@ If building a service for a small number of clearly identified agents then it is
 
 If you need to build a system for a broad range of citizens and businesses, or you need to do sophisticated matching with other systems in order to build trust in the identity of your users then you should explore the [advice published by the ID Assurance team](/service-manual/identity-assurance).
 
+## Credentials
+
+You should help your users to pick strong, secure passwords or phrases and consider whether it's appropriate to require 2-factor authentication for extra security.
+
+As a minimum passphrases should be eight characters long and include a mix of letters, numbers and symbols, but ideally they'll be longer than that. We refer to passphrases as a phrase is usually easier to remember but harder to guess than a short collection of symbols or a single word.
+
+> For some admin systems for www.gov.uk we created the [passphrase entropy](https://github.com/alphagov/passphrase_entropy) library that measures how hard it would be for a computer to crack a password using brute-force methods. That library is used to validate new passwords and insist on strong passphrases. It's only one measure, but it increased our confidence that our users would be picking good passphrases.
+
 ## Examples
 
 The ELMS license application system on Business Link required a login to complete an application. In building a new version of the system for [GOV.UK](https://www.gov.uk/browse/business/licences) we removed that requirement and usage rates have increased considerably. There is still a login system for approved users in local authorities who need to process those applications.
+
+## Also see
+
+* [Wikipedia on Password policies](http://en.wikipedia.org/wiki/Password_policy#Password_length_and_formation)
+* [CESG Good Practice Guide 44: authentication credentials in support of HMG online services](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions)
