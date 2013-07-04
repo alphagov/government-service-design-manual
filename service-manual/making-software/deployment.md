@@ -23,9 +23,9 @@ breadcrumbs:
 
 We have identified some common principles for software deployment
 which we have applied in a number of different projects, with
-different technology stacks, use cases, and load profiles. These
-principles underpin a software deployment process which meets user
-needs. Those principles are:
+different technology stacks and needs. These principles underpin a
+software deployment process which meets user needs. Those principles
+are:
 
  * Little and often
  * Quality software
@@ -180,7 +180,7 @@ take a machine from an unknown state to a known state. There exist a
 number of tools for managing infrastructure configuration for you,
 such as [CFEngine][], [Chef][], and [Puppet][]. Each of these is
 designed such that they can be run repeatedly on a machine to
-ameliorate configuration drift.
+alleviate configuration drift.
 
 ### Deploying configuration management code ###
 
