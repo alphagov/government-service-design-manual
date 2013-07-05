@@ -30,7 +30,7 @@
       $updated: unquote($class);
       .#{$class} {
           border-left: 2em solid $colour;
-          
+
           h4{
             margin-top: 0;
             font-weight: bold;
@@ -118,7 +118,7 @@
 
   /* Department colours */
   @include colour("hm-government", $hm-government);
-  @include colour("treasury", $treasury);
+  @include colour("treasury", $hm-treasury);
   @include colour("cabinet-office", $cabinet-office);
   @include colour("department-for-education", $department-for-education);
   @include colour("department-for-transport", $department-for-transport);
@@ -126,13 +126,13 @@
   @include colour("department-of-health", $department-of-health);
   @include colour("ministry-of-justice", $ministry-of-justice);
   @include colour("ministry-of-defence", $ministry-of-defence);
-  @include colour("foreign-and-commonwealth-office", $foreign-and-commonwealth-office);
+  @include colour("foreign-and-commonwealth-office", $foreign-commonwealth-office);
   @include colour("department-for-communities-and-local-government", $department-for-communities-and-local-government);
   @include colour("department-of-energy-climate-change", $department-of-energy-climate-change);
   @include colour("department-for-culture-media-sport", $department-for-culture-media-sport);
-  @include colour("department-for-environment-food-and-rural-affairs", $department-for-environment-food-and-rural-affairs);
-  @include colour("department-for-work-and-pensions", $department-for-work-and-pensions);
-  @include colour("department-for-business-innovation-and-skills", $department-for-business-innovation-and-skills);
+  @include colour("department-for-environment-food-and-rural-affairs", $department-for-environment-food-rural-affairs);
+  @include colour("department-for-work-and-pensions", $department-for-work-pensions);
+  @include colour("department-for-business-innovation-and-skills", $department-for-business-innovation-skills);
   @include colour("department-for-international-development", $department-for-international-development);
   @include colour("government-equalities-office", $government-equalities-office);
   @include colour("attorney-generals-office", $attorney-generals-office);
