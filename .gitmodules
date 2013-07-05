@@ -1,3 +1,0 @@
-[submodule "assets/toolkit"]
-	path = service-manual/assets/toolkit
-	url = https://github.com/alphagov/govuk_frontend_toolkit.git
