@@ -28,7 +28,7 @@ Clearly, the best way for structuring senior technology roles will vary across d
 
 In all cases, the day-to-day management of contractual arrangements, retirement of existing legacy systems and provision of common services that are delivered centrally will be subordinate positions to the strategic transformational leadership of digital and IT.
 
-GDS will provide bespoke advice for departments on organisation structures and tailoring of SCS job descriptions. To support these discussions, we have set out a series of outline structures to fit a set of different organisational scenarios. These follow four fundamental principles:
+GDS will provide bespoke advice for departments on organisation structures and tailoring of SCS job descriptions via the Recruitment Hub. To support these discussions, we have set out a series of outline structures to fit a set of different organisational scenarios. These follow four fundamental principles:
 
 * Technology must be strongly represented at Board level, by a CTO and a CDO, or a COO with responsibility for driving business change through technology
 * Technology leadership must drive business transformation, not maintain a steady state
