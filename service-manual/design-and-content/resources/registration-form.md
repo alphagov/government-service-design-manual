@@ -65,12 +65,12 @@ Click the label alignment options in the snippet below to see how they affect th
           </p>
           <p class="group validation">
             <span class="validation-message" id="error1">1. Enter your first name</span>
-            <label for="first-name">First name <abbr title="Mandatory">*</abbr></label>
+            <label for="first-name">First name (required)</label>
             <input id="first-name" type="text" class="name">
           </p>
           <p class="group validation">        
             <span class="validation-message" id="error2">2. Enter your last name</span>
-            <label for="last-name">Last name <abbr title="Mandatory">*</abbr></label>
+            <label for="last-name">Last name (required)</label>
             <input id="last-name" type="text" class="name">
           </p>
 
@@ -115,12 +115,12 @@ Click the label alignment options in the snippet below to see how they affect th
         <fieldset>
           <legend>Email address</legend>
           <p class="group">
-            <label for="email">Enter email <abbr title="Mandatory">*</abbr></label>
+            <label for="email">Enter email (Required)</label>
             <input id="email" type="email" class="email">
           </p>
           <p class="group validation">
             <span class="validation-message" id="error3">3. Re-type your email address</span>
-            <label for="email-confirm">Re-type email <abbr title="Mandatory">*</abbr></label>
+            <label for="email-confirm">Re-type email (required)</label>
             <input id="email-confirm" type="email" class="email">
           </p>
         </fieldset>
