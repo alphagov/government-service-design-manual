@@ -84,7 +84,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-5">
-    <div class="point">Consider the tools and systems they will be using to build, host, operate and measure their service, and how to procure them</div>
+    <div class="point">Consider the tools and systems that will be used to build, host, operate and measure the service, and how to procure them</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
