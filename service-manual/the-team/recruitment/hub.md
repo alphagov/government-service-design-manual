@@ -38,14 +38,14 @@ GDS must approve the job descriptions and appointments for all SCS-level technol
 For SCS level hires, the Recruitment Hub will also provide:
 
 * feedback, advice and approval on tailored organisational design and SCS job descriptions as needed, to ensure that the lines of reporting and share of responsibilities between other digital and technology (IT) leaders within organisations are clearly set out.
-* coordinated headhunting support for departments looking to identify interim senior appointments
+* coordinated headhunting support for departments looking to identify suitable candidates for senior appointments
 * GDS expertise to work with departments in sifting, shortlisting and interviewing of applicants
 
-After a job description has been agreed and advertised, departments should contact GDS to confirm a date for sifting the applicants and producing a shortlist. Once a shortlist has been agreed, the department should confirm interview dates with GDS so an interviewer to join the panel. Following interviews taking place, the department must agree with GDS that the candidate selected at interview is suitable for the role before offering the appointment. Departments should continue to liaise with advertisers and Civil Service Commissioners directly.
+After a job description has been agreed and advertised, departments should contact GDS to confirm a date for sifting the applicants and producing a shortlist. Once a shortlist has been agreed, the department should confirm interview dates with GDS so an interviewer can be made available to join the panel. Following interviews taking place, the department must agree with GDS that the candidate selected at interview is suitable for the role before offering the appointment. Departments should continue to liaise with advertisers and Civil Service Commissioners directly.
 
 ## Non-SCS specialist recruitment
 
-GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in special digital skills. The template [job descriptions], [organisation design advice] and [salary guidance] should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
+GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in specialist digital skills. The template [job descriptions], [organisation design advice] and [salary guidance] should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
 
 In addition, the Recruitment Hub will provide:
 
@@ -53,7 +53,7 @@ In addition, the Recruitment Hub will provide:
 * coordinated headhunting support for departments looking to identify specialist digital skills
 * GDS expertise to work with departments in sifting, shortlisting and interviewing of some key Band A / Grade 6 / Grade 7 specialist posts
 
-In specific cases where a position requires a particularly specialist set of technical skills (eg technical architects, designers), departments should request sifting or shortlisting support from the Recruitment Hub. We cannot promise to provide this in all cases, but will endeavour to make expert advice available from the shortlisting stage for crucial specialist positions. This service should be requested when the post is advertised.
+In specific cases where a position requires a particular specialist set of technical skills (eg technical architects, designers), departments should request sifting or shortlisting support from GDS via the Recruitment Hub. We cannot promise to provide this in all cases, but will endeavour to make expert advice available from the shortlisting stage for crucial posts. This service should be requested before the post is advertised.
 
 The Recruitment Hub will not:
 
