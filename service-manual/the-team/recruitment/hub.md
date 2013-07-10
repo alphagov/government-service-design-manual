@@ -33,7 +33,7 @@ All queries for the hub should be made to [digitaltalent@digital.cabinet-office.
 
 ## SCS recruitment
 
-GDS must approve the job descriptions and appointments for all SCS-level technology positions. The template [job descriptions], [organisation design advice] and [salary guidance] should be a useful starting point for departments and agencies to tailor to their specific roles.
+GDS must approve the job descriptions and appointments for all SCS-level technology positions. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should be a useful starting point for departments and agencies to tailor to their specific roles.
 
 For SCS level hires, the Recruitment Hub will also provide:
 
@@ -45,7 +45,7 @@ After a job description has been agreed and advertised, departments should conta
 
 ## Non-SCS specialist recruitment
 
-GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in specialist digital skills. The template [job descriptions], [organisation design advice] and [salary guidance] should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
+GDS does not need to approve the appointment of non-SCS specialist posts, but will provide a similar level of support for departments seeking to bring in specialist digital skills. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
 
 In addition, the Recruitment Hub will provide:
 
