@@ -38,7 +38,7 @@ The templates have left gaps for departments to complete. Recruiters will need t
 * information on reporting lines
 * GIS declaration and Immigration Status Forms
 
-Before advertising any SCS technology position, the GDS Recruitment Hub must have reviewed and agreed the job description after it has been tailored to a specific organisation and post. GDS does not need to approve non-SCS job descriptions prior to advertisement, though will provide advice if asked by departments.
+Before advertising any SCS technology position, the [Recruitment Hub](/the-team/recruitment/hub.html) must have reviewed and agreed the job description after it has been tailored to a specific organisation and post. GDS does not need to approve non-SCS job descriptions prior to advertisement, though will provide advice if asked to by departments.
 
 ## Templates
 
