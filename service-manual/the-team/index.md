@@ -19,6 +19,12 @@ The right team needs to be in place to deliver a digital by default service. Tea
 
 They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is redesigning and running, and the extent to which each will be delivered in house.
 
+## Recruitment
+
+Many of the skills needed to lead and deliver digital public services are relatively new to government. 
+
+GDS has pulled together a set of materials to help departments with the [recruitment](/service-manual/the-team/recruitment.html) of technology leaders and digital specialists. 
+
 ## Service managers
 
 Regardless of the delivery approach, all transactional services need to have a [service manager](/service-manual/the-team/service-manager.html).
