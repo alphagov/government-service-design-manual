@@ -53,6 +53,15 @@ Before advertising any SCS technology position, the [Recruitment Hub](/the-team/
 
 ### Non-SCS specialist roles
 
-* Technical Architect
-* Designer
-* Delivery Manager...
+* Designer [Download as Open Office doc] / [Download as MS Word doc]
+* Junior visual designer [Download as Open Office doc] / [Download as MS Word doc]
+* Technical Architect [Download as Open Office doc] / [Download as MS Word doc]
+* Developer [Download as Open Office doc] / [Download as MS Word doc]
+* Business analyst [Download as Open Office doc] / [Download as MS Word doc]
+* Content designer [Download as Open Office doc] / [Download as MS Word doc]
+* User researcher [Download as Open Office doc] / [Download as MS Word doc]
+* Product manager [Download as Open Office doc] / [Download as MS Word doc]
+* Delivery manager [Download as Open Office doc] / [Download as MS Word doc]
+* Performance analyst [Download as Open Office doc] / [Download as MS Word doc]
+* Web ops [Download as Open Office doc] / [Download as MS Word doc]
+* Portfolio manager [Download as Open Office doc] / [Download as MS Word doc]
