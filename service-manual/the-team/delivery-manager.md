@@ -50,7 +50,7 @@ A delivery manager will also need the following skills:
 
 ## Job description templates
 
-Click either of the options below to download a template Service Manager job description. 
+Click either of the options below to download a template Delivery Manager job description. 
 
 [Download as Open Office doc](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx) 
 
