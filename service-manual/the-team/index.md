@@ -19,17 +19,21 @@ The right team needs to be in place to deliver a digital by default service. Tea
 
 They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is redesigning and running, and the extent to which each will be delivered in house.
 
-## Service managers
+## Recruitment
 
-Regardless of the delivery approach, all transactional services need to have a [service manager](/service-manual/the-team/service-manager.html).
+Many of the skills needed to lead and deliver digital public services are relatively new to government and are highly sought after. 
 
-The service manager is likely to need support from a core team focused on analysing user data, identifying user needs, writing user stories, reporting and other aspects of stakeholder management and governance.
+GDS has pulled together a set of materials to help departments with the [recruitment](/service-manual/the-team/recruitment.html) of technology leaders and digital specialists. 
 
 ## Building a digital delivery team
 
 There are a range of skills and capabilities that need to come together to successfully deliver a digital service. The focus is likely to shift as you move through the different phases of development - from discovery, through alphas and betas, preparing for launch, and then running and iteratively improving the live service. The core team is likely to remain fairly constant, but may need to draw in additional resource and expertise along the way.
 
-At the heart of any digital delivery team will be the 'makers' - the designers, developers, technical architects and others who design, build, test and deploy the software and content that meet the needs of your users.
+Regardless of the delivery approach, all transactional services need to have a [service manager](/service-manual/the-team/service-manager.html).
+
+The service manager is likely to need support from a core team focused on analysing user data, identifying user needs, writing user stories, reporting and other aspects of stakeholder management and governance.
+
+Alongside the service manager at the heart of any digital delivery team will be the 'makers' - the designers, developers, technical architects and others who design, build, test and deploy the software and content that meet the needs of your users.
 
 Supporting and enabling this 'making' are others who make sure the user needs are well understood, clearly articulated and prioritised, that stakeholders are kept informed, that releases are well communicated, that users of the service are supported, that performance is monitored etc.
 
@@ -56,10 +60,10 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
 * a tech lead
 * one or more [designers](/service-manual/the-team/designer.html)
-* one or more [user researchers](/service-manual/user/user-research/index.html)
+* one or more [user researchers](/service-manual/users/introduction-to-user-research.html)
 * one or more [developers](/service-manual/the-team/developer.html)
 * one or more [content designers](/service-manual/the-team/content-designer.html)
-* the support of a technical architect
+* the support of a [technical architect](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)
 * the support of some [web ops expertise](/service-manual/the-team/web-operations.html)
 
 The team will also have a shared understanding of the [accessibility needs](/service-manual/the-team/accessibility.html) and possible [assisted digital](/service-manual/assisted-digital) needs of a service's users.

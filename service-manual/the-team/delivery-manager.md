@@ -49,7 +49,12 @@ A delivery manager will also need the following skills:
 * an understanding of the wider digital landscape
 
 ## Job description templates
-[Delivery Manager](/service-manual/the-team/recruitment/delivery-manager-jd.html)
+
+Click either of the options below to download a template Delivery Manager job description. 
+
+[Download as Open Office doc](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx) 
+
+Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 
 ## Further reading
 * [Good health check](http://www.scrumalliance.org/articles/103-the-managers-role-in-agile) from the Scrum Alliance for delivery managers.

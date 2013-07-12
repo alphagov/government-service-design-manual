@@ -26,7 +26,7 @@ Service managers are individuals who work full-time to develop and deliver all t
 
 Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called Product Managers in the commercial world) are necessary to deliver high-quality digital services.
 
-We are adopting that model, requiring each transactional digital service handling over 100,000 transactions each year to be developed, operated and continually improved by an experienced, skilled and empowered Service Manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
+We are adopting that model, [requiring each transactional digital service handling over 100,000 transactions each year](http://publications.cabinetoffice.gov.uk/digital/strategy/) to be developed, operated and continually improved by an experienced, skilled and empowered Service Manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
 
 ## Responsibilities
 
@@ -44,19 +44,19 @@ These Service Managers will:
 
 This will depend on the scale of the service you are working on.  In some cases the Service Manager will also be able to fulfil the role of Product Manager - working closely with the delivery team (the 'makers'), prioritising stories for each sprint, attending daily stand ups, being on hand to comment on solutions as they emerge, and accepting stories once they are delivered. However, in many cases it is likely that the Service Manager won’t have the capacity to be this hands-on, so they are likely to need a dedicated Product Manager.
 
-## Help with hiring service managers
-
-The [government digital strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/) requires services handling over 100,000 transactions each year to be redesigned, operated and improved by a skilled, experienced and empowered Service Manager.
-
-Cabinet Office will help departments to recruit suitably skilled individuals. Newly appointed Service Managers will be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
-
 ## Sample job description
 
-An [example job description for this role](/service-manual/the-team/recruitment/service-manager-jd.html) provided by GDS.
+Click either of the options below to download a template Service Manager job description. 
+
+[Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx) 
+
+Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html). Newly appointed Service Managers will also be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 
 ## Guidance
 
 Read [guidance within the manual of particular interest to service managers](/service-manual/service-managers).
+
+Read more about how Service Managers should interact with other technology leaders in our [organisation design guidance](/service-manual/the-team/recruitment/scs-orgdesign.html).
 
 ## Further reading
 
