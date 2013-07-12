@@ -54,12 +54,3 @@ In addition, the Recruitment Hub will provide:
 * GDS expertise to work with departments in sifting, shortlisting and interviewing of some key Band A / Grade 6 / Grade 7 specialist posts
 
 In specific cases where a position requires a particular specialist set of technical skills (eg technical architects, designers), departments should request sifting or shortlisting support from GDS via the Recruitment Hub. We cannot promise to provide this in all cases, but will endeavour to make expert advice available from the shortlisting stage for crucial posts. This service should be requested before the post is advertised.
-
-The Recruitment Hub will not:
-
-* retain a set of SCS or non-SCS candidates that can be directly charged out from GDS to departments
-* mandate GDS approval of all non-SCS positions, except where GDS has sat on an sifting / interview panel
-* tailor job descriptions for positions below SCS level
-* guarantee the availability of GDS experts for sifting / interviewing candidates in roles below SCS level, but will endeavour to provide it for key positions
-* coordinate TiB faststream recruitment
-
