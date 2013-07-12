@@ -48,7 +48,7 @@ Before advertising any SCS technology position, the [Recruitment Hub](/service-m
 * Chief Technology Officer (CTO) [Download as Open Office doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.docx)
 * Head of Business IT [Download as Open Office doc](/service-manual/the-team/recruitment/Head-of-Business-IT-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Head-of-Business-IT-pack-SM.docx)
 * Head of Policy and Performance [Download as Open Office doc](/service-manual/the-team/recruitment/Head-of-Policy-and-Performance-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Head-of-Policy-and-Performance-pack-SM.docx)
-* Digital Service Manager [Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx)
+* Service Manager [Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx)
 * Technology Lead [Download as Open Office doc](/service-manual/the-team/recruitment/Technology-Lead-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Technology-Lead-pack-SM.docx)
 
 ### Non-SCS specialist roles
