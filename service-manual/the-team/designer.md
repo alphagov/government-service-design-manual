@@ -40,7 +40,12 @@ When evaluating their design work, it is important that the designer can explain
 You should also ask the designer to talk about any significant differences between the design they present in their portfolio and the actual live design. It is important that designers create appropriate work and are able to persuade stakeholders and their team to make good design decisions.
 
 ## Job description templates
-See an [example of a designer job description](/service-manual/the-team/recruitment/designer-jd.html) provided by GDS.
+Click either of the options below to download template Designer job descriptions. 
+
+Designer - [Download as Open Office doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx) 
+Junior Visual Designer - [Download as Open Office doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx) 
+
+Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 
 ##Further reading
 * [Specific guidance for designers working on digital by default services](/service-manual/designers).
