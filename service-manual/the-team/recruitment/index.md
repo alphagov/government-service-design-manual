@@ -36,7 +36,7 @@ GDS is supporting departments in bringing in these new skills by setting up a Re
 
 Having the right roles is just as important as having the right people. That applies as much to leadership teams guiding digital transformation across the department as it is does for the teams delivering digital services on the ground.
 
-Read more about models for organising roles for [senior technology leadership](/service-manual/the-team/recruitment/scs-orgdesign.html) and [digital service delivery](/service-manual/the-team/recruitment/hub.html).
+Read more about models for organising roles for [senior technology leadership](/service-manual/the-team/recruitment/scs-orgdesign.html).
 
 
 ## Job descriptions

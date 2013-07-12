@@ -38,6 +38,7 @@ Government is not looking for average candidates. We need people with a track re
 | Digital Service Manager | SCS Payband 1 | £60,000 - £80,000 |
 | Head of Digital Policy and Performance | SCS Payband 1 | £65,000 - £75,000 |
 | Head of Business IT  | SCS Payband 1 | £85,000 - £95,000 |
+| Technical lead  | SCS Payband 1/2 | £75,000 - £100,000 |
 
 
 The scope, responsibilities and interactions with other senior leaders that the successful candidate takes on will vary across departments, depending on their size, the number of services they are responsible for, and the extent of their existing IT estate.

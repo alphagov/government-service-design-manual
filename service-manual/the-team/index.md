@@ -21,9 +21,9 @@ They combine designers, developers, researchers and content specialists to deliv
 
 ## Recruitment
 
-Many of the skills needed to lead and deliver digital public services are relatively new to government and are highly sought after. 
+Many of the skills needed to lead and deliver digital public services are relatively new to government and are highly sought after.
 
-GDS has pulled together a set of materials to help departments with the [recruitment](/service-manual/the-team/recruitment.html) of technology leaders and digital specialists. 
+GDS has pulled together a set of materials to help departments with the [recruitment](/service-manual/the-team/recruitment) of technology leaders and digital specialists.
 
 ## Building a digital delivery team
 
