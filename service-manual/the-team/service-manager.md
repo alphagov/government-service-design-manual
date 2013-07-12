@@ -48,7 +48,7 @@ This will depend on the scale of the service you are working on.  In some cases 
 
 Click either of the options below to download a template Service Manager job description. 
 
-[Download as Open Office doc](Service-Manager-pack-SM.odt) / [Download as MS Word doc](Service-Manager-pack-SM.docx) 
+[Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html). Newly appointed Service Managers will also be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
 
