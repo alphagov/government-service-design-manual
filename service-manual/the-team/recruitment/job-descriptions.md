@@ -44,24 +44,24 @@ Before advertising any SCS technology position, the [Recruitment Hub](/the-team/
 
 ### SCS roles
 
-* Chief Digital Officer (CDO) [Download as Open Office doc](CDO-applicant-pack-SM.odt) / [Download as MS Word doc](CDO-applicant-pack-SM.docx)
-* Chief Technology Officer (CTO) [Download as Open Office doc](CTO-applicant-pack-SM.odt) / [Download as MS Word doc](CTO-applicant-pack-SM.docx)
-* Head of Business IT [Download as Open Office doc](Head-of-Business-IT-pack-SM.odt) / [Download as MS Word doc](Head-of-Business-IT-pack-SM.docx)
-* Head of Policy and Performance [Download as Open Office doc](Head-of-Policy-and-Performance-pack-SM.odt) / [Download as MS Word doc](Head-of-Policy-and-Performance-pack-SM.docx)
-* Digital Service Manager [Download as Open Office doc](Service-Manager-pack-SM.odt) / [Download as MS Word doc](Service-Manager-pack-SM.docx)
-* Technology Lead [Download as Open Office doc] / [Download as MS Word doc]
+* Chief Digital Officer (CDO) [Download as Open Office doc](/service-manual/the-team/recruitment/CDO-applicant-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/CDO-applicant-pack-SM.docx)
+* Chief Technology Officer (CTO) [Download as Open Office doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.docx)
+* Head of Business IT [Download as Open Office doc](/service-manual/the-team/recruitment/Head-of-Business-IT-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Head-of-Business-IT-pack-SM.docx)
+* Head of Policy and Performance [Download as Open Office doc](/service-manual/the-team/recruitment/Head-of-Policy-and-Performance-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Head-of-Policy-and-Performance-pack-SM.docx)
+* Digital Service Manager [Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx)
+* Technology Lead [Download as Open Office doc](/service-manual/the-team/recruitment/Technology-Lead-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Technology-Lead-pack-SM.docx)
 
 ### Non-SCS specialist roles
 
-* Designer [Download as Open Office doc] / [Download as MS Word doc]
-* Junior visual designer [Download as Open Office doc] / [Download as MS Word doc]
-* Technical Architect [Download as Open Office doc] / [Download as MS Word doc]
-* Developer [Download as Open Office doc] / [Download as MS Word doc]
-* Business analyst [Download as Open Office doc] / [Download as MS Word doc]
-* Content designer [Download as Open Office doc] / [Download as MS Word doc]
-* User researcher [Download as Open Office doc] / [Download as MS Word doc]
-* Product manager [Download as Open Office doc] / [Download as MS Word doc]
-* Delivery manager [Download as Open Office doc] / [Download as MS Word doc]
-* Performance analyst [Download as Open Office doc] / [Download as MS Word doc]
-* Web ops [Download as Open Office doc] / [Download as MS Word doc]
-* Portfolio manager [Download as Open Office doc] / [Download as MS Word doc]
+* Designer [Download as Open Office doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx)
+* Junior visual designer [Download as Open Office doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx)
+* Technical Architect [Download as Open Office doc](/service-manual/the-team/recruitment/Technicalarchitect-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)
+* Developer [Download as Open Office doc](/service-manual/the-team/recruitment/Developer-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Developer-generic.docx)
+* Business analyst [Download as Open Office doc](/service-manual/the-team/recruitment/Businessanalyst-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Businessanalyst-generic.docx)
+* Content designer [Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
+* User researcher [Download as Open Office doc](/service-manual/the-team/recruitment/Userresearcher-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Userresearcher-generic.docx)
+* Product manager [Download as Open Office doc](/service-manual/the-team/recruitment/ProductManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/ProductManager-generic.docx)
+* Delivery manager [Download as Open Office doc](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx)
+* Performance analyst [Download as Open Office doc](/service-manual/the-team/recruitment/Digitalperformanceanalyst-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Digitalperformanceanalyst-generic.docx)
+* Web ops [Download as Open Office doc](/service-manual/the-team/recruitment/WebOps-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/WebOps-generic.docx)
+* Portfolio manager [Download as Open Office doc](/service-manual/the-team/recruitment/PortfolioManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/PortfolioManager-generic.docx)
