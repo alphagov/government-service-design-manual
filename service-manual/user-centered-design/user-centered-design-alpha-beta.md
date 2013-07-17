@@ -47,9 +47,9 @@ Don’t spend more than 2 weeks working on design without testing it with real e
 
 Each 2-week iteration should comprise of 3 stages:
 
-* build (anchor link)
-* measure (anchor link)
-* learn (anchor link)
+* [build](#build)
+* [measure](#measure)
+* [learn](#learn)
 
 ![A sketch of the Identity Assurance (IDA) team’s fortnightly iteration plan](/service-manual/assets/images/user-centered-design/process-wheel-small.png)
 
@@ -153,11 +153,12 @@ There are many other research methods you can use to supplement your ‘in perso
 Here‘s a [list of some techniques](/service-manual/user-centered-design/introduction-to-user-research) you can use and information on how and when you should use them.
 
 ## Learn
+
 Now it’s time to see what you can learn from your user testing and research. Make the best possible use of this information by:
 
-* analysing (anchor)
-* sharing (anchor)
-* communicating (anchor)
+* [analysing](#analysis)
+* [sharing](#share-your-findings)
+* [communicating](#communicating)
 
 ### Analysis
 It’s important to properly debrief after spending a day doing user testing as you’ll have seen a lot of people and a lot of different reactions.

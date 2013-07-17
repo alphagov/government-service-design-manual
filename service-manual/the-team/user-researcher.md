@@ -48,4 +48,4 @@ See an example of a [user researcher job description](/service-manual/the-team/r
 
 ## Further reading
 
-(Specific guidance for user researchers)[/service-manual/designers] working on digital by default services.
+[Specific guidance for user researchers](/service-manual/user-researchers) working on digital by default services.
