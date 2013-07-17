@@ -39,11 +39,11 @@ Content designers must be able to:
 - [identify user needs](/service-manual/users) - based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders and analytics data both from the site and from search engines
 - gain an in-depth knowledge of a wide range of subjects - so they can make informed decisions about the best way to present information to users
 - develop content plans and strategies - high-level plans showing how the identified user needs will be met
-- [write great content](/service-manual/design-and-content/writing-government-services.html) - in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
+- [write great content](/service-manual/user-centered-design/writing-government-services.html) - in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
 - edit content - making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user - grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
 - work with developers and designers to [create better solutions](http://digital.cabinetoffice.gov.uk/2012/11/05/tools-over-content/) - for example, writing logic and content for smart answers
-- understand and incorporate the results of [user testing](/service-manual/users/introduction-to-user-research.html)
+- understand and incorporate the results of [user testing](/service-manual/user-centered-design/introduction-to-user-research.html)
 - review the work of other editors - to ensure consistency and excellence across the site
 - publish content - using various systems
 - communicate the [principles of good content design](/designprinciples/styleguide) to others in the organisation
@@ -57,8 +57,8 @@ Read [guidance in the manual of particular interest to content designers](/servi
 
 ##Job description
 
-Click either of the options below to download a template Content designer job description. 
+Click either of the options below to download a template Content designer job description.
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx) 
+[Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).

@@ -98,7 +98,7 @@ We recognise that there’ll be a few exceptions. To help you assess whether you
 
 ### More questions
 
-1. [What’s the user need?](/service-manual/users/user-needs.html) Please provide supporting evidence
+1. [What’s the user need?](/service-manual/user-centered-design/user-needs.html) Please provide supporting evidence
 2. Which 3rd-party native/hybrid apps have already been developed to meet this user need? If there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are 3rd-party alternatives, please state why you believe a government-developed app is required
 3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know your users](/service-manual/users) and [Writing user stories](/service-manual/agile/writing-user-stories.html)
 4. Is there evidence of demand for this type of app amongst your target users? If you believe there is, please provide supporting evidence, eg similar apps that have proven popular with your target audience and evidence of their popularity

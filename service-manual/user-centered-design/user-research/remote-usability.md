@@ -4,8 +4,8 @@ title: Remote usability/summative testing (quantative)
 subtitle: Getting input into products and services
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,9 +20,9 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
-    
+
 Remote usability testing takes place outside the lab with users participating in their own home, using their own computers, and with no third party moderator present.
 
 ## How remote usability testing works
@@ -34,8 +34,8 @@ As there is no moderator present, special software is used in order to record th
 While traditional lab testing focuses of gathering rich and detailed information, remote usability testing aims to test with large numbers of users and produce statistically significant results. It is recommended that remote testing is not conducted in isolation, and face to face testing is also completed.
 
 ## Where and how you might use it
- 
-Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing task based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction (Jobseekers Allowance, Driving Licence, etc). Success is measured on whether the user can complete the tasks/transaction. 
+
+Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing task based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction (Jobseekers Allowance, Driving Licence, etc). Success is measured on whether the user can complete the tasks/transaction.
 
 Benchmarks on new and existing products are gathered so that completion rates (and other success measures) be collected and performance monitored.
 
@@ -50,7 +50,7 @@ The key advantage of remote usability testing are that it:
 
 Although remote usability provides testing with large numbers of people, findings can lack depth as they focus on what people do, and not why they have done it. When testing new products the tasks can seem artificial, and this is increased when testing is conducted with a panel of users, instead of real users on a live site.
 
-Remote usability testing should not be used in isolation and it is recommended that it is used in conjunction with face to face testing with real users. 
+Remote usability testing should not be used in isolation and it is recommended that it is used in conjunction with face to face testing with real users.
 
 ## Number and types of participants
 

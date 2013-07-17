@@ -89,17 +89,17 @@ Here are some ways you can make this transition easier:
 
 ## Test your forms with real users
 
-You should test your paper forms with real users. For complex forms, plan for 3 rounds of [lab testing](/service-manual/users/user-research/lab-based-user-testing.html), making improvements to the form between each round.
+You should test your paper forms with real users. For complex forms, plan for 3 rounds of [lab testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html), making improvements to the form between each round.
 
 You'll gain valuable insight by attending the user research in person.
 
-Get [an introduction to user research](/service-manual/users/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
+Get [an introduction to user research](/service-manual/user-centered-design/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
 
 [Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
-Where specialist terms are unavoidable, or necessary, you will need people who understand [how users read](/service-manual/design-and-content/how-users-read.html) and how best to [write for government services](/service-manual/design-and-content/writing-government-services.html) when working on the design.
+Where specialist terms are unavoidable, or necessary, you will need people who understand [how users read](/service-manual/user-centered-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centered-design/writing-government-services.html) when working on the design.
 
 Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
 

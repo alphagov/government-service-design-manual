@@ -6,7 +6,7 @@ category: design-and-development-resources
 type: resource
 audience:
     primary: designers, developers
-    secondary: 
+    secondary:
 status: draft
 phases:
   - alpha
@@ -23,7 +23,7 @@ breadcrumbs:
 
 ## Writing the HTML for forms
 
-Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html). 
+Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html).
 
 Browsers have default styling for forms. This is usually shared with the styling of the operating system user interface (UI), making it familiar to users. Ensure that any styling you add does not remove any of the native, highly accessible functionality offered by these defaults.
 
@@ -81,13 +81,13 @@ Do not pre-check radios if:
 
 ## Wrapping controls in a label tag
 
-In the examples above the controls are wrapped in their associated label tag. 
+In the examples above the controls are wrapped in their associated label tag.
 
 The default behaviour of clicking a label will move focus to its associated form element. By wrapping a form element in its label you increase the size of the area users need to click to interact with that element to whatever size you make the label.
 
 ## Label positioning
 
-There are valid cases for top, left or right alignment of labels. The position of an element's label does not effect how screenreaders announce it to users. 
+There are valid cases for top, left or right alignment of labels. The position of an element's label does not effect how screenreaders announce it to users.
 
 The table below (from a [great article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
 
@@ -134,7 +134,7 @@ In the example below the second input box has a hidden label. It is associated w
       </p>
 
     </div>
-</div> 
+</div>
 
 ## Styling text input fields
 
@@ -169,7 +169,7 @@ As explained in their [HTML5 specification section](http://www.w3.org/TR/html51/
 
 ### Nested fieldsets
 
-There are times when you might want to treat a set of form controls like they were a single, compound control 
+There are times when you might want to treat a set of form controls like they were a single, compound control
 (a date-of-birth selector for example). One way to do this is with a nested fieldset.
 
 <div class="pattern-example">
@@ -240,7 +240,7 @@ Hints for help with interactions can be placed above or below the relevant contr
       </p>
 
     </div>
-</div> 
+</div>
 
 ## Buttons
 
@@ -258,9 +258,9 @@ By default buttons should be horizontally left-aligned beneath the form inputs (
         </p>
 
     </div>
-</div> 
+</div>
 
-See the [separate page on buttons](/service-manual/design-and-content/resources/buttons.html) for more detailed guidance.
+See the [separate page on buttons](/service-manual/user-centered-design/resources/buttons.html) for more detailed guidance.
 
 ## Validation messages
 
@@ -280,7 +280,7 @@ Summarise any validation errors at the top of your page like this:
       </div>
 
     </div>
-</div> 
+</div>
 
 Each link should jump the user down to the corresponding form control.
 
@@ -288,7 +288,7 @@ The red bar visually connects the summary to the messages in the form and aids q
 
 # Examples in this page
 
-To see all the examples above in a single form, check out the [registration form example](/service-manual/design-and-content/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
+To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centered-design/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
 
 # Examples on [GOV.UK](https://www.gov.uk)
 

@@ -4,8 +4,8 @@ title: User research tools
 subtitle: Products available to researchers
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,9 +20,9 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
-    
+
 There are number of good tools that can help user research teams conduct in-house research quickly and effectively. Below is a high level overview of what these enable, for people unfamiliar with user testing.
 
 Online tools are a good way in which to conduct in-house research cheaply and effectively. Conducting research in-house enables user research teams get closer to the data, and have a good understanding of the user. This is, however, dependent on teams having adequate resource to enable analysis to be conducted properly and fed back to the relevant teams.
@@ -31,13 +31,13 @@ Online tools are a good way in which to conduct in-house research cheaply and ef
 
 ## Survey tools
 
-These enable the easy creation of online surveys. Features include ascripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc. 
+These enable the easy creation of online surveys. Features include ascripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc.
 
 Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](http://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](http://www.smart-survey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
 
 ## Remote user testing tools
 
-These tools enable user research teams to conduct remote usability testing in-house. These tools allow you to script the surveys easily, while also conduct the analysis to be conducted relatively simply and quickly. 
+These tools enable user research teams to conduct remote usability testing in-house. These tools allow you to script the surveys easily, while also conduct the analysis to be conducted relatively simply and quickly.
 
 Most of these tools also enable you to conduct standard online surveys within the same software package. Examples include [Keynote Webeffective](http://www.keynote.com/products/customer_experience/web_ux_research_tools/webeffective.html), and [User Zoom](http://www.userzoom.co.uk/).
 

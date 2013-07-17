@@ -84,4 +84,4 @@ Analyse the major factors generating satisfaction with the service. You can do t
 You can then determine which of those factors is most positively contributing to user satisfaction and prioritise where to direct ongoing design efforts.
 
 ## Further reading
-[Survey design](/service-manual/users/user-research/survey-design.html)
+[Survey design](/service-manual/user-centered-design/user-research/survey-design.html)

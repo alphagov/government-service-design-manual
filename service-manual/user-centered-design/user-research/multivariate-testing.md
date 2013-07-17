@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
 
 We interviewed Craig Sullivan, an industry expert on conversion optimization. He explains when he uses A/B and multivariate experiments in the design process.

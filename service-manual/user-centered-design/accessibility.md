@@ -47,7 +47,7 @@ Your service should be usable by recent versions of [Jaws](http://www.freedomsci
 
 ## Accessible formats
 
-HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/design-and-content/resources/creating-accessible-PDFs.html) should be followed. There is more information on [choosing appropriate formats](/service-manual/design-and-content/choosing-appropriate-formats.html)
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html) should be followed. There is more information on [choosing appropriate formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)
 
 
 ## Accessible content

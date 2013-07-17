@@ -41,7 +41,7 @@ There must be a level playing field for open source and proprietary software sol
 ##Changing culture
 Delivering technology that meets the needs and expectations of users will require major changes to the culture and mindset of teams. That means:
 
-* defining services based on [user needs](/service-manual/users/user-needs.html)
+* defining services based on [user needs](/service-manual/user-centered-design/user-needs.html)
 * using [government as a platform](/service-manual/technology/government-as-a-platform.html)
 * creating a [culture that supports change](/service-manual/technology/culture-that-supports-change.html)
 * thinking of [security as an enabler](/service-manual/technology/security-as-enabler.html) for service transformation

@@ -19,8 +19,8 @@ breadcrumbs:
     title: Making software
     url: /service-manual/making-software
 ---
-    
-[Martha Lane Fox's report](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler, as well as the retail shop front, for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](http://en.wikipedia.org/wiki/Application_programming_interface)) to third parties." 
+
+[Martha Lane Fox's report](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler, as well as the retail shop front, for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](http://en.wikipedia.org/wiki/Application_programming_interface)) to third parties."
 
 This section is a set of guiding principles for exposing a digital service as an API.
 
@@ -33,7 +33,7 @@ This is especially a risk in the absence of a developer community driving [the n
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations. 
+Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations.
 
 Becoming a consumer of your own APIs not only validates your API, but exposes services [on The Web](http://www.w3.org/TR/webarch/).
 
@@ -80,7 +80,7 @@ Where possible, also offer other formats most suited to a specific domain, such 
 - [KML](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](http://en.wikipedia.org/wiki/GeoRSS) for geographical data
 - [m3u](http://en.wikipedia.org/wiki/.m3u) for playlists
 
-_This advice builds on our [more general guidance on data and content publication formats](/service-manual/design-and-content/choosing-appropriate-formats.html)._
+_This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)._
 
 Include hyperlinks to alternative representations as [link headers](http://www.w3.org/TR/html51/document-metadata.html#the-link-element) as well as in content.
 
@@ -123,7 +123,7 @@ Don't do everything yourself (you can't). Sometimes the functionality your servi
 Most modern digital services are built on top of a wide range of APIs. This allows each part of the service to focus on its core responsibility rather than constantly reinventing the wheel.
 
 ### Code Integration
-When consuming APIs you should be careful to keep the integration with your code clean and distinct. This is important to ensure that you can swap between providers or update to new versions of an API without making substantial changes to your core code. 
+When consuming APIs you should be careful to keep the integration with your code clean and distinct. This is important to ensure that you can swap between providers or update to new versions of an API without making substantial changes to your core code.
 
 At GDS we encourage the use of adapter code that is entirely focussed on interfacing with the system and mapping code that will provide the linkage between your code's domain model and the concepts and services provided by the API.
 

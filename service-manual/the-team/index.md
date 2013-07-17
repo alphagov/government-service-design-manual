@@ -41,13 +41,13 @@ Supporting and enabling this 'making' are others who make sure the user needs ar
 
 A core digital delivery team needs to be able to:
 
-* analyse [user needs](/service-manual/users/user-needs.html), and turn these into [user stories](/service-manual/agile/writing-user-stories.html)
+* analyse [user needs](/service-manual/user-centered-design/user-needs.html), and turn these into [user stories](/service-manual/agile/writing-user-stories.html)
 * manage the scope and prioritisation of stories
 * manage and report to stakeholders
 * managing dependencies on other teams
 * where needed, [procure services or solutions from 3rd parties](/service-manual/the-team/working-with-specialists.html)
 * design, build, test, demo and iterate software solutions (the 'making'!)
-* [test solutions](/service-manual/users/introduction-to-user-research.html) on real users
+* [test solutions](/service-manual/user-centered-design/introduction-to-user-research.html) on real users
 * [deploy and host](/service-manual/operations/hosting.html) the software
 * find solutions for [accrediting and handling of data](/service-manual/making-software/information-security.html)
 * [supporting the live running of the service](/service-manual/operations/index.html) (monitoring, fixing things when they break, responding to users)
@@ -60,7 +60,7 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
 * a tech lead
 * one or more [designers](/service-manual/the-team/designer.html)
-* one or more [user researchers](/service-manual/users/introduction-to-user-research.html)
+* one or more [user researchers](/service-manual/user-centered-design/introduction-to-user-research.html)
 * one or more [developers](/service-manual/the-team/developer.html)
 * one or more [content designers](/service-manual/the-team/content-designer.html)
 * the support of a [technical architect](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)

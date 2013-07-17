@@ -46,7 +46,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/users/user-needs.html">User needs</a></li>
+        <li><a href="/service-manual/user-centered-design/user-needs.html">User needs</a></li>
         <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
       </ul>
     </div>
@@ -101,7 +101,7 @@ breadcrumbs:
       <ul>
         <li><a href="/service-manual/agile">Agile</a></li>
         <li><a href="/service-manual/phases/alpha.html">Alpha phase</a></li>
-        <li><a href="/service-manual/design-and-content/working-with-prototypes.html">Working with prototypes</a></li>
+        <li><a href="/service-manual/user-centered-design/working-with-prototypes.html">Working with prototypes</a></li>
       </ul>
     </div>
   </li>
@@ -155,7 +155,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/design-and-content/print-forms.html">Printed forms</a></li>
+        <li><a href="/service-manual/user-centered-design/print-forms.html">Printed forms</a></li>
       </ul>
     </div>
   </li>
@@ -233,8 +233,8 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/users/user-research">User research</a></li>
-        <li><a href="/service-manual/users/user-research/multivariate-testing.html">Multivariate testing</a></li>
+        <li><a href="/service-manual/user-centered-design/user-research">User research</a></li>
+        <li><a href="/service-manual/user-centered-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
       </ul>
     </div>
   </li>

@@ -4,8 +4,8 @@ title: Guerilla testing
 subtitle: Getting input into products and services
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,8 +20,8 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
----    
+    url: /service-manual/user-centered-design/user-research
+---
 
 Guerilla user testing is a low cost method of user testing. The term ‘guerilla’ refers to its ‘out in the wild’ style, in the fact that it can be conducted anywhere eg cafe, library, train station etc, essentially anywhere where there is significant footfall.
 
@@ -42,7 +42,7 @@ Guerilla testing can be used throughout the service lifecycle. As it is cheap to
 There are a few logistics that should be taken into consideration before conducting any guerilla testing;
 
 * always ask permission first to speak with people
-* outline briefly the purpose of the research 
+* outline briefly the purpose of the research
 * reassure them about confidentiality
 * keep it simple and quick
 * consider the location and set up carefully eg a busy train station may have the footfall but people might be in too much of a hurry to spare the time

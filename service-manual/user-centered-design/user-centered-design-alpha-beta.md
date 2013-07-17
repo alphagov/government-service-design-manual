@@ -150,7 +150,7 @@ In return for their feedback, you may like to offer the participant a coffee!
 
 There are many other research methods you can use to supplement your ‘in person’ qualitative research and to address specific research questions. Using a different technique can provide better insight into a particular research question, or validate insights from fortnightly research with a larger audience.
 
-Here‘s a [list of some techniques](/service-manual/users/introduction-to-user-research) you can use and information on how and when you should use them.
+Here‘s a [list of some techniques](/service-manual/user-centered-design/introduction-to-user-research) you can use and information on how and when you should use them.
 
 ## Learn
 Now it’s time to see what you can learn from your user testing and research. Make the best possible use of this information by:

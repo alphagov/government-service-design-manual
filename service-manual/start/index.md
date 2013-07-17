@@ -38,7 +38,7 @@ This way of working tends to encourage the creation of overly prescriptive polic
 
 <img src="/service-manual/assets/images/DBD_Graph.jpg" alt="Diagram showing the four main development phases of a digital by default service" />
 
-This means [building and testing in small chunks](/service-manual/agile), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/users/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies.html) and [working in an agile way](/service-manual/agile). This new approach allows closer working between policy and delivery teams and as a result, the development of more responsive policy, two aims of the [Civil Service Reform plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf).
+This means [building and testing in small chunks](/service-manual/agile), working quickly to deliver improvements to a service. Teams will work out how to best meet the [needs of users](/service-manual/user-centered-design/user-needs.html), [releasing code regularly](/service-manual/making-software/release-strategies.html) and [working in an agile way](/service-manual/agile). This new approach allows closer working between policy and delivery teams and as a result, the development of more responsive policy, two aims of the [Civil Service Reform plan](http://www.civilservice.gov.uk/wp-content/uploads/2012/06/Civil-Service-Reform-Plan-acc-final.pdf).
 
 ## Essential reading
 

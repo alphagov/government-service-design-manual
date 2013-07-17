@@ -37,7 +37,7 @@ Public data is anonymised data:
 * on which policy decisions are based
 * is collected or generated in the course of your service delivery
 
-If for some reason you have made a procurement choice that means your performance data is monitored or stored by a third party, you should make sure that you have the right to access, export, share and reuse that data openly and in an [open format](/service-manual/design-and-content/choosing-appropriate-formats.html).
+If for some reason you have made a procurement choice that means your performance data is monitored or stored by a third party, you should make sure that you have the right to access, export, share and reuse that data openly and in an [open format](/service-manual/user-centered-design/choosing-appropriate-formats.html).
 
 ##Making your data open
 Your department has its own [Open Data Strategy (for 2012-2014)](http://www.data.gov.uk/search/apachesolr_search?filters=tid:11542) and will already be publishing data sets on [data.gov.uk](http://www.data.gov.uk/). Your commitment to open, public data doesn't stop there.
@@ -56,7 +56,7 @@ The Open Data Principles that you must follow are:
 6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions
 7. Public data underlying the Government’s own websites will be published in reusable form
 8. Public data will be timely and fine-grained
-9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/design-and-content/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data)
+9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centered-design/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data)
 10. Public data will be freely available to use in any lawful way
 11. Public data will be available without application or registration, and without requiring details of the user
 12. Public bodies should actively encourage the reuse of their public data
@@ -70,7 +70,7 @@ Users are already using your services, giving you lots of data about their behav
 
 Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [APIs](/service-manual/making-software/apis.html).
 
-As with all government digital services you'll need to [understand the user need](/service-manual/users/user-needs.html) for the data you publish.
+As with all government digital services you'll need to [understand the user need](/service-manual/user-centered-design/user-needs.html) for the data you publish.
 
 You'll need to keep developers aware of what datasets you are releasing and to maintain relationships with those primary data users at the cutting edge of technology who can help you to do things differently and in more agile ways. You can use [the engagement areas of data.gov.uk](http://data.gov.uk/participate) to reach out and keep in touch with data users.
 
@@ -114,6 +114,6 @@ The [Government Statistical Service](http://www.statistics.gov.uk/hub/government
 ##Further reading
 
 * [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [Open formats](https://www.gov.uk/service-manual/design-and-content/choosing-appropriate-formats.html)
+* [Open formats](https://www.gov.uk/service-manual/user-centered-design/choosing-appropriate-formats.html)
 * [Open standards](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
 * [Open Data White Paper: Unleashing the Potential](https://www.gov.uk/government/publications/open-data-white-paper-unleashing-the-potential)

@@ -4,7 +4,7 @@ title: Testing in an agile environment
 subtitle: How to get testing right
 category: agile
 type: guide
-audience: 
+audience:
   primary: qa
   secondary: service-managers, web-ops, developers, tech-archs
 theme: agile
@@ -49,7 +49,7 @@ Define acceptance criteria standards for your user stories. You can either do th
 
 ## Everyone is responsible for quality
 
-Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it. 
+Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it.
 
 Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
 
@@ -93,11 +93,11 @@ When done well, testing will inform you of the best way forward. It’ll also gi
 
 ## Types of testing
 
-The most noticeable difference with testing in an agile project is that the majority of your test efforts will be centred on automated tests. 
+The most noticeable difference with testing in an agile project is that the majority of your test efforts will be centred on automated tests.
 These tests run in [continuous integration (C.I.)](/service-manual/agile/continuous-delivery.html), which means that they form part of your codebase - every time you make a change to your code, your tests are automatically run. You’ll get immediate feedback on the quality of your code and it’ll help to prevent bugs happening at a later stage (when they’re expensive and complicated to resolve.)
 
 ### Code Testing
-Read the guidance about [testing code](/service-manual/making-software/code-testing.html).  
+Read the guidance about [testing code](/service-manual/making-software/code-testing.html).
 
 ### Exploratory Testing
 Exploratory  testing is a term commonly used to describe unscripted manual testing. This is where the tester uses his or her knowledge, experience and intuition to go through through the software and identify bugs.
@@ -149,4 +149,4 @@ Examples of where GDS used this effectively include:
 * the detailed checking of hundreds of pieces of content on GOV.UK against old content on DirectGov and BusinessLink
 
 ### Test Your Ideas
-Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/users/introduction-to-user-research.html).
+Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/user-centered-design/introduction-to-user-research.html).

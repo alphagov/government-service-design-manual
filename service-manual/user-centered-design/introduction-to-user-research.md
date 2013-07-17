@@ -71,24 +71,24 @@ Some services, eg where users are large corporations, will not require assisted 
 
 ### Background
 
-* [Sampling methodologies](/service-manual/users/user-research/sampling-methodologies.html)
-* [User research briefs](/service-manual/users/user-research/user-research-briefs.html)
-* [Survey design](/service-manual/users/user-research/survey-design.html)
-* [User research tools](/service-manual/users/user-research/user-research-tools.html)
+* [Sampling methodologies](/service-manual/user-centered-design/user-research/sampling-methodologies.html)
+* [User research briefs](/service-manual/user-centered-design/user-research/user-research-briefs.html)
+* [Survey design](/service-manual/user-centered-design/user-research/survey-design.html)
+* [User research tools](/service-manual/user-centered-design/user-research/user-research-tools.html)
 
 ### Qualitative user research techniques
 
-* [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html)
-* [Expert review](/service-manual/users/user-research/expert-review.html)
-* [Guerilla testing](/service-manual/users/user-research/guerilla-testing.html)
-* [Same day user testing](/service-manual/users/user-research/same-day-user-testing.html)
-* [Lab based user testing](/service-manual/users/user-research/lab-based-user-testing.html)
-* [Focus groups and 1:1 interviews](/service-manual/users/user-research/focus-groups-mini-groups-interviews.html)
-* [Community user groups](/service-manual/users/user-research/community-user-groups.html)
+* [Ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
+* [Expert review](/service-manual/user-centered-design/user-research/expert-review.html)
+* [Guerilla testing](/service-manual/user-centered-design/user-research/guerilla-testing.html)
+* [Same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
+* [Lab based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
+* [Focus groups and 1:1 interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)
+* [Community user groups](/service-manual/user-centered-design/user-research/community-user-groups.html)
 
 ### Quantitative
 
-* [User research surveys](/service-manual/users/user-research/user-research-surveys.html)
-* [Remote usability/summative testing](/service-manual/users/user-research/remote-usability.html)
-* [Online research panels](/service-manual/users/user-research/online-research-panels.html)
-* [Online omnibus surveying](/service-manual/users/user-research/online-omnibus-survey.html)
+* [User research surveys](/service-manual/user-centered-design/user-research/user-research-surveys.html)
+* [Remote usability/summative testing](/service-manual/user-centered-design/user-research/remote-usability.html)
+* [Online research panels](/service-manual/user-centered-design/user-research/online-research-panels.html)
+* [Online omnibus surveying](/service-manual/user-centered-design/user-research/online-omnibus-survey.html)

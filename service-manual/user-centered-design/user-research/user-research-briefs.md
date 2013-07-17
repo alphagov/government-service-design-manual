@@ -4,8 +4,8 @@ title: User research briefs
 subtitle: Documents that explain research requirements
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,10 +20,10 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
 
-A Research brief is a document written to explain research requirements and enable research to be procured via third party agencies. A research brief will outline the research objectives, and why the work is required. 
+A Research brief is a document written to explain research requirements and enable research to be procured via third party agencies. A research brief will outline the research objectives, and why the work is required.
 
 Agencies respond to the brief and recommend suitable ways to conduct the work, and address the research objectives.
 

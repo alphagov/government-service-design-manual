@@ -11,13 +11,13 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
-  - 
+  -
     title: Phases of service design
     url: /service-manual/phases
 ---
 
 {:.intro}
-You've been building a service to meet [users needs](/service-manual/users/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
+You've been building a service to meet [users needs](/service-manual/user-centered-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
 ## What does going 'live' mean?
 
@@ -25,7 +25,7 @@ In order to provide a fully resilient service to all end users the service shoul
 
 You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
 
-And, most importantly, you have met [the user needs](/service-manual/users/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
+And, most importantly, you have met [the user needs](/service-manual/user-centered-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
 ## What next?
 
@@ -33,7 +33,7 @@ This is not the end of the process. The service should now be improved continuou
 
 [Operational support](/service-manual/operations) - both technical and customer-focused - is in place, and you have implemented pro-active monitoring methods. These will help you to:
 
-* monitor system performance 
+* monitor system performance
 * optimise the code
 * ensure the service remains secure
 

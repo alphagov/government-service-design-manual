@@ -4,8 +4,8 @@ title: Expert reviews
 subtitle: Getting input into products and services
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,10 +20,10 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
 
-Expert reviews - also known as heuristic evaluations - are low cost usability methods that don’t involve participation of real end users. An ‘expert’ usability evaluator can assess a product (or web site) against a known set of ‘heuristics’, or usability guidelines (best practice). An alternative approach is to conduct a ‘cognitive walkthrough’ against specific use cases or scenarios.  
+Expert reviews - also known as heuristic evaluations - are low cost usability methods that don’t involve participation of real end users. An ‘expert’ usability evaluator can assess a product (or web site) against a known set of ‘heuristics’, or usability guidelines (best practice). An alternative approach is to conduct a ‘cognitive walkthrough’ against specific use cases or scenarios.
 
 ## How expert reviews work
 
@@ -31,7 +31,7 @@ Ideally two usability experts will conduct the review independently, and then me
 
 ### Cognitive walkthrough
 
-A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).  
+A ‘cognitive walkthrough’ is a usability inspection that aims to identify usability issues by focusing on how easy it is for users to accomplish specific tasks with the system (or website).
 
 This method starts with identifying the user goals, then conducting a task analysis to specify the sequence of steps or actions required to achieve each task. The usability expert, along with designers and developers, then walks through these identified steps to assess the extent to which a user can achieve their goal.
 

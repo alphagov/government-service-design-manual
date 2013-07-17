@@ -30,7 +30,7 @@ If your department or team already has a blog, there’s no need to start an add
 
 ## How to write a blog post
 
-The manual has plenty of useful resources explaining how to write effectively for an online audience. The guides on [how government should write](/service-manual/design-and-content/writing-government-services.html) and [how users read](/service-manual/design-and-content/how-users-read.html) are a good place to start. 
+The manual has plenty of useful resources explaining how to write effectively for an online audience. The guides on [how government should write](/service-manual/user-centered-design/writing-government-services.html) and [how users read](/service-manual/user-centered-design/how-users-read.html) are a good place to start.
 
 To get sense of the style and tone, look at the [GDS](http://digital.cabinetoffice.gov.uk) or [Ministry of Justice](http://blogs.justice.gov.uk/digital/) blogs.
 

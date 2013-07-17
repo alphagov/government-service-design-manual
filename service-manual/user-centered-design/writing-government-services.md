@@ -25,7 +25,7 @@ breadcrumbs:
 
 This section gives details on naming your service, tone, style, questions and why we write in this way.
 
-You may want to read: [how users read](/service-manual/design-and-content/how-users-read.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
+You may want to read: [how users read](/service-manual/user-centered-design/how-users-read.html) this will tell you more about user reading behaviour - which will help when designing the content for your service.
 
 ##Guidance
 
@@ -97,5 +97,5 @@ Directgov proved to be a good model for this, as their terms and conditions were
 
 
 ##Further reading
-* [How users read](/service-manual/design-and-content/how-users-read.html)
+* [How users read](/service-manual/user-centered-design/how-users-read.html)
 * [Style guide](https://www.gov.uk/designprinciples/styleguide)

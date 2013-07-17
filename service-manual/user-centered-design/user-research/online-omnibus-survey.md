@@ -4,8 +4,8 @@ title: Online Omnibus surveying
 subtitle: Getting input into products and services
 category: user-research
 type: resource
-audience: 
-    primary: user-researchers 
+audience:
+    primary: user-researchers
 status: draft
 phases:
   - discovery
@@ -20,10 +20,10 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/users/user-research
+    url: /service-manual/user-centered-design/user-research
 ---
-    
-Online Omnibus surveys are an effective way of interviewing a representative number of people, in a short period of time, and for a relatively low cost. Omnibus surveys of this type use an online panel to gather the sample and, as with regular offline Omnibus surveys, costs are kept down by collating questions on a variety of subjects from a number of clients. 
+
+Online Omnibus surveys are an effective way of interviewing a representative number of people, in a short period of time, and for a relatively low cost. Omnibus surveys of this type use an online panel to gather the sample and, as with regular offline Omnibus surveys, costs are kept down by collating questions on a variety of subjects from a number of clients.
 
 ## Where and how you might use it
 
