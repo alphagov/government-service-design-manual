@@ -18,14 +18,13 @@ breadcrumbs:
       <ol>
         <li><a href="#agile">Agile</a></li>
         <li><a href="#assisted-digital">Assisted digital</a></li>
-        <li><a href="#design-and-content">Design and Content</a></li>
         <li><a href="#making-software">Making software</a></li>
         <li><a href="#measurement">Measurement</a></li>
         <li><a href="#operations">Operations</a></li>
         <li><a href="#phases">Phases</a></li>
         <li><a href="#technology">Technology</a></li>
         <li><a href="#the-team">The team</a></li>
-        <li><a href="#users">Users</a></li>
+        <li><a href="#user-centered-design">User-centered design</a></li>
       </ol>
     </nav>
   </div>
@@ -38,10 +37,6 @@ breadcrumbs:
 
       <h2 id="assisted-digital">Assisted digital</h2>
       {% assign link_cat = 'assisted-digital' %}
-      {% include _browse-links.html %}
-
-      <h2 id="design-and-content">Design and content</h2>
-      {% assign link_cat = 'design-and-content' %}
       {% include _browse-links.html %}
 
       <h2 id="making-software">Making software</h2>
@@ -68,8 +63,8 @@ breadcrumbs:
       {% assign link_cat = 'the-team' %}
       {% include _browse-links.html %}
 
-      <h2 id="users">Users</h2>
-      {% assign link_cat = 'users' %}
+      <h2 id="user-centered-design">User-centered design</h2>
+      {% assign link_cat = 'user-centered-design' %}
       {% include _browse-links.html %}
     </div>
   </div>
