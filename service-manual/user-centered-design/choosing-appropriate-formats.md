@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Choosing appropriate formats
 subtitle: Help your users by providing content in a format they can use
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: designers, developers, tech-archs, user-researchers, service-managers, content-designers

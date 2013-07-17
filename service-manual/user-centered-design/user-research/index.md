@@ -2,7 +2,7 @@
 layout: category-index
 title: User research
 subtitle: Resources
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: user-researchers,

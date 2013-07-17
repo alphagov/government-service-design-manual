@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: How users read
 subtitle: Reading age, reading online, plain English, learning disabilities
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: designers, developers, user-researchers, qa, content-designers

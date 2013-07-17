@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Card sorting
 subtitle: Ways of framing or interpreting information
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
     primary: user-researchers

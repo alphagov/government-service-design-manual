@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Designing transactions
 subtitle: Designing useful and usable government services
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: designer

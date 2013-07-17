@@ -2,7 +2,7 @@
 layout: category-index
 title: User-centered design
 subtitle: Designing content and services for GOV.UK
-category: design-and-content
+category: user-centered-design
 type: category-index
 audience:
   primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: designers, web-ops, developers, tech-archs, user-researchers, qa, service-managers

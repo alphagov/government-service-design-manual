@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Data visualisation
 subtitle: Creating valuable and meaningful graphics to help analyse data
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: performance-analysts

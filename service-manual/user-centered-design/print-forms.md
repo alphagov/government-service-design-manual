@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Print forms
 subtitle: Designing or redesigning paper components for transactions
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: designers, content-designers

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: User-centered design in alpha and beta
 subtitle: Combining design and research to create user focussed services
-category: design-and-content
+category: user-centered-design
 type: guide
 audience:
   primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers

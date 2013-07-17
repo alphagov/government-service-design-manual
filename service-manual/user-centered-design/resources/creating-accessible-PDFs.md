@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Creating Accessible PDFs
 subtitle: How to make PDFs that everyone can use
-category: design-and-content
+category: user-centered-design
 type: resource
 audience:
   secondary: designers, developers, content-designers
