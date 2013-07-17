@@ -6,7 +6,7 @@ category: design-and-content
 type: guide
 audience:
   primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
-  secondary: 
+  secondary:
 status: draft
 phases:
   - discovery

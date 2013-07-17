@@ -2,7 +2,7 @@
 layout: category-index
 title: User research
 subtitle: Resources
-category: users
+category: design-and-content
 type: guide
 audience:
   primary: user-researchers,
@@ -26,11 +26,11 @@ breadcrumbs:
 
 Conducting user research helps us to understand our users better. It’s how we find out what they're currently doing, how they're doing something, what they want, what they think they want, and what we think they want. All of this helps us to define the [user needs](/service-manual/users/user-needs.html).
 
-We use a range of methods, techniques and approaches to tease that insight out in order to inform design, development and improvement of our products and services. 
+We use a range of methods, techniques and approaches to tease that insight out in order to inform design, development and improvement of our products and services.
 
 ## What kind of research and when?
 
-In the [discovery phase](/service-manual/phases/discovery.html) you want to understand the way users currently interact with a service, ideally in the environment they would do it ‘normally’. [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html) is useful for that. 
+In the [discovery phase](/service-manual/phases/discovery.html) you want to understand the way users currently interact with a service, ideally in the environment they would do it ‘normally’. [Ethnographic research](/service-manual/users/user-research/ethnographic-research.html) is useful for that.
 
 Further down the product development life cycle, when you have [a prototype or wireframes](/service-manual/phases/alpha.html), [usability testing](/service-manual/users/user-research/remote-usability.html) will help you understand ways your users interact with your solutions to their needs.
 

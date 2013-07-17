@@ -2,7 +2,7 @@
 layout: category-index
 title: Know your users
 subtitle: Techniques for understanding your users' needs
-category: users
+category: design-and-content
 type: category-index
 audience:
   primary: user-researchers, designers, service-managers,
