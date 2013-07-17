@@ -227,7 +227,6 @@ Use videos to demonstrate findings and store the session videos in a safe place,
 You need to discuss the project and its progress with others. You can do this by:
 
 * [showcasing/presenting regular updates](#showcase)
-* working with stakeholders
 * [always publishing the design](#publish-the-design-as-it-stands)
 * [having retrospectives](#retrospectives)
 
