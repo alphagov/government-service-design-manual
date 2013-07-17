@@ -60,7 +60,7 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
 * a tech lead
 * one or more [designers](/service-manual/the-team/designer.html)
-* one or more [user researchers](/service-manual/user-centered-design/introduction-to-user-research.html)
+* one or more [user researchers](/service-manual/the-team/user-researcher)
 * one or more [developers](/service-manual/the-team/developer.html)
 * one or more [content designers](/service-manual/the-team/content-designer.html)
 * the support of a [technical architect](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)
