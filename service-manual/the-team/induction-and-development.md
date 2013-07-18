@@ -112,11 +112,11 @@ Your group will discuss how you set and measure key performance indicators for y
 
 ###Always be testing
 
-Continuous testing and [quality](/service-manual/agile/quality.html) is a central part of agile, user-centred service design. The group will hear from experts in different types of testing and analytics. You will:
+Carry out [user research](/service-manual/user-centered-design/user-centered-design-alpha-beta) in every stage of your project. Do it continuously through each stage - don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
 
-*  find out about different types of testing, how and when they are best applied
-*  interpret example test results and decide whether you would launch a service on the strength of them
-*  learn how to try out new features and multiple design solutions with multivariate testing
+* keep your team concentrating on real user needs
+* help teams design products which are prioritised by user needs 
+* help teams iterate products in response to user feedback
 
 ###Design principles in action
 
