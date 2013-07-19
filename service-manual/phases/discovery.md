@@ -60,6 +60,7 @@ You will leave the discovery phase with:
 * ability to scope and plan an [alpha](/service-manual/phases/alpha.html)
 * a decision to progress to next phase
 * maybe some rough prototypes
+* maybe some user personas
 * a list of stakeholders and input from them about existing services
 * understanding of existing services, including those run by non-government sources
 * understanding of how many of your users will need assisted digital support, and what their user needs are
