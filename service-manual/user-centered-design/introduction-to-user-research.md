@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: An introduction to user research
-subtitle: Basing your service on user needs and user input
+title: An introduction to user research techniques
+subtitle: Ways to understand your users and their needs
 category: user-centered-design
 type: guide
 audience:
