@@ -7,7 +7,7 @@ GIT
       sass (>= 3.0.0)
 
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   remote: https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/
   specs:
     RedCloth (4.2.9)
