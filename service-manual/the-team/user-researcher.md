@@ -44,8 +44,9 @@ Secondly, consider their ability to work well in an agile team. This means that 
 
 ## Job description templates
 
-See an example of a [user researcher job description](/service-manual/the-team/recruitment/job-descripitons) provided by GDS.
+See an example of a [user researcher job description](/service-manual/the-team/recruitment/job-descriptions) provided by GDS.
 
 ## Further reading
 
 [Specific guidance for user researchers](/service-manual/user-researchers) working on digital by default services.
+[An introduction to user research techniques](/service-manual/user-centered-design/introduction-to-user-research) for each stage of the project.
