@@ -107,8 +107,6 @@ The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact f
 
 The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
 
-You can apply for funding from the [Data Strategy Board](https://www.gov.uk/data-strategy-board)'s own [Breakthrough Fund](http://www.local.gov.uk/web/guest/local-transparency/-/journal_content/56/10171/3926733/ARTICLE-TEMPLATE) to open up public data if you are struggling to find funding elsewhere – central and local government bodies are eligible.
-
 The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
 ##Further reading
