@@ -30,6 +30,7 @@ breadcrumbs:
 * [Version control](/service-manual/making-software/version-control.html)
 * [Development environment](/service-manual/making-software/development-environment.html)
 * [Standalone apps](/service-manual/making-software/standalone-apps.html)
+* [Deploying software](/service-manual/making-software/deployment.html)
 
 ## Security
 
