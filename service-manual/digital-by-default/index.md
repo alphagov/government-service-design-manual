@@ -279,7 +279,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-25">
-    <div class="point">Create a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline</div>
+    <div class="point">Have a contingency ‘rollback’ plan in place should the service have to be taken temporarily offline</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
