@@ -58,6 +58,7 @@ Each 2-week iteration should comprise of 3 stages:
 With every iteration, create materials to be included in the next round of research. In the alpha and beta phases, these will typically be prototypes that vary in accuracy — from paper prototypes through to working prototypes in code.
 
 Use existing [GDS code base](http://github.com/alphagov) and other open source frameworks as:
+
 * it’s usually quite quick to create prototypes of design concepts in code
 * doing so will usually gain more helpful insights from users than paper prototypes
 
