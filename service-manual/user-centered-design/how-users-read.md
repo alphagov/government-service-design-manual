@@ -59,7 +59,7 @@ By the time you are 9, you are building up your ‘common words’. Your primary
 These are words you use every day. They are a lot of your ‘plain English’ words. Which is why we should be obsessed with them. These are words so easy to comprehend, you learn to read them quickly and then you stop reading and start recognising.
 
 ## Context
-We explain all unusual terms on GOV.UK. This is because you can understand 6-letter words as easily 2 letter words - if they are in context.
+We explain all unusual terms on GOV.UK. This is because you can understand 6-letter words as easily as 2-letter words - if they are in context.
 
 Sometimes, you can read a short word faster than a single letter - if the context is correct.
 
