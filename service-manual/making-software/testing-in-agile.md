@@ -4,7 +4,7 @@ title: Testing in an agile environment
 subtitle: How to get testing right
 category: agile
 type: guide
-audience: 
+audience:
   primary: qa
   secondary: service-managers, web-ops, developers, tech-archs
 theme: agile
@@ -97,7 +97,7 @@ The most noticeable difference with testing in an agile project is that the majo
 These tests run in [continuous integration (C.I.)](/service-manual/agile/continuous-delivery.html), which means that they form part of your codebase - every time you make a change to your code, your tests are automatically run. You’ll get immediate feedback on the quality of your code and it’ll help to prevent bugs happening at a later stage (when they’re expensive and complicated to resolve.)
 
 ### Code Testing
-Read the guidance about [testing code](/service-manual/making-software/code-testing.html).  
+Read the guidance about [testing code](/service-manual/making-software/code-testing.html).
 
 ### Exploratory Testing
 Exploratory  testing is a term commonly used to describe unscripted manual testing. This is where the tester uses his or her knowledge, experience and intuition to go through through the software and identify bugs.
