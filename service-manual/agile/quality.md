@@ -48,6 +48,12 @@ It’s impossible to develop your software without building up some technical de
 
 A large amount of technical debt will slow down future development.  Know how much of it you have and you can prioritise work to reduce it, and can continue to iterate rapidly in the future.
 
+## Everyone is responsible for quality
+
+Service quality isn’t just a testing issue or the responsibility of a few individuals. The quality of a system is defined by the people who create it. 
+
+Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
+
 ## Testing
 
 You won’t know how great your product is or if it meets your criteria without testing it – in both normal and unusual conditions.

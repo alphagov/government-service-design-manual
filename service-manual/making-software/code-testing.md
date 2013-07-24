@@ -23,7 +23,19 @@ breadcrumbs:
     
 We use automated testing to ensure that our code does what is intended, to protect against mis-use of that code, and to provide assurance that iterating that code for better design or new features doesn't break existing behaviour. 
 
-We also add manual testing as an extra check where appropriate.
+Automated testing is an important part of our overall approach to [quality](/service-manual/agile/quality) but only one part of it.
+
+## Approaches
+
+There are various approaches to writing automated tests. In particular there are differences in when people expect to write tests, and in the ways that they're expressed.
+
+Many practitioners insisting that automated tests should always be written before the code they seek to test (to ensure careful design and 'just enough' code) while others are happier writing tests after the fact. Tests that are written before the code offer a number of advantages and that approach should be encouraged, but the most important thing is that the whole team works to ensure there are automated tests, that those tests are understood as an asset of the product and that they help you ensure the quality of your code.
+
+It is common to talk about "Behaviour Driven Development" (BDD) as an alternative approach to "test driven development". BDD is an approach to automated testing that focusses on expressing tests in the "[ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html)" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
+
+* [Dan North "Introducing BDD"](http://dannorth.net/introducing-bdd/)
+* [Wikipedia on BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)
+
 
 ## Types of testing
 
