@@ -31,7 +31,7 @@ There are various approaches to writing automated tests. In particular there are
 
 Many practitioners insisting that automated tests should always be written before the code they seek to test (to ensure careful design and 'just enough' code) while others are happier writing tests after the fact. Tests that are written before the code offer a number of advantages and that approach should be encouraged, but the most important thing is that the whole team works to ensure there are automated tests, that those tests are understood as an asset of the product and that they help you ensure the quality of your code.
 
-It is common to talk about "Behaviour Driven Development" (BDD) as an alternative approach to "test driven development". BDD is an approach to automated testing that focusses on expressing tests in the "ubiquitous language" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
+It is common to talk about "Behaviour Driven Development" (BDD) as an alternative approach to "test driven development". BDD is an approach to automated testing that focusses on expressing tests in the "[ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html)" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
 
 * [Dan North "Introducing BDD"](http://dannorth.net/introducing-bdd/)
 * [Wikipedia on BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)
