@@ -181,7 +181,7 @@ It is important to start understanding risks and engaging with the assurance and
 5. Procure a CLAS consultant if needed for the Accreditation work
 6. If possible establish a contact at CESG who can offer assistance and some technical oversight
 7. Produce supporting documentation; for example architecture documentation, risks and mitigations, operating processes, references to GPGs, controls
-8. Work with the CLAS consultant on completing the RMADS is required
+8. Work with the CLAS consultant on completing the RMADS if required
 9. Arrange the ITHC
 10. Present to the SIRO to get final sign-off
 
