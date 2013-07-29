@@ -177,8 +177,7 @@ To do this correctly, you need to:
 * gather all the post-it note observations created during the testing sessions and stick them up on a big wall
 * group the observations into similar themes
 * create findings — a statement that summarises the observations — for each group, and write it down on a post-it note, sticking it on top of the group
-* try to address the theories and decide
-* you have enough information to state a theory is now proven or disproven
+* try to address the theories and decide if you have enough information to state a theory is now proven or disproven
 * a theory needs further qualitative/quantitative testing
 
 At this stage you’re aiming to create a full set of insights (things that you’ve observed and learned), so don’t start designing solutions just yet. You should allow several hours for this analysis process.
@@ -204,8 +203,9 @@ When you’ve decided on what actions to take, use a prioritisation method (like
 ### Share your findings
 
 Put user testing findings and actions in a place that’s easily accessible to the project team, as it’s likely that you’ll come back to the findings to:
-remember what you discovered
-see how a particular theme or feature has developed over the course of the design iterations
+
+* remember what you discovered
+* see how a particular theme or feature has developed over the course of the design iterations
 
 You can document your findings for others to see in many different ways, like using:
 
@@ -243,7 +243,8 @@ Just as a delivery team often presents a showcase at the end of each iteration, 
 This is an opportunity for members of the project team to catch up if they haven’t been able to attend user testing sessions, as well as an opportunity to ask questions.
 
 Depending on how your team works, you might put your presentation into the delivery team’s showcase or you may have a showcase just for research and design.
-Consider your more distant stakeholders
+
+#### Consider your more distant stakeholders
 
 There may be other people beyond your more immediate project team who are interested in the outcomes of your work. You can communicate and/or work together with these people by:
 
