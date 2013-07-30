@@ -55,4 +55,4 @@ Enables in-house research team to manage a community of users and/or stakeholder
 
 ## Text analysis tool
 
-Enables the analysis of large amounts of written feedback - via email, helpdesk etc. This software enables you to sort user feedback into themes, and make it easier to action. Examples include [Feedback Ferret](http://www.feedbackferret.com/) and [Atlas](http://www.atlasti.com/).
+Enables the analysis of large amounts of written feedback -- via email, helpdesk etc. This software enables you to sort user feedback into themes, and make it easier to action. Examples include [Feedback Ferret](http://www.feedbackferret.com/) and [Atlas](http://www.atlasti.com/).
