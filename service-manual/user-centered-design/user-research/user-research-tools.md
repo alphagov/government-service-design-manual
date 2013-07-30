@@ -23,7 +23,7 @@ breadcrumbs:
     url: /service-manual/user-centered-design/user-research
 ---
 
-There are number of good tools that can help user research teams conduct in-house research quickly and effectively. Below is a high level overview of what these enable, for people unfamiliar with user testing.
+There are a number of good tools that can help user research teams conduct in-house research quickly and effectively. Below is a high level overview of what these enable, for people unfamiliar with user testing.
 
 Online tools are a good way in which to conduct in-house research cheaply and effectively. Conducting research in-house enables user research teams get closer to the data, and have a good understanding of the user. This is, however, dependent on teams having adequate resource to enable analysis to be conducted properly and fed back to the relevant teams.
 
