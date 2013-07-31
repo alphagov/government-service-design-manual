@@ -31,9 +31,9 @@ The Recruitment Hub is not intended to replace existing HR and recruitment proce
 
 All queries for the hub should be made to [digitaltalent@digital.cabinet-office.gov.uk](mailto:digitaltalent@digital.cabinet-office.gov.uk).
 
-## SCS recruitment
+## Senior Civil Servant (SCS) recruitment
 
-GDS must approve the job descriptions and appointments for all SCS-level technology positions. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should be a useful starting point for departments and agencies to tailor to their specific roles.
+GDS must approve the job descriptions and appointments for all SCS-level technology positions. All senior grades (Deputy Director / Grade 5 level and above) are part of the Senior Civil Service, which is overseen by the Cabinet Office on behalf of the civil service as a whole. Senior civil servants may be called to account by Parliament, and are barred from holding any political office. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should be a useful starting point for departments and agencies to tailor to their specific roles.
 
 For SCS level hires, the Recruitment Hub will also provide:
 
