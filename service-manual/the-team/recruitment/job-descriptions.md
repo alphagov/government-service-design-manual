@@ -42,7 +42,7 @@ Before advertising any SCS technology position, the [Recruitment Hub](/service-m
 
 ## Templates
 
-### SCS roles
+### Senior Civil Servant (SCS) roles
 
 * Chief Digital Officer (CDO) [Download as Open Office doc](/service-manual/the-team/recruitment/CDO-applicant-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/CDO-applicant-pack-SM.docx)
 * Chief Technology Officer (CTO) [Download as Open Office doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/CTO-applicant-pack-SM.docx)
