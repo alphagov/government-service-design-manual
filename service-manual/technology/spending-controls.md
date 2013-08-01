@@ -43,7 +43,7 @@ GDS will examine and challenge all technology-related spending over a certain th
 | £5 million | Full lifetime cost of the project |
 | £1 million | Current or new back office / administrative systems, including Enterprise Resource Planning (ERP) systems, HR systems, Finance / Accounting systems, procurement systems. The control includes implementation, licensing and support costs, as well as any extension to those services |
 | £100k | Common Infrastructure Solutions for the Public Sector Network (PSN) |
-| £0 (no lower limit) | Spend on digital projects |
+| £100k | Spend on ID assurance, domain names and any externally facing digital transaction, websites or mobile apps |
 
 These thresholds cover all technology expenditure, including:
 
@@ -57,6 +57,10 @@ These thresholds cover all technology expenditure, including:
 - common infrastructure solutions including voice and data communications, Public Services Networks (PSN) whether fixed or mobile.
 
 They also cover programmes that are broken into smaller chunks or projects, which individually are below the thresholds, but which in aggregate are above them. Intentionally breaking down a programme into smaller elements to avoid the controls process is itself a serious breach of the controls.
+
+Digital is defined as any external facing service delivered through the internet to citizens, businesses, civil society or non-government organisations.  This includes, but is not limited to information services, websites, transactional services, web applications, mobile apps, and extranets. The control covers the total cost of running that service, including any assisted digital element such as support provided through face to face, phone, 3rd party intermediary or other channels to access the digital service. 
+
+The definition of digital does not include content creation on existing sites, intranets or those areas listed under the advertising, marketing and communications controls.
 
 ## Starting the process
 
