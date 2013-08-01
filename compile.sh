@@ -2,6 +2,10 @@
 
 set -e
 
+echo "Updating submodules to ensure toolkit up to date..."
+git submodule update --init
+echo "Updated."
+
 DESIGN_PRINCIPLES_ROOT="../design-principles"
 DIRECTORY="$DESIGN_PRINCIPLES_ROOT/public"
 GUIDANCE_PATH="$DIRECTORY/service-manual"
