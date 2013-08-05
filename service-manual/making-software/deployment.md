@@ -27,11 +27,11 @@ different technology stacks and needs. These principles underpin a
 software deployment process which meets user needs. Those principles
 are:
 
- * Little and often
- * Quality software
- * Optimise for cycle time
- * Repeatable, auditable deployments
- * Zero downtime deployments
+ * little and often
+ * quality software
+ * optimise for cycle time
+ * repeatable, auditable deployments
+ * zero downtime deployments
 
 ## Little and often ##
 
