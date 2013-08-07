@@ -41,9 +41,8 @@ The purpose of the IT and digital controls is to ensure that spending on IT is p
 GDS will examine and challenge all technology-related spending over a certain threshold - no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are:
 
 | £5 million | Full lifetime cost of the project |
-| £1 million | Current or new back office / administrative systems, including Enterprise Resource Planning (ERP) systems, HR systems, Finance / Accounting systems, procurement systems. The control includes implementation, licensing and support costs, as well as any extension to those services |
-| £100k | Common Infrastructure Solutions for the Public Sector Network (PSN) |
-| £100k | Spend on ID assurance, domain names and any externally facing digital transaction, websites or mobile apps |
+| £100k | Digital spend |
+| £0k (no lower limit) | Spend on ID assurance, domain names and any externally facing digital transaction, websites or mobile apps |
 
 These thresholds cover all technology expenditure, including:
 
