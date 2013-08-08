@@ -71,6 +71,6 @@ Where an alternative channel remains, it must be redesigned to provide assisted 
 
 ##How we’re developing an approach to assisted digital
 
-Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](http://publications.cabinetoffice.gov.uk/digital/strategy/#action-05). The experiences with these services will inform shared models and shared procurement routes for assisted digital.
+Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](https://www.gov.uk/transformation). The experiences with these services will inform shared models and shared procurement routes for assisted digital.
 
 If you’re not an exemplar service but would like to get involved in this work, please [contact GDS](/service-manual/feedback).
