@@ -34,7 +34,7 @@ Although this document does not describe the capabilities and characteristics of
 * deploy updates to the system rapidly and iteratively (ie at least daily)
 * continuously test and monitor software in production
 
-[exemplar projects]: http://publications.cabinetoffice.gov.uk/digital/strategy/actions/05/
+[exemplar projects]: https://www.gov.uk/transformation
 
 ## Required
 

@@ -44,7 +44,7 @@ This means [building and testing in small chunks](/service-manual/agile), workin
 
 The [GDS Design Principles](/designprinciples) present a clear vision of how delivery teams can think about designing digital by default services. These should be a touchstone for every member of a delivery team.
 
-The [Government Digital Strategy](/digitalstrategy) sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first.
+The [Government Digital Strategy](/digitalstrategy) sets out the context we are working in. The departmental responses to the strategy contain a detailed breakdown of which services in particular will be tackled first. The progress of the services is also [published on GOV.UK](https://www.gov.uk/transformation).
 
 And the [Digital by Default Service Standard](/service-manual/digital-by-default) lists the criteria against which all new and redesigned services will be judged from April 2014. Find out [which services must meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html).
 
