@@ -1,9 +1,9 @@
 ---
-layout: category-index
+layout: detailed-guidance
 title: Know your users
 subtitle: Techniques for understanding your users' needs
 category: user-centered-design
-type: category-index
+type: guide
 audience:
   primary: user-researchers, designers, service-managers,
   secondary: developers, tech-archs, performance-analysts, delivery-managers
