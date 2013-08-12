@@ -5,11 +5,10 @@ subtitle: Guidance for creating a consistent look-and-feel
 category: user-centered-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
+  primary: designers, developers
   secondary:
 status: draft
 phases:
-  - discovery
   - alpha
   - beta
   - live
