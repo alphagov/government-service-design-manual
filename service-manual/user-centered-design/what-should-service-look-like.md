@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: What should my service look like?
-subtitle: Guidance for creating a consitent look-and-feel
+subtitle: Guidance for creating a consistent look-and-feel
 category: user-centered-design
 type: guide
 audience:
