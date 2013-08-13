@@ -59,6 +59,6 @@ Read [guidance in the manual of particular interest to content designers](/servi
 
 Click either of the options below to download a template Content designer job description.
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
+[Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
