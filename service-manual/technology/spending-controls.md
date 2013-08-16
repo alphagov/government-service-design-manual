@@ -73,29 +73,3 @@ Digital projects will also be assessed for compliance to the service standard �
 
 ![Compliance flowchart](/service-manual/assets/images/spending-controls/flowchart.png)
 
-The controls process will have slight differences if your project is following an iterative approach or a waterfall approach. All digital projects will follow an iterative approach, and you will need to engage early with GDS to define the approvals your project needs. Below is an example of how this might look:
-
-## Mapping controls to Discovery, Alpha, Beta, Live Stages
-
-![Mapping controls to Discovery, Alpha, Beta, Live Stages](/service-manual/assets/images/spending-controls/agile.png)
-
-The approach to agile delivery consists of three key phases:
-
-* Discovery - explore user need validity, nature of problem and solution approaches
-* Iterate - iterative development of alpha, beta solutions, progressively gaining further insight into live solution
-* Live - live solution, and refinement through iterative changes and feedback from usage
-
-The key evidence documents are:
-
-1. **Strategic Outline Case** is developed once the discovery phase has provided insight into the problem, solution approaches, risks and benefits. It contains:
-  - total budget envelope, including subset proposed for alpha solutions
-  - evidence that agile is optimal approach
-2. **Outline Business Case** can be completed based on information gathered during the development of early alpha solutions. It contains:
-  - activities proposed for beta solution
-  - subset of budget for beta solution development
-3. **Full Business Case** – The development of beta solutions will provide sufficient certainty to complete a Full Business Case. It will contain:
-  - activities for live build
-  - activities for post-live refinement and management information
-  - proposed budget for live and post-live development
-4. **Post Implementation Review** – outcomes and performance report, supplier assessment, lessons learned and shared.
-
