@@ -51,7 +51,7 @@ Throughout the process of creating your service you should refer to the design p
 
 Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
-If your service is on GOV.UK you will be given access to the New Transport typeface. Alpha prototypes or beta services should use default web fonts.
+If your service is on GOV.UK you will be given access to the New Transport typeface.
 
 [Read our full guidance on typography](/service-manual/user-centered-design/resources/typography).
 
