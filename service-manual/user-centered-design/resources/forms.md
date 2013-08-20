@@ -35,7 +35,7 @@ In the forms created so far on [GOV.UK](https://www.gov.uk) certain patterns of 
 
 ## Aligning controls in a column
 
-The base pattern for grouping controls is in a column with one row for each control and it's label.
+The base pattern for grouping controls is in a column with one row for each control and its label.
 
 <div class="pattern-example">
     <div class="form-example-1">
