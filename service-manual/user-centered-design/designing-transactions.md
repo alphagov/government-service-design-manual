@@ -95,7 +95,7 @@ All sections are positioned on a single page.
 
 ### Option2 : Wizard
 
-Each section goes on it's own page.
+Each section goes on its own page.
 
 ![Diagram showing each section on it's own page](/service-manual/assets/images/designing-transactions/wizard.png)
 
