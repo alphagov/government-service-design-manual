@@ -23,4 +23,8 @@ breadcrumbs:
 
 ## Getting a domain name and start/end page
 
-To make sure that the right user journey (appropriate start/end pages, clear domain names) are set up for a new service it's important that you engage with GDS early.
+To make sure that the right user journey (appropriate start/end pages, clear domain names) are set up
+for a new service it's important that you engage with the GOV.UK team within GDS early.
+
+If you're not already in conversation with the team about your service tou can start the process by e-mailing
+gdsapprovals@digital.cabinet-office.gov.uk.
