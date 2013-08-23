@@ -1,7 +1,6 @@
 ---
 layout: detailed-guidance
 title: Technology architecture
-subtitle: Empowering Chief Technology Officers across government
 category: technology
 type: guide
 audience:
