@@ -47,7 +47,7 @@ Who is online, and how often, varies by:
 * gender
 * socio-economic status
 
-Use the 'Digital landscape research' as a guide. It has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) of who is onlie and offline.
+Use the 'Digital landscape research' as a guide. It has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) of who is online and offline.
 
 ## Achieving your digital take-up targets
 
