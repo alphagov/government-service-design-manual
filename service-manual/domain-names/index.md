@@ -1,6 +1,7 @@
 ---
 layout: category-index
-title: Where services live on the web
+title: Domain Names, SSL, Email
+subtitle: Where things live on the web
 category: operations
 type: category-index
 audience:
