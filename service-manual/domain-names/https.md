@@ -50,14 +50,27 @@ is configured correctly, you SHOULD increase the commitment to months or years:
 
     Strict-Transport-Security: max-age=31536000, includeSubDomains;
 
-### Verification
+### Verification of SSL Certificates
 
 In order to provide your service over HTTPS you will need to purchase a certificate (or certificates) from a
 recognised vendor. SSL vendors vary but regardless of which service you choose to use, you’ll need to validate
-your purchase with the vendor. The simplest method is usually to request that an email be sent to the registrant
-email address listed in whois. Alternatively, your vendor may offer you a list of pre-approved email addresses
-to choose from. The GDS Infrastructure team can validate requests sent to the following addresses:
+with the vendor that you own the domain.
+
+The verification methods that are commonly in use (in order of preference) are:
+
+1. Create a file with a special code supplied by the SSL vendor on your website
+2. Create a special DNS record with a code supplied by the SSL vendor
+3. Sending an email to the owner of the service.gov.uk domain
+
+The least preferred method of sending an email to the domain owner relies on the GDS Infrastructure Team
+seeing the verification email and responding. If this is necessary, then first send an email to the address that
+you intend to use for verification from your own email address warning that an SSL verification is needed for
+your service.
+
+The GDS Infrastructure team can validate requests sent to the following addresses:
 
     hostmaster@digital.cabinet-office.gov.uk
     webops@digital.cabinet-office.gov.uk
     webmaster@digital.cabinet-office.gov.uk
+
+They are unable to validate requests sent to any @service.gov.uk address.
