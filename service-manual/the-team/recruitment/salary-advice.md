@@ -25,7 +25,7 @@ breadcrumbs:
     url: /service-manual/the-team/recruitment
 ---
 
-To deliver excellent digital public services, and support to departments’ technology systems, we have to change the way we do business. 
+To deliver excellent digital public services and support to departments’ technology systems, we have to change the way we do business. 
 
 Creating this change will be a large and exciting challenge. For it to be successful, we need to make sure that the ‘best in class’ fill technology leadership and specialist positions. 
 
@@ -39,7 +39,7 @@ Template [job descriptions](/service-manual/the-team/recruitment/job-description
 
 ## Recommended salary percentiles 
 
-Government isn’t looking for average candidates — we need people with a track record of delivery and an appetite for pushing important change forward, in a highly visible job. 
+Government isn’t looking for average candidates — we need people with a track record of delivery and an appetite for pushing important change forward in a highly visible job. 
 
 Appropriately rewarding such staff is essential to their recruitment and retention. As such, GDS recommends that departments offer candidates between the 75th and 90th percentile of the typical London-weighted salary band for a similar role in the private sector. 
 
@@ -52,7 +52,7 @@ You can contact the [Recruitment Hub](mailto:digitaltalent@digital.cabinet-offic
 
 ### Senior civil service roles
 
-The scope, responsibilities, and interactions with other senior leaders will vary across departments, depending on:
+The scope, responsibilities and interactions with other senior leaders will vary across departments, depending on:
 
 * the size of the department
 * the number of services they are responsible for
