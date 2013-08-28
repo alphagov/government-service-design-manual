@@ -48,7 +48,7 @@ Look at performance trends over time, rather than taking a snapshot at a particu
 
 Collect and combine performance information from multiple sources and across multiple channels. Make sure you understand what this will mean in terms of system requirements.
 
-Combining data often reveals useful insights, eg into service efficiency (cost per transaction and total cost to serve) or the amount of usage by channel (percentage digital uptake vs post, phone etc).
+Combining data often reveals useful insights, eg into service efficiency (cost per transaction and total cost to serve) or the amount of usage by channel (percentage digital take-up vs post, phone etc).
 
 ##Analyse and visualise data
 
