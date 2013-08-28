@@ -1,7 +1,7 @@
 ---
 layout: category-index
 title: Where services live on the web
-category: domain-names
+category: operations
 type: category-index
 audience:
   primary: service-managers, web-ops, tech-archs
