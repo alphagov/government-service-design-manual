@@ -43,7 +43,8 @@ Two distinct levels of support are given and denoted next to each browser. Where
 
 | OS | Browser | Support |
 |------------------------|
-| Windows  | Internet Explorer 9 | Compliant |
+| Windows  | Internet Explorer 10 | Compliant |
+| &nbsp;  | Internet Explorer 9 | Compliant |
 | &nbsp;  | Internet Explorer 8 | Compliant |
 | &nbsp; | Internet Explorer 7 | Compliant |
 | &nbsp; | Internet Explorer 6 | Functional |
