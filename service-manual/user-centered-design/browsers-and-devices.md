@@ -43,13 +43,13 @@ Two distinct levels of support are given and denoted next to each browser. Where
 
 | OS | Browser | Support |
 |------------------------|
-| Windows  | Internet Explorer 10 | Compliant |
-| &nbsp;  | Internet Explorer 9 | Compliant |
-| &nbsp;  | Internet Explorer 8 | Compliant |
+| Windows | Internet Explorer 10 | Compliant |
+| &nbsp; | Internet Explorer 9 | Compliant |
+| &nbsp; | Internet Explorer 8 | Compliant |
 | &nbsp; | Internet Explorer 7 | Compliant |
 | &nbsp; | Internet Explorer 6 | Functional |
-| &nbsp;  | Google Chrome (latest version) | Compliant |
-| &nbsp;  | Mozilla Firefox (latest version) | Compliant |
+| &nbsp; | Google Chrome (latest version) | Compliant |
+| &nbsp; | Mozilla Firefox (latest version) | Compliant |
 | Mac OS X | Safari 5 | Compliant |
 | &nbsp; | Google Chrome (latest version) | Compliant |
 | &nbsp; | Mozilla Firefox (latest version) | Compliant |
