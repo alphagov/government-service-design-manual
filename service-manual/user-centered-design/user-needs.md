@@ -39,6 +39,7 @@ That's an important distinction, because it means that you'll be able to more me
 You should be able to provide evidence that a user need actually exists, and starting from the potential evidence areas can be a good way to start creating a list of user needs.
 
 Good evidence points can include:
+
 - Existing content. Use web analytics to show that content that already exists is being regularly accessed
 - Search terms. Use search logs to show that people are expressing a need for content or functionality by searching for it on the website
 - Customer facing staff. Talk to people who work on service desks or in call centres. These people talk to users regularly and are able to tell you what the most pressing and real user needs are.
