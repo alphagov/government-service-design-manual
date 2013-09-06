@@ -33,10 +33,10 @@ Define user satisfaction as the percentage of people who answered either “very
 Q: Overall, how satisfied were you with this [eg car tax] service today?
 
   * Very satisfied
-	* Satisfied
-	* Neither satisfied or dissatisfied
-	* Dissatisfied
-	* Very dissatisfied
+  * Satisfied
+  * Neither satisfied or dissatisfied
+  * Dissatisfied
+  * Very dissatisfied
 
 ## How to measure user satisfaction
 
