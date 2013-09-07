@@ -69,7 +69,7 @@ When your developer checks into [version control](/service-manual/making-softwar
 ###Shared sandbox environment
 Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run and the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.
 
-Make the sandbox environment as similar to the production (live) version as far as is practical: eg, if production uses Postgres, the sandbox should also use Postgres and not another database like MySQL or sqlite.
+Make the sandbox environment as similar to the production (live) version as far as is practical, eg if production uses Postgres, the sandbox should also use Postgres and not another database like MySQL or sqlite.
 
 The purpose is to find any defects in the code. If a defect is found, stop the version of the code at this stage. If it passes the sandbox environment it can move on to further specialist testing environments.
 
