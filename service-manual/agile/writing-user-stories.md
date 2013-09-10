@@ -51,7 +51,7 @@ Your story cards can be virtual, as well as actual cards. On a large product/ser
 
 When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
 
-You might want to include a list of acceptance criteria. These should be an 'aid memoire' for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+You might want to include a list of acceptance criteria. These should be an 'aide-memoire' for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
 
 If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
 
@@ -97,7 +97,7 @@ Suzanne and James Robertson have excellent advice on this in the book *Mastering
 ###Actor
 Being specific about the actor will help you to break down interactions into logical chunks.
 
-Sometimes the actor will be a user of your service, or the actor will be an administrator, technician or manager within your organisation.
+Sometimes the actor will be a user of your service, or the actor will be an administrator, technician or manager in your organisation.
 
 Make sure you already have a good understanding of your users from your initial project work or existing research. If not, take the time to develop that understanding.
 
@@ -112,7 +112,7 @@ Face-to-face is:
 
 * faster
 * more accurate than written documentation
-* allows developers to build up a detailed mental model of the user goals, workflows, constraints, and the countless issues which must be taken into account when building a software system
+* allows developers to build up a detailed mental model of the user goals, workflows, constraints, and the many issues which must be taken into account when building a software system
 
 The story card is just a placeholder, a promise to have a conversation when the time is right. Use the story card and some brief initial conversations to estimate the amount of time a story needs to be completed and then put it into an agile backlog.
 
@@ -143,7 +143,7 @@ Stories can come from many places, but the most common sources include:
 
 See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
 
-## References
+## Further reading
 
 1. Mastering the Requirements Process, 3rd Ed, Suzanne Robertson & James Robertson, 2012
 2. Agile Alliance, "Agile - What is it?", [http://www.jconne.com/agile1whatisit/](http://www.jconne.com/agile1whatisit/), accessed 7/1/2013
