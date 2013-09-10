@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 Almost all content relating to the policies or publications of government departments should live on [GOV.UK](https://www.gov.uk/). Where exceptions to this rule are required, content and data should be provided in formats that appropriately reflect their purpose and intended audience.

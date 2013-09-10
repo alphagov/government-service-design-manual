@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 As we surface more data about government services, we need to make sure that the visualisations of it are easy to understand, visually compelling and drive action. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.

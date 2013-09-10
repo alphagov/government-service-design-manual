@@ -1,12 +1,12 @@
 ---
 layout: detailed-guidance
 title: Buttons
-subtitle: How to code them, how to word them and when to use them   
+subtitle: How to code them, how to word them and when to use them
 category: design-and-development-resources
 type: resource
 audience:
     primary: designers
-    secondary: 
+    secondary:
 status: draft
 phases:
   - alpha
@@ -18,8 +18,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 Buttons should be used to signify actions that the user can perform.
@@ -32,20 +32,20 @@ Buttons can be made of links, inputs and button tags. CSS should be used to sepa
   <p>
     <button class="button">Button tag</button>
     <a class="button">Link tag</a>
-    <input class="button" type="submit" value="Input tag" /> 
+    <input class="button" type="submit" value="Input tag" />
   </p>
 </div>
 
 ## Button colours
 
-Buttons should have a default colour (such as green). Alternative colours should be possible but only to indicate different actions. 
+Buttons should have a default colour (such as green). Alternative colours should be possible but only to indicate different actions.
 
 ### Example
 
 <div class="pattern-example">
   <p>
-    <a href="#" class="button">Primary action</a> 
-    <a href="#" class="button-secondary">Secondary action</a> 
+    <a href="#" class="button">Primary action</a>
+    <a href="#" class="button-secondary">Secondary action</a>
     <a href="#" class="button-warning">Warning action</a>
   </p>
 </div>
@@ -60,7 +60,7 @@ As with the default browser style, buttons will need a disabled style to indicat
   <p>
     <button class="button" disabled="disabled">Button tag</button>
     <a class="disabled button">Link tag</a>
-    <input class="button" disabled type="submit" value="Input tag" /> 
+    <input class="button" disabled type="submit" value="Input tag" />
   </p>
 </div>
 
@@ -103,7 +103,7 @@ As with the default browser style, buttons will need a disabled style to indicat
 ### Launch button
 <div class="pattern-example">
   <p>
-    <a href="#" class="button" rel="external" title="Get started on the HMRC website">Get started</a> 
+    <a href="#" class="button" rel="external" title="Get started on the HMRC website">Get started</a>
      on the HMRC website
   </p>
 </div>
@@ -137,7 +137,7 @@ Many of these can be used in place of ‘Submit’, which is a technical term t
 : Not 'forward', 'go' etc.
 
 'Finish'
-: Use at the end of a service before the final confirmation screen 
+: Use at the end of a service before the final confirmation screen
 
 'Back'
 : Not 'previous'

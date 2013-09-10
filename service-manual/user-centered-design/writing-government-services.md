@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual
   -
     title: Content and design
-    url: /service-manual/design-and-content
+    url: /service-manual/user-centered-design
 ---
 
 ##How to write

@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Grids
-subtitle: Quickly lay out lists of items in a grid 
+subtitle: Quickly lay out lists of items in a grid
 category: design-and-development-resources
 phases:
   - alpha
@@ -14,8 +14,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 
@@ -46,7 +46,7 @@ Instead, style the contents of those elements.
 
 At mobile screen sizes the grid elements switch to being full-width.
 
-## Simple example 
+## Simple example
 
 <ul class="grid example-1">
   <li><p>Item 1</p></li>
@@ -76,14 +76,14 @@ At mobile screen sizes the grid elements switch to being full-width.
 
       @import "grid"
 
-      .example-1{ 
+      .example-1{
         @include grid(4);
       }
 
 
 ## Regular grids
 
-You can create grids of equally-sized elements by passing in a single value representing the number of elements in a row. 
+You can create grids of equally-sized elements by passing in a single value representing the number of elements in a row.
 
 The following examples are for demonstration purposes only, and not ones we'd ever recommend.
 
@@ -122,7 +122,7 @@ The following examples are for demonstration purposes only, and not ones we'd ev
 
 ## Irregular grids
 
-You can create grids of unequally-sized elements by passing in an array representing the relative widths of the elements in a row. 
+You can create grids of unequally-sized elements by passing in an array representing the relative widths of the elements in a row.
 
 ### 5,3 ratio example
 

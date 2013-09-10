@@ -1,12 +1,12 @@
 ---
 layout: detailed-guidance
 title: Form example - Registration
-subtitle: Build to the GOV.UK style 
+subtitle: Build to the GOV.UK style
 category: design-and-development-resources
 type: resource
 audience:
     primary: designers
-    secondary: 
+    secondary:
 phases:
   - alpha
   - beta
@@ -18,8 +18,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 This example form incorporates most of the basic user interface (UI) patterns for forms and lets you play with different label alignments.
@@ -33,8 +33,8 @@ Click the label alignment options in the snippet below to see how they affect th
 
   <p class="class-toggle" data-for="form-example-2" >
     <strong>Label alignment: </strong>
-    <span class="option selected">top</span> | 
-    <span class="option">left</span> | 
+    <span class="option selected">top</span> |
+    <span class="option">left</span> |
     <span class="option">right</span>
   </p>
 
@@ -68,7 +68,7 @@ Click the label alignment options in the snippet below to see how they affect th
             <label for="first-name">First name (required)</label>
             <input id="first-name" type="text" class="name">
           </p>
-          <p class="group validation">        
+          <p class="group validation">
             <span class="validation-message" id="error2">2. Enter your last name</span>
             <label for="last-name">Last name (required)</label>
             <input id="last-name" type="text" class="name">
@@ -169,7 +169,7 @@ Click the label alignment options in the snippet below to see how they affect th
             <label for="networking"><input type="checkbox" id="networking"> Networking</label>
             <label for="business"><input type="checkbox" id="business"> Business opportunities</label>
           </p>
-        </fieldset>  
+        </fieldset>
         <fieldset>
           <legend>I prefer to be contacted by</legend>
           <ul class="option group">
