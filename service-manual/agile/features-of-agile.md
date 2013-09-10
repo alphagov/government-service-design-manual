@@ -44,7 +44,7 @@ Start the process with a sprint 0. This sprint is about preparing your team for 
 * agree some of the design principles (technical, product, interaction, content)
 * prepare the product backlog for the first sprint
 
-While there are other agile methodologies that don’t rely on sprinting, such as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common for teams to start with scrum and sprint.
+While there are other agile methodologies that don’t rely on sprinting, such as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common for teams to start with Seams. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere! 
 
 ## Standard meetings
 
@@ -55,7 +55,7 @@ Agile processes have 4 different types of regular meetings:
 * sprint reviews
 * retrospectives
 
-### Daily Stand Up
+### Daily stand-up
 
 Have daily meetings with your team lasting no more than 15 minutes. It’s best if you do it standing up, in a semicircle, in front of your project wall. This will help you to keep it short and allows your team members to point at user story cards on the wall to keep things on topic.
 
@@ -73,7 +73,7 @@ Ask people to keep it brief and don’t be afraid to remind them of this. If peo
 
 Sprint planning is done at the start of each sprint. It requires user stories to have been written in advance with acceptance criteria.
 
-The Product Owner should read out the stories and explain the acceptance criteria in order of priority. It’s the job of the team to:
+The product owner should read out the stories and explain the acceptance criteria in order of priority. It’s the job of the team to:
 
 * understand the story and acceptance criteria
 * agree on the number of user stories they’ll aim to achieve within each sprint
@@ -84,7 +84,7 @@ A good description of sprint planning is on the [Agile Learning Labs website](ht
 * what we will do?
 * how we will do it?
 
-This meeting can be hard to get right with large teams. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere! it’s an important part of the sprint and like Marmite, love or hate it, it’s good for you.
+This meeting can be hard to get right with large t
 
 ### Sprint Review
 
