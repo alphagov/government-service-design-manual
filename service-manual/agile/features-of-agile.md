@@ -65,8 +65,6 @@ Each member of your team should answer:
 * what I am working on today (and help I might need)
 * what’s blocking me (ie stopping me from finishing a user story card)
 
-To stop your meetings from becoming repetitive, have an object that you (gently) throw to someone to signify they should speak next. Pick people at random - it keeps people on their toes and lets the person speaking to choose the person they wish to hear from next. At GDS we use cuddly toys or a piece of fruit. It’s a bit of fun. You don’t have to this - it’s just something to experiment with.
-
 Ask people to keep it brief and don’t be afraid to remind them of this. If people try to solve issues during the stand-up, stop the conversation and arrange a huddle after the stand-up to discuss in a smaller group.
 
 ### Sprint planning
