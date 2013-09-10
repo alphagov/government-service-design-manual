@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 The [service standard](/service-manual/digital-by-default#criterion-13) states that your service should be built “with the same look, feel and tone as GOV.UK”.

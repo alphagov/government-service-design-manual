@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 Users will need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta), many will not recognise these terms, or know what they mean – therefore, users need to be made aware that a service is not yet 'officially' live, and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
