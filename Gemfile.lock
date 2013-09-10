@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/alextea/jekyll-sass.git
-  revision: 2f42e0930a07b1b4c9dd2a18807768b33635617d
-  specs:
-    jekyll-sass (1.1.0)
-      jekyll (>= 0.10.0)
-      sass (>= 3.0.0)
-
 GEM
   remote: https://rubygems.org/
   remote: https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/
@@ -27,6 +19,9 @@ GEM
       liquid (~> 2.3)
       maruku (~> 0.5)
       pygments.rb (~> 0.3.2)
+    jekyll-sass (1.1.0)
+      jekyll (>= 0.10.0)
+      sass (>= 3.0.0)
     kramdown (0.14.2)
     liquid (2.4.1)
     maruku (0.6.1)
@@ -41,7 +36,7 @@ GEM
       jekyll
       rack
     rack-rewrite (1.3.3)
-    sass (3.2.6)
+    sass (3.2.10)
     syntax (1.0.0)
     thin (1.5.0)
       daemons (>= 1.0.9)
@@ -58,7 +53,7 @@ DEPENDENCIES
   coderay
   foreman
   jekyll
-  jekyll-sass!
+  jekyll-sass
   kramdown
   nokogiri
   rack-jekyll
