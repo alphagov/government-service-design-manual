@@ -23,13 +23,13 @@ breadcrumbs:
 
 A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
-## What’s a retrospective?
+## Retrospective format
 
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
 A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where your team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, eg a full project retrospective.
 
-A retrospective takes the following form:
+A retrospective takes this form:
 
 1.    gather data
 2.    generate insights
@@ -42,7 +42,9 @@ This is a chance for everyone in your team to contribute to improving process/pr
 
 ![A retrospective plan](/service-manual/assets/images/planning_retro.jpg)
 
-All retrospectives must be facilitated. The facilitator’s role is to give everyone a chance to talk about their concerns and give positive feedback. At the same time, they make sure the meeting remains a structured, productive meeting and doesn’t turn into just a moanfest. Ideally, your facilitator will be someone outside of your team so your whole team can contribute, but it’s not essential.
+All retrospectives must be facilitated. The facilitator’s role is to give everyone a chance to talk about their concerns and give positive feedback. 
+
+At the same time, they make sure the meeting remains a structured, productive meeting and doesn’t become overly negative. Ideally, your facilitator will be someone outside of your team so your whole team can contribute, but it’s not essential.
 
 The facilitator needs to:
 
@@ -96,7 +98,7 @@ Build in about 10% ‘shuffle time’ to move between activities to make sure it
 
 ### Setting the scene: 00:00 to 00:05 (5 mins)
 
-Explain the scope, and if necessary, purpose. If your team don’t know each other and/or are shy, include brief introductions.
+Explain the scope and, if necessary, purpose. If your team don’t know each other and/or are shy, include brief introductions.
 
 ### Actions from the previous retrospective: 00:05 to 00:10 (5 mins)
 
