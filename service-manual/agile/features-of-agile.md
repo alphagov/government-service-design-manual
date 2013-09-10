@@ -82,7 +82,7 @@ A good description of sprint planning is on the [Agile Learning Labs website](ht
 * what we will do?
 * how we will do it?
 
-This meeting can be hard to get right with large t
+This meeting can be hard to get right with large. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere! 
 
 ### Sprint Review
 
