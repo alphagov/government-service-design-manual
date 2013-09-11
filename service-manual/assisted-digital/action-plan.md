@@ -38,7 +38,7 @@ Some new digital services will have a greater assisted digital requirement than 
 
 ##Discovery: understanding your assisted digital users and their needs.
 
-By the end of the discovery stage of your digital transformation, you should have developed a plan to answer these  questions:
+By the end of the discovery stage of your digital transformation, you should have developed a plan to answer these questions:
 
 1. How many of your users do you estimate will require assisted digital support?
 2. What is your early thinking around the needs of users who may require assisted digital support?
