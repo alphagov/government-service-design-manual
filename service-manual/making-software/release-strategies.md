@@ -25,13 +25,13 @@ Constantly improving online services means releasing changes to the underlying s
 
 ## Releasing software
 
-It is important to think about how you release changes to a running application as early in the products development as possible. This is because it affects how software is developed and tested and how a product may be supported.
+It's important to think about how you release changes to a running application as early in the products development as possible. This is because it affects how software is developed and tested, and how a product may be supported.
 
-Being able to release software on demand is important. 6 monthly or longer release cycles are dangerous. Not only do new features rarely see the light of day but fixing known problems have to fit within a rigid release schedule. 
+Being able to release software on demand is important. 6-monthly or longer release cycles are dangerous. Not only do new features rarely see the light of day but fixing known problems have to fit within a rigid release schedule. 
 
-Note that it's important to make the distinction between releasing regularly and _the ability to_ release all the time. The application should always be in a state where it could be released, that means quick changes can be made when needed. As an example changes to the software running GOV.UK are made on average 5 times per day.
+Note that it's important to make the distinction between releasing regularly and _the ability to_ release all the time. The application should always be in a state where it could be released, meaning quick changes can be made when needed. As an example, changes to the software running GOV.UK are made on average 5 times per day.
 
-In order to do that you have to consider:
+To do that you have to consider:
 
 * [your approach to testing](/service-manual/making-software/code-testing.html)
 * the quality of low level code – approaches like continuous integration, where code is tested constantly, and test driven design, can be helpful
@@ -44,7 +44,7 @@ Although tools, potentially including commercial tools, are required to aid rapi
 In some organisations, people fear releasing new applications or new versions of software. Lots of websites, especially large applications within large traditional organisations, don’t change very often. Many will have fixed release schedules which might mean one release every six months or so. This means bundling up lots of changes into a single release, which is bad in at least two ways:
 
 * the people using your service don’t get new features and improvements quickly
-* bundling up lots of new features you make the release more complicated
+* bundling up lots of new features makes the release more complicated
 
 It could be weeks or months before an improvement that only took a few days to finish is actually released for people to use, and the complexity means there are lots of different ways the release can go wrong.
 
