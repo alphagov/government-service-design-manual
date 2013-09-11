@@ -21,19 +21,19 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-## What is the government's position on apps?
+## The government's position on apps
 
-The government’s position is that native apps are currently rarely justified. At the October 2012 Digital Leaders’ meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
+The government’s position is that native apps are currently rarely justified. At the October 2012 Digital Leaders meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
 
-> “Stand-alone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
+> “Standalone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
-Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data and API available for reuse will stimulate the market if there is real demand for native apps.
+Ensuring your service meets the [Digital by Default Service Standard](/service-manual/digital-by-default) means it will work well on mobile devices. Making your data and application programming interface (API) available for reuse will stimulate the market if there is real demand for native apps.
 
 ## Brief background on apps landscape
 
-So-called 'apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or HTML5) or even various hybrids of the two.
+'Apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or [HTML5](http://en.wikipedia.org/wiki/Html5)) or even various hybrids of the two.
 
-### What is a native app?
+### Native apps
 
 Native apps are downloadable software applications that run using the device's operating system code and APIs.
 
@@ -59,7 +59,7 @@ Responsive web design is a design approach that optimises users' viewing experie
 
 Responsive websites are built using open web standards (HTML, CSS, javascript, etc) and they run inside a device's web browser.
 
-Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
+Examples include [GOV.UK](https://www.gov.uk), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
 
 #### Pros
 - it is your website, so costs are minimised and service iteration simplified
@@ -67,7 +67,7 @@ Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://ap
 - no gatekeepers to constrain access
 - performance still good
 - mobile web outstripping mobile app reach
-- clear winning strategy for ‘utility’ services which do not require complex device  features or persistence
+- clear winning strategy for ‘utility’ services which do not require complex device features or persistence
 
 #### Cons
 - not persistent on device
@@ -78,31 +78,29 @@ Examples are [GOV.UK](https://www.gov.uk), PM's dashboard, [FT webapp](http://ap
 
 ## Rationale for the government's position
 
-If there is a market for native apps, why should the government monopolise it? There is a vibrant market of 3rd party native app developers using government data and APIs. Government’s position is that native and hybrid apps are currently rarely justified.
+If there is a market for native apps, why should the government monopolise it? There's a vibrant market of third party native app developers using government data and APIs. The government’s position is that native and hybrid apps are currently rarely justified.
 
 We are [backing open standards](/service-manual/making-software/open-standards-and-licensing.html) rather than risking proliferation of parallel versions of services as devices proliferate.
 
-And while people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For 'utility' needs, such as those met by government services, the mobile web is preferred to native apps
+While people spend as much time using apps as using mobile web the vast majority of app use is for gaming and social networking. For 'utility' needs, such as those met by government services, the mobile web is preferred to native apps
 
 ## Exceptions
 
-We recognise that there’ll be a few exceptions. To help you assess whether your case is likely to be considered an exception, consider the following:
-
-### Have you met the necessary conditions?
+We recognise that there’ll be a few exceptions. To help you assess whether your case is likely to be considered an exception, consider whether you've met the necessary conditions:
 
 **Condition 1:** Your web service is already designed to be responsive
 
-**Condition 2:** The service or the content you’re looking to build an app for is already open to third-parties via APIs or as open data
+**Condition 2:** The service or the content you’re looking to build an app for is already open to third parties via APIs or as open data
 
 > **NOTE:** If these conditions are not in place, it is unlikely that your app proposal will be approved. If you believe there are _compelling_ reasons why these conditions have not been met, please set them out in your proposal.
 
-### More questions
+### More conditions to consider
 
-1. [What’s the user need?](/service-manual/user-centered-design/user-needs.html) Please provide supporting evidence
-2. Which 3rd-party native/hybrid apps have already been developed to meet this user need? If there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are 3rd-party alternatives, please state why you believe a government-developed app is required
-3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know your users](/service-manual/users) and [Writing user stories](/service-manual/agile/writing-user-stories.html)
-4. Is there evidence of demand for this type of app amongst your target users? If you believe there is, please provide supporting evidence, eg similar apps that have proven popular with your target audience and evidence of their popularity
-5. Is there evidence to justify building an app for the platform you’re proposing to do this for? If so, please provide supporting evidence, eg analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices
+1. [What’s the user need?](/service-manual/user-centered-design/user-needs.html) Please provide supporting evidence.
+2. Which third-party native/hybrid apps have already been developed to meet this user need? If there are none and condition 2 has been met, please provide your thoughts on why this might be the case. If there are third-party alternatives, please state why you believe a government-developed app is required.
+3. Is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app? If you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [Know your users](/service-manual/users) and [Writing user stories](/service-manual/agile/writing-user-stories.html).
+4. Is there evidence of demand for this type of app among your target users? If you believe there is, please provide supporting evidence, eg similar apps that have proven popular with your target audience and evidence of their popularity.
+5. Is there evidence to justify building an app for the platform you’re proposing to do this for? If so, please provide supporting evidence, eg analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices.
 
 ### The process
 
@@ -112,3 +110,7 @@ In addition to the evidence requested above, all digital spend for the developme
 
 * [Government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
 * Tom Loosemoore's [blog post about standalone apps](http://digital.cabinetoffice.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
+
+*[APIs]: pplication programming interfaces
+*[API]: pplication programming interface
+
