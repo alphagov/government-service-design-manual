@@ -29,7 +29,7 @@ As software developers, the environments we use every day matter greatly. Below 
 * develop rapidly and iteratively
 * continuously test and monitor software during development
 
-Although this document does not describe the capabilities and characteristics of a production environment, there is a general presumption that any production environment should enable the exemplar project development teams to:
+Although this document doesn't describe the capabilities and characteristics of a production environment, there's a general presumption that any production environment should enable the exemplar project development teams to:
 
 * deploy updates to the system rapidly and iteratively (ie at least daily)
 * continuously test and monitor software in production
@@ -42,7 +42,7 @@ The essential capabilities of the development environment without which the deve
 
 ### Current availability
 
-A service that is already operational and able to onboard customers very quickly (typically within 5 working days).
+A service that's already operational and able to onboard customers very quickly (typically within 5 working days).
 
 ### Internet connectivity
 
