@@ -33,21 +33,21 @@ This is especially a risk in the absence of a developer community driving [the n
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
-Building a Website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine readable representations.
+Building a website leads to considering how to best model content and data in terms of bookmarkable resources, and ensures data is presented in human as well as machine-readable representations.
 
-Becoming a consumer of your own APIs not only validates your API, but exposes services [on The Web](http://www.w3.org/TR/webarch/).
+Becoming a consumer of your own APIs not only validates your API, but exposes services [on the web](http://www.w3.org/TR/webarch/).
 
-### Just use The Web
+### Just use the web
 
-Consider an API to be a part of a Website.
+Consider an API to be a part of a website.
 
 Provide links to machine-friendly formats from human readable pages, and enable agents to easily construct URLs which link to human-friendly representations of pages.
 
-Use standard formats for content, and follow established Web patterns for authentication.
+Use standard formats for content, and follow established web patterns for authentication.
 
-Building a service to enjoy mass adoption and support from a wide disparate community of developers and programming environments whilst being able to reach a world-wide audience is difficult. Whilst proprietary and open technologies abound for machine-to-machine communication, none combine the interoperability, reach and ability to scale to compete with The Web.
+Building a service to enjoy mass adoption and support from a wide, disparate community of developers and programming environments while being able to reach a world-wide audience is difficult. While proprietary and open technologies abound for machine-to-machine communication, none of them have the web's interoperability, reach and ability to scale.
 
-Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on The Web. Using HTTP and URIs, the core technologies of The Web, together with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a Website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [Build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
+Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Ptotocol) and URIs (uniform resource identifiers), the core technologies of the web,  with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
 
 ### Give each thing a bookmarkable URI
 Expose data as a set of resources, offering a [clean URL](http://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.
@@ -56,12 +56,12 @@ Only use [query strings](http://en.wikipedia.org/wiki/Query_string) for URLs wit
 
 Consider creating URIs for different granularity of resources. For example, `/members.json` could return a list of names, whilst `/members.json?detail=full` could return detailed information about each member in a list.
 
-These principles enable network effects which arise through linking and allow information published beyond the Web, sent in alerts email, SMS, XMPP and other messages to link back to the canonical content, on The Web.
+These principles enable network effects which arise through linking and allow information published beyond the web, sent in alerts email, SMS, XMPP and other messages, to link back to the canonical content on the web.
 
 ### Use HTTP methods as Tim intended
 Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_\(HTTP\)), PUT or DELETE method.
 
-Use PUT and DELETE with caution, as they are commonly blocked by firewalls, intranet proxies, hotel Wifi and mobile operators; always offer a POST alternative.
+Use PUT and DELETE with caution, as they are commonly blocked by firewalls, intranet proxies, hotel wi-fi and mobile operators: always offer a POST alternative.
 
 Avoid HTTP methods which are not well defined, such as PATCH.
 
@@ -91,27 +91,28 @@ The representations supported by an API for input will vary depending upon the c
 ### Names reinforce conventions
 Use names for fields, formats and path segments in a URI path consistently across your API.
 Establish conventions others may easily follow, and anticipate.
-Where possible, reuse names widely used elsewhere on The Web, as with the [Microformats naming policy](http://microformats.org/wiki/naming-principles).
+Where possible, reuse names widely used elsewhere on the web, as with the [Microformats naming policy](http://microformats.org/wiki/naming-principles).
 
 ### Document by discovery … and example
-Building a Website which exposes the data through links, and services through HTML forms encourages exploration and leads to [discovery through hypertext](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven).
+Building a website which exposes the data through links, and services through HTML forms encourages exploration and leads to [discovery through hypertext](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven).
 
 Provide documentation for your API using examples. Collect how people are using your API, especially link to any open source projects for projects, wrappers and programming language libraries. Provide simple ways to experiment, as with [The Guardian API explorer](http://explorer.content.guardianapis.com/).
 
 ### Explicitly set expectations
-Be clear in Web pages and other documentation as to the security, availability, rate-limiting, expected responsiveness of the platform and the provenance of data, so consumers may plan their commitment to using your API.
+Be clear in Wwb pages and other documentation as to the security, availability, rate-limiting, expected responsiveness of the platform and the provenance of data, so consumers can plan their commitment to using your API.
 
 ### Be public by default
-Lower the barriers to others using your data; don't demand registration or API keys for public data.
+Lower the barriers to others using your data: don't demand registration or API keys for public data.
 
-Open data increases the number of people able to use your data and service, and leads to feedback loops where consumers become motivated to resolve issues at source, feeding back issues and correction to your service and the data within.
+Open data increases the number of people able to use your data and service, and leads to feedback loops where consumers become motivated to resolve issues at source, feeding back issues and correction to your service and its data.
 
-Where content is sensitive, or requires authentication, use encryption (HTTPS) and a standard authentication such as [Basic Authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
+Where content is sensitive, or requires authentication, use encryption (HTTPS - Hypertext Transfer Protocol Secure) and a standard authentication such as [Basic Authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
 
-### Practice service evolution:
+### Practice service evolution
 
-- build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected (The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; Postel's Law explains the ability for The Web and Internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content)
-- preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to the meaning the prefix for a name to the person's job title.
+Build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected. The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; Postel's Law explains the ability for the web and internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content.
+
+Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
 When changing URIs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
@@ -125,10 +126,10 @@ Most modern digital services are built on top of a wide range of APIs. This allo
 ### Code Integration
 When consuming APIs you should be careful to keep the integration with your code clean and distinct. This is important to ensure that you can swap between providers or update to new versions of an API without making substantial changes to your core code.
 
-At GDS we encourage the use of adapter code that is entirely focussed on interfacing with the system and mapping code that will provide the linkage between your code's domain model and the concepts and services provided by the API.
+At GDS we encourage the use of adapter code that's entirely focused on interfacing with the system and mapping code. This will provide the linkage between your code's domain model and the concepts and services provided by the API.
 
 ### Testing
-You should consider carefully how you intend to test your integration with the service. In day to day development you will want to be able to test your code without making (computationally or potentially financially) costly calls out to third party services so you should come up with a way of providing mock versions of those APIs. For full system tests, however, you will want to test the full flow including the third-party service so an automated mechanism should be built for that.
+You should consider carefully how you intend to test your integration with the service. In day-to-day development you'll want to be able to test your code without making (computationally or potentially financially) costly calls out to third party services, so you should come up with a way of providing mock versions of those APIs. For full system tests, however, you'll want to test the full flow including the third-party service so an automated mechanism should be built for that.
 
 Many of the GOV.UK publishing applications send emails to provide alerts for [content designers](/service-manual/the-team/content-designer.html). When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
 
@@ -138,14 +139,24 @@ Our publishing systems make use of a single sign-on service. In most of our test
 
 The Licence Application Tool integrates with a number of third-party payment services. It makes use of test accounts with those services to verify it is able to communicate with them and is sending the right data to complete payments.
 
-### Service Agreements and Resilience
+### Service agreements and resilience
 By depending on a third party API you could very easily be tying your service's availability to that of the third party. In some cases that may be acceptable, but often you will want to ensure that you have a fallback plan in place.
 
-The details of that fallback will vary according to your service. It may be that you will need to offer the user the opportunity to use an alternative service, or queue the action to take place later. That could be an automated queue with software that monitors it and retries transactions, or it could be a manual queue where someone follows up to collect further details.
+The details of that fallback will vary according to your service. It may be that you'll need to offer the user the opportunity to use an alternative service, or queue the action to take place later. That could be an automated queue with software that monitors it and retries transactions, or it could be a manual queue where someone follows up to collect further details.
 
-You should be clear with your users about what is happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
+You should be clear with your users about what's happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
 
 ##Further reading
+
 * The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
 * The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
 * The WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.
+
+*[APIs]: Application Programme Interfaces
+*[API]: Application Programme Interface
+*[URI]: uniform resource identifier)
+*[URLs]: uniform resource locators
+*[URL]: uniform resource locator
+*[HTTPs]: Hypertext Transfer Ptotocols
+*[HTTP]: Hypertext Transfer Ptotocol
+
