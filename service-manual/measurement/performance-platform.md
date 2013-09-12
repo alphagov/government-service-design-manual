@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/measurement/performance-platform
 ---
 
-The [Performance Platform](https://www.gov.uk/performance) is for service managers that need to be able to make data-driven decisions based on both digital and non‑digital sources.
+The [performance platform](https://www.gov.uk/performance) is for service managers that need to be able to make data-driven decisions based on both digital and non‑digital sources.
 
 It’s a toolkit that allows you to supply service data in return for alerts, visualisations and structured data, which can then be used to: 
 
@@ -38,7 +38,7 @@ The performance platform will provide:
  
 This will help with making timely and transparent decisions about your service and the content that government offers.
 
-The platform will combine different sources of information such as:
+The platform will combine different sources of information:
 
 * service desks
 * infrastructure
