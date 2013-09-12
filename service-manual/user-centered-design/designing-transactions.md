@@ -24,7 +24,7 @@ breadcrumbs:
 
 It's an exchange between two or more parties.
 
-[Government transactions](http://transactionsexplorer.cabinetoffice.gov.uk/) typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
+[Government transactions](/performance/transactions-explorer) typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
 
 For example, when someone applies for a passport they exchange information and money for the right to travel.
 
@@ -250,6 +250,6 @@ Asking for information because 'it might be useful' or 'it helps with our record
 
 ## Resources
 
-* <http://transactionsexplorer.cabinetoffice.gov.uk/>
+* [Transactions Explorer](/performance/transactions-explorer)
 * <http://www.uxforthemasses.com/forms-usability/>
 
