@@ -22,15 +22,15 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-The basics of any testing approach still apply in the Agile world, but the aim of testing can be quite different.
+The basics of any testing approach still apply in the agile world, but the aim of testing can be quite different.
 
-It is important to recognise why you are testing in the first place:
+It's important to recognise you are testing in the first place to:
 
-* to build the best quality system you can
-* to make sure it does what the customer requires
-* that it’s done at a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
+* build the best quality system you can
+* make sure it does what the customer requires
+* compete it a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
 
-Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about the following 7 concepts:
+Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about these 7 concepts:
 
 * building quality in
 * everyone is responsible for quality
@@ -94,12 +94,13 @@ When done well, testing will inform you of the best way forward. It’ll also gi
 ## Types of testing
 
 The most noticeable difference with testing in an agile project is that the majority of your test efforts will be centred on automated tests. 
-These tests run in [continuous integration (C.I.)](/service-manual/agile/continuous-delivery.html), which means that they form part of your codebase - every time you make a change to your code, your tests are automatically run. You’ll get immediate feedback on the quality of your code and it’ll help to prevent bugs happening at a later stage (when they’re expensive and complicated to resolve.)
 
-### Code Testing
+These tests run in continuous integration, which means that they form part of your codebase - every time you make a change to your code, your tests are automatically run. You’ll get immediate feedback on the quality of your code and it’ll help to prevent bugs happening at a later stage (when they’re expensive and complicated to resolve.)
+
+### Code testing
 Read the guidance about [testing code](/service-manual/making-software/code-testing.html).
 
-### Exploratory Testing
+### Exploratory testing
 Exploratory  testing is a term commonly used to describe unscripted manual testing. This is where the tester uses his or her knowledge, experience and intuition to go through through the software and identify bugs.
 
 The difference between unscripted and scripted tests is that a scripted test can only ever test a predetermined outcome. Exploratory testing (unscripted) doesn’t mean you don’t prepare for the testing.
@@ -124,16 +125,16 @@ When a manual test finds a defect, it’s important to always add an automated t
 
 Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
 
-### Load & Performance Testing
-Read the guidance about [load & performance testing](/service-manual/operations/load-and-performance-testing.html)
+### Load and performance testing
+Read the guidance about [load and performance testing](/service-manual/operations/load-and-performance-testing.html)
 
-### Penetration Testing
+### Penetration testing
 Read the guidance about [penetration testing](/service-manual/operations/penetration-testing.html)
 
-### Accessibility Testing
+### Accessibility testing
 Read the guidance about [accessibility testing](/service-manual/making-software/accessibility-testing.html)
 
-### Crowd Sourced Testing
+### Crowdsourced testing
 Crowdsourced testing doesn’t use a set group of people to carry out testing (known as outsource testing). It uses different people from different places in different jobs. It’s a good way of speeding up your manual testing and/or covering more ground.
 
 There are external companies who provide this as a service, but GDS do it internally by:
@@ -148,5 +149,5 @@ Examples of where GDS used this effectively include:
 * the pre-release testing of additional devices/browsers
 * the detailed checking of hundreds of pieces of content on GOV.UK against old content on DirectGov and BusinessLink
 
-### Test Your Ideas
+### Test your ideas
 Don’t forget, don’t just test the product itself - test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/user-centered-design/introduction-to-user-research.html).
