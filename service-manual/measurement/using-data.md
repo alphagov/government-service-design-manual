@@ -26,14 +26,14 @@ Simply collecting information about how your service is running isn’t enough t
 
 ##Understand user needs/decide what to measure
 
-Make sure the [core KPIs](/service-manual/measurement#what-will-you-measure) established in the [service standard](/service-manual/digital-by-default/index.html), and any [other KPIs](/service-manual/measurement/other-kpis.html) you choose to measure, accurately reflect the needs of your users and stakeholders.
+Make sure the [core key performance indicators (KPIs)](/service-manual/measurement#what-will-you-measure) established in the [service standard](/service-manual/digital-by-default/index.html), and any [other KPIs](/service-manual/measurement/other-kpis.html) you choose to measure, accurately reflect the needs of your users and stakeholders.
 
 This will allow you to measure the ability of your service to meet user needs.
 
 ##Install and configure platforms
 While building your service, make sure that appropriate analytics tools are being used to monitor the service, collecting the data necessary to produce accurate and timely measurements.
 
-For more information, read guidance on [choosing analytics tools](/service-manual/making-software/analytics-tools.html).
+For more information, read our guidance on [choosing analytics tools](/service-manual/making-software/analytics-tools.html).
 
 ##Establish a baseline
 
@@ -101,8 +101,8 @@ Taking an iterative approach to service development will increase the speed of i
 To find out more about ways to use data, try reading:
 
 * an article on [online customer satisfaction scores](http://www.guardian.co.uk/money/2010/dec/22/amazon-top-consumer-satisfaction) for retailers, based on the Customer Satisfaction Index, written for *The Guardian*
-* '[The role of the data scientist](http://radar.oreilly.com/2010/06/what-is-data-science.html)' by Mike Loukides
-* '[Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government - this is important because some channels may be quicker to use than others)
+* [The role of the data scientist](http://radar.oreilly.com/2010/06/what-is-data-science.html) by Mike Loukides
+* [Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government - this is important because some channels may be quicker to use than others)
 * [Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data), an excellent book by Brian Suda which helps you to design beautiful and powerful data visualisations
 * [Juice Analytics](http://www.juiceanalytics.com/), a website with lots of useful resources on how to design and develop useful data visualisations and dashboards
 * Edward Tufte’s [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi), an original piece of work on data visualisation and introduces the concept of chartjunk
@@ -111,3 +111,5 @@ To find out more about ways to use data, try reading:
 * a [nicely presented overview](http://selection.datavisualization.ch/) of some of the tools available for data visualisation
 * this [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1), which shows how A/B testing was used to good effect in Obama’s election campaign
 * this [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing), which shows how multivariate testing was used to improve conversion rates at Lovefilm
+
+*[KPIs]: key performance indicators
