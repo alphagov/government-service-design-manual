@@ -25,7 +25,7 @@ GDS is creating a highly practical induction and development programme to help y
 
 We're developing the programme iteratively with discovery, alpha and beta phases, moving into live from autumn 2013.
 
-As a participant, you’ll be in a group of 6 to 8 service managers and will commit 10 days to the programme over the course of a month.
+As a participant, you’ll be in a group of 6 to 8 service managers and will commit 8 days to the programme over the course of a month.
 
 While on the programme you will:
 
