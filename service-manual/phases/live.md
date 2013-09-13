@@ -19,15 +19,15 @@ breadcrumbs:
 {:.intro}
 You've been building a service to meet [users needs](/service-manual/user-centered-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
-## What does going 'live' mean?
+## Going live
 
-In order to provide a fully resilient service to all end users the service should now meet all [security](/service-manual/making-software/information-security.html) and [performance](/service-manual/measurement) standards. You have [configured your analytics](/service-manual/making-software/analytics-tools.html) to accurately monitor the [KPIs](/service-manual/measurement) identified in the building of your service, and you have planned the transition or integration of any existing services.
+To provide a fully resilient service to all end users the service should now meet all [security](/service-manual/making-software/information-security.html) and [performance](/service-manual/measurement) standards. You have [configured your analytics](/service-manual/making-software/analytics-tools.html) to accurately monitor the [key performance indicators](/service-manual/measurement) identified in the building of your service, and you have planned the transition or integration of any existing services.
 
-You have liased with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to ensure that you have met the requirements of new and redesigned services.
+You have liaised with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to make sure that you have met the requirements of new and redesigned services.
 
 And, most importantly, you have met [the user needs](/service-manual/user-centered-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
-## What next?
+## Post-launch stages
 
 This is not the end of the process. The service should now be improved continuously, based on [user feedback](/service-manual/operations/helpdesk.html), [analytics](/service-manual/operations/monitoring.html) and further research.
 
@@ -37,11 +37,11 @@ This is not the end of the process. The service should now be improved continuou
 * optimise the code
 * ensure the service remains secure
 
-You will repeat the whole process (discovery, alpha, beta and live) for smaller pieces of work as the service continues running. Find something that needs improvement, research solutions, iterate, release. That should be a constant rhythm for the [operating team](/service-manual/the-team), and done rapidly.
+You'll repeat the whole process (discovery, alpha, beta and live) for smaller pieces of work as the service continues running. Find something that needs improvement, research solutions, iterate, release. That should be a constant rhythm for the [operating team](/service-manual/the-team), and done rapidly.
 
-## Who do I need?
+## Team requirements
 
-You will have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
+You'll have identified the roles required to run your service, including the [service manager](/service-manual/the-team/service-manager.html) and [user support](/service-manual/operations/managing-user-support.html) teams, while building the service. As different areas of your service are iterated and improved the team size will expand and contract, accommodating specialists as appropriate.
 
 {:.phase-nav}
 * **[Final phase: retirement](/service-manual/phases/retirement.html)**
