@@ -17,11 +17,11 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Your digital services and the technology upon which they are built should enable change to happen, giving you the freedom to evolve your services according to changing user needs, expectations and technology innovation.
+Your digital services and the technology on which they're built should enable change, giving you the freedom to evolve your services according to changing user needs, expectations and technology innovation.
 
 Improving the way that you produce digital services is more about cultural and behavioural change than it is about IT. Technology alone will not be able to improve public services.
 
-##What does good look like?
+##What good looks like
 
 Your digital services are based on user needs, not on organisation structures and processes.
 
