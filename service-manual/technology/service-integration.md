@@ -17,13 +17,13 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Service integration and management enables an organisation to manage the providers of services in a consistent and efficient way, ensuring that performance across a portfolio of multi-sourced goods and services meets user needs.
+Service integration and management lets an organisation manage the service providers in a consistent and efficient way, making sure that performance across a portfolio of multi-sourced goods and services meets user needs.
 
 ##Service integration today
 
 Service integration models have been around for some time, but are now evolving from the challenges of managing a small number of large suppliers (typically systems integrators) to a model of managing a greater number of smaller suppliers, often providing commodity services.
 
-For the model to be effective the component services need to be well defined and understood. It is important to avoid any ambiguity about the boundaries of both responsibilities and accountabilities. Key features of an effective model are:
+For the model to be effective the component services need to be well defined and understood. It's important to avoid any ambiguity about the boundaries of both responsibilities and accountabilities. Key features of an effective model are:
 
 * being able to define different service requirements for critical and non-critical services (for example, some commodity public cloud services may require online service support or service desk only, whereas mission critical IT systems will require a more integrated service model)
 * a performance regime that ensures organisations don’t pay for services they can’t or don’t use
@@ -45,4 +45,4 @@ Particularly for smaller departments and simple services, care needs to be taken
 
 As part of service integration, you should maintain an accurate service catalogue including a service dependency map, so that you can effectively manage changes that are high risk, high impact, or that can affect multiple suppliers.
 
-When buying in services you should retain the contractual authority to ensure suppliers follow your service integration processes - so that you can ensure the integrity and availability of a department’s user services. This could include an end to end service performance incentive model so all suppliers collectively share in the benefits and penalties of a joint performance management regime.
+When buying in services you should retain the contractual authority to ensure suppliers follow your service integration processes - so that you can ensure the integrity and availability of a department’s user services. This could include an end-to-end service performance incentive model so all suppliers collectively share in the benefits and penalties of a joint performance management regime.
