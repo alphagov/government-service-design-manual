@@ -25,7 +25,7 @@ Data that is truly open is:
 * free of restriction on use or redistribution in its licensing conditions
 
 ##The data that you should make open
-Overall, government produces a lot of data that describes the services that we offer and how well those services are performing, for example data from [analytics tools](/service-manual/making-software/analytics-tools.html) or [key performance indicators](/service-manual/measurement/other-kpis). There is also data on how people use these services and who those people are.
+Overall, government produces a lot of data that describes the services that we offer and how well those services are performing, for example data from [analytics tools](/service-manual/making-software/analytics-tools.html) or [key performance indicators](/service-manual/measurement/other-kpis). There's also data on how people use these services and who those people are.
 
 Data about service performance allows [service managers](/service-manual/the-team/service-manager.html) to see how well a service is running. It also means that users can hold us to account. Data about service performance should therefore be public data.
 
@@ -44,31 +44,31 @@ Your department has its own [Open Data Strategy (for 2012-2014)](http://www.data
 
 Your open data should be user-friendly and searchable. For instance, all data published on data.gov.uk is searchable and placed on a [5-star rating scheme](http://5stardata.info/) to indicate how useable and easy to interpret the data is.
 
-You should aim to reach at least the Three Star standard.
+You should aim to reach at least the 3-star standard.
 
 The Open Data Principles that you must follow are:
 
-1. Public data policy and practice will be clearly driven by the public and businesses that want and use the data, including what data is released when and in what form
-2. Public data will be published in reusable, machine-readable form
-3. Public data will be released under the same open licence which enables free reuse, including commercial reuse
-4. Public data will be available and easy to find through a single, easy-to use, online access point ([data.gov.uk](http://data.gov.uk))
-5. Public data will be published using [open standards](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard---definition), and following relevant recommendations of the [World Wide Web Consortium (W3C)](http://www.w3.org/)
-6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions
-7. Public data underlying the Government’s own websites will be published in reusable form
-8. Public data will be timely and fine-grained
-9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centered-design/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data)
-10. Public data will be freely available to use in any lawful way
-11. Public data will be available without application or registration, and without requiring details of the user
-12. Public bodies should actively encourage the reuse of their public data
-13. Public bodies should maintain and publish inventories of their data holdings
-14. Public bodies should publish relevant metadata about their datasets and this should be available through a single online access point; and they should publish supporting descriptions of the format provenance and meaning of the data
+1. Public data policy and practice will be clearly driven by the public and businesses that want and use the data, including what data is released when and in what form.
+2. Public data will be published in reusable, machine-readable form.
+3. Public data will be released under the same open licence which enables free reuse, including commercial reuse.
+4. Public data will be available and easy to find through a single, easy-to use, online access point ([data.gov.uk](http://data.gov.uk)).
+5. Public data will be published using [open standards](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles#open-standard---definition), and following relevant recommendations of the [World Wide Web Consortium (W3C)](http://www.w3.org/).
+6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions.
+7. Public data underlying the Government’s own websites will be published in reusable form.
+8. Public data will be timely and fine-grained.
+9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centered-design/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data).
+10. Public data will be freely available to use in any lawful way.
+11. Public data will be available without application or registration, and without requiring details of the user.
+12. Public bodies should actively encourage the reuse of their public data.
+13. Public bodies should maintain and publish inventories of their data holdings.
+14. Public bodies should publish relevant metadata about their datasets and this should be available through a single online access point; and they should publish supporting descriptions of the format provenance and meaning of the data.
 
 ## Building on open data
 Users are already using your services, giving you lots of data about their behaviour. This means you can learn from real world behaviour when you're [designing a new digital service](/designprinciples#third). You can watch and learn from your users, shaping the system to fit what people naturally choose to do.
 
 [Recognise that you can't do it all](/designprinciples#second). In making your data open, you are encouraging greater use of the data and helping users to innovate.
 
-Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [APIs](/service-manual/making-software/apis.html).
+Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces (APIs)](/service-manual/making-software/apis.html).
 
 As with all government digital services you'll need to [understand the user need](/service-manual/user-centered-design/user-needs.html) for the data you publish.
 
@@ -79,7 +79,7 @@ You need to be scrupulous in protecting individual privacy by taking appropriate
 
 You should consider privacy issues at the beginning of all discussions concerning the release of a new dataset or the building of or change to a digital service dealing with personal data.
 
-If you are using new technology to handle personal data or reusing the data in a different way, you may need to carry out a [Privacy Impact Assessment](http://ico.org.uk/for_organisations/data_protection/topic_guides/privacy_impact_assessment). This is a key part of the process for identifying and managing risk.
+If you are using new technology to handle personal data or reusing the data in a different way, you may need to carry out a [Privacy Impact Assessment](http://ico.org.uk/for_organisations/data_protection/topic_guides/privacy_impact_assessment). This is an important part of the process for identifying and managing risk.
 
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
@@ -91,7 +91,7 @@ This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/
 Your open data can give:
 
 * your users information and informed choice about the services they use
-* your service managers the information they can rely on to deliver what your users need
+* your service managers the information they can rely on to provide what your users need
 * businesses and the community or voluntary sector the opportunity to take the data released and produce goods and services from it
 
 Building your services on open formats and open standards means that you can more easily share, reuse or exchange data. It will also mean that you will have a choice in which technology to implement, rather than being limited to a particular product or supplier.
@@ -103,7 +103,7 @@ You can also find case studies of how people are sharing, using and building ope
 
 ##Where to get help
 
-The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk
+The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk.
 
 The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
 
