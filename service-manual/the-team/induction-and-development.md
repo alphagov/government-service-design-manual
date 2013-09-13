@@ -64,11 +64,11 @@ Which principles of leadership can be brought to bear in the new era of agile di
 
 ###Being agile
 
-[Agile](/service-manual/agile/what-agile-looks-like.html) runs through the Digital by Default Service Standard like the words through a stick of rock. Your group will:
+[Agile](/service-manual/agile/index.html) is essential to the Digital by Default Service Standard. Your group will:
 
 *  unpack the tools and practices that make agile such a powerful method for delivering services
 *  visit some of the agile teams working at Aviation House
-*  consider the role of the service manager in agile delivery
+*  consider the role of the service manager in agile provision
 
 ##Achieving the goals
 
@@ -103,12 +103,14 @@ The right governance, processes and controls are essential for agile projects to
 
 ###KPIs: setting the bar
 
-Your group will discuss how you set and measure key performance indicators for your services so that you can lead them in the right direction. Based on information you will prepare beforehand, you will:
+Your group will discuss how you set and measure key performance indicators (KPIs) for your services so that you can lead them in the right direction. Based on information you will prepare beforehand, you will:
 
 *  share your service KPIs as they currently stand
 *  consider what additional KPIs may be required for your services to measure satisfaction, success rates, cost per transaction and take-up
-*  find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
+*  find out about the [performance platform](/service-manual/measurement/performance-platform.html) and how you can use it
 *  design your own performance dashboard to show KPIs for your services in a simple, visual way
+
+*[KPIs]: key performance indicators
 
 ###Always be testing
 
@@ -132,12 +134,12 @@ To operate effectively, many new digital services must work alongside department
 
 *  hear from specialists in [technology architecture](/service-manual/technology/architecture.html)
 *  learn about best practice in security, privacy and identity
-*  hear how government is using open source and open standards to deliver more effective digital services
+*  hear how government is using open source and open standards to provide more effective digital services
 *  consider how to deliver effective digital services in the context of departments’ existing and planned IT systems
 
 ###Procure to improve
 
-Delivering high quality digital services that improve continuously often depends on effective procurement. As a group you will:
+Delivering high-quality digital services that improve continuously often depends on effective procurement. As a group you will:
 
 *  consider how to procure tools and systems fit for the purpose of agile, user-centred development
 *  discuss the range of options available, and how to determine make or buy decisions
