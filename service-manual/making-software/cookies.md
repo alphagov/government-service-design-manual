@@ -23,7 +23,7 @@ breadcrumbs:
 
 This short guide tells you what to keep in mind when including cookies into your services, and how and why you must notify users about cookies on your service.
 
-## What are they?
+## Cookies explained
 
 Cookies are small data files that are sent from a website and stored on a user's computer. They are used to store information that can be retrieved later in the visit or in future visits to the website.
 
@@ -45,9 +45,9 @@ Responsibility for complying with these regulations lies with the website operat
 
 This guide covers how to use cookies on government services, but the principles also apply to other technologies such as HTML5 local storage.
 
-**You should minimise the use of cookies on services, store as little information as you require for as short a time as necessary to deliver a good service to users.**
+You should minimise the use of cookies on services, store as little information as you require for as short a time as necessary to provide a good service to users.
 
-If your service requires cookies to be stored then you need to ensure that they can be explained simply and clearly, in a way that the majority of users can understand.
+If your service requires cookies to be stored then you need to make sure that they can be explained simply and clearly, in a way that the majority of users can understand.
 
 You must notify users that cookies are being stored.
 
@@ -55,7 +55,7 @@ You must notify users that cookies are being stored.
 
 ### First party cookies
 
-These are cookies that are set by the website that the user is currently viewing. They are under the control of the website operator and can only be accessed by the website. Data stored within the cookie is not shared with other websites.
+These are cookies that are set by the website that the user is currently viewing. They are under the control of the website operator and can only be accessed by the website. Data stored in the cookie is not shared with other websites.
 
 Examples of first party cookies include:
 
@@ -81,7 +81,7 @@ These types of cookies are intrusive as the website owner usually has no control
 
 ### Exempt cookies
 
-A number of uses of cookies are exempt from the requirement to gain consent. These include cookies that are used for load balancing or cookies that are "absolutely essential" to the use of a website (eg used to store shopping cart contents).
+A number of uses of cookies are exempt from the requirement to gain consent. These include cookies that are used for [load balancing](http://en.wikipedia.org/wiki/Load_balancing_(computing)) or cookies that are "absolutely essential" to the use of a website (eg used to store shopping cart contents).
 
 While these cookies are exempt from the Privacy and Electronic Communications Regulations, you should still notify users that these cookies are in use.
 
@@ -93,7 +93,7 @@ You can see an example of how to do this on the [GOV.UK cookies page](https://ww
 
 Each service must include a link to this page on the footer of the website. The information page must also include a link back to the main GOV.UK cookies page.
 
-Services must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when the service relies on implied consent. GOV.UK does this with a blue information banner that is displayed at least once every 3 months with the following message:
+Services must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when the service relies on implied consent. GOV.UK does this with a blue information banner that is displayed at least once every 3 months with this message:
 
 > "GOV.UK uses cookies to make the site simpler. [Find out more about cookies](https://www.gov.uk/support/cookies)."
 

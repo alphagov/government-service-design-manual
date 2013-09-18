@@ -32,7 +32,7 @@ Producing regular iterations makes it easier for you to:
 
 If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up - and stock is waste.
 
-From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_development)
+The [Lean software development philosophy](http://en.wikipedia.org/wiki/Lean_software_development) tells us to:
 
 > Test all iterations of your software, either through public user testing or automated testing (using separate software to perform the testing).
 
@@ -86,4 +86,4 @@ Your code is ready to go live if it has passed:
 * the shared sandbox environment
 * any necessary specialist testing
 
-Deploy to production the same way as you deploy to any other environment – use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time – you’re performing a task that’s been validated at each stage throughout the deployment pipeline.
+Deploy to production the same way as you deploy to any other environment – use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time – you’re performing a task that’s been validated at each stage throughout the deployment pipeline. 

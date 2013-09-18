@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-When users are unable to complete a digital transaction it can lead to avoidable contact through other channels. This leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
+When users are unable to complete a digital transaction, they can be pushed to use other channels. This leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
 
 Measuring end-to-end completion rates helps to identify whether users have problems completing a transaction. Analysing the drop-out rate at each step of a transaction will pinpoint the specific processes that users fail to complete.
 
@@ -43,7 +43,7 @@ Before the transaction has started, users should clearly be told:
 
 * what the outcome of the transaction will be
 * who can use it
-* how long it is likely to take
+* how long it's likely to take
 * what they’ll need to complete it (eg a reference number or credit card)
 
 Also provide users with the eligibility criteria and the costs to complete the transaction. This will help you to reduce dropouts later on in the transaction.
@@ -81,7 +81,7 @@ Consider applying a nominal time limit to saved transactions after which, if the
 
 ### Multiple endpoints
 
-Some services have complex journeys and there may be several points where a transaction can be successfully completed. Service Managers define these areas, and make sure they point to appropriate end pages on GOV.UK so they count towards the completed transaction total.
+Some services have complex journeys and there may be several points where a transaction can be successfully completed. Service managers define these areas, and make sure they point to appropriate end pages on GOV.UK so they count towards the completed transaction total.
 
 ### Offline fulfilment
 
@@ -108,15 +108,15 @@ To successfully measure your service completion rate, GDS recommend that:
   * analyse task completion rates so you can continually improve the service
   * carry out further usability testing to continually identify any usability problems and feed into service design
 
-### How frequently should I measure task completion rate?
+### Completion rate measurement frequency
 
 Completion rate should be measured continuously. Once the service is live this will be done on GOV.UK.
 
-### How can I test the completion rate before launch?
+### Testing the completion rate before launch
 
 Before launch, measure completion rates with usability testing. This should be iteratively tested with at least 5 people.
 
-This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) of usability problems. Users will be given a pre-determined set of tasks that reflect what needs to be done to use the service. These tasks will include all aspects of using the service that apply, such as:
+This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) of usability problems. Users will be given a pre-determined set of tasks that reflect what needs to be done to use the service. These tasks will include all aspects of using the service that apply, like:
 
 * registering
 * applying
@@ -127,10 +127,10 @@ This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-nee
 
 If users are having difficulty completing tasks, carry out more user testing after each new development.
 
-### What about post launch?
+### Post-launch measurement
 
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the  [Performance Platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
+The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the  [Performance platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
 
-Further usability testing should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made. 
+Further usability testing should also be carried out once a service has gone live to measure use of the service and identify any issues and improvements that can be made. 

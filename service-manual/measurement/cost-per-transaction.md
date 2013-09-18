@@ -26,7 +26,7 @@ Cost per transaction is an important measure of a service’s efficiency. As ser
 
 Cost per transaction is about how much it costs government to provide each completed transaction.
 
-Measure the difference in the cost of the transaction through each available channel. Understanding these costs will help you to accurately forecast savings and build a strong business case for making services digital by default.
+You should measure the difference in the cost of the transaction through each available channel. Understanding these costs will help you to accurately forecast savings and build a strong business case for making services digital by default.
 
 ## How to measure cost per transaction
 
@@ -39,7 +39,7 @@ Where resources (eg call centres) are shared with other services, costs should b
 
 ### Cost per digital transaction
 
-1.    Work out the total cost of providing the digital service
+1.    Work out the total cost of providing the digital service.
 2.    Divide the total cost by the total number of transactions completed digitally, including [assisted digital](/service-manual/assisted-digital) transactions.
 
 Where processes and costs are common to more than one channel (eg processing wet signatures for passports, or printing driving licences), split costs appropriately. For example, if half of all transactions are completed digitally, then assign 50% of the common costs to the digital channel.
@@ -68,7 +68,7 @@ In the full cost of the transaction, include:
 * bad debts
 * provisions
 
-Exclude the following:
+Exclude these costs from the transaction:
 
 * enforcement costs
 * replacement costs of items notionally insured
