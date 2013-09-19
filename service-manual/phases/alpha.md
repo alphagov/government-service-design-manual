@@ -17,13 +17,13 @@ breadcrumbs:
 ---
 
 {:.intro}
-When designing a service it's impossible to predict everything up-front. Each project features many challenges, and in your alpha you will start exploring solutions for these.
+When designing a service it's impossible to predict everything upfront. Each project features many challenges, and in your alpha you will start exploring solutions for these.
 
 You may need to bring more [developers](/service-manual/the-team/developer.html) and [designers](/service-manual/the-team/designer.html) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centered-design/working-with-prototypes.html) and possible solutions for your [users needs](/service-manual/user-centered-design/user-needs.html).
 
 By the end of the alpha you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta.html). The whole phase should not last longer than about 6 to 8 weeks.
 
-<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=PmaE-12KqEQ">Watch Sarah Richards, GDS content design lead, describe what happens during the alpha phase.</a></figure>
+<figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=PmaE-12KqEQ">Watch Sarah Richards, GDS Content Design Lead, describe what happens during the alpha phase.</a></figure>
 
 ## The objective of an alpha
 
