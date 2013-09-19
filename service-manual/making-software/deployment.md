@@ -44,7 +44,9 @@ from the GDS blog for more on this.
 Deploying software frequently makes life better for the product
 managers in your organisation. Frequent deployments allow the product
 managers to get things right in a timely fashion: both fixing bugs and
-releasing new features. Roo Reynolds, GOV.UK mainstream product
+releasing new features. 
+
+Roo Reynolds, GOV.UK mainstream product
 manager, said that "Deploying once a week would be frighteningly
 slow." 
 
@@ -80,7 +82,9 @@ that deploy.
 
 Combined with small, frequent releases, if any problem does hit
 production, you will be able to immediately narrow down the cause to a
-small number of commits. Rolling back to a previous version is less
+small number of commits. 
+
+Rolling back to a previous version is less
 onerous as less of the system has changed. And "rolling forward" --
 with a code change to fix the production issue -- is achievable
 because the deployment process is automated and the lead time is
@@ -90,7 +94,9 @@ An additional benefit of having a repeatable deployment process is
 that scaling and recovering from failure become easy. Suppose you want
 to add more application servers to host a particular application,
 either to respond to higher demand, or to replace failed
-instances. Once you have provisioned the required machines, you can
+instances. 
+
+Once you have provisioned the required machines, you can
 just re-run your deployment process on the new machines to deploy the
 software. Without a repeatable deployment process, adding machines
 becomes manual and error-prone.
@@ -223,8 +229,9 @@ There are a number of options for deploying your code:
 
 You should think about how you'll discover hosts that you deploy
 to. In a simple scenario, your deployment script may have a hard-coded
-list of application servers that it deploys to. In this situation,
-there's a risk that the hard-coded list of servers drifts to differ
+list of application servers that it deploys to. 
+
+In this situation, there's a risk that the hard-coded list of servers drifts to differ
 from the number of servers which actually exist in reality. This
 risk grows more likely with larger and more dynamic
 infrastructures. 
@@ -300,8 +307,8 @@ place on their databases. Database migration scripts are short pieces
 of database code which transform the database in some way for the
 benefit of the application.
 
-To achieve zero downtime deployments, you should **decouple
-application deployments from database migrations**. If you're
+To achieve zero downtime deployments, you should decouple
+application deployments from database migrations. If you're
 performing zero downtime deployments, you'll necessarily end up with
 multiple different versions of the application running
 concurrently. Conversely, the application will need to be tolerant to
@@ -318,11 +325,11 @@ been applied and verified against all other environments.
 Services which depend on one another via an application programming interface (API) can experience similar
 deployment problems as applications which depend on a database. For
 example, a frontend application which communicates with a backend
-application over an API of some sort. Once again, the answer is to
-decouple deployments of the applications to make sure that the frontend
+application over an API of some sort. 
+
+Once again, the answer is to decouple deployments of the applications to make sure that the frontend
 application is tolerant to additions to the backend API, and that
-similarly the backend API can add functionality without disrupting the
-frontend application's operation.
+similarly the backend API can add functionality without disrupting the frontend application's operation.
 
 ### Making writes asynchronous ###
 
