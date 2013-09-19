@@ -92,7 +92,7 @@ If available a managed firewall and/or [load balancer](http://en.wikipedia.org/w
 
 We require the ability to manage internal networks, each consisting of specific groups of virtual machines. This should allow for some virtual machines to not be internet accessible.
 
-### Virtual private network
+### Virtual Private Network
 
 We may choose to expose parts of the service via a VPN. The infrastructure service should at a minimum not prevent this and may ideally provide a suitable managed service.
 
