@@ -372,7 +372,7 @@ server pattern.
 ## Emergency deployments ##
 
 From time to time, there may come a situation where you wish to deploy
-to production *right now*. This may be due to a published security
+to production right now. This may be due to a published security
 vulnerability in a library you are using, or because a bug has hit
 production which has broken the system for a number of users.
 
@@ -380,7 +380,7 @@ It may be the case that you subvert your usual deployment pipeline
 to fix things, then back-port the change you made in production
 (or "hotfix") to your development environment and push it through the
 normal deployment process once the crisis is over. Should this be the
-case, then **your cycle time is too long**. In the ensuing post-mortem
+case, then your cycle time is too long. In the ensuing post-mortem
 analysis of what went wrong, you should ask questions about why the
 deployment pipeline was not streamlined enough to accommodate a rapid
 deployment of a fix to production.
