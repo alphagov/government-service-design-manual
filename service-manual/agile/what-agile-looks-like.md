@@ -64,7 +64,7 @@ A good team includes members with all of the skills necessary to successfully pr
 * [delivery manager](/service-manual/the-team/delivery-manager.html) (aka Scrum master or project manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
 * [team members](https://www.gov.uk/service-manual/the-team/index.html) – self-organising and multi-disciplinary, they produce user stories, carry out the product manager’s vision and are responsible for estimating their output and speed
 
-Encourage your team members to pair up, as working together is beneficial. Two people working on one thing will:
+Encourage your team members to pair up, as working together is beneficial. 2 people working on 1 thing will:
 
 * produce better software solutions
 * encourage better quality controls
