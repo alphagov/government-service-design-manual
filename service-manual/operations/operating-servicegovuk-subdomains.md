@@ -19,11 +19,11 @@ breadcrumbs:
 
 Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on GOV.UK, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
 
-> Note: This document is written as a 'standard', and as such uses the words must, should, may and must not as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
+> Note: This document is written as a 'standard', and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
 
 ## One entry point
 
-Every digital service offered by the UK government must have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK – for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
+Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK – for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
 
 Service managers must not advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts, etc.
 
@@ -37,7 +37,7 @@ The transactional part of a service – the dynamically generated pages where us
 
 For all new digital government services going live from 1 April 2013 GDS will create a domain name of the form `servicename.service.gov.uk` (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
-The process of obtaining a `service.gov.uk` subdomain begins either when the service manager asks a Government Digital Service product manager for a start page on GOV.UK (for services already under development as of 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of `service.gov.uk` should describe the service (eg `lastingpowerofattorney.service.gov.uk`) and should not contain the name of the service owning department or agency (eg `ministryofmagicwandregistration.service.gov.uk`)
+The process of obtaining a `service.gov.uk` subdomain begins either when the service manager asks a Government Digital Service product manager for a start page on GOV.UK (for services already under development as of 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of `service.gov.uk` SHOULD describe the service (eg `lastingpowerofattorney.service.gov.uk`) and should not contain the name of the service owning department or agency (eg `ministryofmagicwandregistration.service.gov.uk`)
 
 The service-owning dept/agency will be given delegated authority to manage the domain and its subdomains, although in some cases this work will be carried out by third party suppliers.
 
@@ -47,13 +47,13 @@ This section gives some guidance about which subdomains a service manager should
 
 **Maximum number of visible subdomains**
 
-The user-facing live service should be operated using at most three user-visible subdomains of `servicename.service.gov.uk`:
+The user-facing live service SHOULD be operated using at most three user-visible subdomains of `servicename.service.gov.uk`:
 
 * `www.servicename.service.gov.uk` is for the public facing, dynamic web pages that make up your service.
-* `assets.servicename.service.gov.uk` is for assets such as static images and shared javascript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, should be on GOV.UK)
+* `assets.servicename.service.gov.uk` is for assets such as static images and shared javascript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
 * `admin.servicename.service.gov.uk` is for features that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed)
 
-You should not create separate domains for application programming interfaces (APIs) unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
+You SHOULD NOT create separate domains for application programming interfaces (APIs) unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)
 
 Service managers should notify the Government Digital Service technical architects (via your transformation team contact) if you intend to create user-visible subdomains other than the three listed above. We’re developing some patterns for more unusual system designs as well as for mainstream transactional services, and we’re always up for a discussion about exceptions and edge cases.
 
@@ -65,7 +65,7 @@ If the service is a private alpha or private beta release then it should be prot
 
 It is good practice to have multiple 'environments' for the development, testing and live (aka production) versions of any service. The [development and testing environments](/service-manual/making-software/sandbox-and-staging-servers.html) allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
 
-Therefore, you may create other subdomains of `servicename.service.gov.uk` for use in testing and development, such as `www-preview.` and `www-dev` or `www.preview.` and `www.dev.`. If there's a compelling reason to use a non `.gov.uk` domain for testing and/or development subdomains, that’s also acceptable.
+Therefore, you MAY create other subdomains of `servicename.service.gov.uk` for use in testing and development, such as `www-preview.` and `www-dev` or `www.preview.` and `www.dev.`. If there's a compelling reason to use a non `.gov.uk` domain for testing and/or development subdomains, that’s also acceptable.
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
@@ -87,7 +87,7 @@ representing a commitment to HTTPS-only traffic for 14 days. Once the service ma
 
 Cookies used on `www.servicename.service.gov.uk` and `admin.servicename.service.gov.uk` must be scoped to the originating domain only. Cookies must not be scoped to the domain `servicename.service.gov.uk`.
 
-Cookies should not be used on `assets.servicename.service.gov.uk` (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit for the service manager).
+Cookies SHOULD NOT be used on `assets.servicename.service.gov.uk` (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit for the service manager).
 
 Cookies must be sent with the `Secure` attribute and should, where appropriate, be sent with the `HttpOnly` attribute. These flags [provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
 
@@ -95,14 +95,14 @@ Cookies must be sent with the `Secure` attribute and should, where appropriate, 
 
 GOV.UK is the place for users to find all government services, so it’s important to ensure that users always start on the relevant GOV.UK page, rather than a different or duplicate start page on `www.servicename.service.gov.uk`.
 
-As a result, services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the relevant GOV.UK start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain must:
+As a result, services need to ask search engines not to index pages on their domains, so that the relevant GOV.UK page and the service domain don’t compete with each other in search engine results. This can be achieved by redirecting users to the relevant GOV.UK start page if they go directly to the service’s domain name, and by asking search engines not to index pages on the service’s domain name. Therefore, every service hosted on a service.gov.uk domain MUST:
 
-* Have a `robots.txt` file on the `www`, `admin` and `assets` subdomains asking search engines not to index any part of the site. Example content for `robots.txt` is given below, and more details can be found on [The Web Robots Pages](http://www.robotstxt.org/faq/prevent.html):
+* have a `robots.txt` file on the `www`, `admin` and `assets` subdomains asking search engines not to index any part of the site. Example content for `robots.txt` is given below, and more details can be found on [The Web Robots Pages](http://www.robotstxt.org/faq/prevent.html):
 
       User-agent: *
       Disallow: /
 
-* Have an HTTP 301 redirection from the top-level index page of the `www` and `assets` subdomains to the relevant start page on GOV.UK. (Note: this means that the service start page on GOV.UK should notlink to the root of the `www` domain.)
+* have an HTTP 301 redirection from the top-level index page of the `www` and `assets` subdomains to the relevant start page on GOV.UK. (Note: this means that the service start page on GOV.UK SHOULD NOT link to the root of the `www` domain.)
 
 ## Origin servers for CDN-based provider of DDOS protection
 
