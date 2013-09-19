@@ -68,11 +68,11 @@ The following sections of this manual give further information on testing:
 * [load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
-## Team roles and QA specialists
+## Team roles and quality assurance specialists
 
-The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the Service Manager.
+The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the service manager.
 
-Make sure your Service Manager works with the rest of your team. Otherwise you risk your team not understanding what measures they need to put in place to guarantee quality.
+Make sure your service manager works with the rest of your team. Otherwise you risk your team not understanding what measures they need to put in place to guarantee quality.
 
 Your team will need to consider quality when writing user stories, and allow time and resources to be used for:
 
@@ -83,6 +83,6 @@ Your team will need to consider quality when writing user stories, and allow tim
 Using specialist skills and facilities is a good way to make sure testing is thorough, and is typically used for:
 
 * [penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html) - having people outside of the team carry out this task helps challenge assumptions and identify weaknesses, giving a valuable outside perspective
-* hiring Quality Assurance Specialists – they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
+* hiring quality assurance specialists – they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
     * having a clear remit and working with your team to build quality into everything they do, instead of just adding a gate review to the development process
     * being a short-term role, leaving your team capable of managing quality as part of their standard development and iteration of your service
