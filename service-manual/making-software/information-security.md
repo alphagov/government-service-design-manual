@@ -153,7 +153,7 @@ A close working relationship will be essential to make sure that business impact
 
 The Good Practice Guides (GPG) are documents published by CESG on specific topics of interest to various types of projects. These can act as a good starting point when looking to identify risks and put in place mitigations.
 
-Unfortunately many of these documents are restricted. It's advisable to establish a working relationship with CESG early on in the project to make sure you can access these documents. Examples include:
+Unfortunately many of these documents are Restricted. It's advisable to establish a working relationship with CESG early on in the project to make sure you can access these documents. Examples include:
 
 * GPG13 – Protective monitoring
 * GPG8 – Protecting External Connections to the Internet
@@ -192,7 +192,7 @@ It is important to start understanding risks and engaging with the assurance and
 
 It's important to understand the assurance and accreditation processes and tools are all about managing the risk associated with the running service. Security is part of this, but just one part.
 
-Nearly everything brings with it risks: technology choice, staffing, processes, access to restricted documents, data aggregation, etc. It's important to understand those risks and put in place sensible and suitable mitigations. It's unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future failure.
+Nearly everything brings with it risks: technology choice, staffing, processes, access to Restricted documents, data aggregation, etc. It's important to understand those risks and put in place sensible and suitable mitigations. It's unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future failure.
 
 The aim is a system where the risks are known and the team, working with risk professionals, have made careful decisions about how to deal with them.
 
