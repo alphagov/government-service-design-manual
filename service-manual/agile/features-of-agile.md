@@ -84,7 +84,7 @@ A good description of sprint planning is on the [Agile Learning Labs website](ht
 
 This meeting can be hard to get right with large. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere! 
 
-### Sprint Review
+### Sprint review
 
 This is a chance for team members to demonstrate the work they’ve produced during the sprint. You can include stakeholders in this meeting and also use it to inform stakeholders which user stories haven’t been completed and why.
 
@@ -94,5 +94,5 @@ These meetings are important opportunities to iterate the team’s working proce
 ### User stories
 User stories are essential to the development of your service and the user experience, so it’s important that you know how to write them well. [Learn how to write a user story](/service-manual/agile/writing-user-stories.html).
 
-### Testing in Agile
-Testing in Agile is about constantly improving the quality of your service. [Learn about Agile testing methods](/service-manual/making-software/testing-in-agile.html).
+### Testing in agile
+Testing in agile is about constantly improving the quality of your service. [Learn about Agile testing methods](/service-manual/making-software/testing-in-agile.html).
