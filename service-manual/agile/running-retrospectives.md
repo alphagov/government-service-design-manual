@@ -23,13 +23,13 @@ breadcrumbs:
 
 A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
-## What’s a retrospective?
+## Retrospectives
 
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
 A retrospective is a meeting at the end of a [sprint](/service-manual/agile/features-of-agile.html) where your team get a chance to talk about what went well and badly in that sprint, and take some actions to improve matters. It can also cover a larger scope, eg a full project retrospective.
 
-A retrospective takes the following form:
+A retrospective takes this form:
 
 1.    gather data
 2.    generate insights
@@ -144,7 +144,7 @@ Again, group the post-its, prioritise if necessary, and discuss the main areas:
 
 Spend some time looking at the actions identified; assign them to people present and set realistic deadlines for completion.
 
-**Total: 80 minutes with 10% shuffle time.**
+Total: 80 minutes with 10% shuffle time.
 
 It’s OK to finish early if people have said what they need to. It’s not OK to overrun – if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
 
@@ -159,7 +159,7 @@ Agile development practices will help you work better, and the retrospective all
 
 ##Further reading
 
-You may find the following resources useful:
+You may find these resources useful:
 
 * [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
 * [Agile Retrospectives: Making Good Teams Great](http://pragprog.com/book/dlret/agile-retrospectives).
