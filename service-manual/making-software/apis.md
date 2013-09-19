@@ -99,7 +99,7 @@ Building a website which exposes the data through links, and services through HT
 Provide documentation for your API using examples. Collect how people are using your API, especially link to any open source projects for projects, wrappers and programming language libraries. Provide simple ways to experiment, as with [The Guardian API explorer](http://explorer.content.guardianapis.com/).
 
 ### Explicitly set expectations
-Be clear in Wwb pages and other documentation as to the security, availability, rate-limiting, expected responsiveness of the platform and the provenance of data, so consumers can plan their commitment to using your API.
+Be clear in the web pages and other documentation as to the security, availability, rate-limiting, expected responsiveness of the platform and the provenance of data, so consumers can plan their commitment to using your API.
 
 ### Be public by default
 Lower the barriers to others using your data: don't demand registration or API keys for public data.
@@ -144,13 +144,13 @@ By depending on a third party API you could very easily be tying your service's 
 
 The details of that fallback will vary according to your service. It may be that you'll need to offer the user the opportunity to use an alternative service, or queue the action to take place later. That could be an automated queue with software that monitors it and retries transactions, or it could be a manual queue where someone follows up to collect further details.
 
-You should be clear with your users about what's happening. If a third party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
+You should be clear with your users about what's happening. If a third-party payment provider isn't available you might queue the transaction to try again later. That will mean you can't offer users the same guarantee that their payment will be processed correctly and you should tell them so.
 
 ##Further reading
 
-* The [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
-* The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
-* The WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.
+* the [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
+* the Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
+* the WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.
 
 *[APIs]: Application Programme Interfaces
 *[API]: Application Programme Interface
