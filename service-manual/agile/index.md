@@ -29,7 +29,7 @@ This way of working can be very different for those used to long specifications 
 </figure>
 
 
-## What is an agile project?
+## Agile projects
 
 An agile project is about creating fast iterations of products based on the feedback of real users. 
 
