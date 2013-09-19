@@ -65,12 +65,10 @@ confidence that it will work smoothly and seamlessly.
 
 ## Optimise for cycle time ##
 
-The shorter time from acation programmin interfaceSL  developer making a code change to that
-change hitting production, the faster a
-product can respond to change. Whether it's a security fix, or
-responding to user research on new features, the quicker you can
-release the next iteration, the faster you will converge on an ideal
-solution.
+How long does it take from a developer making a code change to that change
+hitting production? The shorter this time is, the faster a product can
+respond to change. The quicker you can release the next iteration, the
+faster you will converge on an ideal solution.
 
 ## Repeatable, auditable deployments ##
 
@@ -254,7 +252,7 @@ provide some means of achieving this. For example, Puppet 3 provides
 ### Secrets ###
 
 Extra care must be taken when managing secrets such as database
-passwords or Skeys. You want to ensure:
+passwords or SSL keys. You want to ensure:
 
  * at a coarse-grained level, secrets cannot be accessed outside of
    the environment which uses them
@@ -263,8 +261,7 @@ passwords or Skeys. You want to ensure:
 
 For example, in a three-tier app with database, application and web
 servers, the database server does not need to know the  SSL (secure sockets layer) private
-keys for the site, nor does the web server need to know the database
-credentials.
+keys for the site, nor does the web server need to know the database credentials.
 
 If you are using hiera, then [hiera-gpg][] provides a solution to this
 problem. It allows the injection of values from [GPG][]-encrypted
