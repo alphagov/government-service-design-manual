@@ -108,9 +108,9 @@ In addition to the evidence requested above, all digital spend for the developme
 
 ## Further Reading
 
-* [Government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
+* [government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
 * Tom Loosemoore's [blog post about standalone apps](http://digital.cabinetoffice.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
 
-*[APIs]: pplication programming interfaces
-*[API]: pplication programming interface
+*[APIs]: application programming interfaces
+*[API]: application programming interface
 
