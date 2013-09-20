@@ -29,7 +29,7 @@ Delivering the business change required to create excellent digital public servi
 
 Government is not looking for average candidates. We need people with a track record of delivery and an appetite for driving important change in a highly visible job. As such, GDS recommends that departments offer candidates between 75th and 90th percentile of the typical London-weighted salary band for a similar role in the private sector. GDS has conducted independent benchmarking research that samples hundreds of similar roles in order to produce these range figures, and will review the market rate on an ongoing basis to ensure that the offer government makes to technology is highly competitive. For further advice on salary offers, please contact the [Recruitment Hub](mailto:digitaltalent@digital.cabinet-office.gov.uk). Template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html) for many of these roles are available to download from the manual.
 
-## SCS roles
+## Senior Civil Service (SCS) roles
 
 | Title | Typical grade | Recommended salary range |
 |------------------------|
@@ -66,3 +66,5 @@ The scope, responsibilities and interactions with other senior leaders that the 
 | &nbsp; | Web operations | £50,000 - £60,000 |
 
 All the recommended ranges are within the boundaries set for the Civil Service paybands. These figures are intended as a guide, and departments should recognise that they may need to offer more than the top of these bands for highly experienced candidates.
+
+*[SCS]: Senior Civil Service
