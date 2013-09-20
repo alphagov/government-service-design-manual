@@ -19,7 +19,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-People come to GOV.UK with specific needs. Anything that gets between our users and meeting those needs should be stripped away. The design of GOV.UK reflects this, existing primarily as a way of delivering the right content and services to our users. Find out here how we approach this challenge.
+People come to GOV.UK with specific needs. Anything that gets between our users and meeting those needs should be stripped away. The design of GOV.UK reflects this, existing primarily as a way of providing the right content and services to our users. Find out here how we approach this challenge.
 
 <ul class="link-list">
   <li><a href="/service-manual/user-centered-design/user-centered-design-alpha-beta">User-centred design in alpha and beta</a> Combining design and research to create user focussed services</li>
