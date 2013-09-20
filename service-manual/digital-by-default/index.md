@@ -166,7 +166,7 @@ service, led a suitably skilled and senior service manager with full authority a
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/design-and-content">Design and content</a></li>
+        <li><a href="/service-manual/user-centered-design">Design and content</a></li>
       </ul>
     </div>
   </li>
