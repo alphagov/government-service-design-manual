@@ -23,7 +23,7 @@ User needs are at the heart of all digital by default services, and to meet them
 
 ## User needs
 
-The most important step for a team is to identify the needs of its users. These form the basis for development of a service, and is the first principle for building a digital by default service.
+The most important step for a team is to identify the needs of its users. These form the basis for the development of a service, and is the first principle for building a digital by default service.
 
 [User needs](/service-manual/user-centered-design/user-needs.html)
 
@@ -36,7 +36,7 @@ You will be using research to test your assumptions throughout the design, build
 
 ## User research techniques
 
-The following techniques may be useful when conducting user research
+These techniques may be useful when conducting user research
 
 {: .link-list}
 * [Card sorting](/service-manual/user-centered-design/card-sorting.html)
@@ -60,6 +60,6 @@ The following techniques may be useful when conducting user research
 
 ## User research briefs
 
-As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, delivering results in a useful format.
+As you and conduct or procure specific rounds of user research you will want to ensure these are conducted in a consistent way, producing results in a useful format.
 
 [Learn how to write user research briefs](/service-manual/user-centered-design/user-research/user-research-briefs.html)
