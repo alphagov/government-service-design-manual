@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/design-and-content
 ---
 
-Carry out user research in every stage of your project. Do it continuously through each stage — don’t leave it as something that happens at the beginning and end of phases.
+Carry out user research during every stage of your project. Do it continuously through each stage — don’t leave it as something that happens at the beginning and end of phases.
 
 Doing user research continuously will:
 
@@ -83,12 +83,12 @@ Whatever your project, be sure to do fortnightly user research.
 
 In these sessions you’re able to:
 
-* have people interact with the design you have been working on (usability testing), and
+* have people interact with the design you have been working on (usability testing)
 * explore any specific issues you‘d like to gather more information on through a depth interview (one-on-one interviews that produce deep insights on user needs and behaviours)
 
 Carry out research sessions with users every 2 weeks on the same day. Doing user testing at predictable and regular intervals means that your team members will be able to schedule time to watch sessions.
 
-A good approach is to schedule five one-on-one interviews for that day, each interview being 1 hour in duration. (Schedule a sixth participant as a ‘spare’ in case some participants don’t attend earlier in the day or you have a poorly recruited participant).
+A good approach is to schedule 5 one-on-one interviews for that day, each interview being 1 hour in duration. (Schedule a 6th participant as a ‘spare’ in case some participants don’t attend earlier in the day or you have a poorly recruited participant).
 
 Conduct these sessions in either:
 
@@ -141,11 +141,9 @@ A day of research should be followed by a period of analysis before making any s
 
 ### Guerilla research
 
-You can use the time between more formal testing to conduct some ‘guerilla’-style testing, getting some initial feedback on your revised designs.
+You can use the time between more formal testing to conduct some guerilla-style testing, getting some initial feedback on your revised designs.
 
-Guerilla testing normally involves taking your prototype into a coffee shop or other public location and finding volunteers who will give you some quick feedback. Guerilla testing participants are not necessarily representative of your target audience, but they can provide a quick sense-check in between formal testing sessions.
-
-In return for their feedback, you may like to offer the participant a coffee!
+Guerilla testing normally involves taking your prototype into a coffee shop or other public location and finding volunteers who'll give you some quick feedback. Guerilla testing participants aren't necessarily representative of your target audience, but they can provide a quick sense-check in between formal testing sessions.
 
 ### Other research methods
 
@@ -207,22 +205,22 @@ Put user testing findings and actions in a place that’s easily accessible to t
 * remember what you discovered
 * see how a particular theme or feature has developed over the course of the design iterations
 
-You can document your findings for others to see in many different ways, like using:
+You can document your findings for others to see in many different ways, like using a:
 
-* a shared document
-* a blog
-* a story wall (eg [Trello](https://trello.com/))
-* a research catalogue
+* shared document
+* blog
+* story wall (eg [Trello](https://trello.com/))
+* research catalogue
 
 It’s also be useful to keep a record of what you tested with users, eg if you’ve prototyped in code, keep a folder in your repository for each round. You may also like to keep screenshots of the prototype.
 
-GDS intend to create a format for sharing research findings between projects across government. Whilst GDS work on the best way to do this, keep your research findings in an accessible shared format so findings can be shared and learned from in the future. The findings should, wherever possible, be easily understood with no need for an explanation.
+GDS intend to create a format for sharing research findings between projects across government. While GDS work on the best way to do this, keep your research findings in an accessible shared format so findings can be shared and learned from in the future. The findings should, wherever possible, be easily understood with no need for an explanation.
 
-Move any actions onto your story wall, so that the whole team can see what you’re working on and who is working on it.
+Move any actions onto your story wall so that the whole team can see what you’re working on and who's working on it.
 
 #### Video
 
-Use videos to demonstrate findings and store the session videos in a safe place, ideally where they can be found and watched by team members. If you store the videos on a public service (such as Vimeo), make sure they are adequately protected.
+Use videos to demonstrate findings and store the session videos in a safe place, ideally where they can be found and watched by team members. If you store the videos on a public service (like Vimeo), make sure they are adequately protected.
 
 ### Communicating
 
@@ -234,7 +232,7 @@ You need to discuss the project and its progress with others. You can do this by
 
 #### Showcase
 
-Just as a delivery team often presents a showcase at the end of each iteration, so should the research and design team. This will make sure the wider project team has an understanding of:
+Just as a product team often presents a showcase at the end of each iteration, so should the research and design team. This will make sure the wider project team has an understanding of:
 
 * the research and design work being done
 * what has been learnt from research
@@ -242,7 +240,7 @@ Just as a delivery team often presents a showcase at the end of each iteration, 
 
 This is an opportunity for members of the project team to catch up if they haven’t been able to attend user testing sessions, as well as an opportunity to ask questions.
 
-Depending on how your team works, you might put your presentation into the delivery team’s showcase or you may have a showcase just for research and design.
+Depending on how your team works, you might put your presentation into the project team’s showcase or you may have a showcase just for research and design.
 
 #### Consider your more distant stakeholders
 
