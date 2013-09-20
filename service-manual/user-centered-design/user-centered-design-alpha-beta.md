@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 Carry out user research in every stage of your project. Do it continuously through each stage — don’t leave it as something that happens at the beginning and end of phases.

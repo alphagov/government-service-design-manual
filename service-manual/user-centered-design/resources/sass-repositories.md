@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Design and content
-    url: /service-manual/design-and-content
+    title: User centered design
+    url: /service-manual/user-centered-design
 ---
 
 Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem) for easy inclusion into new projects. For projects not written in Ruby note that the gem is just a wrapper for the [GOV.UK Frontend toolkit](https://github.com/alphagov/govuk_frontend_toolkit), a repositry containing all the files.
@@ -33,7 +33,7 @@ The files in the [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem) c
 
 The first is the key bit which makes [GOV.UK](https://www.gov.uk) projects look the same. There are a collection of pre-defined font-sizes that we use on [GOV.UK](https://www.gov.uk). There is a mixin for each one, for example `heading-26`. These also include a standard amount of whitespace around the text to help with vertical rhythm on the page, spacing things out nicely.
 
-The second is a way to develop sites that can respond to being on different sized displays. 
+The second is a way to develop sites that can respond to being on different sized displays.
 
 The third is a very easy way of writing IE specific CSS in the middle of our stylesheets without using hacks.
 
