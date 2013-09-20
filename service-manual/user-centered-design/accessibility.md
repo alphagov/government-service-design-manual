@@ -37,25 +37,41 @@ Your service should be tested by disabled people, older people, and people who u
 
 ## Accessibility statements and policies
 
-We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website does not include a separate accessibility statement, however, as we are not comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development. This [blogpost by GDS accessibility expert Léonie Watson](http://digital.cabinetoffice.gov.uk/2013/02/11/beyond-box-ticking/) explains in more detail why we took this decision.
+We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website doesn't include a separate accessibility statement, however, as we aren't comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development. This [blogpost by GDS accessibility expert Léonie Watson](http://digital.cabinetoffice.gov.uk/2013/02/11/beyond-box-ticking/) explains in more detail why we took this decision.
 
 
 ## Assistive technologies
 
-Your service should be usable by recent versions of [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/), [VoiceOver](http://www.apple.com/accessibility/voiceover/), [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) screen readers, [ZoomText](http://www.aisquared.com/zoomtext/), [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) and basic operating system screen magnifiers, as well as speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
+Your service should be usable by recent versions of these screen readers:
+
+* [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/) 
+* [VoiceOver](http://www.apple.com/accessibility/voiceover/)
+* [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) 
+
+Your service should also be usable by basic operating system screen magnifiers like:
+
+* [ZoomText](http://www.aisquared.com/zoomtext/)
+* [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) 
+
+Your service should be usable by speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
 
 
 ## Accessible formats
 
-HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible the following [PDF guidance](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html) should be followed. There is more information on [choosing appropriate formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible this [PDF guidance](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html) should be followed. There's more information on [choosing appropriate formats](/service-manual/user-centered-design/choosing-appropriate-formats.html).
 
 
 ## Accessible content
 
 Accessibility is more than checking the boxes of standards compliance. When writing content, consider what information would be useful to people with access needs.
 
-For instance, in a ‘find my nearest’ service, consider user needs like: Is there disabled parking? How far is it from the entrance? What’s the terrain like? Uphill? Downhill? Will I have to cross any roads? etc.
+For instance, in a ‘find my nearest’ service, consider user needs like: 
+
+* is there disabled parking? 
+* how far is it from the entrance? 
+* what’s the terrain like? Uphill? Downhill? 
+* will I have to cross any roads? 
 
 
 ##Further reading
-If you want to read more about the accessibility testing we've carried out while building GOV.UK, [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/) will tell you more.
+You can read more about the accessibility testing we've carried out while building GOV.UK on [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/).
