@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem) for easy inclusion into new projects. For projects not written in Ruby note that the gem is just a wrapper for the [GOV.UK Frontend toolkit](https://github.com/alphagov/govuk_frontend_toolkit), a repositry containing all the files.
+Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem) for easy inclusion into new projects. For projects not written in Ruby note that the gem is just a wrapper for the [GOV.UK Frontend toolkit](https://github.com/alphagov/govuk_frontend_toolkit), a repository containing all the files.
 
 ## Categories of Sass mixins
 
