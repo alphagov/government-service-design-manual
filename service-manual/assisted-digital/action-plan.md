@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/assisted-digital
 ---
 
-The assisted digital action plan will help you to:
+The information in this document will help you to:
  
 * understand the needs of your assisted digital users
 * develop assisted digital support that meets their needs
