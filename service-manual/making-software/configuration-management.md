@@ -60,6 +60,7 @@ Even if this could be done to provide everything correctly configured on day 0, 
 
 ## Further reading
 
+* [Service Configuration Management](https://www.interlinksoftware.com/configuration-management/)
 * [Infrastructure as Code](https://speakerdeck.com/garethr/infrastructure-as-code)
 * [CFEngine](http://cfengine.com/)
 * [Chef](http://www.opscode.com/chef/)
