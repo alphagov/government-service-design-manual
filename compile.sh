@@ -2,6 +2,11 @@
 
 set -e
 
+if [ $(find . -name '*.orig' -type f | grep -c .) -ne 0 ]; then
+  echo "You seem to have some git merge artifacts on the filesystem. Aborting..."
+  exit 1
+fi
+
 echo "Updating submodules to ensure toolkit up to date..."
 git submodule update --init
 echo "Updated."
