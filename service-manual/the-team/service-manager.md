@@ -55,6 +55,7 @@ Cabinet Office will help departments to recruit suitably skilled individuals thr
 ## Induction and development
 
 GDS is creating a highly practical [induction and development programme](/service-manual/the-team/induction-and-development.html) to help you as a new service manager.
+
 ## Guidance
 
 Read [guidance within the manual of particular interest to service managers](/service-manual/service-managers).
