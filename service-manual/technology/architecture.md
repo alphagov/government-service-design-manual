@@ -16,7 +16,7 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Architecture is not just about the design and deployment of technology - to be successful you need to understand how several elements work together.
+Architecture is not just about the design and deployment of technology -- to be successful you need to understand how several elements work together.
 
 These elements include:
 
@@ -63,9 +63,9 @@ Products and services are the things that users engage with to find information 
 
 Platforms provide a set of open interfaces, protocols, data formats and tools that enable software developers to rapidly provide products and services.
 
-Examples of platforms are the GOV.UK publishing platform, the performance platform, and the [identity assurance](/service-manual/identity-assurance) platform - they are not things like ‘Windows Server’ or ‘Linux Server’.
+Examples of platforms are the GOV.UK publishing platform, the performance platform, and the [identity assurance](/service-manual/identity-assurance) platform -- they are not things like ‘Windows Server’ or ‘Linux Server’.
 
-Platforms should be kept as simple as possible, but designed to have no barriers to scaling up and scaling out. New features should be added only when required by new product needs - platforms emerge from the demands of products rather than being driven by top-down architectural process.
+Platforms should be kept as simple as possible, but designed to have no barriers to scaling up and scaling out. New features should be added only when required by new product needs -- platforms emerge from the demands of products rather than being driven by top-down architectural process.
 
 [Learn more about government platforms](/service-manual/technology/government-as-a-platform.html).
 
@@ -83,4 +83,4 @@ To reduce dependency on legacy plaforms:
 	* badly engineered systems should be contained
 	* the working legacy should be modernised to reduce costs and risks and wrapped where appropriate to provide open interfaces and interoperability with platforms
 	* legacy applications should be replaced / rearchitected periodically to prevent situations where the application can no longer be supported because it's grown too complex for anyone to understand or too expensive relative to the benefits delivered
-	* open standards must be used for interoperability between systems and departments, with adaptors used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards) - you should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies
+	* open standards must be used for interoperability between systems and departments, with adaptors used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards) -- you should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies
