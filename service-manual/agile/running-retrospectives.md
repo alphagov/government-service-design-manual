@@ -167,7 +167,7 @@ You may find the following resources useful:
 * [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
 * [Retr-O-Mat](http://plans-for-retrospectives.com/) - Website to generate plans and ideas for running retrospectives
 * [Agile Retrospectives: Making Good Teams Great](http://pragprog.com/book/dlret/agile-retrospectives).
-* [The Retropsective Handbook](https://leanpub.com/the-retrospective-handbook/).
-* [Project Retrospectives](http://www.dorsethouse.com/books/pr.html).
+* [The Retrospective Handbook: A guide for agile teams](https://leanpub.com/the-retrospective-handbook/).
+* [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html).
 
 Retrospective plan photo by <a href="https://twitter.com/annashipman" target="_blank">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete" target="_blank">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.
