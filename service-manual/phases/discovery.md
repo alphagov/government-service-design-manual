@@ -47,7 +47,7 @@ This information is found through:
 
 # Timescales
 
-The phase should not take longer than 4-8 weeks. During the final week you should be setting up the broad scope of a project and an initial set of [user stories](/service-manual/agile/writing-user-stories.html) (also known as a backlog) to deliver against. This is known as an 'inception'. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
+The phase should not take longer than 4 to 8 weeks. During the final week you should be setting up the broad scope of a project and an initial set of [user stories](/service-manual/agile/writing-user-stories.html) (also known as a backlog) to deliver against. This is known as an 'inception'. At the end of the phase a decision should be made whether to proceed to the [alpha phase](/service-manual/phases/alpha.html).
 
 
 ## Outputs
