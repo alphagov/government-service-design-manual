@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Uptime and availability
-subtitle: Keeping the Government online
+subtitle: Keeping the government online
 category: operations
 type: guide
 status: draft
@@ -81,7 +81,7 @@ architecture where you rely on other software applications and
 interfaces.
 
 Understand your dependencies and understand their dependencies and all
-the intended uptime expectations. 
+the intended uptime expectations.
 
 ## Scheduled maintenance
 

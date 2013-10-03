@@ -5,7 +5,7 @@ subtitle: Identifying insecurities in your service
 category: operations
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: developers, tech-archs
 status: draft
 breadcrumbs:
@@ -25,13 +25,13 @@ It's often a good idea to view security testing as an ongoing activity for any p
 
 ## Involve the right people
 
-Security is important to both a product and technical audience. It's essential that vulnerability testing reports and the risks they identify are understood by non-technical audiences as well a developer audience. 
+Security is important to both a product and technical audience. It's essential that vulnerability testing reports and the risks they identify are understood by non-technical audiences as well a developer audience.
 
 Security is rarely binary, in that it's not generally a matter of being secure or not, rather reducing the risks of a wide range of potential issues.
 
 ### Liaise with CESG
 
-[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the National Technical Authority for Information Assurance. Based at Cheltenham they provide both standards and advice for information security. 
+[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the National Technical Authority for Information Assurance. Based at Cheltenham they provide both standards and advice for information security.
 
 For any sizable project it is wise to engage with them as early as possible. They can provide guidance and expertise on potential problems and help you make sure the right things are tested.
 
@@ -41,9 +41,9 @@ Testing for security issues should be done throughout the development of a servi
 
 ## Not just software
 
-Remember that when testing for vulnerability to look at the whole system, not just the software involved. 
+Remember that when testing for vulnerability to look at the whole system, not just the software involved.
 
-An obvious example would be physical security (where is the equipment housed and how secure is it?) but a more interesting example is often the interplay between an online system and a call centre. 
+An obvious example would be physical security (where is the equipment housed and how secure is it?) but a more interesting example is often the interplay between an online system and a call centre.
 
 It may be that by using information available from a call centre you can exploit the software system in some way. For instance, [getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility which relies on the email address being trusted](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard-here).
 
@@ -55,11 +55,11 @@ This may take the form of tests written or tools used specifically to test the s
 
 ## Why we do this
 
-The web is a hostile environment, and the nature of Government services means they can be targets for a wide range of different threats; from financially motivated criminals and online activists up to nation states. Even where personal or sensitive information is not at risk the reputation of government can be damaged by even the smallest issues.
+The web is a hostile environment, and the nature of government services means they can be targets for a wide range of different threats; from financially motivated criminals and online activists up to nation states. Even where personal or sensitive information is not at risk the reputation of government can be damaged by even the smallest issues.
 
 Web application exploits tend to follow a relatively small number of common patterns, which means automated and manual testing, as well as awareness of these common problems can have a drastic effect on the security of the system.
 
-[The Government Accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required. 
+[The Government Accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required.
 
 ## Further reading
 

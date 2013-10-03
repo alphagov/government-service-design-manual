@@ -30,7 +30,7 @@ This guide sets out four principles of good data presentation, with easy to foll
 There are many examples of best practice style guides already in place. For example, [The Economist](http://www.economist.com/) has a clearly defined house style that allows its readers to readily identify and understand their visualisations. They publish a new visualisation every day in their [Graphic Detail](http://www.economist.com/blogs/graphicdetail). This guide attempts to build on the best practice from a range of organisations.
 
 ### GDS Example
-The [performance platform](https://www.gov.uk/performance) helps the Government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/)). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
+The [performance platform](https://www.gov.uk/performance) helps the government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/)). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
 ![Weekly uniques](/service-manual/assets/images/data-visualisation/weekly-uniques.png)
 
 ## Telling the story
