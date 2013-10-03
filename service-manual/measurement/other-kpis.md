@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Key perfomance indicators
+title: Key performance indicators
 subtitle: Other metrics your service might measure or track
 status: draft
 category: measurement
