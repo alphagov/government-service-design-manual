@@ -131,6 +131,6 @@ If users are having difficulty completing tasks, carry out more user testing aft
 
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the [performance platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
+The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
 
 Further usability testing should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made.

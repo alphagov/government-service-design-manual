@@ -216,7 +216,7 @@ service, led a suitably skilled and senior service manager with full authority a
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/making-software/analytics-tools.html">Analytics Tools</a></li>
-        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance Platform</a></li>
       </ul>
     </div>
   </li>
@@ -241,32 +241,32 @@ service, led a suitably skilled and senior service manager with full authority a
     </div>
   </li>
   <li id="criterion-21">
-    <div class="point">Achieve ongoing high levels of user satisfaction across the digital and assisted digital service, with performance data reported on the performance platform.</div>
+    <div class="point">Achieve ongoing high levels of user satisfaction across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/user-satisfaction.html">User satisfaction</a></li>
-        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance Platform</a></li>
       </ul>
     </div>
   </li>
   <li id="criterion-22">
-    <div class="point">Achieve ongoing high completion rates across the digital and assisted digital service, with performance data reported on the performance platform.</div>
+    <div class="point">Achieve ongoing high completion rates across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
-        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance Platform</a></li>
       </ul>
     </div>
   </li>
   <li id="criterion-23">
-    <div class="point">Create a plan (with supporting evidence) for achieving a low cost per transaction across the digital and assisted digital service, with performance data reported on the performance platform.</div>
+    <div class="point">Create a plan (with supporting evidence) for achieving a low cost per transaction across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/cost-per-transaction.html">Cost per transaction</a></li>
-        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance Platform</a></li>
       </ul>
     </div>
   </li>
@@ -276,7 +276,7 @@ service, led a suitably skilled and senior service manager with full authority a
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/measurement/digital-takeup.html">Digital take-up</a></li>
-        <li><a href="/service-manual/measurement/performance-platform.html">Performance platform</a></li>
+        <li><a href="/service-manual/measurement/performance-platform.html">Performance Platform</a></li>
       </ul>
     </div>
   </li>
