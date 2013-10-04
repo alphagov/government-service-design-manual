@@ -75,4 +75,4 @@ Whilst identifying possible KPIs your service might measure, you might want to r
 
 * the NAO report [Digital Britain One: Shared infrastructure and services for government online](http://www.nao.org.uk/publications/1012/digital_britain_one.aspx), which identified that there was a lack of information on the costs and associated benefits of digital services
 * [Occam’s Razor](http://www.kaushik.net/avinash/), a blog by Avinash Kaushik with useful advice about metrics, KPIs and analytics (for example [this article on how to set good performance indicators](http://www.kaushik.net/avinash/rules-choosing-web-analytics-key-performance-indicators/)
-* the [performance platform](https://www.gov.uk/performance) by GDS, which will allow aggregation of data from a range of sources including web analytics, survey and finance data
+* the [Performance Platform](https://www.gov.uk/performance) by GDS, which will allow aggregation of data from a range of sources including web analytics, survey and finance data

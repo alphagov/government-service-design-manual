@@ -56,7 +56,7 @@ At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [curren
   <a href="https://www.youtube.com/watch?v=pa07ltj4K4w">Watch Francis Maude at SPRINT13</a>
 </figure>
 
-SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK Government, in which he paints a picture of [what service redesign could mean for users](http://www.youtube.com/watch?v=X1A8cg__LpM).
+SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK government, in which he paints a picture of [what service redesign could mean for users](http://www.youtube.com/watch?v=X1A8cg__LpM).
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=X1A8cg__LpM">Watch Stephen Kelly at SPRINT13</a>

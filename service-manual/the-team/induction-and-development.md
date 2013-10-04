@@ -107,7 +107,7 @@ Your group will discuss how you set and measure key performance indicators (KPIs
 
 *  share your service KPIs as they currently stand
 *  consider what additional KPIs may be required for your services to measure satisfaction, success rates, cost per transaction and take-up
-*  find out about the [performance platform](/service-manual/measurement/performance-platform.html) and how you can use it
+*  find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
 *  design your own performance dashboard to show KPIs for your services in a simple, visual way
 
 *[KPIs]: key performance indicators

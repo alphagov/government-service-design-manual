@@ -25,7 +25,7 @@ The [style guide](https://www.gov.uk/designprinciples/styleguide) is set in best
 
 ## Reading
 
-Users only really read 20-28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience so you may find users skim words even more.
+Users only really read 20 to 28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience so you may find users skim words even more.
 
 [The style guide](https://www.gov.uk/designprinciples/styleguide) and [how we write](/service-manual/user-centered-design/writing-government-services.html) give guidance on how to write. This page details why we do it.
 

@@ -1,6 +1,6 @@
 # Government Service Design Manual
 
-This is the repository for the UK Government's guidance and standards for developing digital services and contains both the assets and the content for the site.
+This is the repository for the UK government's guidance and standards for developing digital services and contains both the assets and the content for the site.
 
 The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassified](http://sass-lang.com).
 

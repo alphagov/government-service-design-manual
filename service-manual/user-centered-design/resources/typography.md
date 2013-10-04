@@ -24,7 +24,7 @@ Services should use clear, easy to read type, with consistent styles and a clear
 
 ## The GOV.UK typeface
 
-GOV.UK uses the typeface New Transport, cut especially for Government use. This typeface is embedded in the GOV.UK CSS and is served to browsers via a WOFF file (or an EOT file for Internet Explorer 8). The font is hinted to display well on all browsers. Older browsers do not receive the typeface.
+GOV.UK uses the typeface New Transport, cut especially for government use. This typeface is embedded in the GOV.UK CSS and is served to browsers via a WOFF file (or an EOT file for Internet Explorer 8). The font is hinted to display well on all browsers. Older browsers do not receive the typeface.
 
 We currently use two weights of New Transport: Light and Bold. Italics should not be used. The number of different type sizes on a page should be kept to the minimum, and only one typeface/font should be used on each website.
 

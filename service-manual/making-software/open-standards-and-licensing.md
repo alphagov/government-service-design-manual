@@ -91,7 +91,12 @@ Expressing your user needs in terms of required capabilities, which are in turn 
 
 Whether designing and building in-house or outsourcing, you must require solutions that comply with open standards, for software interoperability, data and document formats, where they exist and meet functional needs.
 
-If there is a reason why you think using open standards is inappropriate, on an exceptional case-by-case basis an exemption may be agreed in advance by the Government’s Chief Technology Officer (or through Departmental Accounting Officer procedures for cases below the Cabinet Office’s [spend controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) threshold for IT).
+If there is a reason why you think using open standards is inappropriate, then
+an exemption may be agreed in advance on an exceptional case-by-case basis.
+Any exemption would be agreed with the government’s Chief Technology Officer
+(or through Departmental Accounting Officer procedures for cases below the Cabinet Office’s
+[spend controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1)
+threshold for IT).
 
 ##Further reading
 
