@@ -132,7 +132,10 @@ above groups.
 
 ## Business Impact Levels
 
-Business Impact Levels, often shorted to Impact Levels (IL) are a set of numbers used to guide discussions of risk in government projects. Specifically they are numbers between 0 and 6 for each of the three key concepts mentioned above, and measure:
+Business Impact Levels, often shortened to Impact Levels (IL) are a set of
+numbers used to guide discussions of risk in government projects. Specifically
+they are numbers between 0 and 6 for each of the three key concepts mentioned
+above, and measure:
 
 * For confidentiality: the potential impact if the information is seen by those who should not see it
 * For integrity: the potential impact if the accuracy or completeness of the information is compromised
