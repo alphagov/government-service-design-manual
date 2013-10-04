@@ -30,7 +30,8 @@ This guide sets out four principles of good data presentation, with easy to foll
 There are many examples of best practice style guides already in place. For example, [The Economist](http://www.economist.com/) has a clearly defined house style that allows its readers to readily identify and understand their visualisations. They publish a new visualisation every day in their [Graphic Detail](http://www.economist.com/blogs/graphicdetail). This guide attempts to build on the best practice from a range of organisations.
 
 ### GDS Example
-The [GOV.UK Performance Platform](https://www.gov.uk/performance) helps the Government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/)). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
+
+The [Performance Platform](https://www.gov.uk/performance) helps the government make decisions based on data, often presented through innovative visualisations (built using [D3.js](http://d3js.org/)). The example below compares weekly visitors to GOV.UK with the two main websites it replaced.
 ![Weekly uniques](/service-manual/assets/images/data-visualisation/weekly-uniques.png)
 
 ## Telling the story
@@ -205,7 +206,7 @@ When presenting data be aware of axes and scales. Data can be misrepresented by 
 
 ## Further reading
 
-More information about the [performance platform](/service-manual/measurement/performance-platform.html).
+More information about the [Performance Platform](/service-manual/measurement/performance-platform.html).
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 

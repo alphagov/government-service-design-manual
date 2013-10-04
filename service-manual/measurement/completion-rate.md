@@ -54,7 +54,7 @@ Don’t make it possible for users to bypass your service’s start page via lin
 
 ### Start and end points
 
-Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates. 
+Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates.
 
 A transaction is considered to have been started and completed only when the user:
 
@@ -77,7 +77,7 @@ Some services allow users to save a transaction mid flow and to resume it anothe
 
 For the purpose of completion rate, make it possible to match your saved transactions with resumed transactions so they can be treated as one continuous process.
 
-Consider applying a nominal time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed. Alternatively, saved transactions could be set to expire after a given length of time.                          
+Consider applying a nominal time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed. Alternatively, saved transactions could be set to expire after a given length of time.
 
 ### Multiple endpoints
 
@@ -131,6 +131,6 @@ If users are having difficulty completing tasks, carry out more user testing aft
 
 Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
 
-The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the  [Performance Platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
+The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
 
-Further usability testing should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made. 
+Further usability testing should also be carried out once a service have gone live to measure use of the service and identify any issues and improvements that can be made.

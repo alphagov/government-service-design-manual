@@ -20,11 +20,11 @@ breadcrumbs:
 
 Digital leaders act as the single point of contact for the department’s strategic interactions with GDS, including co–ordinating digital activity for Departmental Agencies, ALBs and NDPBs.
 
-They are senior civil servants (generally Executive or Director General level) drawn from every department of government and the devolved administrations, and they have experience of leading large scale transformation programs inside and/or outside government.  
+They are senior civil servants (generally executive or director general level) drawn from every department of government and the devolved administrations, and they have experience of leading large scale transformation programs inside and/or outside government.
 
 ## Digital by default
 
-Digital leaders promote and encourage take up of ‘Digital by Default’ within their Department, with stakeholders and customers. This means actively participating in the delivery of the Government Digital Strategy and Departmental Digital Strategy actions, ensuring these are fully embedded in the Department’s Business Plan.  
+Digital leaders promote and encourage take up of ‘Digital by Default’ within their department, with stakeholders and customers. This means actively participating in the delivery of the Government Digital Strategy and Departmental Digital Strategy actions, ensuring these are fully embedded in the Department’s Business Plan.
 
 ## GOV.UK
 
