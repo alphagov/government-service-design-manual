@@ -152,7 +152,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-12">
-    <div class="point"> Integrate the service with any non-digital sections required for legal reasons.</div>
+    <div class="point">Integrate the service with any non-digital sections required for legal reasons.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -161,8 +161,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual.
-</div>
+    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -187,7 +186,6 @@ service, led by a suitably skilled and senior service manager with full authorit
         <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
         <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
         <li><a href="/service-manual/technology/culture-that-supports-change.html">Culture that supports change</a></li>
-
       </ul>
     </div>
   </li>
