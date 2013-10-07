@@ -25,7 +25,7 @@ Government offers a number of different digital services to citizens. While the 
 
 Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK – for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
 
-Service managers must not advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts, etc.
+Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts, etc.
 
 The start page URL for a given service will be allocated by GDS based on discussions with the service manager and analysis of user behaviour, search referrals and other relevant data.
 
@@ -73,23 +73,23 @@ Regardless of the domain name used, web-based services on testing and developmen
 
 Many services will collect personal information from users. It’s very important that this information can’t be intercepted by malicious third parties as it travels over the internet.
 
-Therefore, all services accessed through `service.gov.uk` domains (including APIs) must only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services must not accept HTTP connections under any circumstances.
+Therefore, all services accessed through `service.gov.uk` domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services must not accept HTTP connections under any circumstances.
 
-Once a service manager has verified that their HTTPS setup is working fine they should enable [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.` and `assets.`), by setting an HTTP response header such as
+Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.` and `assets.`), by setting an HTTP response header such as
 
     Strict-Transport-Security: max-age=1209600, includeSubDomains;
 
-representing a commitment to HTTPS-only traffic for 14 days. Once the service manager is confident that HSTS is configured correctly, you should increase the commitment to months or years:
+representing a commitment to HTTPS-only traffic for 14 days. Once the service manager is confident that HSTS is configured correctly, they SHOULD increase the commitment to months or years:
 
     Strict-Transport-Security: max-age=31536000, includeSubDomains;
 
 ## Cookies
 
-Cookies used on `www.servicename.service.gov.uk` and `admin.servicename.service.gov.uk` must be scoped to the originating domain only. Cookies must not be scoped to the domain `servicename.service.gov.uk`.
+Cookies used on `www.servicename.service.gov.uk` and `admin.servicename.service.gov.uk` MUST be scoped to the originating domain only. Cookies MUST NOT be scoped to the domain `servicename.service.gov.uk`.
 
 Cookies SHOULD NOT be used on `assets.servicename.service.gov.uk` (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit for the service manager).
 
-Cookies must be sent with the `Secure` attribute and should, where appropriate, be sent with the `HttpOnly` attribute. These flags [provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
+Cookies MUST be sent with the `Secure` attribute and SHOULD, where appropriate, be sent with the `HttpOnly` attribute. These flags [provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
 
 ## robots.txt and root level redirections
 
@@ -130,9 +130,9 @@ Many suppliers offer IP forwarding DDOS protection, which does not have the same
 
 ## Emails sent to service users
 
-Emails to users of your service should be sent from a human-monitored email address that originates from the domain `servicename.service.gov.uk` (and not the dept/agency or any other domain name).
+Emails to users of your service SHOULD be sent from a human-monitored email address that originates from the domain `servicename.service.gov.uk` (and not the dept/agency or any other domain name).
 
-You should enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You may also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
+You SHOULD enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
 *[SPF]: Sender Policy Framework
 *[DKIM]: DomainKeys Identified Mail
