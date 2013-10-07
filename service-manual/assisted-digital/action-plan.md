@@ -33,7 +33,7 @@ The information in this document will help you to:
 
 ##How to develop assisted digital support
 
-Some new digital services will have a greater assisted digital requirement than others. However, all new digital services will need to demonstrate that appropriate plans have been put into place for those users who will need assistance in order to meet the Digital by [Default Service Standard](service-manual/digital-by-default).
+Some new digital services will have a greater assisted digital requirement than others. However, all new digital services will need to demonstrate that appropriate plans have been put into place for those users who will need assistance in order to meet the Digital by [Default Service Standard](/service-manual/digital-by-default).
 
 
 ##Discovery: understanding your assisted digital users and their needs.
@@ -87,7 +87,7 @@ By the end of the alpha stage of your digital transformation, you will need to b
 For your digital transformation project to meet [the standard](/digital-by-default/index.html) and be allowed to proceed to beta, you must be able to answer these questions to a reasonable level of detail, and demonstrate your thinking behind them.
 
 ###Assisted digital user research
-[Exemplar departments](https://www.gov.uk/transformation) have conducted [user research](service-manual/user-centered-design/introduction-to-user-research) with users of current offline channels to better understand the needs of potential assisted digital users. Departments researched:
+[Exemplar departments](https://www.gov.uk/transformation) have conducted [user research](/service-manual/user-centered-design/introduction-to-user-research) with users of current offline channels to better understand the needs of potential assisted digital users. Departments researched:
 
 * why these users accessed offline channels
 * what their intention would be if the offline channel was removed in favour of an assisted digital option
@@ -95,9 +95,9 @@ For your digital transformation project to meet [the standard](/digital-by-defau
 
 This research has enabled departments to confirm initial thinking as to whether their users lack digital skills, lack access to the internet or lack confidence in doing digital transactions. It could even be that users fall into more than 1 of these categories.
 
-If someone has internet access and skills, but prefers not to use the digital service, then they are targets for [channel shift](service-manual/measurement/digital-takeup.html), not assisted digital.
+If someone has internet access and skills, but prefers not to use the digital service, then they are targets for [channel shift](/service-manual/measurement/digital-takeup.html), not assisted digital.
 
-As a part of [agile methodology](/service-manual/agile), develop [user stories](service-manual/agile/writing-user-stories.html) based upon these user needs.
+As a part of [agile methodology](/service-manual/agile), develop [user stories](/service-manual/agile/writing-user-stories.html) based upon these user needs.
 
 Use the user stories to visualise what the assisted digital user journey will look like. Draw it out step by step, using a series of post-it notes to plot the user journey. Every time a user interacts digitally in the transaction, consider the support that an assisted digital user would need. 
 
