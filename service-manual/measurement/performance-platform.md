@@ -38,7 +38,7 @@ The Performance Platform will provide:
 * alerts
 * dashboards
 * feeds
- 
+
 This will help with making timely and transparent decisions about your service and the content that government offers.
 
 The platform will combine different sources of information:
@@ -48,7 +48,7 @@ The platform will combine different sources of information:
 * analytics
 * surveys
 * finance data
- 
+
 Combining these sources will produce information that encourages a greater understanding of the data, rather than simply communicating facts. It will:
 
 * make it possible for government to make decisions based on data
@@ -78,11 +78,11 @@ you and your service in this process.
 
 When a new module is added, it will be offered to all services on the platform. Each service will have the ability to decide whether or not to use it.
 
-There will be default modules that are: 
+There will be default modules that are:
 
 * relevant to all services
 * relevant to similar groups of services (eg applying for something, requesting information, booking an appointment)
-* [Key Performance Indicators](/service-manual/measurement/index.html) 
+* [Key Performance Indicators](/service-manual/measurement/index.html)
 
 You’ll also have the ability to develop your own custom modules for your service.
 
