@@ -41,7 +41,7 @@ breadcrumbs:
 
 <ol class="standard">
   <li id="criterion-1">
-    <div class="point">Understand user needs — conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
+    <div class="point">Understand user needs – conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
