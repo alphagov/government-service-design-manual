@@ -136,5 +136,5 @@ You SHOULD enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on
 
 *[SPF]: Sender Policy Framework
 *[DKIM]: DomainKeys Identified Mail
-*[APIs]: applciation programming interfaces
+*[APIs]: application programming interfaces
 *[API]: application programming interface
