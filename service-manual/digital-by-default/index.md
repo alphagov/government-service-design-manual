@@ -221,7 +221,7 @@ service, led a suitably skilled and senior service manager with full authority a
     </div>
   </li>
   <li id="criterion-19">
-    <div class="point">Build a service that can be integrated on a frequent basis, eg in response to user feedback or performance data and make sure resources are in place to do / pay for the iteration.</div>
+    <div class="point">Build a service that can be iterated on a frequent basis, eg in response to user feedback or performance data and make sure resources are in place to do / pay for the iteration.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
