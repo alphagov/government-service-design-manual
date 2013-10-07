@@ -23,11 +23,7 @@ breadcrumbs:
 
 A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
-<<<<<<< HEAD
-## Retrospective format
-=======
 ## Retrospectives
->>>>>>> changed FAQ header, removed bold text
 
 ![X-prop retrospective](https://farm9.staticflickr.com/8013/7105598457_084223078e_d.jpg)
 
