@@ -78,7 +78,7 @@ Optional capabilities which would make a marked difference to the production of 
 
 ### Provisioning API
 
-The provisioning of virtual machines, storage, load balancing, etc to be available via an API (application programming interface). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
+The provisioning of virtual machines, storage, load balancing, etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
 
 ### Create virtual machine templates
 
