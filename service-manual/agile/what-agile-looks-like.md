@@ -88,7 +88,7 @@ But these techniques do allow you to spot problems earlier on and resolve them. 
 
 * releasing working software to your users regularly – it allows you to get feedback quickly and hear or see what they think; if the product is wrong you can easily change direction and iterate
 * demonstrating value to your sponsor with regular releases - if your software is rarely released you run the risk of creating a ‘too-big-to-fail’ service that shouldn’t be released, but must be released anyway 
-* checking your teams’ progress -  if your teams’ speed is still inconsistent after the initial 4 to 6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
+* checking your teams’ progress - if your teams’ speed is still inconsistent after the initial 4 to 6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
 * using test-driven development (writing tests before you develop the features to be tested) to highlight issues with quality early on - establish the issues, baseline metrics, and monitor throughout the project
 
 Don’t be afraid to fail or experiment. Learn to fail, and create a culture that learns from failure.
