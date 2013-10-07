@@ -54,7 +54,7 @@ breadcrumbs:
   <li id="criterion-2">
     <div class="point">
       Assemble a multidisciplinary team that can design, build and operate the
-service, led a suitably skilled and senior service manager with full authority and decision-making responsibility.
+service, led by a suitably skilled and senior service manager with full authority and decision-making responsibility.
     </div>
     <div class="guidance">
       <p>Related guides</p>
