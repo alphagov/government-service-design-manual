@@ -59,7 +59,7 @@ You should help your users to pick strong, secure passwords or phrases and consi
 
 As a minimum passphrases should be eight characters long and include a mix of letters, numbers and symbols, but ideally they'll be longer than that. We refer to passphrases as a phrase is usually easier to remember but harder to guess than a short collection of symbols or a single word.
 
-> For some admin systems for www.gov.uk we created the [passphrase entropy](https://github.com/alphagov/passphrase_entropy) library that measures how hard it would be for a computer to crack a password using brute-force methods. That library is used to validate new passwords and insist on strong passphrases. It's only one measure, but it increased our confidence that our users would be picking good passphrases.
+> For some admin systems for www.gov.uk we created the [passphrase entropy](https://github.com/alphagov/passphrase_entropy) library that measures how hard it would be for a computer to crack a passphrase using brute-force methods. That library is used to validate new passphrases and insist on strong passphrases. It's only one measure, but it increased our confidence that our users would be picking good passphrases.
 
 All new government services should be served over https to ensure the communication between the user and the service is encrypted. This is especially important when logging in.
 
