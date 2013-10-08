@@ -78,10 +78,10 @@ By the end of the alpha stage of your digital transformation, you will need to b
 
 1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, based upon evidence based research? 
 2. What might the assisted digital user journey look like? Is there a preference for:
-  *face-to-face support with someone doing the transaction alongside them
-  *telephone support
-  *intermediaries they’re already in contact with about the service
-  *another form of support 
+  * face-to-face support with someone doing the transaction alongside them
+  * telephone support
+  * intermediaries they’re already in contact with about the service
+  * another form of support
 3. What research have you conducted/feedback have you received on your user journey from users and/or experts?
 4. What are your prefered options for assisted digital support? Why?
 
@@ -144,7 +144,7 @@ While testing, ask users if they were:
   * what the user thought of the journey
   * what went well
 * unable to complete the transaction with the assisted digital support, and if so, find out:
-  *what stopped the user from completing the transaction
+  * what stopped the user from completing the transaction
 
 Use this information to iterate the assisted digital support and continue to ask for feedback from users, providers and experts to make sure the support is suited to user needs throughout the beta and live phases.
 
