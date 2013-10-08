@@ -87,7 +87,7 @@ By the end of the alpha stage of your digital transformation, you will need to b
 
 For your digital transformation project to meet [the standard](/service-manual/digital-by-default/index.html) and be allowed to proceed to beta, you must be able to answer these questions to a reasonable level of detail, and demonstrate your thinking behind them.
 
-###Assisited digital user research
+###Assisted digital user research
 [Exemplar departments](https://www.gov.uk/transformation) have conducted [user research](/service-manual/user-centered-design/introduction-to-user-research) with users of current offline channels to better understand the needs of potential assisted digital users. Departments researched:
 
 * why these users accessed offline channels
