@@ -55,7 +55,7 @@ login system you will need to consider a few questions:
 * do you already have all the data you need in order to establish trust with those users or will you need to match them against other services (online or offline)?
 
 If building a service for a small number of clearly identified agents then
-it is probably safe to proceed. You should ensure that any authentication
+it's probably safe to proceed. You should ensure that any authentication
 and authorisation code written for your system is carefully separated from
 the application in such a way that you can:
 
