@@ -34,7 +34,7 @@ Whatever you’re writing about, make sure the most important information is in 
 
 ##Little and often
 
-Short updates can still go into a bit of detail about what you’re doing and why you’re done it, whether that’s changing the colour of a button or re-writing a whole section of guidance.
+Short updates can still go into a bit of detail about what you’re doing and why you’re doing it, whether that’s changing the colour of a button or re-writing a whole section of guidance.
 
 Keeping posts short reduces the burden of blogging, and also means it’ll be easier to get input from the people you work with.
 
@@ -46,7 +46,7 @@ A well-chosen illustration or photo can add important context or information for
 
 [The GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) is an invaluable tools for writers. It’s full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
 
-In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the words to avoid list – it’s there to make sure writers stay clear no matter the audience.
+In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the 'words to avoid' list – it’s there to make sure writers stay clear no matter the audience.
 
 ##...but remember you’re a person
 
