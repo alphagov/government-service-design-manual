@@ -41,7 +41,7 @@ breadcrumbs:
 
 <ol class="standard">
   <li id="criterion-1">
-    <div class="point">Understand user needs — conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
+    <div class="point">Understand user needs – conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -54,7 +54,7 @@ breadcrumbs:
   <li id="criterion-2">
     <div class="point">
       Assemble a multidisciplinary team that can design, build and operate the
-service, led a suitably skilled and senior service manager with full authority and decision-making responsibility.
+service, led by a suitably skilled and senior service manager with full authority and decision-making responsibility.
     </div>
     <div class="guidance">
       <p>Related guides</p>
@@ -152,7 +152,7 @@ service, led a suitably skilled and senior service manager with full authority a
     </div>
   </li>
   <li id="criterion-12">
-    <div class="point"> Integrate the service with any non-digital sections required for legal reasons.</div>
+    <div class="point">Integrate the service with any non-digital sections required for legal reasons.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -161,8 +161,7 @@ service, led a suitably skilled and senior service manager with full authority a
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual.
-</div>
+    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -187,7 +186,6 @@ service, led a suitably skilled and senior service manager with full authority a
         <li><a href="/service-manual/making-software/choosing-technology.html">Choosing technology</a></li>
         <li><a href="/service-manual/making-software/open-standards-and-licensing.html">Open standards and licensing</a></li>
         <li><a href="/service-manual/technology/culture-that-supports-change.html">Culture that supports change</a></li>
-
       </ul>
     </div>
   </li>
@@ -221,7 +219,7 @@ service, led a suitably skilled and senior service manager with full authority a
     </div>
   </li>
   <li id="criterion-19">
-    <div class="point">Build a service that can be integrated on a frequent basis, eg in response to user feedback or performance data and make sure resources are in place to do / pay for the iteration.</div>
+    <div class="point">Build a service that can be iterated on a frequent basis, eg in response to user feedback or performance data and make sure resources are in place to do / pay for the iteration.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
