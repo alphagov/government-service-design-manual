@@ -56,11 +56,14 @@ We describe the reasons for these principles and their implications in the [Open
 
 ## Choosing which open standards to use
 
-The Open Standards Board will be selecting some compulsory open standards using the [Standards Hub](http://standards.data.gov.uk/) process.
+The [Open Standards Board](http://standards.data.gov.uk/meeting/open-standards-board-terms-reference) makes recommendations to the Government’s Chief Technology Officer on setting compulsory open standards profiles using the [Standards Hub](http://standards.data.gov.uk/) process. 
 
-Where these standards have been identified you should use them.
+We develop these standards profiles in response to challenges raised by Standards Hub users. Challenges are problems that open standards might help to resolve.  
 
-If you are looking for an open standard and we’ve not set a compulsory one in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition.
+Where open standards have been identified you should use them. Each [completed challenge](http://standards.data.gov.uk/challenges/completed) has a standards profile that refers to specific open standards. 
+
+If you are looking for an open standard and we’ve not set a compulsory standards profile in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition.
+
 
 You should also consider how the standard fits with:
 
@@ -72,7 +75,7 @@ You should also consider how the standard fits with:
 
 If you are considering use of a standard that doesn’t meet our definition of an open standard, you’ll need to apply for an exemption.
 
-You’ll also need to apply for an exemption if you want to use an alternative standard to one that performs the same function if we’ve already selected compulsory standards for that purpose.
+You’ll also need to apply for an exemption if you want to use an alternative standard to one that performs the same function if we’ve already selected a compulsory standards profile for that purpose.
 
 ## Why we do this
 
@@ -96,6 +99,7 @@ If there is a reason why you think using open standards is inappropriate, on an 
 ##Further reading
 
 * [Standards Hub](http://standards.data.gov.uk/) - go here to get involved in the debate about which open standards we should choose and to find out about which ones we’re adopting.
+* [Completed challenges](http://standards.data.gov.uk/challenges/completed) - go here on the Standards Hub to find out which standards profiles are compulsory for use in government.
 * [Open Standards Principles](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf)
 * Open Standards: [Open Opportunities consultation outcome](https://www.gov.uk/government/consultations/open-standards-open-opportunities-flexibility-and-efficiency-in-government-it)
 
