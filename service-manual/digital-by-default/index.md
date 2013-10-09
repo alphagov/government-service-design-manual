@@ -288,7 +288,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-26">
-    <div class="point">Successfully test the service from beginning to end with the minister responsible for it</div>
+    <div class="point">Successfully test the service from beginning to end with the minister responsible for it.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
