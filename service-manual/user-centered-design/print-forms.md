@@ -23,12 +23,12 @@ breadcrumbs:
 
 Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital) support.
 
-For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you will want to bear in mind.
+For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you'll want to bear in mind.
 
 ## Don't make paper forms unless you have to
 The most important thing to remember is that print forms should only be made when absolutely necessary.
 
-For example, the legislation governing Lasting Powers of Attorney requires 'wet signatures' for the application to be valid. Until this legislation changes, a print form has to be part of the final service.
+For example, the legislation governing Lasting Powers of Attorney (LPA) requires 'wet signatures' for the application to be valid. Until this legislation changes, a print form has to be part of the final service.
 
 ## Do as much as possible online
 Aim for as much of the transaction as possible to be completed online. Users should have to print as little as possible in order to complete an application, which means:
@@ -39,7 +39,7 @@ Aim for as much of the transaction as possible to be completed online. Users sho
 * eliminating unneccesary steps and fields (if a field is marked as optional, consider whether you need to collect that information at all)
 
 ## Start from scratch
-In lots of cases, paper forms will exist for services being redesigned. The launch of the digital service gives you an opportunity to improve them. When doing so, don't just base your designs on the existing forms. Look at what information you need to carry out the transaction, and try to eliminate unnecessary steps.
+In lots of cases, paper forms will exist for services being redesigned. The launch of the digital service gives you an opportunity to improve them. When doing so, don't just base your designs on the existing forms. Look at what information you need to carry out the transaction and try to eliminate unnecessary steps.
 
 <img src="/service-manual/assets/images/print-forms/before.png" alt="The existing LPA form pack contained 14 different documents" />
 
@@ -58,7 +58,7 @@ Links, smart answers, search boxes and drop downs are not available in print pub
 
 <figcaption>The proposed redesigned LPA forms are clearly numbered so you know where to begin</figcaption>
 
-In the Lasting Power of Attorney application forms, this meant
+In the Lasting Power of Attorney application forms, this meant:
 
 * numbering the forms so it was clear in which order they needed to be completed
 * clearly indicating when questions are optional ('skip this question if...')
@@ -79,13 +79,13 @@ In the Lasting Power of Attorney application forms, this meant
 
 Your paper forms are a small but important part of a digital process. Typically you'll be switching to paper forms to collect a signature.
 
-Here are some ways you can make this transition easier:
+There are some ways you can make this transition easier:
 
-* Add familiarity by showing some of the information the user has just entered in large font – their name, for example.
-* Create a transcript of the information entered using the digital tool, with a signature box at the bottom.
-* If your digital output has to match an existing paper form, you can still add a cover sheet with user's input (for familiarity)
-* Clearly explain the next step. For example, give the address to send the form to, or give a web address to continue using the digital tool. If you give a URL, include a short ID string which logs the user in and takes them to the relevant step
-* The digital and paper counterparts should have a similar look and feel
+* add familiarity by showing some of the information the user has just entered in large font – their name, for example
+* create a transcript of the information entered using the digital tool, with a signature box at the bottom.
+* if your digital output has to match an existing paper form, you can still add a cover sheet with user's input (for familiarity)
+* clearly explain the next step: for example, give the address to send the form to, or give a web address to continue using the digital tool; if you give a URL, include a short ID string which logs the user in and takes them to the relevant step
+* the digital and paper counterparts should have a similar look and feel
 
 ## Test your forms with real users
 
@@ -99,20 +99,21 @@ Get [an introduction to user research](/service-manual/user-centered-design/intr
 
 [Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
 
-Where specialist terms are unavoidable, or necessary, you will need people who understand [how users read](/service-manual/user-centered-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centered-design/writing-government-services.html) when working on the design.
+Where specialist terms are unavoidable, or necessary, you'll need people who understand [how users read](/service-manual/user-centered-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centered-design/writing-government-services.html) when working on the design.
 
 Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
 
 ##Forms are not an alternative channel
 
-They complement the digital transaction, and should be easy to process by staff working to support the digital service.
+They complement the digital transaction and should be easy to process by staff supporting the digital service.
 
 Their performance also has an impact on the [KPIs you gather for digital services](/service-manual/measurement).
 
 ## Templates and examples
 
 [Contact us](/feedback/contact) if you're starting work on print forms.
-We can send you the LPA form pack to use as a template. (The redesigned LPA forms will be made public soon by the MOJ as part of a formal consultation.)
+
+We can send you the LPA form pack to use as a template. (The redesigned LPA forms will be made public soon by the Ministry of Justice as part of a formal consultation.)
 
 ### Download template form
 
@@ -121,3 +122,5 @@ We can send you the LPA form pack to use as a template. (The redesigned LPA form
 * [PDF file (not editable)](/service-manual/assets/documents/print-forms/template-form.pdf)
 
 If you get the error 'There is no application set to open the document...', you don't have InDesign installed. You'll need to [install a trial or buy a subscription](http://www.adobe.com/uk/products/indesign.html).
+
+*[LPA]: Lasting Powers of Attorney

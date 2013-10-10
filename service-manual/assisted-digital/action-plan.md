@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/assisted-digital
 ---
 
-The assisted digital action plan will help you to:
+The information in this document will help you to:
  
 * understand the needs of your assisted digital users
 * develop assisted digital support that meets their needs
@@ -38,7 +38,7 @@ Some new digital services will have a greater assisted digital requirement than 
 
 ##Discovery: understanding your assisted digital users and their needs.
 
-By the end of the discovery stage of your digital transformation, you should have developed a plan to answer these  questions:
+By the end of the discovery stage of your digital transformation, you should have developed a plan to answer these questions:
 
 1. How many of your users do you estimate will require assisted digital support?
 2. What is your early thinking around the needs of users who may require assisted digital support?
@@ -46,31 +46,30 @@ By the end of the discovery stage of your digital transformation, you should hav
 
 Your understanding of the number of users who may require support and what their needs are will be at a very early stage and have a number of gaps. As you build your service you'll be able to fill these gaps and iterate your initial answers.
 
-##Building your digital service
-A good starting point is to consider how many users use current online digital services which your department currently offers to understand how many users opt for offline channels. Information about the digital take-up of some services is available on the [Transaction Explorer](https://www.gov.uk/performance/transactions-explorer).
+###Building your digital service
+A good starting point is to consider how many users use current online digital services which your department may currently offer to understand how many users opt for offline channels. Information about the digital take-up of some services is available on the [Transaction Explorer](https://www.gov.uk/performance/transactions-explorer).
 
-It's also useful to understand the demographic make-up of your users to learn why people need assisted digital support. You could improve your insight by also using the ['Digital Landscape Research'](http://publications.cabinetoffice.gov.uk/digital/research/), which provides a cross-population view of who's online and who's offline.
+It would also be useful to understand the demographic makeup of your users to gain more insight as to those who may require assisted digital support. You could use this in conjunction with the [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) which provides a cross-population view of who's online and who's offline.
 
-Once you have an idea as who your assisted digital users are, you can start early work concentrating on what these users may need. Look at how existing support for your service helps users make the transaction. Support is already available if:
+Once you have an idea as who your assisted digital users are, you can start early work to focus on what these users may need. Look at how existing support for your service helps users make the transaction. Support is already available if:
 
 * some of your users go to intermediaries or proxy users to access your digital service
 * your department works with organisations who help people develop digital skills
 * the provision of your service involves other organisations who provide support to assisted digital users
 
-This support may be formally put in place by your department, happening informally, or is part of the other organisations’ work, for example:
+This support may be formally put in place by your department, happening informally, or is part of the other organisations’ work, eg:
 
-* there might be intermediary groups, like lawyers, who are involved in the service provision
+* there might be intermediary groups, like lawyers, who are involved in the service delivery process
 * if your service has a high proportion of older users, charities may be helping those users access services
 
-To help you move into alpha, you can start work with these intermediaries and organisations to understand the needs of potential assisted digital users. Even at this early stage, think about the reasons why users may need some form of assisted digital support. 
+To help you move into alpha, you can start work with these intermediaries and organisations now to understand the needs of potential assisted digital users. Even at this early stage, start thinking about the reasons why users may need some form of assisted digital support. 
 
 Do you think that your assisted digital users:
 
 * lack digital skills?
 * lack access to the internet?
 * lack confidence in doing digital transactions with government?
-* a combination of the above.
-
+* a combination of the above?
 
 ##Alpha: developing preferred options for assisted digital provision.
 
@@ -117,7 +116,7 @@ As per the ['Government Approach to Assisted Digital'](http://publications.cabin
 
 However, if you'd like to provide assisted digital support in-house, you need to let us know at this stage and make sure that you can provide a strong, value for money case.
 
-##Beta: public testing.
+##Beta: public testing
 
 By the end of the beta stage of your digital transformation, you'll need to be able to answer these questions:
 
@@ -147,5 +146,4 @@ While testing, ask users if they were:
   * what stopped the user from completing the transaction
 
 Use this information to iterate the assisted digital support and continue to ask for feedback from users, providers and experts to make sure the support is suited to user needs throughout the beta and live phases.
-
 

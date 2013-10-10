@@ -17,25 +17,25 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Any online application should have some tools dedicated to alerting the people running the service to problems. This might involve low level issues involving the infrastructure underpinning the service to a sudden high rate of user errors.
+Any online application should have some tools dedicated to alerting the people running the service to problems. This might involve low-level issues involving the infrastructure underpinning the service to a sudden high rate of user errors.
 
-Knowing the current state of your service and infrastructure can help identify problems before they happen, as well as alert you to issues that need immediate attention. The main goals are:
+Knowing the current state of your service and infrastructure can help identify problems before they happen, as well as alert you to issues that need immediate attention. The main goals are to:
 
-* to be alerted to problems affecting the availability of the service so they can be resolved
-* to aid with capacity planning activities by providing metrics over time
-* to identify potential future problems
-* to find areas of improvement, for instance badly performing systems or inefficient services
-* to be able to identify the root cause of an outage after the fact, based on data collected during the problematic event
+* be alerted to problems affecting the availability of the service so they can be resolved
+* aid with capacity planning activities by providing metrics over time
+* identify potential future problems
+* find areas of improvement, for instance badly performing systems or inefficient services
+* be able to identify the root cause of an outage after the fact, based on data collected during the problematic event
 
-## Setup monitoring early
+## Set up monitoring early
 
-Monitoring is not something that should be left to the end, to be tacked on as part of running the final production service. By talking about monitoring, and agreeing an approach, you are more likely to build useful checks as you go along. Writing tests at the same time as writing code is common, monitoring checks can be viewed as tests for the running system.
+Monitoring is not something that should be left to the end, to be tacked on as part of running the final production service. By talking about monitoring, and agreeing an approach, you're more likely to build useful checks as you go along. Writing tests at the same time as writing code is common; monitoring checks can be viewed as tests for the running system.
 
-## Include high level checks
+## Include high-level checks
 
 Often monitoring is seen through a very technical lens, so teams may only look at web application performance, available disk space or memory usage. Although these are important it's also essential to track these alongside more business related metrics. 
 
-For example being able to compare page loading tests with failed transactions and application errors can alert you to problems and help identify the cause at the same time. It also grounds conversations about low level problems (disk space, slow performance) in terms of the service performance. 
+For example, being able to compare page loading tests with failed transactions and application errors can alert you to problems and help identify the cause at the same time. It also grounds conversations about low-level problems (disk space, slow performance) in terms of the service performance. 
 
 ## Errors are interesting
 
@@ -45,7 +45,7 @@ It's important to be able to see errors both at the level of the entire system a
 
 ## Widely available
 
-The monitoring system, or rather any dashboards, interactive tools or reports, should be as widely available as possible. They should ideally be useful outside just the group responsible for the day to day operations and systems administration.
+The monitoring system, or rather any dashboards, interactive tools or reports, should be as widely available as possible. They should ideally be useful outside just the group responsible for the day-to-day operations and systems administration.
 
 ## Further reading
 

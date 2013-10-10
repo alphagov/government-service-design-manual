@@ -26,15 +26,15 @@ Almost all content relating to the policies or publications of government depart
 
 You should publish documents in file formats that reflect the nature of the information they contain, and the uses to which they will likely be put.
 
-- For written reports, the native format of the web (HTML) should be your default option. PDF can be an excellent display format, but without additional effort it can be inappropriate for users of screenreading software. It is faster and easier to make accessible HTML that is suitable for every platform and device. If you must publish PDFs, you should provide accessible alternate formats for the document, and invest effort in [accessibility tagging your PDFs](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html).
+- For written reports, the native format of the web (HTML) should be your default option. PDF can be an excellent display format, but without additional effort it can be inappropriate for users of screenreading software. It's faster and easier to make accessible HTML that's suitable for every platform and device. If you must publish PDFs, you should provide accessible alternate formats for the document, and invest effort in [accessibility tagging your PDFs](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html).
 
-- For data, use [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or a similar 'structured data' format (see also [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML)). Do not publish structured data in unstructured formats such as PDF.
+- For data, use [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or a similar 'structured data' format (see also [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML)). Don't publish structured data in unstructured formats such as PDF.
 
-- If you are regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is 'machine-readable'. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API if this will simplify your users' interactions with your publications. For more information on APIs, and for more detailed technical guides on publishing data, please see [our guidance on APIs and formats](/service-manual/making-software/apis.html#representations-are-for-the-consumer).
+- If you're regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is 'machine-readable'. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API (application programming interface) if this will simplify your users' interactions with your publications. For more information on APIs, and for more detailed technical guides on publishing data, please see [our guidance on APIs and formats](/service-manual/making-software/apis.html#representations-are-for-the-consumer).
 
-- If you are publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.
+- If you're publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.
 
-In summary, consider your users, and the uses to which they will put your published data and content. If in doubt, treat the native format of the web, HTML, as a good fallback option. Web browsers are available on all platforms and devices, and web pages tend to be both passably accessible and machine-readable.
+In summary, consider your users, and the uses to which they'll put your published data and content. If in doubt, treat the native format of the web, HTML, as a good fallback option. Web browsers are available on all platforms and devices, and web pages tend to be both passably accessible and machine-readable.
 
 ## Don't assume your users can read proprietary formats
 
@@ -49,6 +49,7 @@ Wherever possible, publish in accessible, patent-free, [open formats](https://en
 
 Again, if in doubt, you should treat the native format of the web, HTML, as your best default option.
 
+*[APIs]: application programming interfaces
 *[API]: Application Programming Interface
 *[CSV]: Comma-separated values
 *[TSV]: Tab-separated values

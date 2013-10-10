@@ -25,17 +25,19 @@ breadcrumbs:
 
 This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below.
 
-User research can be categorised into two broad themes – product research, and strategic research.
+User research can be categorised into 2 broad themes – product research and strategic research.
 
 ## Product research
 
-Product research can incorporate both qualitative, and quantitative techniques.
+Product research can incorporate both qualitative and quantitative techniques.
 
-Qualitative techniques are intensive, and often small scale. These include focus groups and 1:1 interviews, and are typically used to explore and analyse unstructured data.
+Qualitative techniques are intensive and often small scale. These include focus groups and one-to-one interviews, and are typically used to explore and analyse unstructured data.
 
 Quantitative techniques involve higher-volume research, and include online surveys, face-to-face interviews, and involve a structured approach to data collection and analysis.
 
-Product based research can be conducted in-house or via a specialist agency. In-house approaches can be quicker as they involve less lead time (eg procurement), but require skilled in-house researchers, and can involve the procurement of some specialist software. Typically agencies are only used when specialist skills/experience is required that is not available in-house, and/or the scale of the project would mean it is difficult to provide dedicated internal resource.
+Product-based research can be conducted in-house or via a specialist agency. In-house approaches can be quicker as they involve less lead time (eg procurement), but require skilled in-house researchers, and can involve the procurement of some specialist software. 
+
+Typically agencies are only used when specialist skills/experience is required that is not available in-house, and/or the scale of the project would mean it is difficult to provide dedicated internal resource.
 
 ## Strategic research
 
@@ -53,7 +55,7 @@ Typically this will involve some initial fact finding in the early stages to und
 | Desk Research | Heuristic evaluation | Lab based testing | User surveys |
 | Ethnography | Guerilla testing | Remote usability testing | Remote usability testing |
 | Focus Groups | | Focus groups | |
-| Card Sorting | | 1:1 interviews | |
+| Card Sorting | | One-to-one interviews | |
 | User surveys | | | |
 
 ## Assisted digital research
@@ -63,7 +65,7 @@ The services/product will need to consider the digital skills of their users to 
 
 * can’t ever use the digital service independently and will always need assisted digital support
 * could use the digital service independently but will require initial assisted digital support to build their confidence in using the service
-* should use the digital service (ie. have the digital skills but currently use other channels) and don’t need assisted digital support
+* should use the digital service (ie have the digital skills but currently use other channels) and don’t need assisted digital support
 
 Some services, eg where users are large corporations, will not require assisted digital. The [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) contains a demographic breakdown of who is offline and online and service teams and these techniques may be useful for doing user research.
 
@@ -71,24 +73,24 @@ Some services, eg where users are large corporations, will not require assisted 
 
 ### Background
 
-* [Sampling methodologies](/service-manual/user-centered-design/user-research/sampling-methodologies.html)
-* [User research briefs](/service-manual/user-centered-design/user-research/user-research-briefs.html)
-* [Survey design](/service-manual/user-centered-design/user-research/survey-design.html)
-* [User research tools](/service-manual/user-centered-design/user-research/user-research-tools.html)
+* [sampling methodologies](/service-manual/user-centered-design/user-research/sampling-methodologies.html)
+* [user research briefs](/service-manual/user-centered-design/user-research/user-research-briefs.html)
+* [survey design](/service-manual/user-centered-design/user-research/survey-design.html)
+* [user research tools](/service-manual/user-centered-design/user-research/user-research-tools.html)
 
 ### Qualitative user research techniques
 
-* [Ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
-* [Expert review](/service-manual/user-centered-design/user-research/expert-review.html)
-* [Guerilla testing](/service-manual/user-centered-design/user-research/guerilla-testing.html)
-* [Same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
-* [Lab based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
-* [Focus groups and 1:1 interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)
-* [Community user groups](/service-manual/user-centered-design/user-research/community-user-groups.html)
+* [ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
+* [expert review](/service-manual/user-centered-design/user-research/expert-review.html)
+* [guerilla testing](/service-manual/user-centered-design/user-research/guerilla-testing.html)
+* [same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
+* [lab-based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
+* [focus groups and one-to-one interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)
+* [community user groups](/service-manual/user-centered-design/user-research/community-user-groups.html)
 
 ### Quantitative
 
-* [User research surveys](/service-manual/user-centered-design/user-research/user-research-surveys.html)
-* [Remote usability/summative testing](/service-manual/user-centered-design/user-research/remote-usability.html)
-* [Online research panels](/service-manual/user-centered-design/user-research/online-research-panels.html)
-* [Online omnibus surveying](/service-manual/user-centered-design/user-research/online-omnibus-survey.html)
+* [user research surveys](/service-manual/user-centered-design/user-research/user-research-surveys.html)
+* [remote usability/summative testing](/service-manual/user-centered-design/user-research/remote-usability.html)
+* [online research panels](/service-manual/user-centered-design/user-research/online-research-panels.html)
+* [online omnibus surveying](/service-manual/user-centered-design/user-research/online-omnibus-survey.html)

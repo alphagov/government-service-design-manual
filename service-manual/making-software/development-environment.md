@@ -29,7 +29,7 @@ As software developers, the environments we use every day matter greatly. Below 
 * develop rapidly and iteratively
 * continuously test and monitor software during development
 
-Although this document does not describe the capabilities and characteristics of a production environment, there is a general presumption that any production environment should enable the exemplar project development teams to:
+Although this document doesn't describe the capabilities and characteristics of a production environment, there's a general presumption that any production environment should enable the exemplar project development teams to:
 
 * deploy updates to the system rapidly and iteratively (ie at least daily)
 * continuously test and monitor software in production
@@ -42,15 +42,15 @@ The essential capabilities of the development environment without which the deve
 
 ### Current availability
 
-A service that is already operational and able to onboard customers very quickly (typically within 5 working days).
+A service that's already operational and able to onboard customers very quickly (typically within 5 working days).
 
 ### Internet connectivity
 
-Both incoming and outgoing internet connectivity. This should also facilitate remote management.
+Both incoming and outgoing internet connectivity. This should also help remote management.
 
-### Self service provisioning
+### Self-service provisioning
 
-We should be able to remotely provision new machines ourselves to meet our needs as they arise, without the need to phone, fax or email anyone, and therefore require a self service method of provisioning virtual machines and storage.
+We should be able to remotely provision new machines ourselves to meet our needs as they arise, without the need to phone, fax or email anyone, and therefore require a self-service method of provisioning virtual machines and storage.
 
 ### Suitable range of virtual machine options
 
@@ -64,13 +64,13 @@ The flexibility to run whatever operating system is deemed suitable for the proj
 
 We would prefer to store data in the EU, and ideally within the UK, therefore we require development environments to be hosted only in EU-based data centres.
 
-### Service Level Agreement
+### Service Level Agreement (SLA)
 
 A suitable SLA should be in place with the service provider (whether internal or external), with at least a 99.5% uptime guarantee.
 
 ### Development team access
 
-Approved development team members should have root access to manage virtual machines (eg to install & configure software).
+Approved development team members should have root access to manage virtual machines (eg to install and configure software).
 
 ## Desired
 
@@ -78,7 +78,7 @@ Optional capabilities which would make a marked difference to the production of 
 
 ### Provisioning API
 
-The provisioning of virtual machines, storage, load balancing, etc to be available via an API. Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the Internet (optionally through a VPN).
+The provisioning of virtual machines, storage, load balancing, etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
 
 ### Create virtual machine templates
 
@@ -86,13 +86,16 @@ To speed up provisioning we would like to be able to store virtual machine templ
 
 ### Firewall and load balancer service
 
-If available a managed firewall and/or load balancer service may be used.
+If available a managed firewall and/or [load balancer](http://en.wikipedia.org/wiki/Load_balancing_(computing) service may be used.
 
 ### Configurable private network
 
-We require the ability to manage internal networks, each consisting of specific groups of virtual machines. This should allow for some virtual machines not to be internet accessible.
+We require the ability to manage internal networks, each consisting of specific groups of virtual machines. This should allow for some virtual machines to not be internet accessible.
 
 ### Virtual Private Network
 
-We may choose to expose parts of the service via a Virtual Private Network. The infrastructure service should at a minimum not prevent this and may ideally provide a suitable managed service.
+We may choose to expose parts of the service via a VPN. The infrastructure service should at a minimum not prevent this and may ideally provide a suitable managed service.
 
+*[SLA]: Service Level Agreement
+*[API]: application programming interface
+*[VPN]: virtual private network

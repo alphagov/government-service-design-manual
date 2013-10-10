@@ -32,7 +32,7 @@ Producing regular iterations makes it easier for you to:
 
 If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up - and stock is waste.
 
-From the [Lean philosophy](http://en.wikipedia.org/wiki/Lean_software_development)
+The [Lean software development philosophy](http://en.wikipedia.org/wiki/Lean_software_development) tells us to:
 
 > Test all iterations of your software, either through public user testing or automated testing (using separate software to perform the testing).
 

@@ -39,7 +39,7 @@ If possible, use data from real people that are using your product and let it in
 
 Iterate often. Build something that strives to achieve the most valuable user need and show it to the users, listen to their feedback and improve it. Keep doing this until you have something so useful that they wouldn’t be without it.
 
-It might sound like over-simplifying the complexity of software development and project management, but agile development is all about “What do you want by next Friday?”
+It might sound like over-simplifying the complexity of software development and project management, but agile development is all about “what do you want by next Friday?”
 
 The process of producing incremental, production-ready software allows your team to:
 
@@ -64,7 +64,7 @@ A good team includes members with all of the skills necessary to successfully pr
 * [delivery manager](/service-manual/the-team/delivery-manager.html) (aka Scrum master or project manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
 * [team members](https://www.gov.uk/service-manual/the-team/index.html) – self-organising and multi-disciplinary, they produce user stories, carry out the product manager’s vision and are responsible for estimating their output and speed
 
-Encourage your team members to pair up, as working together is beneficial. Two people working on one thing will:
+Encourage your team members to pair up, as working together is beneficial. 2 people working on 1 thing will:
 
 * produce better software solutions
 * encourage better quality controls
@@ -88,16 +88,16 @@ But these techniques do allow you to spot problems earlier on and resolve them. 
 
 * releasing working software to your users regularly – it allows you to get feedback quickly and hear or see what they think; if the product is wrong you can easily change direction and iterate
 * demonstrating value to your sponsor with regular releases - if your software is rarely released you run the risk of creating a ‘too-big-to-fail’ service that shouldn’t be released, but must be released anyway 
-* checking your team's progress -  if your team's speed is still inconsistent after the initial 4-6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
+* checking your teams’ progress - if your teams’ speed is still inconsistent after the initial 4 to 6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
 * using test-driven development (writing tests before you develop the features to be tested) to highlight issues with quality early on - establish the issues, baseline metrics, and monitor throughout the project
 
 Don’t be afraid to fail or experiment. Learn to fail, and create a culture that learns from failure.
 
-##Continuous Planning
+##Continuous planning
 
 ![Planning session](https://farm9.staticflickr.com/8001/7113823877_80c4dfb613.jpg)
 
-It’s a myth that you don’t plan on agile projects.  The freedom of agile projects does not come free: you have to plan.  You just plan differently and continuously.
+It’s a myth that you don’t plan on agile projects.  The freedom of agile projects does not come free: you have to plan. You just plan differently and continuously.
 
 Base your agile planning on solid, historical data, not theories or opinions. Your plan must continuously demonstrate its accuracy: nobody on your agile project should take it for granted that the plan is workable.
 
@@ -119,9 +119,11 @@ If your team is new to agile, be wary of familiar situations and reactions from 
 
 * your core team isn’t full-time or is working on multiple projects - your team is the unit of delivery and you need 100%, so push back on managers and stakeholders if this is happening
 * you don’t have a dedicated team area – sit your team together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its
-    * rearrange your workspace or use tools in innovative ways to improve your teams’ working environment and increase productivity - you’ll challenge some long-standing working practices, but this is so, so important
+    * rearrange your workspace or use tools in innovative ways to improve your teams’ working environment and increase productivity - you’ll challenge some longstanding working practices, but this is very important
 * there’s no continuous integration/development environment - if your teams aren’t insisting on this from the beginning you’ve probably got the wrong team:
     * iterative software development is, in many areas, dependent on the ability to continuously deploy and run automated tests
-* you have a separate quality assuarance department – if your team pass software they’ve developed over to a quality assurance department, they’ve got the wrong attitude to delivering production-ready software; embed a quality culture into the team
+* you have a separate quality assurance (QA) department – if your team pass software they’ve developed over to a QA department, they’ve got the wrong attitude to delivering production-ready software; embed a quality culture into the team
 
 This is by no means a complete list, but these are most common things to watch out for.
+
+*[QA]: quality assurance

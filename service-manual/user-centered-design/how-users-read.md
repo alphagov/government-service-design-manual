@@ -38,9 +38,9 @@ By the time you are 9 years old, your brain can drop up to 30% of the text and s
 
 You should also be confident in sounding out words and blending sounds. You may not know the word, but you have the skills to be able to learn it.
 
-We talk about the reading age being around 9 years old -- this is why.
+This is why we talk about the reading age being around 9 years old.
 
-## Lowercase
+## Lower case
 When you learn to read, you start with a mix of upper and lower case but you don’t start understanding uppercase until you are around 6 years old.
 
 At first, you may sound out letters, merge sounds, merge letters, learn the word.
@@ -51,7 +51,7 @@ At that point, you recognise the shape of the word. This speeds up comprehension
 
 Caps are reputed to be 13-18% harder for users to read. So we try to avoid them.
 
-Also, in modern usage it sounds like we are shouting. We are government. We should not be shouting.
+Also, in modern usage it sounds like we're shouting. We are government. We should not be shouting.
 
 ## Plain English
 By the time you are 9, you are building up your ‘common words’. Your primary set is around 5,000 words in your vocabulary; your secondary set is around 10,000 words.
@@ -63,19 +63,19 @@ We explain all unusual terms on GOV.UK. This is because you can understand 6-let
 
 Sometimes, you can read a short word faster than a single letter -- if the context is correct.
 
-Not only are we giving users full information - which is obviously what we are meant to be doing - we are speeding up their reading time. By giving full context and using common words, we are allowing them to understand in the fastest possible way.
+Not only are we giving users full information - which is obviously what we're meant to be doing - we're speeding up their reading time. By giving full context and using common words, we're allowing them to understand in the fastest possible way.
 
-In tools and transactions you need to give people context. By giving them information they are expecting, you help them get through it faster.
+In tools and transactions you need to give people context. By giving them information they're expecting, you help them get through it faster.
 
 ## Learning disabilities
 
-This is a huge subject, with many different nuances. But one thing we can do is remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
+This is a huge subject, with many different nuances. But 1 thing we can do is remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
 
-They also can’t retain the comprehension of the sentence as a whole if it is too long.
+They also can’t retain the comprehension of the sentence as a whole if it's too long.
 
 People with moderate learning disabilities can retain comprehension of 5 to 8 words. Now, we can’t go that far but if we concentrate on common words, we can get to the standard retention figure of around 25 words.
 
-Quite frankly, we all get a bit lost if you have a 72 word sentence. Again, why would we make it hard, when it can be so easy and we don’t lose the usability?
+Quite frankly, we all get a bit lost if you have a 72-word sentence. Again, why would we make it hard, when it can be so easy and we don’t lose the usability?
 
 ## Why we do this
 
