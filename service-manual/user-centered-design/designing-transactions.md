@@ -20,11 +20,11 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-## What is a transaction?
+## Transactions
 
-It's an exchange between two or more parties.
+A transaction is an exchange between 2 or more parties.
 
-[Government transactions](/performance/transactions-explorer) typically involve an exchange of information, money, rights, goods or some combination of these. Usually one party will be a citizen or business and the other will be the government.
+[Government transactions](http://transactionsexplorer.cabinetoffice.gov.uk/) typically involve an exchange of information, money, rights, goods or some combination of these. Usually 1 party will be a citizen or business and the other will be the government.
 
 For example, when someone applies for a passport they exchange information and money for the right to travel.
 
@@ -54,18 +54,18 @@ You should choose a structure for your transaction that most naturally fits the 
 
 Ask yourself:
 
-* Will your users want to move through the transaction in a fixed order, or one of their choosing?
-* Will they be able to complete the transaction in a single go?
-* Will their answers affect other parts of the transaction?
-* Will they want to go back and review or change answers to previous questions?
-* Will they need to add or remove items from a list, or change the order of things?
-* How many parties are involved in the transaction?
-* Do any parts of the transaction take place offline?
-* At what point is the transaction regarded as complete?
+* will your users want to move through the transaction in a fixed order, or one of their choosing?
+* will they be able to complete the transaction in a single go?
+* will their answers affect other parts of the transaction?
+* will they want to go back and review or change answers to previous questions?
+* will they need to add or remove items from a list, or change the order of things?
+* how many parties are involved in the transaction?
+* do any parts of the transaction take place offline?
+* at what point is the transaction regarded as complete?
 
 How you answer these questions will help you decide how to structure the transaction. It can help to think in terms of levels: sections, subsections, groups etc. Try not to worry about how those levels should be represented in the interface until you have a broader understanding of the overall structure.
 
-For example, on a web site, you might choose to have one section per page, or multiple sections per page. It depends on what's going to work best for your users.
+For example, on a website, you might choose to have 1 section per page, or multiple sections per page. It depends on what's going to work best for your users.
 
 ## Example structures
 
@@ -159,11 +159,11 @@ As always, these design decisions must have a strong, user-centred rationale beh
 
 If the average time to complete a transaction is more than you can reasonably expect your users to spend in a single session, then you'll need to provide a way for them to save their progress.
 
-The same goes if the session is likely to be interrupted for some reason. For example, if the user is suddenly asked for information which they might not have immediately to hand (a way to mitigate against this is to warn users up front if they're going to be asked for that kind of information).
+The same goes if the session is likely to be interrupted for some reason. For example, if the user is suddenly asked for information which they might not have immediately to hand (a way to mitigate this is to warn users if they're going to be asked for that kind of information).
 
 Saving progress does not necessarily mean you require user accounts, logins, email validation etc. For simpler transactions that don't store personal information you might be able to store the data in the URL itself. The user then simply has to bookmark that URL.
 
-For more complex transactions that don't store personal data you might be able to offer users a unique, and hard-to-guess URL that they can use to get back to their session.
+For more complex transactions that don't store personal data, you might be able to offer users a unique and hard-to-guess URL that they can use to get back to their session.
 
 ## Indicating mandatory fields
 
@@ -171,9 +171,9 @@ If you follow the principle of not asking for information you don't need, then m
 
 ## Helping users
 
-You should be aiming for a service that's so intuitive people don't need any help in using it. If you find yourself explaining the interface *within* the interface it's a sign that something has gone wrong. Time to try out some different ideas.
+You should be aiming for a service that's so intuitive people don't need any help in using it. If you find yourself explaining the interface within the interface it's a sign that something has gone wrong. Time to try out some different ideas.
 
-The following principles may help:
+These principles may help:
 
 Follow conventions where possible
 : Hyperlinks are blue, warnings are red etc.
@@ -188,9 +188,9 @@ Use familiar language
 : eg 'Registration number' rather than 'Vehicle Registration Mark'
 
 
-Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining - so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
+Sometimes though, people are going to need extra help. Many government transactions involve concepts and terminology that people will be unfamiliar with. Some of this stuff takes a lot of explaining, so we need a way of providing contextual help of varying degrees of detail throughout a transaction.
 
-Here are three approaches:
+Here are 3 approaches:
 
 Inline help
 : Short, snappy text, positioned near the part of the interface it refers to. If it's something that everyone needs to know, make it permanently visible.
@@ -209,22 +209,22 @@ Here are a few principles to keep in mind when you're designing transactions.
 
 The further in to a transaction someone gets, the more time they have invested in it and the greater their annoyance if they have to abandon it for some reason.
 
-Be honest about what you're offering users, and what you're not offering them. In particular, people need to know up front about the following:
+Be honest about what you're offering users, and what you're not offering them. In particular, people need to know up front about any:
 
-* Any costs involved
-* Any waiting periods or delays
-* Any uncommon or hard-to-find infomation they'll need to provide
-* Any constraints on who can complete the transaction (age, nationality etc)
-* Any equipment that will be required (eg a printer)
-* Any non-digital parts of the transaction
+* costs involved
+* waiting periods or delays
+* uncommon or hard-to-find infomation they'll need to provide
+* constraints on who can complete the transaction (age, nationality etc)
+* equipment that will be required (eg a printer)
+* non-digital parts of the transaction
 
-Use common sense though. Don't try to make everyone to read a page of terms and conditions before they start (they won't).
+Use common sense though. Don't try to make everyone read a page of terms and conditions before they start (they won't).
 
-The best approach is to meet (or exceed) people's expectations. For example, if your delivery times are typical and you accept all the usual payment methods then you wont need to warn everyone about them up front.
+The best approach is to meet (or exceed) people's expectations. For example, if your delivery times are typical and you accept all the usual payment methods then you won't need to warn everyone about them up front.
 
 ### 2. Respect the natural flow of the underlying process
 
-For example, if the underlying process is inherently non linear then choose an interface that works well with non-linear processes. If you try to fit a process into a model it's unsuited for you'll confuse your users and confound their expectations.
+For example, if the underlying process is inherently non-linear then choose an interface that works well with non-linear processes. If you try to fit a process into a model it's unsuited for you'll confuse your users and confound their expectations.
 
 
 ### 3. Consider all aspects of the user experience

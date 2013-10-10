@@ -30,7 +30,7 @@ A user story briefly explains:
 
 User stories are an essential part of the agile toolkit. They’re a way of organising your work into manageable chunks that create tangible value, and can be discussed and prioritised independently.
 
-User stories are a technique which relies on other agile practices, including continuous delivery, and face-to-face communication with user representatives. It is not sufficient to simply 'set' a user representative: that user representative needs to be in the same place as the team and available to the team a sufficient amount of time.
+User stories are a technique which relies on other agile practices, including continuous delivery, and face-to-face communication with user representatives. It's not sufficient to simply 'set' a user representative: that user representative needs to be in the same place as the team and available to the team a sufficient amount of time.
 
 User stories can be added to a product backlog at any point in the sprint cycle by any person in the team. It's up to the product owner to coordinate and prioritise them, and to select stories for each sprint at the start of each sprint cycle.
 
@@ -51,7 +51,7 @@ Your story cards can be virtual, as well as actual cards. On a large product/ser
 
 When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
 
-You might want to include a list of acceptance criteria. These should be an 'aide-memoire' for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+You might want to include a list of acceptance criteria. These should be an aide-memoire for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
 
 If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
 

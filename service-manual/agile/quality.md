@@ -69,7 +69,7 @@ This manual gives further information on testing:
 * [load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
 * [vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
 
-## Team roles and quality assuarance specialists
+## Team roles and quality assurance specialists
 
 The quality of any digital service is the responsibility of the entire team, but the final responsibility lies with the service manager.
 

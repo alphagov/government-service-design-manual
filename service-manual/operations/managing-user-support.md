@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Once you have created [a helpdesk](/service-manual/operations/helpdesk.html), you will want to figure out how to make the best use of user feedback to improve your service and the user experience.
+Once you have created [a helpdesk](/service-manual/operations/helpdesk.html), you'll want to figure out how to make the best use of user feedback to improve your service and the user experience.
 
 ## Stratifying contact data
 
@@ -33,7 +33,7 @@ Minimally, you’ll want to stratify contacts by channel (phone, email, chat, so
 
 ## Potential dimensions for stratification
 
-In addition to the very basic channel and target stratifications mentioned above, you will likely want to consider the following categories as potentially applicable to your contacts/feedback:
+In addition to the very basic channel and target stratifications mentioned above, you'll likely want to consider the following categories as potentially applicable to your contacts/feedback:
 
 **Enquiry type**
 
@@ -46,7 +46,7 @@ Is the contact a:
 * non-actionable rant
 
 **Requester details**
-You will want to be very thoughtful about data collection of user details, given privacy concerns, but you will almost certainly want to gather minimal detail on the requesters of your contacts.
+You'll want to be very thoughtful about data collection of user details, given privacy concerns, but you'll almost certainly want to gather minimal detail on the requesters of your contacts.
 
 **Reply type**
 Is a reply necessary/expected or not?
@@ -61,19 +61,19 @@ Some internal sectional or functional categories along which you’ll want to be
 Aspects of the handling processes you use that you should capture for further analysis--support level, priority, internal resolving group, resolving agent(s), day/date/time received, and day/date/time resolved are all examples you’ll likely want to have available for analysis.
 
 **Root cause category or categories**
-The ultimate reason for the contact; for example, page failing to load, database down, forgotten password, user error, software bug, etc. As with most of these categories, you will tailor these categories based on the specifics of your product and support model.
+The ultimate reason for the contact, eg page failing to load, database down, forgotten password, user error, software bug, etc. As with most of these categories, you'll tailor these categories based on the specifics of your product and support model.
 
 ## Sending the data to appropriate groups
-Once you have gathered data for contact stratification, you’ll need to decide how to share it. If all the data can be handled and used directly within your organisation then this step may be easier, however there will likely be different teams that will act on different types of problems, some of them outside of your department.
+Once you have gathered data for contact stratification, you’ll need to decide how to share it. If all the data can be handled and used directly within your organisation then this step may be easier. However there will likely be different teams that will act on different types of problems, some of them outside of your department.
 
 Depending on the nature of your contact handling systems, you may be able to use automation to do most of this routing, and you should plan for that if possible.
 
 ## Treating contacts as defects
 One very ambitious improvement model that you can use treats each contact from a user as ultimately due to a defect in the service itself, either in your support model for it or in the communications processes you use to handle contacts. 
 
-While this perhaps overstates the reality for some kinds of contacts--is a user’s email of thanks and appreciation genuinely a defect?--it is an excellent way to focus critical thinking on how you provide service. 
+While this perhaps overstates the reality for some kinds of contacts--is a user’s email of thanks and appreciation genuinely a defect?--it's an excellent way to focus critical thinking on how you provide service. 
 
 ## Improvement projects
 Once the contact-level improvement data has been sent to the right group, you can begin doing analysis for process improvement. You may want to marry your contact level data with cost data to help prioritise which areas to target first, but you may also simply use the number (or percentage) of affected users as a prioritisation mechanism. 
 
-In any case, you will want to have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle contacts and those who built the service into improvement projects will yield better and faster results.
+In any case, you'll want to have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle contacts and those who built the service into improvement projects will yield better and faster results.

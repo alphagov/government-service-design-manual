@@ -19,11 +19,11 @@ breadcrumbs:
 
 Many large organisations have evolved to have very separate development, quality assurance and operations business units. In many cases the overhead of communications and the misaligned incentives of the different groups leads to slow delivery and a mountain of interconnected processes. In extreme cases these units may be geographically separated, work for different organisations or under completely different management structures.
 
-Devops is a cultural and professional movement which has grown out of these frustrations. It is not a methodology or framework, rather some high minded principles and a willingness to break down silos. Specifically devops is all about [culture](#culture), [automation](#automation), [measurement](#measurement) and [sharing](#sharing).
+Devops is a cultural and professional movement which has grown out of these frustrations. It's not a methodology or framework; it's honest principles and a willingness to break down silos. Specifically devops is all about [culture](#culture), [automation](#automation), [measurement](#measurement) and [sharing](#sharing).
 
 ### Culture
 
-It is important to realise that devops requires a culture shift, towards shared ownership and collaboration across silos involved in building and managing a service. Especially for existing organisations this is by far the most important element.
+It's important to realise that devops requires a culture shift towards shared ownership and collaboration across silos involved in building and managing a service. Especially for existing organisations, this is by far the most important element.
 
 ### Automation
 
@@ -31,27 +31,27 @@ Many business processes are ripe for automation. Automation removes manual, erro
 
 ### Measurement
 
-Using data to drive change can be hugely powerful, in particular when it is done to involve people from different groups in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can be transformative on its own.
+Using data to drive change can be hugely powerful, in particular when it's done to involve people from different groups in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can be transformative on its own.
 
 ### Sharing
 
-People from different backgrounds (say development and operations) often have different, but intersecting skill sets. Encouraging sharing between groups helps to spread an understanding of the different areas of a successful service, making resolving issues about working together and not about contract negotiation.
+People from different backgrounds (eg development and operations) often have different, but intersecting skill sets. Encouraging sharing between groups helps to spread an understanding of the different areas of a successful service. Sharing helps resolve issues about working together; it's not about contract negotiation.
 
 ## Why we do this
 
-Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos; when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic.
+Without close collaboration between those building and testing software and those running it in production, the quality of the resulting service will be compromised. This happens in many ways, but the root cause is often functional silos: when one group owns a specific area (say quality) it’s easy for other areas to assume that area is no longer their concern. In areas like quality, release management or performance this is toxic.
 
-High quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work.
+High-quality digital services need to be able to adapt quickly to user needs, and this means close collaboration between different groups. A shared sense of ownership of the service and the problem is also important, as is a culture of making measurable improvements to how things work.
 
 ## Good habits
 
-Devops isn’t a project management methodology but you will hopefully adopt some of these good habits in your organisation. These aren’t unique to devops, but they do help with breaking down silos and with the above principles.
+Devops isn’t a project management methodology but you'll hopefully adopt some of these good habits in your organisation. The good habits set out below aren’t unique to devops, but they do help with breaking down silos and with the above principles:
 
-* [Cross-functional teams](/service-manual/the-team) – working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
-* [Widely shared metrics](/service-manual/measurement) – knowing what good looks like across the service is important for everyone, and sharing high and low level metrics as widely as possible is a good way of building understanding.
-* Automating repetitive tasks – using software development to automate tasks from across the service is a good way of fostering a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
-* Post-mortems – issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
-* [Regular releases](/service-manual/making-software/release-strategies.html) – releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
+1. [Cross-functional teams](/service-manual/the-team) – working to break down silos is easiest done when teams are composed of people from different functions. This helps with the team owning the end-to-end quality of service.
+2. [Widely shared metrics](/service-manual/measurement) – knowing what good looks like across the service is important for everyone, and sharing high and low-level metrics as widely as possible is a good way of building understanding.
+3. Automating repetitive tasks – using software development to automate tasks from across the service is a good way of establishing a better understanding of the whole service, as well as freeing up smart people from repetitive manual tasks.
+4. Post-mortems – issues will happen and making sure everyone from across different teams learns from them is critical. Running post-mortems with people from different groups is a great way of spreading knowledge.
+5. [Regular releases](/service-manual/making-software/release-strategies.html) – releasing software is often a bottleneck in siloed organisations, as the responsibilities of the different parts of the release are often spread out across teams. Getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation.
 
 ## Warning signs
 
@@ -67,4 +67,4 @@ Like agile, the term devops is often used for marketing or promotional purposes.
 * [What is this devops thing anyway?](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
 * [What is devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
 * [There’s No Such Thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
-* Those interested in devops are often also interested in [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html), [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html) and [Release Management](https://www.gov.uk/service-manual/making-software/release-strategies.html)
+* those interested in devops are often also interested in [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html), [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html) and [Release Management](https://www.gov.uk/service-manual/making-software/release-strategies.html)

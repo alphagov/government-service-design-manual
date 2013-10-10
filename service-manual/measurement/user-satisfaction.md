@@ -28,34 +28,34 @@ Asking users how satisfied they are with a service can provide you with a measur
 
 ## What you will be measuring
 
-Define user satisfaction as the percentage of people who answered either “very satisfied” or “satisfied” on a 5-point scale in response to the following question.
+Define user satisfaction as the percentage of people who answered either “very satisfied” or “satisfied” on a 5-point scale in response to this question:
 
 Q: Overall, how satisfied were you with this [eg car tax] service today?
 
-  * Very satisfied
-  * Satisfied
-  * Neither satisfied or dissatisfied
-  * Dissatisfied
-  * Very dissatisfied
+* very satisfied
+* satisfied
+* neither satisfied or dissatisfied
+* dissatisfied
+* very dissatisfied
 
 ## How to measure user satisfaction
 
 GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
 
-## What happens if a user exits the transaction mid way through?
+## What happens when a user exits the transaction midway through
 
-Measure all user journeys through your transaction to better understand drop off points.
+Measure all user journeys through your transaction to better understand dropout points.
 
-If a user drops out your should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. Eg,‘please tell us why are you unable to complete this transaction.’
+If a user drops out your should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
 
-Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service drop-off points and find ways to improve transactions.
+Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service dropout points and find ways to improve transactions.
 
 ## When to measure user satisfaction
 
 To successfully measure the user satisfaction of your service, we recommend that you measure through all stages of your service.
 
 ###Discovery
-During the discovery phase:
+During the discovery phase you should:
 
 * benchmark your existing service for future comparison
 * develop a plan to measure user satisfaction throughout product development
@@ -67,15 +67,15 @@ Benchmark user satisfaction via remote usability testing and/or a satisfaction s
 During your beta phase:
 
 * measure user satisfaction via remote usability testing and/or satisfaction survey
-* identify why people are dissatisfied or not completing transactions and take steps to improve user satisfaction levels
+* identify why people are dissatisfied completing transactions and take steps to improve user satisfaction levels
 
 ###Production (live)
-Once your service is live:
+Once your service is live you should:
 
 * measure user satisfaction continually and monitor results on at least a monthly basis
 * carry out a more comprehensive user demographics, usage and attitudes survey every 6 months
 
-## What about post launch?
+## Post-launch measurement
 
 An exit survey will be run continuously on your service, and will report on user satisfaction on a monthly basis. You can use this data to improve your service.
 

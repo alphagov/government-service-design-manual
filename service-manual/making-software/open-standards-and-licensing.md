@@ -24,9 +24,9 @@ Considerations for using open standards and why they matter.
 
 > Please note, this is for guidance purposes only, and should not be taken as [legal advice](http://en.wikipedia.org/wiki/IANACL).
 
-## What is an open standard?
+## Open standards overview
 
-We define open standards for software interoperability, data and document formats, as those which demonstrate all of the following criteria:
+We define open standards for software interoperability, data and document formats, as those which demonstrate all of these criteria:
 
 *Collaboration* - the standard is maintained through a collaborative decision-making process that is consensus based and independent of any individual supplier. Involvement in the development and maintenance of the standard is accessible to all interested parties.
 
@@ -38,19 +38,19 @@ We define open standards for software interoperability, data and document format
 
 *Market support* - other than in the context of creating innovative solutions, the standard is mature, supported by the market and demonstrates platform, application and vendor independence.
 
-*Rights* - rights are essential to implementation of the standard, and for interfacing with other implementations which have adopted that same standard, are licensed on a royalty free basis that is compatible with both [open source](http://opensource.org/licenses/alphabetical) and proprietary licensed solutions. These rights should be irrevocable unless there is a breach of licence conditions.
+*Rights* - rights are essential to implementation of the standard, and for interfacing with other implementations which have adopted that same standard, are licensed on a royalty-free basis that is compatible with both [open source](http://opensource.org/licenses/alphabetical) and proprietary licensed solutions. These rights should be irrevocable unless there is a breach of licence conditions.
 
 ## Building on open standards
 
 There are 7 open standards principles that you should follow when thinking about which open standards to use:
 
-1. We place the needs of our users at the heart of our standards choices
-2. Our selected open standards will enable suppliers to compete on a level playing field
-3. Our standards choices support flexibility and change
-4. We adopt open standards that support sustainable cost
-5. Our decisions on standards selection are well informed
-6. We select open standards using fair and transparent processes
-7. We are fair and transparent in the specification and implementation of open standards
+1. We place the needs of our users at the heart of our standards choices.
+2. Our selected open standards will enable suppliers to compete on a level playing field.
+3. Our standards choices support flexibility and change.
+4. We adopt open standards that support sustainable cost.
+5. Our decisions on standards selection are well informed.
+6. We select open standards using fair and transparent processes.
+7. We are fair and transparent in the specification and implementation of open standards.
 
 We describe the reasons for these principles and their implications in the [Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), published in November 2012.
 
@@ -78,7 +78,7 @@ You’ll also need to apply for an exemption if you want to use an alternative s
 
 By implementing open standards for software interoperability, data and document formats, we are:
 
-* improving our flexibility and the ability for government to deliver services based on users’ needs and avoid digital exclusion based on the technology choices we make
+* improving our flexibility and the ability for government to provide services based on users’ needs and avoid digital exclusion based on the technology choices we make
 * putting in place a level playing field for open source and proprietary software, giving us the ability to move between different technologies without the risk of lock-in
 * making it easier to share appropriate data across and beyond government boundaries to provide efficient services for users and for our delivery partners
 * making the cost of our digital services more sustainable by reducing complexity and encouraging reuse
@@ -91,7 +91,7 @@ Expressing your user needs in terms of required capabilities, which are in turn 
 
 Whether designing and building in-house or outsourcing, you must require solutions that comply with open standards, for software interoperability, data and document formats, where they exist and meet functional needs.
 
-If there is a reason why you think using open standards is inappropriate, then
+If there's a reason why you think using open standards is inappropriate, then
 an exemption may be agreed in advance on an exceptional case-by-case basis.
 Any exemption would be agreed with the government’s Chief Technology Officer
 (or through Departmental Accounting Officer procedures for cases below the Cabinet Office’s

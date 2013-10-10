@@ -41,7 +41,7 @@ The Performance Platform will provide:
 
 This will help with making timely and transparent decisions about your service and the content that government offers.
 
-The platform will combine different sources of information such as:
+The platform will combine different sources of information:
 
 * service desks
 * infrastructure
