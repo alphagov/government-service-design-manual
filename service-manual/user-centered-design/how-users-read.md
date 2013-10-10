@@ -49,7 +49,7 @@ Then you stop reading it.
 
 At that point, you recognise the shape of the word. This speeds up comprehension and speed of reading. So we don’t want people to read. We want people to recognise the ‘shape’ of the word and understand. It’s a lot faster.
 
-Caps are reputed to be 13-18% harder for users to read. So we try to avoid them.
+Caps are reputed to be 13 to 18% harder for users to read. So we try to avoid them.
 
 Also, in modern usage it sounds like we're shouting. We are government. We should not be shouting.
 
