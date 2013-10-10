@@ -39,7 +39,7 @@ The government's [Spend Controls](https://www.gov.uk/government/publications/cab
 
 ## The process
 
-A request for spend approval is likely to require a number of controls - most digital and IT spend requests will also require commercial approval to make sure they are aligned to [government procurement policy](http://procurement.cabinetoffice.gov.uk/policy-capability/latest-policy-and-regulations/public-procurement-policy). 
+A request for spend approval is likely to require a number of controls – most digital and IT spend requests will also require commercial approval to make sure they are aligned to [government procurement policy](http://procurement.cabinetoffice.gov.uk/policy-capability/latest-policy-and-regulations/public-procurement-policy).
 
 Each department has a GDS account manager who will ensure that other areas of Cabinet Office are engaged as needed when considering a case. An online controls tool has been introduced to support this process and give full visibility on case progress.
 
@@ -53,7 +53,7 @@ The controls process has changed over time to ensure:
 
 ## What will be examined
 
-GDS will examine and challenge all technology-related spending over a certain threshold - no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are set out in our [technology code of practice](https://www.gov.uk/service-manual/technology/code-of-practice.html):
+GDS will examine and challenge all technology-related spending over a certain threshold – no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are set out in our [technology code of practice](/service-manual/technology/code-of-practice.html):
 
 These thresholds cover all technology expenditure, including:
 
