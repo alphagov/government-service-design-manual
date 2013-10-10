@@ -94,4 +94,4 @@ It is recommended that all surveys are tested thoroughly to ensure the correct d
 
 ## Further reading
 
-[University of Leeds - Guide to design of questionnaires](http://iss.leeds.ac.uk/info/312/surveys/217/guide_to_the_design_of_questionnaires)
+[University of Leeds - Guide to design of questionnaires](http://iss.leeds.ac.uk/downloads/file/125/guide_to_the_design_of_questionnaires)
