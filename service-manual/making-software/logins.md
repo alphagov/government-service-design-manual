@@ -28,9 +28,9 @@ Building a login system is a significant undertaking. While there are numerous
 open source libraries that make it trivial to add login functionality to your
 service, there are significant downsides:
 
-  * significantly increasing your user support overhead (people forget how to sign in, lose their passwords, etc)
-  * gathering personal data that you will need to constantly review and protect
-  * adding a relatively complex interaction for users to complete
+* significantly increasing your user support overhead (people forget how to sign in, lose their passwords, etc)
+* gathering personal data that you will need to constantly review and protect
+* adding a relatively complex interaction for users to complete
 
 ## Find alternatives
 
