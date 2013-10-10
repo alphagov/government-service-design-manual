@@ -88,7 +88,8 @@ guess than a short collection of symbols or a single word.
   but it increased our confidence that our users would be picking good
   passphrases.
 
-All new government services should be served over HTTPS to ensure the
+All new government services should be served over
+[HTTPS](/service-manual/domain-names/https.html) to ensure the
 communication between the user and the service is encrypted. This is
 especially important when logging in.
 
