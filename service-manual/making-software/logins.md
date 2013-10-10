@@ -28,7 +28,8 @@ Building a login system is a significant undertaking. While there are numerous
 open source libraries that make it trivial to add login functionality to your
 service, there are significant downsides:
 
-* significantly increasing your user support overhead (people forget how to sign in, lose their passwords, etc)
+* significantly increasing your user support overhead (people forget how to
+  sign in, lose their passwords, etc)
 * gathering personal data that you will need to constantly review and protect
 * adding a relatively complex interaction for users to complete
 
@@ -87,7 +88,8 @@ guess than a short collection of symbols or a single word.
   but it increased our confidence that our users would be picking good
   passphrases.
 
-All new government services should be served over HTTPS to ensure the
+All new government services should be served over
+[HTTPS](/service-manual/domain-names/https.html) to ensure the
 communication between the user and the service is encrypted. This is
 especially important when logging in.
 
