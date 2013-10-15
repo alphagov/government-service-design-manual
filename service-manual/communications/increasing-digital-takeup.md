@@ -14,7 +14,7 @@ breadcrumbs:
     url: /service-manual
 ---
 
-It’s essential to increase the take-up of government digital services so more users can experience the benefits of redesigned government services. Increased take-up will also make it possible for [assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service. 
+It’s essential to increase the take-up of government digital services so more users can experience the benefits of redesigned government services. Increased take-up will also make it possible for [assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service.
 
 Digital take-up is one of the four key performance indicators your service will need to [benchmark, measure and monitor](/service-manual/measurement/digital-takeup.html) in order to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
@@ -83,7 +83,7 @@ Use this information as a step-by-step checklist for increasing your digital tak
 * investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
     * charging users less for digital transactions
     * extending submission deadlines (eg Self Assessment tax returns)
-    * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s Information Assurance team, so it’s important to engage them early
+    * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
 
 ###6. Overcome legislative barriers by:
 

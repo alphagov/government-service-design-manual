@@ -5,7 +5,7 @@ subtitle: Identifying insecurities in your service
 category: operations
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: developers, tech-archs
 status: draft
 breadcrumbs:
@@ -25,13 +25,17 @@ It's often a good idea to view security testing as an ongoing activity for any p
 
 ## Involve the right people
 
-Security is important to both a product and technical audience. It's essential that vulnerability testing reports and the risks they identify are understood by non-technical audiences as well a developer audience. 
+Security is important to both a product and technical audience. It's essential
+that vulnerability testing reports and the risks they identify are understood
+by non-technical audiences as well a developer audience.
 
 Security is rarely binary, in that it's not generally a matter of being secure or not, rather reducing the risks of a wide range of potential issues.
 
 ### Liaise with CESG
 
-[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the National Technical Authority for Information Assurance. Based in Cheltenham, they provide both standards and advice for information security. 
+[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the National Technical
+Authority for information assurance. Based in Cheltenham, they provide both
+standards and advice for information security.
 
 For any sizeable project it's wise to engage with them as early as possible. They can provide guidance and expertise on potential problems and help you make sure the right things are tested.
 
@@ -41,9 +45,12 @@ Testing for security issues should be done throughout the development of a servi
 
 ## Not just software
 
-Remember that when testing for vulnerability to look at the whole system, not just the software involved. 
+Remember that when testing for vulnerability to look at the whole system, not
+just the software involved.
 
-An obvious example would be physical security (where is the equipment housed and how secure is it?) but a more interesting example is often the interplay between an online system and a call centre. 
+An obvious example would be physical security (where is the equipment housed
+and how secure is it?) but a more interesting example is often the interplay
+between an online system and a call centre.
 
 It may be that by using information available from a call centre you can exploit the software system in some way. For instance, [getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility which relies on the email address being trusted](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard-here).
 
@@ -59,9 +66,8 @@ The web is a hostile environment, and the nature of government services means th
 
 Web application exploits tend to follow a relatively small number of common patterns, which means automated and manual testing, as well as awareness of these common problems can have a drastic effect on the security of the system.
 
-[The Government Accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required. 
+[The government accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). This should be viewed as the minimum effort required.
 
 ## Further reading
 
 * [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2010)
-
