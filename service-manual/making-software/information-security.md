@@ -65,7 +65,7 @@ address one or more of these concerns through:
 
 Not every system requires a full battery of security controls. Indeed,
 'completely secure systems' don't exist, and overly secure systems are often
-prohibitively expensive or thoroughly inconvenient for their users. 
+prohibitively expensive or thoroughly inconvenient for their users.
 
 You should aim to build services that are *appropriately secure*, and in practice you will
 be guided by an assessment of the risks associated with a lapse in
@@ -123,7 +123,7 @@ CESG Listed Adviser Scheme (CLAS) Consultant
 
 CESG (originally Communications-Electronics Security Group)
 : [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency
-  responsible for Information Security. They can provide technical assistance or
+  responsible for information security. They can provide technical assistance or
   consultation on project issues.
 
 All projects, however small, should involve some level of assurance. This may be
@@ -168,7 +168,7 @@ The Risk Management Document Set or RMADS are the result of the formal accredita
 
 ## IT Health Check (ITHC)
 
-The IT Health Check (ITHC) forms part of the formal Accreditation. In essence it's a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about [penetration and vulnerability testing](/service-manual/operations/penetration-testing.html) for more details.
+The IT Health Check (ITHC) forms part of the formal accreditation. In essence it's a penetration test carried out by a CESG approved supplier (specifically a CHECK certified individual). Read the guide about [penetration and vulnerability testing](/service-manual/operations/penetration-testing.html) for more details.
 
 ## Ongoing
 
@@ -180,16 +180,16 @@ Documentation should be kept up-to-date and additional penetration tests organis
 
 It is important to start understanding risks and engaging with the assurance and accreditation process as early in a project as possible. This checklist is a good starting place for milestones to add to a project plan:
 
-1. Identify the SIRO.
-2. Work with an accreditor to identify the Business Impact Levels.
-3. Confirm with the SIRO the target Business Impact Levels.
-4. Confirm with the SIRO whether a formal Accreditation is required.
-5. Procure a CLAS consultant if needed for the Accreditation work.
-6. If possible establish a contact at CESG who can offer assistance and some technical oversight.
-7. Produce supporting documentation; for example architecture documentation, risks and mitigations, operating processes, references to GPGs, controls.
-8. Work with the CLAS consultant on completing the RMADS if required.
-9. Arrange the ITHC.
-10. Present to the SIRO to get final sign-off.
+1. Identify the SIRO
+2. Work with an accreditor to identify the Business Impact Levels
+3. Confirm with the SIRO the target Business Impact Levels
+4. Confirm with the SIRO whether a formal accreditation is required
+5. Procure a CLAS consultant if needed for the accreditation work
+6. If possible establish a contact at CESG who can offer assistance and some technical oversight
+7. Produce supporting documentation; for example architecture documentation, risks and mitigations, operating processes, references to GPGs, controls
+8. Work with the CLAS consultant on completing the RMADS if required
+9. Arrange the ITHC
+10. Present to the SIRO to get final sign-off
 
 ## Risk management
 
@@ -202,10 +202,10 @@ The aim is a system where the risks are known and the team, working with risk pr
 ## Further reading
 
 * [Security Engineering — Ross
-  Anderson](http://www.cl.cam.ac.uk/~rja14/book.html): a comprehensive textbook covering the theory and practice of building secure systems.
-* [HMG IA Standard No. 1 – Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems.
-* [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/): a brief introduction to Business Impact Levels.
-* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables.
+  Anderson](http://www.cl.cam.ac.uk/~rja14/book.html): a comprehensive textbook covering the theory and practice of building secure systems
+* [HMG IA Standard No. 1 – Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems
+* [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/): a brief introduction to Business Impact Levels
+* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance
