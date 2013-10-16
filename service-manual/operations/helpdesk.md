@@ -40,7 +40,7 @@ You’ll also want to have at least some idea of the average handling time (AHT)
 
 If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
 
-## Service level: reposnse speed to user contacts
+## Service level: repsonse speed to user contacts
 
 You’ll also need to have an idea of the service level that should be maintained by your helpdesk.  
 
