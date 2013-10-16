@@ -40,7 +40,7 @@ You’ll also want to have at least some idea of the average handling time (AHT)
 
 If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
 
-## Service level: reposnse speed to user contacts
+## Service level: response speed to user contacts
 
 You’ll also need to have an idea of the service level that should be maintained by your helpdesk.  
 
@@ -54,7 +54,7 @@ Once you’ve planned for volume, handling time, and service level, you can fina
 
 The same historical volume you used to create your contact forecast will likely give you an idea of how the contacts will be received throughout the planning period (likely a week). This, in turn, will give you good direction on how to schedule your helpdesk staff to achieve the service level you’ve planned for.
 
-## Data collection and reporting: monoitoring the live service
+## Data collection and reporting: monitoring the live service
 
 Once your helpdesk is operational and actually supporting users, you can collect data on all the areas for which you planned. This data can then be used to improve and refine the forecasts you made previously and to create longer term projections about the performance of your Helpdesk.  
 
