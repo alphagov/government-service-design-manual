@@ -5,8 +5,8 @@ subtitle: How to incorporate user contacts into design
 category: operations
 type: guide
 status: draft
-audience: 
-  primary: 
+audience:
+  primary:
   secondary: service-managers
 status: draft
 phases:
@@ -28,37 +28,55 @@ Your planning will be greatly aided by drawing on the traditional contact centre
 
 ## Volume forecast: the type and amount of contacts you'll get
 
-You’ll need to have some idea of the volume and type of contacts that you'll receive for the service you’re supporting. In many cases, you can use historical data for similar services as a baseline. 
+You’ll need to have some idea of the volume and type of contacts that you'll
+receive for the service you’re supporting. In many cases, you can use
+historical data for similar services as a baseline.
 
-This element of your planning will also need to take into account the contact channels you intend to support (eg email, phone, chat, Twitter, Facebook, surface mail, etc). Ideally, each of these channels will have a separate contact forecast to aid your planning. 
+This element of your planning will also need to take into account the contact
+channels you intend to support (eg email, phone, chat, Twitter, Facebook,
+surface mail, etc). Ideally, each of these channels will have a separate
+contact forecast to aid your planning.
 
 This portion of your planning will also be informed by or will itself drive decisions about the technology you’ll use to route, handle, and store historical data from these contacts.
 
 ## Handling time: the time needed to deal with the contacts
 
-You’ll also want to have at least some idea of the average handling time (AHT) and variance for each type of contact. 
+You’ll also want to have at least some idea of the average handling time (AHT)
+and variance for each type of contact.
 
 If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
 
 ## Service level: response speed to user contacts
 
-You’ll also need to have an idea of the service level that should be maintained by your helpdesk.  
+You’ll also need to have an idea of the service level that should be
+maintained by your helpdesk.
 
-Generally, service level (SL or SLA) is expressed as x per cent of contacts resolved in y time units. As an example, you might plan to answer 80% of your incoming email contacts in 24 hours.  
+Generally, service level (SL or SLA) is expressed as x per cent of contacts
+resolved in y time units. As an example, you might plan to answer 80% of your
+incoming email contacts in 24 hours.
 
 You’ll need to know the desired service level to plan how many agents you’ll need for your helpdesk.  Conversely, if your staffing is constrained by other factors, you may use this value as a constant and solve for the best service level that can be achieved at a certain volume level.
 
 ## Staffing and scheduling: requirements for a successful helpdesk
 
-Once you’ve planned for volume, handling time, and service level, you can finalise your demand forecast for contacts and plan to add staff as necessary to handle these contacts. 
+Once you’ve planned for volume, handling time, and service level, you can
+finalise your demand forecast for contacts and plan to add staff as necessary
+to handle these contacts.
 
 The same historical volume you used to create your contact forecast will likely give you an idea of how the contacts will be received throughout the planning period (likely a week). This, in turn, will give you good direction on how to schedule your helpdesk staff to achieve the service level you’ve planned for.
 
 ## Data collection and reporting: monitoring the live service
 
-Once your helpdesk is operational and actually supporting users, you can collect data on all the areas for which you planned. This data can then be used to improve and refine the forecasts you made previously and to create longer term projections about the performance of your Helpdesk.  
+Once your helpdesk is operational and actually supporting users, you can
+collect data on all the areas for which you planned. This data can then be
+used to improve and refine the forecasts you made previously and to create
+longer term projections about the performance of your helpdesk.
 
-You'll want to develop at least minimal reporting to allow you to evaluate how the group itself and the individuals in it are performing. Depending on the size of your helpdesk and the details of your contact mix, this might be very detailed and sophisticated or very simple, but you’ll want to plan for how to measure these elements from the very beginning. 
+You'll want to develop at least minimal reporting to allow you to evaluate how
+the group itself and the individuals in it are performing. Depending on the
+size of your helpdesk and the details of your contact mix, this might be very
+detailed and sophisticated or very simple, but you’ll want to plan for how to
+measure these elements from the very beginning.
 
 ## Going further
 

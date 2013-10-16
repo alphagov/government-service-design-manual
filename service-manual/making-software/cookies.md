@@ -5,7 +5,7 @@ subtitle: When to use them, and when to tell users about them
 category: making-software
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers, designers, developers, tech-archs
 status: draft
 phases:
@@ -111,4 +111,4 @@ Cookies must be sent with the `Secure` attribute and should, where appropriate, 
 ## Further reading
 [The ICO's latest guidance](http://www.ico.gov.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies.aspx)
 
-This [blog post by GDS Developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](https://www.gov.uk).
+This [blog post by GDS developer Dafydd Vaughan](http://digital.cabinetoffice.gov.uk/2012/01/12/cookies-on-the-beta/) explains how cookies were used on the beta version of [GOV.UK](https://www.gov.uk).

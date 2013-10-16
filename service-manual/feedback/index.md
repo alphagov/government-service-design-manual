@@ -17,7 +17,7 @@ Please send us your thoughts: [dbdss@digital.cabinet-office.gov.uk](mailto:dbdss
 
 We'll use your feedback to help improve this tool.
 
-### Guiding Questions
+### Guiding questions
 
 Please offer feedback as appropriate. In particular, we would like to know if;
 
