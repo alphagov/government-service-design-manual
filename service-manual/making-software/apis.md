@@ -45,9 +45,13 @@ Provide links to machine-friendly formats from human readable pages, and enable 
 
 Use standard formats for content, and follow established web patterns for authentication.
 
-Building a service to enjoy mass adoption and support from a wide, disparate community of developers and programming environments while being able to reach a world-wide audience is difficult. While proprietary and open technologies abound for machine-to-machine communication, none of them have the web's interoperability, reach and ability to scale.
+Building a service to enjoy mass adoption and support from a wide, disparate
+community of developers and programming environments while being able to reach
+a worldwide audience is difficult. While proprietary and open technologies
+abound for machine-to-machine communication, none of them have the web's
+interoperability, reach and ability to scale.
 
-Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Ptotocol) and URIs (uniform resource identifiers), the core technologies of the web,  with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
+Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URIs (uniform resource identifiers), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
 
 ### Give each thing a bookmarkable URI
 Expose data as a set of resources, offering a [clean URL](http://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.
@@ -59,9 +63,11 @@ Consider creating URIs for different granularity of resources. For example, `/me
 These principles enable network effects which arise through linking and allow information published beyond the web, sent in alerts email, SMS, XMPP and other messages, to link back to the canonical content on the web.
 
 ### Use HTTP methods as Tim intended
-Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_\(HTTP\)), PUT or DELETE method.
+Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_(HTTP)), PUT or DELETE method.
 
-Use PUT and DELETE with caution, as they are commonly blocked by firewalls, intranet proxies, hotel wi-fi and mobile operators: always offer a POST alternative.
+Use PUT and DELETE with caution, as they are commonly blocked by firewalls,
+intranet proxies, hotel Wi-Fi and mobile operators: always offer a POST
+alternative.
 
 Avoid HTTP methods which are not well defined, such as PATCH.
 
@@ -71,7 +77,7 @@ Offer content for each thing as a human-readable HTML, with links to content in 
 - [JSON](http://en.wikipedia.org/wiki/JSON) for convenient processing in most programming languages
 - [JSONP](http://en.wikipedia.org/wiki/JSONP) and JSON with [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) for client-side JavaScript
 - [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) for importing into spreadsheets
-- [Atom](http://en.wikipedia.org/wiki/Atom_\(standard\)) for [feeds](http://en.wikipedia.org/wiki/Web_feed).
+- [Atom](http://en.wikipedia.org/wiki/Atom_(standard)) for [feeds](http://en.wikipedia.org/wiki/Web_feed)
 
 Where possible, also offer other formats most suited to a specific domain, such as:
 
@@ -80,20 +86,20 @@ Where possible, also offer other formats most suited to a specific domain, such 
 - [KML](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](http://en.wikipedia.org/wiki/GeoRSS) for geographical data
 - [m3u](http://en.wikipedia.org/wiki/.m3u) for playlists
 
-_This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)._
+This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centered-design/choosing-appropriate-formats.html).
 
 Include hyperlinks to alternative representations as [link headers](http://www.w3.org/TR/html51/document-metadata.html#the-link-element) as well as in content.
 
-_Consider also encoding meta-data inside HTML content using semantic markup: [Microformats](http://microformats.org/). [RDFa](http://en.wikipedia.org/wiki/Rdfa) or [schema.org](http://schema.org/)._
+Consider also encoding metadata inside HTML content using semantic markup: [Microformats](http://microformats.org/), [RDFa](http://en.wikipedia.org/wiki/Rdfa) or [schema.org](http://schema.org/).
 
-The representations supported by an API for input will vary depending upon the complexity of the action, but where possible should include `application/x-www-form-urlencoded` to allow the construction of simple [POST](http://en.wikipedia.org/wiki/POST_\(HTTP\)) forms.
+The representations supported by an API for input will vary depending upon the complexity of the action, but where possible should include `application/x-www-form-urlencoded` to allow the construction of simple POST forms.
 
 ### Names reinforce conventions
 Use names for fields, formats and path segments in a URI path consistently across your API.
-Establish conventions others may easily follow, and anticipate.
+Establish conventions others may easily follow and anticipate.
 Where possible, reuse names widely used elsewhere on the web, as with the [Microformats naming policy](http://microformats.org/wiki/naming-principles).
 
-### Document by discovery … and example
+### Document by discovery… and example
 Building a website which exposes the data through links, and services through HTML forms encourages exploration and leads to [discovery through hypertext](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven).
 
 Provide documentation for your API using examples. Collect how people are using your API, especially link to any open source projects for projects, wrappers and programming language libraries. Provide simple ways to experiment, as with [The Guardian API explorer](http://explorer.content.guardianapis.com/).
@@ -106,7 +112,7 @@ Lower the barriers to others using your data: don't demand registration or API k
 
 Open data increases the number of people able to use your data and service, and leads to feedback loops where consumers become motivated to resolve issues at source, feeding back issues and correction to your service and its data.
 
-Where content is sensitive, or requires authentication, use encryption (HTTPS - Hypertext Transfer Protocol Secure) and a standard authentication such as [Basic Authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
+Where content is sensitive, or requires authentication, use HTTPS encryption (Hypertext Transfer Protocol Secure) and a standard authentication such as [basic authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
 
 ### Practice service evolution
 
@@ -133,7 +139,7 @@ You should consider carefully how you intend to test your integration with the s
 
 Many of the GOV.UK publishing applications send emails to provide alerts for [content designers](/service-manual/the-team/content-designer.html). When running tests we don't want to send lots of fake emails so we swap the normal email adapter for one that logs the emails it would have sent. This lets us test our code is doing the right thing without depending on external services.
 
-Our 'data insights' code involves significant interactions with [Google Analytics](http://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to Google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of Google's API that lets us check the right data is being sent.
+Parts of our [Performance Platform](/service-manual/measurement/performance-platform.html) code involve significant interactions with [Google Analytics](https://www.google.co.uk/analytics/). It wouldn't be practical to test this by sending events to Google, waiting for them to be processed, and then reviewing the results. Our developers therefore built a mock service that can be run alongside tests and provides a dummy version of Google's API that lets us check the right data is being sent.
 
 Our publishing systems make use of a single sign-on service. In most of our tests the interaction with that service are mocked so the applications' tests can be run in isolation, but we also have a suite of smoke tests that run in our preview environment and use dummy accounts to ensure that the full authentication and authorisation flow is working.
 
@@ -148,15 +154,14 @@ You should be clear with your users about what's happening. If a third-party pay
 
 ##Further reading
 
-* the [API Craft Group](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs.
-* the Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, a including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet).
-* the WhiteHouse are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide.
+* [API Craft](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs
+* The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+* The White House are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide
 
-*[APIs]: Application Programme Interfaces
-*[API]: Application Programme Interface
-*[URI]: uniform resource identifier)
+*[APIs]: application programming interfaces
+*[API]: application programming interface
+*[URI]: uniform resource identifier
 *[URLs]: uniform resource locators
 *[URL]: uniform resource locator
-*[HTTPs]: Hypertext Transfer Ptotocols
-*[HTTP]: Hypertext Transfer Ptotocol
-
+*[HTTP]: Hypertext Transfer Protocol
+*[HTTPS]: Hypertext Transfer Protocol Secure
