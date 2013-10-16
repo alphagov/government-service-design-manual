@@ -72,11 +72,11 @@ You should try to not complicate the interface by having multiple search boxes o
 
 ### Using the GOV.UK logotype
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/)
+You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
 
 ## Footers
 
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service including user support and feedback.
+The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or leave feedback about your service (such as email addresses, phone numbers or contact forms).
 
 The footer should also state the appropriate copyright and licence notices.
 
