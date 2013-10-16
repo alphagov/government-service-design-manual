@@ -33,9 +33,9 @@ In order to protect users from spam email providers put in place a variety of ch
 to use a trusted specialist third-party to dispatch email as they will have tools and expertise to help ensure
 that you pass those checks. As a minimum you should:
 
-* Ensure there is an MX record set up for the domain from which you send email
-* Enable SPF on the sending domain.
-* Consider using DKIM on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
+* Ensure there is an [MX record](http://en.wikipedia.org/wiki/MX_record) set up for the domain from which you send email
+* Enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain.
+* Consider using [DKIM](http://en.wikipedia.org/wiki/DomainKeys_Identified_Mail) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
 Before releasing your service you should test your email delivery. As a minimum you should use your service with
 registered email addresses from a range of popular email providers and ensure that emails arrive as you expect.
