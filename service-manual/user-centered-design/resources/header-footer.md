@@ -76,7 +76,7 @@ You can only use the GOV.UK logotype if your service is [currently available on 
 
 ## Footers
 
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service including user support and feedback.
+The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or leave feedback about your service (such as email addresses, phone numbers or contact forms).
 
 The footer should also state the appropriate copyright and licence notices.
 
