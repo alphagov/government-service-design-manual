@@ -88,7 +88,7 @@ Do you think that your assisted digital users:
 
 By the end of the alpha stage of your digital transformation, you will need to be able to answer these questions:
 
-1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, based upon evidence based research?
+1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, established by evidence-based research?
 2. What might the assisted digital user journey look like? Is there a preference for:
   * face-to-face support with someone doing the transaction alongside them
   * telephone support
