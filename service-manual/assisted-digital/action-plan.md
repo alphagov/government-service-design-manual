@@ -51,17 +51,16 @@ Your understanding of the number of users who may require support and what their
 
 ###Building your digital service
 
-A good starting point is to consider how many users use current online digital
-services which your department may currently offer to understand how many
-users opt for offline channels. Information about the digital take-up of some
-services is available on the [Transactions
-Explorer](https://www.gov.uk/performance/transactions-explorer).
+A good starting point is to look at the digital services your department
+offers to understand how many users currently opt for offline channels.
+Information about the digital take-up of some services is available on the
+[Transactions Explorer](https://www.gov.uk/performance/transactions-explorer).
 
 It would also be useful to understand the demographic makeup of your users to gain more insight as to those who may require assisted digital support. You could use this in conjunction with the [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) which provides a cross-population view of who's online and who's offline.
 
 Once you have an idea as to who your assisted digital users are, you can start
 early work to focus on what these users may need. Look at how existing support
-for your service helps users make the transaction. Support is already
+for your service helps users complete the transaction. Support is already
 available if:
 
 * some of your users go to intermediaries or proxy users to access your digital service
