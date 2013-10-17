@@ -5,7 +5,7 @@ category: domain-names
 type: category-index
 audience:
   primary: service-managers, web-ops, tech-archs
-  secondary: 
+  secondary:
 status: draft
 phases:
   - discovery
@@ -32,5 +32,5 @@ gdsapprovals@digital.cabinet-office.gov.uk.
 Once your service has an agreed name, you will need to supply the following information to your GDS contact who will put you in touch with the GDS Infrastructure Team to arrange delegation.
 
 1. Service name e.g. {service-name}.service.gov.uk
-2. DNS Servers to delegate to (ask your technical team for these)
+2. DNS servers to delegate to (ask your technical team for these)
 3. Date you need it by (at least 5 working days notice)

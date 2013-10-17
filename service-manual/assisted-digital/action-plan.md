@@ -22,7 +22,7 @@ breadcrumbs:
 ---
 
 The information in this document will help you to:
- 
+
 * understand the needs of your assisted digital users
 * develop assisted digital support that meets their needs
 
@@ -33,8 +33,11 @@ The information in this document will help you to:
 
 ##How to develop assisted digital support
 
-Some new digital services will have a greater assisted digital requirement than others. However, all new digital services will need to demonstrate that appropriate plans have been put into place for those users who will need assistance in order to meet the Digital by [Default Service Standard](/service-manual/digital-by-default).
-
+Some new digital services will have a greater assisted digital requirement
+than others. However, all new digital services will need to demonstrate that
+appropriate plans have been put into place for those users who will need
+assistance in order to meet the [Digital by Default Service
+Standard](/service-manual/digital-by-default).
 
 ##Discovery: understanding your assisted digital users and their needs.
 
@@ -47,11 +50,18 @@ By the end of the discovery stage of your digital transformation, you should hav
 Your understanding of the number of users who may require support and what their needs are will be at a very early stage and have a number of gaps. As you build your service you'll be able to fill these gaps and iterate your initial answers.
 
 ###Building your digital service
-A good starting point is to consider how many users use current online digital services which your department may currently offer to understand how many users opt for offline channels. Information about the digital take-up of some services is available on the [Transaction Explorer](https://www.gov.uk/performance/transactions-explorer).
+
+A good starting point is to look at the digital services your department
+offers to understand how many users currently opt for offline channels.
+Information about the digital take-up of some services is available on the
+[Transactions Explorer](https://www.gov.uk/performance/transactions-explorer).
 
 It would also be useful to understand the demographic makeup of your users to gain more insight as to those who may require assisted digital support. You could use this in conjunction with the [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) which provides a cross-population view of who's online and who's offline.
 
-Once you have an idea as who your assisted digital users are, you can start early work to focus on what these users may need. Look at how existing support for your service helps users make the transaction. Support is already available if:
+Once you have an idea as to who your assisted digital users are, you can start
+early work to focus on what these users may need. Look at how existing support
+for your service helps users complete the transaction. Support is already
+available if:
 
 * some of your users go to intermediaries or proxy users to access your digital service
 * your department works with organisations who help people develop digital skills
@@ -62,7 +72,10 @@ This support may be formally put in place by your department, happening informal
 * there might be intermediary groups, like lawyers, who are involved in the service delivery process
 * if your service has a high proportion of older users, charities may be helping those users access services
 
-To help you move into alpha, you can start work with these intermediaries and organisations now to understand the needs of potential assisted digital users. Even at this early stage, start thinking about the reasons why users may need some form of assisted digital support. 
+To help you move into alpha, you can start work with these intermediaries and
+organisations now to understand the needs of potential assisted digital users.
+Even at this early stage, start thinking about the reasons why users may need
+some form of assisted digital support.
 
 Do you think that your assisted digital users:
 
@@ -71,11 +84,11 @@ Do you think that your assisted digital users:
 * lack confidence in doing digital transactions with government?
 * a combination of the above?
 
-##Alpha: developing preferred options for assisted digital provision.
+##Alpha: developing preferred options for assisted digital provision
 
 By the end of the alpha stage of your digital transformation, you will need to be able to answer these questions:
 
-1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, based upon evidence based research? 
+1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, established by evidence-based research?
 2. What might the assisted digital user journey look like? Is there a preference for:
   * face-to-face support with someone doing the transaction alongside them
   * telephone support
@@ -99,7 +112,10 @@ If someone has internet access and skills, but prefers not to use the digital se
 
 As a part of [agile methodology](/service-manual/agile), develop [user stories](/service-manual/agile/writing-user-stories.html) based upon these user needs.
 
-Use the user stories to visualise what the assisted digital user journey will look like. Draw it out step by step, using a series of post-it notes to plot the user journey. Every time a user interacts digitally in the transaction, consider the support that an assisted digital user would need. 
+Use the user stories to visualise what the assisted digital user journey will
+look like. Draw it out step by step, using a series of post-it notes to plot
+the user journey. Every time a user interacts digitally in the transaction,
+consider the support that an assisted digital user would need.
 
 GDS regularly meet a panel of user experts and have published information on work already carried out with these groups on the [GDS blog](http://digital.cabinetoffice.gov.uk/category/assisted-digital/). GDS can introduce you to these organisations.
 
@@ -112,7 +128,7 @@ People you should involve at this stage are:
 
 At this point, [exemplar departments](https://www.gov.uk/transformation) have found it useful to formalise thinking on assisted digital by creating an assisted digital strategy or plan. Any such plan should be able to answer, in reasonable detail, the questions above which allow a digital service to pass [the standard](/service-manual/digital-by-default/index.html).
 
-As per the ['Government Approach to Assisted Digital'](http://publications.cabinetoffice.gov.uk/digital/assisted/), support should be sourced from the private and voluntary sector as the default. GDS, departments and the Government Procurement Service have begun market engagement to set up a shared procurement route for commissioning assisted digital services. 
+As per the ['Government Approach to Assisted Digital'](http://publications.cabinetoffice.gov.uk/digital/assisted/), support should be sourced from the private and voluntary sector as the default. GDS, departments and the Government Procurement Service have begun market engagement to set up a shared procurement route for commissioning assisted digital services.
 
 However, if you'd like to provide assisted digital support in-house, you need to let us know at this stage and make sure that you can provide a strong, value for money case.
 
@@ -121,7 +137,7 @@ However, if you'd like to provide assisted digital support in-house, you need to
 By the end of the beta stage of your digital transformation, you'll need to be able to answer these questions:
 
 1. What have you done to pilot your proposed assisted digital support?
-2. What can be done to iterate the support, based on what you have learnt? 
+2. What can be done to iterate the support, based on what you have learnt?
 
 To meet [the standard](/service-manual/digital-by-default/index.html), your digital transformation project will be allowed to go live only after you've piloted your assisted digital support.
 
