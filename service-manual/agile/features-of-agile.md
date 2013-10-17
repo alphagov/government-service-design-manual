@@ -44,7 +44,9 @@ Start the process with a sprint 0. This sprint is about preparing your team for 
 * agree some of the design principles (technical, product, interaction, content)
 * prepare the product backlog for the first sprint
 
-While there are other agile methodologies that don’t rely on sprinting, such as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common for teams to start with Seams. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere!
+While there are other agile methodologies that don’t rely on sprinting, such
+as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common
+for teams to start with Scrum.
 
 ## Standard meetings
 
@@ -82,7 +84,9 @@ A good description of sprint planning is on the [Agile Learning Labs website](ht
 * what we will do?
 * how we will do it?
 
-This meeting can be hard to get right with large teams. Some people want to dig deep and question every story; others want to keep moving and don’t want to go into detail. Persevere!
+This meeting can be hard to get right with large teams. Some people want to
+dig deep and question every story; others want to keep moving and don’t want
+to go into detail. Persevere!
 
 ### Sprint review
 

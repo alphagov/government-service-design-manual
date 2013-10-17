@@ -45,7 +45,10 @@ Accessibility testing with participants with a range of needs is best conducted 
 
 It is often difficult to conduct accessibility testing early on in the process of service design. The service must be fairly robust in order for it to be evaluated by people using assistive technologies, eg a screen reader will read out the contents of a web page so the code needs to be well structured.
 
-For accessibility testing to be worth doing, real content needs to be in place rather than ‘dummy text’ if it is to be assessed by those with any cognitive or learning difficulties. Interactive elements such as Calls To Action, hyperlinks, forms, etc must be in place if motor skills are being assessed.
+For accessibility testing to be worth doing, real content needs to be in place
+rather than dummy text so that it can be assessed by those with any cognitive
+or learning difficulties. Interactive elements such as calls to action,
+hyperlinks, forms, etc must be in place if motor skills are being assessed.
 
 ## Accessibility audits
 

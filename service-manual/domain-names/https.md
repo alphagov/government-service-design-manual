@@ -5,7 +5,7 @@ category: domain-names
 type: category-index
 audience:
   primary: service-managers, web-ops, tech-archs
-  secondary: 
+  secondary:
 status: draft
 phases:
   - discovery
@@ -67,7 +67,7 @@ seeing the verification email and responding. If this is necessary, then first s
 you intend to use for verification from your own email address warning that an SSL verification is needed for
 your service.
 
-The GDS Infrastructure team can validate requests sent to the following addresses:
+The GDS Infrastructure Team can validate requests sent to the following addresses:
 
     hostmaster@digital.cabinet-office.gov.uk
     webops@digital.cabinet-office.gov.uk

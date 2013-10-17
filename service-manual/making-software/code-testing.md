@@ -20,8 +20,10 @@ breadcrumbs:
     title: Making software
     url: /service-manual/making-software
 ---
-    
-We use automated testing to ensure that our code does what is intended, to protect against mis-use of that code, and to provide assurance that iterating that code for better design or new features doesn't break existing behaviour. 
+
+We use automated testing to ensure that our code does what is intended, to
+protect against misuse of that code, and to provide assurance that iterating
+that code for better design or new features doesn't break existing behaviour.
 
 Automated testing is an important part of our overall approach to [quality](/service-manual/agile/quality) but only one part of it.
 
@@ -31,7 +33,7 @@ There are various approaches to writing automated tests. In particular there are
 
 Many practitioners insisting that automated tests should always be written before the code they seek to test (to ensure careful design and 'just enough' code) while others are happier writing tests after the fact. Tests that are written before the code offer a number of advantages and that approach should be encouraged, but the most important thing is that the whole team works to ensure there are automated tests, that those tests are understood as an asset of the product and that they help you ensure the quality of your code.
 
-It is common to talk about "Behaviour Driven Development" (BDD) as an alternative approach to "test driven development". BDD is an approach to automated testing that focusses on expressing tests in the "[ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html)" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
+It is common to talk about behaviour-driven development (BDD) as an alternative approach to test-driven development. BDD is an approach to automated testing that focusses on expressing tests in the "[ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html)" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
 
 * [Dan North "Introducing BDD"](http://dannorth.net/introducing-bdd/)
 * [Wikipedia on BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)
@@ -43,7 +45,9 @@ Any code written for your service should have a suite of tests operating at two 
 
 ### Acceptance testing
 
-Requires broad tests that run through high-level functionality end-to-end, making sure that the pieces of the system come together to provide the right service. 
+Requires broad tests that run through high-level functionality end-to-end,
+making sure that the pieces of the system come together to provide the right
+service.
 
 A developer should be able to describe the steps in any acceptance test to the product/service manager in a way that makes sense to them and matches how they expect the service to be used (or abused!)
 
