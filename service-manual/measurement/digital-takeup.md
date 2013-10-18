@@ -26,7 +26,7 @@ Digital take-up is a long term strategic measure of how well digital by default 
 
 Digital take-up is the amount of people completing your transaction online, including [assisted digital](/service-manual/assisted-digital/index.html) users.
 
-A digital transaction is one where the main interaction between the user and the service has been through a digital user interface. Still classify transactions as digital, even if only a part of a transaction is completed online.
+A digital transaction is one where the main interaction between the user and the service has been through a digital user interface. Classify transactions as digital, only if a significant a part of a transaction is completed online.
 
 ## How to measure digital take-up
 
