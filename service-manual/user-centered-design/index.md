@@ -35,8 +35,8 @@ People come to GOV.UK with specific needs. Anything that gets between our users 
   <li><a href="/service-manual/user-centered-design/print-forms">Print forms</a> Designing or redesigning paper components for transactions</li>
   <li><a href="/service-manual/user-centered-design/how-users-read">How users read</a> Reading age, reading online, plain English, learning disabilities</li>
   <li><a href="/service-manual/user-centered-design/data-visualisation">Data visualisation</a> Creating valuable and meaningful graphics to help analyse data</li>
-  <li><a href="/service-manual/user-centered-design/resources/typography">Typography</a>< Using easy-to-read type with consistent styles/li>
-  <li><a href="/service-manual/user-centered-design/resources/colour-palettes">Colour Palettes</a> Colour names and department colours/li>
+  <li><a href="/service-manual/user-centered-design/resources/typography">Typography</a> Using easy-to-read type with consistent styles</li>
+  <li><a href="/service-manual/user-centered-design/resources/colour-palettes">Colour Palettes</a> Colour names and department colours</li>
   <li><a href="/service-manual/user-centered-design/resources/shared-asset-libraries">Shared asset libraries</a> Sharing your frontend assets so that they can be easily reused</li>
   <li><a href="/service-manual/user-centered-design/resources/sass-repositories">Sass repositories</a> Sharing blocks of code and techniques</li>
   <li><a href="/service-manual/user-centered-design/resources/forms">Forms</a> Writing the HTML for forms</li>
