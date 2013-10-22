@@ -26,6 +26,7 @@ Digital take-up is one of the four key performance indicators your service will 
 
 These 10 steps will generate a higher take-up of digital services. We’ve included case studies which outline the experiences of several organisations that have implemented these steps, the impact this has had on their services and the lessons they’ve learned.
 Use this information as a step-by-step guide for increasing your digital take-up. Every action is important and should be considered and seriously attempted.
+
 ##How to increase your digital take-up
 
 ###1. Understand how and why people use your service by:
@@ -71,7 +72,9 @@ In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF),
 * making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
 * making sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
 * preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause
+
 This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels.
+
 ###5. Reward digital users by:
 
 * investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
