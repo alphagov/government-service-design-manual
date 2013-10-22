@@ -24,15 +24,16 @@ Digital take-up is one of the four key performance indicators your service will 
 
 10 steps have proven to be successful in ‘shifting’ people away from non-digital channels, eg over-the-counter services and telephone helplines, to using digital services. These steps will help you identify and fix some of the barriers to take-up of your digital service, including: usability, legal barriers, security fears, lack of trust and awareness of your service among users.
 
-These 10 steps will generate a higher take-up of digital services. We’ve included case studies which outline the experiences of several organisations that have implemented these steps, the impact this has had on their services and the lessons they’ve learned. 
+These 10 steps will generate a higher take-up of digital services. We’ve included case studies which outline the experiences of several organisations that have implemented these steps, the impact this has had on their services and the lessons they’ve learned.
 Use this information as a step-by-step guide for increasing your digital take-up. Every action is important and should be considered and seriously attempted.
+
 ##How to increase your digital take-up
 
 ###1. Understand how and why people use your service by:
 
 * mapping the end-to-end user journey of those who currently use your services via offline channels
 * identifying what it is in the offline process that makes it more convenient for service users to continue to use your service this way
-* identifying the barriers that stop current users from wanting to use your digital service 
+* identifying the barriers that stop current users from wanting to use your digital service
 * knowing which intermediary organisations your users trust to give them information / reassurance about the service
 
 Hertfordshire County Council, as explained in [this case study](/service-manual/communications/hcc-case-study-1.pdf) (PDF), developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
@@ -70,8 +71,10 @@ In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF),
 * mapping all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
 * making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
 * making sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
-* preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause 
-This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels. 
+* preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause
+
+This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels.
+
 ###5. Reward digital users by:
 
 * investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
@@ -88,7 +91,7 @@ In [this case study](/service-manual/communications/dvla-case-study-6.pdf) , the
 
 ###7. Identify and minimise security risks by:
 
-* setting out in plain English the steps you have taken to protect your users from fraud and inappropriate data sharing 
+* setting out in plain English the steps you have taken to protect your users from fraud and inappropriate data sharing
 * educating users about how your services and procedures should work so that your users are less susceptible to phishing activities and third parties which mis-sell government services
 * making sure that your department’s single point of contact (SPOC  - see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
 * every department with public-facing transactions should have a SPOC that co-ordinates the investigation and resolution of end-users’ reports about scams or phishing activity
@@ -107,7 +110,7 @@ In [this case study](/service-manual/communications/dvla-case-study-6.pdf) , the
 * setting the right metrics for measuring digital take-up
 * measuring the number of complaints or requests for support that your digital service is generating eg calls to your call centre
 * agreeing the methodology for measuring savings due to channel shift - try as much as possible to select tangible metrics and minimise the use of estimates
-[This case study](/service-manual/communications/hcc-case-study-9.pdf) (PDF)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions. 
+[This case study](/service-manual/communications/hcc-case-study-9.pdf) (PDF)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions.
 
 ###10. Set your channel shift targets by:
 
