@@ -60,9 +60,7 @@ The [Open Standards Board](http://standards.data.gov.uk/meeting/open-standards-b
 
 We develop these standards profiles in response to challenges raised by Standards Hub users. Challenges are problems that open standards might help to resolve.  
 
-Where open standards have been identified you should use them. Each [completed challenge](http://standards.data.gov.uk/challenges/completed) has a standards profile that refers to specific open standards. 
-
-If you are looking for an open standard and we’ve not set a compulsory standards profile in that space, you should carry out a thorough assessment of the existing standards and choose a standard that meets your needs and is consistent with our definition.
+If you are looking for an open standard for a particular function and we’ve not set a compulsory profile in that space, you should carry out a thorough assessment of the standards that exist elsewhere. Choose one that meets your needs and is consistent with our definition of an open standard.
 
 
 You should also consider how the standard fits with:
