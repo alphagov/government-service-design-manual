@@ -82,5 +82,5 @@ The footer should also state the appropriate copyright and licence notices.
 
 ## Templates and styles
 
-If need access to the templates and styles please make a request via [our feedback form](/feedback).
+If you need access to the templates and styles, please make a request via [the GOV.UK support form](/support/internal).
 
