@@ -54,7 +54,7 @@ Think of it as a proof of concept:
 
 If not, find out more and make a new prototype.
 
-## Alpha phasse duration
+## Alpha phase duration
 The alpha phase is another relatively short phase. At GDS, we try to limit these to about two months, running in week- long sprints over a 6 to 8 week period.
 
 ## Team requirements
