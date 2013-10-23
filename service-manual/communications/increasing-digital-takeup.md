@@ -36,7 +36,7 @@ Use this information as a step-by-step guide for increasing your digital take-up
 * identifying the barriers that stop current users from wanting to use your digital service
 * knowing which intermediary organisations your users trust to give them information / reassurance about the service
 
-Hertfordshire County Council, as explained in [this case study](/service-manual/communications/hcc-case-study-1.pdf) (PDF), developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
+Hertfordshire County Council, as explained in [this case study](/service-manual/assets/documents/hcc-case-study-1.pdf) (PDF, 94KB), developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
 
 ###2. Get users to try digital for the first time by:
 
@@ -47,7 +47,7 @@ Hertfordshire County Council, as explained in [this case study](/service-manual/
 * training and supporting your delivery partners in providing practical support to first-time users of your service
 identifying all your delivery partners and making sure that at every point of contact (between them and your users) they inform users about the digital option in a positive way
 
-Another [case study from Hertfordshire County Council](/service-manual/communications/hcc-case-study-2.pdf) (PDF)  looks at some of the steps they took to get users to try its Online Schools Admissions service for the first time.
+Another [case study from Hertfordshire County Council](/service-manual/assets/documents/hcc-case-study-2.pdf) (PDF, 93KB)  looks at some of the steps they took to get users to try its Online Schools Admissions service for the first time.
 
 ###3. Communicate effectively by:
 
@@ -62,7 +62,7 @@ Another [case study from Hertfordshire County Council](/service-manual/communica
 * getting information on your digital service into partner publications / websites that your target users might go to for other reasons
 * checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible – be sure to user-test it
 
-In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
+In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF, 103KB), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
 
 ###4. Manage staff and partner engagement by:
 
@@ -73,7 +73,7 @@ In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF),
 * making sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
 * preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause
 
-This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels.
+This [case study](/service-manual/assets/documents/hmrc-case-study-4.pdf) (PDF, 150KB) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels.
 
 ###5. Reward digital users by:
 
@@ -82,12 +82,12 @@ This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) ab
     * extending submission deadlines (eg Self Assessment tax returns)
     * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
 
-[This case study](/service-manual/communications/hmrc-case-study-5.pdf) (PDF)  from the HMRC Cross Tax Strategy explains how HMRC offered financial incentives for online filing and why they later switched to non-fiscal benefits.
+[This case study](/service-manual/assets/documents/hmrc-case-study-5.pdf) (PDF, 145KB)  from the HMRC Cross Tax Strategy explains how HMRC offered financial incentives for online filing and why they later switched to non-fiscal benefits.
 
 ###6. Overcome legislative barriers by:
 * identifying legal requirements which disrupt digital delivery and hinder digital take-up (eg data sharing restrictions, requirements for wet signatures) and develop a plan to resolve them
 * discussing these with your policy team to work out non-bureaucratic solutions
-In [this case study](/service-manual/communications/dvla-case-study-6.pdf) , the DVLA explain how they overcame legislative, bureaucratic and data protection barriers preventing take-up of their Electronic Vehicle Licensing Service and the lessons learnt.
+In [this case study](/service-manual/assets/documents/dvla-case-study-6.pdf) (PDF, 99KB), the DVLA explain how they overcame legislative, bureaucratic and data protection barriers preventing take-up of their Electronic Vehicle Licensing Service and the lessons learnt.
 
 ###7. Identify and minimise security risks by:
 
@@ -110,7 +110,7 @@ In [this case study](/service-manual/communications/dvla-case-study-6.pdf) , the
 * setting the right metrics for measuring digital take-up
 * measuring the number of complaints or requests for support that your digital service is generating eg calls to your call centre
 * agreeing the methodology for measuring savings due to channel shift - try as much as possible to select tangible metrics and minimise the use of estimates
-[This case study](/service-manual/communications/hcc-case-study-9.pdf) (PDF)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions.
+[This case study](/service-manual/assets/documents/hcc-case-study-9.pdf) (PDF, 94KB)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions.
 
 ###10. Set your channel shift targets by:
 
