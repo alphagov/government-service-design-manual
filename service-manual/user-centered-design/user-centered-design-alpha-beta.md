@@ -104,7 +104,7 @@ To prepare for these sessions, you need to:
 
 * define your research questions — what do you want to learn from the round of user testing?
 * prepare some theories about your design, eg changing the words on the button will encourage people to read the page more carefully
-* decide how you’ll know when these these theories have been proved or disproved, eg you’ll know this is true because you’ll observe people taking more time to read the page
+* decide how you’ll know when these theories have been proved or disproved, eg you’ll know this is true because you’ll observe people taking more time to read the page
 * decide the type/demographic of users you want to talk to
   * age
   * location
