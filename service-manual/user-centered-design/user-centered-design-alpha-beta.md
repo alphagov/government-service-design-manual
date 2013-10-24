@@ -212,7 +212,7 @@ You can document your findings for others to see in many different ways, like us
 * story wall (eg [Trello](https://trello.com/))
 * research catalogue
 
-It’s also be useful to keep a record of what you tested with users, eg if you’ve prototyped in code, keep a folder in your repository for each round. You may also like to keep screenshots of the prototype.
+It’s also useful to keep a record of what you tested with users, eg if you’ve prototyped in code, keep a folder in your repository for each round. You may also like to keep screenshots of the prototype.
 
 GDS intend to create a format for sharing research findings between projects across government. While GDS work on the best way to do this, keep your research findings in an accessible shared format so findings can be shared and learned from in the future. The findings should, wherever possible, be easily understood with no need for an explanation.
 
