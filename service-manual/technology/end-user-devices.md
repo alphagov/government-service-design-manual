@@ -49,4 +49,5 @@ We need to get 4 basic things right:
 
 The [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy) will help departments and suppliers understand what kinds of design decisions they should now be making.
 
-There’s specific guidance on the standards that need to be met to ensure that digital services don’t become heavily dependent on particular products or suppliers, and a new security framework has been developed with CESG (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.
+There’s specific guidance on the standards that need to be met to ensure that digital services don’t become heavily dependent on particular products or suppliers, and [new security guidance](
+https://www.gov.uk/government/organisations/cesg/series/end-user-devices-security-guidance--2) has been developed by CESG (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.
