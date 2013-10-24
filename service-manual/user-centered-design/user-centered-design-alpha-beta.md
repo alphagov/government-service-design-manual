@@ -104,7 +104,7 @@ To prepare for these sessions, you need to:
 
 * define your research questions — what do you want to learn from the round of user testing?
 * prepare some theories about your design, eg changing the words on the button will encourage people to read the page more carefully
-* decide how you’ll know when these these theories have been proved or disproved, eg you’ll know this is true because you’ll observe people taking more time to read the page
+* decide how you’ll know when these theories have been proved or disproved, eg you’ll know this is true because you’ll observe people taking more time to read the page
 * decide the type/demographic of users you want to talk to
   * age
   * location
@@ -212,7 +212,7 @@ You can document your findings for others to see in many different ways, like us
 * story wall (eg [Trello](https://trello.com/))
 * research catalogue
 
-It’s also be useful to keep a record of what you tested with users, eg if you’ve prototyped in code, keep a folder in your repository for each round. You may also like to keep screenshots of the prototype.
+It’s also useful to keep a record of what you tested with users, eg if you’ve prototyped in code, keep a folder in your repository for each round. You may also like to keep screenshots of the prototype.
 
 GDS intend to create a format for sharing research findings between projects across government. While GDS work on the best way to do this, keep your research findings in an accessible shared format so findings can be shared and learned from in the future. The findings should, wherever possible, be easily understood with no need for an explanation.
 
