@@ -63,11 +63,11 @@ Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) 
 
 This manual gives further information on testing:
 
-* [testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)
-* [accessibility testing](https://www.gov.uk/service-manual/making-software/accessibility-testing.html)
-* [testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)
-* [load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)
-* [vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)
+* [testing in an agile environment](/service-manual/making-software/testing-in-agile.html)
+* [accessibility testing](/service-manual/making-software/accessibility-testing.html)
+* [testing code](/service-manual/making-software/code-testing.html)
+* [load and performance testing](/service-manual/operations/load-and-performance-testing.html)
+* [vulnerability and penetration testing](/service-manual/operations/penetration-testing.html)
 
 ## Team roles and quality assurance specialists
 
@@ -83,7 +83,7 @@ Your team will need to consider quality when writing user stories, and allow tim
 
 Using specialist skills and facilities is a good way to make sure testing is thorough, and is typically used for:
 
-* [penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html) - having people outside of the team carry out this task helps challenge assumptions and identify weaknesses, giving a valuable outside perspective
+* [penetration testing](/service-manual/operations/penetration-testing.html) - having people outside of the team carry out this task helps challenge assumptions and identify weaknesses, giving a valuable outside perspective
 * hiring quality assurance specialists – they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
     * having a clear remit and working with your team to build quality into everything they do, instead of just adding a gate review to the development process
     * being a short-term role, leaving your team capable of managing quality as part of their standard development and iteration of your service

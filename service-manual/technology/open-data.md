@@ -111,7 +111,7 @@ The [Government Statistical Service](http://www.statistics.gov.uk/hub/government
 
 ##Further reading
 
-* [Analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html)
-* [Open formats](https://www.gov.uk/service-manual/user-centered-design/choosing-appropriate-formats.html)
-* [Open standards](https://www.gov.uk/service-manual/making-software/open-standards-and-licensing.html)
+* [Analytics tools](/service-manual/making-software/analytics-tools.html)
+* [Open formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)
+* [Open standards](/service-manual/making-software/open-standards-and-licensing.html)
 * [Open Data White Paper: Unleashing the Potential](https://www.gov.uk/government/publications/open-data-white-paper-unleashing-the-potential)

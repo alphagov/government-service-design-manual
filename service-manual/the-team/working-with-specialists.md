@@ -30,10 +30,10 @@ If not, you can hire individuals or companies to fill in the gaps of specialist 
 
 GDS can help you hire some roles. We have job descriptions for:
 
-* [delivery managers](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [designers](https://www.gov.uk/service-manual/the-team/designer.html)
-* [developers](https://www.gov.uk/service-manual/the-team/developer.html)
-* [web ops](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [delivery managers](/service-manual/the-team/delivery-manager.html)
+* [designers](/service-manual/the-team/designer.html)
+* [developers](/service-manual/the-team/developer.html)
+* [web ops](/service-manual/the-team/web-operations.html)
 * [content designer](/service-manual/the-team/content-designer.html)
 
 Other descriptions will be made available. Please [contact the team](/service-manual/feedback) if you have particular descriptions in mind.
@@ -46,12 +46,12 @@ If you need part of a team or a complete team, remember: you are buying skills t
 ##Choosing your supplier
 When you are considering an individual or company to work with, they should give you evidence of:
 
-* a proven track record of [Agile](https://www.gov.uk/service-manual/agile/index.html) delivery 
-* how they will use [continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html) methods
+* a proven track record of [Agile](/service-manual/agile/index.html) delivery
+* how they will use [continuous delivery](/service-manual/agile/continuous-delivery.html) methods
 * how they will share knowledge and provide coaching and mentoring to civil servants who are developing and/or will be responsible for the service
 * how they will deliver in an Agile way; possibly while working with departments who work in waterfall or PRINCE delivery method
 * their commitment to work on-site with civil servants to share knowledge
-* how they will ‘bake in’ [quality](https://www.gov.uk/service-manual/agile/quality.html) to the process
+* how they will ‘bake in’ [quality](/service-manual/agile/quality.html) to the process
 
 They should also be aware of the [departmental digital strategies](http://publications.cabinetoffice.gov.uk/digital/#departmental-strategies) and how they will need to work with them.
 
