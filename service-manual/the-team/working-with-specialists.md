@@ -5,7 +5,7 @@ subtitle: How people outside government can help build your service
 category: the-team
 type: guide
 audience:
-  primary: 
+  primary:
   secondary: service-managers
 status: draft
 phases:
@@ -30,35 +30,35 @@ If not, you can hire individuals or companies to fill in the gaps of specialist 
 
 GDS can help you hire some roles. We have job descriptions for:
 
-* [delivery managers](https://www.gov.uk/service-manual/the-team/delivery-manager.html)
-* [designers](https://www.gov.uk/service-manual/the-team/designer.html)
-* [developers](https://www.gov.uk/service-manual/the-team/developer.html)
-* [web ops](https://www.gov.uk/service-manual/the-team/web-operations.html)
+* [delivery managers](/service-manual/the-team/delivery-manager.html)
+* [designers](/service-manual/the-team/designer.html)
+* [developers](/service-manual/the-team/developer.html)
+* [web ops](/service-manual/the-team/web-operations.html)
 * [content designer](/service-manual/the-team/content-designer.html)
 
-Other descriptions will be made available. Please [contact the team](/service-manual/feedback) if you have particular descriptions in mind. 
+Other descriptions will be made available. Please [contact the team](/service-manual/feedback) if you have particular descriptions in mind.
 
-GDS can give you some advice on certain candidates or interviews and setting contracts. 
+GDS can give you some advice on certain candidates or interviews and setting contracts.
 
 ##Companies
-If you need part of a team or a complete team, remember: you are buying skills to help your team or to build your team around. You are not locking yourselves into a long contract, with minimum spend criteria etc. 
+If you need part of a team or a complete team, remember: you are buying skills to help your team or to build your team around. You are not locking yourselves into a long contract, with minimum spend criteria etc.
 
 ##Choosing your supplier
 When you are considering an individual or company to work with, they should give you evidence of:
 
-* a proven track record of [Agile](https://www.gov.uk/service-manual/agile/index.html) delivery 
-* how they will use [continuous delivery](https://www.gov.uk/service-manual/agile/continuous-delivery.html) methods
+* a proven track record of [Agile](/service-manual/agile/index.html) delivery
+* how they will use [continuous delivery](/service-manual/agile/continuous-delivery.html) methods
 * how they will share knowledge and provide coaching and mentoring to civil servants who are developing and/or will be responsible for the service
-* how they will deliver in an Agile way; possibly while working with departments who work in waterfall or PRINCE delivery method 
+* how they will deliver in an Agile way; possibly while working with departments who work in waterfall or PRINCE delivery method
 * their commitment to work on-site with civil servants to share knowledge
-* how they will ‘bake in’ [quality](https://www.gov.uk/service-manual/agile/quality.html) to the process
+* how they will ‘bake in’ [quality](/service-manual/agile/quality.html) to the process
 
 They should also be aware of the [departmental digital strategies](http://publications.cabinetoffice.gov.uk/digital/#departmental-strategies) and how they will need to work with them.
 
 GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. Later in 2013, you will be able to use the Digital Procurement Framework.
 
 ##People, not process
-An underlying principle behind Agile development is that people are more important than process. It has been proven that great teams make great products whether they’re in government or business. 
+An underlying principle behind Agile development is that people are more important than process. It has been proven that great teams make great products whether they’re in government or business.
 
 At GDS, we don’t call people ‘resources’, whether permanent or contract. You look after people, resources are things you use (and discard).
 
@@ -86,7 +86,7 @@ The individual's or company's intention should always be to disengage from the d
 ##Knowledge transfer
 Your team structure and processes should centre around transferring knowledge to permanent staff, wherever possible.
 
-Don’t let a contractor become a single point of failure and treat all team members (permanent and contractors) the same. 
+Don’t let a contractor become a single point of failure and treat all team members (permanent and contractors) the same.
 
 ##Further reading
 A blogpost by Meri Williams of GDS on [people management in an agile setting](http://digital.cabinetoffice.gov.uk/2012/11/27/people-management-in-an-agile-setting)

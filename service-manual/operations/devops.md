@@ -67,4 +67,4 @@ Like agile, the term devops is often used for marketing or promotional purposes.
 * [What is this devops thing anyway?](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
 * [What is devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
 * [There’s No Such Thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)
-* those interested in devops are often also interested in [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html), [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html) and [Release Management](https://www.gov.uk/service-manual/making-software/release-strategies.html)
+* those interested in devops are often also interested in [Configuration Management](/service-manual/making-software/configuration-management.html), [Monitoring](/service-manual/operations/monitoring.html) and [Release Management](/service-manual/making-software/release-strategies.html)

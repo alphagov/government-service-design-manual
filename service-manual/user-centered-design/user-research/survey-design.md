@@ -39,7 +39,7 @@ A typical user survey will be structured in the following manner:
 
 * introduction – purpose of the survey, why it’s important that people take part.
 * screener questions
-* KPI questions – [questions that benchmark performance](https://www.gov.uk/service-manual/measurement/index.html)
+* KPI questions – [questions that benchmark performance](/service-manual/measurement/index.html)
 * follow up demographic questions – additional respondent information eg working/not working, salary, location etc
 
 ### Common survey question types

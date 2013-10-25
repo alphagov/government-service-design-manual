@@ -27,7 +27,7 @@ digital and non‑digital sources.
 It’s a toolkit that allows you to supply service data in return for alerts, visualisations and structured data, which can then be used to:
 
 * improve services
-* meet [the service standard](https://www.gov.uk/service-manual/digital-by-default)
+* meet [the service standard](/service-manual/digital-by-default)
 * gain insight by comparing data across multiple services and sources
 
 ##What the platform will offer
