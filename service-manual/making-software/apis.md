@@ -51,14 +51,14 @@ a worldwide audience is difficult. While proprietary and open technologies
 abound for machine-to-machine communication, none of them have the web's
 interoperability, reach and ability to scale.
 
-Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URIs (uniform resource identifiers), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
+Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URLs (uniform resource locator), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
 
-### Give each thing a bookmarkable URI
+### Give each thing a bookmarkable URL
 Expose data as a set of resources, offering a [clean URL](http://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.
 
 Only use [query strings](http://en.wikipedia.org/wiki/Query_string) for URLs with unordered parameters, such as options to search pages.
 
-Consider creating URIs for different granularity of resources. For example, `/members.json` could return a list of names, whilst `/members.json?detail=full` could return detailed information about each member in a list.
+Consider creating URLs for different granularity of resources. For example, `/members.json` could return a list of names, whilst `/members.json?detail=full` could return detailed information about each member in a list.
 
 These principles enable network effects which arise through linking and allow information published beyond the web, sent in alerts email, SMS, XMPP and other messages, to link back to the canonical content on the web.
 
@@ -95,7 +95,7 @@ Consider also encoding metadata inside HTML content using semantic markup: [Micr
 The representations supported by an API for input will vary depending upon the complexity of the action, but where possible should include `application/x-www-form-urlencoded` to allow the construction of simple POST forms.
 
 ### Names reinforce conventions
-Use names for fields, formats and path segments in a URI path consistently across your API.
+Use names for fields, formats and path segments in a URL path consistently across your API.
 Establish conventions others may easily follow and anticipate.
 Where possible, reuse names widely used elsewhere on the web, as with the [Microformats naming policy](http://microformats.org/wiki/naming-principles).
 
@@ -121,7 +121,7 @@ Build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatib
 Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
-When changing URIs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
+When changing URLs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
 
 
 ##Consuming and using APIs
