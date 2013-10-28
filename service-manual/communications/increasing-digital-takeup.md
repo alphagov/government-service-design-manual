@@ -26,93 +26,95 @@ Digital take-up is one of the four key performance indicators your service will 
 
 These 10 steps will generate a higher take-up of digital services. We’ve included case studies which outline the experiences of several organisations that have implemented these steps, the impact this has had on their services and the lessons they’ve learned. 
 Use this information as a step-by-step guide for increasing your digital take-up. Every action is important and should be considered and seriously attempted.
-##How to increase your digital take-up
 
-###1. Understand how and why people use your service by:
+###Below we list examples and case studies of how to increase your digital take-up:
 
-* mapping the end-to-end user journey of those who currently use your services via offline channels
+##1. Understand how and why people use your service
+
+* map the end-to-end user journey of those who currently use your services via offline channels
 * identifying what it is in the offline process that makes it more convenient for service users to continue to use your service this way
-* identifying the barriers that stop current users from wanting to use your digital service 
-* knowing which intermediary organisations your users trust to give them information / reassurance about the service
+* identif the barriers that stop current users from wanting to use your digital service 
+* know which intermediary organisations your users trust to give them information / reassurance about the service
 
 Hertfordshire County Council, as explained in [this case study](/service-manual/communications/hcc-case-study-1.pdf) (PDF), developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
 
-###2. Get users to try digital for the first time by:
+##2. Get users to try digital for the first time
 
-* rapidly implementing changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](http://digital.cabinetoffice.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
-* identifying all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
-* making your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost, etc
-* training frontline staff on how to make current users of offline channels aware of your digital service, how it meets their needs, and support users to try the digital service for the first time
-* training and supporting your delivery partners in providing practical support to first-time users of your service
+* rapidly implement changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](http://digital.cabinetoffice.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
+* identif all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
+* make your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost, etc
+* train frontline staff on how to make current users of offline channels aware of your digital service, how it meets their needs, and support users to try the digital service for the first time
+* training and supporting for your delivery partners in providing practical support to first-time users of your service
 identifying all your delivery partners and making sure that at every point of contact (between them and your users) they inform users about the digital option in a positive way
 
 Another [case study from Hertfordshire County Council](/service-manual/communications/hcc-case-study-2.pdf) (PDF)  looks at some of the steps they took to get users to try its Online Schools Admissions service for the first time.
 
-###3. Communicate effectively by:
+##3. Communicate effectively
 
-* outlining the benefits of the digital service relevant to your user groups when communicating with them:
+* outline the benefits of the digital service relevant to your user groups when communicating with them:
     * with the help of your user researchers work out which messaging styles work best with each user group
     * the [Cabinet Office Behavioural Insights Team](https://www.gov.uk/government/organisations/behavioural-insights-team) has interesting case studies on various ways to encourage behaviour change
-* making sure that all delivery partners are aware of how your service meets users’ needs and actively promote this to the users they work with
-* addressing any myths about barriers to using your digital service and making users and partners aware when real barriers have been removed
-* using both digital and non-digital channels
-* ensuring that all your communication with users encourages action eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
-* incorporating the URL for your service into all your written correspondence eg letters, email footers, hard and soft copy, out-of-hours phone messages; put phone numbers and physical addresses in less prominent places in any communications
-* getting information on your digital service into partner publications / websites that your target users might go to for other reasons
-* checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible – be sure to user-test it
+* make sure that all delivery partners are aware of how your service meets users’ needs and actively promote this to the users they work with
+* address any myths about barriers to using your digital service and making users and partners aware when real barriers have been removed
+* use both digital and non-digital channels
+* ensure that all your communication with users encourages action eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
+* incorporate the URL for your service into all your written correspondence eg letters, email footers, hard and soft copy, out-of-hours phone messages; put phone numbers and physical addresses in less prominent places in any communications
+* get information on your digital service into partner publications / websites that your target users might go to for other reasons
+* check if the guidance for using your service is set out in jargon-free language that your users find comprehensible – be sure to user-test it
 
 In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
 
-###4. Manage staff and partner engagement by:
+##4. Manage staff and partner engagement
 
-* identifying the benefits of the digital service for your delivery partners and highlighting these in your engagement with them
-*making sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
-* mapping all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
-* making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
-* making sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
-* preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause 
+* identify the benefits of the digital service for your delivery partners and highlighting these in your engagement with them
+*make sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
+* map all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
+* make sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
+* make sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
+* prepare staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause 
 This [case study](/service-manual/communications/hmrc-case-study-4.pdf) (PDF) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels. 
-###5. Reward digital users by:
 
-* investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
+##5. Reward digital users
+
+* investigate whether you can offer extra advantages or benefits if people use services digitally, such as:
     * charging users less for digital transactions (eg Companies House’s Annual Returns submission service)
     * extending submission deadlines (eg Self Assessment tax returns)
-    * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
+    * provide additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
 
 [This case study](/service-manual/communications/hmrc-case-study-5.pdf) (PDF)  from the HMRC Cross Tax Strategy explains how HMRC offered financial incentives for online filing and why they later switched to non-fiscal benefits.
 
-###6. Overcome legislative barriers by:
-* identifying legal requirements which disrupt digital delivery and hinder digital take-up (eg data sharing restrictions, requirements for wet signatures) and develop a plan to resolve them
-* discussing these with your policy team to work out non-bureaucratic solutions
+##6. Overcome legislative barriers
+* identify legal requirements which disrupt digital delivery and hinder digital take-up (eg data sharing restrictions, requirements for wet signatures) and develop a plan to resolve them
+* discuss these with your policy team to work out non-bureaucratic solutions
 In [this case study](/service-manual/communications/dvla-case-study-6.pdf) , the DVLA explain how they overcame legislative, bureaucratic and data protection barriers preventing take-up of their Electronic Vehicle Licensing Service and the lessons learnt.
 
-###7. Identify and minimise security risks by:
+##7. Identify and minimise security risks
 
-* setting out in plain English the steps you have taken to protect your users from fraud and inappropriate data sharing 
-* educating users about how your services and procedures should work so that your users are less susceptible to phishing activities and third parties which mis-sell government services
-* making sure that your department’s single point of contact (SPOC  - see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
+* set out in plain English the steps you have taken to protect your users from fraud and inappropriate data sharing 
+* educate users about how your services and procedures should work so that your users are less susceptible to phishing activities and third parties which mis-sell government services
+* make sure that your department’s single point of contact (SPOC  - see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
 * every department with public-facing transactions should have a SPOC that co-ordinates the investigation and resolution of end-users’ reports about scams or phishing activity
 
 
-###8. Identify users’ triggers for using non-digital channels and satisfy these needs through your digital service by:
+##8. Identify users’ triggers for using non-digital channels and satisfy these needs through your digital service
 
-* monitoring usage of digital transaction to identify where in the end-to-end user journey customers are dropping out, and using your customer research to understand why they’re failing to finish the digital transactions
-* limiting the need for your users to revert to non-digital channels (eg phone or face-to-face) to do things like checking the progress of their application
-* checking, for example, that your digital service acknowledges successfully completed applications and allows progress to be tracked online
+* monitor usage of digital transaction to identify where in the end-to-end user journey customers are dropping out, and using your customer research to understand why they’re failing to finish the digital transactions
+* limit the need for your users to revert to non-digital channels (eg phone or face-to-face) to do things like checking the progress of their application
+* check, for example, that your digital service acknowledges successfully completed applications and allows progress to be tracked online
 
-###9. Track and measure channel shift by:
+##9. Track and measure channel shift
 
-* getting access to usage level data, so you can make useful comparisons against a task carried out in 2 different ways, eg number of registration requests completed via offline channels as well as via your digital service
-* determining cost per transaction, by channel – combining the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
-* setting the right metrics for measuring digital take-up
-* measuring the number of complaints or requests for support that your digital service is generating eg calls to your call centre
-* agreeing the methodology for measuring savings due to channel shift - try as much as possible to select tangible metrics and minimise the use of estimates
+* get access to usage level data, so you can make useful comparisons against a task carried out in 2 different ways, eg number of registration requests completed via offline channels as well as via your digital service
+* determine cost per transaction, by channel – combining the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
+* set the right metrics for measuring digital take-up
+* measure the number of complaints or requests for support that your digital service is generating eg calls to your call centre
+* agree the methodology for measuring savings due to channel shift - try as much as possible to select tangible metrics and minimise the use of estimates
 [This case study](/service-manual/communications/hcc-case-study-9.pdf) (PDF)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions. 
 
-###10. Set your channel shift targets by:
+##10. Set your channel shift targets
 
-* getting sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift – the [Digital Landscape report](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) sets out useful information on Internet usage levels by demographic
-* considering [projected savings from digital service provision](http://publications.cabinetoffice.gov.uk/digital/efficiency/#what-are-the-savings-from-digitising-transactional-services) and using these as a guide for setting your targets; it’s likely that you’ll have to prioritise increasing digital take-up for some of your digital services over others (both existing and new or recently redesigned) to maximise savings.
+* get sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift – the [Digital Landscape report](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) sets out useful information on Internet usage levels by demographic
+* consider [projected savings from digital service provision](http://publications.cabinetoffice.gov.uk/digital/efficiency/#what-are-the-savings-from-digitising-transactional-services) and using these as a guide for setting your targets; it’s likely that you’ll have to prioritise increasing digital take-up for some of your digital services over others (both existing and new or recently redesigned) to maximise savings.
 
 
 ##What not to do
