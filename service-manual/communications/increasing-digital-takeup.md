@@ -41,7 +41,7 @@ Hertfordshire County Council, as explained in [this case study](/service-manual/
 ##2. Get users to try digital for the first time
 
 * rapidly implement changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](http://digital.cabinetoffice.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
-* identif all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
+* identify all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
 * make your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost, etc
 * train frontline staff on how to make current users of offline channels aware of your digital service, how it meets their needs, and support users to try the digital service for the first time
 * training and supporting for your delivery partners in providing practical support to first-time users of your service
@@ -67,7 +67,7 @@ In [this case study](/service-manual/communications/dsa-case-study-3.pdf) (PDF),
 ##4. Manage staff and partner engagement
 
 * identify the benefits of the digital service for your delivery partners and highlighting these in your engagement with them
-*make sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
+* make sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
 * map all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
 * make sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
 * make sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
