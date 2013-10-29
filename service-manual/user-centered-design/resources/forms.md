@@ -294,8 +294,8 @@ To see all the examples above in a single form, check out the [registration form
 
 Examples of forms currently in use across [GOV.UK](https://www.gov.uk) are:
 
-* [Contact page](https://www.gov.uk/feedback/contact)
-* [Freedom of information request form](https://www.gov.uk/feedback/foi)
+* [Contact page](https://www.gov.uk/contact/govuk)
+* [Freedom of information request form](https://www.gov.uk/contact/foi)
 * [Search results page](https://www.gov.uk/search?q=tax)
 * [404 page](https://www.gov.uk/notapage)
 * [Report a problem form](https://www.gov.uk/vat) (click the 'Report a problem' link to view)
