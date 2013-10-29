@@ -35,9 +35,9 @@ Each design pattern also has a banner below the title, which should briefly expl
 
 The text for the banners should be as follows:
 
-> **ALPHA**: This is a prototype, designed to be simpler, clearer and faster. [Find out more](/service-manual/phases/alpha)
+> **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
 
-> **BETA**: This is a trial service, designed to be simpler, clearer and faster. [Find out more](/service-manual/phases/beta)
+> **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
 
 
 In all cases the GOV.UK logotype must link to `www.gov.uk`.
@@ -69,6 +69,14 @@ If you service needs to show navigation, then this should sit below the service 
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
 
 You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labeled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
+
+### Soliciting end user feedback
+
+End user feedback can provide data that is invaluable for developing and improving the subsequent iterations of your service. You should solicit feedback by providing a link to your service's feedback mechanism from the 'alpha'/'beta' banner. The link could:
+
+* open a blank email in the user's email client, using the [`mailto` URL scheme](http://www.ietf.org/rfc/rfc2368.txt)
+* toggle the appearance of an embedded web form
+* take the user to a dedicated feedback web form on another page within your service
 
 ### Using the GOV.UK logotype
 
