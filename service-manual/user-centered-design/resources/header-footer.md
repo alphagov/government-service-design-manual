@@ -35,9 +35,9 @@ Each design pattern also has a banner below the title, which should briefly expl
 
 The text for the banners should be as follows:
 
-> **ALPHA**: This is a prototype -- your [feedback](#) will help us to improve it. [Find out more](/service-manual/phases/alpha)
+> **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
 
-> **BETA**: This is a trial service -- your [feedback](#) will help us to improve it. [Find out more](/service-manual/phases/beta)
+> **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
 
 
 In all cases the GOV.UK logotype must link to `www.gov.uk`.
