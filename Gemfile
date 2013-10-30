@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
 
-gem 'jekyll', '0.12.1'
+gem 'jekyll', '1.2.1'
 gem 'jekyll-sass', '1.1.0'
 
 gem 'RedCloth', '4.2.9'
