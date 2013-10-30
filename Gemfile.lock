@@ -50,12 +50,12 @@ PLATFORMS
 
 DEPENDENCIES
   RedCloth (= 4.2.9)
-  coderay
-  foreman
-  jekyll
-  jekyll-sass
-  kramdown
-  nokogiri
-  rack-jekyll
-  rack-rewrite
-  thin
+  coderay (= 1.0.9)
+  foreman (= 0.61.0)
+  jekyll (= 0.12.1)
+  jekyll-sass (= 1.1.0)
+  kramdown (= 0.14.2)
+  nokogiri (= 1.5.6)
+  rack-jekyll (= 0.3.5)
+  rack-rewrite (= 1.3.3)
+  thin (= 1.5.0)
