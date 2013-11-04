@@ -1,6 +1,6 @@
 ---
 layout: category-index
-title: HTTPS
+title: Service subdomain names
 category: domain-names
 type: category-index
 audience:
@@ -17,11 +17,11 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: Service subdomain names
+    title: Where services live on the web
     url: /service-manual/domain-names
 ---
 
-## Subdomain names
+## Subdomain names and certificates
 
 When you are operating a service at `servicename.service.gov.uk`, you will need
 testing and development environments. Given that these [must use HTTPS](https),
