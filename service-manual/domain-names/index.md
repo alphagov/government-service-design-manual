@@ -44,3 +44,4 @@ Services designed for an internal audience should also live on a domain of the f
 * [HTTPS](/service-manual/domain-names/https.html)
 * [Asset Hosts](/service-manual/domain-names/asset-hosts.html)
 * [Rules for operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains.html)
+* [Suggested names for service.gov.uk subdomains](service-subdomain-names)
