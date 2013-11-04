@@ -65,7 +65,7 @@ If the service is a private alpha or private beta release then it should be prot
 
 It is good practice to have multiple 'environments' for the development, testing and live (aka production) versions of any service. The [development and testing environments](/service-manual/making-software/sandbox-and-staging-servers.html) allow the team to assess the correctness and quality of the service before it goes live. Typically, the subdomains used to access a development or testing instance of the service are structured in the same way as the subdomains used in the live version of the service.
 
-Therefore, you MAY [create other subdomains](/service-manual/domain-names/service-subdomain-names) of `servicename.service.gov.uk` for use in testing and development, such as `www-preview.` and `www-dev` or `www.preview.` and `www.dev.`. If there's a compelling reason to use a non `.gov.uk` domain for testing and/or development subdomains, that’s also acceptable.
+Therefore, you MAY [create other subdomains](/service-manual/domain-names/service-subdomain-names) of `servicename.service.gov.uk` for use in testing and development, such as `www.preview.` and `www.dev.`. If there's a compelling reason to use a non `.gov.uk` domain for testing and/or development subdomains, that’s also acceptable.
 
 Regardless of the domain name used, web-based services on testing and development domains (including APIs) should be protected by a username and password along the same lines as private alpha and beta releases.
 
