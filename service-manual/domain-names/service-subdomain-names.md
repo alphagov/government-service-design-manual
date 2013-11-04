@@ -42,4 +42,5 @@ The reasons why we prefer wildcard certificates include:
   and other services that still require TLS)
 * having a different certificate for preview versus staging versus production
   means that we can potentially restrict who has access to the certificate.
-  This is better from an operational security perspective
+  This is better from an operational security perspective. We should not use
+  the same certificate on production as in development/test environments.
