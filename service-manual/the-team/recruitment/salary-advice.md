@@ -65,6 +65,6 @@ The scope, responsibilities and interactions with other senior leaders that the 
 | &nbsp; | Front-end developer | £40,000 - £50,000 |
 | &nbsp; | Web operations | £50,000 - £60,000 |
 
-All the recommended ranges are within the boundaries set for the civil service paybands. These figures are intended as a guide, and departments should recognise that they may need to offer more than the top of these bands for highly experienced candidates.
+These figures are intended as a guide, and departments should recognise that they may need to offer more than the top of these bands for highly experienced candidates.
 
 *[SCS]: Senior Civil Service
