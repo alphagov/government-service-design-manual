@@ -25,6 +25,7 @@ Data that is truly open is:
 * free of restriction on use or redistribution in its licensing conditions
 
 ##The data that you should make open
+
 Overall, government produces a lot of data that describes the services that we offer and how well those services are performing, for example data from [analytics tools](/service-manual/making-software/analytics-tools.html) or [key performance indicators](/service-manual/measurement/other-kpis). There's also data on how people use these services and who those people are.
 
 Data about service performance allows [service managers](/service-manual/the-team/service-manager.html) to see how well a service is running. It also means that users can hold us to account. Data about service performance should therefore be public data.
@@ -105,7 +106,7 @@ You can also find case studies of how people are sharing, using and building ope
 
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk.
 
-The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
+The [Open Knowledge Foundation](http://okfn.org/) and the [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
 
 The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
