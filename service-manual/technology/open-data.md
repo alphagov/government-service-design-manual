@@ -105,7 +105,7 @@ You can also find case studies of how people are sharing, using and building ope
 
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk.
 
-The [Open Data Institute](http://www.theodi.org/) can give you advice and training on how to open up your data.
+The [Open Data Institute](http://www.theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/) can give you advice and training on how to open up your data.
 
 The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
