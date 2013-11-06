@@ -24,8 +24,9 @@ breadcrumbs:
 ## Subdomain names and certificates
 
 When you are operating a service at `servicename.service.gov.uk`, you will need
-testing and development environments. Given that these [must use HTTPS](https),
-we suggest purchasing wildcard certificates with this naming convention:
+testing and development environments. Given that these
+[must use HTTPS](/service-manual/domain-names/https.html), we suggest
+purchasing wildcard certificates with this naming convention:
 
 * *.preview.servicename.service.gov.uk
 * *.staging.servicename.service.gov.uk
