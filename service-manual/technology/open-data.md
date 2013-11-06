@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Open data
-subtitle: Accessible, machine readable data about services
+subtitle: Accessible, machine-readable data about services
 category: technology
 type: guide
 audience:
@@ -21,7 +21,7 @@ breadcrumbs:
 Data that is truly open is:
 
 * accessible (ideally via the internet) at no more than the cost of reproduction, without limitations based on user identity or intent
-* in a digital, machine readable format for interoperation with other data
+* in a digital, machine-readable format for interoperation with other data
 * free of restriction on use or redistribution in its licensing conditions
 
 ##The data that you should make open
