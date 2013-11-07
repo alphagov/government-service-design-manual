@@ -160,3 +160,12 @@ Most users will be able to use new and redesigned government digital services un
 *  who are the users who need assisted digital support
 *  what good assisted digital support will look like
 *  how departments and GDS are working together to develop assisted digital support approaches as part of overall service transformation
+
+###Identity assured
+
+We need to know that users of digital services are who they say they are. In this session, you will learn how the Identity Assurance Programme is:
+
+* creating a market so that users can choose from a number of identity providers
+* setting standards for consistently meeting the needs of users, services and departments
+* building and running the hub that connects services to identity providers
+* working with departments and agencies to identify their services' identity assurance requirements and plan their transition to using the identity assurance service
