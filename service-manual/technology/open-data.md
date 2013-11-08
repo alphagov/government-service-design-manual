@@ -72,7 +72,7 @@ Developers need to be able to use the data, to share it, and combine it with oth
 
 As with all government digital services you'll need to [understand the user need](/service-manual/user-centered-design/user-needs.html) for the data you publish.
 
-You'll need to keep developers aware of what datasets you are releasing and to maintain relationships with those primary data users at the cutting edge of technology who can help you to do things differently and in more agile ways. You can use [the engagement areas of data.gov.uk](http://data.gov.uk/participate) to reach out and keep in touch with data users.
+You'll need to keep developers aware of what datasets you are releasing and to maintain relationships with those primary data users at the cutting edge of technology who can help you to do things differently and in more agile ways. You can use [the engagement areas of data.gov.uk](http://data.gov.uk/forum) to reach out and keep in touch with data users.
 
 ## Building trust
 You need to be scrupulous in protecting individual privacy by taking appropriate steps to ensure personal data is [secure](/service-manual/making-software/information-security.html).
