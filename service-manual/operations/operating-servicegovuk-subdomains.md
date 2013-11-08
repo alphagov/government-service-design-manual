@@ -134,6 +134,17 @@ Emails to users of your service SHOULD be sent from a human-monitored email addr
 
 You SHOULD enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
+## Lifecycle of service subdomains
+
+If your service should need to wind down for any reason, the following MUST be put in place to ensure continued useful service and information for users:
+
+* SSL MUST continue to be enabled
+* You MUST serve a redirect from your service to the GOV.UK start page
+
+For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
+
+The GOV.UK start page will be amended to explain that the service is no longer running, and cease to provide a start button pointing at the defunct service.
+
 *[SPF]: Sender Policy Framework
 *[DKIM]: DomainKeys Identified Mail
 *[APIs]: application programming interfaces
