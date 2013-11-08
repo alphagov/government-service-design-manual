@@ -39,7 +39,7 @@ Try to take a step back and think about the capabilities of the technology youâ€
 
 Once you have defined a set of capabilities, work out how you'll test solutions against those capabilities. You should aim to test any software that appears appropriate in an environment that's very similar to your production environment, ie at production scale under real-world conditions (including worst-case user load).
 
-This will allow you to make sure you understand its specific characteristics, confirm that that its claimed capabilities are genuine, and identify any trade-offs or potential issues to consider with a given piece of software such as conceptual fit with your domain model vs. performance under heavy load.
+This will allow you to make sure you understand its specific characteristics, confirm that its claimed capabilities are genuine, and identify any trade-offs or potential issues to consider with a given piece of software such as conceptual fit with your domain model vs. performance under heavy load.
 
 ## Cost
 When choosing technology make sure you consider the total cost, as well as any upfront fees. Try to take into consideration costs for things like staff, support or licensing costs (where applicable), the productivity of ongoing service improvement work, and any exit costs (especially around migration of data to a future replacement system) that might be caused by the use of non-open standard formats or protocol extensions. Make sure that you understand the cost implications of any unusually high user loads in production systems.
