@@ -136,10 +136,10 @@ You SHOULD enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on
 
 ## Lifecycle of service subdomains
 
-If your service should need to wind down for any reason, the following MUST be put in place to ensure continued useful service and information for users:
+If your service should need to wind down for any reason, you MUST ensure continued useful service and information for users by:
 
-* SSL MUST continue to be enabled
-* You MUST serve a redirect from your service to the GOV.UK start page
+* continuing to use SSL
+* serving a redirect from your service to the GOV.UK start page
 
 For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
 
