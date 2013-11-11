@@ -166,6 +166,7 @@ service, led by a suitably skilled and senior service manager with full authorit
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/user-centered-design">Design and content</a></li>
+        <li><a href="/service-manual/user-centered-design/what-should-service-look-like">What should my service look like?</a></li>
       </ul>
     </div>
   </li>
