@@ -141,7 +141,7 @@ If your service should need to wind down for any reason, you MUST ensure continu
 * continuing to use SSL
 * serving a redirect from your service to the GOV.UK start page
 
-For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
+For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services that have been live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
 
 The GOV.UK start page will be amended to explain that the service is no longer running, and cease to provide a start button pointing at the defunct service.
 
