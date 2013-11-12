@@ -23,14 +23,21 @@ breadcrumbs:
 
 ## Getting a domain name and start/end page
 
-To make sure that the right user journey (appropriate start/end pages, clear domain names) are set up
-for a new service it's important that you engage with the GOV.UK team within GDS early.
+To make sure that the right user journey (appropriate start/end pages, clear domain names) are
+set up for a new service it's important that you engage with the GOV.UK team within GDS early.
 
-If you're not already in conversation with the team about your service, you can start the process by e-mailing
-gdsapprovals@digital.cabinet-office.gov.uk.
+If you're not already in conversation with the team about your service, you can start the
+process by e-mailing gdsapprovals@digital.cabinet-office.gov.uk who will discuss with you
+the best name for your Service Domain and the start pages on GOV.UK.
 
-Once your service has an agreed name, you will need to supply the following information to your GDS contact who will put you in touch with the GDS Infrastructure Team to arrange delegation.
+While you are waiting for this process, you should start looking at where you will host the
+DNS, as GDS will delegate control of your Service Domain to you. You should
+[read more about delegating DNS for Service Domains here](/service-manual/domain-names/how-they-work)
+which will prepare you for the next step.
+
+Once your service has an agreed name, you will need to supply the following information to your
+GDS contact who will put you in touch with the GDS Infrastructure Team to arrange delegation.
 
 1. Service name e.g. {service-name}.service.gov.uk
-2. DNS servers to delegate to (ask your technical team for these)
+2. DNS servers to delegate to (ask your technical team to see [the guidance on DNS delegation](/service-manual/domain-names/how-they-work))
 3. Date you need it by (at least 5 working days notice)
