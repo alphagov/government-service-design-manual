@@ -47,6 +47,10 @@ Once GOV.UK is updated the vast majority of users will begin to be directed to t
 
 > When we retired the DirectGov, BusinessLink and departmental websites, we invested a lot of effort in mapping content on those sites to GOV.UK content. We redirected as many of the old sites' URLs as we could to corresponding GOV.UK URLs, and provided 'Gone' pages with links to the National Archive where the content was not being transferred. We wrote about that in ["No Link Left Behind"](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/)
 
+### Make sure your subdomain continues to work
+
+If you operate a `service.gov.uk` subdomain, please read [your technical responsibilities for ending your service](/service-manual/operations/operating-servicegovuk-subdomains#lifecycle-of-service-subdomains).
+
 ## Data
 
 In running your service you will have accrued a large amount of data about the service and its users. You should already have policies in place to manage that data responsibly, including details of how long it will be retained. Those policies will continue to apply, and you will need to ensure that there is support in place to maintain them.
@@ -58,4 +62,3 @@ Where data is being transferred to a new service owner, that should be done in a
 
 *[APIs]: application programming interfaces
 *[API]: application programming interface
-
