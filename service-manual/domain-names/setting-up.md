@@ -26,9 +26,8 @@ breadcrumbs:
 To make sure that the right user journey (appropriate start/end pages, clear domain names) are
 set up for a new service it's important that you engage with the GOV.UK team within GDS early.
 
-If you're not already in conversation with the team about your service, you can start the
-process by e-mailing gdsapprovals@digital.cabinet-office.gov.uk who will discuss with you
-the best name for your Service Domain and the start pages on GOV.UK.
+You can start the service domain name process by emailing [gdsapprovals@digital.cabinet-office.gov.uk](gdsapprovals@digital.cabinet-office.gov.uk)
+who will discuss with you the best name for your Service Domain and the start pages on GOV.UK.
 
 While you are waiting for this process, you should start looking at where you will host the
 DNS, as GDS will delegate control of your Service Domain to you. You should

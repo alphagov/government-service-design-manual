@@ -32,7 +32,7 @@ manage the detailed configuration of which servers the domain name points to, an
 ## How is this different to how direct.gov.uk domains have been managed?
 
 The domain direct.gov.uk was managed by the DirectGov Service Desk directly (and inherited by GDS).
-All domains were administered by DirectGov and each subdomain did not have it's own DNS servers.
+All domains were administered by DirectGov and each subdomain did not have its own DNS servers.
 
 This meant that services would need to give details of the names and IP addresses of their webservers
 to DirectGov, who would directly create the necessary A and CNAME records. The DirectGov Service Desk
@@ -55,4 +55,4 @@ configuration. You might introduce load balancers or content delivery networks, 
 providers, or your provider might need to change the IP addresses that your servers are assigned. In any
 of those cases it is important that your team is able to quickly respond to the situation and make any
 relevant changes with as few intermediaries as possible. By delegating control GDS ensures that control
-is in the hands of the service team nd not blocked by a central authority.
+is in the hands of the service team and not blocked by a central authority.
