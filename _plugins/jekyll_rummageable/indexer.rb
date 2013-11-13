@@ -37,7 +37,7 @@ module Jekyll
           "title"             => item.data['title'] || item.name ,
           "indexable_content" => page_paragraphs.join(" ").gsub("\r"," ").gsub("\n"," "),
           "description"       => extract_summary(site, item),
-          "link"              => item.absolute_url
+          "link"              => item.url
         }
       end
       puts 'Indexing done, writing index to file'
@@ -58,7 +58,7 @@ module Jekyll
     end
 
     def page_should_be_excluded?(page)
-      @excludes.any? { |s| (page.absolute_url =~ Regexp.new(s)) != nil }
+      @excludes.any? { |s| (page.url =~ Regexp.new(s)) != nil }
     end
 
     def is_index_page?(page)

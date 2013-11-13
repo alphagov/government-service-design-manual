@@ -8,10 +8,6 @@ module Jekyll
       File.join(@base, @dir, @name)
     end
 
-    def absolute_url
-      url
-    end
-
     def output_is_html?
       output_ext == '.html'
     end
