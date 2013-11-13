@@ -46,3 +46,4 @@ kramdown:
 assets:
   dirname: service-manual/assets
   baseurl: /service-manual/assets/
+  gzip: false
