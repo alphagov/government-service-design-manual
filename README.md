@@ -4,6 +4,12 @@ This is the repository for the UK government's guidance and standards for develo
 
 The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassified](http://sass-lang.com).
 
+## Deploying
+
+Instructions are here:
+
+https://github.com/alphagov/wiki/wiki/HOWTO%3A-Deploy-the-Digital-By-Default-Guidance
+
 ## Running the app yourself
 
 Depending on your version of Git, you may need to run these commands to bring in the
