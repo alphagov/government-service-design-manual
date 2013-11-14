@@ -60,7 +60,7 @@ The service title should link to the service start page unless there is a reason
 
 ### Pattern 3: Title and navigation
 
-If you service needs to show navigation, then this should sit below the service title. You shouldn’t need to include a ‘Home’ link as the service title should link to the service start page.
+If you service needs to show navigation, then this should sit below the service title. The service title should link to the service start page.
 
 ![Pattern 3: Title and navigation](/service-manual/assets/images/header-footer/header-pattern-3.png)
 
