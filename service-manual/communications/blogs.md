@@ -34,9 +34,9 @@ Whatever you’re writing about, make sure the most important information is in 
 
 ##Little and often
 
-Short updates can still go into a bit of detail about what you’re doing and why you’re doing it, whether that’s changing the colour of a button or re-writing a whole section of guidance.
+Short updates can still go into a bit of detail about what you’re doing and why you’re doing it, whether that’s changing the colour of a button or re-writing a whole section of guidance. Keeping posts short reduces the burden of blogging, and also means it’ll be easier to get input from the people you work with.
 
-Keeping posts short reduces the burden of blogging, and also means it’ll be easier to get input from the people you work with.
+Though the frequency with which you blog will often vary you should aim to publish a new post at least once a week.
 
 ##Illustrate everything
 
