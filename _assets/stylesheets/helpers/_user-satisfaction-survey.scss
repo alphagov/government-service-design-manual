@@ -1,6 +1,9 @@
 #user-satisfaction-survey {
-  a:visited {
-    color: $white;
+  div.wrapper p {
+    a:visited,
+    a:hover {
+      color: $white;
+    }
   }
 }
 
