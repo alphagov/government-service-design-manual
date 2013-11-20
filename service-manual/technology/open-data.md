@@ -42,9 +42,11 @@ If for some reason you have made a procurement choice that means your performanc
 ##Making your data open
 Your department has its own [Open Data Strategy (for 2012-2014)](http://www.data.gov.uk/search/apachesolr_search?filters=tid:11542) and will already be publishing data sets on [data.gov.uk](http://www.data.gov.uk/). Your commitment to open, public data doesn't stop there.
 
-Your open data should be user-friendly and searchable. For instance, all data published on data.gov.uk is searchable and placed on a [5-star rating scheme](http://5stardata.info/) to indicate how useable and easy to interpret the data is.
+Your open data should be user-friendly and findable. You should support people who want to reuse it and provide guarantees about how it will be made available.
 
-You should aim to reach at least the 3-star standard.
+Publishing on data.gov.uk makes your data findable and will tell you how it ranks on a [5-star rating scheme](http://5stardata.info/) to indicate whether the data and the format that it is published in is open. You should aim to reach at least the 3-star standard.
+
+The [Open Data Certificates](https://certificates.theodi.org/) from the [Open Data Institute](http://theodi.org/) measures how usable the data is for people who want to reuse it and helps identify ways in which you can improve how you publish the data. You should get a certificate for your data.
 
 The Open Data Principles that you must follow are:
 
@@ -115,3 +117,5 @@ The [Government Statistical Service](http://www.statistics.gov.uk/hub/government
 * [Open formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)
 * [Open standards](/service-manual/making-software/open-standards-and-licensing.html)
 * [Open Data White Paper: Unleashing the Potential](https://www.gov.uk/government/publications/open-data-white-paper-unleashing-the-potential)
+* [Open Government Partnership: UK National Action Plan 2013](https://www.gov.uk/government/consultations/open-government-partnership-uk-national-action-plan-2013)
+* [National Information Infrastructure](https://www.gov.uk/government/publications/national-information-infrastructure)
