@@ -42,9 +42,11 @@ If for some reason you have made a procurement choice that means your performanc
 ##Making your data open
 Your department has its own [Open Data Strategy (for 2012-2014)](http://www.data.gov.uk/search/apachesolr_search?filters=tid:11542) and will already be publishing data sets on [data.gov.uk](http://www.data.gov.uk/). Your commitment to open, public data doesn't stop there.
 
-Your open data should be user-friendly and searchable. For instance, all data published on data.gov.uk is searchable and placed on a [5-star rating scheme](http://5stardata.info/) to indicate how useable and easy to interpret the data is.
+Your open data should be user-friendly and findable. You should support people who want to reuse it and provide guarantees about how it will be made available.
 
-You should aim to reach at least the 3-star standard.
+Publishing on data.gov.uk makes your data findable and will tell you how it ranks on a [5-star rating scheme](http://5stardata.info/) to indicate whether the data and the format that it is published in is open. You should aim to reach at least the 3-star standard.
+
+The [Open Data Certificates](https://certificates.theodi.org/) from the [Open Data Institute](http://theodi.org/) measures how usable the data is for people who want to reuse it and helps identify ways in which you can improve how you publish the data. You should get a certificate for your data.
 
 The Open Data Principles that you must follow are:
 
@@ -84,7 +86,7 @@ If you are using new technology to handle personal data or reusing the data in a
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
 
-This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. You can choose one to suit your particular needs. For free UK government data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
+This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. For UK government open data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
 
 ## Why we do this
 
@@ -105,7 +107,7 @@ You can also find case studies of how people are sharing, using and building ope
 
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk.
 
-The [Open Data Institute](http://www.theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/) can give you advice and training on how to open up your data.
+The [Open Data Institute](http://theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/) can give you advice and training on how to open up your data.
 
 The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
@@ -115,3 +117,5 @@ The [Government Statistical Service](http://www.statistics.gov.uk/hub/government
 * [Open formats](/service-manual/user-centered-design/choosing-appropriate-formats.html)
 * [Open standards](/service-manual/making-software/open-standards-and-licensing.html)
 * [Open Data White Paper: Unleashing the Potential](https://www.gov.uk/government/publications/open-data-white-paper-unleashing-the-potential)
+* [Open Government Partnership: UK National Action Plan 2013](https://www.gov.uk/government/consultations/open-government-partnership-uk-national-action-plan-2013)
+* [National Information Infrastructure](https://www.gov.uk/government/publications/national-information-infrastructure)
