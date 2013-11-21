@@ -46,7 +46,7 @@ Your open data should be user-friendly and findable. You should support people w
 
 Publishing on data.gov.uk makes your data findable and will tell you how it ranks on a [5-star rating scheme](http://5stardata.info/) to indicate whether the data and the format that it is published in is open. You should aim to reach at least the 3-star standard.
 
-The [Open Data Certificates](https://certificates.theodi.org/) from the [Open Data Institute](http://theodi.org/) measures how usable the data is for people who want to reuse it and helps identify ways in which you can improve how you publish the data. You should get a certificate for your data.
+The [Open Data Certificates](https://certificates.theodi.org/) from the [Open Data Institute](http://theodi.org/) measure how usable the data is for people who want to reuse it, and help identify ways in which you can improve how you publish the data. You should get a certificate for your data.
 
 The Open Data Principles that you must follow are:
 
