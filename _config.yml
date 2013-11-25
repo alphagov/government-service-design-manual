@@ -43,7 +43,6 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: style
 
-assets:
-  dirname: service-manual/assets
-  baseurl: /service-manual/assets/
-  gzip: false
+sass:
+  syntax: scss        # scss|sass
+  style:  compressed  # nested|expanded|compact|compressed

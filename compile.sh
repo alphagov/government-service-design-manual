@@ -28,6 +28,24 @@ fi
 
 bundle exec jekyll build
 
+# Jekyll will fail to compile the Sass files if the frontend toolkit isn't checked out
+# however Jekyll doesn't exit with a helpful error, so the build doesn't fail.
+echo "Checking CSS compiled"
+
+function check_css_compiled {
+    if [ -f $1 ]; then
+        echo " OK: Found CSS file $1";
+    else
+        echo " ERROR: $1 not compiled, Sass compilation above probably failed.";
+        exit 1;
+    fi
+}
+check_css_compiled ./_site/service-manual/assets/stylesheets/main.css
+check_css_compiled ./_site/service-manual/assets/stylesheets/print.css
+check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie6.css
+check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie7.css
+check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie8.css
+
 echo "Copying the compiled manual to $GUIDANCE_PATH"
 
 cp -R ./_site/service-manual $GUIDANCE_PATH
