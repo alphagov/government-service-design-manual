@@ -56,7 +56,7 @@ However, in all organisations, the [Head of Business IT](/service-manual/the-tea
 
 Leadership roles in departments need support from the Cabinet Office in sharing IT services so senior leaders can concentrate on providing technology that meets the departments’ specific users. Government Digital Service (GDS) will support the CTO by co-ordinating the digital and technology workstreams.
 
-GDS has established a [Recruitment Hub](/service-manual/the-team/recruitment/hub.html)  — an advisory service provided to departments to help them recruit talented technology leaders and digital specialists. 
+GDS has established a [Recruitment Hub](/service-manual/the-team/recruitment/hub.html) — an advisory service provided to departments to help them recruit talented technology leaders and digital specialists.
 
 As part of the Recruitment Hub service, GDS has already begun to work with departments and agencies to tailor this model to their own organisations. Contact [digitaltalent@digital.cabinet-office.gov.uk](mailto:digitaltalent@digital.cabinet-office.gov.uk) for more information.
 
