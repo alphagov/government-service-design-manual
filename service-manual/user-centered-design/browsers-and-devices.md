@@ -57,6 +57,7 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 
 | OS | Version | Browser | Support |
 |----------------------------------|
+| iOS | 7 | Mobile Safari | Compliant |
 | iOS | 6 | Mobile Safari | Compliant |
 | iOS | 5 | Mobile Safari | Functional |
 | Android | 4.x | Google Chrome | Compliant |
