@@ -49,7 +49,7 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 | &nbsp;  | Internet Explorer 6  | Functional |
 | &nbsp;  | Google Chrome (latest version) | Compliant |
 | &nbsp;  | Mozilla Firefox (latest version) | Compliant |
-| Mac OS X | Safari 5 | Compliant |
+| Mac OS X | Safari 7 | Compliant |
 | &nbsp; | Google Chrome (latest version) | Compliant |
 | &nbsp; | Mozilla Firefox (latest version) | Compliant |
 
