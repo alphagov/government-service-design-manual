@@ -62,7 +62,7 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 | iOS | 5 | Mobile Safari | Functional |
 | Android | 4.x | Google Chrome | Compliant |
 | Android | 2.3 | Android Browser | Functional |
-| Blackberry | 6+ | &nbsp; | Functional |
+| BlackBerry | 6+ | &nbsp; | Functional |
 
 ##Developing universally accessible services
 
