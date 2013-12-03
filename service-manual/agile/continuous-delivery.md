@@ -5,7 +5,7 @@ subtitle: Making releases boring
 category: agile
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, content-designers, tech-archs
+  primary: service-managers, designers, developers, performance-analysts, user-researchers, tech-archs
   secondary:
 status: draft
 phases:
