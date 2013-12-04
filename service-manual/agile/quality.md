@@ -5,7 +5,7 @@ subtitle: How to define it, measure it and maintain it
 category: agile
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, content-designers
+  primary: service-managers, designers, developers, performance-analysts, user-researchers
   secondary:
 status: draft
 phases:

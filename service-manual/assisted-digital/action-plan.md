@@ -5,7 +5,7 @@ subtitle: How to develop assisted digital support
 category: assisted-digital
 type: guide
 audience:
-  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
+  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers
 status: draft
 phases:
   - discovery
