@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: Content designers
+    url: /service-manual/content-designers
 ---
 
 ##Style guide for services
