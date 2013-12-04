@@ -5,7 +5,7 @@ subtitle: Combining design and research to create user focussed services
 category: user-centered-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
+  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa
   secondary:
 status: draft
 phases:
