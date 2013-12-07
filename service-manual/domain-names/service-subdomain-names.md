@@ -34,9 +34,9 @@ purchasing wildcard certificates with this naming convention:
 
 The reasons why we prefer wildcard certificates include:
 
-* being able to take advantage of
+* being able to do HTTP 1.1 virtual hosting for HTTPS without relying on
   [Server Name Indication (SNI)](http://en.wikipedia.org/wiki/Server_Name_Indication).
-  This is essentially HTTP 1.1 virtual-hosting for HTTPS. It may not be
+  This is important because of legacy software which does not support SNI. It may not be
   possible to enumerate all of the names that will be served from a domain,
   so by allowing wildcards, we can meet that need. (You may have the
   public-facing www, admin and assets, but also non-public logging, monitoring
