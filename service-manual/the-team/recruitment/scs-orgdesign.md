@@ -21,9 +21,11 @@ breadcrumbs:
     title: The team
     url: /service-manual/the-team
 ---
-IT has traditionally been used in government as a single entity with an inflexible approach. However, as the diagram below illustrates, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use.
+IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use:
 
-![serving different user needs](/service-manual/assets/images/recruitment/public-private-services.png)
+* Cloud based digital public services
+* Infrastructure and tools
+* Back office services 
 
 These [4 areas](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov/) cover very different stages of development. Digital public services, for example, are customised using very new technologies. However, some technology infrastructure, such as data storage, has evolved over the course of decades. 
 
@@ -65,6 +67,9 @@ The CTO/CDO organisational model is not designed to provide a fixed structure fo
 
 Over time the distinction between digital public services and department-specific IT will weaken. As legacy systems are retired and more [technology is bought through the cloud, for example on CloudStore](https://www.gov.uk/government/policies/transforming-government-services-to-make-them-more-efficient-and-effective-for-users/supporting-pages/buying-cloud-based-it-products-and-services), it will make less sense to draw a separation between the two areas. It’s quite possible that in 5 years’ time the technology quadrant could look like this:
 
-![possible technology quadrants](/service-manual/assets/images/recruitment/technology-quadrants.png)
+* Digital public services: the transactional services that drive citizen engagement with the state
+* Mission IT: the line of business applications that run the individual internal processes of departments and agencies. These are often specific to their business functions and many can be defined as ‘special’, although they draw upon underlying commodity components
+* Infrastructure: the common connectivity, hosting and device management services that enable organisations to have the tools they need in the hands of officials and colleagues
+* Back office: the day to day services like HR and Finance that run the operations of all our departments and agencies
 
 Organisation and governance structures — both within and across departments — will need to develop too. It will be part of the responsibility of senior digital and technology leaders to keep the effectiveness of these structures under review to ensure that they remain fit for purpose.
