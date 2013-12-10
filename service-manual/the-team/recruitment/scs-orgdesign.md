@@ -21,44 +21,56 @@ breadcrumbs:
     title: The team
     url: /service-manual/the-team
 ---
+IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use. These include:
 
-Getting the right people in the right roles is essential for building great digital services. Just as important however, is clear leadership and a well-defined split of responsibilities. It is essential for digital leadership to be on a par with ‘IT’ or ‘technology’ leadership, and to draw clear distinctions and interactions between the two roles. In departments that run transactional services, digital public services must be supported by the right back-end technology.
+* cloud-based digital public services
+* mission IT systems
+* infrastructure and tools
+* back office services
 
-Clearly, the best way for structuring senior technology roles will vary across departments. In larger departments providing multiple digital services, that may mean digital and IT directors reporting in to a board-level COO who has overall strategic responsibility for transforming the department through technology. In smaller departments, it may be more sensible to combine some roles.
+These [4 areas](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov/) cover very different stages of development. Digital public services, for example, are customised using very new technologies. However, some technology infrastructure, such as data storage, has evolved over the course of decades. 
 
-In all cases, the day-to-day management of contractual arrangements, retirement of existing legacy systems and provision of common services that are delivered centrally will be subordinate positions to the strategic transformational leadership of digital and IT.
+Products which 5 or 10 years ago would have required detailed and expensive customisation are now commoditised (packaged as ‘pay-as-you-go’) to the extent where they have virtually become utility services like gas or electricity (you can move between suppliers easily).
 
-GDS will provide bespoke advice for departments on organisation structures and tailoring of SCS job descriptions via the Recruitment Hub. To support these discussions, we have set out a series of outline structures to fit a set of different organisational scenarios. These follow four fundamental principles:
+The appropriate use of such price-competitive commodity products and services opens up significant opportunities for government to benefit from economies of scale and much greater efficiency from the technology it uses.
 
-* Technology must be strongly represented at Board level, by a CTO and a CDO, or a COO with responsibility for driving business change through technology
-* Technology leadership must drive business transformation, not maintain a steady state
-* Digital services and mission IT should - for now - be viewed as separate but strongly linked workstreams driving transformation across the department
-* In departments running digital services, digital is represented at the same or higher seniority level as technology
+##Leadership
 
-These outlines are not intended to be a standard template we expect all departments will follow precisely. The suggested paybands are indicative, as is the relationship technology leaders have with the department’s management board. However, the diagrams should be taken as a firm indication of the relative positions and responsibilities that should be set out within a department’s organisational structure of those accountable for building digital services that meet user needs, and those accountable for delivering the internal technology that supports the delivery of those services.
+Improvements to digital and technology leadership will create a new way of working in government, supporting teams across the civil service in producing brilliant digital public services and better department-specific IT (‘mission IT’).
 
-## Scenario 1
+High-quality leadership will make sure these teams have the right technology to support them. Therefore, government digital and technology leadership should be strongly represented at board level and bring these new technologies to their departments. In many cases digital services and department-specific IT should — for now — be managed as separate but strongly linked workstreams, encouraging transformation across the department. 
 
-This diagram sets out a template structure for a medium to large department, that is responsible for managing a number of digital services and a significant existing IT estate.
+In all cases where departments run digital services, digital should be represented at the same or higher seniority level as technology.
 
-In this model Service Managers and Technology Project Leads have analogous roles - they deliver either the digital services or supporting back-end technology that meets users needs, and ensure that what they deliver is operated in such a way that continues to iteratively improve the offering. In bigger departments, it is likely there would be multiple people in these posts. The Head of Policy and Performance plays a coordinating role across the digital and technology estate, responsible for strategy and policy development, governance and capability building. The Head of Business IT ensures that the technology estate the organisation is running delivers significantly improved value for money, through the deployment of common services and the effective management (and retirement where appropriate) of legacy systems and contracts.
+The new roles of the [Chief Digital Officer (CDO) and Chief Technology Officer (CTO)](/service-manual/the-team/recruitment/job-descriptions.html) are for strategic, transformative leadership. 
 
-![diagram describing scenario 1](/service-manual/assets/images/recruitment/scenario-1.png)
+CDOs will concentrate on producing digital public services and the wider [digital by default strategy.](/service-manual/digital-by-default)
 
-## Scenario 2
+CTOs will concentrate on providing the department-specific IT that supports digital public services and internal users. CTOs will also be in charge of moving their departments to common technology services. 
 
-This diagram sets out a template structure for a smaller, policy-driven department, that is responsible for managing some digital services and a relatively small existing IT estate. The template may also be suited to a large agency or other NDPB that is responsible for managing large public-facing digital services and a supporting IT estate.
+Both CDOs and CTOs will need to work out which areas can be commoditised for maximum value and efficiency, and which need customised services. Both roles need to be getting the most out of new, disruptive and exciting technologies. Their teams will need to support these new technologies. 
 
-The choice of a CTO or CDO to lead technology transformation in smaller departments / agencies will depend on the number of services and the breadth of supporting technology systems they are responsible for.
+##People
+Models, structures and strategies are irrelevant without the right people in the right roles. The best way to restructure senior technology roles will vary across departments according to how much involvement they have across the [4 areas of government technology.](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov)
 
-In organisations with multiple public facing digital services, a CDO is likely to be a more appropriate choice as new mission IT and the retirement of the existing technology estate must be done in such a way that fully supports the transformation of those digital services. However, in organisations where there are fewer public-facing services, a greater emphasis on driving more value for money from mission IT and providing more effective internal technology, a CTO may be more appropriate. In either case, a Director-level leader in this position will need to have a good combination of CDO and CTO skills.
+In some cases both the CDO and CTO will sit on the board; in other cases they might report into a board level Chief Operating Officer (COO), or only the CDO might be on the board. Where digital public services rely on department-specific IT systems to support them, a [service manager](/service-manual/the-team/service-manager.html) role should be in place, reporting into the CDO with accountability and decision making authority for the end-to-end service.
 
-![diagram describing scenario 2](/service-manual/assets/images/recruitment/scenario-2.png)
+However, in all organisations, the [Head of Business IT](/service-manual/the-team/recruitment/job-descriptions.html) should manage the contractual arrangements, retirement of existing legacy systems and provision of infrastructure products and services should be subordinate to leadership roles.
 
-## Scenario 3
+Leadership roles in departments need support from the Cabinet Office in sharing IT services so senior leaders can concentrate on providing technology that meets the departments’ specific users. Government Digital Service (GDS) will support the CTO by co-ordinating the digital and technology workstreams.
 
-This diagram sets out a template structure for a department that does not manage any (or very few) public facing digital services, with technology provision focused primarily on providing tools for internal use.
+GDS has established a [Recruitment Hub](/service-manual/the-team/recruitment/hub.html) — an advisory service provided to departments to help them recruit talented technology leaders and digital specialists.
 
-The focus of the digital deputy director is therefore on policy, strategy and capability building in departments, as well as working closely with GDS to manage the organisation’s online presence on GOV.UK. The technology deputy director is likely to be primarily focused on delivering far greater value for money from the organisation’s technology estate, and liaising with the centre to make the best use of common technology services. GDS will support the CTO in coordinating across the digital and technology workstreams, ensuring effective portfolio and performance management through data collection and a clear oversight across all ongoing projects.
+As part of the Recruitment Hub service, GDS has already begun to work with departments and agencies to tailor this model to their own organisations. Contact [digitaltalent@digital.cabinet-office.gov.uk](mailto:digitaltalent@digital.cabinet-office.gov.uk) for more information.
 
-![diagram describing scenario 3](/service-manual/assets/images/recruitment/scenario-3.png)
+##Future organisation design: maintaining agility and relevance
+The CTO/CDO organisational model is not designed to provide a fixed structure for decades to come. It’s a model that reflects the current changing state of government technology with large legacy estates and new digital services in development, and is the basis to transform technology over the next 3 to 5 years. 
+
+Over time the distinction between digital public services and department-specific IT will weaken. As legacy systems are retired and more [technology is bought through the cloud, for example on CloudStore](https://www.gov.uk/government/policies/transforming-government-services-to-make-them-more-efficient-and-effective-for-users/supporting-pages/buying-cloud-based-it-products-and-services), it will make less sense to draw a separation between the two areas. It’s quite possible that in 5 years’ time the technology quadrant could look like this:
+
+* Digital public services: the transactional services that drive citizen engagement with the state
+* Mission IT: the line of business applications that run the individual internal processes of departments and agencies. These are often specific to their business functions and many can be defined as ‘special’, although they draw upon underlying commodity components
+* Infrastructure: the common connectivity, hosting and device management services that enable organisations to have the tools they need in the hands of officials and colleagues
+* Back office: the day to day services like HR and Finance that run the operations of all our departments and agencies
+
+Organisation and governance structures — both within and across departments — will need to develop too. It will be part of the responsibility of senior digital and technology leaders to keep the effectiveness of these structures under review to ensure that they remain fit for purpose.
