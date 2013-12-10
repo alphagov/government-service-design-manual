@@ -45,14 +45,11 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 
 | OS | Browser | Support |
 |------------------------|
-| Windows | Internet Explorer 10 | Compliant |
-| &nbsp; | Internet Explorer 9 | Compliant |
-| &nbsp; | Internet Explorer 8 | Compliant |
-| &nbsp; | Internet Explorer 7 | Compliant |
-| &nbsp; | Internet Explorer 6 | Functional |
-| &nbsp; | Google Chrome (latest version) | Compliant |
-| &nbsp; | Mozilla Firefox (latest version) | Compliant |
-| Mac OS X | Safari 5 | Compliant |
+| Windows | Internet Explorer 7+ | Compliant  |
+| &nbsp;  | Internet Explorer 6  | Functional |
+| &nbsp;  | Google Chrome (latest version) | Compliant |
+| &nbsp;  | Mozilla Firefox (latest version) | Compliant |
+| Mac OS X | Safari 7 | Compliant |
 | &nbsp; | Google Chrome (latest version) | Compliant |
 | &nbsp; | Mozilla Firefox (latest version) | Compliant |
 
@@ -60,17 +57,18 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 
 | OS | Version | Browser | Support |
 |----------------------------------|
+| iOS | 7 | Mobile Safari | Compliant |
 | iOS | 6 | Mobile Safari | Compliant |
 | iOS | 5 | Mobile Safari | Functional |
 | Android | 4.x | Google Chrome | Compliant |
 | Android | 2.3 | Android Browser | Functional |
-| Blackberry | 6+ | &nbsp; | Functional |
+| BlackBerry | 6+ | &nbsp; | Functional |
 
 ##Developing universally accessible services
 
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement](/service-manual/making-software/progressive-enhancement.html). This recognises that different bits of technology have different capabilities. While everybody gets access to core functionality, those using more sophisticated technology get an enhanced experience.
 
-Progressive enhancement is also important in providing a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK](http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 Statcounter Global Stats') and around 20% of traffic to [GOV.UK](https://www.gov.uk), this mode of access is not an optional extra to consider. 
+Progressive enhancement is also important in providing a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [13% of all internet use in the UK](http://gs.statcounter.com/#mobile_vs_desktop-GB-monthly-201211-201211-bar 'Mobile vs Desktop in United Kingdom on November 2012 Statcounter Global Stats') and around 20% of traffic to [GOV.UK](https://www.gov.uk), this mode of access is not an optional extra to consider.
 
 Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](http://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
 
@@ -87,7 +85,7 @@ Every service has an audience and you should investigate yours to see whether it
 
 This data may sometimes support the case for deprioritising certain development work: although most of [GOV.UK](https://www.gov.uk) is designed to work across all screen sizes, the [Trade Tariff](https://www.gov.uk/trade-tariff) team chose not to tailor their tool to the smaller screen as it is largely used by office workers working during office hours. Equally, if your audience is likely to include those working in the public sector, there may be higher use of older, more limited browsers.
 
-Channel shift means you must also consider your potential future audience. It's anticipated that operating system, browser and device data from [GOV.UK](https://www.gov.uk) will be published as part of the GDS [performance platform](/service-manual/measurement/performance-platform.html) and this will provide a valuable insight into the audience for government services. 
+Channel shift means you must also consider your potential future audience. It's anticipated that operating system, browser and device data from [GOV.UK](https://www.gov.uk) will be published as part of the GDS [performance platform](/service-manual/measurement/performance-platform.html) and this will provide a valuable insight into the audience for government services.
 
 Before launch we noted a marked difference between the existing non-government and government audiences so you should also investigate the data provided by [NetMarketShare](http://www.netmarketshare.com 'NetMarketShare') and [GlobalStats](http://gs.statcounter.com 'Statcounter GlobalStats') who can provide UK and global trends.
 
