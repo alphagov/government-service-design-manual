@@ -24,6 +24,7 @@ breadcrumbs:
 IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use. These include:
 
 * cloud-based digital public services
+* mission IT systems
 * infrastructure and tools
 * back office services
 
