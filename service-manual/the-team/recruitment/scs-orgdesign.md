@@ -23,9 +23,9 @@ breadcrumbs:
 ---
 IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use. These include:
 
-* Cloud based digital public services
-* Infrastructure and tools
-* Back office services 
+* cloud-based digital public services
+* infrastructure and tools
+* back office services
 
 These [4 areas](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov/) cover very different stages of development. Digital public services, for example, are customised using very new technologies. However, some technology infrastructure, such as data storage, has evolved over the course of decades. 
 
