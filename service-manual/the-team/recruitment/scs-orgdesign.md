@@ -21,7 +21,7 @@ breadcrumbs:
     title: The team
     url: /service-manual/the-team
 ---
-IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use:
+IT has traditionally been used in government as a single entity with an inflexible approach. However, government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use. These include:
 
 * Cloud based digital public services
 * Infrastructure and tools
