@@ -36,7 +36,7 @@ Use this information as a step-by-step guide for increasing your digital take-up
 * identifying the barriers that stop current users from wanting to use your digital service
 * knowing which intermediary organisations your users trust to give them information / reassurance about the service
 
-Hertfordshire County Council, as explained in [this case study](/service-manual/assets/documents/hcc-case-study-1.pdf) (PDF, 94KB) developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
+Hertfordshire County Council, as explained in [this case study](/service-manual/assets/documents/hcc-case-study-1.pdf) (PDF, 94KB), developed an understanding of how and why people use its Online Free School Meals service, and used this knowledge to increase take-up.
 
 ###2. Get users to try digital for the first time by:
 
@@ -64,9 +64,9 @@ While this [case study from Chelmsford City Council](/service-manual/assets/docu
 * getting information on your digital service into partner publications / websites that your target users might go to for other reasons
 * checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible – be sure to user-test it
 
-In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF, 103KB) the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
+In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF, 103KB), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
 
-In this [case study from Chelmsford City Council](/service-manual/assets/documents/chelmsford-case-study-3.pdf) (PDF, 81KB) the critical factor is the timing of the communications, ensuring that communications get to the right people at the right time, so that they are encouraged to use the online service.
+In this [case study from Chelmsford City Council](/service-manual/assets/documents/chelmsford-case-study-3.pdf) (PDF, 81KB), the critical factor is the timing of the communications, ensuring that communications get to the right people at the right time, so that they are encouraged to use the online service.
 
 ###4. Manage staff and partner engagement by:
 
