@@ -66,7 +66,7 @@ While this [case study from Chelmsford City Council](/service-manual/assets/docu
 
 In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF, 103KB), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
 
-In this [case study from Chelmsford City Council](/service-manual/assets/documents/chelmsford-case-study-3.pdf) (PDF, 81KB), the critical factor is the timing of the communications, ensuring that communications get to the right people at the right time, so that they are encouraged to use the online service.
+In this [case study from Chelmsford City Council](/service-manual/assets/documents/chelmsford-case-study-3.pdf) (PDF, 81KB), the critical factor is the timing of the communications. The important aspect is ensuring that communications get to the right people at the right time, so that they are encouraged to use the online service.
 
 ###4. Manage staff and partner engagement by:
 
