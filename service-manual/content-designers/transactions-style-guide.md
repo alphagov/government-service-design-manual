@@ -318,9 +318,13 @@ Use the following labelling and single free text boxes for user input:
 Bank or building society details
 
 Account holder
+
 Bank or building society
+
 Sort code 
+
 Account number
+
 Roll number for building societies (if needed) 
 
 For international services use:
