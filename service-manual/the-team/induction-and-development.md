@@ -21,29 +21,46 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-GDS is creating a highly practical induction and development programme to help you as a new service manager.
+GDS is running this highly practical induction and development programme so you can strengthen the skills, knowledge and network you will need to succeed as a service manager.
 
-We're developing the programme iteratively with discovery, alpha and beta phases, moving into live from autumn 2013.
+For 2014, modules are divided between two formats:
 
-As a participant, you’ll be in a group of 6 to 8 service managers and will commit 8 days to the programme over the course of a month.
+**[Induction programme](#induction-programme)**
 
-While on the programme you will:
+4 days to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-*  learn by doing
-*  share your everyday achievements
-*  discuss your challenges with people you can trust
-*  become part of a supportive network of service managers across government
+| Next dates | 2014 |
+|------------|
+| Cohort F | January 15, 16, 22, 23 |
+| Cohort G | February 3, 4, 10, 11 |
+| Cohort H | March 3, 4, 5, 6 |
+| Cohort I | March 12, 13, 19, 20 |
 
-Back in your department you will be better able to:
+**[Open programme](#open-programme)**
 
-*  advocate for digital by default
-*  establish and track user-centred key performance indicators
-*  model the right behaviours
-*  get things done and operate your services effectively
+3 days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
-The programme is constantly evolving to meet participants' needs, but the descriptions below give a flavour of the modules you're likely to cover. They're based on the things service managers told us they need to develop the most, and are led by GDS specialists in each area.
+| Next dates | 2014 |
+|------------|
+| Day 1 | 18 February, 26 March or 24 April |
+| Day 2 | 26 February, 27 March or 30 April  |
+| Day 3 | 25 February, 2 April or 29 April  |
 
-##Changing the game
+**Who should attend**
+
+All newly appointed service managers should book to attend both the induction programme and all 3 days of the open programme.
+
+More experienced service managers or others in specialist roles in government may choose to book onto any or all of the open programme modules.
+
+All sessions will run at a central London location.
+
+The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
+
+#Induction programme
+
+For newly appointed service managers, this aims to equip them with the basic knowledge, network and confidence to take the lead in transforming digital services.
+
+The induction programme includes the following modules:
 
 ###Putting users first
 
@@ -70,8 +87,6 @@ Which principles of leadership can be brought to bear in the new era of agile di
 *  visit some of the agile teams working at Aviation House
 *  consider the role of the service manager in agile provision
 
-##Achieving the goals
-
 ###Meeting the service standard
 
 The [Digital by Default Service Standard](/service-manual/digital-by-default/) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
@@ -90,82 +105,97 @@ As a service manager you need the support of a [multidisciplinary team](/service
 *  consider the team’s tools and working environments
 *  identify specific development needs for yourself and your team members
 
-###Getting things done in government
+#Open programme
 
-The right governance, processes and controls are essential for agile projects to succeed. Your group will:
+These 3 days contain more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
-*  share your experiences of what helps and hinders getting things done in government
-*  see examples of where agile can unlock faster, better decision-making
-*  consider how agile fits with departments’ existing processes and governance
-*  identify support you need from your managers, teams, mentors and peers to move your projects through the delivery process
+The open programme includes the following modules:
 
-##Always improving
+##Day 1
 
 ###KPIs: setting the bar
 
-Your group will discuss how you set and measure key performance indicators (KPIs) for your services so that you can lead them in the right direction. Based on information you will prepare beforehand, you will:
+Your group will discuss how you set and measure key performance indicators for your services so that you can lead them in the right direction. Based on information you will prepare beforehand, you will:
 
-*  share your service KPIs as they currently stand
-*  consider what additional KPIs may be required for your services to measure satisfaction, success rates, cost per transaction and take-up
-*  find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
-*  design your own performance dashboard to show KPIs for your services in a simple, visual way
+* share your service KPIs as they currently stand
 
-*[KPIs]: key performance indicators
+* consider what additional KPIs may be required for your services to measure satisfaction, success rates, cost per transaction and take-up
 
-###Always be testing
+* find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
 
-Carry out [user research](/service-manual/user-centered-design/user-centered-design-alpha-beta) in every stage of your project. Do it continuously through each stage - don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
-
-* keep your team concentrating on real user needs
-* help teams design products which are prioritised by user needs 
-* help teams iterate products in response to user feedback
-
-###Design principles in action
-
-A set of simple but powerful [design principles](https://www.gov.uk/designprinciples) underpin all the work done by GDS to develop the award-winning GOV.UK website. In this session your group will:
-
-*  discover the 10 design principles and how they were created
-*  hear from a product manager who has used them on a project
-*  consider how they will be applied to your own services
-
-###Digital meets IT
-
-To operate effectively, many new digital services must work alongside departments’ existing IT systems. In this session your group will:
-
-*  hear from specialists in [technology architecture](/service-manual/technology/architecture.html)
-*  learn about best practice in security, privacy and identity
-*  hear how government is using open source and open standards to provide more effective digital services
-*  consider how to deliver effective digital services in the context of departments’ existing and planned IT systems
-
-###Procure to improve
-
-Delivering high-quality digital services that improve continuously often depends on effective procurement. As a group you will:
-
-*  consider how to procure tools and systems fit for the purpose of agile, user-centred development
-*  discuss the range of options available, and how to determine make or buy decisions
-*  hear the latest on the government procurement processes and frameworks available on digital transformations
+* design your own performance dashboard to show KPIs for your services in a simple, visual way
 
 ###Increasing take-up
 
 [Digital take-up](/service-manual/measurement/digital-takeup.html) is one of the four KPIs that services must benchmark, measure and monitor to meet the Digital by Default Service Standard. The group will:
 
-*  hear from GDS specialists in digital take-up
-*  consider barriers to adoption and how your services can overcome them
-*  assess the impact of channel shift on non-digital processes
+* hear from GDS specialists in digital take-up
+
+* consider barriers to adoption and how your services can overcome them
+
+* assess the impact of channel shift on non-digital processes
 
 ###Assisted digital
 
 Most users will be able to use new and redesigned government digital services unaided, but there are some who will need help. This support is referred to as [assisted digital](/service-manual/assisted-digital). The group will discover:
 
-*  who are the users who need assisted digital support
-*  what good assisted digital support will look like
-*  how departments and GDS are working together to develop assisted digital support approaches as part of overall service transformation
+* who are the users who need assisted digital support
+
+* what good assisted digital support will look like
+
+* how departments and GDS are working together to develop assisted digital support approaches as part of overall service transformation
+
+##Day 2
+
+###Always be testing
+
+Carry out user research in every stage of your project. Do it continuously through each stage - don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
+
+* keep your team concentrating on real user needs
+
+* help teams design products which are prioritised by user needs 
+
+* help teams iterate products in response to user feedback
+
+###Design principles in action
+
+A set of simple but powerful [design principles](/designprinciples) underpin all the work done by GDS to develop the award-winning GOV.UK website. In this session your group will:
+
+* discover the 10 design principles and how they were created
+
+* hear from a product manager who has used them on a project
+
+* consider how they will be applied to your own services
 
 ###Identity assured
 
 We need to know that users of digital services are who they say they are. In this session, you will learn how the Identity Assurance Programme is:
 
 * creating a market so that users can choose from a number of identity providers
+
 * setting standards for consistently meeting the needs of users, services and departments
+
 * building and running the hub that connects services to identity providers
-* working with departments and agencies to identify their services' identity assurance requirements and plan their transition to using the identity assurance service
+
+* working with departments and agencies to identify their services’ identity assurance requirements and plan their transition to using the identity assurance service
+
+##Day 3 
+
+###Procure to improve
+
+Delivering high quality digital services that improve continuously often depends on effective procurement. As a group you will:
+
+* consider how to procure tools and systems fit for the purpose of agile, user-centred development
+
+* discuss the range of options available, and how to determine make or buy decisions
+
+* hear the latest on the government procurement processes and frameworks available on digital transformations
+
+Plus further sessions to be confirmed on **[agile](/service-manual/agile/index.html)** and **[web operations](/service-manual/the-team/web-operations.html)**
+
+#Request a place
+
+To request a place on the induction programme or the open programme, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
+
+Any questions? Please contact the GDS Capabilities Team: [capabilities-team@digital.cabinet-office.gov.uk](mailto:capabilities-team@digital.cabinet-office.gov.uk)
+
