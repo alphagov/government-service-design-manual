@@ -50,11 +50,11 @@ Click either of the options below to download a template Service Manager job des
 
 [Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx) 
 
-Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html). Newly appointed Service Managers will also be supported by GDS through a specialist training programme. This will include the hands-on process of designing and prototyping a digital service.
+Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 
 ## Induction and development
 
-GDS is creating a highly practical [induction and development programme](/service-manual/the-team/induction-and-development.html) to help you as a new service manager.
+Newly appointed Service Managers are supported by GDS through a specialist [induction and development programme](/service-manual/the-team/induction-and-development.html).
 
 ## Guidance
 
