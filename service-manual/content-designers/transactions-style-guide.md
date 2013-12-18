@@ -23,13 +23,12 @@ breadcrumbs:
 
 ##Style guide for services
 
-This guide sets out government standards for style, logic and content design for services. 
+Using the government standards for style, logic and content design will help you build services that meet user needs.
 
-You must do user research for all your services. The results from your research will inform changes specific to your service. 
+Building services from the user’s perspective and then developing services based on [users’ needs](https://www.gov.uk/service-manual/user-centered-design/user-needs.html) is essential to your project’s success.  
 
-This is version 1 of this guide and it’s not prescriptive about many things. This is because we’re trying out different things on different services and want to include here what actually works with users. You can share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+This guide is itself in the [alpha phase](https://www.gov.uk/service-manual/phases/alpha.html). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
 
-Email comments about this guide to [hinrich.von-haaren@digital.cabinet-office.gov.uk](mailto: hinrich.von-haaren@digital.cabinet-office.gov.uk)
 
 ##GOV.UK style
 Follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) for language and style, eg tone of voice, plain English guidance, and any particular points of style like abbreviations, capitalisation etc.
@@ -184,7 +183,7 @@ Don’t send the user out of the service to read long guidance documents. They w
 ###Error messages
 On the top of the page tell the user where they went wrong and how they can fix it:
 
-There was problem with the information you entered:
+There was a problem with the information you entered:
 
 - Name and address – you must enter this
 - Bank details – your sort code is incorrect
@@ -344,7 +343,7 @@ Enter the dates when you were abroad<br/>
 From [day] [month] [year] to [day] [month] [year]
 
 Validation example: 09/03/2013 to 12/11/2012<br/>
-Error message: Your end date must be before the start date.
+Error message: Your end date must be after the start date.
 
 When asking for past or future dates make sure validation starts from today’s date. Show an error message if user input isn’t in the past or future. 
 
@@ -353,13 +352,11 @@ Periods of time when used in questions or help text should follow the format in 
 
 Send any other labels you’re using to [hinrich.von-haaren@digital.cabinet-office.gov.uk](mailto: hinrich.von-haaren@digital.cabinet-office.gov.uk).
 
-###Sign in or log in
-Use ‘sign in’ instead of ‘log in’.
 
 ###Progress bars
 Make sure these actually reflect what users have to do on each page. Avoid using general terms like ‘other’ or ‘more information’. 
 
-##Start, confirm and done pages
+##Start and done pages
 
 ###Confirm or ‘submit’ page
 You can have a confirm page in your service but you don’t have to. The purpose of this page is for the user to check anything they’ve done before they send it. 
@@ -384,7 +381,7 @@ Thank you.
 
 You’ve [user action]. 
 
-Example
+Example:
 You’ve sent your Carer’s Allowance claim. 
 
 What happens next?
@@ -392,18 +389,16 @@ What happens next?
 
 [include links to other related services or things within the service user can do]
 
-[button with link to GOV.UK done page] Finish 
+[button with link to GOV.UK done page] Finished 
 or 
-[link to GOV.UK done page] Log out
-or
-embed the done page survey on the thank you page
+[link to GOV.UK done page] Sign out
 
 Make sure the copy on this page matches what you asked the user to do at the beginning of the service, eg Remove a benefit, end page: You’ve removed Jobseeker’s Allowance. 
 
 ##Sign in or log in
 Use ‘sign in’ instead of ‘log in’.
 
-###Start, confirm and done pages
+###Start and done pages
 GDS will write and upload the start and done pages on GOV.UK. Raise a ticket in Zendesk and send a summary of what your service does and what the user will get at the end of it, plus the 3 main pieces of information the user needs to get through the service, eg their National Insurance number, date of birth, bank account number.
 
 Also include a list the most important keywords for search engine optimisation because pages within the service won’t be indexed in GOV.UK search. 
