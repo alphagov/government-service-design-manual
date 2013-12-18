@@ -48,7 +48,7 @@ CDOs will concentrate on producing digital public services and the wider [digita
 
 CTOs will concentrate on providing the department-specific IT that supports digital public services and internal users. CTOs will also be in charge of moving their departments to common technology services.
 
-Both CDOs and CTOs will need to work out which areas can be commoditised and which need customised services. Both roles need to be getting the most out of new, disruptive and exciting technologies. Their teams will need to support these new technologies.
+Both CDOs and CTOs will need to work out which areas can be commoditised and which need customised services. Both roles need to be getting the most out of new technologies. Their teams will need to support these technologies.
 
 ##People
 Models, structures and strategies are irrelevant without the right people in the right roles. The best way to restructure senior technology roles will vary across departments according to how much involvement they have across the [4 areas of government technology.](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov)
