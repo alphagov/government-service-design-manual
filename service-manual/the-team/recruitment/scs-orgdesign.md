@@ -68,9 +68,9 @@ The CTO/CDO organisational model is not designed to provide a fixed structure fo
 
 Over time the distinction between digital public services and department-specific IT will weaken. As legacy systems are retired and more [technology is bought through the cloud, for example on CloudStore](https://www.gov.uk/government/policies/transforming-government-services-to-make-them-more-efficient-and-effective-for-users/supporting-pages/buying-cloud-based-it-products-and-services), it will make less sense to draw a separation between the two areas. It’s quite possible that in 5 years’ time the technology quadrant could look like this:
 
-* digital public services: the transactional services that drive citizen engagement with the state
+* digital public services: the transactional services that citizens use
 * mission IT: the line of business applications that run the individual internal processes of departments and agencies. These are often specific to their business functions and many can be defined as ‘special’, although they draw upon underlying commodity components
-* infrastructure: the common connectivity, hosting and device management services that enable organisations to have the tools they need in the hands of officials and colleagues
+* infrastructure: the common connectivity, hosting and device management services that help organisations to have the tools they need
 * back office: the day to day services like HR and Finance that run the operations of all our departments and agencies
 
 Organisation and governance structures — both within and across departments — will need to develop too. It will be part of the responsibility of senior digital and technology leaders to keep the effectiveness of these structures under review to ensure that they remain fit for purpose.
