@@ -27,7 +27,7 @@ For 2014, modules are divided between two formats:
 
 **[Induction programme](#induction-programme)**
 
-4 days to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
+Four days to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
 | Next dates | 2014 |
 |------------|
@@ -38,7 +38,7 @@ For 2014, modules are divided between two formats:
 
 **[Open programme](#open-programme)**
 
-3 days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
+Three days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
 | Next dates | 2014 |
 |------------|
@@ -115,7 +115,7 @@ The open programme includes the following modules:
 
 ###KPIs: setting the bar
 
-Your group will discuss how you set and measure key performance indicators for your services so that you can lead them in the right direction. Based on information you will prepare beforehand, you will:
+The group will discuss how to set and measure key performance indicators so you can lead your services in the right direction. Based on information you will prepare beforehand, you will:
 
 * share your service KPIs as they currently stand
 
