@@ -30,7 +30,7 @@ Government has traditionally treated IT as a single monolithic entity with the s
 
 These [4 areas](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov/) are in very different stages of development. Digital public services, for example, are being built by developers using very new technologies. In contrast, technology infrastructure such as data storage has evolved over the course of decades.
 
-Products which 5 or 10 years ago would have required detailed and expensive customisation are now commoditised (packaged as ‘pay-as-you-go’) - to the extent where they have virtually become utility services like gas or electricity (you can move between suppliers easily).
+Products which 5 or 10 years ago would have required detailed and expensive customisation are now commoditised (packaged as ‘pay-as-you-go’) – to the extent where they have virtually become utility services like gas or electricity (you can move between suppliers easily).
 
 By using technology based on commodity products and services government can benefit from economies of scale and much greater efficiency.
 
