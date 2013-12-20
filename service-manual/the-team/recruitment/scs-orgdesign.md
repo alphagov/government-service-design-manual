@@ -36,7 +36,7 @@ By using technology based on commodity products and services government can bene
 
 ##Leadership
 
-Improvements to digital and technology leadership will create a new way of working in government, supporting teams across the civil service in producing digital public services and better department-specific IT (‘mission IT’), and ensuring these teams have the right technology to support them.
+Improvements to digital and technology leadership will create a new way of working in government, supporting teams across the civil service in producing digital public services and better department-specific IT (or mission IT), and ensuring these teams have the right technology to support them.
 
 For this to happen, government digital and technology leadership should be strongly represented at board level and be specifically responsible for enabling business change. In many cases digital services and department-specific IT should — for now — be managed as separate but strongly linked workstreams, with a common aim of ensuring transformation across the department.
 
