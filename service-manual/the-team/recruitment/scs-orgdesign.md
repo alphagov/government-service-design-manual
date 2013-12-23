@@ -38,7 +38,7 @@ By using technology based on commodity products and services government can bene
 
 Improvements to digital and technology leadership will create a new way of working in government, supporting teams across the civil service in producing digital public services and better department-specific IT (or mission IT), and ensuring these teams have the right technology to support them.
 
-For this to happen, government digital and technology leadership should be strongly represented at board level and be specifically responsible for enabling business change. In many cases digital services and department-specific IT should — for now — be managed as separate but strongly linked workstreams, with a common aim of ensuring transformation across the department.
+For this to happen, government digital and technology leadership should be strongly represented at board level and be specifically responsible for enabling business change. In many cases digital services and department-specific IT should – for now – be managed as separate but strongly linked workstreams, with a common aim of ensuring transformation across the department.
 
 In all cases where departments run digital services, digital should be represented at the same or higher seniority level as technology.
 
@@ -70,4 +70,4 @@ The CTO/CDO organisational model is not designed to provide a fixed structure fo
 
 Over time the distinction between digital public services and department-specific IT will weaken. As legacy systems are retired and more [technology is delivered through the cloud](https://www.gov.uk/government/policies/transforming-government-services-to-make-them-more-efficient-and-effective-for-users/supporting-pages/buying-cloud-based-it-products-and-services), it will make less sense to draw a separation between the two areas. It’s quite possible that in 5 years’ time both citizens and internal users will use the same digital services and technology.
 
-Organisation and governance structures — both within and across departments — will need to develop too. It will be part of the responsibility of senior digital and technology leaders to keep the effectiveness of these structures under review to ensure that they remain fit for purpose.
+Organisation and governance structures – both within and across departments – will need to develop too. It will be part of the responsibility of senior digital and technology leaders to keep the effectiveness of these structures under review to ensure that they remain fit for purpose.
