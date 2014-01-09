@@ -69,6 +69,8 @@ If you service needs to show navigation, then this should sit below the service 
 
 ![Pattern 3: Title and navigation](/service-manual/assets/images/header-footer/header-pattern-3.png)
 
+In this case "Your Tax account" is not a transactional funnel, so it can also include links to feedback and information.
+
 ### Search
 
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
