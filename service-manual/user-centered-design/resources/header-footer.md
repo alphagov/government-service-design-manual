@@ -39,7 +39,7 @@ The text for the banners should be as follows:
 
 > **BETA**: This is a trial service
 
-For services that aren't a transaction funnel, services may optinally choose to link to a feedback survey and description of alpha or beta:
+Services that aren't a transaction funnel may optionally choose to link to a feedback survey and description of alpha or beta:
 
 > **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
 
