@@ -25,20 +25,25 @@ Users will need to know if your service is in [alpha](/service-manual/phases/alp
 
 ## Headers
 
-Your service must be clearly labelled Alpha or Beta using one of the [three design patterns](#design-patterns) described below. The terms [Alpha](/service-manual/phases/alpha) and [Beta](/service-manual/phases/beta) should link to a page on the service manual which clearly explains what these terms mean.
+Your service must be clearly labelled Alpha or Beta using one of the [three design patterns](#design-patterns) described below. 
 
 ### Design patterns
 
 So far, we have identified three patterns that fit the situations we have encountered, we may update this list as the exemplar programme matures and we have strong evidence on how they perform.
 
-Each design pattern also has a banner below the title, which should briefly explain about what 'alpha' or 'beta' means linking through to the appropriate page on the service manual.
+Each design pattern also has a banner below the title, which should briefly explain the stage of the project -  'alpha' or 'beta' - and that it is a trial service.
 
 The text for the banners should be as follows:
+
+> **ALPHA**: This is a prototype
+
+> **BETA**: This is a trial service
+
+For services that aren't a transaction funnel - ie where it is ok to link users away from the servce, the banners should be as follows:
 
 > **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
 
 > **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
-
 
 In all cases the GOV.UK logotype must link to `www.gov.uk`.
 
