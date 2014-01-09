@@ -45,6 +45,8 @@ For services that aren't a transaction funnel, services may optinally choose to 
 
 > **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
 
+Services should only add these links when it is acceptable for a user to be taken away from their existing flow.
+
 In all cases the GOV.UK logotype must link to `www.gov.uk`.
 
 ### Pattern 1: No title
