@@ -58,7 +58,7 @@ our
 [basic CSS](https://github.com/alphagov/static/tree/master/app/assets/stylesheets),
 and our
 [basic Javascript](https://github.com/alphagov/static/tree/master/app/assets/javascripts). Anything
-added to this repository is built to be used across the entire gov.uk
+added to this repository is built to be used across the entire g[GOV.UK](https://www.gov.uk)
 website and is used to provide a consistent look and feel.
 
 ### Frontend
