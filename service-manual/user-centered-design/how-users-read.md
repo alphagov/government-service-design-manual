@@ -24,7 +24,6 @@ breadcrumbs:
 The [style guide](https://www.gov.uk/designprinciples/styleguide) is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
 
 ## Reading
-
 Users only really read 20 to 28% of a web page. With services, where users just want to complete the task as quickly as possible, you have added user impatience so you may find users skim words even more.
 
 [The style guide](https://www.gov.uk/designprinciples/styleguide) and [how we write](/service-manual/user-centered-design/writing-government-services.html) give guidance on how to write. This page details why we do it.
@@ -68,21 +67,16 @@ Not only are we giving users full information - which is obviously what we're me
 In tools and transactions you need to give people context. By giving them information they're expecting, you help them get through it faster.
 
 ## Learning disabilities
-
-This is a huge subject, with many different nuances. But 1 thing we can do is remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
+We should remember that people with some learning disabilities read letter for letter. They don’t bounce around like other users.
 
 They also can’t retain the comprehension of the sentence as a whole if it's too long.
 
-People with moderate learning disabilities can retain comprehension of 5 to 8 words. Now, we can’t go that far but if we concentrate on common words, we can get to the standard retention figure of around 25 words.
-
-Quite frankly, we all get a bit lost if you have a 72-word sentence. Again, why would we make it hard, when it can be so easy and we don’t lose the usability?
+People with moderate learning disabilities can retain comprehension of 5 to 8 words. If we concentrate on common words we can get to the standard retention figure of around 25 words.
 
 ## Why we do this
-
 Our audience is potentially anyone living in the UK. We need to be able to communicate in a way that most users understand.
 
 Government can’t afford to be elitist and use language only those with a very good education can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.
 
 ## Further reading
-
 Nielsen: For more detail on why [20-28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
