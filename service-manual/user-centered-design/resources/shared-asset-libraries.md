@@ -58,14 +58,14 @@ our
 [basic CSS](https://github.com/alphagov/static/tree/master/app/assets/stylesheets),
 and our
 [basic Javascript](https://github.com/alphagov/static/tree/master/app/assets/javascripts). Anything
-added to this repository is built to be used across the entire g[GOV.UK](https://www.gov.uk)
+added to this repository is built to be used across the entire GOV.UK
 website and is used to provide a consistent look and feel.
 
 ### Frontend
 
 The [frontend repository](https://github.com/alphagov/frontend)
 contains the wrapper templates and views for many of the various pages
-used across gov.uk. It gives a good indication as to how to structure
+used across GOV.UK. It gives a good indication as to how to structure
 HTML and assets together.
 
 ### govuk_frontend_toolkit
