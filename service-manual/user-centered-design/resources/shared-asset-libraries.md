@@ -30,7 +30,7 @@ When building services around patterns and consistency, it's important
 to share your frontend assets so that they can be easily reused as
 required.
 
-There's are two additional benefits to this approach:
+There are two additional benefits to this approach:
 
 - Single serve assets are
   [recommended by Yahoo! as a performance best practice](http://developer.yahoo.com/performance/rules.html#num_http)
