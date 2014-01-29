@@ -1,33 +1,19 @@
-<!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8 " lang="en"><![endif]-->
-<!--[if gt IE 8]><!--><html lang="en" class=""><!--<![endif]-->
-<head>
-  {% include _head.html %}
+---
+layout: govuk_template
+header_class: with-proposition
+---
+<section id="user-satisfaction-survey" class="visible">
+  <div class="wrapper">
+    <h1>Tell us what you think</h1>
+    <p><a href="https://www.surveymonkey.com/s/servicemanual" id="take-survey" target="_blank">Take the 3 minute survey</a>. This will open a short survey on another website</p>
+  </div>
+</section>
 
-</head>
-<body class="mainstream full-width {% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %} {{ page.section }}">
-  <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
+<div id="wrapper">
 
-  {% include _header.html %}
+  <main id="content" role="main" class="group">
 
-  <section id="user-satisfaction-survey" class="visible">
-    <div class="wrapper">
-      <h1>Tell us what you think</h1>
-      <p><a href="https://www.surveymonkey.com/s/servicemanual" id="take-survey" target="_blank">Take the 3 minute survey</a>. This will open a short survey on another website</p>
-    </div>
-  </section>
+    {{ content }}
 
-  <div id="wrapper">
-
-    <main id="content" role="main" class="group">
-
-      {{ content }}
-
-    </main>
-  </div><!--end wrapper-->
-
-  {% include _footer.html %}
-
-  {% include _scripts.html %}
-</body>
-</html>
+  </main>
+</div><!--end wrapper-->

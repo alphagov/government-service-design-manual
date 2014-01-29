@@ -46,3 +46,5 @@ kramdown:
 sass:
   syntax: scss        # scss|sass
   style:  compressed  # nested|expanded|compact|compressed
+
+govuk_template_assets: '/service-manual/assets/govuk_template'
