@@ -197,5 +197,5 @@ Plus further sessions to be confirmed on **[agile](/service-manual/agile/index.h
 
 To request a place on the induction programme or the open programme, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
 
-Any questions? Please contact the GDS Capabilities Team: [capabilities-team@digital.cabinet-office.gov.uk](mailto:capabilities-team@digital.cabinet-office.gov.uk)
+Any questions? Please contact the GDS Capabilities Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
