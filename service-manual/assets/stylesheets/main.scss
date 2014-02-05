@@ -9,6 +9,7 @@
 @import "../toolkit/stylesheets/_typography";
 @import "../toolkit/stylesheets/_conditionals";
 @import "../toolkit/stylesheets/_shims";
+@import "../toolkit/stylesheets/design-patterns/_media-player";
 
 @import "helpers/_conditionals2.scss";
 
@@ -48,6 +49,7 @@
 @import "helpers/_tooltip.scss";
 @import "helpers/_user-satisfaction-survey";
 @import "helpers/_inline-images.scss";
+@import "helpers/_media-player.scss";
 
 // Views
 @import "views/_default.scss";

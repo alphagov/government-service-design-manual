@@ -1,0 +1,20 @@
+.player-container {
+  @include media-player;
+  .control-bar .player-controls {
+    .play {
+      background-image: url('/service-manual/assets/toolkit/images/player-icon-play.png');
+    }
+    .pause {
+      background-image: url('/service-manual/assets/toolkit/images/player-icon-pause.png');
+    }
+    .rewind {
+      background-image: url('/service-manual/assets/toolkit/images/player-icon-rewind.png');
+    }
+    .forward {
+      background-image: url('/service-manual/assets/toolkit/images/player-icon-forward.png');
+    }
+    .vol-display {
+      background-image: url('/service-manual/assets/toolkit/images/player-icon-volume.png');
+    }
+  }
+}
