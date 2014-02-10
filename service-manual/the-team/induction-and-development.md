@@ -29,22 +29,26 @@ For 2014, modules are divided between two formats:
 
 Four days to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-| Next dates | 2014 |
+| Cohort | 2014 |
 |------------|
-| Cohort F | January 15, 16, 22, 23 |
-| Cohort G | February 3, 4, 10, 11 |
-| Cohort H | March 3, 4, 5, 6 |
-| Cohort I | March 12, 13, 19, 20 |
+| F | January 15, 16, 22, 23 |
+| G | February 3, 4, 10, 11 |
+| H | March 3, 4, 5, 6 |
+| I | March 12, 13, 19, 20 |
+| J | May 12, 13, 14, 15 |
+| K | May 21, 22 and June 4, 5 |
+| L | June 23, 24, 30 and July 1 |
+| M | July 7, 8, 9 10 |
 
 **[Open programme](#open-programme)**
 
 Three days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
-| Next dates | 2014 |
+| Day | 2014 |
 |------------|
-| Day 1 | 18 February, 26 March or 24 April |
-| Day 2 | 26 February, 27 March or 30 April  |
-| Day 3 | 25 February, 2 April or 29 April  |
+| 1 | 18 February, 26 March, 24 April, 11 June and 16 July |
+| 2 | 26 February, 27 March, 30 April, 12 June and 17 July |
+| 3 | 25 February, 2 April, 29 April, 19 June and 23 July |
 
 **Who should attend**
 
