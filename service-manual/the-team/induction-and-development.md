@@ -69,8 +69,9 @@ The induction programme includes the following modules:
 ###Why are we here?
 
 Together we’re leading the digital transformation of government, by making services so good people prefer to use them. This introductory session explores:
+
 *  why we need to change the way government does digital
-*  what has happened so far, including the launch of gov.uk and adoption of the 25 exemplar transformations
+*  what has happened so far, including the launch of GOV.UK and adoption of the 25 exemplar transformations
 *  what this means for agencies and departments in general and for the role of service manager in particular
 
 ###Putting users first
@@ -119,6 +120,7 @@ As a service manager you need the support of a [multidisciplinary team](/service
 ###Make, test and learn
 
 It's time to try out the methods and tools picked up on the programme so far. In this practical exercise your group will:
+
 *  self-organise to respond to a real-life brief
 *  discover user needs, write user stories and prototype solutions to meet them
 *  test your solutions with target users and iterate based on what you learn
