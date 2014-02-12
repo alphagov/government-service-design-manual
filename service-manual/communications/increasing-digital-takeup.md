@@ -68,6 +68,8 @@ In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF
 
 In this [case study from Chelmsford City Council](/service-manual/assets/documents/chelmsford-case-study-3.pdf) (PDF, 81KB), the critical factor is the timing of the communications. The important aspect is ensuring that communications get to the right people at the right time, so that they are encouraged to use the online service.
 
+This [case study](/service-manual/assets/documents/landregistry-case-study-2.pdf) (PDF, 103KB), about the Land Registry and their e-Document Registration Service highlights the value of involving other stakeholders to help to communicate the benefits of using digital services.
+
 ###4. Manage staff and partner engagement by:
 
 * identifying the benefits of the digital service for your delivery partners and highlighting these in your engagement with them
@@ -88,6 +90,8 @@ This [case study](/service-manual/assets/documents/hmrc-case-study-4.pdf) (PDF, 
 
 [This case study](/service-manual/assets/documents/hmrc-case-study-5.pdf) (PDF, 145KB)  from the HMRC Cross Tax Strategy explains how HMRC offered financial incentives for online filing and why they later switched to non-fiscal benefits.
 
+In this [case study](/service-manual/assets/documents/companieshouse-case-study-1.pdf) (PDF, 131KB), from Companies House, customer insight is used to ensure that the online service fully meets customer needs and to develop a communications strategy highlighting the benefits of online filing (including fee differentials) for service users.
+
 ###6. Overcome legislative barriers by:
 * identifying legal requirements which disrupt digital delivery and hinder digital take-up (eg data sharing restrictions, requirements for wet signatures) and develop a plan to resolve them
 * discussing these with your policy team to work out non-bureaucratic solutions
@@ -99,6 +103,8 @@ In [this case study](/service-manual/assets/documents/dvla-case-study-6.pdf) (PD
 * educating users about how your services and procedures should work so that your users are less susceptible to phishing activities and third parties which mis-sell government services
 * making sure that your department’s single point of contact (SPOC  - see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
 * every department with public-facing transactions should have a SPOC that co-ordinates the investigation and resolution of end-users’ reports about scams or phishing activity
+
+This [case study](/service-manual/assets/documents/landregistry-case-study-7.pdf) (PDF, 76KB), about the Land Registry e-Document Registration Service shows how they took action to reassure service users that the digital service met current standards to address potential security risks.
 
 
 ###8. Identify users’ triggers for using non-digital channels and satisfy these needs through your digital service by:
