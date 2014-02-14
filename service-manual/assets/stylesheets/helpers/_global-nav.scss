@@ -1,32 +1,182 @@
-// GLOBAL NAVIGATION
 #global-header {
+  .header-wrapper .header-global .site-search {
+    @extend %contain-floats;
+    width: 49%;
+    float: right;
+
+    @include media(desktop){
+      width: 33.33%;
+    }
+    @media screen and (max-width: 379px) {
+      width: auto;
+      float: none;
+    }
+
+    .content {
+      margin: 0 15px;
+    }
+  }
   &.with-proposition {
-    .search-toggle {
-      @media screen and (max-width: 379px) {
+    #search {
+      margin-top: 4px;
+    }
+  }
+
+  .search-toggle {
+    display: none;
+    background-color: $main-colour;
+
+    @media screen and (max-width: 379px) {
+      display: block;
+      float: right;
+      height: 30px;
+      width: 36px;
+      padding: 0;
+      margin: -32px 15px;
+      overflow: hidden;
+      text-indent: -5000px;
+      background-color: $main-colour;
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/static/search-button.png);
+      background-repeat: no-repeat;
+      background-position: 0 50%;
+
+      body.search & { display: none; }
+
+      @include device-pixel-ratio() {
+        background-size: 52.5px 35px;
+        background-position: 100% 50%;
+      }
+    }
+
+    &:hover {
+      background-color: darken($main-colour, 5%);
+    }
+
+    &.js-hidden { display: none; }
+  }
+
+  form#search {
+    .content {
+      @extend %contain-floats;
+      position: relative;
+      background: #fff;
+    }
+    label {
+      float: left;
+      height: 35px;
+      line-height: 35px;
+      text-indent: 15px;
+      overflow: hidden;
+      display: block;
+      margin-right: 10px;
+
+      .js-enabled & {
+        float: none;
+        position: absolute;
+        left: 0;
+        top: 1px;
+        z-index: 1;
+        width: 100%;
+        margin-right: 0;
+      }
+    }
+    input {
+      @include box-sizing(border-box);
+      float: left;
+      width: 50%;
+      min-width: 0;
+      display: block;
+      margin: 0;
+      border: 0;
+      height: 35px;
+      padding: 6px 0;
+      @include ie-lte(7){
+        height: 23px;
+      }
+      @include appearance(none);
+    }
+
+    input#site-search-text {
+      @include core-16($line-height: (23/16), $line-height-640: (23/13));
+      position: relative;
+      padding: 6px;
+      z-index: 3;
+      background: transparent;
+
+      &.focus,
+      &:focus {
+        background: #fff;
+      }
+
+      @include ie-lte(7){
+        padding-left: 0;
+      }
+      .js-enabled & {
+        width: 86%;
+        @include calc(width, "100% - 37px");
+      }
+    }
+
+    input.submit {
+      position: absolute;
+      z-index: 4;
+      right: 0;
+      top: 0;
+      width: 35px;
+      height: 35px;
+
+      border: 1px solid $main-colour;
+      border-width: 0 0 0 1px;
+      @include ie-lte(7){
+        border-width: 1px;
+      }
+      border-left-color: #222;
+      @include border-radius(0);
+
+      overflow: hidden;
+      text-indent: -5000px;
+
+      color: $white;
+      background-color: $main-colour;
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/static/search-button.png);
+      background-repeat: no-repeat;
+      background-position: 0 50%;
+
+      @include device-pixel-ratio() {
+        background-size: 52.5px 35px;
+        background-position: 100% 50%;
+      }
+
+      @include ie-lte(7) {
+        background-image: none;
+        width: auto;
+      }
+
+      &:hover {
+        background-color: darken($main-colour, 5%);
+      }
+    }
+
+    @include ie-lte(7) {
+      input.button-active {
+        background-color: $main-colour;
+        top: 0;
+      }
+
+      input.button-hover {
         background-color: $main-colour;
       }
     }
 
-    form#search {
-      input.submit {
-        border: 1px solid $main-colour;
-        background-color: $main-colour;
-      }
-    }
 
-    .header-proposition {
-      #proposition-name {
-        color: $white;
-      }
-      #proposition-links {
-        li {
-          a {
-            &.active {
-              color: $main-colour;
-            }
-          }
-        }
+    @media screen and (max-width: 379px) {
+      display: none;
+      width: 100%;
+
+      #site-search-text {
+        width: 80%;
       }
     }
+    &.js-visible { display: block; }
   }
 }

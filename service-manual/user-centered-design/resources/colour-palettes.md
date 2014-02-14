@@ -32,8 +32,8 @@ This is the standard [GOV.UK](https://www.gov.uk) colour palette. We recommend y
     <ul>
       <li class="text-colour"><p>$text-colour ($black)</p></li>
       <li class="secondary-text-colour"><p>$secondary-text-colour ($grey-1)</p></li>
-      <li class="link-colour"><p>$link-colour (#2e3191)</p></li>
-      <li class="link-visited-colour"><p>$link-visited-colour (#2e3191)</p></li>
+      <li class="link-colour"><p>$link-colour (#005ea5)</p></li>
+      <li class="link-visited-colour"><p>$link-visited-colour (#2e8aca)</p></li>
       <li class="link-active-colour"><p>$link-active-colour (#2e8aca)</p></li>
       <li class="link-hover-colour"><p>$link-hover-colour (#2e8aca)</p></li>
     </ul>

@@ -1,0 +1,22 @@
+<!--[if gt IE 8]><!-->
+  <link href="/service-manual/assets/stylesheets/main.css?cache={{ site.time | date: "%s" }}" media="screen" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if IE 6]>
+  <link href="/service-manual/assets/stylesheets/main-ie6.css?cache={{ site.time | date: "%s" }}" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link href="/service-manual/assets/stylesheets/main-ie7.css?cache={{ site.time | date: "%s" }}" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+  <link href="/service-manual/assets/stylesheets/main-ie8.css?cache={{ site.time | date: "%s" }}" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link href="/service-manual/assets/stylesheets/print.css?cache={{ site.time | date: "%s" }}" media="print" rel="stylesheet" type="text/css" />
+
+{% if page.css  %}
+<link rel="stylesheet" href="{{ page.css }}" />
+{% endif %}
+
+{% if page.js  %}
+<script defer src="{{ page.js }}" type="text/javascript"></script>
+{% endif %}

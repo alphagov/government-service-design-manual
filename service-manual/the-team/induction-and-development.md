@@ -29,22 +29,26 @@ For 2014, modules are divided between two formats:
 
 Four days to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-| Next dates | 2014 |
+| Cohort | 2014 |
 |------------|
-| Cohort F | January 15, 16, 22, 23 |
-| Cohort G | February 3, 4, 10, 11 |
-| Cohort H | March 3, 4, 5, 6 |
-| Cohort I | March 12, 13, 19, 20 |
+| F | January 15, 16, 22, 23 |
+| G | February 3, 4, 10, 11 |
+| H | March 3, 4, 5, 6 |
+| I | March 12, 13, 19, 20 |
+| J | May 12, 13, 14, 15 |
+| K | May 21, 22 and June 4, 5 |
+| L | June 23, 24, 30 and July 1 |
+| M | July 7, 8, 9 10 |
 
 **[Open programme](#open-programme)**
 
 Three days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
-| Next dates | 2014 |
+| Day | 2014 |
 |------------|
-| Day 1 | 18 February, 26 March or 24 April |
-| Day 2 | 26 February, 27 March or 30 April  |
-| Day 3 | 25 February, 2 April or 29 April  |
+| 1 | 18 February, 26 March, 24 April, 11 June and 16 July |
+| 2 | 26 February, 27 March, 30 April, 12 June and 17 July |
+| 3 | 25 February, 2 April, 29 April, 19 June and 23 July |
 
 **Who should attend**
 
@@ -61,6 +65,14 @@ The programme is funded centrally, but you or your department will need to pay f
 For newly appointed service managers, this aims to equip them with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
 The induction programme includes the following modules:
+
+###Why are we here?
+
+Together we’re leading the digital transformation of government, by making services so good people prefer to use them. This introductory session explores:
+
+*  why we need to change the way government does digital
+*  what has happened so far, including the launch of GOV.UK and adoption of the 25 exemplar transformations
+*  what this means for agencies and departments in general and for the role of service manager in particular
 
 ###Putting users first
 
@@ -79,13 +91,13 @@ Which principles of leadership can be brought to bear in the new era of agile di
 *  hear war stories from someone who is a leader in the digital field
 * take away tips and practical advice on digital leadership
 
-###Being agile
+###Thinking agile
 
-[Agile](/service-manual/agile/index.html) is essential to the Digital by Default Service Standard. Your group will:
+[Agile](/service-manual/agile/index.html) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
 
-*  unpack the tools and practices that make agile such a powerful method for delivering services
-*  visit some of the agile teams working at Aviation House
-*  consider the role of the service manager in agile provision
+* agile as a mindset, much wider than a set of tools and techniques
+* the principles to be found in the [Agile Manifesto](http://agilemanifesto.org/) and how they apply to software projects and beyond
+* the agile disciplines that keep teams focused on outcomes and maximise the chances of success
 
 ###Meeting the service standard
 
@@ -104,6 +116,14 @@ As a service manager you need the support of a [multidisciplinary team](/service
 *  get to the heart of what job titles and descriptions really mean, so that your department can appoint the right people, and at the right levels
 *  consider the team’s tools and working environments
 *  identify specific development needs for yourself and your team members
+
+###Make, test and learn
+
+It's time to try out the methods and tools picked up on the programme so far. In this practical exercise your group will:
+
+*  self-organise to respond to a real-life brief
+*  discover user needs, write user stories and prototype solutions to meet them
+*  test your solutions with target users and iterate based on what you learn
 
 #Open programme
 

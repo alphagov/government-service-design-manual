@@ -180,7 +180,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-15">
-    <div class="point">Make all new source code open and reuseable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).</div>
+    <div class="point">Make all new source code open and reusable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>

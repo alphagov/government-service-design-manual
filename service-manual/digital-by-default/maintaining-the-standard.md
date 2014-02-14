@@ -27,4 +27,4 @@ To keep the standard, the service team **must** demonstrate that:
 - high levels of [transaction completion](/service-manual/measurement/completion-rate.html) are consistently maintained in the digital and assisted digital service
 - [cost per transaction](/service-manual/measurement/cost-per-transaction.html) is decreasing in line with plans submitted ahead of the service’s launch
 - [digital take-up](/service-manual/measurement/digital-takeup.html) is [increasing in line with plans](/service-manual/communications/increasing-digital-takeup.html) submitted ahead of the service’s launch and [assisted digital support](/service-manual/assisted-digital) is targeted at the people who really need it
-- all new source code is open, reuseable and published under appropriate licenses (or else there is a convincing explanation of why this cannot be done for specific subsets of the source code)
+- all new source code is open, reusable and published under appropriate licenses (or else there is a convincing explanation of why this cannot be done for specific subsets of the source code)

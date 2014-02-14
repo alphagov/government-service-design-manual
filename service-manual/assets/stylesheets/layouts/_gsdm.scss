@@ -43,6 +43,167 @@ header.page-header {
   }
 }
 
+#global-breadcrumb {
+    background-color: #fff;
+    border-bottom: 1px solid #dee0e2;
+    padding: 0.75em 2em;
+    z-index: 50
+}
+
+@media (max-width: 640px) {
+    #global-breadcrumb {
+        padding: 0.75em 1em
+    }
+}
+
+#global-breadcrumb nav {
+    max-width: 960px;
+    margin: 0 auto
+}
+
+#global-breadcrumb nav ol {
+    margin: 0;
+    padding: 0
+}
+
+#global-breadcrumb nav ol li {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 1.25;
+    font-weight: 300;
+    text-transform: none;
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/static/separator-73822610794bc3a64871f144d93d6526.png);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    float: left;
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0.5em;
+    padding-right: 1em
+}
+
+@media (max-width: 640px) {
+    #global-breadcrumb nav ol li {
+        font-size: 1.4rem;
+        line-height: 1.14286
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+    #global-breadcrumb nav ol li {
+        background-image:url(https://assets.digital.cabinet-office.gov.uk/static/separator-2x-2ff66846b80b66edba8ce56d29daa935.png);
+        background-size: 6px 11px
+    }
+}
+
+#global-breadcrumb nav ol li a {
+    color: #0b0c0c
+}
+
+#global-breadcrumb nav ol li strong {
+    font-weight: normal
+}
+
+#global-breadcrumb nav ol li:last-child {
+    background-image: none;
+    margin-right: 0
+}
+
+#user-satisfaction-survey {
+    display: none;
+    background-color: #2B358B;
+    padding: 0.5em 0;
+    color: #fff
+}
+
+@media (min-width: 769px) {
+    #user-satisfaction-survey.visible {
+        display: block
+    }
+}
+
+#user-satisfaction-survey div.wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+    height: 45px;
+    clear: both
+}
+
+#user-satisfaction-survey div.wrapper h1,#user-satisfaction-survey div.wrapper p {
+    float: left
+}
+
+#user-satisfaction-survey div.wrapper h1 {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 19px;
+    font-size: 1.9rem;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none;
+    width: 280px;
+    margin-top: 10px
+}
+
+@media (max-width: 640px) {
+    #user-satisfaction-survey div.wrapper h1 {
+        font-size: 1.6rem;
+        line-height: 1.25
+    }
+}
+
+#user-satisfaction-survey div.wrapper p {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 14px;
+    font-size: 1.4rem;
+    line-height: 1.42857;
+    font-weight: 400;
+    text-transform: none;
+    margin-left: 15px;
+    margin-top: 14px
+}
+
+@media (max-width: 640px) {
+    #user-satisfaction-survey div.wrapper p {
+        font-size: 1.2rem;
+        line-height: 1.25
+    }
+}
+
+#user-satisfaction-survey div.wrapper p a {
+    margin-left: 15px
+}
+
+#user-satisfaction-survey div.wrapper p a:link {
+    color: #fff
+}
+
+#user-satisfaction-survey div.wrapper p a:hover {
+    color: #333
+}
+
+#user-satisfaction-survey div.wrapper p a.button {
+    font-family: "nta",Arial,sans-serif;
+    font-size: 19px;
+    font-size: 1.9rem;
+    line-height: 1.31579;
+    font-weight: 400;
+    text-transform: none
+}
+
+@media (max-width: 640px) {
+    #user-satisfaction-survey div.wrapper p a.button {
+        font-size: 1.6rem;
+        line-height: 1.25
+    }
+}
+
+#user-satisfaction-survey div.wrapper p.right {
+    float: right;
+    margin-top: 12px
+}
+
+
 #content {
   margin: 0 auto;
   max-width: 1020px;
@@ -53,5 +214,114 @@ article {
   .inner {
     padding: 0 10em 2em 2em;
     width: auto;
+  }
+}
+
+/* Global footer */
+
+#footer {
+  $grey-6: #a1acb2;
+  .footer-categories {
+    font-size: 0;
+    float: left;
+
+    border: 1px solid $grey-6;
+    border-width: 0 0 1px 0;
+
+    margin-bottom: 30px;
+
+    padding: 20px 0;
+
+    width: 100%;
+
+    @include media(tablet) {
+      padding: 0 0 60px 0;
+    }
+
+    .footer-explore {
+      float: left;
+      margin: 0 0 30px 0;
+      width: 100%;
+
+      @include media(tablet) {
+        margin-right: 7%;
+        display: block;
+        width: 62%;
+      }
+    }
+  
+    ul {
+      @include core-16;
+      list-style: none;
+
+      border: 0 solid $grey-6;
+
+      margin: 20px 0 0 0;
+      padding: 20px 0 0 0;
+
+      min-height: 0;
+
+      vertical-align: top;
+
+      @include media(tablet) {
+        min-height: 210px;
+        border-width: 1px 0 0 0;
+
+      }
+    
+      li {
+        display: block;
+        clear: left;
+        margin: 0 0 15px 0;
+        list-style: none;
+
+        @include ie-lte(8) {
+          display: inline;
+          min-height: 1.5em;
+          clear: none;
+        }
+
+        @include ie(6) {
+          height: 1.5em;
+        }
+
+        @include media(tablet) {
+          float: left;
+          width: 45.5%;
+
+
+          &:nth-child(even) {
+            float: right;
+            clear: none;
+          }
+        }
+      }
+
+      @include ie(6) {
+        border-top: none;
+        zoom: 1;
+      }
+    }
+
+    .footer-inside-government {
+      @include media(tablet){
+        float: left;
+        width: 31%;
+      }
+
+      ul {
+        margin: 20px 0 0 0;
+
+        li {
+          margin-right: 0;
+          width: 100%;
+
+          &:nth-child(even) {
+            float: none;
+            clear: none;
+          }
+        }
+      }
+    }
   }
 }

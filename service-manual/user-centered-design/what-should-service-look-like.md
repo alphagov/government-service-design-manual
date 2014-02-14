@@ -29,7 +29,7 @@ The first place to start is by reading our [design principles](https://www.gov.u
 
 By “on GOV.UK” we mean the service is either at `www.gov.uk/myservice`, `myservice.service.gov.uk` or `myblog.blog.gov.uk`. At the point of launch it should look like GOV.UK and should have the GOV.UK logotype, including the crown.
 
-If your service isn’t on GOV.UK you can still follow the guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. Here is a good example of [a site that follows our design patterns](http://digital.cabinetoffice.gov.uk/2013/03/18/intranets-dcms/) without using the logo.
+If your service isn’t on GOV.UK you can still follow the guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. This blog post talks about a good example of [a site that follows our design patterns](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) without using the logo.
 
 ## Is it live?
 
