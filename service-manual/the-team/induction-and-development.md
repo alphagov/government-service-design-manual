@@ -91,13 +91,13 @@ Which principles of leadership can be brought to bear in the new era of agile di
 *  hear war stories from someone who is a leader in the digital field
 * take away tips and practical advice on digital leadership
 
-###Being agile
+###Thinking agile
 
-[Agile](/service-manual/agile/index.html) is essential to the Digital by Default Service Standard. Your group will:
+[Agile](/service-manual/agile/index.html) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
 
-*  unpack the tools and practices that make agile such a powerful method for delivering services
-*  visit some of the agile teams working at Aviation House
-*  consider the role of the service manager in agile provision
+* agile as a mindset, much wider than a set of tools and techniques
+* the principles to be found in the [Agile Manifesto](http://agilemanifesto.org/) and how they apply to software projects and beyond
+* the agile disciplines that keep teams focused on outcomes and maximise the chances of success
 
 ###Meeting the service standard
 
