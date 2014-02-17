@@ -43,73 +43,6 @@ header.page-header {
   }
 }
 
-#global-breadcrumb {
-    background-color: #fff;
-    border-bottom: 1px solid #dee0e2;
-    padding: 0.75em 2em;
-    z-index: 50
-}
-
-@media (max-width: 640px) {
-    #global-breadcrumb {
-        padding: 0.75em 1em
-    }
-}
-
-#global-breadcrumb nav {
-    max-width: 960px;
-    margin: 0 auto
-}
-
-#global-breadcrumb nav ol {
-    margin: 0;
-    padding: 0
-}
-
-#global-breadcrumb nav ol li {
-    font-family: "nta",Arial,sans-serif;
-    font-size: 16px;
-    font-size: 1.6rem;
-    line-height: 1.25;
-    font-weight: 300;
-    text-transform: none;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/static/separator-73822610794bc3a64871f144d93d6526.png);
-    background-position: 100% 50%;
-    background-repeat: no-repeat;
-    float: left;
-    list-style: none;
-    margin-left: 0;
-    margin-right: 0.5em;
-    padding-right: 1em
-}
-
-@media (max-width: 640px) {
-    #global-breadcrumb nav ol li {
-        font-size: 1.4rem;
-        line-height: 1.14286
-    }
-}
-
-@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-    #global-breadcrumb nav ol li {
-        background-image:url(https://assets.digital.cabinet-office.gov.uk/static/separator-2x-2ff66846b80b66edba8ce56d29daa935.png);
-        background-size: 6px 11px
-    }
-}
-
-#global-breadcrumb nav ol li a {
-    color: #0b0c0c
-}
-
-#global-breadcrumb nav ol li strong {
-    font-weight: normal
-}
-
-#global-breadcrumb nav ol li:last-child {
-    background-image: none;
-    margin-right: 0
-}
-
 #user-satisfaction-survey {
     display: none;
     background-color: #2B358B;
@@ -249,7 +182,7 @@ article {
         width: 62%;
       }
     }
-  
+
     ul {
       @include core-16;
       list-style: none;
@@ -268,7 +201,7 @@ article {
         border-width: 1px 0 0 0;
 
       }
-    
+
       li {
         display: block;
         clear: left;

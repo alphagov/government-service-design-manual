@@ -80,12 +80,12 @@ of letters, numbers and symbols, but ideally they'll be longer than that. We
 refer to passphrases as a phrase is usually easier to remember but harder to
 guess than a short collection of symbols or a single word.
 
-> For some admin systems for GOV.UK we created the
-  [passphrase entropy](https://github.com/alphagov/passphrase_entropy)
+> For some admin systems on GOV.UK we use the
+  [zxcvbn](https://github.com/lowe/zxcvbn)
   library that measures how hard it would be for a computer to crack a
   passphrase using brute-force methods. That library is used to validate
   new passphrases and insist on strong passphrases. It's only one measure,
-  but it increased our confidence that our users would be picking good
+  but it increases our confidence that our users are picking good
   passphrases.
 
 All new government services should be served over
