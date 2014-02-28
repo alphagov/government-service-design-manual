@@ -51,9 +51,9 @@ The team will probably develop their own additional goals as well.
 
 The reason for running an alpha is to identify risks to the wider project early.
 
-The alpha should therefore identify the biggest risks to the project and aim to explore those risks to have a better understanding of them.
+The alpha should therefore identify a project's biggest risks and explore those risks to understand them better.
 
-In most government projects, the risks fall into three main categories:
+In most government projects, the risks fall into 3 main categories:
 
 - design
 - business process
