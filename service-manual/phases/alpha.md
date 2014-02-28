@@ -48,9 +48,9 @@ The alpha doesn't need to be a complete, end-to-end transaction. You're looking 
 
 Think of it as a proof of concept:
 
-* is the solution appropriate? 
+* is the solution appropriate?
 * is your approach viable
-* do you have enough understanding of your users' needs to meet them? 
+* do you have enough understanding of your users' needs to meet them?
 
 If not, find out more and make a new prototype.
 
@@ -74,6 +74,10 @@ The outputs for the alpha phase are:
 * decision to progress to [beta phase](/service-manual/phases/beta.html)
 * final analysis on the research you have commissioned on user needs
 * options for the assisted digital support for your service
+
+## An ideal alpha
+
+For a worked example, we have written up some information on an [ideal alpha](/service-manual/phases/ideal-alphas.html)
 
 {:.phase-nav}
 * **[Next phase: beta](/service-manual/phases/beta.html)**
