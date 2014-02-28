@@ -14,6 +14,9 @@ breadcrumbs:
   -
     title: Phases of service design
     url: /service-manual/phases
+  -
+    title: Alpha
+    url: /service-manual/phases/alpha.html
 ---
 
 ##What is an alpha##
@@ -181,3 +184,7 @@ approval for further spending
 The last demo of the alpha should have the attendance of the project board or senior management team from the service.  At that demo, you are able to show what the alpha has achieved and demonstrate the feasibility of the beta program.
 
 Assuming that the status reports to project board and the show and tell have got approval, then as the project draws to an end, the team will want to have a final retrospective, and produce a backlog of epic stories for the Beta program.
+
+{:.phase-nav}
+* **[Next phase: beta](/service-manual/phases/beta.html)**
+* [Previous phase: discovery](/service-manual/phases/discovery.html)
