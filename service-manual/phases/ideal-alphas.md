@@ -1,6 +1,6 @@
 ---
 layout: phases
-title: Ideal Alphas
+title: Ideal alphas
 subtitle: What does an alpha project look like
 phase: alpha
 category: guidance
@@ -16,27 +16,27 @@ breadcrumbs:
     url: /service-manual/phases
 ---
 
-##What is an Alpha##
+##What is an alpha##
 
 {:.intro}
-An [Alpha](/service-manual/phases/alpha.html) is a process that happens at the beginning of a project that allows us to explore the major risks to the project, and discover whether the project is feasible and get some ideas as to the cost of the project.
+An [alpha](/service-manual/phases/alpha.html) is a process that happens at the beginning of a project that allows us to explore the major risks to the project, and discover whether the project is feasible and get some ideas as to the cost of the project.
 
-It is primarily defined by two activites:
+It is primarily defined by two activities:
 
-- Identifying Risks
-- Prototyping Solutions
+- identifying risks
+- prototyping solutions
 
 This document covers how to go about executing an alpha project.
 
-Each Alpha project has a different set of risks to identify and people with different skills available to them.  The following guidance should be considered guidelines for a healthy alpha project rather than a checklist that must be followed for each project.  However when deviating from the guidance, you should be able to understand the costs of changing the process and ensure that the benefits outweigh them and therefore justify your changes.
+Each alpha project has a different set of risks to identify and people with different skills available to them.  The following guidance should be considered guidelines for a healthy alpha project rather than a checklist that must be followed for each project.  However when deviating from the guidance, you should be able to understand the costs of changing the process and ensure that the benefits outweigh them and therefore justify your changes.
 
 ##Preparing##
 
 ###Identifying goals###
 
-Before planning an alpha, the team must work out what the goals of the Alpha are.
+Before planning an alpha, the team must work out what the goals of the alpha are.
 
-For example, some of your goals might be: 
+For example, some of your goals might be:
 
 - attempting to prove that you can replace an existing digital service  
 - prove that you can replace a paper service with a digital service
@@ -51,33 +51,33 @@ The team will probably develop their own additional goals as well.
 
 The reason for running an alpha is to identify risks to the wider project early.
 
-The Alpha should therefore identify the biggest risks to the project and aim to explore those risks to have a better understanding of them.
+The alpha should therefore identify the biggest risks to the project and aim to explore those risks to have a better understanding of them.
 
 In most government projects, the risks fall into three main categories:
 
-- Design
-- Business Process
-- Technical Risks
+- design
+- business process
+- technical risks
 
-The Design risks cover the issues that come with running a user centered design process within an iterative model.  We find that it often takes several attempts to get the service proposition correct for the citizen.  You'll need to think about things like: How easy is it to use; will the user get through it correctly the first time; what do errors look like; how will I analyse the user research; how do I build prototypes quickly.
+The design risks cover the issues that come with running a user centered design process within an iterative model.  We find that it often takes several attempts to get the service proposition correct for the citizen.  You'll need to think about things like: How easy is it to use; will the user get through it correctly the first time; what do errors look like; how will I analyse the user research; how do I build prototypes quickly.
 
-The Business Process risks are about how the department will integrate with the new process.  Do they have sufficiant fraud checks, are they set up to handle support calls, how will the service be operated.
+The business process risks are about how the department will integrate with the new process.  Do they have sufficient fraud checks, are they set up to handle support calls, how will the service be operated.
 
-The Technical Risks tend to be about integrating into the existing systems.  What sort of ongoing connections will be necessary, are there special hosting arrangements (e.g. high security hosting).
+The technical risks tend to be about integrating into the existing systems.  What sort of ongoing connections will be necessary, are there special hosting arrangements (e.g. high security hosting).
 
-In our experience, there are always technical risks to all projects, however most government departments have a history of solving technical risks and have entire teams dedicated to them.  Business Process and Design risks are far less well understood, and so we encourage Alpha's to focus on exploring those risks with prototyping over full service integrations.
+In our experience, there are always technical risks to all projects, however most government departments have a history of solving technical risks and have entire teams dedicated to them.  Business process and design risks are far less well understood, and so we encourage alpha's to focus on exploring those risks with prototyping over full service integrations.
 
 
 ###Identifying the team###
 
 The well rounded team will need to have the following skill sets:
 
-- Design (service, UX, content as needed)
-- User Research (user testing)
-- Prototype development
-- Service integration development
-- Delivery Management
-- Business Analysis
+- design (service, UX, content as needed)
+- user research (user testing)
+- prototype development
+- service integration development
+- delivery management
+- business analysis
 
 The team will probably be bigger than this, and the service may supply its own team members who will normally be being skilled up during this process, and thus probably wont be significant contributing factor.
 
@@ -88,25 +88,25 @@ The team must have the core skills to build a wireframe or prototype user journe
 
 ###Identifying process###
 
-Each Alpha will be different, because the risks and goals are different.
+Each alpha will be different, because the risks and goals are different.
 
-However we find that there are commonalities in how good Alphas are run.
+However we find that there are commonalities in how good alphas are run.
 
-We want to maximise the amount of learning that is happening in the Alpha.  We therefore tend to expect Alpha's to be short, about 8 weeks in length.
+We want to maximise the amount of learning that is happening in the alpha.  We therefore tend to expect alpha's to be short, about 8 weeks in length.
 
-We expect Alphas to normally consist of:
+We expect alphas to normally consist of:
 
 - an inception
 - a series of iterations of design, development and test
-- either: 
-  - Alpha termination
-  - Alpha to Beta transition
+- either:
+  - alpha termination
+  - alpha to Beta transition
 
 ##Executing##
 
 ###Inception###
 
-We believe that Alpha's should start with an inception process.  An inception is designed to gel the team together and share the knowledge about the risks and goals identified.
+We believe that alpha's should start with an inception process.  An inception is designed to gel the team together and share the knowledge about the risks and goals identified.
 
 We tend to recommend a short inception, somewhere between 4 to 7 days tends to work well.
 
@@ -127,7 +127,7 @@ The inception may well cover introductions to agile methodology itself, if the p
 
 ###Iterations###
 
-Alpha's are often about identifying competiting hypothesis about the user journey or business process.  We therefore expect to produce multiple prototypes to test the hypothesis, and run tests in a short amount of time so we can learn, modify and retest.
+Alpha's are often about identifying competing hypothesis about the user journey or business process.  We therefore expect to produce multiple prototypes to test the hypothesis, and run tests in a short amount of time so we can learn, modify and retest.
 
 At this early a stage of a project, it is rare that a single flow or design can be selected, and so we encourage the building and testing of multiple prototypes.  This allows you to much more quickly get feedback as to the best experience for the users and allows competing ideas to be tested.
 
@@ -157,27 +157,27 @@ Working at this pace will result in:
 This assumes fairly high definition prototypes, with backend systems that mock out service integrations, but actual working logic.
 
 If you need to iterate faster (as is likely at first), you can start with much lower fidelity prototypes to test various flows and much faster iteration of research and prototype development.
- 
+
 We would anticipate that you will do a demonstration of the service journey so far, highlighting what the team has learnt and what the team is planning on doing next, at the end of each iteration.
 
 We've often found that aligning the iterations to Monday to Friday is not a best practice because it provides logistical issues (the first and last day of the iteration are the most critical for the entire team, and Mondays/Fridays have the most absence).
 
 Starting the iteration on a Wednesday, with User testing on Thursday and demo the following Tuesday has worked well in the past.
 
-###Ending the Alpha###
+###Ending the alpha###
 
-The value of the Alpha process is that the team can use it to identify early the biggest risks to the Beta part of the program.  
+The value of the alpha process is that the team can use it to identify early the biggest risks to the Beta part of the program.  
 
-It is important to remember that the most valuable output from the Alpha process is the increased domain understanding and the team forming behaviours.
-If the code produced during the Alpha is not high enough quality then it should be thrown away and rebuilt.
+It is important to remember that the most valuable output from the alpha process is the increased domain understanding and the team forming behaviours.
+If the code produced during the alpha is not high enough quality then it should be thrown away and rebuilt.
 
-The other output of the Alpha is the early decision not to continue into Beta.  This represents a successful Alpha since it reduces wasted time and money.  It may well be the case that at the end of the Alpha you go back to the discovery outputs and start a new Alpha with a different focus or go back and reperform discovery.
+The other output of the alpha is the early decision not to continue into Beta.  This represents a successful alpha since it reduces wasted time and money.  It may well be the case that at the end of the alpha you go back to the discovery outputs and start a new alpha with a different focus or go back and reperform discovery.
 
-However, assuming a successful Alpha project, then early in the Alpha process, the Delivery Manager and the Service Manager will start to work on the business proposal for the Beta program.
+However, assuming a successful alpha project, then early in the alpha process, the Delivery Manager and the Service Manager will start to work on the business proposal for the Beta program.
 
 The reason for starting so early on the Beta program proposal is that in many cases the team would like to continue without a break into the beta program so as to maintain the momentum and therefore need to allow for the time to gain
 approval for further spending
 
-The last demo of the Alpha should have the attendance of the project board or senior management team from the service.  At that demo, you are able to show what the Alpha has achieved and demonstrate the feasibility of the beta program.
+The last demo of the alpha should have the attendance of the project board or senior management team from the service.  At that demo, you are able to show what the alpha has achieved and demonstrate the feasibility of the beta program.
 
 Assuming that the status reports to project board and the show and tell have got approval, then as the project draws to an end, the team will want to have a final retrospective, and produce a backlog of epic stories for the Beta program.
