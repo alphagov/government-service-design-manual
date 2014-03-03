@@ -31,7 +31,7 @@ This guide is itself in the [alpha phase](https://www.gov.uk/service-manual/phas
 
 
 ##GOV.UK style
-Follow the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) for language and style, eg tone of voice, plain English guidance, and any particular points of style like abbreviations, capitalisation etc.
+Follow the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide) for language and style, eg tone of voice, plain English guidance, and any particular points of style like abbreviations, capitalisation etc.
 
 ##Name of your service
 Make sure users can easily find your service through search engines like Google. Optimise the title of your service. 
@@ -217,7 +217,7 @@ Things that don’t work very well:
 If you’re trying out other ideas, email them to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
 
 ##Headings 
-All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide#capitalisation).
+All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-capitalisation).
 
 Headings must give the user a clear indication where they are in the service. The name of your service should be on every page.
 

@@ -21,12 +21,12 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-The [style guide](https://www.gov.uk/designprinciples/styleguide) is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
+The [style guide](https://www.gov.uk/design-principles/style-guide) is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
 
 ## Reading
 Users only really read 20 to 28% of a web page. Where users just want to complete a service as quickly as possible, there's added user impatience so you may find users skim words even more.
 
-[The style guide](https://www.gov.uk/designprinciples/styleguide) and [how we write](/service-manual/user-centered-design/writing-government-services.html) give guidance on how to write. This page details why we do it.
+[The style guide](https://www.gov.uk/design-principles/style-guide) and [how we write](/service-manual/user-centered-design/writing-government-services.html) give guidance on how to write. This page details why we do it.
 
 All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.
 

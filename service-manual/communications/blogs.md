@@ -44,7 +44,7 @@ A well-chosen illustration or photo can add important context or information for
 
 ##Use the style guide...
 
-[The GOV.UK style guide](https://www.gov.uk/designprinciples/styleguide) is an invaluable tools for writers. It’s full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
+[The GOV.UK style guide](https://www.gov.uk/design-principles/style-guide) is an invaluable tools for writers. It’s full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
 
 In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the 'words to avoid' list – it’s there to make sure writers stay clear no matter the audience.
 
