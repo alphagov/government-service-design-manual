@@ -5,7 +5,7 @@ subtitle: Designing useful and usable government services
 category: user-centered-design
 type: guide
 audience:
-  primary: designer
+  primary: designers
 status: draft
 phases:
   - alpha
