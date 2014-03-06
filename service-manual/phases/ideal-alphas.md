@@ -35,11 +35,7 @@ It is primarily defined by two activities:
 
 This document covers how to go about executing an alpha project.
 
-Each alpha project has a different set of risks to identify and people with different skills available to them. You should consider this guidance as guidelines for a healthy alpha project rather than a checklist to follow. If you deviate from this guidance:
-
-1. Be able to understand the costs of changing the process
-1. Ensure that the benefits outweigh them
-1. Justify your changes
+Following this guidance will help you create a successful alpha project. You should bear in mind that these guidelines are flexible and are intended to direct you towards achieving your project goals simply and quickly.
 
 ##Preparing##
 
