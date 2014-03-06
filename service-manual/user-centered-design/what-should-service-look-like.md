@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: What should my service look like
+title: What your service should look like
 subtitle: Guidance for creating a consistent look-and-feel
 category: user-centered-design
 type: guide
