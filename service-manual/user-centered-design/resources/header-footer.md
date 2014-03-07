@@ -89,7 +89,7 @@ End user feedback can provide data that is invaluable for developing and improvi
 
 ### Using the GOV.UK logotype
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
+You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
 
 ## Footers
 
