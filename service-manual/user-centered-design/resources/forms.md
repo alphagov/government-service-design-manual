@@ -21,75 +21,31 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-## Writing the HTML for forms
+## General guidance
 
-Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html).
 
-Browsers have default styling for forms. This is usually shared with the styling of the operating system user interface (UI), making it familiar to users. Ensure that any styling you add does not remove any of the native, highly accessible functionality offered by these defaults.
+### Writing forms
 
-The [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML. This is more important than with other HTML elements as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
+* Use sentence case
+* Address the user directly
+* Follow the style guide
+* Don’t invent proper nouns, eg don’t say ‘Check your Identity Profile’
 
-## User interface patterns
 
-In the forms created so far on [GOV.UK](https://www.gov.uk) certain patterns of display have emerged as solutions to common UI problems. What follows is a guide to those patterns.
+### Coding forms
 
-## Aligning controls in a column
+Use the [HTML5 specification](http://www.w3.org/TR/html51/) and [progressive enhancement](/service-manual/making-software/progressive-enhancement.html) when coding forms. This will ensure that they're fully accessible across the widest range of browsers and devices.
 
-The base pattern for grouping controls is in a column with one row for each control and its label.
+Avoid changing the default appearance or behaviour of form elements without good reason. Users will be familiar with the defaults and familiarity aids comprehension.
 
-<div class="pattern-example">
-    <div class="form-example-1">
 
-      <p class="option group">
-        <label for="checkbox1"><input id="checkbox1" type="checkbox"> Job offers</label>
-        <label for="checkbox2"><input id="checkbox2" type="checkbox"> Networking</label>
-        <label for="checkbox3"><input id="checkbox3" type="checkbox"> Business opportunities</label>
-      </p>
+## Form labels
 
-    </div>
-</div>
+All form elements other than buttons should have a label. A label must be associated with it's control using the 'for' attribute or by nesting the control inside the label.
 
-## Aligning controls in a row
+### Positioning labels
 
-You might occasionally need to arrange your group of controls in a row, for instance if they have short labels and there are only a few options.
-
-<div class="pattern-example">
-    <div class="form-example-1">
-        <fieldset>
-          <legend><span>Gender</span></legend>
-          <p class="inline option group">
-            <label for="male"><input id="male" type="radio" name="gender"> Male</label>
-            <label for="female"><input id="female" type="radio" name="gender"> Female</label>
-          </p>
-        </fieldset>
-  </div>
-</div>
-
-## Pre-checked radios and checkboxes
-
-You may want to pre-check radios if:
-
-* we already know the answer because it was given previously
-* there is a good business reason to steer users towards a particular answer, for instance 'Contact me by email' may be preferable to 'Contact me by phone' to help manage callcentre workload
-* there is a strong ‘common case’ bias towards a particular answer
-
-Do not pre-check radios if:
-
-* selecting none is a valid option (to be avoided for radios only, as they can’t be unchecked)
-* we want an unbiased opinion without leading the user
-* there is a legal requirement for the user to make a choice
-
-## Wrapping controls in a label tag
-
-In the examples above the controls are wrapped in their associated label tag.
-
-The default behaviour of clicking a label will move focus to its associated form element. By wrapping a form element in its label you increase the size of the area users need to click to interact with that element to whatever size you make the label.
-
-## Label positioning
-
-There are valid cases for top, left or right alignment of labels. The position of an element's label does not effect how screenreaders announce it to users.
-
-The table below (from a [great article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
+By default, labels should be positioned above their control, but there are valid cases for left or right alignment of labels too. The table below (from an [article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
 
 |-----------------------------------|--------------|-------------------|---------------|
 |                                   | Top          | Right             | Left          |
@@ -103,221 +59,158 @@ The table below (from a [great article on form design](http://uxdesign.smashingm
 | Time to move from label to input  | 50ms         | 240ms             | 500ms         |
 | Ideal for...                      | Simple forms | Less simple forms | Complex forms |
 
-## Hidden labels
+The position of an element's label does not effect how screenreaders announce it to users.
 
-All form elements other than submission buttons should have a label. For situations where a label would not fit into the visual interface the label should be hidden from view.
 
-Hiding labels should be done with care as by doing so you are taking information away from the user.
+### Hiding labels
 
-Labels should never be hidden by using `display: none` as this will also remove them from the [document flow](http://www.w3.org/TR/html51/dom.html#flow-content) meaning they will not be recognised by screenreaders.
+Only hide labels if people can still infer how to use the control from it's context. Don't use `display: none` as this will stop the label being read out by screenreaders.
 
-In the example below the second input box has a hidden label. It is associated with the first input box visually by its position. For non-visual users it is important the label is present to provide this information.
 
-<div class="pattern-example">
-    <div class="form-example-1">
+### Writing label text
 
-      <p class="group">
-        <label for="street1">Street</label>
-        <input id="street1" type="text" class="street">
-      </p>
-      <p class="group">
-        <label for="street2" class="visuallyhidden">Street line two</label>
-        <input id="street2" type="text" class="street">
-      </p>
-      <p class="group">
-        <label for="town">Town/City</label>
-        <input id="town" type="text" class="town">
-      </p>
-      <p class="group">
-        <label for="postcode">Postcode</label>
-        <input id="postcode" type="text" class="postcode">
-      </p>
+* Don't use 'please', but give polite, clear, short instructions
+* Don't use colons after labels
+ 
 
-    </div>
-</div>
 
-## Styling text input fields
+### Indicating mandatory and optional fields
 
-When styling form elements we should try to achieve the same goals as the default styling through our own CSS.
+You should be asking users for the minimum amount of information you need to run your service, 
+so nearly all your fields should be mandatory.
 
-A few examples of how to achieve this for input fields:
+Rather than pepper the interface with repetative '*' symbols, which then have to be explained, 
+simply mark the optional fields in the labels with '(optional)'.
 
-* Light grey background: To make them stand out equally on a white page or coloured panel
-* Inset border style: By convention people type into 'holes' cut into the interface
+If you need to, add text at the top of the form saying 'all fields are required unless stated otherwise'.
 
-## Fieldsets and legends
 
-As explained in their [HTML5 specification section](http://www.w3.org/TR/html51/forms.html#the-fieldset-element) fieldsets are used to break up forms into logical sections.
+## Text fields
 
-<div class="pattern-example">
-    <div class="form-example-1">
+Text fields should be sized according to their content. For example, a postcode field should be shorter than an email address field.
+Doing this gives people an extra cue as to the kind of content they're being asked for.
 
-        <fieldset>
-          <legend>Name</legend>
-          <p class="group">
-            <label for="first-name">First name</label>
-            <input id="first-name" type="text" class="name">
-          </p>
-          <p class="group">
-            <label for="last-name">Last name</label>
-            <input id="last-name" type="text" class="name">
-          </p>
-        </fieldset>
+Avoid using placeholder text inside text fields. It confuses some people and the text dissapears once they start typing into the field.
 
-    </div>
-</div>
 
-### Nested fieldsets
+## Checkboxes and radio buttons
 
-There are times when you might want to treat a set of form controls like they were a single, compound control
-(a date-of-birth selector for example). One way to do this is with a nested fieldset.
+Use radio buttons to let users choose a single option from a list. Use checkboxes for on/off toggles or for multiple selections.
 
-<div class="pattern-example">
+Research indicates many users do not know the difference between radios and checkboxes. They will decide whether it's multiple or single choice based on the question and answer text instead, so word these carefully.
 
-    <div id="form-example-2" class="left">
+### Pre-selecting options
 
-      <fieldset>
-        <legend>Your details</legend>
-        <p class="group">
-          <label for="full-name">Full name</label>
-          <input id="full-name" type="text" class="full-name">
-        </p>
-        <fieldset>
-          <legend><span>Date of birth</span></legend>
-          <div class="inline group">
-            <p class="group">
-              <label for="day" class="visuallyhidden">Day</label>
-              <select id="day" type="text">
-                <option value="Day">Day</option>
-                <!-- Other options go here -->
-              </select>
-            </p>
-            <p class="group">
-              <label for="month" class="visuallyhidden">Month</label>
-              <select id="month" type="text">
-                <option value="Month">Month</option>
-                <!-- Other options go here -->
-              </select>
-            </p>
-            <p class="group">
-              <label for="year" class="visuallyhidden">Year</label>
-              <select id="year" type="text">
-                <option value="Year">Year</option>
-                <!-- Other options go here -->
-              </select>
-            </p>
-          </div>
-        </fieldset>
-      </fieldset>
+Do not pre-select options if:
 
-  </div>
+* there's a legal requirement for the user to make a choice
+* you don't want to bias users towards making a particular choice
 
-</div>
+Do pre-select options if:
 
-## Hints
+* we already know the answer because it was given previously
+* there's a good reason to steer users towards a particular answer
+* there's a strong common case bias towards a particular answer
 
-Hints for help with interactions can be placed above or below the relevant control.
+For radio buttons, if 'none of the above' is a valid response remember to represent it explicitly. A set of radio buttons cannot be reset to an unselected state once it's been interacted with.
 
-<div class="pattern-example">
-    <div class="form-example-1">
+### Highlighting the clickable region
 
-      <p class="group">
-        <label for="telephone">Telephone</label>
-        <input id="telephone" type="text">
-        <span class="hint">Include your country code</span>
-      </p>
+Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small. To help these people you can enlarge the clickable region and make it visible.
 
-      <p class="group">
-        <label for="code">Code</label>
-        <input id="code" type="text" class="small">
-        <span class="inline hint">The three numbers on the back of the card</span>
-      </p>
 
-      <p class="group">
-        <label for="password">Password</label>
-        <span class="hint">Make it at least six characters long</span>
-        <input id="password" type="password">
-      </p>
+## Select boxes
 
-    </div>
-</div>
+Research is showing that some people struggle to use select boxes. Test with your users and use alternatives where possible.
+
+For short lists, radio buttons are often preferable. They make all the options immediately visible which can help with comprehension.
+
+For long lists, consider a free-text field with an auto-suggest feature, or try breaking the list down into shorter lists.
+
+
+## Help text
+
+First try to design a service that's so intuitive it doesn't need help text.
+You shouldn't need help text to explain the interface - it should be simple enough to understand without explanation.
+Help text should be contextual - it should relate to the user's current situation.
+Here are some different ways of providing help text.
+
+
+### Form hints
+
+Form hints are short pieces of text positioned next to a form control.
+Use form hints to:
+
+* explain where to find the information being asked for
+* give an example to show the format of the information
+* explain what will be done with the information
+
+By default, form hints should be placed immediately above the associated control. However, you can position it below the control if it aids overall comprehension. On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
+
+
+### Hidden help text
+
+If the help text is only relevant to a minority of users you can keep your interface less cluttered by hiding the text behind a summary which the user has to click on. Be careful not to hide important content from people or force them to interact needlessly with the page.
+
+Remember - if most people will need the text, don't hide it.
+
+Summary text tends to work better when it's targetted, rather than the generic 'Help' or 'Info'. For example:
+
+* 'I can't find my National Insurance number'
+* 'What's this?'
+
+
+### Detailed help
+
+Some transactions are complex and some users will dive in to a transaction without the required knowledge to complete it.
+
+You need to support these users by allowing them to access more detailed guidance from within the transaction,
+without them losing their place. If you need to open a new browser window remember to tell people you're going to do this.
+
 
 ## Buttons
 
-By default buttons should be horizontally left-aligned beneath the form inputs (not necessarily left aligned with the labels, and not right aligned on the page). The primary action should be the first button in the group.
+[ Primary button, secondary button, disabled button ]
 
-<div class="pattern-example">
-        <div class="form-example-1">
-        <p class="group">
-          <label for="full-name">Full name</label>
-          <input id="full-name" type="text" class="full-name">
-        </p>
-        <p class="action group">
-          <input class="button" type="submit" value="Next">
-          <input class="button-secondary" type="submit" value="Cancel">
-        </p>
+Use buttons to represent actions. Use them sparingly - one button per form is ideal.
 
-    </div>
-</div>
+Position buttons in the user's line of sight. The bottom left of a form, aligned with the controls is good.
 
-See the [separate page on buttons](/service-manual/user-centered-design/resources/buttons.html) for more detailed guidance.
+### Button text
+
+Keep button text clear and concise. Avoid jargon and words like 'submit'.
+Use verbs and an active voice - buttons should describe the thing they do.
+As elsewhere on GOV.UK, use sentence case.
+
+Here are some common examples:
+
+'Start now'
+: Use at the beginning of the service
+
+'Next'
+: Not 'forward', 'go' etc.
+
+'Finish'
+: Use at the end of a service before the final confirmation screen
+
+'Back'
+: Not 'previous'
+
+'Sign in' and 'Sign out'
+: Not 'log-in' or 'log-out'
+
+'Sign up'
+: Use this for mailing lists
+
+'Create an account'
+: Not 'register'
+
 
 ## Validation messages
 
-Summarise any validation errors at the top of your page like this:
-
-### Example
-
-<div class="pattern-example">
-    <div class="form-example-1">
-
-      <div class="validation-summary">
-        <h1>Please check the form</h1>
-        <ul>
-          <li><a href="#error1">Re-type your email address</a></li>
-          <li><a href="#error2">Select at least one area of interest</a></li>
-        </ul>
-      </div>
-
-    </div>
-</div>
-
-Each link should jump the user down to the corresponding form control.
-
-The red bar visually connects the summary to the messages in the form and aids quick scanning of the form for errors.
-
-# Examples in this page
-
-To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centered-design/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
-
-# Examples on [GOV.UK](https://www.gov.uk)
-
-Examples of forms currently in use across [GOV.UK](https://www.gov.uk) are:
-
-* [Contact page](https://www.gov.uk/contact/govuk)
-* [Freedom of information request form](https://www.gov.uk/contact/foi)
-* [Search results page](https://www.gov.uk/search?q=tax)
-* [404 page](https://www.gov.uk/notapage)
-* [Report a problem form](https://www.gov.uk/vat) (click the 'Report a problem' link to view)
-* [Licence finder](https://www.gov.uk/licence-finder/sectors)
-* [Trade Tariff](https://www.gov.uk/trade-tariff/sections)
-
-<script>
-  $(function() {
-
-    // Style toggle for pattern examples
-    // Takes the text of the clicked 'option' and assigns it as
-    // a class to the element named in the 'data-for' attribute
-    $('.class-toggle .option').click(function(){
-      $('.class-toggle .option').removeClass('selected');
-      $(this).addClass('selected');
-      var selectedClass = $(this).text();
-      var selectedElement = "#" + $(this).parents('.class-toggle').data("for");
-      $(selectedElement).removeClass().addClass(selectedClass);
-      return false;
-    });
+Summarise validation errors at the top of your page.
+Each error should link the user down to the corresponding form control.
+The form control should repeat the error and be styled similarly.
+Error messages should be actionable - the user should be told how to fix it.
 
 
-
-  });
-</script>

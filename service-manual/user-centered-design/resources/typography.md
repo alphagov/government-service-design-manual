@@ -44,6 +44,11 @@ Text must have enough contrast against the background colour to be readable. Thi
 Type should be large enough to be easily read. This is generally larger than many current websites: 36px for headlines, 19px for body text. This can be included using default styles in scss from the [Frontend Toolkit](/service-manual/user-centered-design/resources/sass-repositories.html). These include line height spacing that works across browsers.
 
 
+## Headings
+
+All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-capitalisation).
+
+
 ##Further reading
 
 * [Why we've chosen Transport](http://digital.cabinetoffice.gov.uk/2012/07/05/a-few-notes-on-typography/).
