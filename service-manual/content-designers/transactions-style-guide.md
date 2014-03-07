@@ -49,7 +49,7 @@ Example:<br/>
 Tell HMRC about a change to your company car. 
 
 Instead of:<br/>
-File an HMRC change request
+File an HMRC change request.
 
 ###Don’t assume the user has previous knowledge
 Avoid any jargon and ‘insider’ words. Users won’t know what you’re talking about. When writing copy for your service always ask yourself ‘what does this actually mean?’ and ‘what information do I want the user to give me?’.
@@ -59,14 +59,15 @@ When you get close to the subject matter it’s sometimes easy to use ‘insider
 ###Think about the user’s learning curve
 If you’re building a service that users log on to regularly, eg every week or month, they will soon know what you’re talking about. 
 
-For these services you can use shorter names for things but you must still be specific. For example, you can use ‘Other taxes’ instead of ‘Other taxes you can register for’. But don’t use ‘Other services’. 
+For these services you can use shorter names but you must still be specific. For example, you can use ‘Other taxes’ instead of ‘Other taxes you can register for’. But don’t use ‘Other services’. 
 
-To make the learning curve easy for users, call things in your service what they are. For example, use ‘Other tax you need to register for’ instead of ‘Other services’
+Call things in your service what they are to make the learning curve easy for users. For example, use ‘Other taxes you need to register for’ instead of ‘Other services’.
 
 You can also:
 
-* explain things that are specific to your service when users register or log on for the first time
+* explain things that are specific to your service when users register or log in for the first time
 * give the option to switch off explanations within the service 
+
 
 ##Logic flow
 
@@ -244,14 +245,14 @@ Maiden name (optional) [free text field]
 ###Names
 Use one freetext field: Name. 
 
-If backend or business requires that you separate names use the following format as applicable:
+Use the following format as applicable if backend or business requires that you separate names:
 
 - first name
 - middle name (if needed)
 - last name
 - any other names (eg maiden name) 
 
-If your service is used by many users outside the UK you can use this format:
+You can use this format if your service is used by many users outside the UK:
 
 - given name(s)
 - family name
@@ -374,12 +375,12 @@ Your income for this tax year: £25,000
 
 The button label should tell the user what it is they’re going to do, eg ‘Change your tax details’ or ‘Send your claim form’. Don’t just use ‘Submit’ or ‘Confirm’. 
 
-If the action is too long, you can use a generic label, eg ‘Send’ or ‘Apply’ or ‘Make the change’. 
+You can use a generic label if the action is too long, eg ‘Send’ or ‘Apply’ or ‘Make the change’. 
 
-If terms and conditions are part of your service, users must actively say that they’ve understood what they’re signing up for. This can, for example, be an opt-in box or the user can type in a confirmation.  
+Users must actively say that they’ve understood what they’re signing up for if terms and conditions are part of your service. This can, for example, be an opt-in box or the user can type in a confirmation.  
 
 ###End or thank you page
-Adapt the following format of the end page for your needs:
+Adapt this format of the end page for your needs:
 
 Thank you. 
 
@@ -388,7 +389,7 @@ You’ve [user action].
 Example:
 You’ve sent your Carer’s Allowance claim. 
 
-What happens next?
+What happens next
 [include things like when the user will hear back, contact number for questions]
 
 [include links to other related services or things within the service user can do]
