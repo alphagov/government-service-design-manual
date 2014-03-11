@@ -79,23 +79,21 @@ Read the [blog posts from the identity assurance programme team](https://identit
 
 Relying parties can assess their identity assurance needs by using [guidance published by the Cabinet Office](https://www.gov.uk/government/collections/identity-assurance-enabling-trusted-transactions). Each relying party must carry out a risk assessment of their digital service, using [Good Practice Guide 43:](https://www.gov.uk/government/publications/requirements-for-secure-delivery-of-online-public-services) Requirements for secure delivery of online public services.
 
-The identity’s ‘level of assurance’ is the degree of confidence the relying party requires that a user is who they say they. The different levels of assurance available and how they are reached are defined by the Cabinet Office's good practice guides.
-
-Each relying party must determine the level of assurance required for each digital service:
+The identity’s ‘level of assurance’ is the degree of confidence the relying party requires that a user is who they say they are:
 
 *level of assurance 1 is used when a relying party needs to know that it is the same user returning to the service but does not need to know who that user is
 *level of assurance 2 is used when a relying party needs to know who on the balance of probabilities who the user is and that that they are a real person
 *level of assurance 3 is used when a relying party needs to know beyond reasonable doubt who the user is and that that they are a real person
 *level of assurance 4 is as level of assurance 3, but with a biometric profile captured at the point of registration. This level is not within the scope of this stage in the identity assurance programme
 
-For guidance on the requirements for achieving the levels of assurance required to register an individual identity, see [Good Practice Guide 45:](https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual) Identity Proofing and Verifying the Identity of an Individual in Support of HMG Online Services.
+The different levels of assurance available and how they are reached are defined by the Cabinet Office's good practice guides. Each relying party must determine the level of assurance required for each digital service:
 
-For guidance on the level of authentication strength required to authenticate an individual when they return to sign in using their assured identity, see [Good Practice Guide 44:](https://www.gov.uk/government/publications/authentication-credentials-for-online-government-services) Authentication Credentials in Support of HMG Online Services.
-
-For guidance on the level of identity proofing and verification for organisations, see [Good Practice Guide 46.](https://www.gov.uk/government/publications/identity-assurance-organisation-identity)
+* [Good Practice Guide 45:](https://www.gov.uk/government/publications/identity-proofing-and-verification-of-an-individual) Identity Proofing and Verifying the Identity of an Individual in Support of HMG Online Services explains the requirements for achieving the levels of assurance required to register an individual identity
+* [Good Practice Guide 44:](https://www.gov.uk/government/publications/authentication-credentials-for-online-government-services) Authentication Credentials in Support of HMG Online Services explains the level of authentication strength required to authenticate an individual when they return to sign in using their assured identity
+* [Good Practice Guide 46.](https://www.gov.uk/government/publications/identity-assurance-organisation-identity) explains the level of identity needed by organisations for proofing and verification
 
 ## How to work with the identity assurance programme to prepare to use identity assurance
-Each relying party will need to go through the programme’s engagement process. The process consists of 4 structured stages:
+Each relying party will need to go through the programme’s induction process. This process consists of 4 structured stages:
 
 1. 	Introduction - identify a need for identity assurance.
 
@@ -103,9 +101,9 @@ Each relying party will need to go through the programme’s engagement process.
 
 3. 	Planning - complete a readiness assessment. Agree a detailed plan setting out what the service and GDS will each do and when. Get internal approvals within GDS and the relying party's organisation.
 
-4. 	Connect to hub - agree a memorandum of understanding. 
+4. 	Connect to hub - agree a memorandum of understanding between the Identity Assurance Programme and the department responsible for the service. 
 
-Government providers of digital services that who want to find out more about identity assurance, with a view to becoming relying parties, should contact [Janet Hughes](mailto:janet.hughes@digital.cabinet-office.gov.uk). 
+Government providers of digital services that want to find out more about identity assurance, with a view to becoming relying parties, should contact [Janet Hughes](mailto:janet.hughes@digital.cabinet-office.gov.uk). 
 
 ## How to match assured identities to service records
 
