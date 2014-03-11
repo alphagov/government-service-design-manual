@@ -117,6 +117,14 @@ As a service manager you need the support of a [multidisciplinary team](/service
 *  consider the team’s tools and working environments
 *  identify specific development needs for yourself and your team members
 
+###Technology for digital services
+
+You may not be the most technical person on your team, but as service manager you cannot leave all the technology decisions to others. This session will cover:
+
+* choosing technology, making it possible to change your mind and avoiding lock-in
+* risk and risk management, and getting the whole team thinking about security
+* questions to ask your development team to help them make the best technology decisions possible
+
 ###Make, test and learn
 
 It's time to try out the methods and tools picked up on the programme so far. In this practical exercise your group will:
@@ -211,7 +219,20 @@ Delivering high quality digital services that improve continuously often depends
 
 * hear the latest on the government procurement processes and frameworks available on digital transformations
 
-Plus further sessions to be confirmed on **[agile](/service-manual/agile/index.html)** and **[web operations](/service-manual/the-team/web-operations.html)**
+###Being agile
+
+GDS delivery managers will lead discussions and exercises around key features of agile, such as:
+
+* agile artefacts, themes, epics and user stories
+
+* sprint planning and the use of walls to make shared priorities visible
+
+* retrospectives to continually inspect and improve the work teams do together
+
+###Technology talks
+
+GDS technical architects will give a series of short talks and Q&A sessions about important aspects of choosing and managing technology for digital services.
+
 
 #Request a place
 
