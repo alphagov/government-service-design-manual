@@ -91,13 +91,13 @@ Which principles of leadership can be brought to bear in the new era of agile di
 *  hear war stories from someone who is a leader in the digital field
 * take away tips and practical advice on digital leadership
 
-###Being agile
+###Thinking agile
 
-[Agile](/service-manual/agile/index.html) is essential to the Digital by Default Service Standard. Your group will:
+[Agile](/service-manual/agile/index.html) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
 
-*  unpack the tools and practices that make agile such a powerful method for delivering services
-*  visit some of the agile teams working at Aviation House
-*  consider the role of the service manager in agile provision
+* agile as a mindset, much wider than a set of tools and techniques
+* the principles to be found in the [Agile Manifesto](http://agilemanifesto.org/) and how they apply to software projects and beyond
+* the agile disciplines that keep teams focused on outcomes and maximise the chances of success
 
 ###Meeting the service standard
 
@@ -116,6 +116,14 @@ As a service manager you need the support of a [multidisciplinary team](/service
 *  get to the heart of what job titles and descriptions really mean, so that your department can appoint the right people, and at the right levels
 *  consider the team’s tools and working environments
 *  identify specific development needs for yourself and your team members
+
+###Technology for digital services
+
+You may not be the most technical person on your team, but as service manager you cannot leave all the technology decisions to others. This session will cover:
+
+* choosing technology, making it possible to change your mind and avoiding lock-in
+* risk and risk management, and getting the whole team thinking about security
+* questions to ask your development team to help them make the best technology decisions possible
 
 ###Make, test and learn
 
@@ -211,7 +219,20 @@ Delivering high quality digital services that improve continuously often depends
 
 * hear the latest on the government procurement processes and frameworks available on digital transformations
 
-Plus further sessions to be confirmed on **[agile](/service-manual/agile/index.html)** and **[web operations](/service-manual/the-team/web-operations.html)**
+###Being agile
+
+GDS delivery managers will lead discussions and exercises around key features of agile, such as:
+
+* agile artefacts, themes, epics and user stories
+
+* sprint planning and the use of walls to make shared priorities visible
+
+* retrospectives to continually inspect and improve the work teams do together
+
+###Technology talks
+
+GDS technical architects will give a series of short talks and Q&A sessions about important aspects of choosing and managing technology for digital services.
+
 
 #Request a place
 
