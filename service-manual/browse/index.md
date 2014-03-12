@@ -56,7 +56,7 @@ breadcrumbs:
       {% assign link_cat = 'phases' %}
       {% include _browse-links.html %}
 
-      <h2 id="phases">Identity assurance</h2>
+      <h2 id="identity-assurance">Identity assurance</h2>
       {% assign link_cat = 'identity-assurance' %}
       {% include _browse-links.html %}
 
