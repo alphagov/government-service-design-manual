@@ -120,3 +120,5 @@ Matching assured identities to the records held by relying parties is likely to 
 Relying parties will need to be able to do a risk-based match to ascertain which locally held account to match against. For example, relying parties need to be able to handle users who have proved their identities, but the service can't match with sufficient confidence to any particular record or even multiple records.
 
 GDS has developed a matching service adapter that will help some relying parties to convert their communication with the hub to the appropriate language.
+
+The service provider will be supplied with details of the matching service adapter during the early stages of the induction process.
