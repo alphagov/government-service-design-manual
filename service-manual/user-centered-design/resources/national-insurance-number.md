@@ -17,6 +17,10 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
+<div class="example">
+	<img src="/service-manual/assets/images/design-patterns/nino.png">
+</div>
+
 Capture these in a single free text box labelled: National Insurance number. 
 Remember that ‘number’ isn’t capitalised and don’t call National Insurance number ‘NINO’.
 

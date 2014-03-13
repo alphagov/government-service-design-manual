@@ -22,18 +22,35 @@ breadcrumbs:
 ---
 
 
+This page explains how to design forms for GOV.UK services.
 
 
+## Form groups
 
+A form usually consists of one or more groups of elements, which we call form groups.
+The diagram below shows a typical form group, with the different elements labelled.
 
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/form-group.png" alt="A form group">
+</div>
+
+More complex forms may also be broken into sections or spread across multiple pages.
+[Find out more about structuring forms](question-pages.html).
 
 ## Form labels
 
 
-### Give your form controls labels
+### Give your form elements labels
 
 All form elements other than buttons should have a label.
-A label must be associated with it's control using the 'for' attribute or by nesting the control inside the label.
+Each form group should have a form group label.
+This can be marked up using a HTML label or legend tag.
+More complex form groups may also need individual form control labels.
+
+
+### Associate your labels
+
+A HTML label must be associated with it's control using the 'for' attribute or by nesting the control inside the label.
 
 
 ### Don't hide labels
@@ -109,7 +126,7 @@ Pre-selecting options can help users, but it needs to be done with care.
 
 Do pre-select options if:
 
-* we already know the answer because it was given previously
+* you're playing back something the user has already told you
 * there's a good reason to steer users towards a particular answer
 * there's a strong common case bias towards a particular answer
 
@@ -126,9 +143,14 @@ For radio buttons, if 'none of the above' is a valid response remember to repres
 
 ### Highlight the clickable region
 
-Enlarging the clickable region and making it visible can make these controls easier to use.
+Enlarging the clickable region and making it visible can make these controls easier to use,
+especially on touch devices.
 
-Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small. This is especially true for touch devices.
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/block-radio.png" alt="Radio buttons with an enlarged and visible clickable region">
+</div>
+
+Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small.
 
 
 ## Drop-down lists (select boxes)
@@ -147,16 +169,20 @@ For short lists, radio buttons are often preferable. They make all the options i
 For long lists, consider a free-text field with an auto-suggest feature, or try breaking the list down into shorter lists.
 
 
-## Help text
+## Form hints
 
-Place help text for a form control immediately above the control. You can position it below the control if it aids overall comprehension though. On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
+Place form hints immediately above their control, unless this makes the form harder to understand.
+In those cases, place the hint below the control.
+On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
 
-[Read more about giving help to users](help-text.html)
+[Find out more about ways of providing help for users](help-text.html).
 
 
 ## Buttons
 
-[ Primary button, secondary button, disabled button ]
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/buttons.png" alt="Primary, disabled and secondary button styles">
+</div>
 
 
 ### Buttons are for actions
@@ -219,7 +245,7 @@ Error messages should be actionable - the user should be told how to fix the err
 
 Use the [HTML5 specification](http://www.w3.org/TR/html51/) and [progressive enhancement](/service-manual/making-software/progressive-enhancement.html) when coding forms. This will ensure that they're fully accessible across the widest range of browsers and devices.
 
-Avoid changing the default appearance or behaviour of form elements without good reason. Users will be familiar with the defaults and familiarity aids comprehension.
+Use the HTML form elements wherever possible. Avoid inventing your own versions.
 
 ---
 
