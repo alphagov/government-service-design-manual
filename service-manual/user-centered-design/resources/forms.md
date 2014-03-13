@@ -21,31 +21,47 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-## General guidance
 
 
-### Writing forms
-
-* Use sentence case
-* Address the user directly
-* Follow the style guide
-* Don’t invent proper nouns, eg don’t say ‘Check your Identity Profile’
 
 
-### Coding forms
-
-Use the [HTML5 specification](http://www.w3.org/TR/html51/) and [progressive enhancement](/service-manual/making-software/progressive-enhancement.html) when coding forms. This will ensure that they're fully accessible across the widest range of browsers and devices.
-
-Avoid changing the default appearance or behaviour of form elements without good reason. Users will be familiar with the defaults and familiarity aids comprehension.
 
 
 ## Form labels
 
-All form elements other than buttons should have a label. A label must be associated with it's control using the 'for' attribute or by nesting the control inside the label.
 
-### Positioning labels
+### Give your form controls labels
 
-By default, labels should be positioned above their control, but there are valid cases for left or right alignment of labels too. The table below (from an [article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
+All form elements other than buttons should have a label.
+A label must be associated with it's control using the 'for' attribute or by nesting the control inside the label.
+
+
+### Don't hide labels
+
+Don't hide labels unless the surrounding context makes them unnecessary. Never use `display: none` as this will stop the label being read out by screenreaders. Instead, use the 'visuallyhidden' class provided with the GOV.UK templates.
+
+
+### Write clear label text
+
+* Use sentence case
+* Give polite, clear, short instructions
+* Don't use 'please'
+* Don't use colons at the end
+
+
+### Indicate optional fields in their label
+
+Mark any optional fields in the labels with '(optional)'.
+This avoids repetitive '*' symbols, which then have to be explained.
+
+If you need to clarify that fields are mandatory, add text at the top of the form saying 'all fields are required unless stated otherwise'.
+
+
+### Position labels near their controls
+
+We recommend labels be positioned above their controls, however there maybe valid cases for other label alignments.
+
+The table below (from an [article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
 
 |-----------------------------------|--------------|-------------------|---------------|
 |                                   | Top          | Right             | Left          |
@@ -59,52 +75,37 @@ By default, labels should be positioned above their control, but there are valid
 | Time to move from label to input  | 50ms         | 240ms             | 500ms         |
 | Ideal for...                      | Simple forms | Less simple forms | Complex forms |
 
-The position of an element's label does not effect how screenreaders announce it to users.
+Note that the position of an element's label does not effect how screenreaders announce it to users.
 
 
-### Hiding labels
-
-Only hide labels if people can still infer how to use the control from it's context. Don't use `display: none` as this will stop the label being read out by screenreaders.
-
-
-### Writing label text
-
-* Don't use 'please', but give polite, clear, short instructions
-* Don't use colons after labels
- 
-
-
-### Indicating mandatory and optional fields
-
-You should be asking users for the minimum amount of information you need to run your service, 
-so nearly all your fields should be mandatory.
-
-Rather than pepper the interface with repetative '*' symbols, which then have to be explained, 
-simply mark the optional fields in the labels with '(optional)'.
-
-If you need to, add text at the top of the form saying 'all fields are required unless stated otherwise'.
 
 
 ## Text fields
 
-Text fields should be sized according to their content. For example, a postcode field should be shorter than an email address field.
-Doing this gives people an extra cue as to the kind of content they're being asked for.
+Text fields should be sized according to their content. 
+Doing this gives people an visual cue as to the kind of content they're being asked for. For example, a postcode field should be shorter than an email address field.
 
-Avoid using placeholder text inside text fields. It confuses some people and the text dissapears once they start typing into the field.
+Avoid using placeholder text inside text fields. It confuses some people and the text disappears once a user starts typing into the field.
+
+If extra help is needed, use [help text](help-text).
+
+
 
 
 ## Checkboxes and radio buttons
 
-Use radio buttons to let users choose a single option from a list. Use checkboxes for on/off toggles or for multiple selections.
+Radio buttons let users choose a single option from a list. 
+Check boxes let users select on/off toggles or multiple selections.
+
+
+### Make it clear whether it's multiple or single choice
 
 Research indicates many users do not know the difference between radios and checkboxes. They will decide whether it's multiple or single choice based on the question and answer text instead, so word these carefully.
 
-### Pre-selecting options
 
-Do not pre-select options if:
+### Take care when pre-selecting options
 
-* there's a legal requirement for the user to make a choice
-* you don't want to bias users towards making a particular choice
+Pre-selecting options can help users, but it needs to be done with care.
 
 Do pre-select options if:
 
@@ -112,71 +113,71 @@ Do pre-select options if:
 * there's a good reason to steer users towards a particular answer
 * there's a strong common case bias towards a particular answer
 
+Do not pre-select options if:
+
+* there's a legal requirement for the user to make a choice
+* you don't want to bias users towards making a particular choice
+
+
+### Don't forget 'none of the above'
+
 For radio buttons, if 'none of the above' is a valid response remember to represent it explicitly. A set of radio buttons cannot be reset to an unselected state once it's been interacted with.
 
-### Highlighting the clickable region
 
-Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small. To help these people you can enlarge the clickable region and make it visible.
+### Highlight the clickable region
+
+Enlarging the clickable region and making it visible can make these controls easier to use.
+
+Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small. This is especially true for touch devices.
 
 
-## Select boxes
+## Drop-down lists (select boxes)
 
-Research is showing that some people struggle to use select boxes. Test with your users and use alternatives where possible.
+Try to find an alternative to these.
+
+Research has found that some people struggle when using these.
+Test with your users and use alternatives where possible.
+
+### Short lists
 
 For short lists, radio buttons are often preferable. They make all the options immediately visible which can help with comprehension.
+
+### Long lists
 
 For long lists, consider a free-text field with an auto-suggest feature, or try breaking the list down into shorter lists.
 
 
 ## Help text
 
-First try to design a service that's so intuitive it doesn't need help text.
-You shouldn't need help text to explain the interface - it should be simple enough to understand without explanation.
-Help text should be contextual - it should relate to the user's current situation.
-Here are some different ways of providing help text.
+Place help text for a form control immediately above the control. You can position it below the control if it aids overall comprehension though. On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
 
-
-### Form hints
-
-Form hints are short pieces of text positioned next to a form control.
-Use form hints to:
-
-* explain where to find the information being asked for
-* give an example to show the format of the information
-* explain what will be done with the information
-
-By default, form hints should be placed immediately above the associated control. However, you can position it below the control if it aids overall comprehension. On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
-
-
-### Hidden help text
-
-If the help text is only relevant to a minority of users you can keep your interface less cluttered by hiding the text behind a summary which the user has to click on. Be careful not to hide important content from people or force them to interact needlessly with the page.
-
-Remember - if most people will need the text, don't hide it.
-
-Summary text tends to work better when it's targetted, rather than the generic 'Help' or 'Info'. For example:
-
-* 'I can't find my National Insurance number'
-* 'What's this?'
-
-
-### Detailed help
-
-Some transactions are complex and some users will dive in to a transaction without the required knowledge to complete it.
-
-You need to support these users by allowing them to access more detailed guidance from within the transaction,
-without them losing their place. If you need to open a new browser window remember to tell people you're going to do this.
+[Read more about giving help to users](help-text.html)
 
 
 ## Buttons
 
 [ Primary button, secondary button, disabled button ]
 
-Use buttons to represent actions. Use them sparingly - one button per form is ideal.
 
-Position buttons in the user's line of sight. The bottom left of a form, aligned with the controls is good.
+### Buttons are for actions
 
-### Button text
+Use buttons to represent actions.
+Don't use multiple buttons to represent choices.
+Instead, use radio buttons or similar.
+
+
+### Use buttons sparingly
+
+Buttons are powerful, but only when used sparingly - one button per form is ideal.
+
+
+### Make buttons obvious
+
+Position buttons in the user's line of sight.
+The bottom left of a form, aligned with the controls is good.
+
+
+### Make buttons describe their action
 
 Keep button text clear and concise. Avoid jargon and words like 'submit'.
 Use verbs and an active voice - buttons should describe the thing they do.
@@ -211,6 +212,16 @@ Here are some common examples:
 Summarise validation errors at the top of your page.
 Each error should link the user down to the corresponding form control.
 The form control should repeat the error and be styled similarly.
-Error messages should be actionable - the user should be told how to fix it.
+Error messages should be actionable - the user should be told how to fix the error.
 
+
+## Coding forms
+
+Use the [HTML5 specification](http://www.w3.org/TR/html51/) and [progressive enhancement](/service-manual/making-software/progressive-enhancement.html) when coding forms. This will ensure that they're fully accessible across the widest range of browsers and devices.
+
+Avoid changing the default appearance or behaviour of form elements without good reason. Users will be familiar with the defaults and familiarity aids comprehension.
+
+---
+
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql#:h=Form-elements)
 

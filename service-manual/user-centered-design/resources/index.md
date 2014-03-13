@@ -16,37 +16,58 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-These are the building blocks that make up the pages and services on GOV.UK.
-We've [started a wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql) for people building services on GOV.UK to discuss the elements and patterns they're using.
-As patterns on the wiki mature they'll be added to the list here.
+These resources will help you to design services for GOV.UK.
+
+## Guides
+
+Read these to understand how we approach design.
+
+* [Design principles](https://www.gov.uk/design-principles)
+* [Designing transactions](../designing-transactions.html)
 
 
-## Design elements
+## Templates
 
-The basic elements from which all pages are made.
+Every page on GOV.UK must use one of the appropriate templates.
+
+* [Choose the right template](page-templates.html)
+
+
+## Elements
+
+The basic building blocks from which all pages are made.
 
 * [Typography](typography.html)
-* [Forms](form-labels.html)
+* [Colours](colour-palettes.html)
+* [Forms](forms.html)
+* [Data](../data-visualisation.html)
 
 
-## Design patterns
+## Patterns
 
-The elements can be combined into patterns which address a specific user need.
-Here's a list of some of the more common ones.
+The elements above can be combined into patterns which address specific user needs.
+Some of the more common design patterns are described below. To discuss these or suggest new ones, 
+use the [design patterns wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql).
+
 
 ### Forms
 
 * [Names](names.html)
 * [Dates](dates.html)
 * [Addresses](addresses.html)
-* [Nationality](nationality.html)
 * [National insurance number](national-insurance-number.html)
-* [Bank details](bank-details.html)
+* [Help text](help-text.html)
 
 
 ### Transactions
 
-* [Start pages](start-pages.html)
-* [End pages](end-pages.html)
+* [Start page](start-page.html)
+* [Question pages](question-pages.html)
+* [Check your answers page](check-your-answers-page.html)
+* [End page](end-page.html)
 * [Progress indicators](progress-indicators.html)
 
+
+### Account management
+
+* [CAPTCHA](captcha.html)

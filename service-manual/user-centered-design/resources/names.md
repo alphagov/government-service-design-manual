@@ -26,17 +26,6 @@ Here are two ways to ask users for their name:
 
 A single text field where the user can enter their full name, including title if they wish
 
-<div class="example">
-  <div class="ribbon">Recommended</div>
-  
-  <form class="form">
-    <div class="form-group">
-      <label for="full-name">Full name</label>
-      <input type="text" id="full-name" class="form-control">
-    </div>
-  </form>
-  
-</div>
 
 <h3 class="heading-24">Pros</h3>
 
@@ -53,19 +42,6 @@ A single text field where the user can enter their full name, including title if
 <h2 class="heading-36" id="multiple-name-fields">2. Multiple name fields</h2>
 
 If you're constrained by business or technical requirements you can use multiple fields:
-
-<div class="example">
-  <form class="form">
-    <div class="form-group">
-      <label for="firstName">First name</label>
-      <input type="text" id="firstName" class="form-control">
-    </div>
-    <div class="form-group">
-      <label for="lastName">Last name</label>
-      <input type="text" id="lastName" class="form-control">
-    </div>
-  </form>
-</div>
 
 
 <h3 class="heading-24">Pros</h3>
@@ -85,7 +61,8 @@ As soon as you adopt multiple fields you introduce the possibility that:
 
 #### Labels
 
-If you need to use multiple name fields then the current preferred labelling is 'First name', 'Last name'. Don't include 'Middle names' unless you absolutely have to and make sure it's optional (you don't need to mark it as optional as users will understand this).
+If you need to use multiple name fields then the preferred labelling is 'First name', 'Last name'. 
+Don't include 'Middle names' unless you absolutely have to and make sure it's optional (you don't need to mark it as optional as users will understand this).
 
 
 #### Titles
@@ -114,4 +91,8 @@ For a more detailed overview of issues relating to personal names, read these ar
 * [http://www.w3.org/International/questions/qa-personal-names](http://www.w3.org/International/questions/qa-personal-names)
 * [http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
+
+---
+
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Peoples-names-mgFWXkwyPEt)
 

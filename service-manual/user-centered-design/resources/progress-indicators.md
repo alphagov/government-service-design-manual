@@ -48,28 +48,13 @@ This approach should be tried before moving on to any of the others. It's access
 
 Show the steps horizontally across the top of the page, with the current step highlighted.
 
-<div class="example example-wide">
-  <div class="inner-block">
-    
-    <nav class="progress-indicator progress-indicator-horizontal">
-      <ol>
-        <li class="done"><a href="">1. About you <span>done</span></a></li>
-        <li class="done"><a href="">2. Your company <span>done</span></a></li>
-        <li class="active">3. Payment details</li>
-        <li>4. Delivery</li>
-        <li>5. Done</li>
-      </ol>
-    </nav>
-    
-  </div>
-</div>
 
-<h3 class="heading-24">Pros</h3>
+<h3 class="heading-24">The good</h3>
 
 * Provides an overiew of the entire process
 * Steps can be used as navigation
 
-<h3 class="heading-24">Cons</h3>
+<h3 class="heading-24">The bad</h3>
 
 * Can be hard to fit into the available space, especially on small screens
 
@@ -84,29 +69,16 @@ Show the steps horizontally across the top of the page, with the current step hi
 
 Provide a vertical list of links to each section, which can be completed in any order.
 
-<div class="example">
-  <div class="inner-block">
-    
-    <nav class="progress-indicator progress-indicator-vertical">
-      <ul>
-        <li><a href="">About you <span>(3/10)</span></a></li>
-        <li class="done"><a href="">Your company <span>(10/10)</span></a></li>
-        <li class="active"><a href="">Payment details <span>(1/6)</span></a></li>
-        <li><a href="">Delivery <span>(0/3)</span></a></li>
-      </ul>
-    </nav>
-    
-  </div>
-</div>
 
-<h3 class="heading-24">Pros</h3>
+
+<h3 class="heading-24">The good</h3>
 
 * Section titles can be longer
 * More room for more sections
 * Users can complete sections in an order that suits them
 * Steps can be partially completed
 
-<h3 class="heading-24">Cons</h3>
+<h3 class="heading-24">The bad</h3>
 
 * Not always clear when the user has completed all the steps
 
@@ -118,4 +90,8 @@ To fully take advantage of this though you'll need to provide a way for users to
 
 
 Make sure these actually reflect what users have to do on each page. Avoid using general terms like ‘other’ or ‘more information’.
+
+---
+
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Progress-indicators-3AOrLoia9Us)
 
