@@ -44,8 +44,9 @@ More complex forms may also be broken into sections or spread across multiple pa
 
 All form elements other than buttons should have a label.
 Each form group should have a form group label.
-This can be marked up using a HTML label or legend tag.
 More complex form groups may also need individual form control labels.
+
+Labels should be marked up using a HTML label or legend tag, depending on how you've coded the form group.
 
 
 ### Associate your labels
@@ -102,9 +103,7 @@ Note that the position of an element's label does not effect how screenreaders a
 Text fields should be sized according to their content. 
 Doing this gives people an visual cue as to the kind of content they're being asked for. For example, a postcode field should be shorter than an email address field.
 
-Avoid using placeholder text inside text fields. It confuses some people and the text disappears once a user starts typing into the field.
-
-If extra help is needed, use [help text](help-text).
+Avoid using placeholder text inside text fields. It confuses some people and the text disappears once a user starts typing into the field. If extra help is needed, use [hint text](#form-hints).
 
 
 
@@ -174,6 +173,8 @@ For long lists, consider a free-text field with an auto-suggest feature, or try 
 Place form hints immediately above their control, unless this makes the form harder to understand.
 In those cases, place the hint below the control.
 On GOV.UK form hints are coloured grey (Sass variable: $secondary-text-colour).
+
+Use the 'aria-describedby' attribute to associate form hints with the controls they describe.
 
 [Find out more about ways of providing help for users](help-text.html).
 

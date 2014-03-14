@@ -27,9 +27,9 @@ Services should use clear, easy to read type, with consistent styles and a clear
 
 GOV.UK uses the typeface [New Transport](http://en.wikipedia.org/wiki/Transport_(typeface)#New_Transport).
 
-It's been cut especially for government use and is not licenced for use outside of the GOV.UK domain.
+It's been cut especially for government and is not licenced for use outside of the GOV.UK domain.
 
-If you're making your service publically available on a different domain (a beta version for example), 
+If you're making your service publically available on a different domain (a beta version for example) 
 use an alternative typeface like Arial.
 
 
@@ -70,7 +70,7 @@ GDS has used this on the [Performance platform](/performance) and Trade tariff.
 
 ## Implementing the typographic styles
 
-The New Transport typeface is embedded in the CSS provided with the GOV.UK templates.
+The New Transport typeface is embedded in the CSS provided with the [GOV.UK templates](page-templates.html).
 
 It's served to browsers via a WOFF file (or an EOT file for Internet Explorer 8). 
 The font is hinted to display well on all browsers. 

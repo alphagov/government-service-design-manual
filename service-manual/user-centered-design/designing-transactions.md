@@ -55,7 +55,7 @@ Some people will read up on a subject before they start, but many will choose to
 Choose a structure for your transaction that fits the way most people are going to want to use it.
 Don't structure it around the way your organisation works.
 
-[Find out how to choose the best structure](resources/transaction-flow.html)
+[Find out how to choose the best structure](resources/question-pages.html)
 
 
 ## Don't ask too many questions
@@ -65,6 +65,8 @@ They're more likely to make a mistake or fail to complete the transaction.
 
 Don't ask for information just because it might be useful, or because you've always asked for it. 
 Don't ask for the same information more than once. It makes your service feel inconsistent and disjointed.
+
+[Find out how to ask good questions](resources/question-pages.html)
 
 
 ## Follow the GOV.UK style guide

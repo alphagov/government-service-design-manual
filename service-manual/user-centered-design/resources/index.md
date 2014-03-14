@@ -22,7 +22,7 @@ These resources will help you to design services for GOV.UK.
 
 Read these to understand how we approach design.
 
-* [Design principles](https://www.gov.uk/design-principles)
+* [GDS Design Principles](https://www.gov.uk/design-principles)
 * [Designing transactions](../designing-transactions.html)
 
 

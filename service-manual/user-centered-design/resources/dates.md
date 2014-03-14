@@ -65,7 +65,9 @@ If so, consider offering options like 'a week later' for the later date?
 
 Our current recommendation for capturing known dates like date of birth is to use three clearly labelled text boxes.
 
-![An example of a date of birth picker](/service-manual/assets/images/design-patterns/date-of-birth.png)
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/date-of-birth.png" alt="An example of a date of birth picker">
+</div>
 
 We've found that some users struggle with long select boxes, which is why we're not recommending you use them.
 See [this blog post](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/) for a more detailed account of our findings.
