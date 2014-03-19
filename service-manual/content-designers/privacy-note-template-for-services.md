@@ -42,7 +42,7 @@ When you apply for Carer’s Allowance, the Department for Work and Pensions (DW
 - your financial details, eg bank account number
 - your partner’s personal details
 - your employment details
-- ]any other information that your department holds, give examples if the list is too long] 
+- [any other information that your department holds, give examples if the list is too long] 
 
 ##How [department name] protects your personal information
 [Department name] complies with the Data Protection Act 1998. 
