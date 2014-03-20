@@ -19,16 +19,6 @@ def show_tree(my_item)
   html_id = my_item.attr[:id]
   text = my_item.value.options[:raw_text]
   html << "<li class=\"level-#{html_id}\"><a href=\"\##{html_id}\">#{text}</a>\n"
-
-
-  if my_item.children.any?
-    html << "<ol>\n"
-    my_item.children.each do |my_child|
-      html << show_tree(my_child)
-    end
-    html << "</ol>\n"
-  end
-
   html << "</li>\n"
 
   return html

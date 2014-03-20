@@ -1,0 +1,44 @@
+---
+layout: default-wrapper
+section_class: detailed-guidance
+---
+{% include _breadcrumbs.html %}
+
+<article role="article" class="group">
+  <header class="page-header group">
+    <div class="hgroup">
+      <p class="subtitle">Design pattern</p>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <h2 class="subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="article-container group">
+
+
+    <div class="contents">
+      <nav>
+        <h2>Contents</h2>
+
+        {{ page.content | toc_list }}
+      </nav>
+    </div>
+
+    <div class="inner">
+
+      {{ content }}
+
+      <nav class="page-tools">
+        <ol>
+          <li><a title="View the page history on GitHub" href="https://github.com/alphagov/government-service-design-manual/commits/master{{ page.url | replace:'.html','.md' }}">Page history</a>
+          <li><a title="View and suggest changes to the page source on GitHub" href="https://github.com/alphagov/government-service-design-manual/blob/master{{ page.url | replace:'.html','.md' }}">Page source</a>
+        </ol>
+      </nav>
+    </div>
+  </div>
+</article>
+
+
+
