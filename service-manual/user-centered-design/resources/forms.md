@@ -46,7 +46,7 @@ All form elements other than buttons should have a label.
 Each form group should have a form group label.
 More complex form groups may also need individual form control labels.
 
-Labels should be marked up using a HTML label or legend tag, depending on how you've coded the form group.
+the HTML elements you use to mark up labels will depend on the structure of your form.
 
 
 ### Associate your labels

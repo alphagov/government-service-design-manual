@@ -18,6 +18,28 @@ breadcrumbs:
 
 These resources will help you to design services for GOV.UK.
 
+<div class="grid-wrapper">
+	<div class="grid grid-1-3">
+	    <div class="inner-block">
+	      <h2 class="heading-36">One third</h2>
+	      <p>Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	    </div>
+	</div>
+	<div class="grid grid-1-3">
+	    <div class="inner-block">
+	      <h2 class="heading-36">One third</h2>
+	      <p>Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	    </div>
+	</div>
+	<div class="grid grid-1-3">
+	    <div class="inner-block">
+	      <h2 class="heading-36">One third</h2>
+	      <p>Donec sed odio dui. Donec id elit non mi porta gravida at eget metus. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	    </div>
+	</div>
+</div>
+
+
 ## Guides
 
 Read these to understand how we approach design.
