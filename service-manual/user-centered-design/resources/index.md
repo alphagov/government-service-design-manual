@@ -1,6 +1,7 @@
 ---
-layout: detailed-guidance
-title: Design resources
+layout: design-index
+title: Resources for designers
+subtitle: Everything you need to design great services for GOV.UK
 category: design-and-development-resources
 type: resource
 audience:
@@ -15,8 +16,6 @@ breadcrumbs:
     title: User centered design
     url: /service-manual/user-centered-design
 ---
-
-These resources will help you to design services for GOV.UK.
 
 <!--
 <div class="grid-wrapper">
