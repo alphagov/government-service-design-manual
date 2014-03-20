@@ -20,6 +20,7 @@ def show_tree(my_item)
   text = my_item.value.options[:raw_text]
   html << "<li class=\"level-#{html_id}\"><a href=\"\##{html_id}\">#{text}</a>\n"
 
+
   if my_item.children.any?
     html << "<ol>\n"
     my_item.children.each do |my_child|

@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout: design-pattern
 title: Question pages
 subtitle: Choosing an appropriate structure for your transactions
 category: user-centered-design

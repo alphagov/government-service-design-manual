@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout:  design-pattern
 title: National insurance number
 subtitle: 
 category: design-and-development-resources

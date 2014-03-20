@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout:  design-pattern
 title: Start page
 subtitle: 
 category: design-and-development-resources

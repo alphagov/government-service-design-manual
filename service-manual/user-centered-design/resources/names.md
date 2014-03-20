@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout: design-pattern
 title: Names
 subtitle: 
 category: design-and-development-resources
@@ -17,38 +17,44 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-Here are two ways to ask users for their name:
-
-1. **[Single name field](#single-name-field)**
-2. **[Multiple name fields](#multiple-name-fields)**
-
-<h2 class="heading-36" id="single-name-field">1. Single name field</h2>
-
-A single text field where the user can enter their full name, including title if they wish
+Be sensitive to different cultural conventions when asking for people's names.
+Here are two ways to ask people for their name:
 
 
-<h3 class="heading-24">Pros</h3>
+## 1. Single name field
+
+A single text field where the user can enter their full name, including title if they wish.
+
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/single-name-field.png" alt="An example of a single name field">
+</div>
+
+
+### The good
 
 * Can accomodate any kind of name
 * Requires the least effort to use
 * Avoids the issue of how to label multiple fields
 
-<h3 class="heading-24">Cons</h3>
+### The bad
 
 * Difficult if you need to parse out things like last name
 * Can't use formal contractions in correspondence (like 'Mr. Smith')
 * May be difficult to integrate this apporach with legacy back-end systems
 
-<h2 class="heading-36" id="multiple-name-fields">2. Multiple name fields</h2>
+## 2. Multiple name fields
 
-If you're constrained by business or technical requirements you can use multiple fields:
+If you're constrained by business or technical requirements you can use multiple fields.
 
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/multiple-name-fields.png" alt="An example of multiple name fields">
+</div>
 
-<h3 class="heading-24">Pros</h3>
+### The good
 
 Depending on your audience you'll be able to extract the parts of the name and do stuff with them.
 
-<h3 class="heading-24">Cons</h3>
+### The bad
 
 As soon as you adopt multiple fields you introduce the possibility that:
 
@@ -57,22 +63,21 @@ As soon as you adopt multiple fields you introduce the possibility that:
 * they try to enter their full name in the first field
 
 
-<h3 class="heading-24">Guidance</h3>
 
-#### Labels
+### Labels
 
 If you need to use multiple name fields then the preferred labelling is 'First name', 'Last name'. 
 Don't include 'Middle names' unless you absolutely have to and make sure it's optional (you don't need to mark it as optional as users will understand this).
 
 
-#### Titles
+### Titles
 
-Avoid asking for someone's title without good reason. It's extra work for users and you're asking them to potentially reveal their gender and marital status as well, which they may not want to do.
+Avoid asking for someone's title without good reason. It's extra work for users and you're asking them to potentially reveal their gender and marital status as well, which they may not want to do. There are appropriate ways of addressing people in correspondence without using titles.
 
 If you do implement a title field make sure users can leave it blank and then deal with that option sensibly in any resulting correspondence.
 
 
-#### Internationalisation
+### Internationalisation
 
 Remember, users of GOV.UK services come from many different cultural backgrounds, each with their own conventions regarding personal names.
 
@@ -83,7 +88,7 @@ If you can't use a single name field and your service is used by many users outs
 - Any other names (eg maiden name)
 
 
-<h3 class="heading-24">Further reading</h3>
+## 3. Further reading
 
 For a more detailed overview of issues relating to personal names, read these articles:
 

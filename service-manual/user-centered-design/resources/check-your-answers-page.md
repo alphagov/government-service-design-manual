@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout:  design-pattern
 title: Check your answers page
 subtitle: 
 category: design-and-development-resources

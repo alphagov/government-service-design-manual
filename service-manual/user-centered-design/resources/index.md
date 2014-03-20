@@ -18,6 +18,7 @@ breadcrumbs:
 
 These resources will help you to design services for GOV.UK.
 
+<!--
 <div class="grid-wrapper">
 	<div class="grid grid-1-3">
 	    <div class="inner-block">
@@ -38,6 +39,7 @@ These resources will help you to design services for GOV.UK.
 	    </div>
 	</div>
 </div>
+-->
 
 
 ## Guides

@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout:  design-pattern
 title: CAPTCHA
 category: design-and-development-resources
 type: resource
