@@ -1,7 +1,7 @@
 ---
-layout:  design-pattern
+layout: detailed-guidance-2
 title: Help text
-subtitle: 
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
@@ -15,10 +15,16 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
+{:.intro}
 The best way to help users is by making the simplest, clearest, transaction you can.
 Sometimes though, you'll need to provide some extra help.
+
+{{ page.content | toc_list }}
 
 
 ## How to write help text

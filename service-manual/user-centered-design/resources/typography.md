@@ -1,13 +1,9 @@
 ---
-layout: detailed-guidance
+layout: detailed-guidance-2
 title: Typography
 subtitle: Creating clear, easy to read type for the web
 category: design-and-development-resources
 type: resource
-phases:
-  - alpha
-  - beta
-  - live
 audience:
   primary: designers
 status: draft
@@ -18,9 +14,13 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
-Services should use clear, easy to read type, with consistent styles and a clear hierarchy of information.
+{:.intro}
+Use clear, easy to read type, with consistent styles and a clear hierarchy of information.
 
 
 ## The typeface

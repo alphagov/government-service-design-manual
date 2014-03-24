@@ -1,7 +1,7 @@
 ---
-layout:  design-pattern
+layout:  detailed-guidance-2
 title: Addresses
-subtitle: 
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
@@ -14,18 +14,28 @@ breadcrumbs:
     url: /service-manual
   -
     title: User centered design
-    url: /service-manual/user-centered-design
+    url: /service-manual/user-centered-design  
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
-How you choose to capture addresses depends on what you want to do with them and which geographical regions you need to support. We'll discuss three approaches here:
+{:.intro}
+When designing address forms, consider where the addresess will be from and what you need to do with the data.
+Here are three approaches:
 
-1. **[Free text box](#free-text-box)**
-2. **[Multiple fields](#multiple-fields)**
-3. **[Address finder](#address-finder)**
+
+1. [Free text box](#free-text-box)
+2. [Multiple fields](#multiple-fields)
+3. [Address finder](#address-finder)
 
 ## 1. Free text box
 
 A single, multi-line text box where users write out the address in full.
+
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/full-address.png" alt="An example of a single multi-line address field">
+</div>
 
 ### The good
 
@@ -47,6 +57,9 @@ Use when you're expecting a very broad range of address formats and you don't ne
 
 The address is broken down into multiple fields. Here's an example that works for simple UK addresses:
 
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/multi-line-address.png" alt="An example of multiple address fields">
+</div>
 
 ### The good
 
@@ -80,6 +93,10 @@ Only use multiple address fields when you know which regions the addresses will 
 Sometimes referred to as 'postcode lookup'. An address finder lets users specify a UK address by inputing their postcode (and optionally street name or number) and selecting the address from a list.
 
 Here's how this pattern was implemented on the [Lasting Power of Attorney](https://lastingpowerofattorney.service.gov.uk/) service.
+
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/postcode-lookup.gif" alt="An example of an address finder">
+</div>
 
 ### The good
 

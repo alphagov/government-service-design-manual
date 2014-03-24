@@ -1,34 +1,26 @@
 ---
 layout: default-wrapper
-section_class: detailed-guidance
+section_class: detailed-guidance-2
 ---
 {% include _breadcrumbs.html %}
 
 <article role="article" class="group">
   <header class="page-header group">
     <div class="hgroup">
-      <p class="subtitle">Design pattern</p>
+      {% if page.format %}
+      <p class="subtitle">{{ page.format }}</p>
+      {% endif %}
       <h1>{{ page.title }}</h1>
       {% if page.subtitle %}
       <h2 class="subtitle">{{ page.subtitle }}</h2>
       {% endif %}
     </div>
+
+    {% include _meta-phases.html %}
   </header>
 
   <div class="article-container group">
-
-<!--
-    <div class="contents">
-      <nav>
-        <h2>Contents</h2>
-
-        {{ page.content | toc_list }}
-      </nav>
-    </div>
-  -->
-
     <div class="inner">
-
       {{ content }}
 
       <nav class="page-tools">
@@ -40,6 +32,3 @@ section_class: detailed-guidance
     </div>
   </div>
 </article>
-
-
-

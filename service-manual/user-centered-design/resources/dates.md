@@ -1,7 +1,7 @@
 ---
-layout: design-pattern
+layout: detailed-guidance-2
 title: Dates
-subtitle: 
+format: 'Design pattern' 
 category: design-and-development-resources
 type: resource
 audience:
@@ -15,9 +15,13 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
-This guide explains how to choose the right kind of date picker for your service.
+{:.intro}
+Choose a date picker that matches the way your users will want to enter that date.
 
 
 ## Choose the right date picker

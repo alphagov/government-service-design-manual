@@ -1,7 +1,7 @@
 ---
-layout: design-pattern
-title: Names
-subtitle: 
+layout: detailed-guidance-2
+title: People's names
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
@@ -14,14 +14,18 @@ breadcrumbs:
     url: /service-manual
   -
     title: User centered design
-    url: /service-manual/user-centered-design
+    url: /service-manual/user-centered-design  
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
+{:.intro}
 Be sensitive to different cultural conventions when asking for people's names.
-Here are two ways to ask people for their name:
+If you can, use a single name field.
 
 
-## 1. Single name field
+## Single name field
 
 A single text field where the user can enter their full name, including title if they wish.
 
@@ -42,7 +46,7 @@ A single text field where the user can enter their full name, including title if
 * Can't use formal contractions in correspondence (like 'Mr. Smith')
 * May be difficult to integrate this apporach with legacy back-end systems
 
-## 2. Multiple name fields
+## Multiple name fields
 
 If you're constrained by business or technical requirements you can use multiple fields.
 
@@ -88,7 +92,7 @@ If you can't use a single name field and your service is used by many users outs
 - Any other names (eg maiden name)
 
 
-## 3. Further reading
+## Further reading
 
 For a more detailed overview of issues relating to personal names, read these articles:
 

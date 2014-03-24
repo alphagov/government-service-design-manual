@@ -1,7 +1,7 @@
 ---
-layout:  design-pattern
+layout:  detailed-guidance-2
 title: National insurance number
-subtitle: 
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
@@ -15,6 +15,9 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
 <div class="example">

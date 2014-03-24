@@ -1,7 +1,7 @@
 ---
-layout:  design-pattern
+layout:  detailed-guidance-2
 title: Check your answers page
-subtitle: 
+format: 'Design pattern' 
 category: design-and-development-resources
 type: resource
 audience:
@@ -15,9 +15,13 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
-For some transactions you'll want to provide your users with a way of checking the answers they've given before submitting them.
+{:.intro}
+Let your users check and edit the answers they've given before submitting them.
 
 Here are some signs that you'll need one of these pages:
 

@@ -1,0 +1,28 @@
+.detailed-guidance-2 {
+  .article-container {
+    .inner {
+      padding: 0 1em 2em 1em;
+
+      @include media(desktop) {
+        margin-right: 33.33%;
+        padding: 0 1em 2em 2em;
+      }
+
+      // 1st para is bigger
+      .intro {
+        @include core-24;
+        padding: 10px 0;
+        margin: 0 0 1.5em 0;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+
+
+
+
+    }
+  }
+}

@@ -1,17 +1,13 @@
 ---
-layout: detailed-guidance
-title: Forms
-subtitle: Markup, styles and layout for form elements
+layout: detailed-guidance-2
+title: Form elements
+format: 'Page elements'
 category: design-and-development-resources
 type: resource
 audience:
     primary: designers, developers
     secondary:
 status: draft
-phases:
-  - alpha
-  - beta
-  - live
 breadcrumbs:
   -
     title: Home
@@ -19,11 +15,16 @@ breadcrumbs:
   -
     title: User centered design
     url: /service-manual/user-centered-design
+  -
+    title: Design patterns
+    url: /service-manual/user-centered-design/resources/design-patterns.html
 ---
 
 
-This page explains how to design forms for GOV.UK services.
+{{ page.content | toc_list }}
 
+
+---
 
 ## Form groups
 
@@ -36,6 +37,8 @@ The diagram below shows a typical form group, with the different elements labell
 
 More complex forms may also be broken into sections or spread across multiple pages.
 [Find out more about structuring forms](question-pages.html).
+
+---
 
 ## Form labels
 
@@ -96,7 +99,7 @@ The table below (from an [article on form design](http://uxdesign.smashingmagazi
 Note that the position of an element's label does not effect how screenreaders announce it to users.
 
 
-
+---
 
 ## Text fields
 
@@ -106,7 +109,7 @@ Doing this gives people an visual cue as to the kind of content they're being as
 Avoid using placeholder text inside text fields. It confuses some people and the text disappears once a user starts typing into the field. If extra help is needed, use [hint text](#form-hints).
 
 
-
+---
 
 ## Checkboxes and radio buttons
 
@@ -152,6 +155,8 @@ especially on touch devices.
 Some people are unaware that they can click the label to select these controls. They try to click the control itself, which is difficult as they're very small.
 
 
+---
+
 ## Drop-down lists (select boxes)
 
 Try to find an alternative to these.
@@ -168,6 +173,8 @@ For short lists, radio buttons are often preferable. They make all the options i
 For long lists, consider a free-text field with an auto-suggest feature, or try breaking the list down into shorter lists.
 
 
+---
+
 ## Form hints
 
 Place form hints immediately above their control, unless this makes the form harder to understand.
@@ -178,6 +185,8 @@ Use the 'aria-describedby' attribute to associate form hints with the controls t
 
 [Find out more about ways of providing help for users](help-text.html).
 
+
+---
 
 ## Buttons
 
@@ -234,6 +243,8 @@ Here are some common examples:
 : Not 'register'
 
 
+---
+
 ## Validation messages
 
 Summarise validation errors at the top of your page.
@@ -241,6 +252,7 @@ Each error should link the user down to the corresponding form control.
 The form control should repeat the error and be styled similarly.
 Error messages should be actionable - the user should be told how to fix the error.
 
+---
 
 ## Coding forms
 

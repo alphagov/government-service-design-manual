@@ -26,7 +26,7 @@
   $roundingComp: 0;
   @include ie-lte(7){
     $roundingComp: -0.035; // Reduce widths slightly to compensate for IE7's rounding bug
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
   }
   padding: 0;
   @include clearfix;
@@ -38,8 +38,8 @@
     list-style-image: none;
     @include box-sizing(border-box);
     float: left;
-    border-right: solid 1em $white;
-    margin-bottom: 1em;
+    border-right: solid 1.5em $white;
+    margin-bottom: 1.5em;
 
     > *:first-child{
       margin-top: 0;
