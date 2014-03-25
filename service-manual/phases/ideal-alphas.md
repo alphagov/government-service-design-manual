@@ -19,7 +19,6 @@ breadcrumbs:
     url: /service-manual/phases/alpha.html
 ---
 
-##What is an alpha##
 
 {:.intro}
 An [alpha](/service-manual/phases/alpha.html) is a process that happens at the beginning of a project. It allows us to:
@@ -37,9 +36,9 @@ This document covers how to go about executing an alpha project.
 
 Following this guidance will help you create a successful alpha project. You should bear in mind that these guidelines are flexible and are intended to direct you towards achieving your project goals simply and quickly.
 
-##Preparing##
+## Preparing
 
-###Identifying goals###
+### Identifying goals
 
 Before planning an alpha, the team must work out what the goals of the alpha are.
 
@@ -54,7 +53,7 @@ The department should communicate their goals in the request for proposals.
 The team will probably develop their own additional goals as well.
 
 
-###Identifying risks###
+### Identifying risks
 
 The reason for running an alpha is to identify risks to the wider project early.
 
@@ -89,7 +88,7 @@ The technical risks tend to be about integrating into the existing systems. For 
 In our experience, there are always technical risks to all projects. Most government departments do have a history of solving technical risks and have entire teams dedicated to them. Business process and design risks are far less well understood, and so we encourage alphas to focus on exploring those risks with prototyping over full service integrations.
 
 
-###Identifying the team###
+### Identifying the team
 
 The well-rounded team will need to have various skills, including:
 
@@ -114,7 +113,7 @@ The team must have the core skills to:
 The Business Analyst and Delivery Manager roles are there to ensure that the findings can be fed back into the team and the wider organisation.
 
 
-###Identifying process###
+### Identifying process
 
 Each alpha will be different, because the risks and goals are different.
 
@@ -130,9 +129,9 @@ We expect alphas to normally consist of:
   - alpha termination
   - alpha to Beta transition
 
-##Executing##
+## Executing
 
-###Inception###
+### Inception
 
 We believe that alphas should start with an inception process. An inception is designed to bring the team together and share the knowledge about the risks and goals identified.
 
@@ -157,7 +156,7 @@ The facilitator will of course give up time to various specialists to run indivi
 The inception may well cover introductions to agile itself, if the project team need it, and should also have a demonstration and retrospective at the end of it.
 
 
-###Iterations###
+### Iterations
 
 Alphas are often about identifying competing hypothesis about the user journey or business process. We expect to produce many prototypes to test the hypothesis, and run tests in a short amount of time so we can learn, change and retest. These feedback loops are crucial.
 
@@ -199,7 +198,7 @@ We've often found that aligning the iterations to Monday to Friday is not a best
 
 Starting the iteration on a Wednesday, with User testing on Thursday and demo the following Tuesday has worked well in the past.
 
-###Ending the alpha###
+### Ending the alpha
 
 The value of the alpha process is that the team can use it to identify early the biggest risks to the Beta part of the program.
 
