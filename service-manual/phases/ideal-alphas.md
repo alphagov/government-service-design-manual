@@ -15,13 +15,13 @@ breadcrumbs:
     title: Phases of service design
     url: /service-manual/phases
   -
-    title: Alpha
-    url: /service-manual/phases/alpha.html
+    title: Ideal Alphas
+    url: /service-manual/phases/idea-alphas
 ---
 
 
 {:.intro}
-An [alpha](/service-manual/phases/alpha.html) is a process that happens at the beginning of a project. It allows us to:
+An [alpha](/service-manual/phases/alpha) is a process that happens at the beginning of a project. It allows us to:
 
 * explore the major risks to the project
 * discover whether the project is workable
