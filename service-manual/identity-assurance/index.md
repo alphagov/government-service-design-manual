@@ -54,4 +54,5 @@ The government department determines the level of assurance (LoA) they require f
 * [Good Practice Guide 44:](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions) Authentication Credentials in Support of HMG Online Services 
 * [Good Practice Guide 45:](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions) Identity Proofing and Verifying the Identity of an Individual in Support of HMG Online Services
 * [Identity assurance: enabling trusted transactions](https://www.gov.uk/government/publications/identity-assurance-enabling-trusted-transactions)
+* [Guidance for government service providers](/service-manual/identity-assurance/guidance-for-government-service-providers)
 * [Blog posts from the IDA team](http://digital.cabinetoffice.gov.uk/?s=identity+assurance)
