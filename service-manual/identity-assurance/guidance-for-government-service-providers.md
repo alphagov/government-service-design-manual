@@ -3,7 +3,7 @@ layout: detailed-guidance
 title: Identity assurance guidance
 subtitle: For government service providers
 category: identity-assurance
-type: category-index
+type: guide
 audience:
   primary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
   secondary:
