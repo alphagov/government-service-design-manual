@@ -1,5 +1,5 @@
 ---
-layout: category-index
+layout: detailed-guidance
 title: Identity assurance guidance
 subtitle: For government service providers
 category: identity-assurance
