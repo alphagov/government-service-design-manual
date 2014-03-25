@@ -1,7 +1,7 @@
 ---
 layout: phases
 title: Ideal alphas
-subtitle: What does an alpha project look like
+subtitle: What an alpha project can look like
 phase: alpha
 category: guidance
 status: draft
