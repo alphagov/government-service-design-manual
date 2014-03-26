@@ -36,7 +36,7 @@ Follow the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide
 ##Name of your service
 Make sure users can easily find your service through search engines like Google. Optimise the title of your service. 
 
-[Read more on search engine optimisation](https://www.gov.uk/designprinciples/seo). 
+[Read more on search engine optimisation](https://www.gov.uk/design-principles/style-guide#seo).
 
 ##Consistency and clarity
 
@@ -408,4 +408,4 @@ GDS will write and upload the start and done pages on GOV.UK. Raise a ticket in 
 
 Also include a list the most important keywords for search engine optimisation because pages within the service won’t be indexed in GOV.UK search. 
 
-Use the [GOV.UK SEO guidance](https://www.gov.uk/designprinciples/seo) for headings, introductions and metadata descriptions. 
+Use the [GOV.UK SEO guidance](https://www.gov.uk/design-principles/style-guide#seo) for headings, introductions and metadata descriptions.

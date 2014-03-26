@@ -187,7 +187,7 @@ Carry out user research in every stage of your project. Do it continuously throu
 
 ###Design principles in action
 
-A set of simple but powerful [design principles](/designprinciples) underpin all the work done by GDS to develop the award-winning GOV.UK website. In this session your group will:
+A set of simple but powerful [design principles](/design-principles) underpin all the work done by GDS to develop the award-winning GOV.UK website. In this session your group will:
 
 * discover the 10 design principles and how they were created
 

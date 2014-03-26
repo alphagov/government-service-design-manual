@@ -29,7 +29,7 @@ This section is a set of guiding principles for exposing a digital service as an
 ###Build an API by building with the API
 When building an API there is always a danger of building the wrong thing in the wrong way for the wrong people.
 
-This is especially a risk in the absence of a developer community driving [the needs](https://www.gov.uk/designprinciples#first) behind the API.
+This is especially a risk in the absence of a developer community driving [the needs](https://www.gov.uk/design-principles#first) behind the API.
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
@@ -51,7 +51,7 @@ a worldwide audience is difficult. While proprietary and open technologies
 abound for machine-to-machine communication, none of them have the web's
 interoperability, reach and ability to scale.
 
-Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URLs (uniform resource locator), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
+Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URLs (uniform resource locator), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/design-principles#eighth).
 
 ### Give each thing a bookmarkable URL
 Expose data as a set of resources, offering a [clean URL](http://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.

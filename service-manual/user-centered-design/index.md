@@ -24,7 +24,7 @@ People come to GOV.UK with specific needs. Anything that gets between our users 
 <ul class="link-list">
   <li><a href="/service-manual/user-centered-design/user-centered-design-alpha-beta">User-centred design in alpha and beta</a> Combining design and research to create user-focused services</li>
   <li><a href="/service-manual/user-centered-design/know-your-users">Know your users</a> Techniques for understanding your users' needs</li>
-  <li><a href="https://www.gov.uk/designprinciples">GOV.UK Design Principles</a>  A guide to designing services that people prefer to use</li>
+  <li><a href="https://www.gov.uk/design-principles">GOV.UK Design Principles</a>  A guide to designing services that people prefer to use</li>
   <li><a href="/service-manual/content-designers/transactions-style-guide">Writing government services</a> Tone of voice, writing style, use of headings and more</li>
   <li><a href="/service-manual/user-centered-design/working-with-prototypes">Working with prototypes</a> Learning by doing</li>
   <li><a href="/service-manual/user-centered-design/accessibility">Accessibility</a> How to make services that everyone can use</li>

@@ -23,7 +23,7 @@ breadcrumbs:
 
 The [service standard](/service-manual/digital-by-default#criterion-13) states that your service should be built “with the same look, feel and tone as GOV.UK”.
 
-The first place to start is by reading our [design principles](https://www.gov.uk/designprinciples). These will help you to understand how we approach design. You should keep these in mind when designing and building your service, always thinking about how to make the service simpler, clearer and faster.
+The first place to start is by reading our [design principles](https://www.gov.uk/design-principles). These will help you to understand how we approach design. You should keep these in mind when designing and building your service, always thinking about how to make the service simpler, clearer and faster.
 
 ## Designing your service
 
