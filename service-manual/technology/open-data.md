@@ -66,9 +66,9 @@ The Open Data Principles that you must follow are:
 14. Public bodies should publish relevant metadata about their datasets and this should be available through a single online access point; and they should publish supporting descriptions of the format provenance and meaning of the data.
 
 ## Building on open data
-Users are already using your services, giving you lots of data about their behaviour. This means you can learn from real world behaviour when you're [designing a new digital service](/designprinciples#third). You can watch and learn from your users, shaping the system to fit what people naturally choose to do.
+Users are already using your services, giving you lots of data about their behaviour. This means you can learn from real world behaviour when you're [designing a new digital service](/design-principles#third). You can watch and learn from your users, shaping the system to fit what people naturally choose to do.
 
-[Recognise that you can't do it all](/designprinciples#second). In making your data open, you are encouraging greater use of the data and helping users to innovate.
+[Recognise that you can't do it all](/design-principles#second). In making your data open, you are encouraging greater use of the data and helping users to innovate.
 
 Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces (APIs)](/service-manual/making-software/apis.html).
 

@@ -23,7 +23,7 @@ breadcrumbs:
 
 Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital) support.
 
-For the most part you can approach these as design challenges like any other - the [Design Principles](/designprinciples.html) are a great way to start this work - but there are some specific things you'll want to bear in mind.
+For the most part you can approach these as design challenges like any other - the [Design Principles](/design-principles) are a great way to start this work - but there are some specific things you'll want to bear in mind.
 
 ## Don't make paper forms unless you have to
 The most important thing to remember is that print forms should only be made when absolutely necessary.
