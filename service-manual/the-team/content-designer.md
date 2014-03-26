@@ -39,14 +39,14 @@ Content designers must be able to:
 - [identify user needs](/service-manual/users) -- based on legacy content, source material provided by policy colleagues, feedback from users and stakeholders and analytics data both from the site and from search engines
 - gain an in-depth knowledge of a wide range of subjects -- so they can make informed decisions about the best way to present information to users
 - develop content plans and strategies -- high-level plans showing how the identified user needs will be met
-- [write great content](/service-manual/user-centered-design/writing-government-services.html) -- in plain English, optimised for the web and according to [house style](/designprinciples/styleguide#style-guide)
+- [write great content](/service-manual/user-centered-design/writing-government-services.html) -- in plain English, optimised for the web and according to [house style](/design-principles/style-guide#style-guide)
 - edit content -- making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user -- grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
 - work with developers and designers to [create better solutions](http://digital.cabinetoffice.gov.uk/2012/11/05/tools-over-content/) -- for example, writing logic and content for smart answers
 - understand and incorporate the results of [user testing](/service-manual/user-centered-design/introduction-to-user-research.html)
 - review the work of other editors -- to ensure consistency and excellence across the site
 - publish content -- using various systems
-- communicate the [principles of good content design](/designprinciples/styleguide) to others in the organisation
+- communicate the [principles of good content design](/design-principles/style-guide) to others in the organisation
 - advocate for the user and act as a ‘gatekeeper’ for the site -- pushing back on change requests that don’t contribute to meeting user needs and incorporating change requests that do
 - build positive relationships with others inside the team and in the wider organisation
 - innovate and anticipate -- excellent content designers are excited about the possibilities of web content and involved in the ongoing conversation in the digital sector
