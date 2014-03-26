@@ -5,7 +5,7 @@ subtitle: Writing high quality content for sites and services
 category: the-team
 type: guide
 audience:
-  primary:
+  primary: content-designers
 status: draft
 phases:
   - discovery
