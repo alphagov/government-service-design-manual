@@ -53,7 +53,7 @@ Content designers must be able to:
 
 ##Guidance
 
-Read [guidance in the manual of particular interest to content designers](/service-manual/designers).
+Read [guidance in the manual of particular interest to content designers](/service-manual/content-designers).
 
 ##Job description
 
