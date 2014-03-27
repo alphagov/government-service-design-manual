@@ -42,7 +42,7 @@ Content designers must be able to:
 - [write great content](/service-manual/user-centered-design/writing-government-services) -- in [plain English](/design-principles/style-guide#writing-plain-english), optimised for the web and according to [house style](/design-principles/style-guide#style-guide)
 - edit content -- making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user -- grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
-- work with developers and designers to [create better solutions](http://digital.cabinetoffice.gov.uk/2012/11/05/tools-over-content/) -- for example, writing logic and content for smart answers
+- work with developers and designers to [create better solutions](http://digital.cabinetoffice.gov.uk/2012/11/05/tools-over-content/) -- for example, writing logic and content for [smart answers](https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/)
 - understand and incorporate the results of [user testing](/service-manual/user-centered-design/introduction-to-user-research)
 - review the work of other editors -- to ensure consistency and excellence across the site
 - publish content -- using various systems
