@@ -47,7 +47,7 @@ Content designers must be able to:
 - review the work of other editors -- to ensure consistency and excellence across the site
 - publish content -- using various systems
 - communicate the [principles of good content design](/design-principles/style-guide) to others in the organisation
-- advocate for the user and act as a ‘gatekeeper’ for the site -- pushing back on change requests that don’t contribute to meeting user needs and incorporating change requests that do
+- advocate for the user and act as a guardian for the site -- pushing back on change requests that don’t contribute to meeting user needs and incorporating change requests that do
 - build positive relationships with others inside the team and in the wider organisation
 - innovate and anticipate -- excellent content designers are excited about the possibilities of web content and involved in the ongoing conversation in the digital sector
 
