@@ -1,3 +1,4 @@
+---
 layout: detailed-guidance
 title: Content style guide for services
 subtitle: Writing questions, wording for labels, addressing the user and more
