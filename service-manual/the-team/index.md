@@ -74,7 +74,7 @@ If some elements are going to be delivered by 3rd parties (eg software, hosting 
 
 ## Your working environment
 
-Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. [What can a service manager do to ensure they get the best out of their agile team?](/service-manual/the-team/working-environment.html)
+Whiteboard, wall space and proximity can make a big impact on the effectiveness of a team. A service manager can do lots of things to [create a good environment for the team](/service-manual/the-team/working-environment.html).
 
 {:.figure}
 ![Some of the things an effective team needs](/service-manual/assets/images/team-assets.png)
