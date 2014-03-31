@@ -37,7 +37,7 @@ which will prepare you for the next step.
 Once your service has an agreed name, you will need to supply the following information to your
 GDS contact who will put you in touch with the GDS Infrastructure Team to arrange delegation.
 
-1. Service name e.g. {service-name}.service.gov.uk
+1. Service name, eg {service-name}.service.gov.uk
 2. DNS servers to delegate to (ask your technical team to see [the guidance on DNS delegation](/service-manual/domain-names/how-they-work))
 3. Date you need it by (at least 5 working days notice)
 
