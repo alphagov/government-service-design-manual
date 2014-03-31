@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout: detailed-guidance-2
 title: Page templates
 subtitle: GOV.UK header, footer, branding and typeface
 category: user-centered-design
@@ -21,83 +21,71 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-Users will need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta), many will not recognise these terms, or know what they mean – therefore, users need to be made aware that a service is not yet 'officially' live, and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
+{:.intro}
+All pages on GOV.UK services should use the GOV.UK header, footer, typeface and branding.
 
-## Headers
 
-Your service must be clearly labelled Alpha or Beta using one of the [three design patterns](#design-patterns) described below. 
+## Template code
 
-### Design patterns
+### Building services
 
-So far, we have identified three patterns that fit the situations we have encountered, we may update this list as the exemplar programme matures and we have strong evidence on how they perform.
+The [latest version of the template code](https://github.com/alphagov/govuk_template) is available as a Ruby gem, or for the Play, Mustache and Liquid frameworks. The templates include assets and code for the site headers, footers and New Transport typeface.
 
-Each design pattern also has a banner below the title, which should briefly explain the stage of the project -  'alpha' or 'beta' - and that it is a trial service.
+### Prototyping
 
-The text for the banners should be as follows:
+If you need to quickly prototype a service, you can [use this prototyping tool](https://github.com/tombye/express_prototype). 
+It uses Node.js and Express to give you easy access to the templates, plus helpers for styling the [GOV.UK elements](http://govuk-elements.herokuapp.com/).
 
-> **ALPHA**: This is a prototype
 
-> **BETA**: This is a trial service
 
-Services that aren't a transaction funnel may optionally choose to link to a feedback survey and description of alpha or beta:
+## Site header
 
-> **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
+Remember:
 
-> **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
+* only use the GOV.UK logotype if your service is [currently on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like)
+* always link the logotype back to [GOV.UK](https://www.gov.uk/)
+* don't include the GOV.UK search box in transactions, as it will encourage people to leave the transaction mid-way
 
-Services should only add these links when it is acceptable for a user to be taken away from their existing flow.
+Here are three versions of the site header. Choose the one that most closely meets the needs of your users.
 
-In all cases the GOV.UK logotype must link to `www.gov.uk`.
+### Option 1
 
-### Pattern 1: No title
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
+</div>
 
-This is simply the GOV.UK header as is, without a title. This is relevant if your service is small and straightforward, taking place over only a few screens.
+Use this header if your service is short, taking place over only a few screens.
 
-You should also use this on the first page of your service if you are using the title of the service as the main heading the body.
+You should also use this on the first page of your service if you are using the service title as the page heading.
 
-![Pattern 1: No title](/service-manual/assets/images/header-footer/header-pattern-1.png)
 
-### Pattern 2: Title
 
-This is the pattern that will be used in most cases. Your service will not need any internal navigation, but will need a title to identify itself.
+### Option 2: Service title
 
-The service title should link to the service start page unless there is a reason why this would not work.
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-2.png" alt="Header option 2">
+</div>
 
-![Pattern 2: Title](/service-manual/assets/images/header-footer/header-pattern-2.png)
+Use this header if you find that your users need reminding of which service they are accessing.
 
-### Pattern 3: Title and navigation
+The service title should link to the service start page (unless doing this harms the user experience).
 
-If you service needs to show navigation, then this should sit below the service title. The service title should link to the service start page.
 
-![Pattern 3: Title and navigation](/service-manual/assets/images/header-footer/header-pattern-3.png)
 
-In this case "Your Tax account" is not a transactional funnel, so it can also include links to feedback and information.
+### Option 3: Service title and navigation
 
-### Search
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-3.png" alt="Header option 3">
+</div>
 
-If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
+Use this header if your service needs internal navigation. 
 
-You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labeled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
 
-### Soliciting end user feedback
 
-End user feedback can provide data that is invaluable for developing and improving the subsequent iterations of your service. You should solicit feedback by providing a link to your service's feedback mechanism from the 'alpha'/'beta' banner. The link could:
+## Site footer
 
-* open a blank email in the user's email client, using the [`mailto` URL scheme](http://www.ietf.org/rfc/rfc2368.txt)
-* toggle the appearance of an embedded web form
-* take the user to a dedicated feedback web form on another page within your service
+For information services, use the standard GOV.UK footer, as used on the GOV.UK home page.
 
-### Using the GOV.UK logotype
+For transactional services, use the standard footer but remove all links other than the crown copyright and OGL licence notices.
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
-
-## Footers
-
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or leave feedback about your service (such as email addresses, phone numbers or contact forms).
-
-The footer should also state the appropriate copyright and licence notices.
-
-## Templates and styles
-
-If you need access to the templates and styles, please make a request via [the GOV.UK support form](/support/internal).
 

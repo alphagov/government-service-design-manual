@@ -67,20 +67,14 @@ Everything you need to design great services for GOV.UK
 <div class="grid-wrapper">
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
-		<h2>Branding</h2>
+		<h2>Templates</h2>
 		<p>The GOV.UK header, footer, typeface and branding.</p>
 	  </div>
 	</div>
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
 		<h3>Get the templates</h3>
-		<p><a href="../user-centered-design/resources/page-templates.html">Learn how to use the GOV.UK templates</a></p>
-	  </div>
-	</div>
-	<div class="grid grid-1-3">
-	  <div class="inner-block">
-		<h3>Make a prototype</h3>
-		<p><a href="../user-centered-design/working-with-prototypes.html">Create rapid HTML prototypes using the GOV.UK templates</a></p>
+		<p><a href="../user-centered-design/resources/page-templates.html">Template code and assets for building or prototyping services</a></p>
 	  </div>
 	</div>
 </div>
