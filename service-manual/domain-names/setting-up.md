@@ -40,3 +40,7 @@ GDS contact who will put you in touch with the GDS Infrastructure Team to arrang
 1. Service name e.g. {service-name}.service.gov.uk
 2. DNS servers to delegate to (ask your technical team to see [the guidance on DNS delegation](/service-manual/domain-names/how-they-work))
 3. Date you need it by (at least 5 working days notice)
+
+If you are intending to use the "Managed DNS" product offered by Dyn, then you will need to give as much notice as possible, as Dyn is currently
+used to manage the main service.gov.uk DNS domain. Dyn requires a signed letter of authorisation from GDS and work on their systems in order to
+manage sub-zones of service.gov.uk via other customer accounts -- this may take additional time to arrange.
