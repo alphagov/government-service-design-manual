@@ -99,7 +99,7 @@ The well-rounded team will need to have various skills, including:
 - delivery management
 - business analysis
 
-The team will probably be bigger than this, and the service may supply its own team members who will normally be learning during this process, and thus probably wont be contributing significantly.
+The team will probably be bigger than this, and the service may supply its own team members who will normally be learning during this process, and thus probably won't be contributing significantly.
 
 The team will work together in an agile manner, doing iterations of either 1 or 2 weeks. For a short project we'd normally recommend 1 week iterations where possible.
 
@@ -158,7 +158,7 @@ The inception may well cover introductions to agile itself, if the project team 
 
 ### Iterations
 
-Alphas are often about identifying competing hypothesis about the user journey or business process. We expect to produce many prototypes to test the hypothesis, and run tests in a short amount of time so we can learn, change and retest. These feedback loops are crucial.
+Alphas are often about identifying competing hypotheses about the user journey or business process. We expect to produce many prototypes to test the hypothesis, and run tests in a short amount of time so we can learn, change and retest. These feedback loops are crucial.
 
 At this early a stage of a project, it is rare to be able to choose a single flow or design. Because of this, we encourage the building and testing of many prototypes. This allows you to quickly get feedback on the best experience for the users and to test competing ideas.
 
@@ -203,7 +203,7 @@ Starting the iteration on a Wednesday, with User testing on Thursday and demo th
 The value of the alpha process is that the team can use it to identify early the biggest risks to the Beta part of the program.
 
 It is important to remember that the most valuable goals from the alpha process are the increased domain understanding and the team forming behaviours.
-If the code produced during the alpha is not high enough quality then it is fine to throw it away and rebuild. For example, the team may elect not to use test-driven development during this stage. Those activities represent investment in quality. Remember a primary goal during the alpha is learning. We might not want be ready to make the investment in creating production-ready systems. In particular, that investment might be premature if the team learns they are not solving the right problem.
+If the code produced during the alpha is not high enough quality then it is fine to throw it away and rebuild. For example, the team may elect not to use test-driven development during this stage. Those activities represent investment in quality. Remember a primary goal during the alpha is learning. We might not be ready to make the investment in creating production-ready systems. In particular, that investment might be premature if the team learns they are not solving the right problem.
 
 Another output of the alpha can be the early decision not to continue into Beta. This represents a successful alpha since it reduces wasted time and money. It may well be the case that at the end of the alpha you go back to the discovery outputs and start a new alpha with a different focus or go back and perform another discovery.
 
