@@ -149,7 +149,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the design patterns and style guide..</div>
+    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the design patterns and style guide.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
