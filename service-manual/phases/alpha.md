@@ -77,7 +77,7 @@ The outputs for the alpha phase are:
 
 ## An ideal alpha
 
-For a worked example, we have written up some information on an [ideal alpha](/service-manual/phases/ideal-alphas)
+For a worked example, we have written up some information on an [ideal alpha](/service-manual/phases/ideal-alphas).
 
 {:.phase-nav}
 * **[Next phase: beta](/service-manual/phases/beta)**
