@@ -27,11 +27,11 @@ There are a number of good tools that can help user research teams conduct in-ho
 
 Online tools are a good way in which to conduct in-house research cheaply and effectively. Conducting research in-house enables user research teams get closer to the data, and have a good understanding of the user. This is, however, dependent on teams having adequate resource to enable analysis to be conducted properly and fed back to the relevant teams.
 
->Please note: Examples are illustrative, rather than recommendations, and we suggest checking G-Cloud regularly to see if any similiar services are available using that framework.
+>Please note: Examples are illustrative, rather than recommendations, and we suggest checking G-Cloud regularly to see if any similar services are available using that framework.
 
 ## Survey tools
 
-These enable the easy creation of online surveys. Features include ascripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc.
+These enable the easy creation of online surveys. Features include a scripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc.
 
 Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](http://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](http://www.smart-survey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
 

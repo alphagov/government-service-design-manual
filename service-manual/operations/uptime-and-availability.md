@@ -36,7 +36,7 @@ information can be looked at but not changed. If your service is reliant
 on a third-party service, you could queue information for later
 processing if that service were to become unavailable.
 
-Remeber to build in redundancy and avoid single points of failure. You
+Remember to build in redundancy and avoid single points of failure. You
 can avoid the problem of a web server failing by having more than one
 and load-balancing between them, or minimise disruption if a database
 crashes by using database systems which spread data and queries across a

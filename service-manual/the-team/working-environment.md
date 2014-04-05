@@ -25,7 +25,7 @@ Working spaces for digital projects will vary, but there are some things you can
 
 ## What you might encounter
 
-Those working in creative and technical fields often need plenty of space for focussed, detailed work. It's not uncommon to see people spending a significant chunk of their day with headphones on to help them focus, or locked in conversation with just one person with whom they're pairing.
+Those working in creative and technical fields often need plenty of space for focused, detailed work. It's not uncommon to see people spending a significant chunk of their day with headphones on to help them focus, or locked in conversation with just one person with whom they're pairing.
 
 Equally, you might expect to see lots of short meetings throughout a day, often around walls covered in notes or reference material. These regular exchanges are important to ensure the quality of the work, but can seem strange in office cultures that are much more used to formal meetings or conference calls.
 

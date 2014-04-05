@@ -53,7 +53,7 @@ There are two types of cross browser technique. There are some which are just fo
       @include border-radius(4px);
     }
 
-The `border-radius` line here is designed to use the different border-radius implementations to create a standard border-radius. The `contain-floats` however, uses a cross-browser techinque to ensure that the element wraps all of the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don't want to use different techniques everywhere.
+The `border-radius` line here is designed to use the different border-radius implementations to create a standard border-radius. The `contain-floats` however, uses a cross-browser technique to ensure that the element wraps all of the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don't want to use different techniques everywhere.
 
 ## Further reading
 

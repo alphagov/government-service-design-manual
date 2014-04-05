@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Remote usability/summative testing (quantative)
+title: Remote usability/summative testing (quantitative)
 subtitle: Getting input into products and services
 category: user-research
 type: resource

@@ -77,7 +77,7 @@ In this case "Your Tax account" is not a transactional funnel, so it can also in
 
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
 
-You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labeled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
+You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labelled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
 
 ### Soliciting end user feedback
 

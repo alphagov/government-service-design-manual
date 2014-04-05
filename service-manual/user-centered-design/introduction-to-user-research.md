@@ -53,7 +53,7 @@ Typically this will involve some initial fact finding in the early stages to und
 
 | Discovery | Alpha | Beta | Live |
 | Desk Research | Heuristic evaluation | Lab based testing | User surveys |
-| Ethnography | Guerilla testing | Remote usability testing | Remote usability testing |
+| Ethnography | Guerrilla testing | Remote usability testing | Remote usability testing |
 | Focus Groups | | Focus groups | |
 | Card Sorting | | One-to-one interviews | |
 | User surveys | | | |
@@ -82,7 +82,7 @@ Some services, eg where users are large corporations, will not require assisted 
 
 * [ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
 * [expert review](/service-manual/user-centered-design/user-research/expert-review.html)
-* [guerilla testing](/service-manual/user-centered-design/user-research/guerilla-testing.html)
+* [guerrilla testing](/service-manual/user-centered-design/user-research/guerrilla-testing.html)
 * [same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
 * [lab-based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
 * [focus groups and one-to-one interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)

@@ -57,7 +57,7 @@ Government should not invest in security controls to protect users from risks th
 
 For example, government should not invest in special technology to prevent civil servants working on sensitive information in an open busy public place; users should be able to judge, assess and use appropriate risk mitigation approaches by themselves.
 
-Likewise, civil servants should be able to exercise reasonable judgment about what information is sent to external recipients by email over the public internet. This will lead to reduced technical controls and their associated costs, while also optimising the usability and flexibility of the IT tools for the majority of responsible users.
+Likewise, civil servants should be able to exercise reasonable judgement about what information is sent to external recipients by email over the public internet. This will lead to reduced technical controls and their associated costs, while also optimising the usability and flexibility of the IT tools for the majority of responsible users.
 
 ##New classification policy
 The new security policy provides for a simpler and more meaningful approach to denoting the value of information assets and threat model. Together with a set of common controls for OFFICIAL information, it enables a more consistent, standardised, reusable and interoperable approach to securing information assets in government.
@@ -130,7 +130,7 @@ Asking a someone to build an "IL3 system" or to "protect at IL5" is a misuse of 
 
 There is no standard set of technical, procedural or personnel controls for any particular Impact Level, and so specifying requirements in terms of Impact Levels is unclear and inaccurate. Instead, security requirements should be defined in terms of the level of protection that each information asset should be given, and expectations around its through-life protection.
 
-###8. "I've got lots of IL3 records, which aggregate to IL4, so I need to build a confiential back end system"
+###8. "I've got lots of IL3 records, which aggregate to IL4, so I need to build a confidential back end system"
 
 It's true that if you are building a system which handles many records, the impact of loss of many of them is likely to be higher than loss of one or two. Although Business Impact Levels are often misused as shorthand for protective markings, there is no direct mapping from Impact Level to protective marking.
 

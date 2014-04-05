@@ -51,7 +51,7 @@ Your story cards can be virtual, as well as actual cards. On a large product/ser
 
 When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
 
-You might want to include a list of acceptance criteria. These should be an aide-memoire for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+You might want to include a list of acceptance criteria. These should be a reminder for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
 
 If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
 

@@ -95,7 +95,7 @@ By the end of the alpha stage of your digital transformation, you will need to b
   * intermediaries they’re already in contact with about the service
   * another form of support
 3. What research have you conducted/feedback have you received on your user journey from users and/or experts?
-4. What are your prefered options for assisted digital support? Why?
+4. What are your preferred options for assisted digital support? Why?
 
 For your digital transformation project to meet [the standard](/service-manual/digital-by-default/index.html) and be allowed to proceed to beta, you must be able to answer these questions to a reasonable level of detail, and demonstrate your thinking behind them.
 

@@ -75,7 +75,7 @@ Platforms should be kept as simple as possible, but designed to have no barriers
 
 Examples of legacy applications are likely to span benefits systems, case management systems, and customer relationship management systems. Over time the dependence on legacy platforms should be reduced as successful new platforms are developed.
 
-To reduce dependency on legacy plaforms:
+To reduce dependency on legacy platforms:
 
 * new user services must take the opportunity to reduce dependency on legacy systems, and new programmes should where possible avoid nugatory expenditure on integrating with such systems
 * the volume of such systems, their cost of support and business criticality should continually decrease, ie they exist to fulfil a current specific need, but should not be the focus of further investment

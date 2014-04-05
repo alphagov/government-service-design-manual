@@ -95,7 +95,7 @@ As with the default browser style, buttons will need a disabled style to indicat
   </p>
 </div>
 
-* Actions that have irreversable effects should look 'scary'
+* Actions that have irreversible effects should look 'scary'
 * Keep them away from the other actions
 * Make the action reversible / 'undo'-able
 * If that isn't possible to implement, use an alert to check that the user really wants to do this
