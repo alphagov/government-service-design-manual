@@ -178,7 +178,7 @@ We would encourage the following format:
 - Day 5
   - Demo
 
-This structure might move around a bit, but you will want to do the user research early in the iteration to give plenty of time to feed into the next iteration. This enables fast turn around on the stories.
+This structure might move around a bit, but you will want to do the user research early in the iteration to give plenty of time to feed into the next iteration. This enables fast turnaround on the stories.
 
 Working at this pace will result in:
 - user research in iteration 1
