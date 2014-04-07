@@ -181,6 +181,7 @@ We would encourage the following format:
 This structure might move around a bit, but you will want to do the user research early in the iteration to give plenty of time to feed into the next iteration. This enables fast turnaround on the stories.
 
 Working at this pace will result in:
+
 - user research in iteration 1
 - stories completed in iteration 2
 - further research on updated prototypes in iteration 3
