@@ -83,7 +83,7 @@ The business process risks include:
 The technical risks tend to be about integrating into the existing systems. For example:
 
 * what sort of ongoing connections will be necessary
-* are there special hosting arrangements eg high security hosting
+* are there special hosting arrangements e.g. high security hosting
 
 In our experience, there are always technical risks to all projects. Most government departments do have a history of solving technical risks and have entire teams dedicated to them. Business process and design risks are far less well understood, and so we encourage alphas to focus on exploring those risks with prototyping over full service integrations.
 
@@ -178,7 +178,7 @@ We would encourage the following format:
 - Day 5
   - Demo
 
-This structure might move around a bit, but you will want to do the user research early in the iteration to give plenty of time to feed into the next iteration. This enables fast turn around on the stories.
+This structure might move around a bit, but you will want to do the user research early in the iteration to give plenty of time to feed into the next iteration. This enables fast turnaround on the stories.
 
 Working at this pace will result in:
 - user research in iteration 1
