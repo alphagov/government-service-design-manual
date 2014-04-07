@@ -320,7 +320,7 @@ deployment pipeline as application code. They should be deployed to
 testing environments first, and only go to production once they have
 been applied and verified against all other environments.
 
-### Service depencencies ###
+### Service dependencies ###
 
 Services which depend on one another via an application programming interface (API) can experience similar
 deployment problems as applications which depend on a database. For

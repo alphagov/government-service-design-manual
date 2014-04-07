@@ -46,7 +46,7 @@ The process of producing incremental, production-ready software allows your team
 * give value to their users and stakeholders regularly
 * shorten feedback loops that could be longer if using a waterfall methodology (where you only move on to the next phase when the phase you’re working on is complete)
 * think about what features are the next most important to produce
-* direct their efforts on creating useable software
+* direct their efforts on creating usable software
 
 Run a [retrospective](/service-manual/agile/running-retrospectives.html) at the end of each delivery cycle or [sprint](/service-manual/agile/features-of-agile.html) to review what worked or what could be improved.
 

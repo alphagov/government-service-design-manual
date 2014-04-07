@@ -39,7 +39,7 @@ At beta the main priority is creating a simpler, clearer, faster service. You sh
 
 Before your service goes live it must look and feel like GOV.UK.  You should be using the correct typography, header and footer and if necessary should have followed the guidance on pictures and icons.
 
-Throughout the process of creating your service you should refer to the design principles, think of the user and design for simplicity. The user experience across all services on GOV.UK should be consitent.
+Throughout the process of creating your service you should refer to the design principles, think of the user and design for simplicity. The user experience across all services on GOV.UK should be consistent.
 
 ## Using the GOV.UK logo
 

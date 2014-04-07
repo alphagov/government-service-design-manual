@@ -36,7 +36,7 @@ Aim for as much of the transaction as possible to be completed online. Users sho
 * getting rid of any duplication
 * pre-populating forms with information entered online
 * making sure a user only prints the forms they require
-* eliminating unneccesary steps and fields (if a field is marked as optional, consider whether you need to collect that information at all)
+* eliminating unnecessary steps and fields (if a field is marked as optional, consider whether you need to collect that information at all)
 
 ## Start from scratch
 In lots of cases, paper forms will exist for services being redesigned. The launch of the digital service gives you an opportunity to improve them. When doing so, don't just base your designs on the existing forms. Look at what information you need to carry out the transaction and try to eliminate unnecessary steps.
@@ -97,7 +97,7 @@ Get [an introduction to user research](/service-manual/user-centered-design/intr
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
 
-[Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and langauge accessible to the majority of users.
+[Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and language accessible to the majority of users.
 
 Where specialist terms are unavoidable, or necessary, you'll need people who understand [how users read](/service-manual/user-centered-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centered-design/writing-government-services.html) when working on the design.
 

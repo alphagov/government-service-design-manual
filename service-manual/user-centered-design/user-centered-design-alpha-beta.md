@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: User-centered design in alpha and beta
-subtitle: Combining design and research to create user focussed services
+subtitle: Combining design and research to create user focused services
 category: user-centered-design
 type: guide
 audience:
@@ -139,11 +139,11 @@ In each user testing session:
 
 A day of research should be followed by a period of analysis before making any significant design changes. The analysis stage is described in detail below.
 
-### Guerilla research
+### Guerrilla research
 
-You can use the time between more formal testing to conduct some guerilla-style testing, getting some initial feedback on your revised designs.
+You can use the time between more formal testing to conduct some guerrilla-style testing, getting some initial feedback on your revised designs.
 
-Guerilla testing normally involves taking your prototype into a coffee shop or other public location and finding volunteers who'll give you some quick feedback. Guerilla testing participants aren't necessarily representative of your target audience, but they can provide a quick sense-check in between formal testing sessions.
+Guerrilla testing normally involves taking your prototype into a coffee shop or other public location and finding volunteers who'll give you some quick feedback. Guerrilla testing participants aren't necessarily representative of your target audience, but they can provide a quick sense-check in between formal testing sessions.
 
 ### Other research methods
 

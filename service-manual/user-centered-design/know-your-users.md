@@ -49,7 +49,7 @@ These techniques may be useful when conducting user research
 * [User research tools](/service-manual/user-centered-design/user-research/user-research-tools.html)
 * [Ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
 * [Expert review](/service-manual/user-centered-design/user-research/expert-review.html)
-* [Guerilla testing](/service-manual/user-centered-design/user-research/guerilla-testing.html)
+* [Guerrilla testing](/service-manual/user-centered-design/user-research/guerrilla-testing.html)
 * [Same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
 * [Lab based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
 * [Focus groups and 1:1 interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)

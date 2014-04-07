@@ -58,7 +58,7 @@ Choosing the right visualisation will help the data tell its own story and give 
 
 Most computer programmes come with a range of visualisations. There also visualisation tools available online: for example, this [blog showcases some free ones](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1) and GDS has produced [a guide to infographics](/service-manual/assets/documents/Infographics_Guide.pdf)
 
-Each chart has its own strength. Below are the core 5 with templates (a [google spreadsheet of these is available](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)):
+Each chart has its own strength. Below are the core 5 with templates (a [Google spreadsheet of these is available](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)):
 
 ###Column chart
 ![Column Chart - Image 1](https://docs.google.com/drawings/pub?id=1kgh4dXLVTHtQ5Lhj9SevdaNqij3ncFJRnj0hSPzDmc0&w=358&h=250)

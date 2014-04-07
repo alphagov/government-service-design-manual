@@ -23,7 +23,7 @@ breadcrumbs:
     url: /service-manual/user-centered-design/user-research
 ---
 
-We interviewed Craig Sullivan, an industry expert on conversion optimization. He explains when he uses A/B and multivariate experiments in the design process.
+We interviewed Craig Sullivan, an industry expert on conversion optimisation. He explains when he uses A/B and multivariate experiments in the design process.
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=mS0RKEUPnLA">Watch Craig Sullivan explain A/B and multivariate testing</a>

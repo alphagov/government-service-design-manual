@@ -213,7 +213,7 @@ Be honest about what you're offering users, and what you're not offering them. I
 
 * costs involved
 * waiting periods or delays
-* uncommon or hard-to-find infomation they'll need to provide
+* uncommon or hard-to-find information they'll need to provide
 * constraints on who can complete the transaction (age, nationality etc)
 * equipment that will be required (eg a printer)
 * non-digital parts of the transaction
@@ -229,7 +229,7 @@ For example, if the underlying process is inherently non-linear then choose an i
 
 ### 3. Consider all aspects of the user experience
 
-Remembering the broader context in which a transaction exists, including the emotional states of the people involved and the  broader situations or activites that the transaction is embedded in.
+Remembering the broader context in which a transaction exists, including the emotional states of the people involved and the  broader situations or activities that the transaction is embedded in.
 
 ### 4. Assume users have no prior domain knowledge
 
