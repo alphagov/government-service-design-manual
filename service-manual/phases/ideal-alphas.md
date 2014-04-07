@@ -203,7 +203,7 @@ Starting the iteration on a Wednesday, with User testing on Thursday and demo th
 The value of the alpha process is that the team can use it to identify early the biggest risks to the Beta part of the program.
 
 It is important to remember that the most valuable goals from the alpha process are the increased domain understanding and the team forming behaviours.
-If the code produced during the alpha is not high enough quality then it is fine to throw it away and rebuild. For example, the team may elect not to use test-driven development during this stage. Those activities represent investment in quality. Remember a primary goal during the alpha is learning. We might not be ready to make the investment in creating production-ready systems. In particular, that investment might be premature if the team learns they are not solving the right problem.
+If the code produced during the alpha is not high-enough quality, then it's fine to throw it away and rebuild. For example, the team may elect not to use test-driven development during this stage. Those activities represent investment in quality. Remember that a primary goal during the alpha is learning. We might not be ready to make the investment in creating production-ready systems. In particular, that investment might be premature if the team learns they are not solving the right problem.
 
 Another output of the alpha can be the early decision not to continue into Beta. This represents a successful alpha since it reduces wasted time and money. It may well be the case that at the end of the alpha you go back to the discovery outputs and start a new alpha with a different focus or go back and perform another discovery.
 
