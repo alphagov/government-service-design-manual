@@ -83,7 +83,7 @@ The business process risks include:
 The technical risks tend to be about integrating into the existing systems. For example:
 
 * what sort of ongoing connections will be necessary
-* are there special hosting arrangements eg high security hosting
+* are there special hosting arrangements, eg high security hosting
 
 In our experience, there are always technical risks to all projects. Most government departments do have a history of solving technical risks and have entire teams dedicated to them. Business process and design risks are far less well understood, and so we encourage alphas to focus on exploring those risks with prototyping over full service integrations.
 
