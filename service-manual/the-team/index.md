@@ -56,7 +56,7 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 
 * a [service manager](/service-manual/the-team/service-manager.html) (the 'product owner')
 	* probably supported by a product manager
-	* possibly supported by one or more performance analysts ([job description for this role](/service-manual/the-team/recruitment/performance-analyst-jd.html))
+	* possibly supported by one or more [digital performance analysts](/service-manual/the-team/recruitment/performance-analyst-jd.html))
 * a [delivery manager](/service-manual/the-team/delivery-manager.html)
 * a tech lead
 * one or more [designers](/service-manual/the-team/designer.html)
