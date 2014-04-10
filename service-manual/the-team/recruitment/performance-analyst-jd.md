@@ -27,72 +27,73 @@ You will need to be confident in explaining technical concepts to senior civil s
 
 The main responsibilities of the post are to:
 
-* support the [service manager](/service-manual/the-team/service-manager.html) in ensuring that their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default);
-* communicate service performance against key indicators to internal and external stakeholders;
-* ensure high quality analysis of departmental transaction data;
-* support the procurement of the necessary digital platforms to support automated and real-time collection and presentation of data;
+* support the [service manager](/service-manual/the-team/service-manager.html) to make sure their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default)
+* communicate service performance against key indicators to internal and external stakeholders
+* ensure high-quality analysis of departmental transaction data;
+* support the procurement of the necessary digital platforms to support automated and real-time collection and presentation of data
 * share examples of best practice in digital performance management across government;
-* identify delivery obstacles to improving transactional performance within 	departments and working with teams to overcome those obstacles.
+* identify delivery obstacles to improving transactional performance in 	departments and working with teams to overcome those obstacles
 
-## Personal Specification - Competencies / Skills Required 
+## Personal specification - competencies and skills required 
 
-SEEING THE BIG PICTURE
+You need to be able to see the big picture. You must have these skills:
 
 **Essential**  					
 
-* Be alert to emerging issues and trends which might impact or benefit own and team’s work
-* Seek to understand how the services, activities and strategies in the area work together to create value for the customer/end user
-* Ensure own area/team activities are aligned to Departmental priorities
+* be alert to emerging issues and trends which might impact or benefit own and team’s work
+* week to understand how the services, activities and strategies in the area work together to create value for the user
+* make sure own area/team activities are aligned to Departmental priorities
 
 
-MAKING EFFECTIVE DECISIONS 
+You must be able to make effective decisions by: 
 
 **Essential**						
 
-* Identify a range of relevant and credible information sources and recognise the need to collect new data when necessary from internal and external sources
-* Recognise patterns and trends in a wide range of evidence/data and draw key conclusions
-* Explore different options outlining costs, benefits, risks and potential responses to each
-* Invite challenge and where appropriate involve others in decision making to help build engagement and present robust recommendations
+* identifing a range of relevant and credible information sources and recognise the need to collect new data when necessary from internal and external sources
+* recognising patterns and trends in a wide range of evidence and draw important conclusions
+* exploring different options outlining costs, benefits, risks and potential responses to each
+* inviting challenge and where appropriate involve others in decision making to help build engagement and present robust recommendations
 		
 					
-LEADING AND COMMUNICATING
+You need to be a good leader with strong communication skills. You will be able to:
 
 **Essential**
 
-* Communicate using appropriate styles, methods and timing, including digital channels, to maximise understanding and impact
-* Communicate in a succinct, engaging manner and stand ground when needed
-* Convey enthusiasm and energy about their work and encourage others to do the same
-* Promote the work of the Department and play an active part in supporting the Civil Service values and culture
+* communicate using appropriate styles, methods and timing, including digital channels, to maximise understanding and impact
+* communicate in a succinct, engaging manner and stand ground when needed
+* convey enthusiasm and energy about their work and encourage others to do the same
+* promote the work of the Department and play an active part in supporting the Civil Service values and culture
 
 
-BUILDING CAPABILITY FOR ALL 
-
-**Essential**
-
-* Proactively manage own career and identify own learning needs with line manager, plan and carry out workplace learning opportunities
-* Continually seek and act on feedback to evaluate and improve their own and team’s performance
-
-
-MANAGING A QUALITY SERVICE 
+You must be able to build capability for all:
 
 **Essential**
 
-* Make effective use of project management skills and techniques to deliver outcomes, including identifying risks and mitigating actions
-* Develop, implement, maintain and review systems and service standards to provide quality, efficiency and value for money
-* Establish mechanisms to seek out and respond to feedback from customers about 	service provided
+* proactively manage own career and identify own learning needs with line manager, plan and carry out workplace learning opportunities
+* continually seek and act on feedback to evaluate and improve their own and team’s performance
+
+
+You must be able to manage a quality service:
+
+**Essential**
+
+* make effective use of project management skills and techniques to deliver outcomes, including identifying risks and mitigating actions
+* develop, implement, maintain and review systems and service standards to provide quality, efficiency and value for money
+* establish mechanisms to seek out and respond to feedback from customers about 	service provided
 
 							
-DELIVERING AT PACE 
+You will be able to deliver at pace: 
 
 **Essential**	 	 	 					
 
-* Ensuring efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
-* Regularly monitor own and team’s work against milestones or targets and act promptly to keep work on track and maintain performance
-* Plan ahead but reassess workloads and priorities if situations change or people are facing conflicting demands
+* make sure there is efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
+* regularly monitor own and team’s work against targets
+* act promptly to keep work on track and maintain performance
+* plan ahead but reassess workloads and priorities if situations change or people are facing conflicting demands
 
-SPECIALIST SKILLS
+Some specialist skills you will have:
 
 **Essential**
 
-* Familiarity with data analysis, web analytics and visualisation tools essential: e.g. Google Analytics, Google Refine, Tableau etc.
-* Experience of providing performance analysis and recommendations on digital public services.
+* familiarity with data analysis, web analytics and visualisation tools essential: eg Google Analytics, Google Refine, Tableau etc
+* experience of providing performance analysis and recommendations on digital public services
