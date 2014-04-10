@@ -88,7 +88,7 @@ Do you think that your assisted digital users:
 
 By the end of the alpha stage of your digital transformation, you will need to be able to answer these questions:
 
-1. What are the [needs of users](/service-manual/user-centered-design/user-needs.html) who may require assisted digital support, established by evidence-based research?
+1. What are the [needs of users](/service-manual/user-centred-design/user-needs.html) who may require assisted digital support, established by evidence-based research?
 2. What might the assisted digital user journey look like? Is there a preference for:
   * face-to-face support with someone doing the transaction alongside them
   * telephone support
@@ -100,7 +100,7 @@ By the end of the alpha stage of your digital transformation, you will need to b
 For your digital transformation project to meet [the standard](/service-manual/digital-by-default/index.html) and be allowed to proceed to beta, you must be able to answer these questions to a reasonable level of detail, and demonstrate your thinking behind them.
 
 ###Assisted digital user research
-[Exemplar departments](https://www.gov.uk/transformation) have conducted [user research](/service-manual/user-centered-design/introduction-to-user-research) with users of current offline channels to better understand the needs of potential assisted digital users. Departments researched:
+[Exemplar departments](https://www.gov.uk/transformation) have conducted [user research](/service-manual/user-centred-design/introduction-to-user-research) with users of current offline channels to better understand the needs of potential assisted digital users. Departments researched:
 
 * why these users accessed offline channels
 * what their intention would be if the offline channel was removed in favour of an assisted digital option

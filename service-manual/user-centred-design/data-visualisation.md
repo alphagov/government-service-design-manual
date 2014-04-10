@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Data visualisation
 subtitle: Creating valuable and meaningful graphics to help analyse data
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: performance-analysts
@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 As we surface more data about government services, we need to make sure that the visualisations of it are easy to understand, visually compelling and prompt action. To do that, we need to have a consistent visual grammar, for use both within GDS and across government.

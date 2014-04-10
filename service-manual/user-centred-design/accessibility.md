@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Accessibility
 subtitle: How to make services that everyone can use
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
@@ -18,8 +18,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents). Your services must also comply with any other legal requirements, including providing services in accordance with your Welsh Language Scheme, if you have one.
@@ -58,7 +58,7 @@ Your service should be usable by speech recognition software including [Dragon N
 
 ## Accessible formats
 
-HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible this [PDF guidance](/service-manual/user-centered-design/resources/creating-accessible-PDFs.html) should be followed. There's more information on [choosing appropriate formats](/service-manual/user-centered-design/choosing-appropriate-formats.html).
+HTML is quicker, easier and more widely usable/accessible than PDF, but where no other option is possible this [PDF guidance](/service-manual/user-centred-design/resources/creating-accessible-PDFs.html) should be followed. There's more information on [choosing appropriate formats](/service-manual/user-centred-design/choosing-appropriate-formats.html).
 
 
 ## Accessible content

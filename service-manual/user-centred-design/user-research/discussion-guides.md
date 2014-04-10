@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 Discussion guides are used in order to ensure that focus groups and 1:1 interviews cover the required topics, and information is obtained from the sessions that will address the needs of the research.

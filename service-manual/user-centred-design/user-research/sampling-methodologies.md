@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 When conducting quantitative research it is essential that all findings are statistically valid, so that there is confidence in the findings and inferences can be made from the sample to the population.

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Working with prototypes
 subtitle: Learning by doing
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: tech-archs
@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 The best way to understand a product is to try to build it. Prototyping is an essential process to get a feel for the shape and edges of a product, to begin to estimate the work involved and to provide something you can quickly test with real users.

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: An introduction to user research techniques
 subtitle: Ways to understand your users and their needs
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
     primary: user-researchers
@@ -73,24 +73,24 @@ Some services, eg where users are large corporations, will not require assisted 
 
 ### Background
 
-* [sampling methodologies](/service-manual/user-centered-design/user-research/sampling-methodologies.html)
-* [user research briefs](/service-manual/user-centered-design/user-research/user-research-briefs.html)
-* [survey design](/service-manual/user-centered-design/user-research/survey-design.html)
-* [user research tools](/service-manual/user-centered-design/user-research/user-research-tools.html)
+* [sampling methodologies](/service-manual/user-centred-design/user-research/sampling-methodologies.html)
+* [user research briefs](/service-manual/user-centred-design/user-research/user-research-briefs.html)
+* [survey design](/service-manual/user-centred-design/user-research/survey-design.html)
+* [user research tools](/service-manual/user-centred-design/user-research/user-research-tools.html)
 
 ### Qualitative user research techniques
 
-* [ethnographic research](/service-manual/user-centered-design/user-research/ethnographic-research.html)
-* [expert review](/service-manual/user-centered-design/user-research/expert-review.html)
-* [guerrilla testing](/service-manual/user-centered-design/user-research/guerrilla-testing.html)
-* [same day user testing](/service-manual/user-centered-design/user-research/same-day-user-testing.html)
-* [lab-based user testing](/service-manual/user-centered-design/user-research/lab-based-user-testing.html)
-* [focus groups and one-to-one interviews](/service-manual/user-centered-design/user-research/focus-groups-mini-groups-interviews.html)
-* [community user groups](/service-manual/user-centered-design/user-research/community-user-groups.html)
+* [ethnographic research](/service-manual/user-centred-design/user-research/ethnographic-research.html)
+* [expert review](/service-manual/user-centred-design/user-research/expert-review.html)
+* [guerrilla testing](/service-manual/user-centred-design/user-research/guerrilla-testing.html)
+* [same day user testing](/service-manual/user-centred-design/user-research/same-day-user-testing.html)
+* [lab-based user testing](/service-manual/user-centred-design/user-research/lab-based-user-testing.html)
+* [focus groups and one-to-one interviews](/service-manual/user-centred-design/user-research/focus-groups-mini-groups-interviews.html)
+* [community user groups](/service-manual/user-centred-design/user-research/community-user-groups.html)
 
 ### Quantitative
 
-* [user research surveys](/service-manual/user-centered-design/user-research/user-research-surveys.html)
-* [remote usability/summative testing](/service-manual/user-centered-design/user-research/remote-usability.html)
-* [online research panels](/service-manual/user-centered-design/user-research/online-research-panels.html)
-* [online omnibus surveying](/service-manual/user-centered-design/user-research/online-omnibus-survey.html)
+* [user research surveys](/service-manual/user-centred-design/user-research/user-research-surveys.html)
+* [remote usability/summative testing](/service-manual/user-centred-design/user-research/remote-usability.html)
+* [online research panels](/service-manual/user-centred-design/user-research/online-research-panels.html)
+* [online omnibus surveying](/service-manual/user-centred-design/user-research/online-omnibus-survey.html)

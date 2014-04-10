@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Header and footer
 subtitle: Guidance on using the GOV.UK header
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: designers, developers
@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 Users will need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta), many will not recognise these terms, or know what they mean – therefore, users need to be made aware that a service is not yet 'officially' live, and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
@@ -89,7 +89,7 @@ End user feedback can provide data that is invaluable for developing and improvi
 
 ### Using the GOV.UK logotype
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centered-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
+You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centred-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
 
 ## Footers
 

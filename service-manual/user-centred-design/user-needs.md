@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: User needs
 subtitle: How to focus a service on users
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
     primary: user-researchers, service-managers

@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 An online research community is a website that allows pre-selected respondents to interact with each other and complete a series of tasks.

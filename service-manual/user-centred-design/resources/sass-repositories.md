@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 Sass lets us share blocks of code and techniques. [GOV.UK](https://www.gov.uk) has a collection of Sass files which are bundled up into a [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem) for easy inclusion into new projects. For projects not written in Ruby note that the gem is just a wrapper for the [GOV.UK Frontend toolkit](https://github.com/alphagov/govuk_frontend_toolkit), a repository containing all the files.

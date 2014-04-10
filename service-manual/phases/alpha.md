@@ -19,7 +19,7 @@ breadcrumbs:
 {:.intro}
 When designing a service it's impossible to predict everything upfront. Each project features many challenges, and in your alpha you will start exploring solutions for these.
 
-You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centered-design/working-with-prototypes) and possible solutions for your [users needs](/service-manual/user-centered-design/user-needs).
+You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centred-design/working-with-prototypes) and possible solutions for your [users needs](/service-manual/user-centred-design/user-needs).
 
 By the end of the alpha you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta). The whole phase should not last longer than about 6 to 8 weeks.
 
@@ -30,7 +30,7 @@ By the end of the alpha you should have a clear idea of what's required to build
 The objective is to build a working prototype. This will be used by stakeholders or a closed group of end users to:
 
 * gain greater understanding of a service
-* test [design approach](/service-manual/user-centered-design/working-with-prototypes)
+* test [design approach](/service-manual/user-centred-design/working-with-prototypes)
 * test some [technologies](/service-manual/making-software/choosing-technology)
 * begin to form [the team](/service-manual/the-team)
 * gain shared understanding of the service at a coding and integrations level
@@ -60,7 +60,7 @@ The alpha phase is another relatively short phase. At GDS, we try to limit these
 ## Team requirements
 This phase involves a relatively small core team, who will be capable of rapidly iterating solutions. It will probably expand and contract in size as different specialisms are required.
 
-This core team will be a mix of stakeholders, and makers (designers and developers) particularly those familiar with [user research](/service-manual/user-centered-design/introduction-to-user-research). It will be led by the service manager.
+This core team will be a mix of stakeholders, and makers (designers and developers) particularly those familiar with [user research](/service-manual/user-centred-design/introduction-to-user-research). It will be led by the service manager.
 
 ## Outputs
 

@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: What your service should look like
 subtitle: Guidance for creating a consistent look-and-feel
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: designers, developers
@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 The [service standard](/service-manual/digital-by-default#criterion-13) states that your service should be built “with the same look, feel and tone as GOV.UK”.
@@ -53,7 +53,7 @@ Services should use clear, easy to read type, with consistent styles and a clear
 
 You'll be given access to the New Transport typeface if your service is on GOV.UK.
 
-[Read our full guidance on typography](/service-manual/user-centered-design/resources/typography).
+[Read our full guidance on typography](/service-manual/user-centred-design/resources/typography).
 
 ## Pictures and icons
 
@@ -65,4 +65,4 @@ You should only use icons if they are clear, simple and help to convey informati
 
 You should use the standard template for your header and footer if your service is on GOV.UK.
 
-[Read our guidance on headers and footers](/service-manual/user-centered-design/resources/header-footer)
+[Read our guidance on headers and footers](/service-manual/user-centred-design/resources/header-footer)

@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 User testing is a ‘qualitative’ research method, used to gauge how easy and intuitive a (product, service, website) is to use and whether it supports the needs of its intended audience.

@@ -86,7 +86,7 @@ Where possible, also offer other formats most suited to a specific domain, such 
 - [KML](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](http://en.wikipedia.org/wiki/GeoRSS) for geographical data
 - [m3u](http://en.wikipedia.org/wiki/.m3u) for playlists
 
-This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centered-design/choosing-appropriate-formats.html).
+This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centred-design/choosing-appropriate-formats.html).
 
 Include hyperlinks to alternative representations as [link headers](http://www.w3.org/TR/html51/document-metadata.html#the-link-element) as well as in content.
 

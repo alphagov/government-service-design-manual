@@ -17,7 +17,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-You've tested your solutions to [user needs](/service-manual/user-centered-design/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
+You've tested your solutions to [user needs](/service-manual/user-centred-design/user-needs.html) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=s0l8HauO_PM">Watch Martyn Inglis, GDS technical architect, describe what happens during the beta phase.</a></figure>
 
@@ -47,7 +47,7 @@ At the end of the beta phase, you'll have:
 
 * delivered a public, end-to-end prototype of the service
 * a collection of prioritised work to be done (your backlog)
-* a [user testing plan](/service-manual/user-centered-design/introduction-to-user-research.html)
+* a [user testing plan](/service-manual/user-centred-design/introduction-to-user-research.html)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
 * tested the assisted digital support for your service
 * a working system that can be used, for real, by end users

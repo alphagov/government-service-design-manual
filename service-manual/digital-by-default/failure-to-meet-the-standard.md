@@ -46,7 +46,7 @@ The performance panel will be chaired by GDS. It will include representatives fr
 
 The service manager and digital leader will present to the panel, explaining why they believe performance levels are below those expected at launch and set out what remedial actions they intend on taking to rectify the issues within the next three months. The panel will approve this plan, or suggest additional actions.
 
-It will approve changes to the performance targets set at launch only if there is compelling evidence that the [user needs](/service-manual/user-centered-design/user-needs.html) have demonstrably changed. It will also request monthly updates against the actions.
+It will approve changes to the performance targets set at launch only if there is compelling evidence that the [user needs](/service-manual/user-centred-design/user-needs.html) have demonstrably changed. It will also request monthly updates against the actions.
 
 ### Failing services
 If after a further three months the performance issues still persist, the Cabinet Office will write to the minister responsible for the service, explaining that the service is failing to meet the standard, and that a warning will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed.

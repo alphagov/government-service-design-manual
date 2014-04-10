@@ -1,8 +1,8 @@
 ---
 layout: detailed-guidance
-title: User-centered design in alpha and beta
+title: User-centred design in alpha and beta
 subtitle: Combining design and research to create user focused services
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: service-managers, designers, developers, performance-analysts, user-researchers, qa
@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 Carry out user research during every stage of your project. Do it continuously through each stage — don’t leave it as something that happens at the beginning and end of phases.
@@ -51,7 +51,7 @@ Each 2-week iteration should comprise of 3 stages:
 * [measure](#measure)
 * [learn](#learn)
 
-![A sketch of the Identity Assurance (IDA) team’s fortnightly iteration plan](/service-manual/assets/images/user-centered-design/process-wheel-small.png)
+![A sketch of the Identity Assurance (IDA) team’s fortnightly iteration plan](/service-manual/assets/images/user-centred-design/process-wheel-small.png)
 
 ## Build
 
@@ -149,7 +149,7 @@ Guerrilla testing normally involves taking your prototype into a coffee shop or 
 
 There are many other research methods you can use to supplement your ‘in person’ qualitative research and to address specific research questions. Using a different technique can provide better insight into a particular research question, or validate insights from fortnightly research with a larger audience.
 
-Here‘s a [list of some techniques](/service-manual/user-centered-design/introduction-to-user-research) you can use and information on how and when you should use them.
+Here‘s a [list of some techniques](/service-manual/user-centred-design/introduction-to-user-research) you can use and information on how and when you should use them.
 
 ## Learn
 
@@ -186,7 +186,7 @@ Work with anyone that’s seen the user testing session to analyse observations,
 * confirm things that people have seen
 * form a consensus on the findings
 
-![Picture of post it notes on wall](/service-manual/assets/images/user-centered-design/post-it-wall.png)
+![Picture of post it notes on wall](/service-manual/assets/images/user-centred-design/post-it-wall.png)
 
 #### Actions
 

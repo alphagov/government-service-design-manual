@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Creating Accessible PDFs
 subtitle: How to make PDFs that everyone can use
-category: user-centered-design
+category: user-centred-design
 type: resource
 audience:
   secondary: designers, developers, content-designers
@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 # Overview

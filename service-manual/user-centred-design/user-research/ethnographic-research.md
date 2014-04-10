@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 Ethnographic research usually involves observing target users in their natural, real-world setting,  rather than in the artificial environment of a lab or focus group. The aim is to gather insight into how people live; what they do; how they use things; or what they need in their everyday or professional lives.

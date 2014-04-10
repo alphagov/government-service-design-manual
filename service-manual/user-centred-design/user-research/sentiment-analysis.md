@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 Sentiment analysis is a method used to analyse high volumes of verbatim comments from users in order to help easily understand the attitude and tone of users’ comment.

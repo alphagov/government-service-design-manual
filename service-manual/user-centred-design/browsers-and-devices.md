@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Browsers and devices
 subtitle: Which ones to test with, and how best to support them
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: designers, web-ops, developers, tech-archs, user-researchers, qa, service-managers
@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

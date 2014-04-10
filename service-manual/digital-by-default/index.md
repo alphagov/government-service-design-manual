@@ -34,7 +34,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/user-centered-design/user-needs.html">User needs</a></li>
+        <li><a href="/service-manual/user-centred-design/user-needs.html">User needs</a></li>
         <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
       </ul>
     </div>
@@ -90,7 +90,7 @@ service, led by a suitably skilled and senior service manager with full authorit
       <ul>
         <li><a href="/service-manual/agile">Agile</a></li>
         <li><a href="/service-manual/phases/alpha.html">Alpha phase</a></li>
-        <li><a href="/service-manual/user-centered-design/working-with-prototypes.html">Working with prototypes</a></li>
+        <li><a href="/service-manual/user-centred-design/working-with-prototypes.html">Working with prototypes</a></li>
       </ul>
     </div>
   </li>
@@ -144,7 +144,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/user-centered-design/print-forms.html">Printed forms</a></li>
+        <li><a href="/service-manual/user-centred-design/print-forms.html">Printed forms</a></li>
       </ul>
     </div>
   </li>
@@ -153,8 +153,8 @@ service, led by a suitably skilled and senior service manager with full authorit
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/user-centered-design">Design and content</a></li>
-        <li><a href="/service-manual/user-centered-design/service-look-and-feel">Service look-and-feel</a></li>
+        <li><a href="/service-manual/user-centred-design">Design and content</a></li>
+        <li><a href="/service-manual/user-centred-design/service-look-and-feel">Service look-and-feel</a></li>
       </ul>
     </div>
   </li>
@@ -222,8 +222,8 @@ service, led by a suitably skilled and senior service manager with full authorit
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/user-centered-design/user-research">User research</a></li>
-        <li><a href="/service-manual/user-centered-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
+        <li><a href="/service-manual/user-centred-design/user-research">User research</a></li>
+        <li><a href="/service-manual/user-centred-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
       </ul>
     </div>
   </li>

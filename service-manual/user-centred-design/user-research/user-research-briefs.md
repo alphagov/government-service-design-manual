@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 A Research brief is a document written to explain research requirements and enable research to be procured via third party agencies. A research brief will outline the research objectives, and why the work is required.

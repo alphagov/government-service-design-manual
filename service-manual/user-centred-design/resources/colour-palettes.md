@@ -18,11 +18,11 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
-This is the standard [GOV.UK](https://www.gov.uk) colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the [GOV.UK Front-end Toolkit](/service-manual/user-centered-design/resources/sass-repositories.html).
+This is the standard [GOV.UK](https://www.gov.uk) colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the [GOV.UK Front-end Toolkit](/service-manual/user-centred-design/resources/sass-repositories.html).
 
 ## Semantic colour names
 

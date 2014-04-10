@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 Shared asset libraries are helpful for using the same frontend and
@@ -71,7 +71,7 @@ HTML and assets together.
 ### govuk_frontend_toolkit
 
 Please see
-[Sass repositories](/service-manual/user-centered-design/resources/sass-repositories.html) for
+[Sass repositories](/service-manual/user-centred-design/resources/sass-repositories.html) for
 more information on this repository.
 
 

@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 The abundance of free survey tools makes it cheap and easy for user research teams to produce their own surveys. However, thought still needs to be given to the survey design, understanding the goal(s) of the survey , and how the results will be used.

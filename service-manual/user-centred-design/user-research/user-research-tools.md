@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 There are a number of good tools that can help user research teams conduct in-house research quickly and effectively. Below is a high level overview of what these enable, for people unfamiliar with user testing.

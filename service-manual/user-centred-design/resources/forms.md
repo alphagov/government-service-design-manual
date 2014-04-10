@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 ## Writing the HTML for forms
@@ -260,7 +260,7 @@ By default buttons should be horizontally left-aligned beneath the form inputs (
     </div>
 </div>
 
-See the [separate page on buttons](/service-manual/user-centered-design/resources/buttons.html) for more detailed guidance.
+See the [separate page on buttons](/service-manual/user-centred-design/resources/buttons.html) for more detailed guidance.
 
 ## Validation messages
 
@@ -288,7 +288,7 @@ The red bar visually connects the summary to the messages in the form and aids q
 
 # Examples in this page
 
-To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centered-design/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
+To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centred-design/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
 
 # Examples on [GOV.UK](https://www.gov.uk)
 

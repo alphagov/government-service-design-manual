@@ -18,8 +18,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: User centred design
+    url: /service-manual/user-centred-design
 ---
 
 This example form incorporates most of the basic user interface (UI) patterns for forms and lets you play with different label alignments.

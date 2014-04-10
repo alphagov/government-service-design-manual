@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Card sorting
 subtitle: Ways of framing or interpreting information
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
     primary: user-researchers
@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/users
 ---
 
-Card sorting is a research method used to understand the way that the intended users of a website naturally organise or think about different types of information or content. It's also a method service teams can use to sort and arrange [user needs](/service-manual/user-centered-design/user-needs.html).
+Card sorting is a research method used to understand the way that the intended users of a website naturally organise or think about different types of information or content. It's also a method service teams can use to sort and arrange [user needs](/service-manual/user-centred-design/user-needs.html).
 
 ## How to carry out a card sort
 

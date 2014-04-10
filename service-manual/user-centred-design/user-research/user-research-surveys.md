@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/users
   -
     title: User research
-    url: /service-manual/user-centered-design/user-research
+    url: /service-manual/user-centred-design/user-research
 ---
 
 Surveys contain closed ended questions with fixed responses such as ‘yes’, ‘no’, ‘very satisfied’ to ‘very dissatisfied’, ‘excellent’ to ‘poor’ etc, and open ended questions that allow respondents to provide written responses.
