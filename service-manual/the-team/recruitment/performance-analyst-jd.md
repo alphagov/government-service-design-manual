@@ -29,9 +29,9 @@ The main responsibilities of the post are to:
 
 * support the [service manager](/service-manual/the-team/service-manager.html) to make sure their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default)
 * communicate service performance against key indicators to internal and external stakeholders
-* ensure high-quality analysis of departmental transaction data;
+* ensure high-quality analysis of departmental transaction data
 * support the procurement of the necessary digital platforms to support automated and real-time collection and presentation of data
-* share examples of best practice in digital performance management across government;
+* share examples of best practice in digital performance management across government
 * identify delivery obstacles to improving transactional performance in 	departments and working with teams to overcome those obstacles
 
 ## Personal specification - competencies and skills required 
@@ -41,8 +41,8 @@ You need to be able to see the big picture. You must have these skills:
 **Essential**  					
 
 * be alert to emerging issues and trends which might impact or benefit own and team’s work
-* week to understand how the services, activities and strategies in the area work together to create value for the user
-* make sure own area/team activities are aligned to Departmental priorities
+* understand how the services, activities and strategies in the area work together to create value for the user
+* make sure own area/team activities are aligned to departmental priorities
 
 
 You must be able to make effective decisions by: 
@@ -62,7 +62,7 @@ You need to be a good leader with strong communication skills. You will be able 
 * communicate using appropriate styles, methods and timing, including digital channels, to maximise understanding and impact
 * communicate in a succinct, engaging manner and stand ground when needed
 * convey enthusiasm and energy about their work and encourage others to do the same
-* promote the work of the Department and play an active part in supporting the Civil Service values and culture
+* promote the work of the department and play an active part in supporting the civil service values and culture
 
 
 You must be able to build capability for all:
@@ -79,7 +79,7 @@ You must be able to manage a quality service:
 
 * make effective use of project management skills and techniques to deliver outcomes, including identifying risks and mitigating actions
 * develop, implement, maintain and review systems and service standards to provide quality, efficiency and value for money
-* establish mechanisms to seek out and respond to feedback from customers about 	service provided
+* establish mechanisms to seek out and respond to feedback from customers about service provided
 
 							
 You will be able to deliver at pace: 
@@ -95,5 +95,5 @@ Some specialist skills you will have:
 
 **Essential**
 
-* familiarity with data analysis, web analytics and visualisation tools essential: eg Google Analytics, Google Refine, Tableau etc
+* familiarity with data analysis, web analytics and visualisation tools essential eg Google Analytics, Google Refine, Tableau etc
 * experience of providing performance analysis and recommendations on digital public services
