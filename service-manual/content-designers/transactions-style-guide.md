@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Content style guide for services
 subtitle: Writing questions, wording for labels, addressing the user and more
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: service-managers, designers, developers, content-designers
@@ -25,7 +25,7 @@ breadcrumbs:
 
 Using the government standards for style, logic and content design will help you build services that meet user needs.
 
-Building services from the user’s perspective and then developing services based on [users’ needs](https://www.gov.uk/service-manual/user-centered-design/user-needs.html) is essential to your project’s success.  
+Building services from the user’s perspective and then developing services based on [users’ needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html) is essential to your project’s success.  
 
 This guide is itself in the [alpha phase](https://www.gov.uk/service-manual/phases/alpha.html). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
 

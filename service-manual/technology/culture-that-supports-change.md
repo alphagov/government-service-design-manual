@@ -46,7 +46,7 @@ It may be necessary and more cost-effective to write-off previous financial inve
 
 The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least you'll need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
 
-The cost of maintaining out-of-date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/user-centered-design/user-needs.html).
+The cost of maintaining out-of-date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/user-centred-design/user-needs.html).
 
 If you’re in this position, it’s also likely that the [architecture](/service-manual/technology/architecture.html) and [hosting](/service-manual/operations/hosting.html) of your [existing estate](/service-manual/technology/architecture.html#the-legacy-estate) may need to be rethought.
 

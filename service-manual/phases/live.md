@@ -17,7 +17,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-You've been building a service to meet [users needs](/service-manual/user-centered-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
+You've been building a service to meet [users needs](/service-manual/user-centred-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
 ## Going live
 
@@ -25,7 +25,7 @@ To provide a fully resilient service to all end users the service should now mee
 
 You have liaised with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to make sure that you have met the requirements of new and redesigned services.
 
-And, most importantly, you have met [the user needs](/service-manual/user-centered-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
+And, most importantly, you have met [the user needs](/service-manual/user-centred-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
 ## Post-launch stages
 

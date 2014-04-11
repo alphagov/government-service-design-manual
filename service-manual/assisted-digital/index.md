@@ -35,9 +35,9 @@ You can read more about assisted digital in the publication '[Government Approac
 
 Assisted digital support is for users who are not able to use digital services without help. 18% of UK adults are offline and the GDS ‘Digital Landscape Research’ provides [a demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
 
-Every service will have a different proportion of users who aren’t online, so understanding your [users' needs](/service-manual/user-centered-design/user-needs.html) is vital for putting in place the appropriate support.
+Every service will have a different proportion of users who aren’t online, so understanding your [users' needs](/service-manual/user-centred-design/user-needs.html) is vital for putting in place the appropriate support.
 
-[User research](/service-manual/user-centered-design/introduction-to-user-research.html) will help you to understand your users. When doing your research, use service teams and [user research techniques](/service-manual/user-centered-design/user-research#tips-for-user-research).
+[User research](/service-manual/user-centred-design/introduction-to-user-research.html) will help you to understand your users. When doing your research, use service teams and [user research techniques](/service-manual/user-centred-design/user-research#tips-for-user-research).
 
 Consider the digital skills of your users. This will help you understand - out of those not using digital channels - which users:
 
@@ -51,7 +51,7 @@ Your service might not need to provide assisted digital support, eg your users a
 
 Good assisted digital support:
 
-* is based on [user needs](/service-manual/user-centered-design/user-needs.html)
+* is based on [user needs](/service-manual/user-centred-design/user-needs.html)
 * acts as an alternative way to access the digital service
 * includes an opportunity to learn, and encourages users to use the digital service independently in the future (where appropriate)
 * can be provided externally from government, ie by the private and voluntary sectors

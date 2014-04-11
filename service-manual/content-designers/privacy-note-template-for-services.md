@@ -2,7 +2,7 @@
 layout: detailed-guidance
 title: Content style guide for services
 subtitle: Writing questions, wording for labels, addressing the user and more
-category: user-centered-design
+category: user-centred-design
 type: guide
 audience:
   primary: service-managers, designers, developers, content-designers

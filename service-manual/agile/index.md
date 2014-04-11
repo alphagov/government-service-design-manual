@@ -39,7 +39,7 @@ Find out more information on:
 
 * [what an agile project looks like](/service-manual/agile/what-agile-looks-like.html)
 * [what continuous delivery is](/service-manual/agile/continuous-delivery.html)
-* [how to do user centred design in an agile project](/service-manual/user-centered-design/user-centered-design-alpha-beta)
+* [how to do user centred design in an agile project](/service-manual/user-centred-design/user-centred-design-alpha-beta)
 
 
 ## User stories

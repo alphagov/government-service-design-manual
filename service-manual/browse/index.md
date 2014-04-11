@@ -25,7 +25,7 @@ breadcrumbs:
         <li><a href="#identity-assurance">Identity assurance</a></li>
         <li><a href="#technology">Technology</a></li>
         <li><a href="#the-team">The team</a></li>
-        <li><a href="#user-centered-design">User-centered design</a></li>
+        <li><a href="#user-centred-design">User-centred design</a></li>
       </ol>
     </nav>
   </div>
@@ -68,8 +68,8 @@ breadcrumbs:
       {% assign link_cat = 'the-team' %}
       {% include _browse-links.html %}
 
-      <h2 id="user-centered-design">User-centered design</h2>
-      {% assign link_cat = 'user-centered-design' %}
+      <h2 id="user-centred-design">User-centred design</h2>
+      {% assign link_cat = 'user-centred-design' %}
       {% include _browse-links.html %}
     </div>
   </div>
