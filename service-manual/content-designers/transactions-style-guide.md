@@ -25,18 +25,18 @@ breadcrumbs:
 
 Using the government standards for style, logic and content design will help you build services that meet user needs.
 
-Building services from the user’s perspective and then developing services based on [users’ needs](https://www.gov.uk/service-manual/user-centred-design/user-needs.html) is essential to your project’s success.  
+Building services from the user’s perspective and then developing services based on [users’ needs](/service-manual/user-centred-design/user-needs.html) is essential to your project’s success.
 
-This guide is itself in the [alpha phase](https://www.gov.uk/service-manual/phases/alpha.html). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+This guide is itself in the [alpha phase](/service-manual/phases/alpha). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
 
 
 ##GOV.UK style
-Follow the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide) for language and style, eg tone of voice, plain English guidance, and any particular points of style like abbreviations, capitalisation etc.
+Follow the [GOV.UK style guide](/design-principles/style-guide) for language and style, eg tone of voice, plain English guidance, and any particular points of style like abbreviations, capitalisation etc.
 
 ##Name of your service
 Make sure users can easily find your service through search engines like Google. Optimise the title of your service. 
 
-[Read more on search engine optimisation](https://www.gov.uk/design-principles/style-guide#seo).
+[Read more on search engine optimisation](/design-principles/style-guide#seo).
 
 ##Consistency and clarity
 
@@ -218,7 +218,7 @@ Things that don’t work very well:
 If you’re trying out other ideas, email them to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
 
 ##Headings 
-All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](https://www.gov.uk/design-principles/style-guide/style-points#style-capitalisation).
+All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](/design-principles/style-guide/style-points#style-capitalisation).
 
 Headings must give the user a clear indication where they are in the service. The name of your service should be on every page.
 
@@ -408,4 +408,4 @@ GDS will write and upload the start and done pages on GOV.UK. Raise a ticket in 
 
 Also include a list the most important keywords for search engine optimisation because pages within the service won’t be indexed in GOV.UK search. 
 
-Use the [GOV.UK SEO guidance](https://www.gov.uk/design-principles/style-guide#seo) for headings, introductions and metadata descriptions.
+Use the [GOV.UK SEO guidance](/design-principles/style-guide#seo) for headings, introductions and metadata descriptions.
