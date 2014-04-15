@@ -62,6 +62,7 @@ Your understanding of the number of users who may need support and their specifi
 The objective of the alpha phase is to design a support model with which to test the appropriateness of your support and your understanding of user needs.
 
 At this point, you should formalise your thinking on assisted digital and create an assisted digital plan. This will state how you will provide assisted digital to the standards set out in the [GDS assisted digital guidance](/service-manual/assisted-digital).
+
 The guidance includes key performance indicators (KPIs) for your assisted digital support, so you will need to include ways to measure your service.
 
 During the alpha stage, you should understand your assisted digital users’ current ability, confidence and barriers to completing your service independently. You need to find out if they lack:
@@ -95,7 +96,9 @@ Assisted digital support should follow shared models which are currently being d
   * face by face support at home (outreach)
 
 1. What research have you conducted and what feedback have you received on your user journeys from users and/or experts?
+
 1. How will you fund your assisted digital support so that it’s sustainable, and is the support free to use for the user?
+
 1. How will you gather user insights and use them to iterate your assisted digital support in beta?
 
 ## Beta: testing and measuring your service
@@ -107,6 +110,7 @@ During the beta phase, you will fully test and complete end-to-end assisted digi
 You should continue to do user research and sufficiently test your assisted digital support with users in the early stage of beta. You should involve experts and intermediaries in your testing. GDS can support this by introducing you to organisations we work with. You should test the whole of your assisted digital user journey, looking at each point where the user interacts digitally in the transaction and testing the planned support at that point.
 
 Before your digital service moves onto GOV.UK, you’ll need to demonstrate:
+
 
 1. The specific [needs of users](/service-manual/assisted-digital/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
 1. Your plan to fully test assisted digital support in beta. This should include:

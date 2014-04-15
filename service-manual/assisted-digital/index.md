@@ -65,6 +65,7 @@ For more details, see our [assisted digital action plan](/service-manual/assiste
 
 ## Assisted digital users and their needs
 It’s vital to gain a good understanding of your assisted digital users - their numbers and their needs. Only then can you put appropriate support in place. Assisted digital users include people who are offline, and people who are online but have limited digital capability - ie low experience, skills, confidence, ability and/or motivation.
+
 Every service will have a different proportion of users who aren’t online. User research will help you to understand your users. When doing your research, use service teams and follow this advice on [assisted digital research](/service-manual/assisted-digital/assisted-digital-user-research).
 
 ## Assisted digital channels
@@ -101,7 +102,9 @@ Government must provide funded assisted digital support for users who need it, a
 
 ## GDS’s approach to assisted digital
 GDS is working with exemplar departments on a cross-government model to provide high-quality assisted digital support for those who really need it. Whether provided in-house or externally, all services must understand their assisted digital requirements and provide high-quality and value for money support.
+
 GDS is leading the procurement activities for a single cross-government route for commissioning assisted digital support of this standard (with support from the [Crown Commercial Service](http://ccs.cabinetoffice.gov.uk)).  The commissioning route will be scalable and offer value for money assisted digital support.
+
 The commissioning route will look to provide for a wide range of transaction volumes and offer assisted digital providers with the requisite level of training.
 Assisted digital users may also have general enquiries related to the service. This information will be on GOV.UK as part of the digital service, so it will be easy for the assisted digital provider to access on the assisted digital user’s behalf.
 
