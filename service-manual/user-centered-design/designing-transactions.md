@@ -1,5 +1,5 @@
 ---
-layout: detailed-guidance
+layout: detailed-guidance-2
 title: Designing transactions
 subtitle: Designing useful and usable government services
 category: user-centered-design
@@ -23,6 +23,7 @@ breadcrumbs:
 A transaction is an exchange of money, information, rights or goods between two or more parties.
 This guide is for anyone designing transactions for GOV.UK.
 
+---
 
 ## Optimise for the majority
 
@@ -30,16 +31,18 @@ Find out what the majority of your users need and focus on this.
 Test the simplest solution first and only add a new feature if you know people need it.
 User research and customer data will help you decide which edge cases to support.
 
-[Find out what your users need](know-your-users.html).
+[Find out what your users need](know-your-users.html)
 
+---
 
 ## Be honest about the proposition
 
 Be honest up front about what users can and can't do with your service.
 People need to know whether they're eligible, how much it will cost and how long it will take before they decide whether to commit to a transaction. The best place to tell them is on the first page.
 
-[Find out how to design your start pages](resources/start-pages.html).
+[Find out how to design your start pages](resources/start-pages.html)
 
+---
 
 ## Be helpful
 
@@ -47,8 +50,9 @@ Most government transactions are used infrequently, so it's best to design as if
 
 Some people will read up on a subject before they start, but many will choose to dive straight in. You need to support both types of behaviour.
 
-[Find out how to help first-time users](help-text.html).
+[Find out how to help first-time users](help-text.html)
 
+---
 
 ## Choose an appropriate structure
 
@@ -57,6 +61,7 @@ Don't structure it around the way your organisation works.
 
 [Find out how to choose the best structure](resources/question-pages.html)
 
+---
 
 ## Don't ask too many questions
 
@@ -68,12 +73,14 @@ Don't ask for the same information more than once. It makes your service feel in
 
 [Find out how to ask good questions](resources/question-pages.html)
 
+---
 
 ## Follow the GOV.UK style guide
 
 All written content on GOV.UK should follow the style guide. The style guide covers things like tone of voice, plain English, abbreviations and capitalisations.
 
-[Read the GOV.UK style guide](https://www.gov.uk/design-principles/style-guide).
+[Read the GOV.UK style guide](https://www.gov.uk/design-principles/style-guide)
+
 
 
 ### Use plain English
