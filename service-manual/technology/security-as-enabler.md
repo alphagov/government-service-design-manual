@@ -43,7 +43,7 @@ The vast majority of government’s information will fall into the lowest 'offic
 
 To defend against threats such as these, government will use only the very best security technology sourced from the commercial market, and there will be no need for any bespoke or government-only controls at this level.
 
-A small set of software will perform security enforcing functions, such as firewalling or encrypting data. Such products require assurance that they function as advertised, achieved through the [CESG Commercial Product Assurance (CPA) scheme](http://www.cesg.gov.uk/servicecatalogue/CPA/Pages/CPA.aspx). This scheme is lightweight compared to previous schemes, reflecting the commercial grade risks for OFFICIAL information.
+A small set of software will perform security enforcing functions, such as firewalling or encrypting data. Such products require assurance that they function as advertised, achieved through the [CESG Commercial Product Assurance (CPA) scheme](https://www.cesg.gov.uk/servicecatalogue/Product-Assurance/CPA/Pages/CPA.aspx). This scheme is lightweight compared to previous schemes, reflecting the commercial grade risks for OFFICIAL information.
 
 ##Trust responsible users, audit and verify
 

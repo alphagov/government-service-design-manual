@@ -35,7 +35,7 @@ Get an independent body to help find potential security problems in your system/
 
 ### Talk to CESG
 
-The Communications-Electronics Security Group [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) is the National Technical Authority for Information Assurance. Based at Cheltenham, they provide both standards and advice for information security. 
+[CESG](https://www.cesg.gov.uk/) is the National Technical Authority for Information Assurance. Based at Cheltenham, they provide both standards and advice for information security.
 
 If your project is fairly large, contact CESG as early as possible. They can provide guidance and expertise on potential problems and help you to make sure the right things are tested.
 
@@ -73,7 +73,7 @@ The web is a hostile environment, and the nature of government services means th
 
 Exploits of web application tend to follow a relatively small number of common patterns. Automated and manual testing, as well as awareness of these common problems, can have a drastic effect on the security of your system.
 
-[The Government Accreditation processes](http://www.cesg.gov.uk/servicecatalogue/PGAS/Pages/PGAS.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](http://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). View this as the minimum amount of effort required.
+[The Government Accreditation processes](https://www.cesg.gov.uk/policyguidance/PGA/Pages/index.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](https://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). View this as the minimum amount of effort required.
 
 ## Further reading
 
