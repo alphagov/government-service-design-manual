@@ -20,8 +20,9 @@ breadcrumbs:
     url: /service-manual/user-centered-design
 ---
 
-A transaction is an exchange of money, information, rights or goods between two or more parties.
-This guide is for anyone designing transactions for GOV.UK.
+{:.intro}
+A transaction is an exchange of money, information, rights or goods between two or more parties. 
+Follow these steps to ensure your transactions are user-focussed.
 
 ---
 

@@ -4,11 +4,9 @@
 
 .design-resources {
 
-  #user-satisfaction-survey{
-    display: none;
-  }
-
   header.page-header {
+    border-bottom: 0;
+    padding: 0;
     h1 {
       margin-top: 0.8em;
       @include bold-48;
