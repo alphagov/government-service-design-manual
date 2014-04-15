@@ -1,6 +1,6 @@
 ---
 layout: design-index
-title: Resources for designers
+title: Design resources
 category: design-and-development-resources
 type: resource
 audience:
