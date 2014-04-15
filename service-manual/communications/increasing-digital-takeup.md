@@ -40,7 +40,7 @@ Hertfordshire County Council, as explained in [this case study](/service-manual/
 
 ###2. Get users to try digital for the first time by:
 
-* rapidly implementing changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](http://digital.cabinetoffice.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
+* rapidly implementing changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](https://gds.blog.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
 * identifying all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
 * making your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost, etc
 * training frontline staff on how to make current users of offline channels aware of your digital service, how it meets their needs, and support users to try the digital service for the first time

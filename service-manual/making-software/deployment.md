@@ -38,7 +38,7 @@ are:
 Deploying software should be a low-risk activity. By deploying
 software frequently and in small increments, the risk is reduced in a
 number of ways. See
-[Regular Releases Reduce Risk](http://digital.cabinetoffice.gov.uk/2012/11/02/regular-releases-reduce-risk/)
+[Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/)
 from the GDS blog for more on this.
 
 Deploying software frequently makes life better for the product

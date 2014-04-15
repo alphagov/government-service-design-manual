@@ -33,7 +33,7 @@ required.
 There are two additional benefits to this approach:
 
 - Single serve assets are
-  [recommended by Yahoo! as a performance best practice](http://developer.yahoo.com/performance/rules.html#num_http)
+  [recommended by Yahoo! as a performance best practice](https://developer.yahoo.com/performance/rules.html#num_http)
 - All used libraries are kept at known versions, which guarantees
   compatibility and reduces the risk of security vulnerabilities
   through external server compromise.

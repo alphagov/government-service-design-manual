@@ -146,7 +146,7 @@ an exemption may be agreed in advance on an exceptional case-by-case basis.
 Any exemption would be agreed with the government’s Chief Technology Officer
 (or through Departmental Accounting Officer procedures for cases below the
 Cabinet Office’s
-[spend controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1)
+[spend controls](https://www.gov.uk/government/publications/cabinet-office-controls)
 threshold for IT).
 
 ##Further reading

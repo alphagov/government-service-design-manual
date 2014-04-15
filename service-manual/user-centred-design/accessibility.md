@@ -37,7 +37,7 @@ Your service should be tested by disabled people, older people, and people who u
 
 ## Accessibility statements and policies
 
-We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website doesn't include a separate accessibility statement, however, as we aren't comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development. This [blogpost by GDS accessibility expert Léonie Watson](http://digital.cabinetoffice.gov.uk/2013/02/11/beyond-box-ticking/) explains in more detail why we took this decision.
+We work hard to make our sites and services as accessible and usable as we can for everyone who needs to use them. The GOV.UK website doesn't include a separate accessibility statement, however, as we aren't comfortable with a statement that draws a distinction between accessibility and any other aspect of best practice development. This [blog post by GDS accessibility expert Léonie Watson](https://gds.blog.gov.uk/2013/02/11/beyond-box-ticking/) explains in more detail why we took this decision.
 
 
 ## Assistive technologies
@@ -74,4 +74,4 @@ For instance, in a ‘find my nearest’ service, consider user needs like:
 
 
 ##Further reading
-You can read more about the accessibility testing we've carried out while building GOV.UK on [this blog post by GDS Accessibility Lead Joshua Marshall](http://digital.cabinetoffice.gov.uk/2012/01/20/user-testing-accessibility/).
+You can read more about the accessibility testing we've carried out while building GOV.UK on [this blog post by GDS Accessibility Lead Joshua Marshall](https://gds.blog.gov.uk/2012/01/20/user-testing-accessibility/).

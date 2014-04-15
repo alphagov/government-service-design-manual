@@ -43,4 +43,4 @@ We follow this procedure because:
 * the team should be confident that the service as a whole works before shipping those changes to the public
 
 ##Further reading
-* [Regular Releases Reduce Risk](http://digital.cabinetoffice.gov.uk/2012/11/02/regular-releases-reduce-risk/)
+* [Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/)

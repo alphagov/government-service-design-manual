@@ -87,7 +87,7 @@ representing a commitment to HTTPS-only traffic for 14 days. Once the service ma
 
 Cookies used on `www.servicename.service.gov.uk` and `admin.servicename.service.gov.uk` MUST be scoped to the originating domain only. Cookies MUST NOT be scoped to the domain `servicename.service.gov.uk`.
 
-Cookies SHOULD NOT be used on `assets.servicename.service.gov.uk` (they [introduce a browser overhead that slows down the response time for users](http://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit for the service manager).
+Cookies SHOULD NOT be used on `assets.servicename.service.gov.uk` (they [introduce a browser overhead that slows down the response time for users](https://developer.yahoo.com/performance/rules.html#cookie_free) without providing any benefit for the service manager).
 
 Cookies MUST be sent with the `Secure` attribute and SHOULD, where appropriate, be sent with the `HttpOnly` attribute. These flags [provide additional assurances about how cookies will be handled by browsers](https://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly).
 

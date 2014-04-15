@@ -49,6 +49,6 @@ The monitoring system, or rather any dashboards, interactive tools or reports, s
 
 ## Further reading
 
-* [Radiating Information](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/) gives examples of some of the monitoring dashboards used while building GOV.UK
+* [Radiating Information](https://gds.blog.gov.uk/2012/02/08/radiating-information/) gives examples of some of the monitoring dashboards used while building GOV.UK
 * [Open Source Monitoring](https://speakerdeck.com/obfuscurity/the-state-of-open-source-monitoring) explains some of the terminology and available open-source tools
 

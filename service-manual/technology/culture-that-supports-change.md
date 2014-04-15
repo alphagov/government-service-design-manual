@@ -40,7 +40,7 @@ To create better public services you’ll need to change existing behaviours and
 
 You may need to radically change governance and management structures and will need to run projects in a more [agile](/service-manual/agile/index.html) way.
 
-You'll need to build relationships with new suppliers that you may have found through new procurement routes, such as the [G-Cloud](http://gcloud.civilservice.gov.uk/).
+You'll need to build relationships with new suppliers that you may have found through new procurement routes, such as the [G-Cloud](/how-to-use-cloudstore).
 
 It may be necessary and more cost-effective to write-off previous financial investments, so you'll need courage and conviction to stop spending on old, legacy systems.
 
@@ -82,12 +82,12 @@ Reducing the risk of lock-in to suppliers, software, service and support, or too
 
 ##Further reading
 
-[GOV.UK](https://gov.uk) is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of GOV.UK](http://digital.cabinetoffice.gov.uk/2012/01/24/hosting-the-beta-of-gov-uk/) and then transferred it to [a new supplier on the G-Cloud framework](http://digital.cabinetoffice.gov.uk/2012/09/18/introducing-a-new-supplier-skyscape/).
+[GOV.UK](https://www.gov.uk/) is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of GOV.UK](https://gds.blog.gov.uk/2012/01/24/hosting-the-beta-of-gov-uk/) and then transferred it to [a new supplier on the G-Cloud framework](https://gds.blog.gov.uk/2012/09/18/introducing-a-new-supplier-skyscape/).
 
-[G-Cloud](http://gcloud.civilservice.gov.uk/) - the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products.
+[G-Cloud](/how-to-use-cloudstore) - the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products.
 
 Guidance about [the team you’ll need to have in place](/service-manual/the-team) to build a successful service.
 
-Blog post from GDS about [making better choices for the technology we use](http://digital.cabinetoffice.gov.uk/2013/03/26/better-tech-choices/)
+Blog post from GDS about [making better choices for the technology we use](https://gds.blog.gov.uk/2013/03/26/better-tech-choices/)
 
-Guidance in the manual about [open standards](/service-manual/making-software/open-standards-and-licensing.html)
+Guidance in the manual about [open standards](/service-manual/making-software/open-standards-and-licensing)

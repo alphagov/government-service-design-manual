@@ -45,7 +45,7 @@ While there are no fixed deadlines for meeting the standard, we expect that rede
 
 To enable this, and support an agile approach to design, progress against the standard will be monitored as part of existing [spending control processes](/service-manual/technology/spending-controls.html).
 
-Departments currently need [Cabinet Office approval for digital spending](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1). To simplify this process, a dedicated account manager will work with each department in order to help prioritise their projects.
+Departments currently need [Cabinet Office approval for digital spending](/government/publications/cabinet-office-controls). To simplify this process, a dedicated account manager will work with each department in order to help prioritise their projects.
 
 When a department makes a submission to their account manager for spending approval on services that fall within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html), GDS will assess whether the work completed so far is in line with it. 
 

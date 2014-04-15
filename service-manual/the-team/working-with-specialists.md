@@ -89,4 +89,4 @@ Your team structure and processes should centre around transferring knowledge to
 Don’t let a contractor become a single point of failure and treat all team members (permanent and contractors) the same.
 
 ##Further reading
-A blogpost by Meri Williams of GDS on [people management in an agile setting](http://digital.cabinetoffice.gov.uk/2012/11/27/people-management-in-an-agile-setting)
+A blog post by Meri Williams of GDS on [people management in an agile setting](https://gds.blog.gov.uk/2012/11/27/people-management-in-an-agile-setting/)

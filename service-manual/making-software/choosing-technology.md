@@ -72,7 +72,7 @@ For software that serves a rare or niche need you're less likely to find a tool 
 
 This allows the software to be used and improved by anyone in the world who has a similar need. It’s important that other governments in particular have the opportunity to reuse the software you've created, because everyone deserves to have [digital services so good that people prefer to use them](/service-manual/digital-by-default).
 
-For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/alphagov/unicornherder) are small components which were [developed as a part of GOV.UK](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/). They are now used by several different organisations, and have received a number of [public contributions](https://github.com/alphagov/unicornherder/commits/master).
+For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/alphagov/unicornherder) are small components which were [developed as a part of GOV.UK](https://gds.blog.gov.uk/govuk-launch-colophon/). They are now used by several different organisations, and have received a number of [public contributions](https://github.com/alphagov/unicornherder/commits/master).
 
 You should always share software that has been written by the government and/or its suppliers (this includes source code and documentation) unless doing so would:
 
@@ -120,7 +120,7 @@ Take every opportunity to contribute back to open source projects you use. Contr
 * engaging in community discussion groups
 * giving public attribution to projects 
 
-Cite the open source code you use, as in the [GOV.UK colophon](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/) - you can read more about this approach on the [GDS blog entry about coding in the open](http://digital.cabinetoffice.gov.uk/2012/10/12/coding-in-the-open/).
+Cite the open source code you use, as in the [GOV.UK colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) - you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
 
 Keys, passwords and other secrets must always be stored safely and securely away from source code [following Kerckhoffs’s principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle). This separation of project code from deployed instances of a project is good development practice regardless of whether or not the software itself is shared in public.
 

@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-GDS will [examine and challenge all technology-related spending over a certain threshold](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) -- no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are:
+GDS will [examine and challenge all technology-related spending over a certain threshold](https://www.gov.uk/government/publications/cabinet-office-controls) -- no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are:
 
 * £5 million -- full lifetime cost of the project
 * £1 million -- current or new back office / administrative systems, including Enterprise Resource Planning (ERP) systems, HR systems, Finance / Accounting systems, procurement systems. The control includes implementation, licensing and support costs, as well as any extension to those services
@@ -29,7 +29,7 @@ GDS will [examine and challenge all technology-related spending over a certain t
 For your project to proceed, you must demonstrate that you have met all applicable elements of this code -- this will be verified through the [controls process](/service-manual/agile/spending-controls.html):
 
 1. Ensure systems, information and processes are designed around the needs of the service user, providing as simple and as integrated an experience as possible. Be very clear who the users are and how to engage with them and ensure their needs are met.
-1. Demonstrate value for money in your [business case](http://www.hm-treasury.gov.uk/data_greenbook_business.htm) and articulate the options considered in a full and objective appraisal.
+1. Demonstrate value for money in your business case and articulate the options considered in a full and objective appraisal.
 1. All new or redesigned digital services meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 1. Ensure a level-playing field for [open source software](https://www.gov.uk/government/publications/open-source-procurement-toolkit). Demonstrate an active and fair consideration of using open source software -- taking account of the total lifetime cost of ownership of the solution, including exit and transition costs.
 1. Use [open standards](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), and common government platforms (eg GOV.UK, identity assurance, shared services) where available.
@@ -40,7 +40,7 @@ For your project to proceed, you must demonstrate that you have met all applicab
 1. Purchase networking and telephony services through the [Public Services Network frameworks](https://www.gov.uk/public-services-network).
 1. Objectively evaluate potential public [cloud solutions](https://www.gov.uk/government/news/government-adopts-cloud-first-policy-for-public-sector-it) first -- before you consider any other option. In order to do this you will need to identify the [capabilities](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) and services that make up your technology design, and demonstrate that the solution chosen represents best value for money.
 1. Follow the guidelines laid out in the [EUD strategy, design and implementation guidance](https://www.gov.uk/government/publications/end-user-device-strategy) to ensure your solution will work for any end user device.
-1. Ensure best environmental practices, whether in-house or via external suppliers, including compliance with [Greening Government ICT](http://www.cabinetoffice.gov.uk/sites/default/files/resources/greening-government-ict-strategy.pdf).
+1. Ensure best environmental practices, whether in-house or via external suppliers, including compliance with [Greening Government ICT](/government/publications/greening-government-ict-strategy).
 1. Any software licence agreements must evidence actual user needs -- there should be no default continuation of enterprise licence deals or specification of products or brands.
 1. Share resources: services, information, data and software components must be shared in order to encourage reuse, avoid duplication and prevent redundant investments. Reuse includes the use of existing services and capabilities that already exist outside of government where they provide best value for money, eg identity verification, fraud and debt management, cloud-based commodity services.
 1. Align to the [shared services strategy](https://www.gov.uk/government/news/next-generation-shared-services-to-save-millions-for-taxpayers) for HR, procurement, finance and payroll.

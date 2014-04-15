@@ -48,7 +48,7 @@ The [Government Digital Strategy](/digitalstrategy) sets out the context we are 
 
 And the [Digital by Default Service Standard](/service-manual/digital-by-default) lists the criteria against which all new and redesigned services will be judged from April 2014. Find out [which services must meet the standard](/service-manual/digital-by-default/scope-of-the-standard.html).
 
-Another good way of finding out what's going on in the government around digital is through the [SPRINT initiative](http://digital.cabinetoffice.gov.uk/sprint-13/), organised by the [Cabinet Office](/government/organisations/cabinet-office).
+Another good way of finding out what's going on in the government around digital is through the [SPRINT initiative](https://gds.blog.gov.uk/sprint-14/), organised by the [Cabinet Office](/government/organisations/cabinet-office).
 
 At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [current landscape of digital within government](http://www.youtube.com/watch?v=pa07ltj4K4w). Watch that video below.
 

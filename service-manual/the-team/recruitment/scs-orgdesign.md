@@ -28,7 +28,7 @@ Government has traditionally treated IT as a single entity with the same approac
 * infrastructure
 * back office services
 
-These [4 areas](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov/) are in very different stages of development. Digital public services, for example, are being built by developers using very new technologies. In contrast, technology infrastructure such as data storage has evolved over the course of decades.
+These [4 areas](https://gds.blog.gov.uk/2013/05/21/rebalancing-tech-across-gov/) are in very different stages of development. Digital public services, for example, are being built by developers using very new technologies. In contrast, technology infrastructure such as data storage has evolved over the course of decades.
 
 Products which 5 or 10 years ago would have required detailed and expensive customisation are now commoditised (packaged as ‘pay-as-you-go’) – to the extent where they have virtually become utility services like gas or electricity (you can move between suppliers easily).
 
@@ -52,7 +52,7 @@ Both CDOs and CTOs will need to work out which areas can be commoditised and whi
 
 
 ##People
-Models, structures and strategies are irrelevant without the right people in the right roles. The best way to restructure senior technology roles will vary across departments according to how much involvement they have across the [4 areas of government technology.](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov)
+Models, structures and strategies are irrelevant without the right people in the right roles. The best way to restructure senior technology roles will vary across departments according to how much involvement they have across the [4 areas of government technology.](https://gds.blog.gov.uk/2013/05/21/rebalancing-tech-across-gov/)
 
 In some cases both the CDO and CTO will sit on the board; in other cases they might report into a board level Chief Operating Officer (COO), or only the CDO might be on the board. 
 Where digital public services rely on department-specific IT systems to support them, a [service manager](/service-manual/the-team/service-manager) role should be in place, reporting into the CDO with accountability and decision-making authority for the end-to-end service.

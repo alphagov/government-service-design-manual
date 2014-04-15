@@ -22,7 +22,7 @@ Government needs services that are genuinely agile and responsive to changing ne
 * uses openness to our advantage – open data, open standards, open source, open markets
 * ensures that technology becomes so good that our colleagues, citizens and businesses want to use it
 
-Liam Maxwell, Chief Technology Officer of the UK government, [wrote a post on the GDS blog about the landscape CTOs are operating in](http://digital.cabinetoffice.gov.uk/2013/05/21/rebalancing-tech-across-gov). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
+Liam Maxwell, Chief Technology Officer of the UK government, [wrote a post on the GDS blog about the landscape CTOs are operating in](https://gds.blog.gov.uk/2013/05/21/rebalancing-tech-across-gov/). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
 
 ##The technology code of practice
 The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for spending approval will be judged against. The 18 points describe a vision of technology provision which can meet and adapt to the changing needs of users throughout government.

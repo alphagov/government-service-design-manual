@@ -23,7 +23,7 @@ breadcrumbs:
 
 ## The government's position on apps
 
-The government’s position is that native apps are currently rarely justified. At the October 2012 Digital Leaders meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](http://www.publications.cabinetoffice.gov.uk/digital/strategy/) says:
+The government’s position is that native apps are currently rarely justified. At the October 2012 Digital Leaders meeting, the position was clarified: native apps could not be developed without Cabinet Office approval. The November 2012 [Digital Strategy](/government/publications/government-digital-strategy) says:
 
 > “Standalone mobile apps will only be considered once the core web service works well on mobile devices, and if specifically agreed with the Cabinet Office”
 
@@ -104,12 +104,11 @@ We recognise that there’ll be a few exceptions. To help you assess whether you
 
 ### The process
 
-In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1) (including details about [response times](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60699/Annex-4-2-Service-Level-Agreement.doc)) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
+In addition to the evidence requested above, all digital spend for the development of standalone mobile apps is subject to the GDS spend approval. [Guidance](https://www.gov.uk/government/publications/cabinet-office-controls) (including details about response times) on the process can be found on GOV.UK. If you have any queries, [please contact GDS](mailto:pmo@digital.cabinet-office.gov.uk).
 
 ## Further Reading
 
-* [government approach to apps presentation](http://www.slideshare.net/DigEngHMG/government-approach-to-apps)
-* Tom Loosemoore's [blog post about standalone apps](http://digital.cabinetoffice.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
+* Tom Loosemoore's [blog post about standalone apps](https://gds.blog.gov.uk/2013/03/12/were-not-appy-not-appy-at-all/)
 
 *[APIs]: application programming interfaces
 *[API]: application programming interface
