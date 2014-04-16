@@ -31,7 +31,7 @@ The start page URL for a given service will be allocated by GDS based on discuss
 
 ## Creating a domain
 
-The transactional part of a service – the dynamically generated pages where users interact with the service – will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service.
+The transactional part of a service – the dynamically generated pages where users interact with the service – will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service. See [Getting a domain name and start/end page](/service-manual/domain-names/setting-up). 
 
 > Note: This does not apply to the set of interactive tools on GOV.UK known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
 
