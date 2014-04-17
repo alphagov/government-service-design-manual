@@ -82,9 +82,9 @@ Expressing a user need mustn’t imply the solution. The user need should be exp
 
 ## Further reading
 
-* [What was the evidence? Users’ information needs and analytics](http://digital.cabinetoffice.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/ "What was the evidence? Users’ information needs and analytics")
-* [Using search data to meet user needs](http://digital.cabinetoffice.gov.uk/2012/01/27/search-data-user-needs/ "Using search data to meet user needs")
-* [Exploring user needs](http://digital.cabinetoffice.gov.uk/2012/10/09/exploring-user-needs/ "Exploring user needs")
-* [What we know about the users of Inside Government](http://digital.cabinetoffice.gov.uk/2012/11/14/what-we-know-about-the-users-of-inside-government/ "What we know about the users of Inside Government")
-* [Meeting the needs of businesses](http://digital.cabinetoffice.gov.uk/2012/10/16/meeting-the-needs-of-businesses/ "Meeting the needs of businesses")
-* [Introducing the Needotron: working out the shape of the product](http://digital.cabinetoffice.gov.uk/2011/09/19/introducing-the-needotron-working-out-the-shape-of-the-product/ "Introducing the Needotron: working out the shape of the product")
+* [What was the evidence? Users’ information needs and analytics](https://gds.blog.gov.uk/2011/05/23/what-was-the-evidence-users-information-needs-and-analytics/ "What was the evidence? Users’ information needs and analytics")
+* [Using search data to meet user needs](https://gds.blog.gov.uk/2012/01/27/search-data-user-needs/ "Using search data to meet user needs")
+* [Exploring user needs](https://gds.blog.gov.uk/2012/10/09/exploring-user-needs/ "Exploring user needs")
+* [What we know about the users of Inside Government](https://gds.blog.gov.uk/2012/11/14/what-we-know-about-the-users-of-inside-government/ "What we know about the users of Inside Government")
+* [Meeting the needs of businesses](https://gds.blog.gov.uk/2012/10/16/meeting-the-needs-of-businesses/ "Meeting the needs of businesses")
+* [Introducing the Needotron: working out the shape of the product](https://gds.blog.gov.uk/2011/09/19/introducing-the-needotron-working-out-the-shape-of-the-product/ "Introducing the Needotron: working out the shape of the product")

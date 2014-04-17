@@ -45,7 +45,7 @@ Users who access your service via an application programming interface (API) wil
 
 Once GOV.UK is updated the vast majority of users will begin to be directed to the new service. Some users will still try to access the service at its current (now retired) home. You should have a plan for redirecting those requests to the appropriate new service, or to provide clear information about the service that has been retired in perpetuity.
 
-> When we retired the DirectGov, BusinessLink and departmental websites, we invested a lot of effort in mapping content on those sites to GOV.UK content. We redirected as many of the old sites' URLs as we could to corresponding GOV.UK URLs, and provided 'Gone' pages with links to the National Archive where the content was not being transferred. We wrote about that in ["No Link Left Behind"](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/)
+> When we retired the DirectGov, BusinessLink and departmental websites, we invested a lot of effort in mapping content on those sites to GOV.UK content. We redirected as many of the old sites' URLs as we could to corresponding GOV.UK URLs, and provided 'Gone' pages with links to the National Archive where the content was not being transferred. We wrote about that in ["No Link Left Behind"](https://gds.blog.gov.uk/2012/10/11/no-link-left-behind/).
 
 ### Make sure your subdomain continues to work
 

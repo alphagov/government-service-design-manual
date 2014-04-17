@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/digital-by-default
 ---
 
-Formal assessments of new and redesigned services against the standard will begin from April 2014. Before then, GDS is using the standard to support the [Cabinet Office controls](https://www.gov.uk/government/publications/cabinet-office-controls-guidance-version-3-1), in order to deepen knowledge of the standard across government, and identify areas where we can support departments in building capability.
+Formal assessments of new and redesigned services against the standard will begin from April 2014. Before then, GDS is using the standard to support the [Cabinet Office controls](/government/publications/cabinet-office-controls), in order to deepen knowledge of the standard across government, and identify areas where we can support departments in building capability.
 
 GDS will **not** expect any services to fully meet the standard before they receive spending or domain approval before April 2014. Assessments against the standard over 13/14 will be used to help to highlight areas of improvement for services, and identify systemic problems. However, GDS will continue to use the Cabinet Office controls to stop the launch of any new service which doesn’t meet user needs; can’t be iteratively improved; or contains other clear risks to government or the users.
 

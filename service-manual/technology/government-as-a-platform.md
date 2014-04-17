@@ -17,11 +17,11 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-The government is implementing a [platform-based](http://www.publications.cabinetoffice.gov.uk/digital/strategy/case-studies/government-as-platform/) operating model. [Google](http://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](http://engineering.twitter.com/2010/09/tech-behind-new-twittercom.html) and [Facebook](https://www.facebook.com/Engineering), among many others, have all built their success on the back of platforms. They have developed a core technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original provider could have done on their own.
+The government is implementing a [platform-based](/government/publications/case-study-on-action-11-build-government-as-a-platform) operating model. [Google](http://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](https://blog.twitter.com/2010/tech-behind-new-twittercom) and [Facebook](https://www.facebook.com/Engineering), among many others, have all built their success on the back of platforms. They have developed a core technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original provider could have done on their own.
 
 ## Government as a platform
 
-One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](http://digital.cabinetoffice.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses.
+One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](https://gds.blog.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses.
 
 Businesses like Amazon iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase, etc). They deliver a scalable, consistently high-quality user experience using open source and open standards. Their world looks something like this:
 

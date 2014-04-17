@@ -58,4 +58,4 @@ Cabinet Office will help departments to recruit suitably skilled individuals thr
 
 ## Further reading
 * [Good health check](http://www.scrumalliance.org/articles/103-the-managers-role-in-agile) from the Scrum Alliance for delivery managers.
-* [A day in the life of a delivery manager](http://digital.cabinetoffice.gov.uk/2012/12/12/a-day-in-the-life-of-a-delivery-manager/) - blog
+* [A day in the life of a delivery manager](https://gds.blog.gov.uk/2012/12/12/a-day-in-the-life-of-a-delivery-manager/) - blog

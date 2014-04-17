@@ -117,7 +117,7 @@ look like. Draw it out step by step, using a series of post-it notes to plot
 the user journey. Every time a user interacts digitally in the transaction,
 consider the support that an assisted digital user would need.
 
-GDS regularly meet a panel of user experts and have published information on work already carried out with these groups on the [GDS blog](http://digital.cabinetoffice.gov.uk/category/assisted-digital/). GDS can introduce you to these organisations.
+GDS regularly meet a panel of user experts and have published information on work already carried out with these groups in the [assisted digital category on the GDS blog](https://gds.blog.gov.uk/category/assisted-digital/). GDS can introduce you to these organisations.
 
 People you should involve at this stage are:
 

@@ -121,7 +121,7 @@ Build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatib
 Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
-When changing URLs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
+When changing URLs, continue to honour old consumers, possibly use a [redirection](https://gds.blog.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
 
 
 ##Consuming and using APIs

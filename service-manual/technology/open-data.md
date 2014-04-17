@@ -40,7 +40,7 @@ Public data is anonymised data:
 If for some reason you have made a procurement choice that means your performance data is monitored or stored by a third party, you should make sure that you have the right to access, export, share and reuse that data openly and in an [open format](/service-manual/user-centred-design/choosing-appropriate-formats.html).
 
 ##Making your data open
-Your department has its own [Open Data Strategy (for 2012-2014)](http://www.data.gov.uk/search/apachesolr_search?filters=tid:11542) and will already be publishing data sets on [data.gov.uk](http://www.data.gov.uk/). Your commitment to open, public data doesn't stop there.
+Your department has its own [Open Data Strategy (for 2012-2014)](http://data.gov.uk/open-data-strategies) and will already be publishing data sets on [data.gov.uk](http://data.gov.uk/). Your commitment to open, public data doesn't stop there.
 
 Your open data should be user-friendly and findable. You should support people who want to reuse it and provide guarantees about how it will be made available.
 
@@ -107,7 +107,7 @@ You can also find case studies of how people are sharing, using and building ope
 
 The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact for help in understanding how to make your data open. You can get in touch with them through data.gov.uk.
 
-The [Open Data Institute](http://theodi.org/) and the [Open Knowledge Foundation](http://okfn.org/) can give you advice and training on how to open up your data.
+The [Open Data Institute](https://theodi.org/) and the [Open Knowledge Foundation](https://okfn.org/) can give you advice and training on how to open up your data.
 
 The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 

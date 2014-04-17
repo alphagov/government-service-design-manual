@@ -71,5 +71,5 @@ This is, unfortunately, a technical field with many options. Seemingly similar s
 
 ## Further reading
 
-* [Why IaaS?](http://digital.cabinetoffice.gov.uk/2012/09/25/why-iaas/) a blog post about why the Government Digital Service chose an Infrastructure as a Service for GOV.UK
-* [G-Cloud](http://gcloud.civilservice.gov.uk/) the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products
+* [Why IaaS?](https://gds.blog.gov.uk/2012/09/25/why-iaas/) a blog post about why the Government Digital Service chose an Infrastructure as a Service for GOV.UK
+* [G-Cloud](/how-to-use-cloudstore) the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products

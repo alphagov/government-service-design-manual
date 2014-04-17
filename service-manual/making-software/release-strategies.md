@@ -64,4 +64,4 @@ Finally consider the following two measures of a system; mean time between failu
 
 ## Further reading
 
-* [Regular Releases Reduce Risk](http://digital.cabinetoffice.gov.uk/2012/11/02/regular-releases-reduce-risk/) Blog post about the approach to releasing software onto GOV.UK
+* [Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) Blog post about the approach to releasing software onto GOV.UK

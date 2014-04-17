@@ -16,7 +16,7 @@ breadcrumbs:
     url: /service-manual/phases
   -
     title: Ideal Alphas
-    url: /service-manual/phases/idea-alphas
+    url: /service-manual/phases/ideal-alphas
 ---
 
 

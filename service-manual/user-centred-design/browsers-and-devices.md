@@ -98,13 +98,13 @@ However, over time this will change. So it's important to set thresholds for aba
 Decisions about compatibility can't be something you specify at the start of the project and then forget about. Transformed digital services need to reflect and adapt to the broader internet context of their users on an ongoing basis.
 
 ##Further reading
-James Weiner writes about the [decisions made about browser support](http://digital.cabinetoffice.gov.uk/2012/01/25/support-for-browsers/ 'Support for browsers - James Weiner, GDS') for the Beta of GOV.UK (January 2012).
+James Weiner writes about the [decisions made about browser support](https://gds.blog.gov.uk/2012/01/25/support-for-browsers/ 'Support for browsers - James Weiner, GDS') for the Beta of GOV.UK (January 2012).
 
-Ben Welby discusses [the operating systems, browsers and devices supported](http://digital.cabinetoffice.gov.uk/2012/10/11/what-devices-are-we-supporting-at-launch-and-why/ 'What devices are we supporting at launch, and why? - Ben Welby, GDS') for the launch of GOV.UK (October 2012).
+Ben Welby discusses [the operating systems, browsers and devices supported](https://gds.blog.gov.uk/2012/10/11/what-devices-are-we-supporting-at-launch-and-why/ 'What devices are we supporting at launch, and why? - Ben Welby, GDS') for the launch of GOV.UK (October 2012).
 
-Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](http://digital.cabinetoffice.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices - Tom Byers, GDS') (November 2012).
+Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices - Tom Byers, GDS') (November 2012).
 
-Dafydd Vaughan with an update on [browser usage on GOV.UK](http://digital.cabinetoffice.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK - Dafydd Vaughan, GDS') post-launch.
+Dafydd Vaughan with an update on [browser usage on GOV.UK](https://gds.blog.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK - Dafydd Vaughan, GDS') post-launch.
 
 The Guardian introduce their [use of responsive design](http://www.guardian.co.uk/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 
