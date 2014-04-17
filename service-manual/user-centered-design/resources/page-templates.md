@@ -22,31 +22,47 @@ breadcrumbs:
 ---
 
 {:.intro}
-All pages on GOV.UK services should use the GOV.UK header, footer, typeface and branding.
+All pages on GOV.UK services should use the appropriate header, footer, branding and typeface.
+The version you use depends on what kind of service you're making, and whether it's live or not.
 
+---
 
-## Template code
+## Alpha services
 
-### Building services
+During the discovery and alpha phases of delivery you can use the GOV.UK templates, but you don't have to. The important thing is to make something and make it quickly, before testing it with real users. 
 
-The [latest version of the template code](https://github.com/alphagov/govuk_template) is available as a Ruby gem, or for the Play, Mustache and Liquid frameworks. The templates include assets and code for the site headers, footers and New Transport typeface.
+Follow the design principles and focus on the user journeys, but don't worry about making everything pixel perfect. 
 
-### Prototyping
+[Use our HTML prototyping kit to get up and running quickly](https://github.com/tombye/express_prototype)
 
-If you need to quickly prototype a service, you can [use this prototyping tool](https://github.com/tombye/express_prototype). 
-It uses Node.js and Express to give you easy access to the templates, plus helpers for styling the [GOV.UK elements](http://govuk-elements.herokuapp.com/).
+---
 
+## Beta services
 
+Once your service is in beta it should be using the templates you intend to use once it's live. The GOV.UK template code and assets are available on GitHub for a number of frameworks, including Rails and Play.
 
-## Site header
+[Get the latest version of the templates on GitHub](https://github.com/alphagov/govuk_template)
 
-Remember:
+---
 
-* only use the GOV.UK logotype if your service is [currently on GOV.UK](/service-manual/user-centered-design/what-should-service-look-like)
-* always link the logotype back to [GOV.UK](https://www.gov.uk/)
-* don't include the GOV.UK search box in transactions, as it will encourage people to leave the transaction mid-way
+## Live services
 
-Here are three versions of the site header. Choose the one that most closely meets the needs of your users.
+Live services on GOV.UK must use the GOV.UK header, footer and logotype and the New Transport typeface.
+A service is considered 'on GOV.UK' if it's available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
+
+If your service isn’t on GOV.UK you can still follow the guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. This blog post talks about a good example of [a site that follows our design patterns](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) without using the logo.
+
+---
+
+## Headers
+
+If you're creating content pages for GOV.UK, use the standard GOV.UK header.
+For transactional services, remove the search box, as it will encourage people to leave the transaction mid-way.
+
+Remember, the GOV.UK logotype must always link back to [GOV.UK](https://www.gov.uk/)
+
+Here are three versions of the site header for transactions. Choose the one that most closely meets the needs of your users.
+
 
 ### Option 1
 
@@ -80,12 +96,11 @@ The service title should link to the service start page (unless doing this harms
 
 Use this header if your service needs internal navigation. 
 
+---
 
+### Footers
 
-## Site footer
-
-For information services, use the standard GOV.UK footer, as used on the GOV.UK home page.
-
+If you're creating content pages for GOV.UK, use the standard GOV.UK footer.
 For transactional services, use the standard footer but remove all links other than the crown copyright and OGL licence notices.
 
 
