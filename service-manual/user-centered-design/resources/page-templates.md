@@ -56,49 +56,54 @@ If your service isn’t on GOV.UK you can still follow the guidance, but your si
 
 ## Headers
 
-If you're creating content pages for GOV.UK, use the standard GOV.UK header.
-For transactional services, remove the search box, as it will encourage people to leave the transaction mid-way.
+Content pages on GOV.UK use the standard header.
+The GOV.UK logotype must always link back to [GOV.UK](https://www.gov.uk/).
 
-Remember, the GOV.UK logotype must always link back to [GOV.UK](https://www.gov.uk/)
+### Standard header
 
-Here are three versions of the site header for transactions. Choose the one that most closely meets the needs of your users.
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-0.png" alt="Standard header">
+</div>
+
+Transaction pages use a variant of the standard header. The search box is removed to avoid people leaving a transaction before they've completed it.
+
+There are different versions of the transaction header.
+Choose the one that most closely meets the needs of your users.
 
 
-### Option 1
+### Transaction header 1
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
 </div>
 
-Use this header if your service is short, taking place over only a few screens.
-
+Use this if your service is short, taking place over only a few screens.
 You should also use this on the first page of your service if you are using the service title as the page heading.
 
 
 
-### Option 2: Service title
+### Transaction header 2
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-2.png" alt="Header option 2">
 </div>
 
-Use this header if you find that your users need reminding of which service they are accessing.
-
+Use this if you need to remind your users of which service they are using.
 The service title should link to the service start page (unless doing this harms the user experience).
 
 
 
-### Option 3: Service title and navigation
+### Transaction header 3
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-3.png" alt="Header option 3">
 </div>
 
-Use this header if your service needs internal navigation. 
+Use this if your service needs links for account management and so-on. 
 
 ---
 
-### Footers
+## Footers
 
 If you're creating content pages for GOV.UK, use the standard GOV.UK footer.
 For transactional services, use the standard footer but remove all links other than the crown copyright and OGL licence notices.
