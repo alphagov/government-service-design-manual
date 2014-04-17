@@ -71,7 +71,7 @@ Everything you need to design great services for GOV.UK
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
 		<h3>Get the templates</h3>
-		<p><a href="../user-centered-design/resources/page-templates.html">Template code and assets for building or prototyping services</a></p>
+		<p><a href="../user-centered-design/resources/page-templates.html">Download the templates and find out how to use them</a></p>
 	  </div>
 	</div>
 </div>
