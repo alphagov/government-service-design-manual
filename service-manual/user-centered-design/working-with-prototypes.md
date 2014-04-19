@@ -42,3 +42,15 @@ The [smart answer format](https://www.gov.uk/maternity-benefits "example of a sm
 As quickly as possible we prototyped the format using HTML and javascript so that it could be experienced in a web browser. That revealed more constraints, such as the fact that users might expect to be able to go back and amend an answer without realising that would change their whole journey through the format. This allowed us to quickly adjust the user interface to be clearer for its users before we started the work of building out the full system.
 
 Running code also forces you to think about your integrations with other services and how they might work – do you need to send email? integrate with an existing database? and so on. A prototype will rarely actually include these integrations but having a clear picture of them is vital if you're going to understand the real effort involved in building and operating the service.
+
+##Prototype code is not production code
+
+It can be tempting to use code written for prototypes in production. After all, it often uses similar technology, and appears to 'work'. However, it's important to maintain separation between the two codebases, as they have different and opposing goals:
+
+**Prototyping:**
+
+Fast changes, the ability to easily and quickly try many different approaches
+
+**Production code:**
+
+Security, maintainability, performance - in short good quality code. This takes time and excellent front-end skills
