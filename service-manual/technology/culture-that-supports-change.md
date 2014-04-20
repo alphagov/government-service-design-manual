@@ -36,15 +36,15 @@ You have:
 
 ##What you might need to change
 
-To create better public services you’ll need to change existing behaviours and cultures, and successfully transition to new ways of working. You may need to develop the skills within your team and keep up to date on new methods and technologies. It may also be necessary to change your physical [working environment](/service-manual/the-team/working-environment.html) to get the best out of your team.
+To create better public services you’ll need to change existing behaviours and cultures, and successfully transition to new ways of working. You may need to develop skills within your team and keep up to date on new methods and technologies. It may also be necessary to change your physical [working environment](/service-manual/the-team/working-environment) to get the best out of your team.
 
 You may need to radically change governance and management structures and will need to run projects in a more [agile](/service-manual/agile/index.html) way.
 
-You'll need to build relationships with new suppliers that you may have found through new procurement routes, such as the [G-Cloud](/how-to-use-cloudstore).
+You'll need to build relationships with new suppliers that you may have found through new procurement routes, such as [the G-Cloud framework](/how-to-use-cloudstore).
 
 It may be necessary and more cost-effective to write-off previous financial investments, so you'll need courage and conviction to stop spending on old, legacy systems.
 
-The Cabinet Office, through the [IT spend controls](/service-manual/technology/spending-controls.html), has a strong preference against extending contracts to support legacy systems. At the very least you'll need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
+The Cabinet Office, through [spending controls](/service-manual/technology/spending-controls), has a strong preference against extending contracts to support legacy systems. At the very least you'll need an exit management strategy that sets out a plan for how you will significantly reduce any dependence on outdated technology.
 
 The cost of maintaining out-of-date technology that isn’t fit for purpose could far outweigh the cost of changing to a more suitable technology that better meets [user needs](/service-manual/user-centred-design/user-needs.html).
 
@@ -56,7 +56,7 @@ You may come across inertia or resistance when you try to make necessary changes
 
 Your existing supplier base will tend to resist change -- and the more successful a supplier has been working under the old model, and the more entrenched it is, the greater this resistance is likely to be.
 
-The changes needed will often be more successfully initiated and produced by those not encumbered by past success -- new market entrants and those traditionally closed-out from government business, such as small or medium-sized businesses.
+The changes needed will often be more successfully initiated and produced by those not encumbered by past success -- new market entrants and those traditionally closed out from government work, like small or medium-sized businesses.
 
 You may find that you have become [locked-in](/service-manual/making-software/choosing-technology.html#lock-in) to a particular contract or technology. As part of your consideration of the total cost of ownership of a particular solution, you should have estimated the cost of exit at the start of implementation.
 
@@ -80,14 +80,25 @@ Flexible technology and services give service managers the ability evolve servic
 
 Reducing the risk of lock-in to suppliers, software, service and support, or too old and inefficient IT, means that you have the ability to choose what best meets the outcomes you are looking for at a sustainable and competitive cost and at a timescale that suits you.
 
+## Example: hosting changes for GOV.UK
+
+GOV.UK is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of GOV.UK][gds-beta-hosting]
+and then transferred it to [a new supplier on the G-Cloud framework][gds-skyscape] before launch.
+
+[gds-beta-hosting]: https://gds.blog.gov.uk/2012/01/24/hosting-the-beta-of-gov-uk/
+[gds-skyscape]: https://gds.blog.gov.uk/2012/09/18/introducing-a-new-supplier-skyscape/
+
+In early 2014, the infrastructure team at GDS migrated GOV.UK to a new hosting environment.
+[Sam Sharpe wrote a blog post on the technical aspects of the migration][gdstech-migration]
+and [Carl Massa explained the project in a video][gds-hosting-video].
+
+[gdstech-migration]: https://gdstechnology.blog.gov.uk/2014/03/28/migrating-govuk-infrastructure/
+[gds-hosting-video]: https://gds.blog.gov.uk/2014/04/17/gov-uk-hosting-simpler-clearer-faster/
+
 ##Further reading
 
-[GOV.UK](https://www.gov.uk/) is an example of how this works in practice. On the technology side, [we set up hosting to build the beta of GOV.UK](https://gds.blog.gov.uk/2012/01/24/hosting-the-beta-of-gov-uk/) and then transferred it to [a new supplier on the G-Cloud framework](https://gds.blog.gov.uk/2012/09/18/introducing-a-new-supplier-skyscape/).
+[G-Cloud](/how-to-use-cloudstore) is the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products.
 
-[G-Cloud](/how-to-use-cloudstore) - the procurement framework intended for purchasing Infrastructure as a Service, Platform as a Service and Software as a Service products.
+[Guidance about the team you’ll need to have in place](/service-manual/the-team) to build a successful service.
 
-Guidance about [the team you’ll need to have in place](/service-manual/the-team) to build a successful service.
-
-Blog post from GDS about [making better choices for the technology we use](https://gds.blog.gov.uk/2013/03/26/better-tech-choices/)
-
-Guidance in the manual about [open standards](/service-manual/making-software/open-standards-and-licensing)
+[A blog post from GDS about making better choices for the technology we use](https://gds.blog.gov.uk/2013/03/26/better-tech-choices/).
