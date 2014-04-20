@@ -42,7 +42,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
 ### Desktop
 
 
-| OS | Browser | Support |
+| Operating system | Browser | Support |
 |------------------------|
 | Windows | Internet Explorer 7+ | Compliant  |
 | &nbsp;  | Internet Explorer 6  | Functional |
@@ -54,14 +54,17 @@ Two distinct levels of support are given and denoted next to each browser. Where
 
 ### Small screen devices
 
-| OS | Version | Browser | Support |
-|----------------------------------|
-| iOS | 7 | Mobile Safari | Compliant |
-| iOS | 6 | Mobile Safari | Compliant |
-| iOS | 5 | Mobile Safari | Functional |
-| Android | 4.x | Google Chrome | Compliant |
-| Android | 2.3 | Android Browser | Functional |
-| BlackBerry | 6+ | &nbsp; | Functional |
+| Operating system | Version | Browser       | Support    |
+|---------------------------------------------------------|
+| iOS           | 7   | Mobile Safari        | Compliant  |
+| &nbsp;        | 7   | Google Chrome        | Compliant  |
+| &nbsp;        | 6   | Mobile Safari        | Compliant  |
+| &nbsp;        | 5   | Mobile Safari        | Functional |
+| Android       | 4.x | Google Chrome        | Compliant  |
+| &nbsp;        | 4.x | Android Browser      | Compliant  |
+| &nbsp;        | 2.3 | Android Browser      | Functional |
+| Windows Phone | 8   | Internet Explorer 10 | Functional |
+| BlackBerry    | 7.1 | BlackBerry Browser   | Functional |
 
 ##Developing universally accessible services
 
