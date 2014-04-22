@@ -40,7 +40,7 @@ This is what Devops aims to correct. It is not a methodology or framework, but a
 
 ### Culture
 
-Devops requires a culture shift towards shared ownership and for silos involved in building and managing a service to work together. This is the most important element for existing organisations.
+Devops needs a change in attitude so shared ownership and collaboration are the common working practices in building and managing a service. This culture change is especially important for established organisations.
 
 ### Automation
 
