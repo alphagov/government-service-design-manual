@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Content style guide for services
+title: Privacy note template for services
 subtitle: Writing questions, wording for labels, addressing the user and more
 category: user-centred-design
 type: guide
