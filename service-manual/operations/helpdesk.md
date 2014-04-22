@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-You need to form a helpdesk as part of providing a high quality service. A helpdesk is a dedicated group of specialists - or current staff dedicating some of their time - that:
+You need to form a helpdesk as part of providing a high quality service. A helpdesk is a dedicated group of specialists -- or current staff dedicating some of their time -- that:
 
 * handle user requests for information
 * help direct users to the information they want

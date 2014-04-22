@@ -41,7 +41,7 @@ This planning will help with both estimating your ongoing costs as well as setti
 
 Several companies offer products and services around load testing. In many cases it’s useful for you to work with these companies, especially for final testing or the testing of finished components.
 
-Still, make sure you also have the capability within your development team to do more specific load and performance testing. Having this makes it possible to have a [rapid iterative development style](/service-manual/agile). Without it, your system can have scalability or performance issues that will only be caught later on - when they are much harder to fix.
+Still, make sure you also have the capability within your development team to do more specific load and performance testing. Having this makes it possible to have a [rapid iterative development style](/service-manual/agile). Without it, your system can have scalability or performance issues that will only be caught later on -- when they are much harder to fix.
 
 ## Types of testing
 

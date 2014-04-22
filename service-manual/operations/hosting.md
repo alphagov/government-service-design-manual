@@ -64,7 +64,7 @@ The costs and timescales involved here are very high and in most cases it’s un
 
 ### Co-location
 
-Many providers offer co-location services - you purchase your own hardware and rent space in a managed data centre. 
+Many providers offer co-location services -- you purchase your own hardware and rent space in a managed data centre. 
 
 This provides a great deal of flexibility, but can introduce lead times and other physical constraints. It also requires a wide range of technical specialist skills.
 
@@ -106,5 +106,5 @@ It’s important to involve technical colleagues or trusted third parties in any
 
 ## Further information
 
-* [Why IaaS?](http://digital.cabinetoffice.gov.uk/2012/09/25/why-iaas/) - a blog post about why the Government Digital Service chose an infrastructure as a service for GOV.UK
-* [G-Cloud](http://gcloud.civilservice.gov.uk/) - the procurement framework intended for purchasing infrastructure as a service, platform as a service and software as a service products
+* [Why IaaS?](http://digital.cabinetoffice.gov.uk/2012/09/25/why-iaas/) -- a blog post about why the Government Digital Service chose an infrastructure as a service for GOV.UK
+* [G-Cloud](http://gcloud.civilservice.gov.uk/) -- the procurement framework intended for purchasing infrastructure as a service, platform as a service and software as a service products

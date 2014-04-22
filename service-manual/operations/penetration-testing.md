@@ -29,7 +29,7 @@ Security is important to a product and its audience. It’s essential
 that non-technical audiences understand vulnerability testing reports
 and the risks they identify, as well developers.
 
-Security isn’t just about whether a product secure or not - it’s also about reducing the risks of a wide range of issues.
+Security isn’t just about whether a product secure or not -- it’s also about reducing the risks of a wide range of issues.
 
 Get an independent body to help find potential security problems in your system/application before it’s released to the public, as this helps to identify its vulnerabilities.
 
@@ -69,7 +69,7 @@ This may take the form of tests written or tools used specifically to test the s
 
 ## Why GDS do this
 
-The web is a hostile environment, and the nature of government services means they can be targets for a wide range of different threats - from financially motivated criminals and online activists up to nation states. Even where personal or sensitive information is not at risk, the smallest issues can damage the reputation of government.
+The web is a hostile environment, and the nature of government services means they can be targets for a wide range of different threats -- from financially motivated criminals and online activists up to nation states. Even where personal or sensitive information is not at risk, the smallest issues can damage the reputation of government.
 
 Exploits of web application tend to follow a relatively small number of common patterns. Automated and manual testing, as well as awareness of these common problems, can have a drastic effect on the security of your system.
 
