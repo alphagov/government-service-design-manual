@@ -41,30 +41,67 @@ Two distinct levels of support are given and denoted next to each browser. Where
 
 ### Desktop
 
-
-| Operating system | Browser | Support |
-|------------------------|
-| Windows | Internet Explorer 7+ | Compliant  |
-| &nbsp;  | Internet Explorer 6  | Functional |
-| &nbsp;  | Google Chrome (latest version) | Compliant |
-| &nbsp;  | Mozilla Firefox (latest version) | Compliant |
-| Mac OS X | Safari 7 | Compliant |
-| &nbsp; | Google Chrome (latest version) | Compliant |
-| &nbsp; | Mozilla Firefox (latest version) | Compliant |
+<table>
+  <tr>
+    <th>Operating system</th><th>Browser</th><th>Support</th>
+  </tr>
+  <tr>
+    <td rowspan="4">Windows</td><td>Internet Explorer 7+</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Internet Explorer 6</td><td>Functional</td>
+  </tr>
+  <tr>
+    <td>Google Chrome (latest version)</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Mozilla Firefox (latest version)</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Mac OS X</td><td>Safari 7</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Google Chrome (latest version)</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Mozilla Firefox (latest version)</td><td>Compliant</td>
+  </tr>
+</table>
 
 ### Small screen devices
 
-| Operating system | Version | Browser       | Support    |
-|---------------------------------------------------------|
-| iOS           | 7   | Mobile Safari        | Compliant  |
-| &nbsp;        | 7   | Google Chrome        | Compliant  |
-| &nbsp;        | 6   | Mobile Safari        | Compliant  |
-| &nbsp;        | 5   | Mobile Safari        | Functional |
-| Android       | 4.x | Google Chrome        | Compliant  |
-| &nbsp;        | 4.x | Android Browser      | Compliant  |
-| &nbsp;        | 2.3 | Android Browser      | Functional |
-| Windows Phone | 8   | Internet Explorer 10 | Functional |
-| BlackBerry    | 7.1 | BlackBerry Browser   | Functional |
+<table>
+  <tr>
+    <th>Operating system</th><th>Version</th><th>Browser</th><th>Support</th>
+  </tr>
+  <tr>
+    <td rowspan="4">iOS</td><td rowspan="2">7</td><td>Mobile Safari</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Google Chrome</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>6</td><td>Mobile Safari</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>5</td><td>Mobile Safari</td><td>Functional</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Android</td><td rowspan="2">4.x</td><td>Google Chrome</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>Android Browser</td><td>Compliant</td>
+  </tr>
+  <tr>
+    <td>2.3</td><td>Android Browser</td><td>Functional</td>
+  </tr>
+  <tr>
+    <td>Windows Phone</td><td>8</td><td>Internet Explorer 10</td><td>Functional</td>
+  </tr>
+  <tr>
+    <td>BlackBerry</td><td>7.1</td><td>BlackBerry Browser</td><td>Functional</td>
+  </tr>
+</table>
 
 ##Developing universally accessible services
 
