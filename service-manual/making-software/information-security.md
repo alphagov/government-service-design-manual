@@ -122,7 +122,7 @@ CESG Listed Adviser Scheme (CLAS) Consultant
   documentation.
 
 CESG (originally Communications-Electronics Security Group)
-: [CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency
+: [CESG](https://www.cesg.gov.uk/) are the government agency
   responsible for information security. They can provide technical assistance or
   consultation on project issues.
 

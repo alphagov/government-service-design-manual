@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Helpdesk
-subtitle: How to incorporate user contacts into design
+subtitle: How to incorporate user enquiries into design
 category: operations
 type: guide
 status: draft
@@ -22,64 +22,71 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-To provide high-quality service, you will very likely want a dedicated group of specialists -- or current staff dedicating some of their time -- to handle user enquiries and to help direct them to the information they want. We’ll use the term 'helpdesk' to refer to them.
+You need to form a helpdesk as part of providing a high quality service. A helpdesk is a dedicated group of specialists -- or current staff dedicating some of their time -- that:
 
-Your planning will be greatly aided by drawing on the traditional contact centre management and planning skill sets; if you do not have access to staff with these skills, you may have to work closely with other groups who do in a consultancy capacity. This may include the team at GDS, or [outside specialists](/service-manual/the-team/working-with-specialists.html).
+* handle user requests for information
+* help direct users to the information they want
 
-## Volume forecast: the type and amount of contacts you'll get
+Your planning will benefit from the use of traditional contact centre management and planning skill sets.
+If you don’t have access to staff with these skills, you may have to work closely with other groups who do in a consultancy capacity. This may include the team at GDS, or
+[outside specialists](/service-manual/the-team/working-with-specialists.html).
 
-You’ll need to have some idea of the volume and type of contacts that you'll
-receive for the service you’re supporting. In many cases, you can use
-historical data for similar services as a baseline.
+## Volume forecast: how many and what type of enquiry
 
-This element of your planning will also need to take into account the contact
-channels you intend to support (eg email, phone, chat, Twitter, Facebook,
-surface mail, etc). Ideally, each of these channels will have a separate
-contact forecast to aid your planning.
+You need to have an idea of the volume and type of enquiries you’ll receive. In many cases, you can use historical data for similar services as a baseline.
+Also take into account the contact methods you intend to support, such as:
 
-This portion of your planning will also be informed by or will itself drive decisions about the technology you’ll use to route, handle, and store historical data from these contacts.
+* email
+* phone
+* online chat
+* Twitter
+* Facebook
+* surface mail
 
 ## Handling time: the time needed to deal with the contacts
 
-You’ll also want to have at least some idea of the average handling time (AHT)
-and variance for each type of contact.
+To help with your planning, make sure each of these channels has a separate volume forecast.
 
-If you’re building with deep historical data, you may be able to model the AHT separately for each kind of contact. Minimally, you should use the best historical data available to calculate an average number of contacts per day that can be handled by a single agent doing a representative mix of contacts.
+These forecasts will either inform, or help to make, decisions on what technology you’ll use to route, handle, and store the historical data of these enquiries.
 
-## Service level: response speed to user contacts
+## Handling time: time it takes to deal with an enquiry
 
-You’ll also need to have an idea of the service level that should be
-maintained by your helpdesk.
+Work out the average handling time (AHT) and variance for each type of enquiry.
 
-Generally, service level (SL or SLA) is expressed as x per cent of contacts
-resolved in y time units. As an example, you might plan to answer 80% of your
-incoming email contacts in 24 hours.
+If you’re building AHT with deep historical data, you may be able to model the AHT separately for each kind of enquiry. Use the best historical data available to calculate the average number of enquiries per day a single agent can handle when dealing with a representative mix of enquiries types.
 
-You’ll need to know the desired service level to plan how many agents you’ll need for your helpdesk.  Conversely, if your staffing is constrained by other factors, you may use this value as a constant and solve for the best service level that can be achieved at a certain volume level.
 
-## Staffing and scheduling: requirements for a successful helpdesk
+## Service level: how fast you respond to user enquiries
 
-Once you’ve planned for volume, handling time, and service level, you can
-finalise your demand forecast for contacts and plan to add staff as necessary
-to handle these contacts.
+Work out the expected level of service that should be maintained by your helpdesk.
 
-The same historical volume you used to create your contact forecast will likely give you an idea of how the contacts will be received throughout the planning period (likely a week). This, in turn, will give you good direction on how to schedule your helpdesk staff to achieve the service level you’ve planned for.
+Generally, service level (SL or SLA) is worked out as x per cent of enquiries resolved in y time units. For example, you might plan to answer 80% of your incoming email enquiries in 24 hours.
 
-## Data collection and reporting: monitoring the live service
+You need to know the desired service level so you can work out how many agents you’ll need for your helpdesk. If your staffing is constrained by other factors, use this value as a constant and aim for the best service level that can be achieved at a certain volume level.
 
-Once your helpdesk is operational and actually supporting users, you can
-collect data on all the areas for which you planned. This data can then be
-used to improve and refine the forecasts you made previously and to create
-longer term projections about the performance of your helpdesk.
 
-You'll want to develop at least minimal reporting to allow you to evaluate how
-the group itself and the individuals in it are performing. Depending on the
-size of your helpdesk and the details of your contact mix, this might be very
-detailed and sophisticated or very simple, but you’ll want to plan for how to
-measure these elements from the very beginning.
+## Staffing and scheduling
 
-## Going further
+You can only finalise your overall demand forecast and work out staff numbers when you have finished planning for:
 
-The points above are good starting points to consider as you plan to support new digital products and initiatives. There is a quite extensive body of online information that expands on the points made here, including some free planning tools. However, as with all areas of specialised knowledge, you should ideally access the services of an experienced analyst rather than depending entirely on online sources for guidance.
+* volume
+* handling time
+* service level
 
-*[AHT]: average handling time
+The same historical data you used to create your enquiry forecast will likely give you an idea of how the enquiries will be received throughout the planning period (likely a week). This will then help guide you on how to schedule your helpdesk staff, so they can achieve the service level you’ve planned for.
+
+## Data collection and reporting
+
+Once your helpdesk is operational and actually supporting users, collect data on all the areas you planned to collect information on. This data can then be used to:
+
+* improve and refine the forecasts you made previously
+* create long-term projections about the performance of your helpdesk
+
+Plan on how to measure the performance of your helpdesk from the very beginning. Develop at least minimal reporting so you can evaluate the performance of:
+
+* the group itself
+* individual members of staff
+
+## Going even further
+
+These are good starting points to consider as and when you plan to develop new digital products and initiatives. There’s quite an extensive amount of online information that expands on the points made here, including some free planning tools. However, as with all areas of specialised knowledge, use the services of an experienced analyst rather than depending entirely on online sources for guidance.
