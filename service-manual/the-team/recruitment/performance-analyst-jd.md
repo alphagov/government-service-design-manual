@@ -84,7 +84,7 @@ You must be able to manage a quality service:
 							
 You will be able to deliver at pace: 
 
-**Essential**	 	 	 					
+**Essential**
 
 * make sure there is efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
 * regularly monitor own and team’s work against targets
