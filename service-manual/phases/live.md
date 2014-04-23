@@ -31,7 +31,7 @@ And, most importantly, you have met [the user needs](/service-manual/user-centre
 
 This is not the end of the process. The service should now be improved continuously, based on [user feedback](/service-manual/operations/helpdesk.html), [analytics](/service-manual/operations/monitoring.html) and further research.
 
-[Operational support](/service-manual/operations) - both technical and customer-focused - is in place, and you have implemented pro-active monitoring methods. These will help you to:
+[Operational support](/service-manual/operations) -- both technical and customer-focused -- is in place, and you have implemented pro-active monitoring methods. These will help you to:
 
 * monitor system performance
 * optimise the code

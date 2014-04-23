@@ -31,7 +31,7 @@ Agencies respond to the brief and recommend suitable ways to conduct the work, a
 
 A brief should contain the following information:
 
-**Background** – this should include a background of the organisation that wants to conduct the research, what relevant research has been conducted previously (or is being conducted), and the overall need for the piece of research that’s being procured.
+**Background** -- this should include a background of the organisation that wants to conduct the research, what relevant research has been conducted previously (or is being conducted), and the overall need for the piece of research that’s being procured.
 
 **Business objectives** - this should include an explanation of the business objectives that the research is addressing. This is essential as it explains why the research is required by the business.
 

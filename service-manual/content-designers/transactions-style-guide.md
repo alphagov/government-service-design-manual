@@ -186,8 +186,8 @@ On the top of the page tell the user where they went wrong and how they can fix 
 
 There was a problem with the information you entered:
 
-- Name and address – you must enter this
-- Bank details – your sort code is incorrect
+- Name and address -- you must enter this
+- Bank details -- your sort code is incorrect
 etc
 
 Give the user a message in each field where an error occurred. 

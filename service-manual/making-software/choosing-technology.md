@@ -64,11 +64,11 @@ Aim to have a clear understanding of the cost or implications of moving away fro
 In general, you should avoid making long-term commitments to any particular technology, product or supplier until you fully understand the problem you're trying to solve. Even then, you should make sure you maximise your future development options and avoid technology lock-in if possible.
 
 ## When to make new software versus using existing software
-Where there is an existing software solution which solves your problem, you should certainly consider using it. You're more likely to use existing software than to make new software when you have a commodity need. You may even be facing a niche problem that's peculiar to government which has already been solved by another part of the government – or indeed another government - and [released as open source software](https://github.com/alphagov/). 
+Where there is an existing software solution which solves your problem, you should certainly consider using it. You're more likely to use existing software than to make new software when you have a commodity need. You may even be facing a niche problem that's peculiar to government which has already been solved by another part of the government -- or indeed another government -- and [released as open source software](https://github.com/alphagov/). 
 
 Development tools, build tools, utility libraries, databases and monitoring tools are all examples of software where many projects will have the same need, and it makes little sense to reinvent the wheel.
 
-For software that serves a rare or niche need you're less likely to find a tool which serves and will continue to serve your needs. In this situation you will likely have to create new software. Software that's developed to meet the needs of the government – whether it’s developed by government employees, contractors or by a supplier - should be shared wherever possible under a permissive, – compatible open source licence (eg [MIT](http://opensource.org/licenses/MIT)/[X11](http://directory.fsf.org/wiki/License:X11) or [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)) so that it can be widely used and improved. 
+For software that serves a rare or niche need you're less likely to find a tool which serves and will continue to serve your needs. In this situation you will likely have to create new software. Software that's developed to meet the needs of the government -- whether it’s developed by government employees, contractors or by a supplier -- should be shared wherever possible under a permissive, -- compatible open source licence (eg [MIT](http://opensource.org/licenses/MIT)/[X11](http://directory.fsf.org/wiki/License:X11) or [3-clause BSD](http://directory.fsf.org/wiki/License:BSD_3Clause)) so that it can be widely used and improved. 
 
 This allows the software to be used and improved by anyone in the world who has a similar need. It’s important that other governments in particular have the opportunity to reuse the software you've created, because everyone deserves to have [digital services so good that people prefer to use them](/service-manual/digital-by-default).
 
@@ -120,7 +120,7 @@ Take every opportunity to contribute back to open source projects you use. Contr
 * engaging in community discussion groups
 * giving public attribution to projects 
 
-Cite the open source code you use, as in the [GOV.UK colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) - you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
+Cite the open source code you use, as in the [GOV.UK colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) -- you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
 
 Keys, passwords and other secrets must always be stored safely and securely away from source code [following Kerckhoffs’s principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle). This separation of project code from deployed instances of a project is good development practice regardless of whether or not the software itself is shared in public.
 

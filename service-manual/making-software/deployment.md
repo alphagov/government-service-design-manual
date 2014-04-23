@@ -156,7 +156,7 @@ be deployed to production without having been tested in every previous
 environment first.
 
 This does not need to be a strict linear ordering. Some sets of tests
-may be run in parallel - such as user acceptance testing and
+may be run in parallel -- such as user acceptance testing and
 performance testing. However there is very often one single production
 environment which is later than all others, and one single entry point
 which precedes all others.

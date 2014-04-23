@@ -42,7 +42,7 @@ We need to get 4 basic things right:
 
 | Area | Approach |
 |-----|-----|
-| User Experience | We need to design services with users’ needs in mind – and that goes for our own technology as much as it does for what we produce for the public |
+| User Experience | We need to design services with users’ needs in mind -- and that goes for our own technology as much as it does for what we produce for the public |
 | Proportionate Security | Security should be proportionate to the risk, and for the vast majority of government business, this means using controls in the same way that a well run commercial business would |
 | Sustained Value | Making sure that value can be sustained after something has been bought. This means designing for change, and opening up access to all types of suppliers, including open source or small businesses |
 | Consumerised IT | We need to make it possible to use the sort of general, commodity technology that works well for consumers, and for other businesses |

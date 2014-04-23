@@ -24,7 +24,7 @@ breadcrumbs:
 
 Put quality at the forefront of your project if you want people to use and enjoy your service.
 
-Quality is the responsibility of every member of your team – the people who create the service create the quality of it. Every person on your project should be part of increasing quality and fixing issues.
+Quality is the responsibility of every member of your team -- the people who create the service create the quality of it. Every person on your project should be part of increasing quality and fixing issues.
 
 ## Defining quality
 
@@ -57,7 +57,7 @@ Your team should be able to see any problems in the quality of your system. Ever
 
 ## Testing
 
-You won’t know how great your product is or if it meets your criteria without testing it – in both normal and unusual conditions.
+You won’t know how great your product is or if it meets your criteria without testing it -- in both normal and unusual conditions.
 
 Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) is worth reviewing as an example of testing software and teams under unusual stresses (in this case, the final stages of a Presidential campaign).
 
@@ -84,7 +84,7 @@ Your team will need to consider quality when writing user stories, and allow tim
 Using specialist skills and facilities is a good way to make sure testing is thorough, and is typically used for:
 
 * [penetration testing](/service-manual/operations/penetration-testing.html) - having people outside of the team carry out this task helps challenge assumptions and identify weaknesses, giving a valuable outside perspective
-* hiring quality assurance specialists – they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
+* hiring quality assurance specialists -- they can make sure all quality-related activities are coordinated, and that your team gets the training and resources needed to make a high-quality service by:
     * having a clear remit and working with your team to build quality into everything they do, instead of just adding a gate review to the development process
     * being a short-term role, leaving your team capable of managing quality as part of their standard development and iteration of your service
 

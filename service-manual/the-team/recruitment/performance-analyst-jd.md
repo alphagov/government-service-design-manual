@@ -34,7 +34,7 @@ The main responsibilities of the post are to:
 * share examples of best practice in digital performance management across government
 * identify delivery obstacles to improving transactional performance in 	departments and working with teams to overcome those obstacles
 
-## Personal specification - competencies and skills required 
+## Personal specification -- competencies and skills required 
 
 You need to be able to see the big picture. You must have these skills:
 

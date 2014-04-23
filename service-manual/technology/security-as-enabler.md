@@ -72,7 +72,7 @@ It's important to start thinking about security from the very start of an IT pro
 
 In fact, getting appropriate security into your system needs to start with specifying security requirements correctly in the contract. When we don't adequately articulate security requirements for design and ongoing maintenance of a system, our suppliers price for the level of contractual risk the ambiguity introduces.
 
-Specifying security requirements of the form "must be accreditable for IL3” must become a thing of the past. The risk appetite of departments varies and suppliers not used to working with government will struggle to find out what that means for the design and maintenance of their system - adding cost and risk to both parties.
+Specifying security requirements of the form "must be accreditable for IL3” must become a thing of the past. The risk appetite of departments varies and suppliers not used to working with government will struggle to find out what that means for the design and maintenance of their system -- adding cost and risk to both parties.
 
 Instead, when writing IT contracts, departments should think about what they care about from an information assurance perspective and specify requirements that actually manage their concerns. As well as getting a solution that address the real business needs, this approach also allows industry to innovate to solve the security problem.
 
@@ -80,9 +80,9 @@ Instead, when writing IT contracts, departments should think about what they car
 
 ###1. "Security says No!"
 
-It is often said that security is the reason something can't be done. This is very rarely the case in practice - rather, security is being (mis)used as a handy excuse to not do something.
+It is often said that security is the reason something can't be done. This is very rarely the case in practice -- rather, security is being (mis)used as a handy excuse to not do something.
 
-Good information risk management practices allow organisations to understand the risks they are taking with their information assets, and work out the most effective ways to manage and control those risks - while not hindering business.
+Good information risk management practices allow organisations to understand the risks they are taking with their information assets, and work out the most effective ways to manage and control those risks -- while not hindering business.
 
 If someone tells you that "Security says No", or that "CESG say No", you should ask for more information to learn what the risks actually are, and what techniques and tools are available to help manage those risks.
 
@@ -102,15 +102,15 @@ The same considerations should be given to the security of open source products 
 
 There are 3 problems with this statement.
 
-Firstly, CESG don't accredit products - they provide assurance in the security properties of products and certify them when they meet various standards.
+Firstly, CESG don't accredit products -- they provide assurance in the security properties of products and certify them when they meet various standards.
 
 Secondly, only those products which provide a security enforcing function need to be evaluated and certified by CESG; products like switches or email servers don't need to be CESG-certified.
 
-Finally, CESG certification of a product is a component of risk management - it doesn't absolve an organisation of their responsibilities to information security. While using certified products should certainly speed up the risk management process, it isn't mandatory.
+Finally, CESG certification of a product is a component of risk management -- it doesn't absolve an organisation of their responsibilities to information security. While using certified products should certainly speed up the risk management process, it isn't mandatory.
 
 ###5. Restricted systems need to have bespoke security controls.
 
-Restricted systems can be built today using assured commodity security products - many of which are found natively in the operating systems of modern platforms.
+Restricted systems can be built today using assured commodity security products -- many of which are found natively in the operating systems of modern platforms.
 
 In the past, some of the security controls which were recommended for protecting Restricted IT systems were bespoke variants of commodity products, or were "government specials". The requirements which drove these choices are no longer relevant given advances in commodity IT, and better approaches are available to provide an equivalent level of security, but with enhanced usability and overall cost of ownership.
 
@@ -118,11 +118,11 @@ Foundation grade assured products are appropriate for the protection of these sy
 
 ###6. "I'm not a target for cyber attack!"
 
-Sometimes it's obvious that attackers are going to be interested in getting hold of your sensitive information - it has clear value to someone. However, immediate financial reward isn't the only reason government IT systems get attacked.
+Sometimes it's obvious that attackers are going to be interested in getting hold of your sensitive information -- it has clear value to someone. However, immediate financial reward isn't the only reason government IT systems get attacked.
 
-Attackers may be disgruntled insiders, seeking to disrupt or embarrass an organisation. Attacks may come from protest groups, seeking a platform for their views. Or attacks may seek to use one system as a point to launch attacks on another - so you might not be the primary target, but might unwittingly be a conduit to them.
+Attackers may be disgruntled insiders, seeking to disrupt or embarrass an organisation. Attacks may come from protest groups, seeking a platform for their views. Or attacks may seek to use one system as a point to launch attacks on another -- so you might not be the primary target, but might unwittingly be a conduit to them.
 
-Are you specifically being targeted? Maybe not - but your systems and internet presence probably are being attacked on a daily basis for a wide range of reasons.
+Are you specifically being targeted? Maybe not -- but your systems and internet presence probably are being attacked on a daily basis for a wide range of reasons.
 
 ###7. Impact Levels define security requirements.
 

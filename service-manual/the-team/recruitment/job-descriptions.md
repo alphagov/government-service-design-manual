@@ -25,7 +25,7 @@ breadcrumbs:
     url: /service-manual/the-team/recruitment
 ---
 
-Many of the skills now needed in government - both from the leaders of digital and technology teams and the teams themselves - are ones that have rarely been looked for in the past. To help support recruitment teams across government in bringing in those skills GDS has written a set of template job descriptions for SCS and specialist posts.
+Many of the skills now needed in government -- both from the leaders of digital and technology teams and the teams themselves -- are ones that have rarely been looked for in the past. To help support recruitment teams across government in bringing in those skills GDS has written a set of template job descriptions for SCS and specialist posts.
 
 These job descriptions assume that organisational design guidance set out in the manual has broadly been followed. For advice on tailoring these designs to your organisation, contact GDS via the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 

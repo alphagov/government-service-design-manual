@@ -31,7 +31,7 @@ These are the browsers we recommend testing on when developing your service.  Th
 The list is based upon usage statistics for GOV.UK and represents approximately 95% of the most popular
 browsers (the remaining browsers are individually insignificant).
 
-Browsers not listed may still work well, and it should be noted that this is not a list that intends to suggest that these are the only browsers the service will work on - this is simply a benchmark for testing against to ensure that the service will likely work for as many users as possible alongside appropriate cost-effectiveness and development overhead.
+Browsers not listed may still work well, and it should be noted that this is not a list that intends to suggest that these are the only browsers the service will work on -- this is simply a benchmark for testing against to ensure that the service will likely work for as many users as possible alongside appropriate cost-effectiveness and development overhead.
 
 Services should ensure there's an obvious way for users to report problems they may find, and additional testing and adjustments should be made upon receiving such a report.
 
@@ -113,7 +113,7 @@ Digital by default services must take into consideration the limitations of the 
 
 Progressive enhancement is also important in providing a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [17% of all internet use in the UK over the last year](http://gs.statcounter.com/#desktop+mobile-comparison-GB-monthly-201304-201403-bar 'Mobile vs Desktop in United Kingdom from April 2013 to March 2014 Statcounter Global Stats') and [20% of traffic to GOV.UK][pp-govuk-device-type], this mode of access is not an optional extra to consider.
 
-Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](https://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design - Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
+Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](https://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design -- Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
 
 Don’t try to build services for every possible combination of operating system and browser. Avoid the temptation of designing for the obvious without first researching your users.
 
@@ -138,18 +138,18 @@ Before the launch of GOV.UK we noted a marked difference between the existing no
 ##Continuous compatibility
 It's important to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer versions 6 and 7 are only used by a minority (2.5% of visits to GOV.UK in the last year) this still accounts for a significant number of individuals that government services must take into account.
 
-However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. The iPad Mini, Kindle Fire, Windows 8 and Internet Explorer 10 highlight this dilemma - recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
+However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. The iPad Mini, Kindle Fire, Windows 8 and Internet Explorer 10 highlight this dilemma -- recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
 
 Decisions about compatibility can't be something you specify at the start of the project and then forget about. Transformed digital services need to reflect and adapt to the broader internet context of their users on an ongoing basis.
 
 ##Further reading
-James Weiner writes about the [decisions made about browser support](https://gds.blog.gov.uk/2012/01/25/support-for-browsers/ 'Support for browsers - James Weiner, GDS') for the Beta of GOV.UK (January 2012).
+James Weiner writes about the [decisions made about browser support](https://gds.blog.gov.uk/2012/01/25/support-for-browsers/ 'Support for browsers -- James Weiner, GDS') for the Beta of GOV.UK (January 2012).
 
-Ben Welby discusses [the operating systems, browsers and devices supported](https://gds.blog.gov.uk/2012/10/11/what-devices-are-we-supporting-at-launch-and-why/ 'What devices are we supporting at launch, and why? - Ben Welby, GDS') for the launch of GOV.UK (October 2012).
+Ben Welby discusses [the operating systems, browsers and devices supported](https://gds.blog.gov.uk/2012/10/11/what-devices-are-we-supporting-at-launch-and-why/ 'What devices are we supporting at launch, and why? -- Ben Welby, GDS') for the launch of GOV.UK (October 2012).
 
-Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices - Tom Byers, GDS') (November 2012).
+Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices -- Tom Byers, GDS') (November 2012).
 
-Dafydd Vaughan with an update on [browser usage on GOV.UK](https://gds.blog.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK - Dafydd Vaughan, GDS') post-launch.
+Dafydd Vaughan with an update on [browser usage on GOV.UK](https://gds.blog.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK -- Dafydd Vaughan, GDS') post-launch.
 
 The Guardian introduce their [use of responsive design](http://www.theguardian.com/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 

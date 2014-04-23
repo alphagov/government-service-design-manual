@@ -29,7 +29,7 @@ Agile can be a liberating way of working. It won’t stop you from using existin
 
 ![Real people will use your product](https://farm8.staticflickr.com/7177/6987029385_410a1c8d26.jpg)
 
-Prioritise features for users over everyone else – including your big, scary stakeholders - and ask for their feedback early and often. Really listen to your users. Even when they tell you things you don’t want to hear or disagree with.
+Prioritise features for users over everyone else -- including your big, scary stakeholders -- and ask for their feedback early and often. Really listen to your users. Even when they tell you things you don’t want to hear or disagree with.
 
 If possible, use data from real people that are using your product and let it influence the direction of your project. Constantly put users first.
 
@@ -60,9 +60,9 @@ Small teams of between 5 to 10 people are often more productive and predictable 
 
 A good team includes members with all of the skills necessary to successfully produce software. A fully functioning team has 3 main roles:
 
-* product manager – a role probably performed by the [Service manager](/service-manual/the-team/service-manager.html)) responsible for delivering return on investment, usually by creating products that users love
-* [delivery manager](/service-manual/the-team/delivery-manager.html) (aka Scrum master or project manager) – the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
-* [team members](/service-manual/the-team/index.html) – self-organising and multi-disciplinary, they produce user stories, carry out the product manager’s vision and are responsible for estimating their output and speed
+* product manager -- a role probably performed by the [Service manager](/service-manual/the-team/service-manager.html)) responsible for delivering return on investment, usually by creating products that users love
+* [delivery manager](/service-manual/the-team/delivery-manager.html) (aka Scrum master or project manager) -- the agile expert responsible for removing blockers (things slowing a team down), they also act as a facilitator at team meetings
+* [team members](/service-manual/the-team/index.html) -- self-organising and multi-disciplinary, they produce user stories, carry out the product manager’s vision and are responsible for estimating their output and speed
 
 Encourage your team members to pair up, as working together is beneficial. 2 people working on 1 thing will:
 
@@ -82,14 +82,14 @@ Regularly releasing little pieces of code will:
 * improve visibility
 * reduce cost to market
 
-Agile techniques don’t guarantee success - you can still fail!
+Agile techniques don’t guarantee success -- you can still fail!
 
 But these techniques do allow you to spot problems earlier on and resolve them. You can resolve issues, and stop issues from happening, by:
 
-* releasing working software to your users regularly – it allows you to get feedback quickly and hear or see what they think; if the product is wrong you can easily change direction and iterate
-* demonstrating value to your sponsor with regular releases - if your software is rarely released you run the risk of creating a ‘too-big-to-fail’ service that shouldn’t be released, but must be released anyway 
-* checking your teams’ progress - if your teams’ speed is still inconsistent after the initial 4 to 6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
-* using test-driven development (writing tests before you develop the features to be tested) to highlight issues with quality early on - establish the issues, baseline metrics, and monitor throughout the project
+* releasing working software to your users regularly -- it allows you to get feedback quickly and hear or see what they think; if the product is wrong you can easily change direction and iterate
+* demonstrating value to your sponsor with regular releases -- if your software is rarely released you run the risk of creating a ‘too-big-to-fail’ service that shouldn’t be released, but must be released anyway 
+* checking your teams’ progress -- if your teams’ speed is still inconsistent after the initial 4 to 6 sprints, then something needs fixing (possibly unknown complications or poor estimation with timings)
+* using test-driven development (writing tests before you develop the features to be tested) to highlight issues with quality early on -- establish the issues, baseline metrics, and monitor throughout the project
 
 Don’t be afraid to fail or experiment. Learn to fail, and create a culture that learns from failure.
 
@@ -103,8 +103,8 @@ Base your agile planning on solid, historical data, not theories or opinions. Yo
 
 Your teams should plan together, on at least 2 levels:
 
-* release level - identify and prioritise the features you must have, and would like to have by the deadline
-* iteration level - plan for the next features to implement, in priority order (if features are too large to be estimated or delivered within a single iteration, break them down further)
+* release level -- identify and prioritise the features you must have, and would like to have by the deadline
+* iteration level -- plan for the next features to implement, in priority order (if features are too large to be estimated or delivered within a single iteration, break them down further)
 
 Review these plans after every sprint and adjust them based on:
 
@@ -117,12 +117,12 @@ Review these plans after every sprint and adjust them based on:
 
 If your team is new to agile, be wary of familiar situations and reactions from having to do things differently. These situations have a bad smell about them and will undermine your project and its chances of success:
 
-* your core team isn’t full-time or is working on multiple projects - your team is the unit of delivery and you need 100%, so push back on managers and stakeholders if this is happening
-* you don’t have a dedicated team area – sit your team together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its
-    * rearrange your workspace or use tools in innovative ways to improve your teams’ working environment and increase productivity - you’ll challenge some longstanding working practices, but this is very important
-* there’s no continuous integration/development environment - if your teams aren’t insisting on this from the beginning you’ve probably got the wrong team:
+* your core team isn’t full-time or is working on multiple projects -- your team is the unit of delivery and you need 100%, so push back on managers and stakeholders if this is happening
+* you don’t have a dedicated team area -- sit your team together, preferably in your own room, with space on the walls to draw ideas and stick up cards and post-its
+    * rearrange your workspace or use tools in innovative ways to improve your teams’ working environment and increase productivity -- you’ll challenge some longstanding working practices, but this is very important
+* there’s no continuous integration/development environment -- if your teams aren’t insisting on this from the beginning you’ve probably got the wrong team:
     * iterative software development is, in many areas, dependent on the ability to continuously deploy and run automated tests
-* you have a separate quality assurance (QA) department – if your team pass software they’ve developed over to a QA department, they’ve got the wrong attitude to delivering production-ready software; embed a quality culture into the team
+* you have a separate quality assurance (QA) department -- if your team pass software they’ve developed over to a QA department, they’ve got the wrong attitude to delivering production-ready software; embed a quality culture into the team
 
 This is by no means a complete list, but these are most common things to watch out for.
 

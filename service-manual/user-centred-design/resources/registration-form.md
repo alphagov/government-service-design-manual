@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Form example - Registration
+title: Form example -- Registration
 subtitle: Build to the GOV.UK style
 category: design-and-development-resources
 type: resource

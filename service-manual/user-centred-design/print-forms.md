@@ -23,7 +23,7 @@ breadcrumbs:
 
 Occasionally, digital services will need paper forms at some stage in the transaction. Sometimes an application may require one or more 'wet signatures' to validate it, or print alternatives may be part of your [assisted digital](/service-manual/assisted-digital) support.
 
-For the most part you can approach these as design challenges like any other - the [Design Principles](/design-principles) are a great way to start this work - but there are some specific things you'll want to bear in mind.
+For the most part you can approach these as design challenges like any other -- the [Design Principles](/design-principles) are a great way to start this work -- but there are some specific things you'll want to bear in mind.
 
 ## Don't make paper forms unless you have to
 The most important thing to remember is that print forms should only be made when absolutely necessary.
@@ -81,7 +81,7 @@ Your paper forms are a small but important part of a digital process. Typically 
 
 There are some ways you can make this transition easier:
 
-* add familiarity by showing some of the information the user has just entered in large font – their name, for example
+* add familiarity by showing some of the information the user has just entered in large font -- their name, for example
 * create a transcript of the information entered using the digital tool, with a signature box at the bottom.
 * if your digital output has to match an existing paper form, you can still add a cover sheet with user's input (for familiarity)
 * clearly explain the next step: for example, give the address to send the form to, or give a web address to continue using the digital tool; if you give a URL, include a short ID string which logs the user in and takes them to the relevant step
@@ -101,7 +101,7 @@ Get [an introduction to user research](/service-manual/user-centred-design/intro
 
 Where specialist terms are unavoidable, or necessary, you'll need people who understand [how users read](/service-manual/user-centred-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centred-design/writing-government-services.html) when working on the design.
 
-Skilled content designers and copywriters will make forms – whether online or in print – simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
+Skilled content designers and copywriters will make forms -- whether online or in print -- simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
 
 ##Forms are not an alternative channel
 
