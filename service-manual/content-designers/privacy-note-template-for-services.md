@@ -53,7 +53,7 @@ When you apply for Carer’s Allowance, the Department for Work and Pensions (DW
 - tell you why the information is needed, eg [examples]
 - only ask for what’s needed 
 - make sure nobody has access to it who shouldn’t
-- tell you if the information is shared with other organisations and if you can say no to this - see the [full privacy notice]
+- tell you if the information is shared with other organisations and if you can say no to this -- see the [full privacy notice]
 - only keep the information for as long as it’s needed
 - not make it available for commercial use, eg marketing, without your permission
 

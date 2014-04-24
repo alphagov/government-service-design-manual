@@ -34,7 +34,7 @@ Note that it's important to make the distinction between releasing regularly and
 To do that you have to consider:
 
 * [your approach to testing](/service-manual/making-software/code-testing.html)
-* the quality of low level code – approaches like continuous integration, where code is tested constantly, and test driven design, can be helpful
+* the quality of low level code -- approaches like continuous integration, where code is tested constantly, and test driven design, can be helpful
 * using the same tools and release processes for both the [development and production environments](/service-manual/making-software/development-environment.html) - this way the software and tools will be well understood and will have been run thousands of times before the first public launch
 
 Although tools, potentially including commercial tools, are required to aid rapid releases the discussions should not start with what tools should be used or procured but with the needs of the service and the product team.

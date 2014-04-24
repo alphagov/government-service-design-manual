@@ -104,10 +104,10 @@ The different levels of assurance available and how they are reached are defined
 
 Each relying party will need to go through the programme’s induction process. This process consists of 4 structured stages:
 
-1. Introduction - identify a need for identity assurance.
-2. Needs Analysis - identify the service’s identity assurance requirements (levels and types), users and dependencies. Agree a provisional date for connection to hub.
-3. Planning - complete a readiness assessment. Agree a detailed plan setting out what the service and GDS will each do and when. Get internal approvals within GDS and the relying party's organisation.
-4. Connect to hub - agree a memorandum of understanding between the Identity Assurance Programme and the department responsible for the service.
+1. Introduction -- identify a need for identity assurance.
+2. Needs Analysis -- identify the service’s identity assurance requirements (levels and types), users and dependencies. Agree a provisional date for connection to hub.
+3. Planning -- complete a readiness assessment. Agree a detailed plan setting out what the service and GDS will each do and when. Get internal approvals within GDS and the relying party's organisation.
+4. Connect to hub -- agree a memorandum of understanding between the Identity Assurance Programme and the department responsible for the service.
 
 Government providers of digital services that want to find out more about identity assurance, with a view to becoming relying parties, should contact [Janet Hughes](mailto:janet.hughes@digital.cabinet-office.gov.uk).
 
@@ -115,7 +115,7 @@ Government providers of digital services that want to find out more about identi
 
 Each relying party will need to set up a matching service that can accept digital assertions of identity and match them to their internally held records. This process makes sure they can use the identity assertions provided by the identity assurance service.
 
-Matching assured identities to the records held by relying parties is likely to be complicated - each relying party will need to establish the most efficient and effective way of doing this depending on the quality of its data and how it’s stored and managed.
+Matching assured identities to the records held by relying parties is likely to be complicated -- each relying party will need to establish the most efficient and effective way of doing this depending on the quality of its data and how it’s stored and managed.
 
 Relying parties will need to be able to do a risk-based match to ascertain which locally held account to match against. For example, relying parties need to be able to handle users who have proved their identities, but the service can't match with sufficient confidence to any particular record or even multiple records.
 

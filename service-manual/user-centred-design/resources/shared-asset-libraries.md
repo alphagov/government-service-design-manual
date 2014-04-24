@@ -70,7 +70,6 @@ The service manual article on
 [Sass repositories](/service-manual/user-centred-design/resources/sass-repositories) has
 more information on this repository.
 
-## Keeping shared assets up to date
 
 GDS is continuously improving GOV.UK, which means that template and asset code changes regularly.
 

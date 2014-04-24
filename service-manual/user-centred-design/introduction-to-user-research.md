@@ -25,7 +25,7 @@ breadcrumbs:
 
 This guidance provides a broad overview of the methods and techniques available to conduct user research. More detailed guidance on each of these techniques can be found in the links below.
 
-User research can be categorised into 2 broad themes – product research and strategic research.
+User research can be categorised into 2 broad themes -- product research and strategic research.
 
 ## Product research
 
@@ -41,7 +41,7 @@ Typically agencies are only used when specialist skills/experience is required t
 
 ## Strategic research
 
-Strategic research also uses quantitative and qualitative methods, and is used to help understand the appetite for a product or service – typically looking at the size of the market, trends, type of users etc.
+Strategic research also uses quantitative and qualitative methods, and is used to help understand the appetite for a product or service -- typically looking at the size of the market, trends, type of users etc.
 
 Secondary data, also known as desk research, can be used, and involves the analysis of existing research or information sources. Ideally, secondary research should be conducted before embarking on any research project to understand what is already known, and what research is required to fill the knowledge gaps. This can range from published research, news article, or internal research that has been conducted previously.
 

@@ -30,7 +30,7 @@ To begin with, involve a small cross-functional group of people who will quickly
 
 Make sure the people in your group have:
 
-* a hands-on technical understanding of the service and underlying software – these people are essential
+* a hands-on technical understanding of the service and underlying software -- these people are essential
 * knowledge of the available procurement options
 * knowledge of acceptable costs
 

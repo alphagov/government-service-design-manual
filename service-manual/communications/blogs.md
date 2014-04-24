@@ -24,9 +24,9 @@ The [Inside GOV.UK blog](https://insidegovuk.blog.gov.uk/) and the [MOJ Digital 
 
 ##Publish, don’t send
 
-A good blog post can do the work of dozens of emails. Finding the right way of sharing a piece of information once – [describing a change to how a feature works](https://insidegovuk.blog.gov.uk/2013/08/07/the-future-of-detailed-guides/) for example, or [talking about upcoming work](https://insidegovuk.blog.gov.uk/2013/09/23/coming-in-this-sprint-featuring-on-topics-changes-to-html-publications-and-more/) – can save a huge amount of effort in finding new ways of saying roughly the same thing.
+A good blog post can do the work of dozens of emails. Finding the right way of sharing a piece of information once -- [describing a change to how a feature works](https://insidegovuk.blog.gov.uk/2013/08/07/the-future-of-detailed-guides/) for example, or [talking about upcoming work](https://insidegovuk.blog.gov.uk/2013/09/23/coming-in-this-sprint-featuring-on-topics-changes-to-html-publications-and-more/) -- can save a huge amount of effort in finding new ways of saying roughly the same thing.
 
-More importantly, it means there’s a consistent frame of reference for talking about a subject. If people have been told slightly different things then they might come away with a different understanding of how something works – not something likely to make your life simpler, clearer and faster.
+More importantly, it means there’s a consistent frame of reference for talking about a subject. If people have been told slightly different things then they might come away with a different understanding of how something works -- not something likely to make your life simpler, clearer and faster.
 
 ##Get to the point
 
@@ -46,7 +46,7 @@ A well-chosen illustration or photo can add important context or information for
 
 [The GOV.UK style guide](https://www.gov.uk/design-principles/style-guide) is an invaluable tools for writers. It’s full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
 
-In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the 'words to avoid' list – it’s there to make sure writers stay clear no matter the audience.
+In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the 'words to avoid' list -- it’s there to make sure writers stay clear no matter the audience.
 
 ##...but remember you’re a person
 

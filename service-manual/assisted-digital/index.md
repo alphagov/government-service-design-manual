@@ -39,7 +39,7 @@ Every service will have a different proportion of users who aren’t online, so 
 
 [User research](/service-manual/user-centred-design/introduction-to-user-research.html) will help you to understand your users. When doing your research, use service teams and [user research techniques](/service-manual/user-centred-design/user-research#tips-for-user-research).
 
-Consider the digital skills of your users. This will help you understand - out of those not using digital channels - which users:
+Consider the digital skills of your users. This will help you understand -- out of those not using digital channels -- which users:
 
 * won’t ever be able to use the digital service independently and will always need assisted digital support
 * could use the digital service independently, but will need assisted digital support at the beginning to build their confidence in using the service

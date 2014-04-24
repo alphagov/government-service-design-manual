@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
+A central principle of agile is quick feedback loops -- you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
 ## Retrospectives
 
@@ -62,7 +62,7 @@ Working agreements could be that:
 
 * everyone contributes
 * no one speaks over the other (except for the facilitator)
-* no phones or laptops are allowed - everyone should be concentrating on the discussion
+* no phones or laptops are allowed -- everyone should be concentrating on the discussion
 
 ## Outcomes of a retrospective
 
@@ -105,7 +105,7 @@ Explain the scope and, if necessary, purpose. If your team don’t know each oth
 Make sure they've been completed. If any haven't, ask if:
 
 * they still need to be done
-* why haven’t they been completed - set a new deadline if necessary, but don’t keep carrying actions over
+* why haven’t they been completed -- set a new deadline if necessary, but don’t keep carrying actions over
 
 {:.left}
 ![A Bad](https://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
@@ -116,7 +116,7 @@ Give your team around 10 minutes to write down all the things that went well in 
 
 If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own post-its to the wall, possibly saying a few words about each.
 
-Don’t allow this to develop into a discussion at this point – you just want to gather data.
+Don’t allow this to develop into a discussion at this point -- you just want to gather data.
 
 ### Discussion: 00:20 to 00:30 (10 mins)
 
@@ -148,7 +148,7 @@ Spend some time looking at the actions identified; assign them to people present
 
 Total: 80 minutes with 10% shuffle time.
 
-It’s OK to finish early if people have said what they need to. It’s not OK to overrun – if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
+It’s OK to finish early if people have said what they need to. It’s not OK to overrun -- if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
 
 ##Why we do this
 
@@ -163,7 +163,7 @@ Agile development practices will help you work better, and the retrospective all
 
 You may find these resources useful:
 
-* [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
+* [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) -- it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
 * [Agile Retrospectives: Making Good Teams Great](http://pragprog.com/book/dlret/agile-retrospectives).
 
 Retrospective plan photo by <a href="https://twitter.com/annashipman" target="_blank">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete" target="_blank">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.

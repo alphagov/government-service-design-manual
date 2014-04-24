@@ -33,7 +33,7 @@ Consideration needs to be given to how the sample is collected (who, how, where,
 
 The sample method chosen should consider the size and scale of the project, the sub-group analysis required, and balance the robustness of the approach that with the time, money, and resource available to ensure its fit for purpose.
 
-Sampling can be a complex process to understand, but on most occasions a sample of 400-500 will be sufficient for most in-house studies - again this is dependent on the level of subgroup analysis needed and also the penetration of the target group in the population. The greater the number of population groups that need to be analysed may increase the sample size needed, as typically for findings to be statistically valid a minimum of 100 in a subgroup is required. A larger overall sample of 1000+ is normally required if findings need to be nationally representative.
+Sampling can be a complex process to understand, but on most occasions a sample of 400-500 will be sufficient for most in-house studies -- again this is dependent on the level of subgroup analysis needed and also the penetration of the target group in the population. The greater the number of population groups that need to be analysed may increase the sample size needed, as typically for findings to be statistically valid a minimum of 100 in a subgroup is required. A larger overall sample of 1000+ is normally required if findings need to be nationally representative.
 
 ## Further reading
 

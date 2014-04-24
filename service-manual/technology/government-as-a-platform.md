@@ -37,7 +37,7 @@ This move to a platform-based model is a significant transition. A platform prov
 
 Moving to a platform model does not imply a “top-down” conceptual identification of a list of platforms that government will buy or build. Platforms will emerge out of [user needs](/service-manual/user-centred-design/user-needs.html) and [good architectural practices](/service-manual/technology/architecture.html), but only as a consequence of the practical experience of building the features required.
 
-Platforms are defined by connectors and functionality – characterised by open interfaces, open data standards, and commonality.
+Platforms are defined by connectors and functionality -- characterised by open interfaces, open data standards, and commonality.
 
 The figures below illustrate the journey required:
 

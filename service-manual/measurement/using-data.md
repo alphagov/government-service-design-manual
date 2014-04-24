@@ -62,22 +62,22 @@ Highlight specific segments that you know users are interested in, and make sure
 
 Typical segments include:
 
-* channel used to access service - through which channel(s) did the user find out about and attempt to use the service?
-* new vs. repeat visitors - are first time users behaving differently to those who have used the service before?
-* geographical region - how popular is the digital service by region and how does that compare with online penetration in general?
-* product type - does the user experience vary depending on the type of product or service?
-* value - is performance dependent on the monetary value of the product or service being sought?
-* dashboards - based on objectives and will help inform decisions, often with the help of real-time data
-* reports - providing regular, scheduled snapshots of data, but tend to need extra context and time to absorb
-* alerts - used to inform the users about a change or an event, often using attention-grabbing tools to do so
+* channel used to access service -- through which channel(s) did the user find out about and attempt to use the service?
+* new compared with repeat visitors -- are first time users behaving differently to those who have used the service before?
+* geographical region -- how popular is the digital service by region and how does that compare with online penetration in general?
+* product type -- does the user experience vary depending on the type of product or service?
+* value -- is performance dependent on the monetary value of the product or service being sought?
+* dashboards -- based on objectives and will help inform decisions, often with the help of real-time data
+* reports -- providing regular, scheduled snapshots of data, but tend to need extra context and time to absorb
+* alerts -- used to inform the users about a change or an event, often using attention-grabbing tools to do so
 
 By making your visualisations easy to understand you significantly increase the likelihood that the information will be used to improve your service.
 
 Best practices include:
 
-* keeping charts plain - don’t use shading, 3D or other distracting effects
-* removing clutter - don’t use trend lines, grid lines, unnecessary labelling
-* not using pie charts - they require more space and are harder to read than bar charts
+* keeping charts plain -- don’t use shading, 3D or other distracting effects
+* removing clutter -- don’t use trend lines, grid lines, unnecessary labelling
+* not using pie charts -- they require more space and are harder to read than bar charts
 * using text where a chart adds nothing
 
 ##Monitor, iterate, and improve
@@ -89,12 +89,12 @@ Any service that meets user needs will include an element of user feedback. Moni
 
 Many options are available for improving the overall performance of your service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
 
-* price – change the price eg to attract people to the digital channel
-* product – improve the user experience (eg from user feedback, user testing, A/B testing, multivariate testing)
-* placement - place the digital service URL on printed materials and in voice recordings
-* promotion – increase your use of email and social media to encourage repeated use of your digital service
+* price -- change the price eg to attract people to the digital channel
+* product -- improve the user experience (eg from user feedback, user testing, A/B testing, multivariate testing)
+* placement -- place the digital service URL on printed materials and in voice recordings
+* promotion -- increase your use of email and social media to encourage repeated use of your digital service
 
-Taking an iterative approach to service development will increase the speed of improvements and minimises the risk of failure. Don’t wait until the end to do this – do it continuously throughout the process.
+Taking an iterative approach to service development will increase the speed of improvements and minimises the risk of failure. Don’t wait until the end to do this -- do it continuously throughout the process.
 
 ##Further reading
 
@@ -102,7 +102,7 @@ To find out more about ways to use data, try reading:
 
 * an article on [online customer satisfaction scores](http://www.guardian.co.uk/money/2010/dec/22/amazon-top-consumer-satisfaction) for retailers, based on the Customer Satisfaction Index, written for *The Guardian*
 * [The role of the data scientist](http://radar.oreilly.com/2010/06/what-is-data-science.html) by Mike Loukides
-* [Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government - this is important because some channels may be quicker to use than others)
+* [Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government -- this is important because some channels may be quicker to use than others)
 * [Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data), an excellent book by Brian Suda which helps you to design beautiful and powerful data visualisations
 * [Juice Analytics](http://www.juiceanalytics.com/), a website with lots of useful resources on how to design and develop useful data visualisations and dashboards
 * Edward Tufte’s [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi), an original piece of work on data visualisation and introduces the concept of chartjunk

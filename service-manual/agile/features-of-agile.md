@@ -33,7 +33,7 @@ Each sprint is of equal length and usually lasts between 1 to 2 weeks, but you c
 
 When deciding the length of your sprints, consider:
 
-* the length of the project – use shorter sprints for shorter projects, giving you greater visibility of what’s going on, the opportunity to iterate and the flexibility to adaptively plan
+* the length of the project -- use shorter sprints for shorter projects, giving you greater visibility of what’s going on, the opportunity to iterate and the flexibility to adaptively plan
 * team members that are new to the Scrum process:
     * shorter sprints means those that are new to Scrum get used to the regular meeting formats and processes faster
 * how often you release code to production  - if it’s only released at the end of each sprint decide how often do you want to ship production-ready code

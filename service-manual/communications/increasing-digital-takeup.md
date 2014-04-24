@@ -62,7 +62,7 @@ While this [case study from Chelmsford City Council](/service-manual/assets/docu
 * ensuring that all your communication with users encourages action eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
 * incorporating the URL for your service into all your written correspondence eg letters, email footers, hard and soft copy, out-of-hours phone messages; put phone numbers and physical addresses in less prominent places in any communications
 * getting information on your digital service into partner publications / websites that your target users might go to for other reasons
-* checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible – be sure to user-test it
+* checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible -- be sure to user-test it
 
 In [this case study](/service-manual/assets/documents/dsa-case-study-3.pdf) (PDF, 103KB), the Driving Standards Agency (DSA) explains some of the steps it took to communicate the benefits of its Driving Test Booking Service to its service users. It also highlights some of the lessons it learned along the way.
 
@@ -76,7 +76,7 @@ This [case study](/service-manual/assets/documents/landregistry-case-study-2.pdf
 *making sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
 * mapping all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
 * making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
-* making sure that staff and partners are familiar with the service through demos and help with digital transactions – you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
+* making sure that staff and partners are familiar with the service through demos and help with digital transactions -- you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
 * preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause
 
 This [case study](/service-manual/assets/documents/hmrc-case-study-4.pdf) (PDF, 150KB) about the HMRC Cross Tax Strategy outlines the ways they work with staff and partner organisations to encourage the use of their digital channels.
@@ -86,7 +86,7 @@ This [case study](/service-manual/assets/documents/hmrc-case-study-4.pdf) (PDF, 
 * investigating whether you can offer extra advantages or benefits if people use services digitally, such as:
     * charging users less for digital transactions (eg Companies House’s Annual Returns submission service)
     * extending submission deadlines (eg Self Assessment tax returns)
-    * providing additional service features, such as application progress tracking, and text reminders of deadlines – [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
+    * providing additional service features, such as application progress tracking, and text reminders of deadlines -- [the use of personalised text messages for reminders has proven to be a successful behaviour change tool](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60539/BIT_FraudErrorDebt_accessible.pdf) (PDF, 549KB); implementing this approach will require the cooperation of your department’s information assurance team, so it’s important to engage them early
 
 [This case study](/service-manual/assets/documents/hmrc-case-study-5.pdf) (PDF, 145KB)  from the HMRC Cross Tax Strategy explains how HMRC offered financial incentives for online filing and why they later switched to non-fiscal benefits.
 
@@ -101,7 +101,7 @@ In [this case study](/service-manual/assets/documents/dvla-case-study-6.pdf) (PD
 
 * setting out in plain English the steps you have taken to protect your users from fraud and inappropriate data sharing
 * educating users about how your services and procedures should work so that your users are less susceptible to phishing activities and third parties which mis-sell government services
-* making sure that your department’s single point of contact (SPOC  - see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
+* making sure that your department’s single point of contact (SPOC  -- see below for details) is aware of your service and has put in place measures to support users’ reports of mis-selling or phishing:
 * every department with public-facing transactions should have a SPOC that co-ordinates the investigation and resolution of end-users’ reports about scams or phishing activity
 
 This [case study](/service-manual/assets/documents/landregistry-case-study-7.pdf) (PDF, 76KB), about the Land Registry e-Document Registration Service shows how they took action to reassure service users that the digital service met current standards to address potential security risks.
@@ -116,15 +116,15 @@ This [case study](/service-manual/assets/documents/landregistry-case-study-7.pdf
 ###9. Track and measure channel shift by:
 
 * getting access to usage level data, so you can make useful comparisons against a task carried out in 2 different ways, eg number of registration requests completed via offline channels as well as via your digital service
-* determining cost per transaction, by channel – combining the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
+* determining cost per transaction, by channel -- combining the cost per transaction for all your offline channels makes it harder to understand how usage is changing and its cost implications for your service
 * setting the right metrics for measuring digital take-up
 * measuring the number of complaints or requests for support that your digital service is generating eg calls to your call centre
-* agreeing the methodology for measuring savings due to channel shift - try as much as possible to select tangible metrics and minimise the use of estimates
+* agreeing the methodology for measuring savings due to channel shift -- try as much as possible to select tangible metrics and minimise the use of estimates
 [This case study](/service-manual/assets/documents/hcc-case-study-9.pdf) (PDF, 94KB)  from Hertfordshire County Council about their Library Renewals Service explains how they developed a channel shift tracker tool to track and measure channel shift; and how its monthly dashboard informs strategic management decisions.
 
 ###10. Set your channel shift targets by:
 
-* getting sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift – the [Digital Landscape report](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) sets out useful information on Internet usage levels by demographic
+* getting sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift -- the [Digital Landscape report](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) sets out useful information on Internet usage levels by demographic
 * considering [projected savings from digital service provision](http://publications.cabinetoffice.gov.uk/digital/efficiency/#what-are-the-savings-from-digitising-transactional-services) and using these as a guide for setting your targets; it’s likely that you’ll have to prioritise increasing digital take-up for some of your digital services over others (both existing and new or recently redesigned) to maximise savings.
 
 
@@ -132,7 +132,7 @@ This [case study](/service-manual/assets/documents/landregistry-case-study-7.pdf
 
 Your digital take-up will not be as successful if you:
 
-* have unstructured routes into your service (eg email – online forms are much better)
+* have unstructured routes into your service (eg email -- online forms are much better)
 * make other channels easier (eg pre-populating paper forms but not online ones)
 * request unnecessary information
 * unquestioningly maintain service standards for traditional channels; review them once your digital service is up and running

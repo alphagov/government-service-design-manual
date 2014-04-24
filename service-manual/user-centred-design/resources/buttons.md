@@ -122,8 +122,8 @@ Do use:
 
 Don't use:
 
-* technical terms - eg use ‘delete’, not ‘form reset’, use one of the common actions below instead of ‘submit’
-* lots of words - eye tracking shows users are less likely to read long labels
+* technical terms -- eg use ‘delete’, not ‘form reset’, use one of the common actions below instead of ‘submit’
+* lots of words -- eye tracking shows users are less likely to read long labels
 
 A simple guide is to see if the text passes the ['Would you like to ... ? /  I would like to ...'](http://www.uxbooth.com/articles/the-grammar-of-interactivity/) test.
 

@@ -25,9 +25,9 @@ for things like buttons, form labels, help text, alerts and questions.
 * Use sentence case
 * Address the user directly
 * Follow the style guide
-* Don't use 'please' on labels - but give polite, clear, short instructions
+* Don't use 'please' on labels -- but give polite, clear, short instructions
 * Don't use colons after labels
-* Don't add 'your' to labels, for example: 'Your name', 'Your address', unless you have a page with multiple people where you need to differentiate - for example: 'your name', 'partner name'
+* Don't add 'your' to labels, for example: 'Your name', 'Your address', unless you have a page with multiple people where you need to differentiate -- for example: 'your name', 'partner name'
 
 ### Asking for personal details
 
@@ -40,7 +40,7 @@ for things like buttons, form labels, help text, alerts and questions.
 ## Writing help text
 
 Your first strategy when it comes to help text is to design a service that's
-so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for its own sake - the real innovation is an
+so intuitive it doesn't need any. For this reason it helps to stick to interface design conventions where possible. Avoid innovation for its own sake -- the real innovation is an
 easy to use government service.
 
 Sometimes though, users need a little help. Here are some ways of providing it.

@@ -23,7 +23,7 @@ Government offers a number of different digital services to citizens. While the 
 
 ## One entry point
 
-Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK – for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
+Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK -- for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
 
 Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts, etc.
 
@@ -31,7 +31,7 @@ The start page URL for a given service will be allocated by GDS based on discuss
 
 ## Creating a domain
 
-The transactional part of a service – the dynamically generated pages where users interact with the service – will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service.
+The transactional part of a service -- the dynamically generated pages where users interact with the service -- will typically not be hosted on the `www.gov.uk` domain. That means that each service needs its own domain name for the transactional part of the service.
 
 > Note: This does not apply to the set of interactive tools on GOV.UK known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
 
@@ -126,7 +126,7 @@ At present we advise against allowing DDOS protection suppliers to terminate SSL
 
 There are obvious downsides to allowing this level of access, especially if the supplier’s network and processes have not been accredited to the same level as the rest of the service. It’s a risk-based decision, but if in doubt we suggest a presumption against SSL termination on third party networks.
 
-Many suppliers offer IP forwarding DDOS protection, which does not have the same security issues as SSL termination, and is recommended in preference to SSL termination.  If your service requires transaction monitoring (which is not at all the same thing as DDOS protection) you should contact your CESG account manager for advice.  This is interim guidance and will be updated - check back in early May 2013 for an update.
+Many suppliers offer IP forwarding DDOS protection, which does not have the same security issues as SSL termination, and is recommended in preference to SSL termination.  If your service requires transaction monitoring (which is not at all the same thing as DDOS protection) you should contact your CESG account manager for advice.  This is interim guidance and will be updated -- check back in early May 2013 for an update.
 
 ## Emails sent to service users
 

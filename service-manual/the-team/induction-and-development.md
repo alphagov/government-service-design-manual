@@ -177,7 +177,7 @@ Most users will be able to use new and redesigned government digital services un
 
 ###Always be testing
 
-Carry out user research in every stage of your project. Do it continuously through each stage - don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
+Carry out user research in every stage of your project. Do it continuously through each stage -- don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
 
 * keep your team concentrating on real user needs
 

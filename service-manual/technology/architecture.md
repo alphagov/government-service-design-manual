@@ -41,8 +41,8 @@ To support this our architecture will need to move away from tightly coupled and
 
 We should strive to:
 
-* avoid duplication of data ownership – to prevent synchronisation, data quality, security, and privacy problems
-* limit duplication of development effort – to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes
+* avoid duplication of data ownership -- to prevent synchronisation, data quality, security, and privacy problems
+* limit duplication of development effort -- to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes
 * wherever possible (and tested against the “[rule of three](http://www.maheshpai.info/?p=20)”), we will use and reuse standard, interoperable components, interfaces, data formats and processes using open standards
 
 Duplication is OK when used to optimise the user experience (but there should be clear master-slave data relationships if information itself is replicated, eg for reasons of performance).

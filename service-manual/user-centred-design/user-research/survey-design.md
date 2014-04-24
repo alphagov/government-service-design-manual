@@ -37,10 +37,10 @@ Screener questions should be placed at the beginning of surveys to ensure that t
 
 A typical user survey will be structured in the following manner:
 
-* introduction – purpose of the survey, why it’s important that people take part.
+* introduction -- purpose of the survey, why it’s important that people take part.
 * screener questions
-* KPI questions – [questions that benchmark performance](/service-manual/measurement/index.html)
-* follow up demographic questions – additional respondent information eg working/not working, salary, location etc
+* KPI questions -- [questions that benchmark performance](/service-manual/measurement/index.html)
+* follow up demographic questions -- additional respondent information eg working/not working, salary, location etc
 
 ### Common survey question types
 
@@ -94,4 +94,4 @@ It is recommended that all surveys are tested thoroughly to ensure the correct d
 
 ## Further reading
 
-[University of Leeds - Guide to design of questionnaires](http://iss.leeds.ac.uk/downloads/file/125/guide_to_the_design_of_questionnaires)
+[University of Leeds -- Guide to design of questionnaires](http://iss.leeds.ac.uk/downloads/file/125/guide_to_the_design_of_questionnaires)

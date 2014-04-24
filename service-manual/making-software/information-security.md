@@ -203,7 +203,7 @@ The aim is a system where the risks are known and the team, working with risk pr
 
 * [Security Engineering — Ross
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html): a comprehensive textbook covering the theory and practice of building secure systems
-* [HMG IA Standard No. 1 – Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems
+* [HMG IA Standard No. 1 -- Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems
 * [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables
 
 *[BCS]: Baseline Control Set

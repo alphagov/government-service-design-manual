@@ -135,7 +135,7 @@ We expect alphas to normally consist of:
 
 We believe that alphas should start with an inception process. An inception is designed to bring the team together and share the knowledge about the risks and goals identified.
 
-We tend to recommend a short inception – between 4 to 7 days seems to work well.
+We tend to recommend a short inception -- between 4 to 7 days seems to work well.
 
 The inception should be run by the supplier team, probably by the Delivery Manager. It will look at a variety of business, technical and user aspects of the project. Each supplier has a different format for these, but we see fairly common outputs including:
 

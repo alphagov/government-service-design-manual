@@ -32,7 +32,7 @@ Typically, government services are built after long, costly procurement processe
 
 <img src="/service-manual/assets/images/old-way.png" alt="Diagram showing old ways of building services" />
 
-In this way of working, users are seldom – if ever – consulted about the service they'll be using. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
+In this way of working, users are seldom -- if ever -- consulted about the service they'll be using. The first time the public might see a service is when it goes live, by which time it's too late to make any changes when it turns out to be unfit for purpose.
 
 This way of working tends to encourage the creation of overly prescriptive policy, which then forms the basis of the requirements document. Instead, teams need to constantly iterate against user feedback.
 

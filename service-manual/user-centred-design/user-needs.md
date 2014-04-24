@@ -47,7 +47,7 @@ Good evidence points can include:
 
 ### Frame the need correctly
 
-The way you describe each user need can have a big impact on how successfully you ultimately meet the real need of the user. Especially for your most important user needs it's important to make sure you have framed the need correctly – that is, described it using words that actually reflect what the user's trying to do and aren't just loosely describing the kind of content you think they might need.
+The way you describe each user need can have a big impact on how successfully you ultimately meet the real need of the user. Especially for your most important user needs it's important to make sure you have framed the need correctly -- that is, described it using words that actually reflect what the user's trying to do and aren't just loosely describing the kind of content you think they might need.
 
 For example, when thinking about tax codes, consider the solution you might design for this user need: 'as a user I want information about how tax codes are calculated'. Now consider the solution you might design for this user need: 'as a user I want to know if I'm on the right tax code'. 
 

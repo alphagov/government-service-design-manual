@@ -30,7 +30,7 @@ Producing regular iterations makes it easier for you to:
 * fix bugs
 * test expectations about your end product
 
-If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up - and stock is waste.
+If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up -- and stock is waste.
 
 The [Lean software development philosophy](http://en.wikipedia.org/wiki/Lean_software_development) tells us to:
 
@@ -43,7 +43,7 @@ Automating it early also means that code will be tested and any bugs fixed so th
 
 Don’t plan production release slots far in advance. You can’t be certain what will be ready in 6 months' time.
 
-Make your release planning simpler - make sure it’s flexible enough that any feature or update to your software can be deployed when it’s ready. Then, if a feature needs to miss a release slot, it can easily be rescheduled for tomorrow or next week, rather than in 6 months, or more if the next slot is already full.
+Make your release planning simpler -- make sure it’s flexible enough that any feature or update to your software can be deployed when it’s ready. Then, if a feature needs to miss a release slot, it can easily be rescheduled for tomorrow or next week, rather than in 6 months, or more if the next slot is already full.
 
 Another advantage is being able to quickly respond to security patches or similar changes in underlying  libraries or frameworks used by your application. You can quickly make a change and watch the update flow through the various gates in your deployment pipeline, confident that nothing has been broken.
 
@@ -86,4 +86,4 @@ Your code is ready to go live if it has passed:
 * the shared sandbox environment
 * any necessary specialist testing
 
-Deploy to production the same way as you deploy to any other environment – use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time – you’re performing a task that’s been validated at each stage throughout the deployment pipeline.
+Deploy to production the same way as you deploy to any other environment -- use the same scripts, same [configuration management](/service-manual/making-software/configuration-management.html) tooling, and the same version of the code.  This means you’re not releasing code for the first time -- you’re performing a task that’s been validated at each stage throughout the deployment pipeline.

@@ -35,7 +35,7 @@ Surveys provide a snapshot of opinion, and are a useful method for monitoring up
 
 ### Online web surveys
 
-Self-completion surveys used to obtain information from web users. Surveys are activated when a user interacts with a page – this can either be through arriving/leaving a page, or clicking on a link. Software is used to control the  proportion of users who are invited to take a specific survey. In order to increase completion rates, online surveys are normally no longer than 5 to 10 minutes in length (approximately 20 to 25 questions).
+Self-completion surveys used to obtain information from web users. Surveys are activated when a user interacts with a page -- this can either be through arriving/leaving a page, or clicking on a link. Software is used to control the  proportion of users who are invited to take a specific survey. In order to increase completion rates, online surveys are normally no longer than 5 to 10 minutes in length (approximately 20 to 25 questions).
 
 ### Email survey
 
@@ -45,7 +45,7 @@ Online or email surveys are normally the cheapest method as these can be conduct
 
 ### Face to face interviews
 
-Like telephone interviews, face to face interviews are structured and conducted by a trained moderator. Unlike other survey methods, respondents may be shown limited stimulus – eg an advert, a leaflet cover or a website design. Face to face interviews also enable researchers to target respondents more easily by demographic, geographic and socio-economic group.
+Like telephone interviews, face to face interviews are structured and conducted by a trained moderator. Unlike other survey methods, respondents may be shown limited stimulus -- eg an advert, a leaflet cover or a website design. Face to face interviews also enable researchers to target respondents more easily by demographic, geographic and socio-economic group.
 
 ### Telephone interviews
 
@@ -57,12 +57,12 @@ Although surveys can be a quick and cheap manner in which to conduct user resear
 
 * don’t allow much time or context for considered replies
 * leave room for questions to be misinterpreted
-* have a completion bias – one common criticism is that they are only completed by people who are either very satisfied or very dissatisfied
+* have a completion bias -- one common criticism is that they are only completed by people who are either very satisfied or very dissatisfied
 
 ## Participants
 
 All surveys, regardless of methodology, should use a robust sample that is nationally representative or representative of an audience of interest. Most nationally representative surveys are 1,000 people or more, but can be significantly larger if there are a number of distinct user groups that are being targeted.
 
-It is important that the delivery channel used considers the target audience. For example in the recent Digital Landscape research an online and face-to-face methodology was used as both online and offline audiences needed to be interviewed - an online only methodology would have excluded those who are offline, and the opinions of this audience omitted from the research.
+It is important that the delivery channel used considers the target audience. For example in the recent Digital Landscape research an online and face-to-face methodology was used as both online and offline audiences needed to be interviewed -- an online only methodology would have excluded those who are offline, and the opinions of this audience omitted from the research.
 
 It is also important to note that performing research with hard-to-reach groups can be more time consuming and costly (eg BME, people with disabilities).
