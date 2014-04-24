@@ -28,14 +28,14 @@ breadcrumbs:
 
 CAPTCHAs introduce significant problems to online services:
 
-* **Usability** - they put the burden of detecting bots on the user rather than the system. As CAPTCHAs are designed to be hard to read and understand, this makes the service much more difficult to use.
-* **Accessibility** - they are inaccessible by design. This effectively makes the service unusable by people with certain disabilities. Even CAPTCHAs that provide audio versions do not completely resolve this issue.
+* **Usability** -- they put the burden of detecting bots on the user rather than the system. As CAPTCHAs are designed to be hard to read and understand, this makes the service much more difficult to use.
+* **Accessibility** -- they are inaccessible by design. This effectively makes the service unusable by people with certain disabilities. Even CAPTCHAs that provide audio versions do not completely resolve this issue.
 
 Additionally, if a 3rd party CAPTCHA service is used, there are further problems to consider:
 
-* **Privacy** - 3rd party CAPTCHA services set cookies, collect analytics and can track users across multiple sites. This introduces significant privacy concerns.
-* **Performance** - use of a 3rd party CAPTCHA service ties your performance to theirs. If their service goes offline, so does access to your service.
-* **Security** - the security of your service is tied to that of the 3rd party. If they are compromised, your service and its users may also be.
+* **Privacy** -- 3rd party CAPTCHA services set cookies, collect analytics and can track users across multiple sites. This introduces significant privacy concerns
+* **Performance** -- use of a 3rd party CAPTCHA service ties your performance to theirs. If their service goes offline, so does access to your service
+* **Security** -- the security of your service is tied to that of the 3rd party. If they are compromised, your service and its users may also be
 
 ## Alternatives to CAPTCHA
 
