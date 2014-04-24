@@ -299,23 +299,3 @@ Examples of forms currently in use across GOV.UK are:
 * [Report a problem form](/vat) (click 'Is there anything wrong with this page?' at the bottom to view the form)
 * [Licence finder](/licence-finder/sectors)
 * [Trade Tariff](/trade-tariff/sections)
-
-<script>
-  $(function() {
-
-    // Style toggle for pattern examples
-    // Takes the text of the clicked 'option' and assigns it as
-    // a class to the element named in the 'data-for' attribute
-    $('.class-toggle .option').click(function(){
-      $('.class-toggle .option').removeClass('selected');
-      $(this).addClass('selected');
-      var selectedClass = $(this).text();
-      var selectedElement = "#" + $(this).parents('.class-toggle').data("for");
-      $(selectedElement).removeClass().addClass(selectedClass);
-      return false;
-    });
-
-
-
-  });
-</script>

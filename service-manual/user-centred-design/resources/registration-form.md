@@ -185,23 +185,3 @@ Click the label alignment options in the snippet below to see how they affect th
       </form>
     </div>
 </div>
-
-
-
-<script>
-  $(function() {
-
-    // Style toggle for pattern examples
-    // Takes the text of the clicked 'option' and assigns it as
-    // a class to the element named in the 'data-for' attribute
-    $('.class-toggle .option').click(function(){
-      $('.class-toggle .option').removeClass('selected');
-      $(this).addClass('selected');
-      var selectedClass = $(this).text();
-      var selectedElement = "#" + $(this).parents('.class-toggle').data("for");
-      $(selectedElement).removeClass().addClass(selectedClass);
-      return false;
-    });
-
-  });
-</script>
