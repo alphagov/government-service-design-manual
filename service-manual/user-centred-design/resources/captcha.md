@@ -22,7 +22,6 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-## What are they?
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) stands for Completely Automated Public Turing test to tell Computers and Humans Apart. They are used to prevent bots (automated software) from completing a form or accessing a system and usually take the form of jumbled up text for the user to decipher and enter before submitting a form.
 
 ## Why you shouldn't use them
