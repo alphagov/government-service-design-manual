@@ -23,7 +23,8 @@ breadcrumbs:
 ---
 
 This example form incorporates most of the basic user interface (UI) patterns for forms and lets you play with different label alignments.
-For a detailed breakdown of each element and how to code and style it, see our [forms design pattern page](forms.html).
+
+For a detailed breakdown of each element and how to code and style it, see our [forms design pattern page](/service-manual/user-centred-design/resources/forms).
 
 Click the label alignment options in the snippet below to see how they affect the layout.
 
@@ -201,8 +202,6 @@ Click the label alignment options in the snippet below to see how they affect th
       $(selectedElement).removeClass().addClass(selectedClass);
       return false;
     });
-
-
 
   });
 </script>
