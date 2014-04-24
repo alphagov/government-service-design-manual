@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Creating Accessible PDFs
+title: Creating accessible PDFs
 subtitle: How to make PDFs that everyone can use
 category: user-centred-design
 type: resource
@@ -20,8 +20,6 @@ breadcrumbs:
     title: User centred design
     url: /service-manual/user-centred-design
 ---
-
-# Overview
 
 The best way to create an accessible PDF is to create an accessible source document. Well structured Microsoft Word documents make good source documents for conversion to PDF. When a source document is converted into PDF it is tagged. The PDF tag tree reflects the structure of the document, and it’s this structure that assistive technologies like screen readers use to navigate the document.
 
@@ -45,7 +43,7 @@ If your document is longer than a few pages, use Word to automatically create a 
 
 Use left aligned text (unless the language of your document is read right to left). Don’t use justified text in your document.
 
-Choose a san serif font and use the styles in Word to set it as the default, with a minimum size of 12pt. If you need to include footnotes or other text of a smaller size, increase the size of the body text to 14pt, rather than reduce the size of text below 12pt.
+Choose a sans serif font and use the styles in Word to set it as the default, with a minimum size of 12pt. If you need to include footnotes or other text of a smaller size, increase the size of the body text to 14pt rather than reducing the size of any text below 12pt.
 
 Don’t use chunks of italicised or capitalised text, and don’t underline text unless it’s a link.
 
@@ -85,7 +83,7 @@ Use the Tags panel to review and edit the reading order of the PDF. Don’t rely
 
 ### Check the reflow order
 
-Use View > Zoom > reflow then check that the PDF still has a logical reading order. Note: It can sometimes be difficult to guarantee a logical reflow order for PDfs with complex content.
+Use View > Zoom > Reflow then check that the PDF still has a logical reading order. Note: It can sometimes be difficult to guarantee a logical reflow order for PDfs with complex content.
 
 ### Check text descriptions
 
@@ -109,7 +107,7 @@ Use the Tags panel to check that links are active. Active links should be tagged
 
 ### Check high contrast
 
-Use File > Preference > Accessibility to set a high contrast colour scheme, and check the PDF remains readable. Note: It may not be possible to make high contrast mode work in all PDFs, in which case you should be prepared to make a high contrast version available on request.
+Use File > Preference > Accessibility to set a high contrast colour scheme, and check the PDF remains readable. It may not be possible to make high contrast mode work in all PDFs, in which case you should be prepared to make a high contrast version available on request.
 
 ### Display document title
 
@@ -129,15 +127,16 @@ Ask a screen reader user to read through the PDF. If no-one is available to do t
 
 ### Use NVDA
 
-[Non Visual Desktop Access (NVDA)](http://www.nvda-project.org/) is a free open source screen reader for Windows. It can be installed to the desktop or run from a portable USB thumb drive.
+[Non Visual Desktop Access (NVDA)](http://www.nvaccess.org/) is a free open source screen reader for Windows. It can be installed to the desktop or run from a portable USB thumb drive.
 
 With NVDA running, open the PDF and use the following commands to check the PDF:
 
-* from the top of the PDF (with the Numlock off), use Numpad 0 + Numpad 2 to read the PDF from top to bottom and check the reading order;
-* use the tab key (repeatedly) to move through the PDF and check the tab order;
-* use the h key (repeatedly) to move through the PDF and check the heading structure;
-* use the g key (repeatedly) to move through the PDF and check for text descriptions.
-NB: These commands will also work with the Jaws screen reader from Freedom Scientific.
+* from the top of the PDF (with the Numlock off), use Numpad 0 + Numpad 2 to read the PDF from top to bottom and check the reading order
+* use the tab key (repeatedly) to move through the PDF and check the tab order
+* use the h key (repeatedly) to move through the PDF and check the heading structure
+* use the g key (repeatedly) to move through the PDF and check for text descriptions
+
+These commands will also work with the JAWS screen reader from Freedom Scientific.
 
 ### Use VoiceOver
 
@@ -145,9 +144,10 @@ VoiceOver is the integrated screen reader with Mac OS X and all iOS devices. In 
 
 With VoiceOver running open the PDF and use the following commands to check the PDF:
 
-* from the top of the PDF use a double finger down swipe, or Control + Option + a to read the PDF from top to bottom and check the reading order;
-* use the tab key (repeatedly) to move through the PDF and check the tab order.
-NB: VoiceOver does not provide shortcut keys for navigating by headings or graphics.
+* from the top of the PDF use a double finger down swipe, or Control + Option + A to read the PDF from top to bottom and check the reading order
+* use the tab key (repeatedly) to move through the PDF and check the tab order
+
+VoiceOver does not provide shortcut keys for navigating PDFs by headings or graphics.
 
 ## Acknowledgements
 
