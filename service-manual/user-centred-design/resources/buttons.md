@@ -38,7 +38,7 @@ Buttons can be made of links, inputs and button tags. CSS should be used to sepa
 
 ## Button colours
 
-Buttons should have a default colour (such as green). Alternative colours should be possible but only to indicate different actions.
+Buttons should have a default colour (like green). Alternative colours should be possible but only to indicate different actions.
 
 ### Example
 
@@ -83,7 +83,7 @@ As with the default browser style, buttons will need a disabled style to indicat
   </p>
 </div>
 
-* Secondary actions modify the current view
+* Secondary actions change the current view
 * They don't move users to the next step
 * There can be multiple secondary actions per page
 * They should be less prominent than the primary action
@@ -98,7 +98,7 @@ As with the default browser style, buttons will need a disabled style to indicat
 * Actions that have irreversible effects should look 'scary'
 * Keep them away from the other actions
 * Make the action reversible / 'undo'-able
-* If that isn't possible to implement, use an alert to check that the user really wants to do this
+* If that isn't possible to implement, ask the user for confirmation before continuing with the action
 
 ### Launch button
 <div class="pattern-example">
@@ -108,7 +108,7 @@ As with the default browser style, buttons will need a disabled style to indicat
   </p>
 </div>
 
-* Use to initiate a transaction
+* Use to start a transaction
 * Let users know if they'll be taken to a different website
 
 
@@ -129,7 +129,7 @@ A simple guide is to see if the text passes the ['Would you like to ... ? /  I w
 
 ### Common actions
 
-Many of these can be used in place of ‘Submit’, which is a technical term to be avoided.
+Many of these can be used in place of ‘Submit’, which is a technical term that you should avoid.
 
 'Start now'
 : Use at the beginning of the service
@@ -153,15 +153,12 @@ Many of these can be used in place of ‘Submit’, which is a technical term t
 : Not 'register'
 
 
-
 ### Compound actions
 
-Sometimes you want a single button to perform more than one action. For example, 'Save and quit'.
+Sometimes you want a single button to perform more than one action like 'Save and quit'.
 
 It's worth trying to avoid this situation but if you can't, use common sense. If one of the actions is obvious or not important to know, don't mention it.
 
-For example, if a button saves the current state and moves the user to the next screen, don't use 'Save and next', just use 'Next', because users will assume the former. When in doubt, test with real users.
+For example, if a button saves the current state and moves the user to the next screen, don't use 'Save and next', just use 'Next', because users will assume the former. When in doubt, [test with real users][user-research].
 
-
-
-
+[user-research]: /service-manual/user-centred-design/user-research

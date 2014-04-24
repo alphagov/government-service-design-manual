@@ -30,67 +30,51 @@ When building services around patterns and consistency, it's important
 to share your frontend assets so that they can be easily reused as
 required.
 
-There are two additional benefits to this approach:
+There are two more benefits to this approach:
 
-- Single serve assets are
-  [recommended by Yahoo! as a performance best practice](https://developer.yahoo.com/performance/rules.html#num_http)
+- [Yahoo recommends minimising HTTP requests](https://developer.yahoo.com/performance/rules.html#num_http)
+  to improve performance
 - All used libraries are kept at known versions, which guarantees
   compatibility and reduces the risk of security vulnerabilities
-  through external server compromise.
+  through external server compromise
 
 ## Where to find our code
 
-The templates on [GOV.UK](https://www.gov.uk) are constantly changing as we react to user
+The templates on GOV.UK are constantly changing as we react to user
 feedback and evolving best practice, so the best place to find them is
-on our open source frontend libraries - more explanation of these to
-follow:
+by looking at the code we publish:
 
-- [Static](https://github.com/alphagov/static)
-- [Frontend](https://github.com/alphagov/frontend)
+- [govuk_template](https://github.com/alphagov/govuk_template)
 - [govuk_frontend_toolkit](https://github.com/alphagov/govuk_frontend_toolkit)
 
-### Static
+### govuk_template
 
-The [static repository](https://github.com/alphagov/static) contains
-our
-[wrapper templates](https://github.com/alphagov/static/tree/master/app/views/root),
-our
-[basic CSS](https://github.com/alphagov/static/tree/master/app/assets/stylesheets),
-and our
-[basic Javascript](https://github.com/alphagov/static/tree/master/app/assets/javascripts). Anything
-added to this repository is built to be used across the entire GOV.UK
-website and is used to provide a consistent look and feel.
+The GOV.UK template is a project that provides the GOV.UK header and footer, as well as associated
+assets. It generates a variety of output formats and you can extend it with more depending on
+the language your service is written in.
 
-### Frontend
+GOV.UK's [static][] consumes the Ruby version of the template application, which in turn
+provides shared resources like footer links across the various frontend apps that run GOV.UK.
 
-The [frontend repository](https://github.com/alphagov/frontend)
-contains the wrapper templates and views for many of the various pages
-used across GOV.UK. It gives a good indication as to how to structure
-HTML and assets together.
+The Performance Platform's [Node.js application][spotlight] uses the `{{ mustache }}` version of the template.
+
+[static]: https://github.com/alphagov/static/blob/release_1994/Gemfile#L27-30
+[spotlight]: https://github.com/alphagov/spotlight
+
+You should be able to become a consumer of the template in exactly the same way these two projects
+are, by adding it to your application's dependencies.
 
 ### govuk_frontend_toolkit
 
-Please see
-[Sass repositories](/service-manual/user-centred-design/resources/sass-repositories.html) for
+The service manual article on
+[Sass repositories](/service-manual/user-centred-design/resources/sass-repositories) has
 more information on this repository.
 
+## Keeping shared assets up to date
 
-## Linking to shared assets
+GDS is continuously improving GOV.UK, which means that template and asset code changes regularly.
 
-The template code contains direct links to CSS and JavaScript assets hosted on
-the [GOV.UK](https://www.gov.uk) domain. We recommend that you leave these links as is whilst you
-develop your service (as opposed to linking to your own copies of these files).
-That way, you'll always be using the latest version of the assets and when they
-change you can identify and resolve any conflicts immediately.
-
-Once the service is ready for production we'll need to decide whether you should
-continue to link to the assets in this way or whether you should now use your
-own copies of them. Please contact GDS to discuss this at the appropriate time.
-
-## Keeping shared assets up-to-date
-
-[GOV.UK](https://www.gov.uk) is continuously being improved, which means that template and asset code
-changes regularly. All services on GOV.UK are expected to keep their templates
-and assets up-to-date. How you do this will depend on how you implement the
-templates and where your service is hosted. Please contact the GDS team to
-discuss options.
+All services on GOV.UK are expected to keep their templates and assets updated. How you do this will
+depend on how your frontend is implemented, but if you include the template and the toolkit as
+dependencies in your application it should be relatively easy to update as GDS publishes new
+versions. Please contact the GDS team for help or advice.

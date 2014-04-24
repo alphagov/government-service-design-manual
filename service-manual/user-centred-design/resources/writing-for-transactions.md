@@ -17,8 +17,6 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-## Writing microcopy
-
 Microcopy is the term given to the short words or phrases used during transactions,
 for things like buttons, form labels, help text, alerts and questions.
 
@@ -71,7 +69,7 @@ This refers to help that appear on a page when the user interacts with a link, b
 
 ### Pop-up help window
 
-This is the nuclear option and should only be considered as a last resort. Popups or lightboxes should ONLY be used for delivering help relating to the concepts or terminology involved in a service or transaction. If you're using one to explain how to USE a service then you need to go back and make the interface more intuitive.
+This is the nuclear option and should only be considered as a last resort. Popups or lightboxes should ONLY be used for delivering help relating to the concepts or terminology involved in a service or transaction. If you're using one to explain how to use a service then you need to go back and make the interface more intuitive.
 
 
 ## Transaction start pages
@@ -82,17 +80,17 @@ The design of the start page will be determined by the nature of the service and
 
 ### Describe the service
 
-The page should include the name of the service, expressed as an action if possible ('Renew your passport', Claim for disability allowance', 'Book a driving test' etc.). If you need to, include a very brief description of the service.
+The page should include the name of the service, expressed as an action if possible ('Renew your passport', Claim for disability allowance', 'Book a driving test' etc). If you need to, include a very brief description of the service.
 
 ### Set expectations
 
 People will tend to base their expectations of what a transaction involves on their experience of other digital transactions, for example, online shopping and banking.
 
-If your service has features that do not match these expectations then you should inform your users of this as early on as possible, ideally on the start screen.
+If your service has features that do not match these expectations then you should inform your users of this as early on as possible, ideally on the start page.
 
 Users should be told about any financial costs or long waiting periods involved. If they'll be asked to provide relatively obscure information let them know so they can get it ready.
 
-If there are specific eligibility requirements for the service let people know. If the eligibility requirements are complex you should consider using the Smart Answer format to help people understand whether or not they are eligible.
+If there are specific eligibility requirements for the service let people know. If the eligibility requirements are complex you should consider using the GOV.UK smart answer format to help people understand whether they're eligible.
 
 It's better to ask a few questions up front (and explain why you're doing this) than to let people invest time and effort in a transaction only to discover part way through that they're not eligible to use it.
 
@@ -109,5 +107,5 @@ These pages should let the user know:
 * about any related information and services
 
 ##Further reading
-[Information on designing forms that work on the formsthatwork.com site](http://www.formsthatwork.com/TheArtOfWritingVeryLittle)
+[Information on designing forms that work](http://www.formsthatwork.com/TheArtOfWritingVeryLittle) on the 'Forms that work' site
 

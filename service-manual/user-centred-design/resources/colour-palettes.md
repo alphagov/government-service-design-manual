@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-This is the standard [GOV.UK](https://www.gov.uk) colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in 'colours.scss' in the [GOV.UK Front-end Toolkit](/service-manual/user-centred-design/resources/sass-repositories.html).
+This is the standard GOV.UK colour palette. We recommend you use the Sass variables where possible in case the colour values are updated. The variables are defined in `_colours.scss` in the [GOV.UK Frontend Toolkit](/service-manual/user-centred-design/resources/sass-repositories).
 
 ## Semantic colour names
 

@@ -21,17 +21,17 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-Users will need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta), many will not recognise these terms, or know what they mean – therefore, users need to be made aware that a service is not yet 'officially' live, and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
+Users need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta). Many will not recognise these terms or know what they mean so it's up to you to make them aware that a service is not officially live and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
 
 ## Headers
 
-Your service must be clearly labelled Alpha or Beta using one of the [three design patterns](#design-patterns) described below. 
+Your service must be clearly labelled as alpha or beta using one of the three design patterns described below.
 
 ### Design patterns
 
 So far, we have identified three patterns that fit the situations we have encountered, we may update this list as the exemplar programme matures and we have strong evidence on how they perform.
 
-Each design pattern also has a banner below the title, which should briefly explain the stage of the project -  'alpha' or 'beta' - and that it is a trial service.
+Each design pattern also has a banner below the title, which should briefly explain the stage of the project -- 'alpha' or 'beta' -- and that it is a trial service.
 
 The text for the banners should be as follows:
 
@@ -71,33 +71,32 @@ If you service needs to show navigation, then this should sit below the service 
 
 ![Pattern 3: Title and navigation](/service-manual/assets/images/header-footer/header-pattern-3.png)
 
-In this case "Your Tax account" is not a transactional funnel, so it can also include links to feedback and information.
+In this case "Your tax account" is not a transactional funnel, so it can also include links to feedback and information.
 
 ### Search
 
 If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
 
-You should try to not complicate the interface by having multiple search boxes on a single page, however, you may need to use in-page filters. These should be clearly and accessibly labelled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
+You should try to not complicate the interface by having multiple search boxes on a single page, though you may need to use in-page filters. These should be clearly and accessibly labelled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
 
-### Soliciting end user feedback
+### Soliciting user feedback
 
-End user feedback can provide data that is invaluable for developing and improving the subsequent iterations of your service. You should solicit feedback by providing a link to your service's feedback mechanism from the 'alpha'/'beta' banner. The link could:
+Users can provide data that is invaluable for developing and improving your service. You should ask for feedback by providing a link to your service's feedback mechanism from the 'alpha'/'beta' banner. The link could:
 
-* open a blank email in the user's email client, using the [`mailto` URL scheme](http://www.ietf.org/rfc/rfc2368.txt)
+* open a blank email in the user's email client, using the [`mailto` URL scheme](https://www.ietf.org/rfc/rfc2368.txt)
 * toggle the appearance of an embedded web form
 * take the user to a dedicated feedback web form on another page within your service
 
 ### Using the GOV.UK logotype
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centred-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown device. The logotype must link back to [GOV.UK](https://www.gov.uk/).
+You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centred-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown. The logotype must link back to GOV.UK.
 
 ## Footers
 
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or leave feedback about your service (such as email addresses, phone numbers or contact forms).
+The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or provide feedback about your service (like email addresses, phone numbers or contact forms).
 
-The footer should also state the appropriate copyright and licence notices.
+The footer should also display the appropriate copyright and licence notices.
 
 ## Templates and styles
 
-If you need access to the templates and styles, please make a request via [the GOV.UK support form](/support/internal).
-
+If you need access to the templates and styles, please make a request using [the GOV.UK support form](/support/internal).

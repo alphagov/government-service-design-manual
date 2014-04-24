@@ -21,21 +21,19 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-## Writing the HTML for forms
-
-Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement.html).
+Like other components of web pages, forms should be created following the principles of [progressive enhancement](/service-manual/making-software/progressive-enhancement).
 
 Browsers have default styling for forms. This is usually shared with the styling of the operating system user interface (UI), making it familiar to users. Ensure that any styling you add does not remove any of the native, highly accessible functionality offered by these defaults.
 
-The [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML. This is more important than with other HTML elements as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
+The [HTML5 specification](http://www.w3.org/TR/html51/) should be consulted for guidance on creating the HTML. This is more important for forms than other parts of HTML as some types of user will depend on proper use of the language. For example it is important each form element has a label describing it otherwise screenreaders will not be able to identify it properly.
 
 ## User interface patterns
 
-In the forms created so far on [GOV.UK](https://www.gov.uk) certain patterns of display have emerged as solutions to common UI problems. What follows is a guide to those patterns.
+In the forms created so far on GOV.UK certain patterns have emerged as solutions to common UI problems. What follows is a guide to those patterns.
 
 ## Aligning controls in a column
 
-The base pattern for grouping controls is in a column with one row for each control and its label.
+The basic pattern for grouping controls is in a column with one row for each control and its label.
 
 <div class="pattern-example">
     <div class="form-example-1">
@@ -65,18 +63,18 @@ You might occasionally need to arrange your group of controls in a row, for inst
   </div>
 </div>
 
-## Pre-checked radios and checkboxes
+## Pre-checked radio buttons and checkboxes
 
-You may want to pre-check radios if:
+You may want to pre-check radio buttons if:
 
-* we already know the answer because it was given previously
-* there is a good business reason to steer users towards a particular answer, for instance 'Contact me by email' may be preferable to 'Contact me by phone' to help manage callcentre workload
+* you already know the answer because you were given it previously
+* there is a good business reason to steer users towards a particular answer, for instance 'Contact me by email' may be preferable to 'Contact me by phone' to help manage call centre workload
 * there is a strong ‘common case’ bias towards a particular answer
 
-Do not pre-check radios if:
+Do not pre-check radio buttons if:
 
-* selecting none is a valid option (to be avoided for radios only, as they can’t be unchecked)
-* we want an unbiased opinion without leading the user
+* selecting none is a valid option (you should avoid using radio buttons for this as they can't be unchecked)
+* you want an unbiased opinion without leading the user
 * there is a legal requirement for the user to make a choice
 
 ## Wrapping controls in a label tag
@@ -89,7 +87,7 @@ The default behaviour of clicking a label will move focus to its associated form
 
 There are valid cases for top, left or right alignment of labels. The position of an element's label does not effect how screenreaders announce it to users.
 
-The table below (from a [great article on form design](http://uxdesign.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/) in Smashing Magazine) outlines the relative advantages of each approach:
+The table below (from [a great article on form design in Smashing Magazine](http://www.smashingmagazine.com/2011/11/08/extensive-guide-web-form-usability/)) outlines the relative advantages of each approach:
 
 |-----------------------------------|--------------|-------------------|---------------|
 |                                   | Top          | Right             | Left          |
@@ -138,12 +136,12 @@ In the example below the second input box has a hidden label. It is associated w
 
 ## Styling text input fields
 
-When styling form elements we should try to achieve the same goals as the default styling through our own CSS.
+When styling form elements you should try to achieve the same goals as the default styling through our own CSS.
 
-A few examples of how to achieve this for input fields:
+You can achieve this for input fields by:
 
-* Light grey background: To make them stand out equally on a white page or coloured panel
-* Inset border style: By convention people type into 'holes' cut into the interface
+* using a light grey background to make them stand out equally on a white page or coloured panel
+* applying an inset border style as users are accustomed to typing into 'holes' cut in to the interface
 
 ## Fieldsets and legends
 
@@ -170,7 +168,7 @@ As explained in their [HTML5 specification section](http://www.w3.org/TR/html51/
 ### Nested fieldsets
 
 There are times when you might want to treat a set of form controls like they were a single, compound control
-(a date-of-birth selector for example). One way to do this is with a nested fieldset.
+(like a date of birth selector). One way to do this is with a nested fieldset.
 
 <div class="pattern-example">
 
@@ -260,7 +258,7 @@ By default buttons should be horizontally left-aligned beneath the form inputs (
     </div>
 </div>
 
-See the [separate page on buttons](/service-manual/user-centred-design/resources/buttons.html) for more detailed guidance.
+See the [separate page on buttons](/service-manual/user-centred-design/resources/buttons) for more detailed guidance.
 
 ## Validation messages
 
@@ -282,42 +280,22 @@ Summarise any validation errors at the top of your page like this:
     </div>
 </div>
 
-Each link should jump the user down to the corresponding form control.
+Each link should jump the user down to the corresponding form control, where the control should display a red validation message.
 
-The red bar visually connects the summary to the messages in the form and aids quick scanning of the form for errors.
+The red summary visually connects the summary to the error messages in the form and aids quick scanning of the form for errors.
 
 # Examples in this page
 
-To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centred-design/resources/registration-form.html). The CSS for those styles is derived from this [SASS file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
+To see all the examples above in a single form, check out the [registration form example](/service-manual/user-centred-design/resources/registration-form). The CSS for those styles is derived from [this Sass file](https://github.com/alphagov/government-service-design-manual/blob/master/service-manual/assets/stylesheets/design-patterns/_forms.scss).
 
-# Examples on [GOV.UK](https://www.gov.uk)
+# Examples on GOV.UK
 
-Examples of forms currently in use across [GOV.UK](https://www.gov.uk) are:
+Examples of forms currently in use across GOV.UK are:
 
-* [Contact page](https://www.gov.uk/contact/govuk)
-* [Freedom of information request form](https://www.gov.uk/contact/foi)
-* [Search results page](https://www.gov.uk/search?q=tax)
-* [404 page](https://www.gov.uk/notapage)
-* [Report a problem form](https://www.gov.uk/vat) (click the 'Report a problem' link to view)
-* [Licence finder](https://www.gov.uk/licence-finder/sectors)
-* [Trade Tariff](https://www.gov.uk/trade-tariff/sections)
-
-<script>
-  $(function() {
-
-    // Style toggle for pattern examples
-    // Takes the text of the clicked 'option' and assigns it as
-    // a class to the element named in the 'data-for' attribute
-    $('.class-toggle .option').click(function(){
-      $('.class-toggle .option').removeClass('selected');
-      $(this).addClass('selected');
-      var selectedClass = $(this).text();
-      var selectedElement = "#" + $(this).parents('.class-toggle').data("for");
-      $(selectedElement).removeClass().addClass(selectedClass);
-      return false;
-    });
-
-
-
-  });
-</script>
+* [Contact page](/contact/govuk)
+* [Freedom of information request form](/contact/foi)
+* [Search results page](/search?q=tax)
+* [404 page](/notapage)
+* [Report a problem form](/vat) (click 'Is there anything wrong with this page?' at the bottom to view the form)
+* [Licence finder](/licence-finder/sectors)
+* [Trade Tariff](/trade-tariff/sections)
