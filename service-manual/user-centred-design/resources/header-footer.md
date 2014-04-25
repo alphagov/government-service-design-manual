@@ -21,82 +21,100 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-Users need to know if your service is in [alpha](/service-manual/phases/alpha) or [beta](/service-manual/phases/beta). Many will not recognise these terms or know what they mean so it's up to you to make them aware that a service is not officially live and they should use it at their own risk. That means labelling the service clearly and explaining what it means for them.
+{:.intro}
+All pages on GOV.UK services should use the appropriate header, footer, branding and typeface. The version you use depends on what kind of service you’re making, and whether it’s live or not.
 
-## Headers
+---
 
-Your service must be clearly labelled as alpha or beta using one of the three design patterns described below.
+## 1. Get the templates
 
-### Design patterns
+The GOV.UK template code and assets are available for the Play or Rails frameworks, and for the Mustache, Liquid or Jinja templating languages. You can also generate the static files.
 
-So far, we have identified three patterns that fit the situations we have encountered, we may update this list as the exemplar programme matures and we have strong evidence on how they perform.
+[Get the latest version of the templates on GitHub](https://github.com/alphagov/govuk_template)
 
-Each design pattern also has a banner below the title, which should briefly explain the stage of the project -- 'alpha' or 'beta' -- and that it is a trial service.
+---
 
-The text for the banners should be as follows:
+## 2. Choose the right approach
 
-> **ALPHA**: This is a prototype
+The approach you take in using the templates will depend on which phase of delivery you're in.
 
-> **BETA**: This is a trial service
+### Alpha services
 
-Services that aren't a transaction funnel may optionally choose to link to a feedback survey and description of alpha or beta:
+During the [alpha](/service-manual/phases/alpha) phase of delivery the important thing is to make something and make it quickly, before testing it with real users. You can use the GOV.UK templates, but you don’t have to. 
 
-> **ALPHA**: This is a prototype -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/alpha)
+Follow the design principles and focus on the user journeys, but don’t worry about making everything pixel perfect.
 
-> **BETA**: This is a trial service -- your [feedback]() will help us to improve it. [Find out more](/service-manual/phases/beta)
+### Beta services
 
-Services should only add these links when it is acceptable for a user to be taken away from their existing flow.
+Once your service is in [beta](/service-manual/phases/beta) it should be using the GOV.UK templates.
 
-In all cases the GOV.UK logotype must link to `www.gov.uk`.
+If your alpha or beta service is publically available you should add an appropriate message below the header, so users understand that the functionality and content might not be complete, like this:
 
-### Pattern 1: No title
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/alpha-example.png" alt="An example of an alpha service header">
+</div>
 
-This is simply the GOV.UK header as is, without a title. This is relevant if your service is small and straightforward, taking place over only a few screens.
+The GOV.UK Frontend Toolkit contains [mixins for styling these messages](https://github.com/alphagov/govuk_frontend_toolkit#alphabeta). 
 
-You should also use this on the first page of your service if you are using the title of the service as the main heading the body.
 
-![Pattern 1: No title](/service-manual/assets/images/header-footer/header-pattern-1.png)
+### Live services
 
-### Pattern 2: Title
+Live services on GOV.UK must use the GOV.UK templates, including the header, footer, logotype and the New Transport typeface. A service is considered ‘on GOV.UK’ if it’s available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
 
-This is the pattern that will be used in most cases. Your service will not need any internal navigation, but will need a title to identify itself.
+If your service isn’t on GOV.UK you can still follow the guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. This blog post talks about a good example of [a site that follows our design patterns](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) without using the logo.
 
-The service title should link to the service start page unless there is a reason why this would not work.
 
-![Pattern 2: Title](/service-manual/assets/images/header-footer/header-pattern-2.png)
+---
 
-### Pattern 3: Title and navigation
+## 3. Use the right header and footer
 
-If you service needs to show navigation, then this should sit below the service title. The service title should link to the service start page.
+Content pages on GOV.UK use the standard header.
+The GOV.UK logotype must always link back to [GOV.UK](https://www.gov.uk/).
 
-![Pattern 3: Title and navigation](/service-manual/assets/images/header-footer/header-pattern-3.png)
+### Standard header
 
-In this case "Your tax account" is not a transactional funnel, so it can also include links to feedback and information.
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-0.png" alt="Standard header">
+</div>
 
-### Search
+Transaction pages use a variant of the standard header. The search box is removed to avoid people leaving a transaction before they've completed it.
 
-If your service requires a search function this should sit in the header. The search form should be clearly labelled, indicating that it is only searching your service and not the entire GOV.UK domain.
+There are different versions of the transaction header.
+Choose the one that most closely meets the needs of your users.
 
-You should try to not complicate the interface by having multiple search boxes on a single page, though you may need to use in-page filters. These should be clearly and accessibly labelled and given appropriate ARIA attributes. They should also be visually differentiated from the main search box.
 
-### Soliciting user feedback
+### Transaction header 1
 
-Users can provide data that is invaluable for developing and improving your service. You should ask for feedback by providing a link to your service's feedback mechanism from the 'alpha'/'beta' banner. The link could:
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
+</div>
 
-* open a blank email in the user's email client, using the [`mailto` URL scheme](https://www.ietf.org/rfc/rfc2368.txt)
-* toggle the appearance of an embedded web form
-* take the user to a dedicated feedback web form on another page within your service
+Use this if your service is short, taking place over only a few screens.
+You should also use this on the first page of your service if you are using the service title as the page heading.
 
-### Using the GOV.UK logotype
 
-You can only use the GOV.UK logotype if your service is [currently available on GOV.UK](/service-manual/user-centred-design/service-look-and-feel). If the service is on a temporary domain then you must use an alternative header that does not show the GOV.UK logotype or crown. The logotype must link back to GOV.UK.
 
-## Footers
+### Transaction header 2
 
-The footer of your service should follow the design patterns used by the GOV.UK footer. It should include links to secondary information for your service that would allow users to contact you directly or provide feedback about your service (like email addresses, phone numbers or contact forms).
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-2.png" alt="Header option 2">
+</div>
 
-The footer should also display the appropriate copyright and licence notices.
+Use this if you need to remind your users of which service they are using.
+The service title should link to the service start page (unless doing this harms the user experience).
 
-## Templates and styles
 
-If you need access to the templates and styles, please make a request using [the GOV.UK support form](/support/internal).
+
+### Transaction header 3
+
+<div class="example">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-3.png" alt="Header option 3">
+</div>
+
+Use this if your service needs links for account management and so-on. 
+
+
+### Footers
+
+If you're creating content pages for GOV.UK, use the standard GOV.UK footer, as used on the home page.
+For transactional services, use the standard footer but remove all links other than the crown copyright and OGL licence notices.
