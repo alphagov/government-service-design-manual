@@ -85,5 +85,3 @@ Here's an example from the 'Renew a tax disc' service:
   <img src="/service-manual/assets/images/header-footer/tax-disc-footer.png" alt="An example footer from the Renew a tax disc service">
   </a>
 </div>
-
-
