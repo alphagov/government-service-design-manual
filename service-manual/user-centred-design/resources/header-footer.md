@@ -26,6 +26,8 @@ All pages on GOV.UK services should use the header, footer, branding and typefac
 
 ---
 
+## 1. Check whether your service is going to be on GOV.UK
+
 A service is ‘on GOV.UK’ if it’s available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
 
 If your service isn’t on GOV.UK you can still follow this guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. 
@@ -34,7 +36,7 @@ If your service isn’t on GOV.UK you can still follow this guidance, but your s
 
 ---
 
-## 1. Get the templates
+## 2. Get the templates
 
 The GOV.UK template code and assets are available for the Play or Rails frameworks, and for the Mustache, Liquid or Jinja templating languages. You can also generate the static files.
 
@@ -42,21 +44,19 @@ The GOV.UK template code and assets are available for the Play or Rails framewor
 
 ---
 
-## 2. Choose the right approach
-
-The approach you take in using the templates will depend on which phase of delivery you're in.
+## 3. Choose the right approach
 
 During the [alpha](/service-manual/phases/alpha) phase of delivery the important thing is to make something and make it quickly, before testing it with real users. You can use the GOV.UK templates, but you don’t have to. 
 
 Follow the design principles and focus on the user journeys, but don’t worry about making everything pixel perfect.
 
-Once your service is in [beta](/service-manual/phases/beta) it should be using the GOV.UK templates, including the header, footer, logotype and the New Transport typeface.
+Once your service is in [beta](/service-manual/phases/beta) it must be using the GOV.UK templates, including the header, footer, logotype and the New Transport typeface.
 
 ---
 
-## 3. Label public alphas and betas
+## 4. Label public alphas and betas
 
-If your alpha or beta service is publicly available you should add an appropriate banner below the header,  explaining that the functionality and content might not be complete, like this:
+If your alpha or beta service is publicly available you should add an appropriate banner below the header, explaining that the functionality and content might not be complete, like this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/alpha-example.png" alt="An example of an alpha service header">
@@ -67,7 +67,7 @@ If your alpha or beta service is publicly available you should add an appropriat
 
 ---
 
-## 4. Use the right header and footer
+## 5. Use the right header and footer
 
 Content pages on GOV.UK use the standard header.
 The GOV.UK logotype must always link back to [GOV.UK](https://www.gov.uk/).
