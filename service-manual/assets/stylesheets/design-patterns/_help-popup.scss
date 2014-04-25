@@ -1,0 +1,101 @@
+// ==========================================
+// HELP SYSTEM STYLES
+
+#popup.help-system{
+  @include popup(80%);
+  // Header
+  .header{
+    border-color: $light-blue-25;
+    padding-left: 4em;
+    background: url(https://assets.digital.cabinet-office.gov.uk/static/icon-information-f78d8c1b10b141b5a9a8c7a40220c4a4.png) no-repeat scroll 1.8em 0.8em white;
+  }
+  // Actions
+  .action.group{
+    border-color: $light-blue-25;
+  }
+  // Content area
+  .content{
+    float: left;
+    width: 75%;
+    padding-right: 3em;
+    border-right: 2px solid $light-blue-25;
+    box-sizing: border-box; 
+    h1{
+      @include heading-48;
+      margin-top: 0.5em;
+    }
+    h3 {
+      @include bold-19;
+      margin: 2em 0 1em;
+    }
+    ul{
+      margin-left: 2em;
+    }
+    section{
+      padding-left: 1em;
+    }
+  }
+  // Navigation
+  nav{
+    float: left;
+    margin: 0.5em 0 0 -2px;
+    border-left: 2px solid $light-blue-25;
+    width: 25%;
+    h2{
+    margin: 0.75em 0 1em 0.5em;
+    padding: 0.25em 1em;
+    @include core-19;
+    }
+    ul{
+      margin: 0;
+      margin-top: 0.5em;
+      padding-bottom: 1em;
+      list-style-image: none;
+    }
+    li{
+      margin: 0 0 0 -2px;
+      padding: 0.25em 0.5em 0.25em 1.3em;
+      list-style-type: none;
+      border-left: 2px solid transparent;
+      &.active{
+        border-left: 2px solid $light-blue;
+        background: $highlight-colour;
+        a{
+          color: $text-colour;
+          text-decoration: none;
+        }
+      }
+    }
+    a{
+      @include core-16;
+      text-decoration: none;
+      &:hover{
+        text-decoration: underline;
+      }
+    }
+    .current{
+      background: #e8f0f0;
+      position: relative;
+      &:before {
+        width: 0;
+        height: 0;
+        content: " ";
+        border: 1.25em solid transparent;
+        border-right-color: #e8f0f0;
+        position: absolute;
+        left: -2.5em;
+        top: 0;
+      }
+      a{
+        color: #333;
+      }
+    }
+  }
+}
+
+article {
+  dt{
+    font-weight: bold;
+  }
+}
+
