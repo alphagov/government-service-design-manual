@@ -24,10 +24,15 @@ breadcrumbs:
 {:.intro}
 All pages on GOV.UK services should use the header, footer, branding and typeface specified in the templates. The version you use depends on what kind of service you’re making, and whether it’s live or not.
 
-A service is considered ‘on GOV.UK’ if it’s available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
+---
 
-If your service isn’t on GOV.UK you can still follow this guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. This blog post talks about a good example of [a site that follows our design patterns](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) without using the logo.
+A service is ‘on GOV.UK’ if it’s available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
 
+If your service isn’t on GOV.UK you can still follow this guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. 
+
+[This blog post](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) talks about a good example of a site that follows our guidance without using GOV.UK identity.
+
+---
 
 ## 1. Get the templates
 
@@ -51,7 +56,7 @@ Once your service is in [beta](/service-manual/phases/beta) it should be using t
 
 ## 3. Label public alphas and betas
 
-If your alpha or beta service is publically available you should add an appropriate banner below the header,  explaining that the functionality and content might not be complete, like this:
+If your alpha or beta service is publicly available you should add an appropriate banner below the header,  explaining that the functionality and content might not be complete, like this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/alpha-example.png" alt="An example of an alpha service header">

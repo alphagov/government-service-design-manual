@@ -1,0 +1,71 @@
+// ====================================================
+// DESIGN PATTERN PAGES
+//
+
+/* Intro panel on landing page */
+.pattern-library{
+  @include panel($green-25, 50%, right);
+}
+
+.pattern-example{
+  border-top: 1px solid $border-colour;
+  border-bottom: 1px solid $border-colour;
+  margin: 1em 0 2em 0;
+}
+
+.contents li ol{
+  display: none;
+}
+
+
+
+/* Styles for inline and block code examples */
+pre,
+code{
+  color: black;
+  background-color: $highlight-colour;
+  border: 1px solid $border-colour;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  //border-radius: 3px;
+}
+pre code{
+  border: 0 solid;
+  padding: 0;
+}
+code{
+  padding: 0.3em 0.5em;
+}
+
+pre:first-child { margin-top: 0; }
+
+/* Update text.scss with these */
+hr{
+  border: 0;
+  background-color: $border-colour;
+  height: 1px;
+  margin: 2em 0;
+}
+article dd{
+  font-size: 1.16em;
+}
+
+/* Mixin argument toggle styles */
+.class-toggle .option{
+  color: $link-colour;
+  text-decoration: underline;
+}
+.class-toggle .option:hover{
+  cursor: pointer;
+  color: $link-hover-colour;
+}
+.class-toggle .selected{
+  text-decoration: none;
+  color: $text-colour;
+  &:hover{
+    cursor: default;
+    text-decoration: none;
+  }
+}
