@@ -1,13 +1,6 @@
 // ==========================================
 // HELP SYSTEM STYLES
 
-// Examples
-.example {
-background: none repeat scroll 0 0 #E7EBDA;
-margin: 0.75em -1em;
-padding: 0.5em 1em;
-}
-
 #popup.help-system{
   @include popup(80%);
   // Header
