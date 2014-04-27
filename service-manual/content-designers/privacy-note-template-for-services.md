@@ -25,7 +25,7 @@ Departments should base their customer-facing, plain English privacy notice on t
 ##Your personal information
 This page explains what kind of personal information [department name] holds about you, how it’s protected, and how you can find out about it. 
 
-You can also read the [full privacy notice](link). 
+You can also read the [full privacy notice](#link-to-privacy-notice).
 
 ##What information [department name] holds about you
 
