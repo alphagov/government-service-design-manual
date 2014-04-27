@@ -56,7 +56,7 @@ An obvious example would be physical security (where is the equipment housed
 and how secure is it?) but a more interesting example is often the interplay
 between an online system and a call centre.
 
-From using information available from a call centre it’s possible to exploit the software system in some way. For instance, getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility, which relies on the email address being trusted, to access the account. It can and [does happen](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard-here).
+From using information available from a call centre it’s possible to exploit the software system in some way. For instance, getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility, which relies on the email address being trusted, to access the account. It can and [does happen](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard).
 
 ## Automate where possible
 

@@ -20,7 +20,7 @@ Digital take-up is one of the four key performance indicators your service will 
 
 ##Background
 
-[Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) found in 2012 that 82% of the population are online and over 60% of people have used online banking. Yet the take-up of most government digital services was well below those figures.
+[Digital Landscape Research](/government/publications/digital-landscape-research) found in 2012 that 82% of the population are online and over 60% of people have used online banking, yet the take-up of most government digital services was well below those figures.
 
 10 steps have proven to be successful in ‘shifting’ people away from non-digital channels, eg over-the-counter services and telephone helplines, to using digital services. These steps will help you identify and fix some of the barriers to take-up of your digital service, including: usability, legal barriers, security fears, lack of trust and awareness of your service among users.
 
@@ -59,7 +59,7 @@ While this [case study from Chelmsford City Council](/service-manual/assets/docu
 * making sure that all delivery partners are aware of how your service meets users’ needs and actively promote this to the users they work with
 * addressing any myths about barriers to using your digital service and making users and partners aware when real barriers have been removed
 * using both digital and non-digital channels
-* ensuring that all your communication with users encourages action eg, create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/60686/Cabinet-Office-Controls-guidance-v3-1-section-5_0.pdf) (PDF, 127KB))
+* ensuring that all your communication with users encourages action eg create a memorable URL that goes straight to the service, not just to a home page (this may be subject to [advertising, marketing and communications spend controls](/government/publications/cabinet-office-controls))
 * incorporating the URL for your service into all your written correspondence eg letters, email footers, hard and soft copy, out-of-hours phone messages; put phone numbers and physical addresses in less prominent places in any communications
 * getting information on your digital service into partner publications / websites that your target users might go to for other reasons
 * checking if the guidance for using your service is set out in jargon-free language that your users find comprehensible -- be sure to user-test it
@@ -124,9 +124,8 @@ This [case study](/service-manual/assets/documents/landregistry-case-study-7.pdf
 
 ###10. Set your channel shift targets by:
 
-* getting sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift -- the [Digital Landscape report](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) sets out useful information on Internet usage levels by demographic
-* considering [projected savings from digital service provision](http://publications.cabinetoffice.gov.uk/digital/efficiency/#what-are-the-savings-from-digitising-transactional-services) and using these as a guide for setting your targets; it’s likely that you’ll have to prioritise increasing digital take-up for some of your digital services over others (both existing and new or recently redesigned) to maximise savings.
-
+* getting sufficient demographic information about your user base, so you can set ambitious and achievable targets for channel shift -- the [Digital Landscape Research](/government/publications/digital-landscape-research) sets out useful information on internet usage levels by demographic
+* considering [projected savings from digital service provision](/government/publications/digital-efficiency-report/digital-efficiency-report#savings-from-digitising-transactional-services) and using these as a guide for setting your targets; it’s likely that you’ll have to prioritise increasing digital take-up for some of your digital services over others (both existing and new or recently redesigned) to maximise savings
 
 ##What not to do
 
@@ -139,5 +138,5 @@ Your digital take-up will not be as successful if you:
 * enter into outsourcing contracts which discourage providers from promoting channel shift (eg paying per call handled)
 
 ##Why you should do this
-You need those who can use digital services to do so as soon as possible. It will cut costs and improve [assisted digital](/service-manual/assisted-digital) support. The [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy/#persuading-those-who-are-online-to-use-government-digital-services) requires departments to review their channel shift plans every year.
+You need those who can use digital services to do so as soon as possible. It will cut costs and improve [assisted digital](/service-manual/assisted-digital) support. The [Government Digital Strategy](/government/publications/government-digital-strategy) requires departments to review their channel shift plans every year.
 

@@ -20,7 +20,7 @@ Blogs are a simple, effective way of keeping a record of the work a team is doin
 
 Updates can be as short as you like, allowing you to tell readers about subtle changes to a service’s design or new features added to a tool, while also offering you a platform for longer pieces of writing that describe significant changes to policy or approach.
 
-The [Inside GOV.UK blog](https://insidegovuk.blog.gov.uk/) and the [MOJ Digital Services blog](http://blogs.justice.gov.uk/digital/) are great examples of how teams are already talking about their work in the open.
+The [Inside GOV.UK blog](https://insidegovuk.blog.gov.uk/) and the [MOJ Digital blog](https://mojdigital.blog.gov.uk/) are great examples of how teams are already talking about their work in the open.
 
 ##Publish, don’t send
 

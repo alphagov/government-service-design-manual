@@ -79,4 +79,4 @@ Our audience is potentially anyone living in the UK. We need to be able to commu
 Government can’t afford to be elitist and use language only specialists can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.
 
 ## Further reading
-Nielsen: For more detail on why [20 to 28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
+Nielsen: For more detail on why [20 to 28% of text is read](http://www.nngroup.com/articles/how-little-do-users-read/).

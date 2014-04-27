@@ -58,7 +58,7 @@ The Open Data Principles that you must follow are:
 6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions.
 7. Public data underlying the Government’s own websites will be published in reusable form.
 8. Public data will be timely and fine-grained.
-9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data).
+9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats), including [linked data forms](http://data.gov.uk/blog/what-is-linked-data).
 10. Public data will be freely available to use in any lawful way.
 11. Public data will be available without application or registration, and without requiring details of the user.
 12. Public bodies should actively encourage the reuse of their public data.

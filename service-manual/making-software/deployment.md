@@ -363,7 +363,7 @@ test failure and cancel the deployment or roll back to the previous
 version.
 
 An ideal solution would not even add the new version of the
-application to the production [load balancer](http://www.wikipedia.org/wiki/Load_balancer) until it has been smoke
+application to the production [load balancer](https://en.wikipedia.org/wiki/Load_balancer) until it has been smoke
 tested and verified good. If the application fails the smoke test, it
 is simply discarded; no rollback is necessary, and no interruption in
 service happens. This works particularly well with the immutable
@@ -386,10 +386,10 @@ deployment pipeline was not streamlined enough to accommodate a rapid
 deployment of a fix to production.
 
 [CFEngine]: http://cfengine.com/
-[Chef]: http://www.opscode.com/chef/
+[Chef]: http://www.getchef.com/chef/
 [Puppet]: https://puppetlabs.com/
 [immutable server]: http://martinfowler.com/bliki/ImmutableServer.html
-[lxc]: http://lxc.sourceforge.net/
+[lxc]: https://linuxcontainers.org/
 [fabric]: http://docs.fabfile.org/en/1.6/
 [capistrano]: https://github.com/capistrano/capistrano
 [Hiera]: http://projects.puppetlabs.com/projects/hiera

@@ -43,7 +43,7 @@ The total number of transactions will be made up of all non-digital transactions
 
 ## The level of digital take-up to aim for
 
-The publication '[Digital Landscape research](http://publications.cabinetoffice.gov.uk/digital/research/)' found that 82% of adults in the UK are online, so it's sensible to aim for something in that region. However, about [a third](http://publications.cabinetoffice.gov.uk/digital/research/#fig-2) of those online have never accessed government information or services online, so this will involve a significant channel shift for most services.
+The [Digital Landscape Research](/government/publications/digital-landscape-research) found that 82% of adults in the UK are online, so it's sensible to aim for something in that region. However, about a third of those online have never accessed government information or services online, so this will involve a significant channel shift for most services.
 
 ## Services for users who are more or less than 82% online
 
@@ -53,7 +53,7 @@ Who's online, and how often, varies by:
 * gender
 * socio-economic status
 
-Use the 'Digital landscape research' as a guide. It has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) of who's online and offline.
+Use the [Digital Landscape Research](/government/publications/digital-landscape-research) as a guide. It has a useful breakdown of who's online and offline.
 
 ## Achieving your digital take-up targets
 

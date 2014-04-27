@@ -183,7 +183,7 @@ The stacked column gave a level of detail which wasn't needed. This has been rat
 >“We want transparency to become an absolutely core part of every bit of government business.”
 >- Francis Maude
 
-Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf) white paper agenda. Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing.
+Being open and transparent supports the [Open Data White Paper](/government/uploads/system/uploads/attachment_data/file/78946/CM8353_acc.pdf). Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing.
 
 When presenting data be aware of axes and scales. Data can be misrepresented by only showing a selection if it isn't clear why an extract has been chosen. Consider where the visualisation might be published. For example, if published alongside other visualisations, the reader is likely to assume the scales are consistent. This might change how your data is perceived.
 
@@ -213,7 +213,7 @@ More information about the [Performance Platform](/service-manual/measurement/pe
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Designing with Data*](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](http://designingwithdata.co.uk/) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 

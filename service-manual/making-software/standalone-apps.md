@@ -59,7 +59,7 @@ Responsive web design is a design approach that optimises users' viewing experie
 
 Responsive websites are built using open web standards (HTML, CSS, javascript, etc) and they run inside a device's web browser.
 
-Examples include [GOV.UK](https://www.gov.uk), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
+Examples include [GOV.UK](https://www.gov.uk/), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://www.bbc.co.uk/sport/0/).
 
 #### Pros
 - it is your website, so costs are minimised and service iteration simplified

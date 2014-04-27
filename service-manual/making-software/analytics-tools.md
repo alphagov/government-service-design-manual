@@ -96,5 +96,5 @@ For transactions, it’s important to understand funnels:
 
 * [Conversion Funnels](http://wiki.clicktale.com/Article/Conversion_Funnels)
 * [What is a Conversion Funnel?](http://www.webics.com.au/blog/conversion-tracking/conversion-funnel/)
-* Blog article by Morgan Brown with a [good discussion on user flows and conversion funnels](http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
+* [Blog post by Morgan Brown with a good discussion on user flows and conversion funnels](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
 

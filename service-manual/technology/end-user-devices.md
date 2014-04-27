@@ -36,7 +36,7 @@ The Government Protective Marking Scheme Review and resulting Security Classific
 
 ##Start with user needs
 
-The [Government and Departmental Digital Strategies](http://publications.cabinetoffice.gov.uk/digital/) establish user needs as central to digital services and tools. This requires a step change in agility to meet changing user needs, together with an excellent user experience.
+The [government and departmental digital strategies](/government/collections/government-digital-strategy-reports-and-research) establish user needs as central to digital services and tools. This requires a step change in agility to meet changing user needs, together with an excellent user experience.
 
 We need to get 4 basic things right:
 
@@ -50,4 +50,4 @@ We need to get 4 basic things right:
 The [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy) will help departments and suppliers understand what kinds of design decisions they should now be making.
 
 There’s specific guidance on the standards that need to be met to ensure that digital services don’t become heavily dependent on particular products or suppliers, and
-[new security guidance](https://www.gov.uk/government/organisations/cesg/series/end-user-devices-security-guidance--2) has been developed by CESG -- originally Communications-Electronics Security Group -- (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.
+[new security guidance](/government/collections/end-user-devices-security-guidance) has been developed by CESG (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.

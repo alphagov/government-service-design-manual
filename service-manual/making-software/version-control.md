@@ -39,4 +39,4 @@ It also provides extra resilience: if the network is unavailable the developers 
 
 ## Not just code
 
-It's a good idea to also use version control for other aspects of your work, not just code. We use the same version control tools to manage this document as we do our code, and the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/) was also produced that way.
+It's a good idea to also use version control for other aspects of your work, not just code. We use the same version control tools to manage this document as we do our code, and the [Government Digital Strategy](/government/publications/government-digital-strategy) was also produced that way.

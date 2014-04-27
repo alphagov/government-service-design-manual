@@ -27,7 +27,7 @@ Expert reviews -- also known as heuristic evaluations -- are low cost usability 
 
 ## How expert reviews work
 
-Ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager. A list of widely accepted (although not necessarily validated) heuristics are provided by [Jakob Nielsen](http://www.useit.com) or an alternative set can be found in the [International Standard ISO 9241](http://en.wikipedia.org/wiki/ISO_9241).
+Ideally two usability experts will conduct the review independently, and then meet to discuss and agree the findings before making recommendations to the service manager. A list of widely accepted (although not necessarily validated) heuristics are provided by [Jakob Nielsen](http://www.nngroup.com/) or an alternative set can be found in the [International Standard ISO 9241](http://en.wikipedia.org/wiki/ISO_9241).
 
 ### Cognitive walkthrough
 

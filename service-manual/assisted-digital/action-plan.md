@@ -56,7 +56,7 @@ offers to understand how many users currently opt for offline channels.
 Information about the digital take-up of some services is available on the
 [Transactions Explorer](https://www.gov.uk/performance/transactions-explorer).
 
-It would also be useful to understand the demographic makeup of your users to gain more insight as to those who may require assisted digital support. You could use this in conjunction with the [Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) which provides a cross-population view of who's online and who's offline.
+It would also be useful to understand the demographic makeup of your users to gain more insight as to those who may require assisted digital support. You could use this in conjunction with the [Digital Landscape Research](/government/publications/digital-landscape-research) which provides a cross-population view of who's online and who's offline.
 
 Once you have an idea as to who your assisted digital users are, you can start
 early work to focus on what these users may need. Look at how existing support
@@ -128,7 +128,7 @@ People you should involve at this stage are:
 
 At this point, [exemplar departments](https://www.gov.uk/transformation) have found it useful to formalise thinking on assisted digital by creating an assisted digital strategy or plan. Any such plan should be able to answer, in reasonable detail, the questions above which allow a digital service to pass [the standard](/service-manual/digital-by-default/index.html).
 
-As per the ['Government Approach to Assisted Digital'](http://publications.cabinetoffice.gov.uk/digital/assisted/), support should be sourced from the private and voluntary sector as the default. GDS, departments and the Government Procurement Service have begun market engagement to set up a shared procurement route for commissioning assisted digital services.
+As per the ['Government Approach to Assisted Digital'](/government/publications/government-approach-to-assisted-digital), support should be sourced from the private and voluntary sector by default. GDS, departments and the Government Procurement Service have begun market engagement to set up a shared procurement route for commissioning assisted digital services.
 
 However, if you'd like to provide assisted digital support in-house, you need to let us know at this stage and make sure that you can provide a strong, value for money case.
 

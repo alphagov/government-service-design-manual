@@ -31,5 +31,5 @@ We interviewed Craig Sullivan, an industry expert on conversion optimisation. He
 
 ## Further reading
 
-* This [article in Wired](http://www.wired.com/business/2012/04/ff_abtesting/all/1) shows how A/B experiments were used to good effect in Obama’s election campaign.
+* This [article in Wired](http://www.wired.com/2012/04/ff_abtesting/all/1) shows how A/B experiments were used to good effect in Obama’s election campaign.
 * This [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing) shows how multivariate experiments were used to improve conversion rates at Lovefilm.

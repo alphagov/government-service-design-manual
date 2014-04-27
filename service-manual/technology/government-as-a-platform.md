@@ -59,5 +59,5 @@ This is the approach that government will follow, ensuring that it develops a we
 
 Further reading:
 
-* [Tim O’Reilly’s “Government as a Platform”](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
+* [Tim O’Reilly’s “Government as a Platform”](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html)
 * [Agile Architecture](http://www.agilemodeling.com/essays/agileArchitecture.htm)

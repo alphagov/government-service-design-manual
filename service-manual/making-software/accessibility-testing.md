@@ -33,7 +33,7 @@ The [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/introduction
 
 We have a duty to [make adjustments for disabled persons](http://www.legislation.gov.uk/ukpga/2010/15/part/2/chapter/2/crossheading/adjustments-for-disabled-persons) so that we do not exclude them from the services we provide and must make every reasonable attempt to ensure access.
 
-The RNIB has a [useful guide to the UK law](http://www.rnib.org.uk/professionals/webaccessibility/lawsandstandards/Pages/uk_law.aspx) and how it affects the accessibility of your site or service.
+The Royal National Institute of Blind People (RNIB) has a [useful guide to the UK law](http://rnib.org.uk/services-we-offer-advice-professionals/equality-act-compliance) and how it affects the accessibility of your site or service.
 
 ## Carrying out accessibility testing
 
@@ -66,7 +66,7 @@ Disabled participants should be included as part of a wider user testing recruit
 
 ## Cost
 
-This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies, eg [RNIB](http://www.rnib.org.uk/Pages/Home.aspx), etc.
+This is a harder to reach audience so the cost of doing so can be relatively expensive. Recruitment is best conducted through specialist organisations or agencies like the [RNIB](http://www.rnib.org.uk/).
 
 Additional costs can be incurred if these participants are travelling to your testing location and/or require specialist assistance with carers or travel.
 

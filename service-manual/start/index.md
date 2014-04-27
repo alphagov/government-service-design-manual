@@ -22,7 +22,7 @@ The service manual is here to help service managers and digital delivery teams a
 
 ## Putting users first
 
-Building good services means meeting the needs of users. [82% of the UK population is online](http://publications.cabinetoffice.gov.uk/digital/research/#uk-digital-landscape). They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
+Building good services means meeting the needs of users. [82% of the UK population is online](/government/publications/digital-landscape-research). They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
 
 Government needs to learn from teams who are building successful, world class services. It needs to place users at the heart of service design, incorporating their feedback at every step of the way.
 

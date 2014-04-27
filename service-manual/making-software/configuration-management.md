@@ -29,7 +29,7 @@ In order to build robust, scalable and portable systems this configuration data 
 
 Configuration management tools help with documenting and maintaining the configuration and dependencies of a software system. Although this could be done using hand-made software, it's common to use existing tools.
 
-Three examples of existing open source configuration management tools are [CFEngine](http://cfengine.com/), [Chef](http://www.opscode.com/chef/) and [Puppet](https://puppetlabs.com/).
+Three examples of existing open source configuration management tools are [CFEngine](http://cfengine.com/), [Chef](http://www.getchef.com/chef/) and [Puppet](https://puppetlabs.com/).
 
 ### Infrastructure as code
 
@@ -61,6 +61,3 @@ Even if this could be done to provide everything correctly configured on day 0, 
 ## Further reading
 
 * [Infrastructure as Code](https://speakerdeck.com/garethr/infrastructure-as-code)
-* [CFEngine](http://cfengine.com/)
-* [Chef](http://www.opscode.com/chef/)
-* [Puppet](http://puppetlabs.com/solutions/configuration-management/)
