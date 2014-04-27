@@ -99,7 +99,7 @@ Get [an introduction to user research](/service-manual/user-centred-design/intro
 
 [Templates](#templates-and-examples) (based on the Lasting Power of Attorney application) created by teams across government will help you make easy-to-complete forms, but lots of the 'heavy-lifting' will be in making specialist terms and language accessible to the majority of users.
 
-Where specialist terms are unavoidable, or necessary, you'll need people who understand [how users read](/service-manual/user-centred-design/how-users-read.html) and how best to [write for government services](/service-manual/user-centred-design/writing-government-services.html) when working on the design.
+Where specialist terms are unavoidable, or necessary, you'll need people who understand [how users read](/service-manual/user-centred-design/how-users-read) and how best to [write for government services](/service-manual/content-designers/transactions-style-guide) when working on the design.
 
 Skilled content designers and copywriters will make forms -- whether online or in print -- simpler and clearer, improving the [completion rate](/service-manual/measurement/completion-rate.html) and [user satisfaction](/service-manual/measurement/user-satisfaction.html) in the process.
 
