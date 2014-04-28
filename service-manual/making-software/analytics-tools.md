@@ -65,18 +65,18 @@ The privacy and security of data is of the utmost importance. Make sure your ana
 
 There are a range of digital/web analytics vendors in the market-place, together with open source solutions.
 
-A search for [Analytics Tools Comparison](http://www.bing.com/search?q=Analytics+Tools+Comparison&FORM=QSRE4) provides a number of useful resources where you can compare the capabilities and strengths of different services. (See some examples in [Further reading](#further-reading) below).
+A [search for 'analytics tools comparison'](https://www.bing.com/search?q=analytics+tools+comparison) provides a number of useful resources where you can compare the capabilities and strengths of different services. There are some examples in [Further reading](#further-reading) below.
 
 ## Configuring analytics tools
 
 Install and configure analytics tools that meet your needs. Where possible, use platforms that enable the data to be piped automatically into other systems.
-Using [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
+Using [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) (Application Programming Interfaces) will stop you having to input data manually and allows for aggregation across multiple platforms.
 You will need to answer the following:
 
 * have you installed web analytics software?
-* have you configured your web analytics software with the appropriate [conversion funnels](http://en.wikipedia.org/wiki/Conversion_funnel)?
+* have you configured your web analytics software with the appropriate [conversion funnels](https://en.wikipedia.org/wiki/Conversion_funnel)?
 * do you have the capability to run user satisfaction surveys?
-* do you have the capability to do [A/B testing](http://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing](http://en.wikipedia.org/wiki/Multivariate_testing)?
+* do you have the capability to do [A/B testing](https://en.wikipedia.org/wiki/Ab_testing) and [multivariate testing](https://en.wikipedia.org/wiki/Multivariate_testing)?
 
 ## Further reading
 
@@ -96,5 +96,5 @@ For transactions, it’s important to understand funnels:
 
 * [Conversion Funnels](http://wiki.clicktale.com/Article/Conversion_Funnels)
 * [What is a Conversion Funnel?](http://www.webics.com.au/blog/conversion-tracking/conversion-funnel/)
-* Blog article by Morgan Brown with a [good discussion on user flows and conversion funnels](http://uxdesign.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
+* [Blog post by Morgan Brown with a good discussion on user flows and conversion funnels](http://www.smashingmagazine.com/2012/01/04/stop-designing-pages-start-designing-flows/)
 

@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-The government is implementing a [platform-based](/government/publications/case-study-on-action-11-build-government-as-a-platform) operating model. [Google](http://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](https://blog.twitter.com/2010/tech-behind-new-twittercom) and [Facebook](https://www.facebook.com/Engineering), among many others, have all built their success on the back of platforms. They have developed a core technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original provider could have done on their own.
+The government is implementing a [platform-based](/government/publications/case-study-on-action-11-build-government-as-a-platform) operating model. [Google](https://research.google.com/pubs/SoftwareSystems.html), [Amazon](http://www.infoq.com/presentations/vogels-amazon-platform), [Twitter](https://blog.twitter.com/2010/tech-behind-new-twittercom) and [Facebook](https://www.facebook.com/Engineering), among many others, have all built their success on the back of platforms. They have developed a core technology infrastructure that others have then built upon, driving the success of the platform and meeting far more users’ needs than the original provider could have done on their own.
 
 ## Government as a platform
 
@@ -59,5 +59,5 @@ This is the approach that government will follow, ensuring that it develops a we
 
 Further reading:
 
-* [Tim O’Reilly’s “Government as a Platform”](http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html)
+* [Tim O’Reilly’s “Government as a Platform”](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html)
 * [Agile Architecture](http://www.agilemodeling.com/essays/agileArchitecture.htm)

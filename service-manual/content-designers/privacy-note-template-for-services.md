@@ -25,7 +25,7 @@ Departments should base their customer-facing, plain English privacy notice on t
 ##Your personal information
 This page explains what kind of personal information [department name] holds about you, how it’s protected, and how you can find out about it. 
 
-You can also read the [full privacy notice](link). 
+You can also read the [full privacy notice](#link-to-privacy-notice).
 
 ##What information [department name] holds about you
 
@@ -97,7 +97,7 @@ If you’re unhappy with the way [department name] handled your personal informa
 
 You’ll get a confirmation that [department name] has received your complaint within 5 days and a full answer within 20 days. [Department name] will tell you if there's going to be a delay. 
 
-If you’re unhappy with the answer or need any advice, contact the [Information Commissioner’s Office (ICO)](http://www.ico.org.uk/complaints/getting).
+If you’re unhappy with the answer or need any advice, contact the [Information Commissioner’s Office (ICO)](http://ico.org.uk/concerns/getting).
 
 The ICO can investigate your complaint and take action against anyone who has misused personal data.
 

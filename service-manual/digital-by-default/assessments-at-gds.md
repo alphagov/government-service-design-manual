@@ -36,6 +36,6 @@ You should give a brief overview of the service including a live demonstration. 
 
 ## Outcomes from an assessment
 
-You should expect to receive a result from an assessment within 3 working days. This will be an email to you and the responsible department’s digital leader. There are two possible outcomes from an assessment: pass and [not passed](/service-manual/failure-to-meet-the-standard.html). You will have an opportunity to fact check the report before it is published on the [GDS Data Blog](https://gdsdata.blog.gov.uk/category/service-assessments/), usually within 5 working days.
+You should expect to receive a result from an assessment within 3 working days. This will be an email to you and the responsible department’s digital leader. There are two possible outcomes from an assessment: pass and [not passed](/service-manual/digital-by-default/failure-to-meet-the-standard). You will have an opportunity to fact check the report before it is published on the [GDS Data Blog](https://gdsdata.blog.gov.uk/category/service-assessments/), usually within 5 working days.
 
 When a service passes a beta assessment, you will be able to launch the service publicly with beta branding [on GOV.UK](/service-manual/domain-names/setting-up.html). When the service passes a live assessment, beta branding may be removed from the service. Any warnings on the GOV.UK start page will be removed.

@@ -58,7 +58,7 @@ The Open Data Principles that you must follow are:
 6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions.
 7. Public data underlying the Government’s own websites will be published in reusable form.
 8. Public data will be timely and fine-grained.
-9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats.html), including [linked data forms](http://www.data.gov.uk/blog/what-is-linked-data).
+9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats), including [linked data forms](http://data.gov.uk/blog/what-is-linked-data).
 10. Public data will be freely available to use in any lawful way.
 11. Public data will be available without application or registration, and without requiring details of the user.
 12. Public bodies should actively encourage the reuse of their public data.
@@ -86,7 +86,7 @@ If you are using new technology to handle personal data or reusing the data in a
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
 
-This Code includes the [licensing framework](http://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. For UK government open data, this will be the [Open Government Licence](http://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
+This code includes the [licensing framework](https://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. For UK government open data, this will be the [Open Government Licence](https://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
 
 ## Why we do this
 

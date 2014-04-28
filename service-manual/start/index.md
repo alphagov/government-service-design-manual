@@ -22,7 +22,7 @@ The service manual is here to help service managers and digital delivery teams a
 
 ## Putting users first
 
-Building good services means meeting the needs of users. [82% of the UK population is online](http://publications.cabinetoffice.gov.uk/digital/research/#uk-digital-landscape). They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
+Building good services means meeting the needs of users. [82% of the UK population is online](/government/publications/digital-landscape-research). They have high expectations for what makes a good digital service, whether it's from a bank, a travel agent, a retailer or a broadcaster, and when services don't meet those standards they let the people responsible know.
 
 Government needs to learn from teams who are building successful, world class services. It needs to place users at the heart of service design, incorporating their feedback at every step of the way.
 
@@ -50,13 +50,13 @@ And the [Digital by Default Service Standard](/service-manual/digital-by-default
 
 Another good way of finding out what's going on in the government around digital is through the [SPRINT initiative](https://gds.blog.gov.uk/sprint-14/), organised by the [Cabinet Office](/government/organisations/cabinet-office).
 
-At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [current landscape of digital within government](http://www.youtube.com/watch?v=pa07ltj4K4w). Watch that video below.
+At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [current landscape of digital within government](https://www.youtube.com/watch?v=pa07ltj4K4w). Watch that video below.
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=pa07ltj4K4w">Watch Francis Maude at SPRINT13</a>
 </figure>
 
-SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK government, in which he paints a picture of [what service redesign could mean for users](http://www.youtube.com/watch?v=X1A8cg__LpM).
+SPRINT 13 also saw a talk by Stephen Kelly, Chief Operating Officer UK government, in which he paints a picture of [what service redesign could mean for users](https://www.youtube.com/watch?v=X1A8cg__LpM).
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=X1A8cg__LpM">Watch Stephen Kelly at SPRINT13</a>

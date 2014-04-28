@@ -84,7 +84,7 @@ they're going to employ to mitigate those risks.
 > managing the risks associated with the system under development, while
 > **accreditation** refers to a subset of the assurance work, involving a formal
 > and independently verified process similar to
-> [ISO27001](http://en.wikipedia.org/wiki/ISO/IEC_27001).
+> [ISO27001](https://en.wikipedia.org/wiki/ISO/IEC_27001).
 
 The important thing to note about building trustworthy and secure systems is
 that it's a team game. Assurance and accreditation should not be a completely
@@ -144,7 +144,7 @@ above, and measure:
 * for integrity: the potential impact if the accuracy or completeness of the information is compromised
 * for availability: the potential impact if the information becomes inaccessible
 
-More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
+More details about identifying these numbers can be found in this [extract from HMG IA Standard No. 1](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf).
 
 ## Agile Design
 
@@ -203,8 +203,8 @@ The aim is a system where the risks are known and the team, working with risk pr
 
 * [Security Engineering — Ross
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html): a comprehensive textbook covering the theory and practice of building secure systems
-* [HMG IA Standard No. 1 -- Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems
-* [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables
+* [HMG IA Standard No. 1 -- Technical Risk Assessment](https://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems
+* [Business Impact Level Tables](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance

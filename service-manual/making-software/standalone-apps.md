@@ -31,7 +31,7 @@ Ensuring your service meets the [Digital by Default Service Standard](/service-m
 
 ## Brief background on apps landscape
 
-'Apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or [HTML5](http://en.wikipedia.org/wiki/Html5)) or even various hybrids of the two.
+'Apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or [HTML5](https://en.wikipedia.org/wiki/Html5)) or even various hybrids of the two.
 
 ### Native apps
 
@@ -59,7 +59,7 @@ Responsive web design is a design approach that optimises users' viewing experie
 
 Responsive websites are built using open web standards (HTML, CSS, javascript, etc) and they run inside a device's web browser.
 
-Examples include [GOV.UK](https://www.gov.uk), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://m.bbc.co.uk/sport).
+Examples include [GOV.UK](https://www.gov.uk/), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://www.bbc.co.uk/sport/0/).
 
 #### Pros
 - it is your website, so costs are minimised and service iteration simplified

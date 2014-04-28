@@ -26,7 +26,7 @@ The [style guide](https://www.gov.uk/design-principles/style-guide) is set in be
 ## Reading
 Users only really read 20 to 28% of a web page. Where users just want to complete a service as quickly as possible, there's added user impatience so you may find users skim words even more.
 
-[The style guide](https://www.gov.uk/design-principles/style-guide) and [how we write](/service-manual/user-centred-design/writing-government-services.html) give guidance on how to write. This page details why we do it.
+[The content style guide](https://www.gov.uk/design-principles/style-guide) and [transactions style guide](/service-manual/content-designers/transactions-style-guide) give guidance on how to write. This page details why we do it.
 
 All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.
 
@@ -79,4 +79,4 @@ Our audience is potentially anyone living in the UK. We need to be able to commu
 Government can’t afford to be elitist and use language only specialists can understand. We need to open up our information and services to everyone. That means using common words and working with natural reading behaviour.
 
 ## Further reading
-Nielsen: For more detail on why [20 to 28% of text is read](http://www.useit.com/alertbox/percent-text-read.html).
+Nielsen: For more detail on why [20 to 28% of text is read](http://www.nngroup.com/articles/how-little-do-users-read/).

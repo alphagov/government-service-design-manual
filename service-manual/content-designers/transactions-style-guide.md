@@ -27,7 +27,7 @@ Using the government standards for style, logic and content design will help you
 
 Building services from the user’s perspective and then developing services based on [users’ needs](/service-manual/user-centred-design/user-needs.html) is essential to your project’s success.
 
-This guide is itself in the [alpha phase](/service-manual/phases/alpha). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+This guide is itself in the [alpha phase](/service-manual/phases/alpha). The guide’s continued success depends on service managers telling us what works with their users. Please share your ideas and research insights on the [mailing list for service designers](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 
 ##GOV.UK style
@@ -112,7 +112,7 @@ At the start of the service make clear which organisation the user is dealing wi
 
 If the circumstances are ambiguous or there is more than one party involved, use the name of your organisation throughout, eg ‘HMRC will get back to you in 7 working days’. 
 
-Test with users if they understand who ‘we’ is. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+Test with users if they understand who ‘we’ is. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ##Writing questions 
 
@@ -139,7 +139,7 @@ What’s your partner’s income?
 
 [help text] Your household income is your and your partner’s income. To calculate it correctly we have to ask about your partner’s finances. 
 
-User research will show you which questions users have an issue with. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+User research will show you which questions users have an issue with. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ###Number of questions 
 Keep the number of questions to a minimum. Remember, users are most likely reluctant to use your service in the first place. Each question adds to their frustration and opens the door for mistakes to be entered. 
@@ -215,7 +215,7 @@ Things that don’t work very well:
 * when it’s not clear what’s the eligibility checker and what’s the actual application 
 * eligibility checkers asking the same questions that will be asked in the service later on as users find this very frustrating
 
-If you’re trying out other ideas, email them to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+If you’re trying out other ideas, email them to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ##Headings 
 All headings must be sentence case, eg ‘Your tax account’ not ‘Your Tax Account’. However, where a proper noun appears in the heading this is upper case, eg ‘Your National Insurance contributions’. Check the section on capitalisation in the [GOV.UK style guide](/design-principles/style-guide/style-points#style-capitalisation).
@@ -258,7 +258,7 @@ You can use this format if your service is used by many users outside the UK:
 - family name
 - any other names (eg maiden name)
 
-If your research shows that users don’t understand this labelling, eg users whose first language isn’t English, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+If your research shows that users don’t understand this labelling, eg users whose first language isn’t English, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ###Titles
 You don’t have to use titles in your service.
@@ -297,12 +297,12 @@ Country (where appropriate)<br/>
 Telephone:<br/>
 Email:<br/>
 
-If you find in research that users don’t understand this labelling, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+If you find in research that users don’t understand this labelling, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ###Nationality
 This is an alphabetical country drop down. You can have ‘United Kingdom’ as the first option. 
 
-If you test other ideas, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk)
+If you test other ideas, email insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk)
 
 ###Date of birth
 This is a drop down with the following labelling:
@@ -311,7 +311,7 @@ This is a drop down with the following labelling:
 * month
 * [free number text] 
 
-You can test other formats, eg one free text box with help about the date format. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto: digital-service-designers@digital.cabinet-office.gov.uk).
+You can test other formats, eg one free text box with help about the date format. Email your insights to [digital-service-designers@digital.cabinet-office.gov.uk](mailto:digital-service-designers@digital.cabinet-office.gov.uk).
 
 ###Bank details
 Use the following labelling and single free text boxes for user input:
@@ -355,7 +355,7 @@ When asking for past or future dates make sure validation starts from today’s 
 Periods of time when used in questions or help text should follow the format in this example: 
 8 July to 9 August.
 
-Send any other labels you’re using to [hinrich.von-haaren@digital.cabinet-office.gov.uk](mailto: hinrich.von-haaren@digital.cabinet-office.gov.uk).
+Send any other labels you’re using to [hinrich.von-haaren@digital.cabinet-office.gov.uk](mailto:hinrich.von-haaren@digital.cabinet-office.gov.uk).
 
 
 ###Progress bars

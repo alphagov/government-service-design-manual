@@ -23,7 +23,7 @@ The department or agency that owns the service must make sure it meets and maint
 
 ## Assessments for larger services
 
-For services that process (or are likely to process) over 100,000 transactions a year, you will demonstrate the service and answer questions from a [GDS panel](/service-manual/assessments-at-gds.html). Services should be assessed at least three times before going live:
+For services that process (or are likely to process) over 100,000 transactions a year, you will demonstrate the service and answer questions from a [GDS panel](/service-manual/digital-by-default/assessments-at-gds). Services should be assessed at least three times before going live:
 
 * during alpha development
 * during beta development (which grants access to the GOV.UK domain)
@@ -33,7 +33,7 @@ You must show that the service and team have met the standard. The panel will ap
 
 ## Assessments for smaller services
 
-For services that process (or are likely to process) fewer than 100,000 transactions a year, the you must [arrange an assessment](/service-manual/self-assessments-and-certification.html) through the department’s digital leader. A GDS-trained assessor will lead the assessment.
+For services that process (or are likely to process) fewer than 100,000 transactions a year, the you must [arrange an assessment](/service-manual/digital-by-default/self-certification) through the department’s digital leader. A GDS-trained assessor will lead the assessment.
 
 An assessor or panel from the department will review the service with you and report back to the responsible digital leader who will certify the service.
 
@@ -57,9 +57,9 @@ To do this, and support agile design, progress against the standard will be moni
 
 Departments currently need [Cabinet Office approval for digital spending](/government/publications/cabinet-office-controls). To simplify this, a dedicated account manager will work with each department to help prioritise their projects.
 
-When a department makes a submission to their account manager for spending approval on services within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html), GDS will assess whether the work completed so far meets the standard. 
+When a department makes a submission to their account manager for spending approval on services within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard), GDS will assess whether the work completed so far meets the standard.
 
-If the service redesign or build is at an early stage, GDS will make meeting the standard a condition of approval. 
+If the service redesign or build is at an early stage, GDS will make meeting the standard a condition of approval.
 
 If the service redesign or build is at an advanced stage, GDS will make recommendations for additional spending to meet the standard. GDS will state when the team should return for further approval.
 

@@ -18,7 +18,7 @@ breadcrumbs:
 
   <img src="/service-manual/assets/images/DbD-kitemark.png" />
 
-  <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
+  <p>The <a href="/government/publications/government-digital-strategy">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
 
   <p>Services will be <a href="/service-manual/digital-by-default/awarding-the-standard">assessed against the standard</a> and must continue to <a href="/service-manual/digital-by-default/maintaining-the-standard">meet the standard after launch</a>. Digital teams must show that they understand that their <a href="/service-manual/digital-by-default/scope-of-the-standard">service needs to meet the standard</a> and should understand <a href="/service-manual/digital-by-default/failure-to-meet-the-standard">what happens to failing services</a>.</p>
 

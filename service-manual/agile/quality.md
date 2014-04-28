@@ -59,7 +59,7 @@ Your team should be able to see any problems in the quality of your system. Ever
 
 You won’t know how great your product is or if it meets your criteria without testing it -- in both normal and unusual conditions.
 
-Dylan Robert's book ["Learning From First Responders"](http://oreil.ly/163ybtz) is worth reviewing as an example of testing software and teams under unusual stresses (in this case, the final stages of a Presidential campaign).
+Dylan Robert's book ["Learning From First Responders"](http://www.oreilly.com/velocity/free/learning-from-first-responders.csp) is worth reviewing as an example of testing software and teams under unusual stresses (in this case, the final stages of the 2012 presidential campaign).
 
 This manual gives further information on testing:
 

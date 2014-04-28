@@ -16,7 +16,9 @@ exclude:
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
+  - Makefile
   - README.md
+  - tools
 
 maruku:
   use_tex:    false

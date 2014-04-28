@@ -44,14 +44,14 @@ We work hard to make our sites and services as accessible and usable as we can f
 
 Your service should be usable by recent versions of these screen readers:
 
-* [Jaws](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvda-project.org/) 
-* [VoiceOver](http://www.apple.com/accessibility/voiceover/)
-* [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5) 
+* [JAWS](http://www.freedomscientific.com/products/fs/jaws-product-page.asp), [NVDA](http://www.nvaccess.org/)
+* [VoiceOver for OS X](https://www.apple.com/accessibility/osx/voiceover/)
+* [Window Eyes](http://www.gwmicro.com/Window-Eyes/) and [Supernova](http://www.yourdolphin.co.uk/productdetail.asp?id=5)
 
 Your service should also be usable by basic operating system screen magnifiers like:
 
 * [ZoomText](http://www.aisquared.com/zoomtext/)
-* [MAGic](http://www.freedomscientific.com/products/lv/magic-bl-product-page.asp) 
+* [MAGic](http://www.freedomscientific.com/products/low-vision/MAGic-screen-magnification-software.asp)
 
 Your service should be usable by speech recognition software including [Dragon Naturally Speaking](http://www.nuance.com/dragon/index.htm), and native operating system speech packages.
 

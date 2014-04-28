@@ -20,13 +20,13 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-When creating web pages, the only part of it that you can rely upon working is the HTML (and even that can fail, but without it there is no web page and everything else becomes moot). The attitude towards building for the web with this in mind is called [progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement). 
+When creating web pages, the only part of it that you can rely upon working is the HTML (and even that can fail, but without it there is no web page and everything else becomes moot). The attitude towards building for the web with this in mind is called [progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement).
 
 This means in essence that each extra layer (images, styling, behaviour, video, audio) of the page should be seen as optional. If you build pages with the idea that parts other than HTML are optional, you will create a better and stronger web page.
 
 ## First, just make it work
 
-Any new page or feature should first be made to work with HTML only. No images, no CSS, no JavaScript, nothing but HTML. Interactive elements are only those capable of being implemented with [forms](http://en.wikipedia.org/wiki/Form_(HTML)) and server-side processing.
+Any new page or feature should first be made to work with HTML only. No images, no CSS, no JavaScript, nothing but HTML. Interactive elements are only those capable of being implemented with [forms](https://en.wikipedia.org/wiki/Form_(HTML)) and server-side processing.
 
 This gives a baseline experience which will work in practically every browser, allowing your site to work for as many people and devices as possible, including older, legacy browsers and devices.
 
@@ -60,7 +60,7 @@ Making an interactive element that requires a mouse (eg a hover effect, a drag a
 
 ## Further reading
 
-* [Progressive enhancement](http://en.wikipedia.org/wiki/Progressive_enhancement) on Wikipedia
+* [Progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement) on Wikipedia
 * [Understanding progressive enhancement](http://alistapart.com/article/understandingprogressiveenhancement) on A List Apart
 * [For a Future-Friendly Web](http://alistapart.com/article/for-a-future-friendly-web) on A List Apart
 * [Cutting the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) on the BBC News responsive design blog

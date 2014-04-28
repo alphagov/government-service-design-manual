@@ -33,15 +33,15 @@ under any circumstances.
 
 ### Strict Transport Security
 
-Strict Transport Security or [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is an extension
+Strict Transport Security or [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) is an extension
 to the HTTPS protocol that tells web browsers that they should make extra efforts to verify the security of a
 connection: they should assume for a specified period that all connections with this server should be via HTTPS
 and shouldn't accept mixed content (where some content on a page is served via HTTPS and some via HTTP). This
 provides an extra level of assurance about the integrity of the connection.
 
 Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable
-[HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.`
-and `assets.`), by setting HTTP an HTTP response header such as
+[HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.`
+and `assets.`), by setting an HTTP response header such as
 
     Strict-Transport-Security: max-age=1209600, includeSubDomains;
 

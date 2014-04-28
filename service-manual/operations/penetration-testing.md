@@ -56,7 +56,7 @@ An obvious example would be physical security (where is the equipment housed
 and how secure is it?) but a more interesting example is often the interplay
 between an online system and a call centre.
 
-From using information available from a call centre it’s possible to exploit the software system in some way. For instance, getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility, which relies on the email address being trusted, to access the account. It can and [does happen](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard-here).
+From using information available from a call centre it’s possible to exploit the software system in some way. For instance, getting a call-centre team to change an email address on record for someone else, and then using a forgotten password facility, which relies on the email address being trusted, to access the account. It can and [does happen](http://www.emptyage.com/post/28679875595/yes-i-was-hacked-hard).
 
 ## Automate where possible
 
@@ -64,8 +64,8 @@ Some exploratory manual testing is always a good idea when looking for vulnerabi
 
 This may take the form of tests written or tools used specifically to test the security of a feature, eg:
 
-* [static analysis](http://en.wikipedia.org/wiki/Static_program_analysis)
-* [input fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing)
+* [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+* [input fuzz testing](https://en.wikipedia.org/wiki/Fuzz_testing)
 
 ## Why GDS do this
 

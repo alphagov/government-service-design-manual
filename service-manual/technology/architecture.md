@@ -24,14 +24,14 @@ These elements include:
 * an information model covering both public and private data, as well as wider information management requirements like business intelligence
 * technology, the modelling of core capabilities, their structure and relationships
 * implementation, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects
-* throughout the project lifecycle you will need to make sure stakeholders stay aligned on what is needed (you'll need to resolve issues when stakeholder requirements conflict with business growth (like reduced cost), system design (like [network latency](http://www.wikipedia.org/wiki/Latency_(engineering)) and operational issues (like security, privacy and auditing))
+* throughout the project lifecycle you will need to make sure stakeholders stay aligned on what is needed (you'll need to resolve issues when stakeholder requirements conflict with business growth (like reduced cost), system design (like [network latency](https://en.wikipedia.org/wiki/Latency_%28engineering%29) and operational issues (like security, privacy and auditing))
 
 The term “architecture” includes both the logical design as well as its physical implementation. Logical architecture based on [user-centric service design](/service-manual/start#a-new-way-of-doing-things) and clear [user needs](/service-manual/user-centred-design/user-needs.html) should always precede physical architecture. At a minimum you need to understand [what capabilities are required](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) before starting to narrow down on product choices.
 
 The [technology code of practice](/service-manual/technology/code-of-practice.html) provides guidance on the consistent use of technology across government.
 
 ##Our reference model
-Our reference model draws on modern [platform-based architectures](/service-manual/technology/government-as-a-platform.html). We should use the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments like [Estonia](http://e-estonia.com/components/x-road).
+Our reference model draws on modern [platform-based architectures](/service-manual/technology/government-as-a-platform). We should use the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments like [Estonia](http://e-estonia.com/component/x-road/).
 
 <img src="/service-manual/assets/images/architecture-reference-model.png" alt="Diagram showing government architecture reference model" />
 
