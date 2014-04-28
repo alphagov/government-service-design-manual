@@ -32,7 +32,7 @@ Producing regular iterations makes it easier for you to:
 
 If your software isn’t ready to be used then it’s not creating any real value. Treat it as stock piling up -- and stock is waste.
 
-The [Lean software development philosophy](http://en.wikipedia.org/wiki/Lean_software_development) tells us to:
+The [Lean software development philosophy](https://en.wikipedia.org/wiki/Lean_software_development) tells us to:
 
 > Test all iterations of your software, either through public user testing or automated testing (using separate software to perform the testing).
 
@@ -64,7 +64,7 @@ The deployment pipeline has 4 stages:
 * production environment
 
 ###The commit stage
-When your developer checks into [version control](/service-manual/making-software/version-control.html) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile.html) should be run against the latest version of the code. Any quick, easy-to-identify defects, like [compile errors](http://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing), will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
+When your developer checks into [version control](/service-manual/making-software/version-control) (where all code, including previous versions, are stored), [a range of tests](/service-manual/making-software/testing-in-agile) should be run against the latest version of the code. Any quick, easy-to-identify defects, like [compile errors](https://en.wikipedia.org/wiki/Compilation_error) or [unit test failures](https://en.wikipedia.org/wiki/Unit_testing) will be found at this stage. If the tests pass, the code progresses to the next stage and should be considered for release into production.
 
 ###Shared sandbox environment
 Send the code to a shared [sandbox](/service-manual/making-software/sandbox-and-staging-servers.html) (testing) environment. This is the first environment where the application is deployed and run. It's also the first stage where it can be visually inspected for [quality](/service-manual/agile/quality.html) by anybody on the team.

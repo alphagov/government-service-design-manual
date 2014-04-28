@@ -81,7 +81,7 @@ refer to passphrases as a phrase is usually easier to remember but harder to
 guess than a short collection of symbols or a single word.
 
 > For some admin systems on GOV.UK we use the
-  [zxcvbn](https://github.com/lowe/zxcvbn)
+  [zxcvbn](https://github.com/dropbox/zxcvbn)
   library that measures how hard it would be for a computer to crack a
   passphrase using brute-force methods. That library is used to validate
   new passphrases and insist on strong passphrases. It's only one measure,
@@ -105,6 +105,6 @@ those applications.
 
 ## Also see
 
-* [Wikipedia on Password policies](http://en.wikipedia.org/wiki/Password_policy#Password_length_and_formation)
+* [Wikipedia on password policies](https://en.wikipedia.org/wiki/Password_policy#Password_length_and_formation)
 * [CESG Good Practice Guide 44: authentication credentials in support of HMG online services](/government/collections/identity-assurance-enabling-trusted-transactions)
 * [xkcd cartoon explaining password vs. passphrase](https://xkcd.com/936/)

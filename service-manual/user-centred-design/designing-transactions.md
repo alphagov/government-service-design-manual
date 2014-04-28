@@ -24,7 +24,7 @@ breadcrumbs:
 
 A transaction is an exchange between 2 or more parties.
 
-[Government transactions](http://transactionsexplorer.cabinetoffice.gov.uk/) typically involve an exchange of information, money, rights, goods or some combination of these. Usually 1 party will be a citizen or business and the other will be the government.
+[Government transactions](/performance/transactions-explorer) typically involve an exchange of information, money, rights, goods or some combination of these. Usually 1 party will be a citizen or business and the other will be the government.
 
 For example, when someone applies for a passport they exchange information and money for the right to travel.
 

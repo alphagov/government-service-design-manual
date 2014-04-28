@@ -36,7 +36,7 @@ Many practitioners insisting that automated tests should always be written befor
 It is common to talk about behaviour-driven development (BDD) as an alternative approach to test-driven development. BDD is an approach to automated testing that focuses on expressing tests in the "[ubiquitous language](http://martinfowler.com/bliki/UbiquitousLanguage.html)" that the whole team should share when discussing problems. There are various tools that have been created to facilitate BDD but it is an approach that can be implemented using most traditional tools.
 
 * [Dan North "Introducing BDD"](http://dannorth.net/introducing-bdd/)
-* [Wikipedia on BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Wikipedia on BDD](https://en.wikipedia.org/wiki/Behavior-driven_development)
 
 
 ## Types of testing

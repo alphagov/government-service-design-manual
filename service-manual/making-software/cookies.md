@@ -82,7 +82,7 @@ These types of cookies are intrusive as the website owner usually has no control
 
 ### Exempt cookies
 
-A number of uses of cookies are exempt from the requirement to gain consent. These include cookies that are used for [load balancing](http://en.wikipedia.org/wiki/Load_balancing_(computing)) or cookies that are "absolutely essential" to the use of a website (eg used to store shopping cart contents).
+A number of uses of cookies are exempt from the requirement to gain consent. These include cookies that are used for [load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing)) or cookies that are "absolutely essential" to the use of a website (eg used to store shopping cart contents).
 
 While these cookies are exempt from the Privacy and Electronic Communications Regulations, you should still notify users that these cookies are in use.
 

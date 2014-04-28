@@ -22,7 +22,7 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Organisations should follow the rules set out in [Managing Public Money](http://www.hm-treasury.gov.uk/psr_mpm_index.htm) which explains the overriding principles for dealing with resources used by public sector organisations in the UK.
+Organisations should follow the rules set out in [Managing public money](/government/publications/managing-public-money) which explains the overriding principles for dealing with resources used by public sector organisations in the UK.
 
 The government's [Spend Controls](https://www.gov.uk/government/publications/cabinet-office-controls) supplement those rules with specific controls for spend in:
 

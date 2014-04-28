@@ -53,7 +53,7 @@ When you are considering an individual or company to work with, they should give
 * their commitment to work on-site with civil servants to share knowledge
 * how they will ‘bake in’ [quality](/service-manual/agile/quality.html) to the process
 
-They should also be aware of the [departmental digital strategies](http://publications.cabinetoffice.gov.uk/digital/#departmental-strategies) and how they will need to work with them.
+They should also be aware of the [departmental digital strategies](/government/collections/government-digital-strategy-reports-and-research) and how they will need to work with them.
 
 GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. Later in 2013, you will be able to use the Digital Procurement Framework.
 

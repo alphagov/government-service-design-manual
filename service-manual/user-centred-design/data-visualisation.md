@@ -107,7 +107,7 @@ There is more help on choosing the right chart [here](http://www.verstaresearch.
 ###Checklist
 1. What visualisations are available?
 2. Have you chosen the right visualisation for the data?
-3. What about [infographics](http://en.wikipedia.org/wiki/Information_graphics)?
+3. What about [infographics](https://en.wikipedia.org/wiki/Information_graphics)?
 
 ###Worked example
 Choosing the correct visualisation is important and at GDS we reviewed what was being used in the performance dashboard. As the example below shows, Pie charts with many items are not clear. We used a stacked bar chart to better represent the data.
@@ -141,7 +141,7 @@ Keep in mind these useful tips when creating your charts:
 
 Keeping your visualisation simple will help the data tell its own story.
 
-[Chartjunk](http://en.wikipedia.org/wiki/Chart_junk) is anything in your visualisation using ink that actively reduces clarity. Avoid:
+[Chartjunk](https://en.wikipedia.org/wiki/Chartjunk) is anything in your visualisation using ink that actively reduces clarity. Avoid:
 
 * 3D effects
 * borders
@@ -158,7 +158,7 @@ Poor colour choice can change how the data is perceived in a visualisation. For 
 Colour blindness makes it difficult for a user to differentiate between data sets. Labelling charts directly and different line styles can help. If your visualisations are likely to be printed it's important the colours work in greyscale as not all users will have high quality printers.
 
 ###Checklist
-1. Have you removed the [chartjunk](http://en.wikipedia.org/wiki/Chart_junk)?
+1. Have you removed the [chartjunk](https://en.wikipedia.org/wiki/Chartjunk)?
 2. Have you got the right amount of supporting information?
 3. Have you got the right amount of data?
 4. Have you used the GDS colour palette?
@@ -183,7 +183,7 @@ The stacked column gave a level of detail which wasn't needed. This has been rat
 >“We want transparency to become an absolutely core part of every bit of government business.”
 >- Francis Maude
 
-Being open and transparent supports the [Open Data](http://www.cabinetoffice.gov.uk/sites/default/files/resources/CM8353_acc.pdf) white paper agenda. Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing.
+Being open and transparent supports the [Open Data White Paper](/government/uploads/system/uploads/attachment_data/file/78946/CM8353_acc.pdf). Similarly, our Open Public Services agenda is built on transparency. Sourcing data builds trust and credibility. Providing contact information shows ownership but also helps collaboration and information sharing.
 
 When presenting data be aware of axes and scales. Data can be misrepresented by only showing a selection if it isn't clear why an extract has been chosen. Consider where the visualisation might be published. For example, if published alongside other visualisations, the reader is likely to assume the scales are consistent. This might change how your data is perceived.
 
@@ -213,11 +213,11 @@ More information about the [Performance Platform](/service-manual/measurement/pe
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Designing with Data*](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](http://designingwithdata.co.uk/) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 
-Edward Tufte’s [*The Visual Display of Quantitative Information*](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisations and introduces the concept of chartjunk. Here is a [video of Edward Tufte discussing his theories on visual thinking and analytical design](http://www.youtube.com/watch?v=Th_1azZA2OY).
+Edward Tufte’s [*The Visual Display of Quantitative Information*](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisations and introduces the concept of chartjunk. Here is a [video of Edward Tufte discussing his theories on visual thinking and analytical design](https://www.youtube.com/watch?v=Th_1azZA2OY).
 
 This article from the [Peltier Tech blog](http://peltiertech.com/WordPress/ten-chart-design-principles-guest-post/) covers the ten chart design principles.
 
