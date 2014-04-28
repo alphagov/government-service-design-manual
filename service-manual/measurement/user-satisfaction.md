@@ -46,7 +46,7 @@ GOV.UK will provide a user satisfaction survey at the end of your transactional 
 
 Measure all user journeys through your transaction to better understand dropout points.
 
-If a user drops out your should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
+If a user drops out you should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
 
 Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service dropout points and find ways to improve transactions.
 
