@@ -9,12 +9,15 @@
     }
     border-bottom: 1px solid $border-colour;
   }
-  p{
-    color: $secondary-text-colour;
+  p a{
     font-size: 16px;
-  }
-  a{
-    font-weight: bold;
-    padding-right: 10px;
+    text-decoration: none;
+    strong{
+      text-decoration: underline;
+    }
+    span{
+      color: $secondary-text-colour;
+      padding-left: 10px;
+    }
   }
 }
