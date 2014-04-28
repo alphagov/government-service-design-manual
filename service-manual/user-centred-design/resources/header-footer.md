@@ -68,11 +68,18 @@ If your alpha or beta service is publicly available you should add a banner belo
 ## 4. Choose a header
 
 There are different versions of the GOV.UK header for different types of page.
-Information pages on GOV.UK use this version:
+
+The standard header for information pages on GOV.UK is this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-0.png" alt="Standard header">
 </div>
+
+Remember:
+
+* always link the GOV.UK logotype back to the GOV.UK home page
+* set the coloured bar width to be the same as the content area. The default is 960px at full width
+* the coloured bar is always $govuk-blue (#005ea5)
 
 Pages that are part of a transaction should remove the search box, so people can't accidentally leave before they've completed it:
 
