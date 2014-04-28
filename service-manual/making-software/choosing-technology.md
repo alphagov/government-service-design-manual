@@ -101,14 +101,14 @@ You should ensure that any decision you make to use existing software, whether o
 ## Coding in the open
 A successful open source project will garner contributions from a large number of sources, both inside and outside of a single organisation. Allow developers time to review contributions, and answer issues and discussion raised by others using the software.
 
-Larger open source projects often evolve an extension model to enable others to continue to use the service in a variety of often unexpected and possibly undesirable ways while keeping the core project coherent under the editorship of a small, trusted group of [committers](http://en.wikipedia.org/wiki/Committer).
+Larger open source projects often evolve an extension model to enable others to continue to use the service in a variety of often unexpected and possibly undesirable ways while keeping the core project coherent under the editorship of a small, trusted group of [committers](https://en.wikipedia.org/wiki/Committer).
 
 Make sure developers have:
 
 * the ability to install and experiment with open source software
 * environments to easily publish prototype services on the web
 * convenient access to a wide variety of network connected devices for testing websites
-* unrestricted access to collaboration tools like [GitHub](https://github.com), [Stack Overflow](http://stackoverflow.com/) and [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
+* unrestricted access to collaboration tools like [GitHub](https://github.com), [Stack Overflow](https://stackoverflow.com/) and [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
 Take every opportunity to contribute back to open source projects you use. Contributions may be in the form of:
 
@@ -122,7 +122,7 @@ Take every opportunity to contribute back to open source projects you use. Contr
 
 Cite the open source code you use, as in the [GOV.UK colophon](https://gds.blog.gov.uk/govuk-launch-colophon/) -- you can read more about this approach on the [GDS blog entry about coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/).
 
-Keys, passwords and other secrets must always be stored safely and securely away from source code [following Kerckhoffs’s principle](http://en.wikipedia.org/wiki/Kerckhoffs%27_principle). This separation of project code from deployed instances of a project is good development practice regardless of whether or not the software itself is shared in public.
+Keys, passwords and other secrets must always be stored safely and securely away from source code [following Kerckhoffs’s principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle). This separation of project code from deployed instances of a project is good development practice regardless of whether or not the software itself is shared in public.
 
 For projects with a high-impact level, particularly with a small number of participating developers, it's advisable to have a private space to discuss security issues and develop a patch. This practice will prevent flagging a vulnerability before a fix has been deployed.
 

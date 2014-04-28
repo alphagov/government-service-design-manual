@@ -196,7 +196,7 @@ If a finding needs further action, determine what is required to address it in t
 
 #### Prioritisation
 
-When you’ve decided on what actions to take, use a prioritisation method (like [dot voting](http://en.wikipedia.org/wiki/Dotmocracy)) to decide how you’ll spend your efforts for the next iteration.
+When you’ve decided on what actions to take, use a prioritisation method (like [dot voting](https://en.wikipedia.org/wiki/Dotmocracy)) to decide how you’ll spend your efforts for the next iteration.
 
 ### Share your findings
 

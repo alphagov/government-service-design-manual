@@ -121,6 +121,6 @@ We can send you the LPA form pack to use as a template. (The redesigned LPA form
 * [InDesign CS4 (.idml) file](/service-manual/assets/documents/print-forms/template-form.idml)
 * [PDF file (not editable)](/service-manual/assets/documents/print-forms/template-form.pdf)
 
-If you get the error 'There is no application set to open the document...', you don't have InDesign installed. You'll need to [install a trial or buy a subscription](http://www.adobe.com/uk/products/indesign.html).
+If you get the error 'There is no application set to open the document...', you don't have InDesign installed. You'll need to [install a trial or buy a subscription](https://www.adobe.com/uk/products/indesign.html).
 
 *[LPA]: Lasting Powers of Attorney

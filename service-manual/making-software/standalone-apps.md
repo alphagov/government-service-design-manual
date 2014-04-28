@@ -31,7 +31,7 @@ Ensuring your service meets the [Digital by Default Service Standard](/service-m
 
 ## Brief background on apps landscape
 
-'Apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or [HTML5](http://en.wikipedia.org/wiki/Html5)) or even various hybrids of the two.
+'Apps' come in several different flavours, therefore confusion is understandable. When people are talking about 'apps', they can mean device-specific 'download and install' apps (aka native apps) or websites that respond to various screen sizes (aka responsive websites, web apps or [HTML5](https://en.wikipedia.org/wiki/Html5)) or even various hybrids of the two.
 
 ### Native apps
 

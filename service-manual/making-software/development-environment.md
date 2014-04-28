@@ -86,7 +86,7 @@ To speed up provisioning we would like to be able to store virtual machine templ
 
 ### Firewall and load balancer service
 
-If available a managed firewall and/or [load balancer](http://en.wikipedia.org/wiki/Load_balancing_(computing)) service may be used.
+If available a managed firewall and/or [load balancer](https://en.wikipedia.org/wiki/Load_balancing_(computing)) service may be used.
 
 ### Configurable private network
 

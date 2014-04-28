@@ -64,8 +64,8 @@ Some exploratory manual testing is always a good idea when looking for vulnerabi
 
 This may take the form of tests written or tools used specifically to test the security of a feature, eg:
 
-* [static analysis](http://en.wikipedia.org/wiki/Static_program_analysis)
-* [input fuzz testing](http://en.wikipedia.org/wiki/Fuzz_testing)
+* [static analysis](https://en.wikipedia.org/wiki/Static_program_analysis)
+* [input fuzz testing](https://en.wikipedia.org/wiki/Fuzz_testing)
 
 ## Why GDS do this
 

@@ -25,7 +25,7 @@ Some common features of the agile development methods we’ve used at GDS.
 
 ##Sprints
 
-Sprints are part of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
+Sprints are part of an agile process that uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
 
 Sprints are about planning what you and your team will achieve and when you will achieve it by. Each member of your team should have a task to complete within each sprint.
 
@@ -45,7 +45,7 @@ Start the process with a sprint 0. This sprint is about preparing your team for 
 * prepare the product backlog for the first sprint
 
 While there are other agile methodologies that don’t rely on sprinting, such
-as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common
+as [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)), it’s common
 for teams to start with Scrum.
 
 ## Standard meetings

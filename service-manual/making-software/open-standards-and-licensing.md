@@ -23,7 +23,7 @@ breadcrumbs:
 Considerations for using open standards and why they matter.
 
 > Please note, this is for guidance purposes only, and should not be taken as
-[legal advice](http://en.wikipedia.org/wiki/IANACL).
+[legal advice](https://en.wikipedia.org/wiki/IANACL).
 
 ## Open standards overview
 

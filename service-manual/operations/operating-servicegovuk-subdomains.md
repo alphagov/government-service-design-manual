@@ -19,7 +19,7 @@ breadcrumbs:
 
 Government offers a number of different digital services to citizens. While the start and end of a user's journey will be on GOV.UK, the service itself will typically be hosted elsewhere, and will need a different domain name as a result. This page describes the use of `service.gov.uk` subdomains for hosting digital services.
 
-> Note: This document is written as a 'standard', and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt).
+> Note: This document is written as a 'standard', and as such uses the words MUST, SHOULD, MAY and MUST NOT as defined in [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ## One entry point
 
@@ -75,7 +75,7 @@ Many services will collect personal information from users. It’s very importan
 
 Therefore, all services accessed through `service.gov.uk` domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services must not accept HTTP connections under any circumstances.
 
-Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.` and `assets.`), by setting an HTTP response header such as
+Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.` and `assets.`), by setting an HTTP response header such as
 
     Strict-Transport-Security: max-age=1209600, includeSubDomains;
 
@@ -132,7 +132,7 @@ Many suppliers offer IP forwarding DDOS protection, which does not have the same
 
 Emails to users of your service SHOULD be sent from a human-monitored email address that originates from the domain `servicename.service.gov.uk` (and not the dept/agency or any other domain name).
 
-You SHOULD enable [SPF](http://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
+You SHOULD enable [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
 ## Lifecycle of service subdomains
 

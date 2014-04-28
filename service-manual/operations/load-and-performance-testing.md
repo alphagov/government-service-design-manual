@@ -60,7 +60,7 @@ This is when a site or application is given the most it can handle, while still 
 
 GDS test sites and applications under realistic load (traffic) to make sure that sites and applications work for the people using them.
 
-Load testing should involve testing load in excess of your expected traffic levels. Do this so you can simulate certain types of [Denial of Service](http://en.wikipedia.org/wiki/Denial-of-service_attack) (DoS) attack, including a [Distributed Denial of Service](http://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) (DDoS) attack.
+Load testing should involve testing load in excess of your expected traffic levels. Do this so you can simulate certain types of [Denial of Service](https://en.wikipedia.org/wiki/Denial-of-service_attack) (DoS) attack, including a [Distributed Denial of Service](https://en.wikipedia.org/wiki/Denial-of-service_attack#Distributed_attack) (DDoS) attack.
 
 ### Performance testing
 

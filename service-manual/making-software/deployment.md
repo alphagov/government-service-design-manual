@@ -394,7 +394,7 @@ deployment of a fix to production.
 [capistrano]: https://github.com/capistrano/capistrano
 [Hiera]: http://projects.puppetlabs.com/projects/hiera
 [hiera-gpg]: https://github.com/crayfishx/hiera-gpg
-[GPG]: http://www.gnupg.org/
+[GPG]: https://www.gnupg.org/
 [chef data bags]: http://docs.opscode.com/essentials_data_bags.html
 
 *[API]: application programming interface 

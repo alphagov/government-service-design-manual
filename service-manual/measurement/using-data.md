@@ -57,8 +57,8 @@ Communicate performance information to your users through the appropriate:
 * dashboards
 * reports
 * alerts
- 
-Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, useful and contain minimal amounts of  [chart junk](http://en.wikipedia.org/wiki/Chartjunk).
+
+Highlight specific segments that you know users are interested in, and make sure that your visualisations are simple, useful and contain minimal amounts of [chartjunk](https://en.wikipedia.org/wiki/Chartjunk).
 
 Typical segments include:
 
@@ -87,7 +87,7 @@ Best practices include:
 
 Any service that meets user needs will include an element of user feedback. Monitor this and act on it. Doing so will help to continually improve the service for your users.
 
-Many options are available for improving the overall performance of your service. The following examples are based on the [4 Ps](http://en.wikipedia.org/wiki/Marketing_mix) of marketing:
+Many options are available for improving the overall performance of your service. The following examples are based on the [4 Ps of marketing](https://en.wikipedia.org/wiki/Marketing_mix):
 
 * price -- change the price eg to attract people to the digital channel
 * product -- improve the user experience (eg from user feedback, user testing, A/B testing, multivariate testing)
@@ -110,6 +110,6 @@ To find out more about ways to use data, try reading:
 * the [D3 Gallery](https://github.com/mbostock/d3/wiki/Gallery), a stunning collection of data visualisations
 * a [nicely presented overview](http://selection.datavisualization.ch/) of some of the tools available for data visualisation
 * this [article in Wired](http://www.wired.com/2012/04/ff_abtesting/all/1), which shows how A/B testing was used to good effect in Obama’s election campaign
-* this [article in eConsultancy](http://econsultancy.com/uk/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing), which shows how multivariate testing was used to improve conversion rates at Lovefilm
+* this [article in eConsultancy](https://econsultancy.com/blog/2454-q-a-lovefilm-s-craig-sullivan-on-a-b-and-multi-variate-testing), which shows how multivariate testing was used to improve conversion rates at Lovefilm
 
 *[KPIs]: key performance indicators

@@ -33,7 +33,7 @@ Online tools are a good way in which to conduct in-house research cheaply and ef
 
 These enable the easy creation of online surveys. Features include a scripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc.
 
-Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](http://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](http://www.smart-survey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
+Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](https://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](http://www.smartsurvey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
 
 ## Remote user testing tools
 
