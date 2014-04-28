@@ -1,9 +1,23 @@
 #user-satisfaction-survey {
-  div.wrapper p {
-    a:visited,
-    a:hover {
-      color: $white;
+  margin: 0 auto;
+  max-width: 1024px;
+  font-size: 16px;
+  .inner{
+    margin: 0 1em;
+    @include media(desktop) {
+      margin: 0 2em;
+    }
+    border-bottom: 1px solid $border-colour;
+  }
+  p a{
+    font-size: 16px;
+    text-decoration: none;
+    strong{
+      text-decoration: underline;
+    }
+    span{
+      color: $secondary-text-colour;
+      padding-left: 10px;
     }
   }
 }
-
