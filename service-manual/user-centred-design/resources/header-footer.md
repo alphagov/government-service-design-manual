@@ -38,7 +38,7 @@ If your service isn’t on GOV.UK you can still follow this guidance, but your s
 
 ## 2. Get the templates
 
-The GOV.UK template code and assets are available for the Play or Rails frameworks, and for the Mustache, Liquid or Jinja templating languages. You can also generate the static files.
+The GOV.UK template code and assets are available for the Play or Rails frameworks, and for the Mustache, Liquid or Jinja templating languages.
 
 [Get the latest version of the templates on GitHub](https://github.com/alphagov/govuk_template)
 
