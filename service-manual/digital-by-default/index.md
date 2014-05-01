@@ -146,7 +146,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the [design patterns](http://alphagov.github.io/design-patterns/) and the [style guide](/service-manual/content-designers/transactions-style-guide.html).</div>
+    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="http://alphagov.github.io/design-patterns/">design patterns</a> and the <a href="/service-manual/content-designers/transactions-style-guide.html">style guide</a>.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
