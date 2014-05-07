@@ -138,7 +138,8 @@ By the end of the beta stage, you’ll need to be able to answer these questions
   * a high volume of users successfully complete the transaction
   * the volume of assisted digital users has decreased
   * the service is trusted
-  * feedback from users and experts is positive, with good end-to-end user experience  * your users have a joined-up and consistent assisted digital support across central government transactions
+  * feedback from users and experts is positive, with good end-to-end user experience
+  * your users have a joined-up and consistent assisted digital support across central government transactions
   * all assisted digital support meets relevant legal requirements, including language requirements, Data Protection Act, accessibility
 1. What will you do to iterate your assisted digital support in live, based on what you have learnt from your testing?
 1. What is your plan for ongoing evaluation and iteration of assisted digital support? Include how you will measure performance for the following:
