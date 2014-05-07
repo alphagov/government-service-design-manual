@@ -44,7 +44,7 @@ Once you have an initial understanding of who your assisted digital users are, s
 
 GDS regularly meet a panel of user experts and have published information on work carried out with these groups on the [GDS blog.](https://gds.blog.gov.uk/category/assisted-digital/)
 
-Existing assisted digital support may be informal and unco-ordinated. Think about how you will make sure there’s formal, funded and sustainable assisted digital support for all users who need it. This support should cover all relevant channels, such as web chat, telephone, face by face (on the high street or in the user’s location).
+Existing assisted digital support may be informal and uncoordinated. Think about how you will make sure there’s formal, funded and sustainable assisted digital support for all users who need it. This support should cover all relevant channels, such as web chat, telephone, face by face (on the high street or in the user’s location).
 
 You should start to develop [user stories](/service-manual/agile/writing-user-stories) and personas based on assisted digital user needs. These will help you visualise specific needs and user journeys.
 
