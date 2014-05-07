@@ -1,5 +1,5 @@
 ---
-layout:  design-pattern
+layout: detailed-guidance-2
 title: CAPTCHA
 category: design-and-development-resources
 type: resource
@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: Design resources
+    url: /service-manual/designers
 ---
 
 ## What are they?

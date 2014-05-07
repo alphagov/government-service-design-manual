@@ -13,11 +13,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
-  -
-    title: Design patterns
-    url: /service-manual/user-centered-design/resources/design-patterns.html
+    title: Design resources
+    url: /service-manual/designers
 ---
 
 {:.intro}

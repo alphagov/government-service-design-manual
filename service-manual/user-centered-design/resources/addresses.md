@@ -1,7 +1,7 @@
 ---
-layout:  detailed-guidance-2
+layout: detailed-guidance-2
 title: Addresses
-format: 'Design pattern'
+format: Design pattern
 category: design-and-development-resources
 type: resource
 audience:
@@ -13,11 +13,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design  
-  -
-    title: Design patterns
-    url: /service-manual/user-centered-design/resources/design-patterns.html
+    title: Design resources
+    url: /service-manual/designers
 ---
 
 {:.intro}

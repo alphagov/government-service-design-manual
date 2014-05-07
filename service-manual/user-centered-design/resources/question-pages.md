@@ -1,5 +1,5 @@
 ---
-layout: design-pattern
+layout: detailed-guidance-2
 title: Question pages
 subtitle: Choosing an appropriate structure for your transactions
 category: user-centered-design
@@ -16,8 +16,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centered design
-    url: /service-manual/user-centered-design
+    title: Design resources
+    url: /service-manual/designers
 ---
 
 Typically transactions will contain one or more pages of questions, where users enter information.
