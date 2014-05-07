@@ -64,7 +64,7 @@ Everything you need to design great services for GOV.UK
 <div class="grid-wrapper">
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
-		<h2>Templates</h2>
+		<h2>Page templates</h2>
 		<p>The GOV.UK header, footer, typeface and branding.</p>
 	  </div>
 	</div>
@@ -81,17 +81,17 @@ Everything you need to design great services for GOV.UK
 <div class="grid-wrapper">
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
-		<h2>Elements</h2>
-		<p>The building blocks that pages on GOV.UK are made from.</p>
+		<h2>GOV.UK elements</h2>
+		<p>HTML and CSS for layout, typography, colours, images, form fields, buttons, and data</p>
 	  </div>
 	</div>
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
-	  	<h3>Overview</a></h3>
-	  	<p><a href="http://govuk-elements.herokuapp.com/">How to style and position the GOV.UK elements</a></p>
-
+	  	<h3>Get the elements</h3>
+	  	<p><a href="http://govuk-elements.herokuapp.com/">See all the elements on a single page</a></p>
 	  </div>
 	</div>
+	<!--
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
 	  	<h3>Detail</h3>
@@ -99,6 +99,7 @@ Everything you need to design great services for GOV.UK
 	  		<a href="../user-centered-design/resources/forms.html">forms</a> and <a href="../user-centered-design/data-visualisation.html">data</a></p>
 	  </div>
 	</div>
+-->
 </div>
 
 <hr>
@@ -115,6 +116,7 @@ Everything you need to design great services for GOV.UK
 
 		<h3>Forms</h3>
 		<ul>
+		  <li><a href="../user-centered-design/resources/forms.html">Basic form elements</a></li>
 		  <li><a href="../user-centered-design/resources/names.html">Names</a></li>
 		  <li><a href="../user-centered-design/resources/dates.html">Dates</a></li>
 		  <li><a href="../user-centered-design/resources/addresses.html">Addresses</a></li>

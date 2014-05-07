@@ -22,11 +22,11 @@ breadcrumbs:
 
 {:.intro}
 A transaction is an exchange of money, information, rights or goods between two or more parties. 
-Follow these steps to ensure your transactions are user-focussed.
+Follow these tips to ensure your transactions are user-focussed.
 
 ---
 
-## Optimise for the majority
+## 1. Optimise for the majority
 
 Find out what the majority of your users need and focus on this.
 Test the simplest solution first and only add a new feature if you know people need it.
@@ -36,7 +36,7 @@ User research and customer data will help you decide which edge cases to support
 
 ---
 
-## Be honest about the proposition
+## 2. Be honest about the proposition
 
 Be honest up front about what users can and can't do with your service.
 People need to know whether they're eligible, how much it will cost and how long it will take before they decide whether to commit to a transaction. The best place to tell them is on the first page.
@@ -45,7 +45,7 @@ People need to know whether they're eligible, how much it will cost and how long
 
 ---
 
-## Be helpful
+## 3. Be helpful
 
 Most government transactions are used infrequently, so it's best to design as if people are using it for the first-time.
 
@@ -55,7 +55,7 @@ Some people will read up on a subject before they start, but many will choose to
 
 ---
 
-## Choose an appropriate structure
+## 4. Choose an appropriate structure
 
 Choose a structure for your transaction that fits the way most people are going to want to use it.
 Don't structure it around the way your organisation works.
@@ -64,25 +64,25 @@ Don't structure it around the way your organisation works.
 
 ---
 
-## Don't ask too many questions
+## 5. Don't ask too many questions
 
 Every extra question you ask places additional demands on your users.
 They're more likely to make a mistake or fail to complete the transaction.
 
 Don't ask for information just because it might be useful, or because you've always asked for it. 
-Don't ask for the same information more than once. It makes your service feel inconsistent and disjointed.
+Don't ask for the same information more than once.
 
 [Find out how to ask good questions](resources/question-pages.html)
 
 ---
 
-## Follow the GOV.UK style guide
+## 6. Follow the GOV.UK content style guide
 
 All written content on GOV.UK should follow the style guide. The style guide covers things like tone of voice, plain English, abbreviations and capitalisations.
 
-[Read the GOV.UK style guide](https://www.gov.uk/design-principles/style-guide)
+[Read the GOV.UK content style guide](https://www.gov.uk/design-principles/style-guide)
 
-
+In particular:
 
 ### Use plain English
 

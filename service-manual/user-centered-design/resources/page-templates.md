@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance-2
-title: Page templates
+title: GOV.UK templates
 subtitle: GOV.UK header, footer, branding and typeface
 category: user-centered-design
 type: guide

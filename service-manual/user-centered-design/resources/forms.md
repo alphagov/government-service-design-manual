@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance-2
-title: Form elements
-format: 'Page elements'
+title: Forms
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
