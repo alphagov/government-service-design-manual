@@ -112,7 +112,8 @@ Before your digital service moves onto GOV.UK, you’ll need to demonstrate:
 1. The specific [needs of users](/service-manual/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
 1. Your plan to fully test assisted digital support in beta. This should include:
   *  timelines
-  * details of how assisted digital support will be provided, by channel  * forecast volume, during testing and when live - this should also be split by channel
+  * details of how assisted digital support will be provided, by channel
+  * forecast volume, during testing and when live -- this should also be split by channel
   * forecast costs in live, by channel
   * showing assisted digital support that is joined up and consistent with relevant central government transactions
   * showing how [digital inclusion](https://www.gov.uk/government/publications/government-digital-strategy-action-15) will be incorporated into your support
