@@ -38,12 +38,8 @@ Assisted digital users include people who are offline, and people who are online
 
 18% of UK adults are offline (ie never or rarely use the internet) and GDS’ Digital Landscape Research provides [a demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
 
-
-<<<<<<< HEAD
 [Go ON UK estimates that 11 million people in the UK aged 15 and over don’t have Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (eg sending an email, performing a simple search).
 
-=======
->>>>>>> Fix typos
 Every service will have a different proportion of users who are offline or who are unable to complete a digital transaction independently. Understanding your [users’ needs](/service-manual/user-centred-design/user-needs) is vital for putting in place appropriate assisted digital support.
 
 Consider the digital skills of your users. This will help you understand, out of those not using digital channels, which users:
