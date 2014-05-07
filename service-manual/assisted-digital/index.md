@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Assisted digital
-subtitle: A guide to what is assisted digital
+subtitle: A guide to assisted digital
 category: assisted-digital
 type: guide
 audience:
