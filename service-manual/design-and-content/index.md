@@ -40,7 +40,7 @@ breadcrumbs:
 <div class="grid-wrapper">
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
-		<h3><a href="../user-centered-design/resources/page-templates.html">GOV.UK templates</a></h3>
+		<h3><a href="templates/index.html">GOV.UK templates</a></h3>
 		<p>HTML and CSS for the GOV.UK header, footer, typeface and branding</p>
 	  </div>
 	</div>

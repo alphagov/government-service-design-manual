@@ -11,10 +11,13 @@ status: draft
 breadcrumbs:
   -
     title: Home
-    url: /service-manual
+    url: /service-manual/index.html
   -
-    title: Design resources
-    url: /service-manual/designers
+    title: Design and content
+    url: /service-manual/design-and-content/index.html
+  -
+    title: Design patterns
+    url: /service-manual/design-and-content/design-patterns/index.html
 ---
 
 <div class="example">
