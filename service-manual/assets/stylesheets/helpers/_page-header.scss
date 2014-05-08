@@ -4,7 +4,7 @@ header.page-header {
   border-bottom: 5px solid $main-colour;
 
   @include media(desktop) {
-    margin: 1em 2em 3em 2em;
+    margin: 1em 2em 30px 2em;
   }
 
   .hgroup {
