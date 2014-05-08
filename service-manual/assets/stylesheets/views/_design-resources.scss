@@ -7,6 +7,7 @@
   header.page-header {
     border-bottom: 0;
     padding: 0;
+    margin-bottom: 30px;
     h1 {
       margin-top: 0.8em;
       @include bold-48;
@@ -29,15 +30,15 @@
 // 1st para is bigger
 .intro {
   @include core-24;
-  padding: 10px 0;
-  margin: 0 0 1.5em 0;
+  padding: 0;
+  margin: 0 0 45px 0;
 }
 
 
 // Wrap grid layout
 .grid-wrapper {
   @extend %contain-floats;
-  margin: 0 -15px 45px -15px;
+  margin: 0 -15px 30px -15px;
   h3{
     margin-bottom: 0.4em;
   }

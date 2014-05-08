@@ -47,7 +47,7 @@ breadcrumbs:
 	<div class="grid grid-1-3">
 	  <div class="inner-block">
 		<h3><a href="http://govuk-elements.herokuapp.com/">GOV.UK elements</a></h3>
-		<p>Layout, grids, typography, colours, images, icons, form fields, buttons and data</p>
+		<p>HTML and CSS for layout, grids, typography, colours, images, icons, form fields, buttons and data</p>
 	  </div>
 	</div>
 	<div class="grid grid-1-3">
