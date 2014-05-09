@@ -7,6 +7,9 @@ if [ $(find . -name '*.orig' -type f | grep -c .) -ne 0 ]; then
   exit 1
 fi
 
+echo "Linting"
+go run lint.go service-manual
+
 echo "Updating submodules to ensure toolkit up to date..."
 git submodule update --init
 echo "Updated."
