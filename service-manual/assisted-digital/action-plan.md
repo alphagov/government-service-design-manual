@@ -62,7 +62,7 @@ Your understanding of the number of users who may need support and their specifi
 
 The objective of the alpha phase is to design a support model with which to test the appropriateness of your support and your understanding of user needs.
 
-At this point, you should formalise your thinking on assisted digital and create an assisted digital plan. This will state how you will provide assisted digital to the standards set out in the [GDS assisted digital guidance](/service-manual/assisted-digital].
+At this point, you should formalise your thinking on assisted digital and create an assisted digital plan. This will state how you will provide assisted digital to the standards set out in the [GDS assisted digital guidance](/service-manual/assisted-digital).
 The guidance includes key performance indicators (KPIs) for your assisted digital support, so you will need to include ways to measure your service.
 
 During the alpha stage, you should understand your assisted digital users’ current ability, confidence and barriers to completing your service independently. You need to find out if they lack:
