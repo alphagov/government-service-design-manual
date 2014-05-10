@@ -24,7 +24,7 @@ func visit(path string, f os.FileInfo, err error) error {
 	defer file.Close()
 
 	reader := bufio.NewReader(file)
-	braces := 0
+	brackets, parens := 0, 0
 
 	for {
 		b, err := reader.ReadByte()
@@ -35,17 +35,25 @@ func visit(path string, f os.FileInfo, err error) error {
 
 		switch b {
 		case '[':
-			braces++
+			brackets++
 		case ']':
-			braces--
+			brackets--
+		case '(':
+			parens++
+		case ')':
+			parens--
 		}
 	}
 
 	switch {
-	case braces < 0:
-		fmt.Printf("Bad Markdown URL in %s - extra closing brace?\n", path)
-	case braces > 0:
-		fmt.Printf("Bad Markdown URL in %s - extra opening brace?\n", path)
+	case brackets < 0:
+		fmt.Printf("Bad Markdown URL in %s - extra closing bracket?\n", path)
+	case brackets > 0:
+		fmt.Printf("Bad Markdown URL in %s - extra opening bracket?\n", path)
+	case parens > 0:
+		fmt.Printf("Bad Markdown URL in %s - extra closing parenthesis?\n", path)
+	case parens > 0:
+		fmt.Printf("Bad Markdown URL in %s - extra opening parenthesis?\n", path)
 	}
 
 	return nil
