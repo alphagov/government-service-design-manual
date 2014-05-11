@@ -1,0 +1,11 @@
+{
+  "name": "government-service-design-manual",
+  "repository": "https://github.com/alphagov/government-service-design-manual",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-cli": "0.1.11",
+    "gitbook": "~0.6.3",
+    "gitbook-pdf": "~0.0.2"
+  }
+}
