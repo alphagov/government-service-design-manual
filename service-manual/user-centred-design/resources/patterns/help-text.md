@@ -87,7 +87,6 @@ A short link that expands into more detailed help when clicked on.
 
 Use this to make your page easier to scan, but don't hide text if a majority of users will need it.
 
-
 ---
 
 <h2 class="heading-36" id="detailed-contextual-help">4. Detailed help</h2>
@@ -103,8 +102,6 @@ Make sure that users:
 * are shown help that's relevant to their current situation
 
 Don't use detailed help to explain how to use the interface - it should be simple enough to use without this.
-
-
 
 ---
 

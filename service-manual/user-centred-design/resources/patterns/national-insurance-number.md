@@ -20,12 +20,13 @@ Use a single text field labelled 'National Insurance number'.
 	<img src="/service-manual/assets/images/design-patterns/nino.png">
 </div>
 
+
 National Insurance numbers are 9 characters long, but the characters are often spaced in pairs 
 so you'll need to allow for at least 13 characters in any text fields.
 
 Don't use 'NINO' or 'NI number' as the label.
 
-Do not use "AB 12 34 56 C" as an example (it belongs to a real person). 
+Do not use "AB 12 34 56 C" as an example (it belongs to a real person).
 Instead, use: "QQ 12 34 56 C"
 
 

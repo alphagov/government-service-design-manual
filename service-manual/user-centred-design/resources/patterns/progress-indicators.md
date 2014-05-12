@@ -115,7 +115,6 @@ Provide a vertical list of links to each section. Let users complete the section
 * requires more effort to implement
 * some usability challenges - for example, letting users know they've finished all the sections
 
-
 ---
 
 [Discuss this page on Hackpad](https://designpatterns.hackpad.com/Progress-indicators-3AOrLoia9Us)
