@@ -23,6 +23,10 @@ breadcrumbs:
 {:.intro}
 A summary page lets users check and edit the answers they've given before submitting a form.
 
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/summary-page.png" alt="An example of a summary page">
+</div>
+
 The two main benefits of summary pages are:
 
 * **increased completion rates** - users are reassured that the correct data has been captured so are less likely

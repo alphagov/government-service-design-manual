@@ -24,7 +24,7 @@ Use them to maintain a consistent design across our services.
 
 <ul>
   <li><a href="http://govuk-elements.herokuapp.com/#forms">Form elements</a></li>
-  <li><a href="question-pages.html">Form structure</a></li>
+  <li><a href="form-structure.html">Form structure</a></li>
   <li><a href="progress-indicators.html">Progress indicators</a></li>
   <li><a href="names.html">Names</a></li>
   <li><a href="dates.html">Dates</a></li>
