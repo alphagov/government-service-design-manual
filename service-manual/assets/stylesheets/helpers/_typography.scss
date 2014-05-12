@@ -263,3 +263,11 @@ article th {
   background-color: $panel-colour;
   border: solid 1px $border-colour;
 }
+
+article hr{
+  border: 0;
+  background-color: $border-colour;
+  height: 1px;
+  margin: 2em 0;
+  clear: both;
+}
