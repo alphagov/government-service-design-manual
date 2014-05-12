@@ -111,7 +111,6 @@ You should continue to do user research and sufficiently test your assisted digi
 
 Before your digital service moves onto GOV.UK, you’ll need to demonstrate:
 
-
 1. The specific [needs of users](/service-manual/assisted-digital/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
 1. Your plan to fully test assisted digital support in beta. This should include:
   * timelines
