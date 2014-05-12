@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/assisted-digital
 ---
 
-All new digital services must demonstrate appropriate [assisted digital user research](/service-manual/assisted-digital-user-research), and show that suitable support is in place to meet their needs, to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
+All new digital services must demonstrate appropriate [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research, and show that suitable support is in place to meet their needs, to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
 The information in this document will help you to:
 
@@ -36,7 +36,7 @@ The information in this document will help you to:
 
 ## Discovery: understanding your assisted digital users and their needs
 
-The discovery phase will give you a high-level understanding of assisted digital user needs and what your assisted digital support will look like. GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital-user-research) will support you in developing your service throughout all stages.
+The discovery phase will give you a high-level understanding of assisted digital user needs and what your assisted digital support will look like. GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research) will support you in developing your service throughout all stages.
 
 Do some work to understand the demographic makeup (eg gender, age, disability status, region) of who needs your assisted digital support. [The Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) provides a cross-population view of who is offline in the UK. You should also look at current users of offline channels for your department's services.
 
@@ -73,7 +73,7 @@ During the alpha stage, you should understand your assisted digital users’ cur
 * trust in sharing personal information online
 * full physical or cognitive ability
 
-You’ll need to continue [developing user personas and user journeys](/service-manual/assisted-digital-user-research) based on assisted digital user needs. You should involve:
+You’ll need to continue [developing user personas and user journeys](/service-manual/assisted-digital/assisted-digital-user-research) based on assisted digital user needs. You should involve:
 
 * your existing users who’ll need assisted digital support in the future
 * people in your organisation who work with assisted digital users
@@ -109,7 +109,7 @@ You should continue to do user research and sufficiently test your assisted digi
 
 Before your digital service moves onto GOV.UK, you’ll need to demonstrate:
 
-1. The specific [needs of users](/service-manual/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
+1. The specific [needs of users](/service-manual/assisted-digital/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
 1. Your plan to fully test assisted digital support in beta. This should include:
   * timelines
   * details of how assisted digital support will be provided, by channel
