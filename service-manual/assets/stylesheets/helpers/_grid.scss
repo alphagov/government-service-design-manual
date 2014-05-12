@@ -29,7 +29,8 @@
     margin-bottom: 1em;
   }
   padding: 0;
-  @include clearfix;
+  overflow: hidden;
+  *zoom: 1;
   > * { 
     display: block;
     margin: 0;
