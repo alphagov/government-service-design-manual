@@ -1,12 +1,14 @@
 ---
 layout: default-wrapper
-section_class: wide design-patterns
+section_class: wide design-pattern
 ---
+
+{% include _breadcrumbs.html %}
 
 <article role="article" class="group">
   <header class="page-header group">
     <div class="hgroup">
-      <h1>{{ page.title }}</h1>
+      <h1><span>Design pattern</span>{{ page.title }}</h1>
       {% if page.subtitle %}
       <h2 class="subtitle">{{ page.subtitle }}</h2>
       {% endif %}
