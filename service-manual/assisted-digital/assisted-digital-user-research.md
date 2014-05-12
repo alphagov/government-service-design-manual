@@ -107,11 +107,11 @@ Look for existing external research relevant to your service to support your res
 
 ##Relating user insight to assisted digital support design
 
-It will be important to understand the [Digital Inclusion Scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals) and the definitions, when they are published this month. From then you will be able to
+It will be important to understand the [Digital Inclusion Scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals) and the definitions, when they are published this month. From then you will be able to:
 
-share the Digital Inclusion Scale with colleagues working on user research and digital services in your department
-use the scale to understand the complexity of your service and your users’ levels of digital skill (see below)
-provide feedback on the usefulness of the scale to the GDS Assisted Digital team
+* share the Digital Inclusion Scale with colleagues working on user research and digital services in your department
+* use the scale to understand the complexity of your service and your users’ levels of digital skill (see below)
+* provide feedback on the usefulness of the scale to the GDS Assisted Digital team
 
 ###Understand the complexity of your service
 
@@ -128,21 +128,25 @@ You should build on our initial analysis with your own more specific and detaile
 
 Understand your users’ levels of digital skills by using your data and insight about them to map them onto the Digital Inclusion Scale, when available. 
 
+Your user data and insight should also be used to create personas which represent the different assisted digital user types for your service. The assisted digital team has developed personas that apply across government services, which you can also use to better understand your users (contact the [assisted digital team](mailto:adteam@digital.cabinet-office.gov.uk) for more information)
+
 You can then assess how much support your assisted digital users will need to fill the gap between their skills and the skills needed to complete your specific service.
 
 ###Develop an understanding of which channels for assisted digital support your users may need
 
 Use the demographic data and insight you collect on your users to develop an understanding of which channels for assisted digital support your users may need and why.
 
+You should then map the journeys for each of your user personas through your proposed assisted digital channels. This will allow you to check that your proposed provision will meet your users' needs.
+
 Low levels of literacy (verbal and written) may impact on the ability to communicate effectively. Face by face support can help people overcome these barriers by providing a safe and comfortable environment in which they can express themselves.
 
-##Researching offline users across government in the long term
+##Researching users who are offline or have low digital skills across government in the long term
 
-It’s sensible for research on offline users to be co-ordinated across government and to be aligned between assisted digital and digital inclusion in the long term.
+It’s sensible for research on users who are offline or have low digital skills to be coordinated across government and to be aligned between assisted digital and digital inclusion in the long term.
 
-GDS is working to develop a long-term proposal for ongoing research on offline users. We will also develop more detailed guidance for departments, which will be made available on the [Government Service Design Manual](/service-manual), on:
+GDS is working to develop a long-term proposal for ongoing research on users who are offline or have low digital skills. We will also develop more detailed guidance for departments, which will be made available on the [Government Service Design Manual](/service-manual), on:
 
-* why departments should conduct ongoing research on offline users
+* why departments should conduct ongoing research on users who are offline or have low digital skills
 * what you should be finding out through this research
 * how to conduct this research (based on the recommendations of our long-term research proposal)
 * how you can use it, to improve your assisted digital and digital services
