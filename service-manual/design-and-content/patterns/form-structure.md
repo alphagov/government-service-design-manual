@@ -1,7 +1,6 @@
 ---
 layout: detailed-guidance-2
-title: Question pages
-subtitle: Choosing an appropriate structure for your transactions
+title: Form structure
 category: user-centered-design
 type: guide
 audience:
@@ -20,34 +19,35 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
-Typically transactions will contain one or more pages of questions, where users enter information.
+{:.intro}
+Choose a structure for your forms that most naturally fits they way people need to use them.
 
 
-## Writing good questions
+## Asking questions
 
-Ask for as little information as you can.
-Keep the questions short and straightforward. 
-Explain why your asking a question if it's not obvious.
-
-Your questions don’t have to be questions, you can also use statements, eg ‘What is your date of birth?’ or ‘Date of birth’.
+You can use a question or statement format. 
+For example ‘What is your date of birth?’ or ‘Date of birth’.
 Just remember to be consistent across the transaction.
 
+Try to:
 
-## Structuring the questions
+* ask for as little information as you can
+* keep the questions short and straightforward 
+* explain why you're asking a question if it's not obvious
 
-It's important to choose a structure for the questions that most naturally fits the ways your users are going to want to use your service.
 
-## Things to think about
+## Structuring forms
+
+Ask yourself:
 
 * how many questions are there?
 * will users need to answer the questions in a fixed order?
 * will they need to complete the transaction in a single session?
 * will their answers affect other parts of the transaction?
 * will certain answers result in the user having to abandon the transaction?
-* will they need to review and edit their answers?
 * will they need to add or remove items from a list, or change the order of items?
 * how many parties are involved in the transaction?
 * do any parts of the transaction take place offline?
@@ -66,20 +66,21 @@ All questions are placed on a single page.
 {:.left}
 ![Diagram showing all sections on a page](/service-manual/assets/images/designing-transactions/one-page.png)
 
-#### The good
+**The good:**
 
-* There's only one submit button to press
-* A single URL gives access to all form fields
-* It doesn't force a fixed order of completion
-* You benefit from context of neighbouring sections
-* Progress is self-evident
+* there's only one submit button to press
+* a single URL gives access to all form fields
+* it doesn't force a fixed order of completion
+* you benefit from context of neighbouring sections
+* progress is self-evident
 
-#### The bad
+**The bad:**
 
-* Long forms can be overwhelming and off-putting
-* It's less well suited to branching or non-linear flow
-* How do you save partial progress?
-* Can be harder to track analytics like drop-off rates
+* long forms can be overwhelming and off-putting
+* it's less well suited to branching or non-linear flow
+* how do you save partial progress?
+* can be harder to track analytics like drop-off rates
+* making validation errors usable is harder
 
 ---
 
@@ -89,22 +90,21 @@ Each question goes on its own page.
 
 ![Diagram showing each section on it's own page](/service-manual/assets/images/designing-transactions/wizard.png)
 
-#### The good
+**The good:**
 
-* It's easier to handle branching and dependencies between questions
-* It's easier to let the user save progress
-* A long transaction can feel more manageable
-* Easier to guide a user through an unfamiliar process
-* Easier to capture analytics like drop-off rates for each section
+* it's easier to handle branching and dependencies between questions
+* it's easier to let the user save progress
+* a transaction can feel more manageable
+* easier to guide a user through an unfamiliar process
+* easier to capture analytics like drop-off rates for each section
 
-#### The bad
+**The bad:**
 
-* Can be harder for users to see where they are within the transaction
-* It can slow users down as they have to click and load each section
-* You lose the contextual information from neighbouring sections
-* Harder for users to review and edit previous sections
-* There's no single place for users to go back and edit their data
-* Not a natural fit for non-linear processes like looping, adding and removing
+* harder to show progress
+* uers have to click more to progress through the questions
+* you lose the context of neighbouring questions
+* you need to build a seperate page to review and edit questions
+* doesn't naturally handle non-linear processes like looping, adding and removing
 
 ---
 
@@ -114,15 +114,15 @@ All questions on a single page, but each new question only appears once the prev
 
 ![Diagram showing an accordion form](/service-manual/assets/images/designing-transactions/accordion-3.png)
 
-#### The good
+**The good:**
 
-* Can handle branching and dependencies between sections
-* Can easily review and edit previous questions
-* Can help guide a user through an unfamiliar process
-* User still benefits from some surrounding context
-* Progress is clear
+* can handle branching and dependencies between sections
+* users can review and edit previous questions at any time
+* can help guide a user through an unfamiliar process
+* user still benefits from some surrounding context
+* progress is clear
 
-#### The bad
+**The bad:**
 
 * Implementation and interface is more complex
 

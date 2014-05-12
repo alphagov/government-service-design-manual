@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
 {:.intro}
@@ -34,17 +34,19 @@ A single text field where the user can enter their full name, including title if
 </div>
 
 
-### The good
+**The good:**
 
-* Can accomodate any kind of name
-* Requires the least effort to use
-* Avoids the issue of how to label multiple fields
+* can accomodate any kind of name
+* requires the least effort to use
+* avoids the issue of how to label multiple fields
 
-### The bad
+**The bad:**
 
-* Difficult if you need to parse out things like last name
-* Can't use formal contractions in correspondence (like 'Mr. Smith')
-* May be difficult to integrate this apporach with legacy back-end systems
+* difficult if you need to parse out things like last name
+* can't use formal contractions in correspondence (like 'Mr. Smith')
+* may be difficult to integrate this apporach with legacy back-end systems
+
+---
 
 ## Multiple name fields
 
@@ -76,9 +78,14 @@ Don't include 'Middle names' unless you absolutely have to and make sure it's op
 
 ### Titles
 
-Avoid asking for someone's title without good reason. It's extra work for users and you're asking them to potentially reveal their gender and marital status as well, which they may not want to do. There are appropriate ways of addressing people in correspondence without using titles.
+We recommend against asking for people's title. 
 
-If you do implement a title field make sure users can leave it blank and then deal with that option sensibly in any resulting correspondence.
+It's extra work for users and you're forcing them to potentially reveal their gender and marital status, 
+which they may not want to do. There are appropriate ways of addressing people in correspondence without using titles.
+
+If you have to implement a title field, make it an optional free-text field, not a drop-down list.
+Predicting the range of titles your users will have is impossible, and you'll always end up upsetting someone. 
+Remember to deal with the name data sensibly in any resulting correspondence.
 
 
 ### Internationalisation
@@ -91,6 +98,7 @@ If you can't use a single name field and your service is used by many users outs
 - Family name
 - Any other names (eg maiden name)
 
+---
 
 ## Further reading
 

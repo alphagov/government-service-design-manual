@@ -1,6 +1,6 @@
 ---
 layout:  detailed-guidance-2
-title: National insurance number
+title: National Insurance number
 format: 'Design pattern'
 category: design-and-development-resources
 type: resource
@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
 <div class="example">
@@ -25,12 +25,12 @@ breadcrumbs:
 </div>
 
 Capture these in a single free text box labelled: National Insurance number. 
-Remember that ‘number’ isn’t capitalised and don’t call National Insurance number ‘NINO’.
+Remember that ‘number’ isn’t capitalised and don’t use the contraction ‘NINO’.
 
 National Insurance numbers are 9 characters long, but the characters are often spaced in pairs 
 so you'll need to allow for at least 13 characters in any text fields.
 
-Do not use "AB 12 34 56 C" as an example. 
+Do not use "AB 12 34 56 C" as an example (it belongs to a real person). 
 
 Instead, use: "QQ 12 34 56 C"
 

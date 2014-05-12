@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance-2
-title: End page
-subtitle: 
+title: End pages
+format: 'Design pattern'
 category: design-and-development-resources
 type: resource
 audience:
@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
 The end page of any transaction should be a page on the GOV.UK domain.

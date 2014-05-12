@@ -17,17 +17,23 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
+When people interact with multi-page transactions they can sometimes become frustrated, 
+disorientated or think they've finished when they haven't. 
+This can cause them to abandon the transaction before they've completed it.
 
-When people interact with multi-page transactions they can become disorientated or think that they've finished when they haven't. This can cause them to drop out of the transaction before they've completed it.
+Add a progress indicator to reassure users that progress is being made and give an indication 
+of how much further there is to go.
 
-Progress indicators address this issue by telling users how many steps they've completed and how many more there are to go.
+### On this page:
 
-1. **[Step indicator](#step-indicator)**
-2. **[Progress bar](#progress-bar)**
-3. **[Summary menu](#summary-menu)**
+1. [Step indicator](#step-indicator)
+2. [Progress bar](#progress-bar)
+3. [Summary menu](#summary-menu)
+
+---
 
 <h2 class="heading-36" id="step-indicator">1. Step indicator</h2>
 
@@ -37,62 +43,102 @@ Tell the user what step they're on.
   <div class="ribbon">Recommended</div>
   <div class="inner-block">
     
-    <h1 class="heading-48">
-      <span class="heading-27">Step 3 of 5</span>
-      Payment details
-    </h1>
+    <img src="/service-manual/assets/images/design-patterns/step-indicator.png" alt="Example of a step indicator" />
     
   </div>
 </div>
 
-This approach should be tried before moving on to any of the others. It's accessible, compact and works well on all devices.
+**The good:**
+
+* simple, compact and accessible
+
+**The bad:**
+
+* doesn't give details of future steps
+
+As this is the simplest approach we recommend you try it before any others.
+It's often all users need to reassure them that they're making progress.
+
+
+---
 
 <h2 class="heading-36" id="progress-bar">2. Progress bar</h2>
 
 Show the steps horizontally across the top of the page, with the current step highlighted.
 
+<div class="example">
+  <div class="inner-block">
+    
+    <img src="/service-manual/assets/images/design-patterns/progress-bar.png" alt="Example of a progress bar" />
+    
+  </div>
+</div>
 
-<h3 class="heading-24">The good</h3>
 
-* Provides an overiew of the entire process
-* Steps can be used as navigation
+**The good:**
 
-<h3 class="heading-24">The bad</h3>
+* provides an overiew of the entire process
+* steps can be used as navigation
 
-* Can be hard to fit into the available space, especially on small screens
 
-<h3 class="heading-24">Guidance</h3>
+**The bad:**
 
-* Works best when the sequence of steps is fixed
-* Number the steps to reinforce their sequential nature
-* Don't rely on progress bars for navigation - you'll still need to provide 'Back' and 'Next' links on each screen
+* takes up a lot of space, particularly on small screen devices
 
+
+**Guidance:**
+
+* only use with a small, fixed sequence of steps
+* number the steps to reinforce their sequential nature
+* don't rely on progress bars for navigation - you'll still need to provide 'Back' and 'Next' links on each screen
+
+---
 
 <h2 class="heading-36" id="summary-menu">3. Summary menu</h2>
 
-Provide a vertical list of links to each section, which can be completed in any order.
+<div class="example">
+  <div class="inner-block">
+  
+    <img src="/service-manual/assets/images/design-patterns/summary-menu.png" alt="Example of a summary menu" />
+
+  </div>
+</div>
+
+Provide a vertical list of links to each section, on the left of the page, which can be completed in any order.
 
 
 
-<h3 class="heading-24">The good</h3>
+**The good:**
 
-* Section titles can be longer
-* More room for more sections
-* Users can complete sections in an order that suits them
-* Steps can be partially completed
-
-<h3 class="heading-24">The bad</h3>
-
-* Not always clear when the user has completed all the steps
-
-<h3 class="heading-24">Guidance</h3>
-
-A summary menu can work well for lengthy applications where the user might not have all the information to hand.
-They can complete the sections in the order they choose, then go back and finish the rest when they're able to.
-To fully take advantage of this though you'll need to provide a way for users to save and return to their work.
+* section titles can be longer
+* room for more sections
+* users can complete sections in an order that suits them
+* potential for steps to be partially completed
 
 
-Make sure these actually reflect what users have to do on each page. Avoid using general terms like ‘other’ or ‘more information’.
+**The bad:**
+
+* requires a lot of space
+* the challenge is letting users know when they have completed all the steps
+
+
+**Guidance:**
+
+A summary menu is similar to a to-do list. 
+It also has some of the advantages of paper forms.
+Users can jump around and preview sections,
+fill out the ones they can do immediately and then return to the more difficult ones.
+
+To take advantage of this though you'll need to provide a way for users to save and return to their work.
+
+All of this requires effort, so only implement this if you're sure your users need these features.
+
+---
+
+## Conclusion
+
+Go with the simplest approach that addresses your user's needs. 
+Don't assume that you'll definitely need a progress bar.
 
 ---
 

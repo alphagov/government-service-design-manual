@@ -17,88 +17,100 @@ breadcrumbs:
     url: /service-manual/design-and-content/index.html
   -
     title: Design patterns
-    url: /service-manual/design-and-content/design-patterns/index.html
+    url: /service-manual/design-and-content/patterns/index.html
 ---
 
 {:.intro}
-Choose a date picker that matches the way your users will want to enter that date.
+Not all dates are the same. Choose a format appropriate for the kind of date you're asking about.
 
 
-## Choose the right date picker
+### On this page:
 
-There are lots of ways to ask users to enter dates. 
-It depends on the kind of date they're entering.
-
-### Is this a date that most people would expect to have in their heads? 
-
-For example: date of birth, date of their child's birth, another memorable anniversary. 
-
-If so, it's likely to be easier for them to type it into free text fields.
-
-[See our guidance on capturing known dates](#capturing-known-dates).
-
-
-### Is this a date that they will need to copy from another document? 
-
-For example: start date of a passport, expiry date of a credit card. 
-
-If so, it's likely to be easier for them to copy the exact same format as the format used in the other document.
-
-
-### Is this a date that they may only remember approximately? 
-
-For example: date of starting a job (if several years ago), date of a doctor's appointment (if a few weeks ago).
-
-If so, make sure that you allow for approximate dates.
-
-
-### Is this a date that makes most sense relative to today's date? 
-
-For example: booking an appointment in the future. 
-
-If so, provide an optional calendar, and let users enter values like 'today' or 'tomorrow'.
-
-
-### Is this a date that makes most sense relative to another date? 
-
-For example: departure and return dates from a trip. 
-
-If so, consider offering options like 'a week later' for the later date?
+1. [Memorable dates](#memorable-dates)
+2. [Copied dates](#copied-dates)
+3. [Approximate dates](#approximate-dates)
+4. [Relative dates](#relative-dates)
+5. [Calendar controls](#calendar-controls)
+6. [Formatting dates](#formatting-dates)
+7. [Validating dates](#validating-dates)
 
 ---
 
-## Capturing known dates
+<h2 class="heading-36" id="memorable-dates">1. Memorable dates</h2>
 
-Our current recommendation for capturing known dates like date of birth is to use three clearly labelled text boxes.
+
+For capturing memorable dates like dates of birth, the simplest option is to provide text fields for users to type the date in.
+
+For example:
 
 <div class="example">
   <img src="/service-manual/assets/images/design-patterns/date-of-birth.png" alt="An example of a date of birth picker">
 </div>
 
-We've found that some users struggle with long select boxes, which is why we're not recommending you use them.
-See [this blog post](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/) for a more detailed account of our findings.
-
-Don't use calendar controls for dates of birth. 
-They're more appropriate for recent past or future dates, or where the day of the week is relevant.
+Calendar controls are not particularly useful for known dates and [some users struggle with select boxes](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/).
+We're currently recommending using three fields as it's easier to reliably validate than a single field.
 
 **Tip:** If you want to trigger the num-pad on iPhones, add a pattern attribute to the input element like this: `pattern="[0-9]*"`
 
 ---
 
-## Date formats
+<h2 class="heading-36" id="copied-dates">2. Copied dates</h2>
 
-Periods of time when used in questions or help text should follow the format in this example: 
-8 July to 9 August.
+If you require a date to be provided EXACTLY as it's given on another document (a passport or credit card for example),
+then it's easier for users to copy the date across if the format is the same.
 
 ---
 
-## Validating dates
+<h2 class="heading-36" id="approximate-dates">3. Approximate dates</h2> 
 
-When asking for date ranges make sure the validation forces the user to enter consecutive dates or show an error message.
-Include days of the week to help the user with this. 
+If you don't need an exact date and users are likely to struggle to remember it (for example the date you started your first job),
+make sure you allow users to enter approximate dates like 'June 1996'.
 
-When asking for past or future dates make sure validation starts from today’s date. 
-Show an error message if user input isn’t in the past or future.
+---
+
+<h2 class="heading-36" id="relative-dates">4. Relative dates</h2> 
+
+Some dates make most sense relative to today's date or another date.
+This is particularly common when booking appointments of some kind.
+
+In these cases it helps if you let users enter or select relative dates like 'tomorrow' or '4 days later'.
+If the day of the week is important, show this as well. 
+
+---
+
+<h2 class="heading-36" id="calendar-controls">5. Calendar controls</h2> 
+
+Calendar controls are only appropriate for near past or future dates, where the day of the week is relevant.
+Their main use case is for appointment booking.
+
+If you also need to show information like availability, embed the calendar in the page and make it large enough for
+the information to be readable.
+
+A JavaScript dependant calendar control should never be the only input option.
+
+---
+
+<h2 class="heading-36" id="formatting-dates">6. Formatting dates</h2> 
+
+The default date format to use is this one:
+
+* 8 July 2014
+
+Periods of time should be formatted like this:
+
+* 8 July to 9 August
+
+
+---
+
+<h2 class="heading-36" id="validating-dates">7. Validating dates</h2>
+
+When you're validating dates, remember to check the following:
+
+* **date ranges** - check the dates are consecutive
+* **past dates** - check the date is in the past
+* **future dates** - check the date is in the future
+* **mistyped dates** - if a date is obviously mistyped, warn users
 
 ---
 

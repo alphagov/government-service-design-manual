@@ -40,6 +40,22 @@
     font-style: normal;
     color: $hm-government;
   }
+
+  .ribbon {
+    background-color: $grass-green;
+    overflow: hidden;
+    position: absolute;
+    right: -50px;
+    top: 40px;
+    -moz-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    color: #fff;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 3px 50px;
+  }
+
 }
 
 

@@ -38,16 +38,16 @@ Use them to maintain a consistent design across our services.
 ### Transaction pages
 
 <ul>
-  <li><a href="start-page.html">Start pages</a></li>
-  <li><a href="end-page.html">End pages</a></li>
-  <li><a href="check-your-answers-page.html">Check your answers pages</a></li>
+  <li><a href="start-pages.html">Start pages</a></li>
+  <li><a href="end-pages.html">End pages</a></li>
+  <li><a href="summary-pages.html">Summary pages</a></li>
 </ul>
 
 ---
 
 ## Get involved
 
-All the patterns here are based on best practice and grounded in user testing.
+The patterns here are based on best practice and user research.
 However, if you find a better approach to something or want to suggest a new pattern then let us know on the [design patterns wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql).
 
 
