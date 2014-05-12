@@ -7,6 +7,7 @@ GEM
       fast-stemmer (>= 1.0.0)
     coderay (1.0.9)
     colorator (0.1)
+    colorize (0.7.2)
     commander (4.1.5)
       highline (~> 1.6.11)
     daemons (1.1.9)
@@ -55,6 +56,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth (= 4.2.9)
   coderay (= 1.0.9)
+  colorize (= 0.7.2)
   jekyll (= 1.2.1)
   jekyll-sass (= 1.1.0)
   kramdown (= 0.14.2)
