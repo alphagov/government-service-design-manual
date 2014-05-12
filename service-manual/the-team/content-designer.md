@@ -36,7 +36,7 @@ The content designer’s job is to make sure that doesn’t happen.
 ##Skills and attributes
 Content designers must be able to:
 
-- [identify user needs](/service-manual/users) -- based on:
+- [identify user needs](/service-manual/user-centred-design) -- based on:
   - legacy content
   - source material provided by policy colleagues
   - feedback from users and stakeholders
