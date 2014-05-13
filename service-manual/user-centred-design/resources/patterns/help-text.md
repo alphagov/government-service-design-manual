@@ -21,7 +21,7 @@ Sometimes though you'll need to provide extra help.
 
 1. [Writing help text](#writing-help-text)
 2. [Inline help text](#inline-help-text)
-3. [Expanding help text](#expanding-help-text)
+3. [Hidden help text](#hidden-help-text)
 4. [Detailed help](#detailed-help)
 
 ---
@@ -77,7 +77,7 @@ users before they get to the field itself.
 
 ---
 
-<h2 class="heading-36" id="expanding-help-text">3. Expanding help text</h2>
+<h2 class="heading-36" id="hidden-help-text">3. Hidden help text</h2>
 
 A short link that expands into more detailed help when clicked on.
 
@@ -85,27 +85,25 @@ A short link that expands into more detailed help when clicked on.
     <img src="/service-manual/assets/images/design-patterns/details-tag.gif" alt="Example of expanding help text">
 </div> 
 
-Used carefully this is a good way of keeping the interface free from clutter.
+Use this to make your page easier to scan, but don't hide text if a majority of users will need it.
 
-Only use this for help that's only relevant to a minority of users.
-Remember - if most people need the text, don't hide it.
-
-Try link text that expresses the immediate user need rather than the generic 'Help' or 'Info'. For example 'I can't find my National Insurance number', or 'What's this?'.
 
 ---
 
 <h2 class="heading-36" id="detailed-contextual-help">4. Detailed help</h2>
 
-Very occasionally you'll need to give users access to more detailed supporting content from within a transaction.
+[This pattern is still under discussion](https://designpatterns.hackpad.com/Contextual-help-XqnDcGgTBKQ)
 
-One example on GOV.UK is the [Lasting Power of Attorney](https://lastingpowerofattorney.service.gov.uk) service.
-Because the subject matter is complicated and the decisions the user is making are very serious the service needs to support users who are learning about the subject as they go through the forms. 
+If your users have to make difficult or complex decisions that can't be supported by the above approaches you might need to provide them with more detailed help.
 
-In this case a modal dialogue is opened at the relevant page. The user can read as much or as little of the help content they need, dismiss the dialogue and then continue with the form.
+Make sure that users:
 
-<div class="example">
-    <img src="/service-manual/assets/images/design-patterns/detailed-help.gif" alt="Example of detailed help text">
-</div> 
+* can access the help before and during the transaction
+* can get back to the transaction without losing their place
+* are shown help that's relevant to their current situation
+
+Don't use detailed help to explain how to use the interface - it should be simple enough to use without this.
+
 
 
 ---

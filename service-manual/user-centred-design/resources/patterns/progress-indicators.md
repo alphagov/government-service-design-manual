@@ -13,12 +13,9 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-When people interact with multi-page transactions they can sometimes become frustrated, 
-disorientated or think they've finished when they haven't. 
-This can cause them to abandon the transaction before they've completed it.
-
-Add a progress indicator to reassure users that progress is being made and give an indication 
-of how much further there is to go. Don't assume that you'll need a progress bar though.
+{:.intro}
+Use these to reassure users that they're making progress and give an indication 
+of how much further there is to go.
 
 
 ### On this page:
@@ -78,10 +75,12 @@ Show the steps horizontally across the top of the page, with the current step hi
 **The bad:**
 
 * takes up a lot of space, particularly on small screen devices
+* adds visual noise which may distract from the important content
 
 
 **Guidance:**
 
+* don't assume you'll need one of these
 * only use with a small, fixed sequence of steps
 * number the steps to reinforce their sequential nature
 * don't rely on progress bars for navigation - you'll still need to provide 'Back' and 'Next' links on each screen
@@ -89,6 +88,10 @@ Show the steps horizontally across the top of the page, with the current step hi
 ---
 
 <h2 class="heading-36" id="summary-menu">3. Summary menu</h2>
+
+[This pattern is still under discussion](https://designpatterns.hackpad.com/Progress-indicators-3AOrLoia9Us)
+
+Provide a vertical list of links to each section. Let users complete the sections in any order.
 
 <div class="example">
   <div class="inner-block">
@@ -98,41 +101,20 @@ Show the steps horizontally across the top of the page, with the current step hi
   </div>
 </div>
 
-Provide a vertical list of links to each section, on the left of the page, which can be completed in any order.
-
-
-
 **The good:**
 
 * section titles can be longer
 * room for more sections
 * users can complete sections in an order that suits them
-* potential for steps to be partially completed
+* users can jump around and preview sections before completing them
 
 
 **The bad:**
 
-* requires a lot of space
-* the challenge is letting users know when they have completed all the steps
+* takes up a lot of space
+* requires more effort to implement
+* some usability challenges - for example, letting users know they've finished all the sections
 
-
-**Guidance:**
-
-A summary menu is similar to a to-do list. 
-It also has some of the advantages of paper forms.
-Users can jump around and preview sections,
-fill out the ones they can do immediately and then return to the more difficult ones.
-
-To take advantage of this though you'll need to provide a way for users to save and return to their work.
-
-All of this requires effort, so only implement this if you're sure your users need these features.
-
----
-
-## Conclusion
-
-Go with the simplest approach that addresses your user's needs. 
-Don't assume that you'll definitely need a progress bar.
 
 ---
 

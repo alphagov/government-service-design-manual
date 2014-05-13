@@ -16,21 +16,30 @@ breadcrumbs:
 {:.intro}
 Choose a structure for your forms that most naturally fits they way people need to use them.
 
+### On this page:
 
-## Asking questions
+1. [Asking questions](#asking-questions)
+2. [Structuring forms](#structuring-forms)
+3. [Example structures](#example-structures)
+
+---
+
+## 1. Asking questions
 
 You can use a question or statement format. 
 For example ‘What is your date of birth?’ or ‘Date of birth’.
 Just remember to be consistent across the transaction.
 
-Try to:
+Guidance:
 
+* use questions or statements, but be consistent
 * ask for as little information as you can
 * keep the questions short and straightforward 
 * explain why you're asking a question if it's not obvious
 
+---
 
-## Structuring forms
+## 2. Structuring forms
 
 Ask yourself:
 
@@ -44,8 +53,9 @@ Ask yourself:
 * do any parts of the transaction take place offline?
 * at what point is the transaction regarded as complete?
 
+---
 
-## Example structures
+## 3. Example structures
 
 Thinking about the above will help you decide on an appropriate structure.
 Here are some of the more common approaches:

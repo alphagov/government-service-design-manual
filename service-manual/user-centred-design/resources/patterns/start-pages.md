@@ -14,17 +14,26 @@ breadcrumbs:
 ---
 
 {:.intro}
-Every transaction on GOV.UK should have a start page.
-Users should not be able to jump to a later page in the service via a search engine or some other means.
+All digital services that government provides need a start page. This is the single point of entry for the service that tells the user what they can expect once they click ‘Start’. 
 
-Start and end pages are designed and hosted by GDS. 
-If you're developing a service for GOV.UK, [contact us with your requirements](https://www.gov.uk/contact/govuk).
 
-Include the following:
+The service should not be accessible through search engines, nor should the URL be shared publicly.
 
-* a summary of what your service does and what the users will get from it
-* the 3 main pieces of information the user needs to get through the service, eg their National Insurance number, date of birth, bank account number
-* a list of the most important keywords for search engine optimisation (pages within the service won’t be indexed in GOV.UK search)
+You need to be thinking about what will go on the start page from the [alpha](/service-manual/phases/alpha.html) stage. You will need to have a functioning start page, hosted by GOV.UK, ready for the [beta](/service-manual/phases/beta.html) stage. 
+
+[Contact us](https://www.gov.uk/contact/govuk) using the content requests route once you’ve passed your alpha assessment (or self-certification).
+
+The start page and the content in your service should complement each other. Take a look at our [blog post](https://designnotes.blog.gov.uk/2013/11/14/start-page-discovery/) to see our thinking when creating a start page. The [renew a tax disc](https://www.gov.uk/tax-disc) start page is a great example of how a start page should look.
+
+When you contact us, we need to know:
+
+* what the service is and who it’s for
+* what user needs it addresses
+* eligibility criteria and restrictions
+* what documents or information the user will need to use the service
+* a preview of the service (if available)
+* other methods of applying eg phone or post
+
  
 ---
 
