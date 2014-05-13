@@ -16,7 +16,6 @@ breadcrumbs:
 {:.intro}
 All digital services that government provides need a start page. This is the single point of entry for the service that tells the user what they can expect once they click ‘Start’. 
 
-
 The service should not be accessible through search engines, nor should the URL be shared publicly.
 
 You need to be thinking about what will go on the start page from the [alpha](/service-manual/phases/alpha.html) stage. You will need to have a functioning start page, hosted by GOV.UK, ready for the [beta](/service-manual/phases/beta.html) stage. 
