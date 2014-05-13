@@ -48,7 +48,7 @@ It is often difficult to conduct accessibility testing early on in the process o
 For accessibility testing to be worth doing, real content needs to be in place
 rather than dummy text so that it can be assessed by those with any cognitive
 or learning difficulties. Interactive elements such as calls to action,
-hyperlinks, forms, etc must be in place if motor skills are being assessed.
+hyperlinks, forms etc must be in place if motor skills are being assessed.
 
 ## Accessibility audits
 

@@ -29,7 +29,7 @@ open source libraries that make it trivial to add login functionality to your
 service, there are significant downsides:
 
 * significantly increasing your user support overhead (people forget how to
-  sign in, lose their passwords, etc)
+  sign in, lose their passwords etc)
 * gathering personal data that you will need to constantly review and protect
 * adding a relatively complex interaction for users to complete
 
@@ -52,7 +52,7 @@ but if there's an alternative to a login system, that should be preferred.
 If after careful review and design work there is no option but to build a
 login system you will need to consider a few questions:
 
-* are you providing a login service for a small number of agents (administrative users, accredited partners, etc) or for a broad range of citizens or businesses?
+* are you providing a login service for a small number of agents (administrative users, accredited partners etc) or for a broad range of citizens or businesses?
 * do you already have all the data you need in order to establish trust with those users or will you need to match them against other services (online or offline)?
 
 If building a service for a small number of clearly identified agents then

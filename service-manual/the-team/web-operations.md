@@ -42,7 +42,7 @@ At a high level they will:
 
 With specific skills:
 
-* deep understanding of the target operating system; Windows, Linux, Unix, etc.
+* deep understanding of the target operating system; Windows, Linux, Unix etc.
 * experience of multiple programming languages
 * common deployment patterns
 * continuous integration
@@ -50,7 +50,7 @@ With specific skills:
 * load and performance testing techniques
 * highly available systems design
 * administration and tuning of production database systems.
-* installation and usage of monitoring tools; for instance Nagios, Ganglia, Riemann, Graphite, etc.
+* installation and usage of monitoring tools; for instance Nagios, Ganglia, Riemann, Graphite etc.
 * knowledge of configuration, deployment and management of web application stacks
 * configuration management tools like Puppet, Chef, CFEngine
 

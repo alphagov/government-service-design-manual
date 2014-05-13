@@ -195,7 +195,7 @@ It is important to start understanding risks and engaging with the assurance and
 
 It's important to understand the assurance and accreditation processes and tools are all about managing the risk associated with the running service. Security is part of this, but just one part.
 
-Nearly everything brings with it risks: technology choice, staffing, processes, access to Restricted documents, data aggregation, etc. It's important to understand those risks and put in place sensible and suitable mitigations. It's unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future failure.
+Nearly everything brings with it risks: technology choice, staffing, processes, access to Restricted documents, data aggregation etc. It's important to understand those risks and put in place sensible and suitable mitigations. It's unrealistic in most cases to aim for a system with no risks, and ignoring them is a recipe for future failure.
 
 The aim is a system where the risks are known and the team, working with risk professionals, have made careful decisions about how to deal with them.
 

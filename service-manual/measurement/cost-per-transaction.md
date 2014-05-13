@@ -55,11 +55,11 @@ In the full cost of the transaction, include:
 * office equipment, including IT systems
 * postage, printing, telecommunications
 * total employment costs of those providing the service, including training
-* overheads, eg (shares of) payroll, audit, top management costs, legal services, etc
+* overheads, eg (shares of) payroll, audit, top management costs, legal services etc
 * raw materials and stocks
 * research and development
 * depreciation of start up and one-off capital items
-* taxes (VAT, council tax, stamp duty, etc)
+* taxes (VAT, council tax, stamp duty etc)
 * capital charges (if they were not met separately when the service was established)
 * speculative or actual insurance premiums
 * fees to sub-contractors

@@ -37,7 +37,7 @@ Ensuring your service meets the [Digital by Default Service Standard](/service-m
 
 Native apps are downloadable software applications that run using the device's operating system code and APIs.
 
-They persist on the device and can access all the hardware features (camera, storage, phone capabilities, etc). Because they run using native code, different versions must be created for each operating system. Examples of native apps include Spotify, Angry Birds, Instagram and Skype.
+They persist on the device and can access all the hardware features (camera, storage, phone capabilities etc). Because they run using native code, different versions must be created for each operating system. Examples of native apps include Spotify, Angry Birds, Instagram and Skype.
 
 #### Pros
 - revenue (download and buy)
@@ -57,7 +57,7 @@ They persist on the device and can access all the hardware features (camera, sto
 
 Responsive web design is a design approach that optimises users' viewing experiences across a wide range of devices. When a responsive website is accessed via a mobile phone, it is sometimes referred to as a 'mobile web app'.
 
-Responsive websites are built using open web standards (HTML, CSS, javascript, etc) and they run inside a device's web browser.
+Responsive websites are built using open web standards (HTML, CSS, javascript etc) and they run inside a device's web browser.
 
 Examples include [GOV.UK](https://www.gov.uk/), [FT webapp](http://apps.ft.com/ftwebapp/), [BBC Sport](http://www.bbc.co.uk/sport/0/).
 
