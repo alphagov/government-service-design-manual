@@ -36,7 +36,7 @@ These factors will decide if the process of arranging enquiries will be carried 
 
 At the very least, arrange enquiries by:
 
-* channel (phone, email, chat, social media, surface mail, etc)
+* channel (phone, email, chat, social media, surface mail etc)
 * the target group that can act on the feedback
 
 ## Potential subgroup categories
@@ -63,7 +63,7 @@ Is a reply necessary/expected or not?
 
 ### Enquiry status
 
-Is an enquiry open, pending some other action, solved, etc
+Is an enquiry open, pending some other action, solved etc
 
 ### Enquiry category or categories
 

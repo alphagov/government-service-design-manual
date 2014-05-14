@@ -42,7 +42,7 @@ Hertfordshire County Council, as explained in [this case study](/service-manual/
 
 * rapidly implementing changes to your service based on effective user research; Leisa Reichelt, head of user research at GDS, has provided a [step-by-step description](https://gds.blog.gov.uk/2013/08/30/how-we-do-user-research-in-agile-teams/) of how her team delivers timely, relevant and actionable user research
 * identifying all the ways that your service is currently promoted to first- time users, and ensuring that the digital service is promoted through these channels
-* making your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost, etc
+* making your current offline users aware of how your digital service will meet their needs, like convenience, speed, reduced cost etc
 * training frontline staff on how to make current users of offline channels aware of your digital service, how it meets their needs, and support users to try the digital service for the first time
 * training and supporting your delivery partners in providing practical support to first-time users of your service
 identifying all your delivery partners and making sure that at every point of contact (between them and your users) they inform users about the digital option in a positive way
@@ -75,7 +75,7 @@ This [case study](/service-manual/assets/documents/landregistry-case-study-2.pdf
 * identifying the benefits of the digital service for your delivery partners and highlighting these in your engagement with them
 *making sure that these organisations and intermediaries are aware of the digital channels available for accessing your service, and are convinced of the benefits to the user
 * mapping all the offline customer journeys for your service and identifying every ‘touch point’ ie through whom, how and where its accessed
-* making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups, etc
+* making sure that all points of contact are used to promote digital, ie frontline staff, partner organisations, voluntary groups etc
 * making sure that staff and partners are familiar with the service through demos and help with digital transactions -- you need to train staff well so that they are able to help users and don’t lead them back to more traditional channels
 * preparing staff (and unions) as early as possible for the adjustments to working practices that channel shift will cause
 

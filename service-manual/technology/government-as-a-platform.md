@@ -23,7 +23,7 @@ The government is implementing a [platform-based](/government/publications/case-
 
 One simple analogy for a platform is the Lego brick, which provides the basis for constructing many different products from the same components. The [GOV.UK publishing platform](https://gds.blog.gov.uk/govuk-launch-colophon/) provides the basis for many different products and services to be provided to citizens and businesses.
 
-Businesses like Amazon iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase, etc). They deliver a scalable, consistently high-quality user experience using open source and open standards. Their world looks something like this:
+Businesses like Amazon iterate and improve their services based on data, not intuition or guesswork. Their services are built on common technology platforms (search, recommendations, purchase etc). They deliver a scalable, consistently high-quality user experience using open source and open standards. Their world looks something like this:
 
 <img src="/service-manual/assets/images/platform-diagram.png" alt="Diagram showing a simple version of Amazon's platform diagram" />
 
