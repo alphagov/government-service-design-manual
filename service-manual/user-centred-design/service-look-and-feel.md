@@ -53,7 +53,7 @@ Services should use clear, easy to read type, with consistent styles and a clear
 
 You'll be given access to the New Transport typeface if your service is on GOV.UK.
 
-[Read our full guidance on typography](govuk-elements.herokuapp.com/#guide-typography).
+[The GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html) has more information about typography.
 
 ## Pictures and icons
 

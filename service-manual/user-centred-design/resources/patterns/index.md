@@ -21,8 +21,10 @@ Use them to maintain a consistent design across our services.
 
 ### Forms
 
+See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html) 
+for guidance on stying the basic form elements.
+
 <ul>
-  <li><a href="http://govuk-elements.herokuapp.com/#guide-forms">Form elements</a></li>
   <li><a href="form-structure.html">Form structure</a></li>
   <li><a href="progress-indicators.html">Progress indicators</a></li>
   <li><a href="help-text.html">Help text</a></li>
