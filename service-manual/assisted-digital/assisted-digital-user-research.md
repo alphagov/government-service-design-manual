@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual
   -
     title: Assisted digital
-    url: /service-manual/assisted-digital-user-research
+    url: /service-manual/assisted-digital
 ---
 
 ##Researching assisted digital users -- a guide for service managers

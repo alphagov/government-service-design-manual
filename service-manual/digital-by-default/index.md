@@ -33,7 +33,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
         <li><a href="/service-manual/user-centred-design/user-needs.html">User needs</a></li>
         <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
       </ul>
@@ -218,7 +218,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
         <li><a href="/service-manual/user-centred-design/user-research">User research</a></li>
         <li><a href="/service-manual/user-centred-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
       </ul>
