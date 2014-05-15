@@ -96,7 +96,7 @@ Assisted digital support should follow shared models which are currently being d
   * face by face support at home (outreach)
 
 1. What research have you conducted and what feedback have you received on your user journeys from users and/or experts?
-1. How will you fund your assisted digital support so that it’s sustainable or is the support free to the user?
+1. How will you fund your assisted digital support so that it’s sustainable, and is the support free to use for the user?
 1. How will you gather user insights and use them to iterate your assisted digital support in beta?
 
 ## Beta: testing and measuring your service
