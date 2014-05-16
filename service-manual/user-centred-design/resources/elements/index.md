@@ -18,7 +18,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-This guide (currently in alpha and hosted on Heroku) explains how to make your service look consistent with the rest of GOV.UK.
+This guide explains how to make your service look consistent with the rest of GOV.UK. It's currently in alpha and not hosted on GOV.UK.
 
 <ol>
   <li><a href="http://govuk-elements.herokuapp.com/#guide-layout">Layout</a></li>
