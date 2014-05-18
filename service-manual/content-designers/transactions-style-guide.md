@@ -266,8 +266,6 @@ You don’t have to use titles in your service.
 If you do, use this format:
 
 * Mr
-* Mrs
-* Miss
 * Ms
 * Other [when selected this switches to a free text field]
 
