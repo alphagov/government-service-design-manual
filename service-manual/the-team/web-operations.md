@@ -5,7 +5,7 @@ subtitle: helping develop maintainable systems
 category: the-team
 type: guide
 audience:
-  primary:
+  primary: web-ops
   secondary:
 status: draft
 phases:

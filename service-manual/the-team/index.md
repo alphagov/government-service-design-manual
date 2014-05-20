@@ -7,6 +7,7 @@ category: the-team
 type: category-index
 audience:
   primary: service-managers
+  secondary: web-ops
 phases:
   - discovery
 breadcrumbs:

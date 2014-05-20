@@ -5,7 +5,7 @@ subtitle: Identify insecurities in your service
 category: operations
 type: guide
 audience:
-  primary:
+  primary: web-ops
   secondary: developers, tech-archs
 status: draft
 breadcrumbs:

@@ -6,7 +6,7 @@ category: making-software
 type: guide
 audience:
   primary: service-managers, tech-archs
-  secondary: developers, chief-technology-officers
+  secondary: developers, web-ops, chief-technology-officers
 status: draft
 phases:
   - alpha
