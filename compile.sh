@@ -7,6 +7,8 @@ if [ $(find . -name '*.orig' -type f | grep -c .) -ne 0 ]; then
   exit 1
 fi
 
+bundle
+
 echo "Linting"
 go run lint.go service-manual
 
