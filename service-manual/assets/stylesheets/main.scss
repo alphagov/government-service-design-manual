@@ -21,28 +21,17 @@
 @import "styleguide/_colours.scss";
 @import "styleguide/_dimensions.scss";
 
-@import "design-patterns/_utils.scss";
-@import "design-patterns/_accordion-form.scss";
-@import "design-patterns/_account-management-tools.scss";
-@import "design-patterns/_buttons.scss";
-@import "design-patterns/_forms.scss";
-@import "design-patterns/_from-dept.scss";
-@import "design-patterns/_popups.scss";
-@import "design-patterns/_help-popup.scss";
-@import "design-patterns/_panels.scss";
-@import "design-patterns/_progress-indicator.scss";
-@import "design-patterns/_grid.scss";
-@import "design-patterns/_show-hide.scss";
-
 // Helpers
+@import "helpers/_buttons.scss";
 @import "helpers/_breadcrumbs.scss";
+@import "helpers/_examples.scss";
 @import "helpers/_contents.scss";
 @import "helpers/_github-links.scss";
 @import "helpers/_global-nav.scss";
 @import "helpers/_link-list.scss";
 @import "helpers/_page-header.scss";
-@import "helpers/_page-status.scss";
 @import "helpers/_page-tools.scss";
+@import "helpers/_grid.scss";
 @import "helpers/_role-links.scss";
 @import "helpers/_tables.scss";
 @import "helpers/_tooltip.scss";
@@ -50,28 +39,18 @@
 @import "helpers/_inline-images.scss";
 @import "helpers/_media-player.scss";
 
+
 // Views
 @import "views/_default.scss";
 
 @import "views/_browse.scss";
 @import "views/_category-index.scss";
 @import "views/_colour-palettes.scss";
-@import "views/_design-patterns.scss";
+@import "views/_design-pattern.scss";
 @import "views/_detailed-guidance.scss";
 @import "views/_home-page.scss";
-@import "views/_icons.scss";
 @import "views/_phases.scss";
 @import "views/_role-index.scss";
 @import "views/_standard.scss";
 @import "views/_wide.scss";
-
-@import "views/_accordion-form.scss";
-@import "views/_buttons.scss";
-@import "views/_emphasised-form-controls.scss";
-@import "views/_forms.scss";
-@import "views/_hidden-form-controls.scss";
-@import "views/_icons.scss";
-@import "views/_panels.scss";
-@import "views/_progress-indicator.scss";
-@import "views/_grid.scss";
 

@@ -1,0 +1,41 @@
+// ====================================================
+// DESIGN PATTERN PAGES
+//
+
+.design-pattern {
+
+  header.page-header {
+    margin-bottom: 0;
+    h1 {
+      padding: 0;
+      span{
+        @include core-24;
+        display: block;
+        margin-bottom: 10px;
+        color: $secondary-text-colour;
+      }
+    }
+  }
+
+  .article-container {
+    .inner {
+      padding: 0 1em 2em 1em;
+
+      @include media(desktop) {
+        margin-left: 1em;
+        padding: 0 33.33% 2em 1em;
+      }
+
+      // 1st para is bigger
+      .intro {
+        @include core-24;
+        padding: 10px 0;
+        margin: 0 0 1.5em 0;
+      }
+
+      img {
+        max-width: 100%;
+      }
+    }
+  }
+}
