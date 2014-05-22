@@ -73,7 +73,7 @@ references existing work wherever possible. In particular extensive reference
 is made to:
 
 * [ISO/IEC 27001 - information security management](http://www.iso.org/iso/home/standards/management-standards/iso27001.htm)
-* [Cloud controls matrix](https://cloudsecurityalliance.org/research/ccm/)
+* [Cloud Security Alliance - cloud controls matrix](https://cloudsecurityalliance.org/research/ccm/)
 
 ## Not all principles are relevant to all services
 
