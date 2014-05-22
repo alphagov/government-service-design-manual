@@ -44,7 +44,7 @@ To be able to do this, you have to consider:
 
 Although you need tools (potentially including commercial tools) to help with rapid releases, don’t start your discussions around what tools should be used or procured! Start discussions based on the needs of the service and the product team.
 
-## Why GDS do this
+## Why government does this
 
 In some organisations, people fear releasing new applications or new versions of software. Lots of websites, especially large applications within large traditional organisations, don’t change very often. Many will have fixed release schedules which might mean 1 release every 6 months or so. This means bundling up lots of changes into a single release, which is bad in at least 2 ways:
 
@@ -57,7 +57,7 @@ The combination of complexity, risk, and the infrequent nature of releases make 
 
 ## Regular releases reduce risk
 
-Releasing software comes with risks, so trying to minimise those risks is a good idea. GDS do this in a number of ways, and the benefit of this is that:
+Releasing software comes with risks, so trying to minimise those risks is a good idea. GDS does this in a number of ways, and the benefit of this is that:
 
 * releasing smaller chunks regularly makes it much easier to see what’s going to change, and if something goes wrong it’s much simpler to undo
 * doing something regularly makes the case for investing in automation easier, removing much of the potential for human error and making each release the same

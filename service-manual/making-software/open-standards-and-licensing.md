@@ -97,12 +97,12 @@ You'll need to apply for exemptions to open standards if:
 ## Why GDS do this
 
 By implementing open standards for software interoperability, data and document
-formats, GDS are:
+formats, government is:
 
 * improving adaptability and the ability for government to provide services
   based on users’ needs -- avoiding digital exclusion based on the technology choices made
 * putting in place a level playing field for open source and proprietary
-  software, giving GDS the ability to move between different technologies
+  software, giving government the ability to move between different technologies
   without the risk of lock-in
 * making it easier to share appropriate data across and beyond government
   boundaries, providing efficient services for users and delivery partners
