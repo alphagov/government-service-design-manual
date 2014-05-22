@@ -65,7 +65,7 @@ Cons of native apps:
 Responsive web design is a design approach that optimises users' viewing experiences across a wide range of devices.
 
 When a responsive website is accessed via a mobile phone, it's sometimes referred to as a ‘mobile web app’.
-Responsive websites are built using open web standards (HTML, CSS, javascript etc) and they run inside a device’s web browser.
+Responsive websites are built using open web standards (HTML, CSS, JavaScript etc) and they run inside a device’s web browser.
 
 Examples include [GOV.UK](https://www.gov.uk/), PM's dashboard, [FT webapp](http://apps.ft.com/ftwebapp/), and [BBC Sport](http://www.bbc.co.uk/sport/0/).
 
