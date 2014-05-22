@@ -34,7 +34,7 @@ Make it possible for everyone working on your service to see progress and unders
 
 In addition to those environments, it’s helpful to have a separate staging environment where final quality assurance and testing takes place before changes are deployed to the live/production environment. Make this identical to the production environment so it can be used effectively for performance testing.
 
-## GOV.UK servers
+## GOV.UK development environments
 
 Those working on GOV.UK use:
 
@@ -42,9 +42,9 @@ Those working on GOV.UK use:
 * a preview environment that's updated by a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system whenever tests have passed on a change
 * a staging environment for review of specific changes before they go to the production environment (it's updated and reviewed as part of the release process
 
-## Why GDS do this
+## Why GOV.UK does this
 
-GDS set up the development environment in this way because:
+We set up the development environment in this way because:
 
 * everyone on the team should be able to understand progress to date by using running software
 * people working on the service should be able to understand the effect of their work by seeing it working in context

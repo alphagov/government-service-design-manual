@@ -115,7 +115,7 @@ Basing your build of component-based digital services on open standards will:
 
 * provide you with an adaptable design
 * give you greater choice
-* make it possible for your digital services to develop
+* make it possible for your digital services to change over time
 
 Expressing your user needs in terms of required capabilities, which are in turn
 based on open standards, helps you to make better choices for service delivery.
