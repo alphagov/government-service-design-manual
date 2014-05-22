@@ -30,7 +30,6 @@ If you have answered 'yes' to both of these then the service must meet the stand
 
 If you have answered 'no' to any of these questions then your service does not have to meet the standard.
 
-
 ## Why the standard doesn't apply to everything
 Government services cover a vast variety of activity, from the mainstream to the highly specialised. 
 
