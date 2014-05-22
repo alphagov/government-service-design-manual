@@ -26,9 +26,9 @@ To establish whether your service needs to meet the service standard, ask yourse
 * completely new and/or being redesigned?
 * the responsibility of a central government department, agency or non-departmental public body?
 
-If you have answered **yes** to both of these then the service must meet the standard before it can go live.
+If you have answered 'yes' to both of these then the service must meet the standard before it can go live.
 
-If you have answered **no** to any of these questions then your service does not have to meet the standard.
+If you have answered 'no' to any of these questions then your service does not have to meet the standard.
 
 
 ## Why the standard doesn't apply to everything
