@@ -150,7 +150,8 @@ work. More work is put in to assure the processes rather than putting all the ef
 into assuring a specific _transition_.
 
 Service management frameworks tend to acknowledge this, for instance ITIL has a
-concept of a standard change, but a specific implementation in a given organisation
+concept of a standard change (something commonly done, with known risks
+and hence pre-approved), but a specific implementation in a given organisation
 might not.
 
 ## Other frameworks exist
