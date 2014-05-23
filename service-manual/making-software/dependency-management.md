@@ -36,17 +36,17 @@ reduce the time taken to develop the software you are tasked with building. Area
 that are general, and not specific to your domain, are good examples of where a
 third party library is likely to exist. For instance for managing:
 
-* Time and dates
-* Money
-* Routing HTTP requests
-* Rendering HTML
-* Maths and statistics
+* time and dates
+* money
+* routing HTTP requests
+* rendering HTML
+* maths and statistics
 
 ## Strategies
 
-Their exist a number of different strategies for reusing code, some of which are
+There are a number of different strategies for reusing code, some of which are
 described below. In many cases a single project may use more than one of these, but
-in all cases it is worth doing so consiously.
+in all cases it is worth doing so consciously.
 
 ### Vendor dependencies
 
@@ -54,7 +54,7 @@ One approach to managing dependencies is simply to copy the code into your proje
 If you do take this approach be aware that not all open source licenses allow for this,
 while others will force you to license your code in the same way as the dependency.
 
-In general this approach is likely to be the last resort. Vendoring as it is called
+In general this approach is likely to be the last resort. Vendoring (as it is called)
 breaks the link with the third party code, meaning that tracking upstream changes becomes
 a manual (and likely slow, inconsistent and time consuming) job. Vendored code
 tends to become out of date quickly, ideally this should be avoided for more
@@ -64,12 +64,12 @@ structured approaches.
 
 A common approach, especially amongst the open source community, is to pull in
 third party dependencies automatically using a dependency management tool
-- either at runtime, deploy time or compile time. The assurance that this third
+-- either at runtime, deploy time or compile time. The assurance that this third
 party code is working is provided by extensive testing, generally of an automated
 nature.
 
-This should include testing of security characteristics, so if a library
-used to generate a web form introduces a SQL injection vulnerability then your acceptance
+This should include testing of security characteristics. For example if a library
+used to generate a web form introduces a SQL injection vulnerability, then your acceptance
 tests should fail. It is important under this model that a suitable level of verification
 is done, rather than just trusting any third party dependency completely. What is
 suitable will vary between services depending on the risk profile.
@@ -102,7 +102,7 @@ the time of writing.
 
 Within other communities it is less common to have so many independent dependencies,
 but it is worth noting that this tends to mean either a more comprehensive
-standard library (eg. Python) or larger dependencies (eg. Java).
+standard library (eg Python) or larger dependencies (eg Java).
 
 Ultimately the problem of dependency management exists within all programming
 communities, but the differences in tooling and approach are worth noting.
@@ -155,4 +155,4 @@ rather than rely on a single individual to alert everyone else.
 
 ## Further reading
 
-* [Configuration management](/service-manual/making-software/configuration-management.html)
+* [Configuration management](/service-manual/making-software/configuration-management)
