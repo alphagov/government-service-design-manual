@@ -17,6 +17,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
+  - lint.go
   - README.md
   - tools
 
