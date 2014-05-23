@@ -77,6 +77,12 @@ func goWalk(location string) chan string {
 func main() {
 	flag.Parse()
 	location := flag.Arg(0)
+
+	if len(location) == 0 {
+		fmt.Printf("Usage: go run lint.go path/to/markdown/dir\n")
+		os.Exit(2)
+	}
+
 	chann := goWalk(location)
 
 	exitCode := 0
