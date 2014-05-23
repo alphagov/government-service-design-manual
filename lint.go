@@ -10,57 +10,81 @@ import (
 	"strings"
 )
 
-func visit(path string, f os.FileInfo, err error) error {
-	if !strings.HasSuffix(path, ".md") {
-		return nil
-	}
+func goWalk(location string) chan string {
+	chann := make(chan string) // a channel to collect error messages
 
-	file, err := os.Open(path)
+	go func() {
+		filepath.Walk(location, func(path string, f os.FileInfo, err error) error {
 
-	if err != nil {
-		panic(err)
-	}
+			// Only parse things that look like markdown
+			if !strings.HasSuffix(path, ".md") {
+				return nil
+			}
 
-	defer file.Close()
+			file, err := os.Open(path)
 
-	reader := bufio.NewReader(file)
-	brackets, parens := 0, 0
+			if err != nil {
+				panic(err)
+			}
 
-	for {
-		b, err := reader.ReadByte()
+			defer file.Close()
 
-		if err != nil {
-			break
-		}
+			reader := bufio.NewReader(file)
+			brackets, parens := 0, 0
 
-		switch b {
-		case '[':
-			brackets++
-		case ']':
-			brackets--
-		case '(':
-			parens++
-		case ')':
-			parens--
-		}
-	}
+			// Parse the file
+			for {
+				b, err := reader.ReadByte()
 
-	switch {
-	case brackets < 0:
-		fmt.Printf("Bad Markdown URL in %s - extra closing bracket?\n", path)
-	case brackets > 0:
-		fmt.Printf("Bad Markdown URL in %s - extra opening bracket?\n", path)
-	case parens > 0:
-		fmt.Printf("Bad Markdown URL in %s - extra closing parenthesis?\n", path)
-	case parens > 0:
-		fmt.Printf("Bad Markdown URL in %s - extra opening parenthesis?\n", path)
-	}
+				if err != nil {
+					break
+				}
 
-	return nil
+				switch b {
+				case '[':
+					brackets++
+				case ']':
+					brackets--
+				case '(':
+					parens++
+				case ')':
+					parens--
+				}
+			}
+
+			// Check the results and accumulate any problems
+			switch {
+			case brackets < 0:
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket?", path)
+			case brackets > 0:
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening bracket?", path)
+			case parens > 0:
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
+			case parens > 0:
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
+			}
+
+			return nil
+		})
+
+		// Once we've walked all the files, close this channel to avoid deadlocks
+		defer close(chann)
+	}()
+
+	return chann
 }
 
 func main() {
 	flag.Parse()
-	root := flag.Arg(0)
-	filepath.Walk(root, visit)
+	location := flag.Arg(0)
+	chann := goWalk(location)
+
+	exitCode := 0
+
+	for msg := range chann {
+		fmt.Println(msg)
+		exitCode = 1
+	}
+
+	os.Exit(exitCode)
 }
