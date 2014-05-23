@@ -5,7 +5,7 @@ subtitle: Guidelines for the approval of technology spending
 category: technology
 type: guide
 audience:
-  primary: chief-technology-officers
+  primary: chief-technology-officers, tech-archs
 status: draft
 phases:
 breadcrumbs:

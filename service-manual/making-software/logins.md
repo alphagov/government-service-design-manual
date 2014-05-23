@@ -5,8 +5,8 @@ subtitle: How to do them and how to avoid them
 category: making-software
 type: guide
 audience:
-  primary: developers, tech-archs
-  secondary: designers, service-managers
+  primary: developers
+  secondary: designers, service-managers, tech-archs
 status: draft
 phases:
   - discovery

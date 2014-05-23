@@ -5,8 +5,8 @@ subtitle: Learning by doing
 category: user-centred-design
 type: guide
 audience:
-  primary: tech-archs
-  secondary: service-managers, designers, developers, user-researchers
+  primary:
+  secondary: service-managers, designers, developers, tech-archs, user-researchers
 status: draft
 phases:
   - alpha

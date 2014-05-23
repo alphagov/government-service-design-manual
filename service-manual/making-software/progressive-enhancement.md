@@ -6,7 +6,7 @@ category: making-software
 type: guide
 audience:
   primary: designers, developers
-  secondary: tech-archs
+  secondary:
 status: draft
 phases:
   - beta

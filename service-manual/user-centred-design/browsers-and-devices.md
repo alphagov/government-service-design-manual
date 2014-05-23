@@ -5,7 +5,7 @@ subtitle: Which ones to test with, and how best to support them
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers, tech-archs, user-researchers, qa, service-managers
+  primary: designers, developers, user-researchers, qa, service-managers
   secondary: delivery-managers, performance-analysts, content-designers
 status: draft
 phases:
