@@ -6,7 +6,7 @@ category: technology
 type: guide
 audience:
   primary: chief-technology-officers
-  secondary: chief-technology-officers
+  secondary:
 status: draft
 phases:
 breadcrumbs:
