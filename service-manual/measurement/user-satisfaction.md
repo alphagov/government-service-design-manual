@@ -6,7 +6,7 @@ category: measurement
 type: guide
 audience:
   primary: service-managers, performance-analysts
-  secondary: designers, developers, content-designers
+  secondary: designers, content-designers
 phases:
   - beta
   - live

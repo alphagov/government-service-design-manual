@@ -5,8 +5,8 @@ subtitle: Ensuring user data stays secure
 category: making-software
 type: guide
 audience:
-  primary: service-managers, web-ops, developers, tech-archs,
-  secondary: delivery-managers, qa
+  primary: service-managers, web-ops, tech-archs,
+  secondary: developers, delivery-managers, qa
 status: draft
 phases:
   - alpha

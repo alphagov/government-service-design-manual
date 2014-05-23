@@ -9,7 +9,8 @@ phases:
   - beta
   - live
 audience:
-  primary: designers, developers
+  primary: designers
+  secondary: developers
 status: draft
 breadcrumbs:
   -

@@ -6,7 +6,7 @@ category: operations
 type: guide
 audience: 
   primary: 
-  secondary: service-managers, designers, developers
+  secondary: service-managers, designers
 status: draft
 phases:
  - alpha

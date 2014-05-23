@@ -5,7 +5,7 @@ subtitle: How to develop assisted digital support
 category: assisted-digital
 type: guide
 audience:
-  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers
+  primary: service-managers, designers, tech-archs, performance-analysts, user-researchers
 status: draft
 phases:
   - discovery
@@ -30,8 +30,7 @@ The information in this document will help you to:
 * develop assisted digital support that meets user needs and provides good value for money
 
 <figure class="media-player-wrapper video">
-  <a href="https://www.youtube.com/watch?feature=player_embedded&v=hJUL-nz1crk">Watch the team describe how assisted digital is part of a service</a
-  >
+  <a href="https://www.youtube.com/watch?feature=player_embedded&v=hJUL-nz1crk">Watch the team describe how assisted digital is part of a service</a>
 </figure>
 
 ## Discovery: understanding your assisted digital users and their needs

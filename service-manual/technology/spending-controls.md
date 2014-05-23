@@ -6,7 +6,7 @@ category: technology
 type: guide
 audience:
   primary: chief-technology-officers
-  secondary: service-managers, designers, delivery-managers, developers, tech-archs
+  secondary: service-managers, designers, delivery-managers, tech-archs
 status: draft
 phases:
   - discovery
