@@ -48,9 +48,9 @@ solution, including exit and transition costs.
 ## Understanding risks
 
 CESG, the National Technical Authority maintain a series of good practice
-guides for information assurance. Good Practice Guide (GPG) 38 - Open Source
-Software Exploring the Risk. Broadly this concludes the quality of the
-software is the primary driver for security, rather than the license
+guides for information assurance, including Good Practice Guide (GPG) 38 -
+Open Source Software - Exploring the Risk. Broadly this concludes the quality
+of the software is the primary driver for security, rather than the license
 model. Closed or open source code is not more or less secure in the
 majority of cases due to licensing alone.
 
