@@ -183,7 +183,7 @@ and working. This is a never ending endeavour.
 
 This doesn't mean not breaking work down into easily understandable parts, but [stories](/service-manual/agile/writing-user-stories.html),
 [sprints](service-manual/agile/features-of-agile.html#sprints) and epics are much more
-suitabled to agile service delivery.
+suited to agile service delivery.
 
 ### Business as usual
 
