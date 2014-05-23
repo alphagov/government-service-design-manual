@@ -22,7 +22,7 @@ Government currently has a [Cloud First](https://www.gov.uk/government/news/gove
 policy for public sector IT. This policy specifically states that:
 
 >  public sector organisations should consider and fully evaluate potential
-cloud solutions first – before they consider any other option
+cloud solutions first -- before they consider any other option
 
 It is worth noting as well that:
 
@@ -64,16 +64,16 @@ through which we can analyse the security of a cloud based system.
 The guidance also includes an [implementation guide](https://www.gov.uk/government/publications/implementing-the-cloud-security-principles/implementing-the-cloud-security-principles)
 which contains for each of the above principles
 
-* A description of the principle - what it is and why it is important
-* A number of implementation objectives - how the principle should be satisfied
+* A description of the principle -- what it is and why it is important
+* A number of implementation objectives -- how the principle should be satisfied
 * A number of approaches that can be taken to meet the implementation objectives, attracting different residual risks
 
 Rather than replicate the good work of existing standards bodies this guidance
 references existing work wherever possible. In particular extensive reference
 is made to:
 
-* [ISO/IEC 27001 - information security management](http://www.iso.org/iso/home/standards/management-standards/iso27001.htm)
-* [Cloud Security Alliance - cloud controls matrix](https://cloudsecurityalliance.org/research/ccm/)
+* [ISO/IEC 27001 -- information security management](http://www.iso.org/iso/home/standards/management-standards/iso27001.htm)
+* [Cloud Security Alliance -- cloud controls matrix](https://cloudsecurityalliance.org/research/ccm/)
 
 ## Not all principles are relevant to all services
 
