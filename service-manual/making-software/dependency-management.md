@@ -94,7 +94,7 @@ as vendoring described above.
 ## Different language communities are different
 
 It is worth noting that different programming language communities tend to view
-dependencies differently. It is very common for instance within the Ruby or Javascript
+dependencies differently. It is very common for instance within the Ruby or JavaScript
 communities to find tiny libraries that do one trivial thing well. This tends to lead
 to projects with hundreds of dependencies very quickly. For instance the popular
 [Ruby on Rails](http://rubyonrails.org/) framework has 31 external dependencies at
@@ -118,7 +118,7 @@ tools. The following list has a number of examples from a variety of languages.
 * [sbt](http://www.scala-sbt.org/) (Scala)
 * [Leiningen](http://leiningen.org/) (Clojure)
 * [Composer](https://getcomposer.org/) (PHP)
-* [Bower](http://bower.io/) (Javascript, CSS)
+* [Bower](http://bower.io/) (JavaScript, CSS)
 
 ## Managing risks in third party code
 
