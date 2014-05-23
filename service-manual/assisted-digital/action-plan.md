@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/assisted-digital
 ---
 
-All new digital services must demonstrate appropriate [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research, and show that suitable support is in place to meet their needs, to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
+All new digital services must demonstrate appropriate [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research), and show that suitable support is in place to meet their needs, to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
 The information in this document will help you to:
 
