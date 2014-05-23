@@ -5,7 +5,7 @@ subtitle: Services built on a shared core
 category: technology
 type: guide
 audience:
-  primary: chief-technology-officers
+  primary: chief-technology-officers, tech-archs
 status: draft
 phases:
 breadcrumbs:

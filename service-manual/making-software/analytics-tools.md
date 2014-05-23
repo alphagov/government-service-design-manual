@@ -6,7 +6,7 @@ category: making-software
 type: guide
 audience:
   primary: performance-analysts 
-  secondary: service-managers, tech-archs, qa
+  secondary: service-managers, qa
 phases:
   - beta
   - live

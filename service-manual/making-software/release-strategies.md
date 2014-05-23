@@ -5,8 +5,8 @@ subtitle: How regular releases can reduce risk
 category: making-software
 type: guide
 audience: 
-  primary: web-ops, developers
-  secondary: service-managers, designers, delivery-managers, tech-archs
+  primary: web-ops, developers, tech-archs
+  secondary: service-managers, designers, delivery-managers
 status: draft
 phases:
   - alpha

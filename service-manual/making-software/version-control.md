@@ -6,7 +6,8 @@ category: making-software
 type: guide
 audience:
   primary: developers
-  secondary: service-managers, tech-archs, web-ops
+  secondary: service-managers, web-ops
+>>>>>>> Retag lots of the content for technical architects
 status: draft
 phases:
   - alpha

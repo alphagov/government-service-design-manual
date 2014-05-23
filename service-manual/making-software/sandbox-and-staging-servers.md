@@ -5,8 +5,8 @@ subtitle: Working in a development environment
 category: making-software
 type: guide
 audience:
-  primary: web-ops, tech-archs
-  secondary: developers, qa
+  primary: web-ops
+  secondary: developers, qa, tech-archs
 status: draft
 phases:
   - beta

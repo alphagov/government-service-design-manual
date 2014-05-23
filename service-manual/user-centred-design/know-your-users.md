@@ -6,7 +6,7 @@ category: user-centred-design
 type: guide
 audience:
   primary: user-researchers, designers, service-managers,
-  secondary: developers, tech-archs, performance-analysts, delivery-managers
+  secondary: developers, performance-analysts, delivery-managers
 status: draft
 phases:
   - discovery

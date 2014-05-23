@@ -5,8 +5,8 @@ subtitle: Navigating the controls process
 category: technology
 type: guide
 audience:
-  primary: chief-technology-officers
-  secondary: service-managers, designers, delivery-managers, tech-archs
+  primary: chief-technology-officers, tech-archs
+  secondary: service-managers, designers, delivery-managers
 status: draft
 phases:
   - discovery
