@@ -5,8 +5,8 @@ subtitle: Ensure the team can collaborate on code
 category: making-software
 type: guide
 audience:
-  primary: 
-  secondary: service-managers, developers, tech-archs, web-ops
+  primary: developers
+  secondary: service-managers, tech-archs, web-ops
 status: draft
 phases:
   - alpha

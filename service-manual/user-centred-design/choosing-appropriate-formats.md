@@ -5,8 +5,8 @@ subtitle: Help your users by providing content in a format they can use
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers, tech-archs, user-researchers, service-managers
-  secondary: delivery-managers, performance-analysts
+  primary: designers, tech-archs, user-researchers, service-managers
+  secondary: delivery-managers, performance-analysts, developers
 status: draft
 phases:
   - beta

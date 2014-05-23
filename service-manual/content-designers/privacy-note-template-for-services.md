@@ -5,7 +5,7 @@ subtitle: Writing questions, wording for labels, addressing the user and more
 category: user-centred-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, content-designers
+  primary: service-managers, designers, content-designers
   secondary: performance-analysts, user-researchers
 status: draft
 phases:

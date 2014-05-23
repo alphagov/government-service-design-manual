@@ -5,8 +5,8 @@ subtitle: Guidance on using the GOV.UK header
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers
-  secondary:
+  primary: designers
+  secondary: developers
 status: draft
 phases:
   - alpha
