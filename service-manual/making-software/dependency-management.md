@@ -26,9 +26,9 @@ challenges.
 
 ## Not reinventing the wheel
 
-The ammount of software available to resuse in your project is huge. This may be open
+The amount of software available to reuse in your project is huge. This may be open
 source libraries or frameworks, or it may be commercial software appliances or
-applications, or it may be code already written by your organisation . Ultimately very
+applications, or it may be code already written by your organisation. Ultimately very
 very few software development projects will write absolutely everything from scratch.
 
 Where possible and sensible, aiming to reuse existing code makes sense and will
@@ -109,7 +109,7 @@ communities, but the differences in tooling and approach are worth noting.
 
 ## Dependency management tools
 
-Most programming languages will have a smalll number of popular dependency management
+Most programming languages will have a small number of popular dependency management
 tools. The following list has a number of examples from a variety of languages.
 
 * [Maven](http://maven.apache.org/) (Java)
