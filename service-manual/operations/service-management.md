@@ -41,7 +41,7 @@ The [agile manifesto](http://agilemanifesto.org/) makes the case for:
 
 It is too easy to position service management as opposed to agile as
 traditional service management practices can be viewed as focusing on processes, tools,
-documentation, planning and contract negotiation - the items on the right hand
+documentation, planning and contract negotiation -- the items on the right hand
 side of the points above.
 
 However, the agile manifesto goes on to say:
@@ -128,9 +128,9 @@ with ITIL or other service management frameworks it is important to challenge
 existing implementations. This is less about the actual implementation and more often
 about the problems that implementation was designed to originally solve.
 
-### An example - service transition
+### An example -- service transition
 
-As an example ITIL talks a great deal about Service Transition - getting working functionality
+As an example ITIL talks a great deal about Service Transition -- getting working functionality
 into the hands of the users of the service. This is a key topic for The Digital Service Standard
 too which says that teams should:
 
@@ -138,7 +138,7 @@ too which says that teams should:
 improve the service on a very frequent basis.
 
 [GOV.UK](https://www.gov.uk/) for instance made more than 100 production releases
-[during it's first two weeks](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) after launch.
+[during its first two weeks](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) after launch.
 
 This high rate of change tends to challenge existing processes designed for a
 slower rate of change. If you are releasing your service every month or every 6 months
@@ -176,11 +176,11 @@ acknowledging that this isn't always possible it's worth being aware of the prob
 Projects tend to imply a start and an end. The main goal of project work is to
 complete it, to reach the end. Especially for software development the project can
 too often be viewed as _done_ when the software is released. What happens after that
-is another problem entuirely - and often someone elses problem.
+is another problem entirely -- and often someone else's problem.
 
 However when building services the main goal is to meet [user needs](/user-centred-design/user-needs.html).
-These needs made change over time, and are only met by software that is running
-and working. This is a never ending endeavour.
+These needs may change over time, and are only met by software that is running
+and working. This is a never-ending endeavour.
 
 This doesn't mean not breaking work down into easily understandable parts, but [stories](/service-manual/agile/writing-user-stories.html),
 [sprints](service-manual/agile/features-of-agile.html#sprints) and epics are much more
