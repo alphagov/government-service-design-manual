@@ -32,6 +32,11 @@ management.
 
 ## Agile and service management
 
+The principles of IT service management (ITSM) and those of agile do not necessarily
+conflict -- issues can arise however when organisations implement rigid processes
+without considering wider service delivery matters, or design and build services
+without thinking about how they will be operated.
+
 The [agile manifesto](http://agilemanifesto.org/) makes the case for:
 
 * Individuals and interactions over processes and tools
