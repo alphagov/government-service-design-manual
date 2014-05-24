@@ -38,7 +38,7 @@ However, it's important that each addition is seen as just that — an addition.
 
 ## It isn't about "JavaScript off"
 
-A common misunderstanding is that designing sites to work without CSS, JavaScript or anything else is that this is not about a conscious choice made by the person visiting the web page that we can ignore. Nor can we treat this as an error or mistake, and it isn't a case of "just fix your browser".
+A common misunderstanding when designing sites to work without CSS, JavaScript or anything else is that this is about a conscious choice made by the person visiting the web page which we can ignore. That is not the case. Nor can we treat this as an error or mistake, and it isn't a case of "just fix your browser".
 
 There are many scenarios where the extra layers can fail to load, including temporary network errors and DNS lookup failures. The server that the resource is found on could be overloaded or down, and fail to respond in time or at all.
 
