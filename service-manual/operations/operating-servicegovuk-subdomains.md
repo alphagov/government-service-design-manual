@@ -50,7 +50,7 @@ This section gives some guidance about which subdomains a service manager should
 The user-facing live service SHOULD be operated using at most three user-visible subdomains of `servicename.service.gov.uk`:
 
 * `www.servicename.service.gov.uk` is for the public facing, dynamic web pages that make up your service.
-* `assets.servicename.service.gov.uk` is for assets such as static images and shared javascript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
+* `assets.servicename.service.gov.uk` is for assets such as static images and shared JavaScript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
 * `admin.servicename.service.gov.uk` is for features that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed)
 
 You SHOULD NOT create separate domains for application programming interfaces (APIs) unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)

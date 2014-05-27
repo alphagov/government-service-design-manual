@@ -43,8 +43,6 @@ Also take into account the contact methods you intend to support, such as:
 * Facebook
 * surface mail
 
-## Handling time: the time needed to deal with the contacts
-
 To help with your planning, make sure each of these channels has a separate volume forecast.
 
 These forecasts will either inform, or help to make, decisions on what technology you’ll use to route, handle, and store the historical data of these enquiries.

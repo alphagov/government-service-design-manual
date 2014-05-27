@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Hosting
-subtitle: Where your service will live
+subtitle: Deciding where your service will live
 type: guide
 status: draft
 audience: 
