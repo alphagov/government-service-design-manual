@@ -173,8 +173,9 @@ The needs of your service and organisation will determine what works best for yo
 ## Problematic concepts
 
 Some traditional language tends to cause some confusion when discussing service
-management alongside agile. It's generally best to avoid these terms when possible,
-acknowledging that this isn't always possible it's worth being aware of the problems.
+management alongside agile. It's generally best to avoid the following terms when possible,
+although given their widespread usage this isn't always possible. It is however worth
+being aware of the problems these concepts raise.
 
 ### Projects
 
