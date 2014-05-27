@@ -64,7 +64,7 @@ Aim to have a clear understanding of the cost or implications of moving away fro
 In general, you should avoid making long-term commitments to any particular technology, product or supplier until you fully understand the problem you're trying to solve. Even then, you should make sure you maximise your future development options and avoid technology lock-in if possible.
 
 ## When to make new software versus using existing software
-Where there is an existing software solution which solves your problem, you should certainly consider using it. You're more likely to use existing software than to make new software when you have a commodity need. You may even be facing a niche problem that's peculiar to government which has already been solved by another part of the government -- or indeed another government -- and [released as open source software](https://github.com/alphagov/). 
+Where there is an existing software solution which solves your problem, you should certainly consider using it. You're more likely to use existing software than to make new software when you have a commodity need. You may even be facing a niche problem that's peculiar to government which has already been solved by another part of the government -- or indeed another government -- and [released as open source software](https://github.com/gds-operations/). 
 
 Development tools, build tools, utility libraries, databases and monitoring tools are all examples of software where many projects will have the same need, and it makes little sense to reinvent the wheel.
 
