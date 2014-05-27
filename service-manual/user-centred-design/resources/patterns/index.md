@@ -21,8 +21,8 @@ Use them to maintain a consistent design across our services.
 
 ### Forms
 
-See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html) 
-for guidance on stying the basic form elements.
+See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html)
+for guidance on styling the basic form elements.
 
 <ul>
   <li><a href="form-structure.html">Form structure</a></li>

@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-If you need to ask for an address on a form, consider where the addresess will be from and what you need to do with the data.
+If you need to ask for an address on a form, consider where the addresses will be from and what you need to do with the data.
 
 ### On this page:
 
@@ -89,7 +89,7 @@ Only use multiple address fields when you know which regions the addresses will 
 
 <h2 class="heading-36" id="address-finder">3. Address finder</h2>
 
-Sometimes referred to as 'postcode lookup'. An address finder lets users specify a UK address by inputing their postcode (and optionally street name or number) and selecting the address from a list.
+Sometimes referred to as 'postcode lookup'. An address finder lets users specify a UK address by inputting their postcode (and optionally street name or number) and selecting the address from a list.
 
 Here's how this pattern was implemented on the [Lasting Power of Attorney](https://lastingpowerofattorney.service.gov.uk/) service.
 
