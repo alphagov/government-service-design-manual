@@ -61,4 +61,4 @@ Even if this could be done to provide everything correctly configured on day 0, 
 ## Further reading
 
 * [Infrastructure as Code](https://speakerdeck.com/garethr/infrastructure-as-code)
-* [Managing dependencies](/service-manual/making-software/dependency-management.html)
+* [Managing dependencies](/service-manual/making-software/dependency-management)
