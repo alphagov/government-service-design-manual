@@ -71,8 +71,10 @@ nature.
 This should include testing of security characteristics. For example if a library
 used to generate a web form introduces a SQL injection vulnerability, then your acceptance
 tests should fail. It is important under this model that a suitable level of verification
-is done, rather than just trusting any third party dependency completely. What is
-suitable will vary between services depending on the risk profile.
+is done, rather than just trusting any third party dependency completely. It's also important
+to have trust in the specific code and version you are using, rather than just the library
+or framework in general. What is suitable will vary between services depending on the risk
+profile.
 
 ### Fork dependencies
 
