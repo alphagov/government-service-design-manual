@@ -50,15 +50,10 @@ but if there's an alternative to a login system -- use it.
 
 ## When there isn't an alternative
 
-<<<<<<< HEAD
-* are you providing a login service for a small number of agents (administrative users, accredited partners etc) or for a broad range of citizens or businesses?
-* do you already have all the data you need in order to establish trust with those users or will you need to match them against other services (online or offline)?
-=======
 If, after careful review and design work, there's no option but to build a
 login system, you'll need to consider:
->>>>>>> da74c11... rewrite of 'Logins' for style
 
-* who you're providing a login service for -- a small number of agents (administrative users, accredited partners, etc) or for a broad range of citizens or businesses?
+* who you're providing a login service for -- a small number of agents (administrative users, accredited partners etc) or for a broad range of citizens or businesses?
 * if you have enough user data -- enough to build trust with users or will you need to match them against other services (online or offline)?
 
 It's probably safe to carry on if you're building a service for a small number of clearly identified agents. Make sure that any authentication and authorisation code written for your system is carefully separated from the application so that you can:
