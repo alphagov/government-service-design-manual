@@ -142,18 +142,18 @@ also possible to track those individually.
 
 ### Mailing lists
 
-Most operating systems or large vendors will also have mailing lists to advise
-about security vulnerabilities in third party code.
+Most operating systems, vendors and some open source projects  will also have mailing lists
+to advise about security vulnerabilities in third party code. You should always be
+monitoring these lists where they eixst for software you use. Some common examples include:
 
 * [RedHat](https://access.redhat.com/site/security/updates/advisory/)
 * [Ubuntu](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce)
 * [Microsoft](http://technet.microsoft.com/en-us/security/dd252948.aspx)
 * [CERT-UK](https://www.cert.gov.uk/register-for-alerts/)
 
-The above is a small example of what is available. It is advisable to look for
-lists like this when choosing software and sign up to them if they exist.
-Having these emails come into an internal mailing list is also advisable,
-rather than rely on a single individual to alert everyone else.
+The above is a small example of what is available. Having these emails come into an
+internal mailing list is also advisable, rather than rely on a single individual to
+alert everyone else.
 
 ## Further reading
 
