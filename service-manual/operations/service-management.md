@@ -18,7 +18,7 @@ breadcrumbs:
 ---
 
 
-The [Digital by Default standard](http://localhost:4000/service-manual/digital-by-default/)
+The [Digital by Default standard](/service-manual/digital-by-default/)
 says that organisations should (emphasis on *operate* added):
 
 > Put in place a sustainable multidisciplinary team that can design, build
@@ -183,12 +183,12 @@ complete it, to reach the end. Especially for software development the project c
 too often be viewed as _done_ when the software is released. What happens after that
 is another problem entirely -- and often someone else's problem.
 
-However when building services the main goal is to meet [user needs](/user-centred-design/user-needs.html).
+However when building services the main goal is to meet [user needs](/service-manual/user-centred-design/user-needs).
 These needs may change over time, and are only met by software that is running
 and working. This is a never-ending endeavour.
 
-This doesn't mean not breaking work down into easily understandable parts, but [stories](/service-manual/agile/writing-user-stories.html),
-[sprints](service-manual/agile/features-of-agile.html#sprints) and epics are much more
+This doesn't mean not breaking work down into easily understandable parts, but [stories](/service-manual/agile/writing-user-stories),
+[sprints](/service-manual/agile/features-of-agile#sprints) and epics are much more
 suited to agile service delivery.
 
 ### Business as usual
@@ -197,9 +197,9 @@ The concept of business as usual also clashes with a model of continuous
 service improvement. It immediately brings to mind before and after
 states, often with the assumption that change is both much slower and
 more constrained during _business as usual_. In reality, until you put your
-service in the hands of real users as part of an [alpha](/service-manual/phases/alpha.html)
-or [beta](/service-manual/phases/beta.html) you won't have all the information
-needed to build the correct service. And even once you pass the [live standard](https://www.gov.uk/service-manual/digital-by-default/maintaining-the-standard)
+service in the hands of real users as part of an [alpha](/service-manual/phases/alpha)
+or [beta](/service-manual/phases/beta) you won't have all the information
+needed to build the correct service. And even once you pass the [live standard](/service-manual/digital-by-default/maintaining-the-standard)
 you will be expected to:
 
 > continuously update and improve the service on the basis of user feedback,
