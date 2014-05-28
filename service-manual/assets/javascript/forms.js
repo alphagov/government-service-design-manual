@@ -1,4 +1,4 @@
-// Used on the "Form example - Registration" page in user centred design
+// Used on the "Form example - Registration" page in user-centred design
 // resources. Takes the text of the clicked 'option' and assigns it as
 // a class to the element named in the 'data-for' attribute
 $(function () {
