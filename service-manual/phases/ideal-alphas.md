@@ -65,7 +65,7 @@ In most government projects, the risks fall into 3 main categories:
 - business process
 - technical risks
 
-The design risks cover the issues that come with running a user centered design process within an iterative model. We find that it often takes several attempts to get the service proposition correct for the citizen. You'll need to think about things like:
+The design risks cover the issues that come with running a user-centred design process within an iterative model. We find that it often takes several attempts to get the service proposition correct for the citizen. You'll need to think about things like:
 
 * how easy is it to use
 * will the user get through it correctly the first time

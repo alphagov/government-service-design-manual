@@ -65,4 +65,4 @@ All surveys, regardless of methodology, should use a robust sample that is natio
 
 It is important that the delivery channel used considers the target audience. For example in the recent Digital Landscape research an online and face-to-face methodology was used as both online and offline audiences needed to be interviewed -- an online only methodology would have excluded those who are offline, and the opinions of this audience omitted from the research.
 
-It is also important to note that performing research with hard-to-reach groups can be more time consuming and costly (eg BME, people with disabilities).
+It is also important to note that performing research with hard-to-reach groups can be more time consuming and costly (eg black and minority ethnic, people with disabilities).

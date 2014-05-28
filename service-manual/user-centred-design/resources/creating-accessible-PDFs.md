@@ -83,7 +83,7 @@ Use the Tags panel to review and edit the reading order of the PDF. Don’t rely
 
 ### Check the reflow order
 
-Use View > Zoom > Reflow then check that the PDF still has a logical reading order. Note: It can sometimes be difficult to guarantee a logical reflow order for PDfs with complex content.
+Use View > Zoom > Reflow then check that the PDF still has a logical reading order. Note: It can sometimes be difficult to guarantee a logical reflow order for PDFs with complex content.
 
 ### Check text descriptions
 

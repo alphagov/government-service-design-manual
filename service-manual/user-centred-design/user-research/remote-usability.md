@@ -35,7 +35,7 @@ While traditional lab testing focuses of gathering rich and detailed information
 
 ## Where and how you might use it
 
-Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing task based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction (Jobseekers Allowance, Driving Licence etc). Success is measured on whether the user can complete the tasks/transaction.
+Remote usability testing can be used to test both website content, and online services. Testing content normally involves people completing tasks based on the online content, while online services are normally tested by asking users to complete a task using the online tool or transaction (like claiming Jobseeker's Allowance or applying for a driving licence). Success is measured on whether the user can complete the tasks or transaction.
 
 Benchmarks on new and existing products are gathered so that completion rates (and other success measures) be collected and performance monitored.
 
