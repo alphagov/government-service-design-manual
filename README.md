@@ -48,7 +48,7 @@ The following keys are used throughout:
 |-----|--------|-------------|
 | `title:` | Page title | Used at the top of the page, and in links to the page |
 | `subtitle:` | Page subtitle | Used below page title, and optionally in links to the page |
-| `category` | `agile`, `assisted-digital`, `user-centered-design`, etc | The category the page lives in the browse page |
+| `category` | `agile`, `assisted-digital`, `user-centred-design`, etc | The category the page lives in the browse page |
 | `layout:` | `detailed-guidance`, `role-index`, `phases`, etc | Page layout |
 | `type:` | `guide`, `resource` | Used to differentiate content types so they can be grouped on index pages |
 | `audience: primary:` | `designer, developer, researcher` etc. | Primary audience. Link to page will appear in top half of audience index page |
