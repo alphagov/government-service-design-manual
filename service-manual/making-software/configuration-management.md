@@ -81,3 +81,4 @@ Overall, the ability to change rapidly is essential when trying to build agile a
 ## Further reading
 
 * [Infrastructure as Code](https://speakerdeck.com/garethr/infrastructure-as-code)
+* [Managing dependencies](/service-manual/making-software/dependency-management)
