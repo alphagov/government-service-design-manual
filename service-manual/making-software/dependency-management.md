@@ -144,7 +144,7 @@ also possible to track those individually.
 
 Most operating systems, vendors and some open source projects  will also have mailing lists
 to advise about security vulnerabilities in third party code. You should always be
-monitoring these lists where they eixst for software you use. Some common examples include:
+monitoring these lists where they exist for software you use. Some common examples include:
 
 * [RedHat](https://access.redhat.com/site/security/updates/advisory/)
 * [Ubuntu](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce)
