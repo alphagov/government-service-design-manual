@@ -56,8 +56,7 @@ value the items on the left more.
 
 To build and run a successful service you will need to work on suitable
 processes and manage third party relationships. Using existing service management
-frameworks (as a starting point or in a stricter manner) is a good starting
-point.
+frameworks (especially as a starting point) is one approach to this problem.
 
 ## ITIL
 
