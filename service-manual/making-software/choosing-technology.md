@@ -115,7 +115,7 @@ If you’re using software to satisfy a rare or niche need, you’re less likely
 However, there are many situations where it makes more sense to use existing software like:
 
 * when you have a commodity need, because someone has probably already developed a solution to the common problem
-* facing a niche problem that’s peculiar to government, which has already been solved by another part of, or another, government and [released as open source software](https://github.com/alphagov/)
+* facing a niche problem that’s peculiar to government, which has already been solved by another part of, or another, government and [released as open source software](https://github.com/gds-operations/)
 
 In most cases, many projects will have the same need so it makes little sense to reinvent the wheel for certain types of software, eg:
 
