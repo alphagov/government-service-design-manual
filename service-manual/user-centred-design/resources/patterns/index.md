@@ -10,7 +10,7 @@ breadcrumbs:
     title: Home
     url: /service-manual/index.html
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design/index.html
 ---
 
