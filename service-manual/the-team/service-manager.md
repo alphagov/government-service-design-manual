@@ -37,7 +37,7 @@ These service managers will:
 * be able to lead effectively on the change management and process re-engineering required to implement successful services
 * have the digital literacy to engage with technical staff and suppliers to define the best system and platform configurations to achieve business/user objectives
 * encourage the maximum possible take-up of their digital service by effective marketing, and specify/manage the requirements for [assisted digital](/service-manual/assisted-digital) activity to supplement this
-* oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the Digital by Default Service Standard, identifying and mitigating risks
+* oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the Digital by Default Service Standard, identifying and mitigating risks, and be authorised to deliver on all aspects
 * actively participate in networking with other service managers inside and outside government, and share good practice and learning
 
 ### What’s the difference between a service manager and a product manager?
