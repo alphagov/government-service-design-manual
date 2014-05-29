@@ -24,9 +24,9 @@ at DVLA, talks about her role.</a></figure>
 
 Service managers are individuals who work full-time to develop and deliver all the changes necessary to provide effective user focused digital services.
 
-Outside government, organisations in the public and private sector are learning that empowered, experienced and highly skilled managers (often called product managers in the commercial world) are necessary to deliver high-quality digital services.
+Outside government, organisations in the public and private sector are learning that experienced and highly skilled managers (often called product managers in the commercial world) are necessary to deliver high-quality digital services.
 
-We are adopting that model, [requiring each transactional digital service handling over 100,000 transactions each year](/government/publications/government-digital-strategy) to be developed, operated and continually improved by an experienced, skilled and empowered service manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
+We are adopting that model, [requiring each transactional digital service handling over 100,000 transactions each year](/government/publications/government-digital-strategy) to be developed, operated and continually improved by a service manager. These are not technical IT posts, nor are they confined to running a website. Instead, they are individuals who work full-time to develop and deliver all the changes necessary to provide effective digital services. With a handful of exceptions, this is a new role within government.
 
 ## Responsibilities
 
@@ -37,7 +37,7 @@ These service managers will:
 * be able to lead effectively on the change management and process re-engineering required to implement successful services
 * have the digital literacy to engage with technical staff and suppliers to define the best system and platform configurations to achieve business/user objectives
 * encourage the maximum possible take-up of their digital service by effective marketing, and specify/manage the requirements for [assisted digital](/service-manual/assisted-digital) activity to supplement this
-* oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the Digital by Default Service Standard, identifying and mitigating risks, and be empowered to deliver on all aspects
+* oversee service redesign and subsequent operational delivery; supporting and ensuring the necessary project and approval processes are followed, monitoring and reporting on progress in line with the Digital by Default Service Standard, identifying and mitigating risks
 * actively participate in networking with other service managers inside and outside government, and share good practice and learning
 
 ### What’s the difference between a service manager and a product manager?
