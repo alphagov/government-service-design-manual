@@ -79,7 +79,7 @@ Their main use case is for appointment booking.
 If you also need to show information like availability, embed the calendar in the page and make it large enough for
 the information to be readable.
 
-A JavaScript dependant calendar control should never be the only input option.
+A calendar control that depends on JavaScript should never be the only input option.
 
 ---
 
