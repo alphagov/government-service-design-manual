@@ -112,7 +112,7 @@ In your proposal, please provide answers and evidence on the following:
   * if there are none and condition 2 has been met, please provide your thoughts on why this might be the case
   * if there are third-party alternatives, please state why you believe a government-developed app is required
 * is this user need of sufficient importance to (your users to) justify the lifetime cost of your proposed app?
-  * if you believe it is, how have you determined this? (you might find it useful to review articles within the service manual such as, [know your users](/service-manual/user-centred-design) and [writing user stories](/service-manual/agile/writing-user-stories.html)
+  * if you believe it is, how have you determined this? You might find it useful to review articles within the service manual such as, [know your users](/service-manual/user-centred-design) and [writing user stories](/service-manual/agile/writing-user-stories.html)
 * is there evidence of demand for this type of app amongst your target users? (provide supporting evidence, eg similar apps that have proven popular with your target audience and evidence of their popularity)
 * is there evidence to justify building an app for the platform you’re proposing to do this for? (please provide supporting evidence, eg analytics data that shows proportion of visitors to your content/service that currently access it using relevant devices)
 

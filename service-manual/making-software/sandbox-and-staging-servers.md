@@ -40,7 +40,7 @@ Those working on GOV.UK use:
 
 * the [Vagrant](https://www.vagrantup.com/) tool to provide all developers with a development environment built similarly to the production environment
 * a preview environment that's updated by a [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) system whenever tests have passed on a change
-* a staging environment for review of specific changes before they go to the production environment (it's updated and reviewed as part of the release process
+* a staging environment for review of specific changes before they go to the production environment (it's updated and reviewed as part of the release process)
 
 ## Why GOV.UK does this
 
