@@ -456,7 +456,7 @@ So that any third party web interfaces we use can be accessed via a single login
 I want to install and configure a single sign-on systems
 
 *Network/VPN configuration*  
-As a web operations engineer  
+As a web operations engineer
 So that management functions can not be accessed via the public internet  
 And so that we reduce the surface area for attack  
 I want to restrict management access to a VPN and/or non-public restricted network
