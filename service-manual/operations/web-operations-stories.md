@@ -632,4 +632,4 @@ I want to be able to isolate running applications from each other in terms of me
 *Read-only file systems*  
 As a web operations engineer working on the service  
 So that I can protect against files being changed due to compromises in the application  
-I want to be able to configure a read-only file system if appropriateA.
+I want to be able to configure a read-only file system if appropriate.
