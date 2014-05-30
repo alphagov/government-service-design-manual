@@ -75,7 +75,7 @@ to change the focus when using them in your backlog.
 
 *Development process*  
 As a developer working on the service  
-So that we can ensure a high level of quality
+So that we can ensure a high level of quality  
 And so we can maximise the integrity of the source code  
 I want a well documented and understood development process
 
@@ -201,7 +201,7 @@ I want to know whether multiple suppliers of Infrastructure are required
 
 *Capacity planning*  
 As a web operations engineer  
-So that we can estimate the number and size of infrastructure components (instances, firewalls, load balancers, etc.)  
+So that we can estimate the number and size of infrastructure components (instances, firewalls, load balancers etc.)  
 And so that resource based costs can be estimated  
 I want to carry out some capacity planning activities
 
@@ -377,7 +377,6 @@ I want a mechanism to run queries across the aggregated logs
 
 ### Configuration management
 
-
 *Configuration management client*  
 As a web operations engineer working on the service  
 So that changes to server configuration can be made safely and quickly  
@@ -395,7 +394,6 @@ So that all nodes do not have all configuration information
 I want to install software to allow centralised management of Configuration management code
 
 ### Deployment
-
 
 *Configuration management code deployment mechanism*  
 As a web operations engineer working on the service  
@@ -419,7 +417,7 @@ So that we don’t have to compile customised applications from source before us
 And so we can take advantage of dependency and version management capabilities of the OS  
 I want a process and tooling for creating our own system packages
 
-*Orchestration*
+*Orchestration*  
 As a web operations engineer working on the service  
 So that I can run commands across multiple instances quickly  
 I want tooling in place which allows some orchestration based on the current instances
@@ -435,7 +433,6 @@ So that I can ensure confidential communication between particular parts of the 
 I want a process or tool for managing secrets such as keys and passwords
 
 ### Access control
-
 
 *End user devices*  
 As the service manager responsible for the service  
@@ -459,7 +456,7 @@ So that any third party web interfaces we use can be accessed via a single login
 I want to install and configure a single sign-on systems
 
 *Network/VPN configuration*  
-As a web operations engineer
+As a web operations engineer  
 So that management functions can not be accessed via the public internet  
 And so that we reduce the surface area for attack  
 I want to restrict management access to a VPN and/or non-public restricted network
@@ -502,7 +499,7 @@ I want to configure and test the private network interfaces for the system
 *Network codes of connection*  
 As a web operations engineer working on the service  
 Given I need to communicate with a system only available on a Government network  
-So that the two systems can talk with each other
+So that the two systems can talk with each other  
 I want to meet the code of connection requirements and configure access to the network
 
 *Management network*  
