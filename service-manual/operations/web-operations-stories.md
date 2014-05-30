@@ -30,7 +30,7 @@ specific to the needs of your service.
 
 Remember these stories are [a placeholder for a conversation](/service-manual/agile/writing-user-stories#promise-of-a-conversation).
 For some contexts, that conversation will be 'this does not apply to my
-service' –– that is fine. But there will almost certainly be other stories not
+service' -- that is fine. But there will almost certainly be other stories not
 listed here which do apply.
 
 ## The problem
