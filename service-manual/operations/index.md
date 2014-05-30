@@ -22,6 +22,7 @@ breadcrumbs:
 ## Operating your service
 
 {: .link-list} 
+* [Sample stories](/service-manual/operations/web-operations-stories)
 * [Cloud security](/service-manual/operations/cloud-security)
 * [Monitoring](/service-manual/operations/monitoring)
 * [Hosting](/service-manual/operations/hosting)
