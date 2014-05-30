@@ -73,7 +73,7 @@ to change the focus when using them in your backlog.
 
 ### Process
 
-*Development process*  
+*Development process*
 As a developer working on the service
 So that we can ensure a high level of quality  
 And so we can maximise the integrity of the source code
@@ -456,7 +456,7 @@ So that any third party web interfaces we use can be accessed via a single login
 I want to install and configure a single sign-on systems
 
 *Network/VPN configuration*  
-As a web operations engineer
+As a web operations engineer  
 So that management functions can not be accessed via the public internet  
 And so that we reduce the surface area for attack  
 I want to restrict management access to a VPN and/or non-public restricted network
@@ -499,7 +499,7 @@ I want to configure and test the private network interfaces for the system
 *Network codes of connection*  
 As a web operations engineer working on the service  
 Given I need to communicate with a system only available on a Government network  
-So that the two systems can talk with each other
+So that the two systems can talk with each other  
 I want to meet the code of connection requirements and configure access to the network
 
 *Management network*  
