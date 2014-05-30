@@ -17,7 +17,7 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-This document outline the typical scope of infrastructure and web operations
+This document outlines the typical scope of infrastructure and web operations
 (sometimes erroneously referred to as hosting) work on a large service
 redesign project.
 
@@ -26,7 +26,7 @@ all areas of interest nor are you likely to need to do all of this for every ser
 The idea is for this list to be a good starting place from where to you can write
 additional stories, delete ones you do not require and split stories into smaller
 ones. Importantly you also need to provide your own acceptance criteria
-specific to the needs of your service
+specific to the needs of your service.
 
 ## The problem
 
@@ -40,13 +40,13 @@ in the process.
 The hosting of a complex and sensitive software application requires a team
 of people with specialist skills to design, setup and operate. Because this
 work is generally not user facing and can be highly technical it is sometimes
-easy to leave until later - with potentially dire consequences for launching
+easy to leave until later -- with potentially dire consequences for launching
 safely and on time.
 
 ### Service managers
 Does your team have people who deeply understand this topic? If you are not an
 expert then it is important to involve people permanently in the team
-who are and who can explain the technical trade offs and decisions as they
+who are. They can explain the technical trade offs and decisions which may
 affect your service.
 
 ### Delivery managers
