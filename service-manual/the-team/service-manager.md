@@ -64,4 +64,5 @@ Read more about how service managers should interact with other technology leade
 
 ## Further reading
 
-[Building a team](/service-manual/the-team)
+* [Building a team](/service-manual/the-team)
+* [Being a service manager](https://speakerdeck.com/kitcollingwood/being-a-service-manager) -- presentation by a Service Manager from the Office of the Public Guardian
