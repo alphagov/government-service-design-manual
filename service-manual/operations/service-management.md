@@ -211,3 +211,4 @@ performance data, changes to best practice and service demand
 * [ITIL on Wikipedia](http://en.wikipedia.org/wiki/ITIL)
 * [Introduction to ILIL v3](http://www.best-management-practice.com/gempdf/itsmf_an_introductory_overview_of_itil_v3.pdf)
 * [Discussion of Devops and ITIL](http://blog.ingineering.it/post/59414765140/itil-vs-devops-slugfest-or-lovefest)
+* [Discussion of ITIL and Continuous Delivery](http://changeandrelease.com/2014/04/05/devops-and-itil-continuous-delivery-doesnt-stop-at-software/)
