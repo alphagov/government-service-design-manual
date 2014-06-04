@@ -150,4 +150,4 @@ Examples of where GDS used this effectively include:
 * the detailed checking of hundreds of pieces of content on GOV.UK against old content on DirectGov and BusinessLink
 
 ### Test your ideas
-Don’t forget, don’t just test the product itself -- test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/user-centred-design/introduction-to-user-research.html).
+Don’t forget, don’t just test the product itself -- test your ideas.   For information on how to do this read [the guidance about user research](/service-manual/user-centred-design/user-research/index.html).

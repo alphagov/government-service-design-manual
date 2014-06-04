@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-Accessibility testing is very similar to [usability testing](/service-manual/user-centred-design/introduction-to-user-research.html), in that it is about making sure that a product or service is easy for its intended audience to use. That audience includes users who access the service via a range of assistive technologies like:
+Accessibility testing is very similar to [usability testing](/service-manual/user-centred-design/user-research/index.html), in that it is about making sure that a product or service is easy for its intended audience to use. That audience includes users who access the service via a range of assistive technologies like:
 
 * screen readers
 * voice recognition software

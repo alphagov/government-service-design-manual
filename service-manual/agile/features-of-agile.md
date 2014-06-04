@@ -6,7 +6,7 @@ category: agile
 type: guide
 audience:
   primary: developers
-  secondary: service-managers, designers, delivery-managers, web-ops, tech-archs, performance-analysts, user-researchers, qa, content-designers
+  secondary: service-managers, designers, delivery-managers, web-ops, tech-archs, performance-analysts, qa, content-designers
 status: draft
 phases:
   - alpha
