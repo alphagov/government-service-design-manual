@@ -49,10 +49,16 @@ section_class: wide role-index
 
   </div>
 
+    {% assign has_secondary_pages = false %}
+    {% for p in site.pages %}
+      {% if p.audience.secondary contains page.audience %}
+        {% assign has_secondary_pages = true %}
+      {% endif %}
+    {% endfor %}
 
+  {% if has_secondary_pages %}
   <div class="link-list more-guides">
     <h3>More guides from the manual</h3>
-
     <ul>
     {% sorted_for p in site.pages sort_by:title %}
       {% if p.audience.secondary contains page.audience %}
@@ -64,6 +70,7 @@ section_class: wide role-index
     {% endsorted_for %}
     </ul>
   </div>
+  {% endif %}
 
   <div class="role-links">
     {% include _role-links.html %}
