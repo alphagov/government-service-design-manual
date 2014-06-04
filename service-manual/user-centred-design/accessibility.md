@@ -5,7 +5,7 @@ subtitle: How to make services that everyone can use
 category: user-centred-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
+  primary: service-managers, designers, developers, performance-analysts, qa, content-designers
   secondary:
 status: draft
 phases:

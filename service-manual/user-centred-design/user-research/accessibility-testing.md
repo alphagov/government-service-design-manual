@@ -5,7 +5,7 @@ subtitle: Testing to see if your service is inclusive
 category: making-software
 type: guide
 audience:
-  primary: developers
+  primary: user-researchers
   secondary: designers, performance-analysts, qa, content-designers
 phases:
   - alpha
