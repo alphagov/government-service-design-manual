@@ -11,7 +11,7 @@ import (
 )
 
 func goWalk(location string) chan string {
-	chann := make(chan string) // a channel to collect error messages
+	chann := make(chan string) // unbuffered channel of synchronous error messages
 
 	go func() {
 		filepath.Walk(location, func(path string, f os.FileInfo, err error) error {
