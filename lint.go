@@ -14,6 +14,9 @@ func goWalk(location string) chan string {
 	chann := make(chan string) // unbuffered channel of synchronous error messages
 
 	go func() {
+		// Once we've walked all the files, close this channel to avoid deadlocks
+		defer close(chann)
+
 		filepath.Walk(location, func(path string, f os.FileInfo, err error) error {
 
 			// Only parse things that look like markdown
@@ -66,9 +69,6 @@ func goWalk(location string) chan string {
 
 			return nil
 		})
-
-		// Once we've walked all the files, close this channel to avoid deadlocks
-		defer close(chann)
 	}()
 
 	return chann
