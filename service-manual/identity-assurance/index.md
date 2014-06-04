@@ -5,7 +5,7 @@ subtitle: For government service providers
 category: identity-assurance
 type: guide
 audience:
-  primary: service-managers, designers, delivery-managers,  tech-archs, performance-analysts, user-researchers, qa, content-designers
+  primary: service-managers, designers, delivery-managers,  tech-archs, performance-analysts, qa, content-designers
   secondary:
 status: draft
 phases:

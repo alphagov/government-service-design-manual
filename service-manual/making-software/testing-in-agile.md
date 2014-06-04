@@ -132,7 +132,7 @@ Read the guidance about [load and performance testing](/service-manual/operation
 Read the guidance about [penetration testing](/service-manual/operations/penetration-testing.html)
 
 ### Accessibility testing
-Read the guidance about [accessibility testing](/service-manual/making-software/accessibility-testing.html)
+Read the guidance about [accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html)
 
 ### Crowdsourced testing
 Crowdsourced testing doesn’t use a set group of people to carry out testing (known as outsource testing). It uses different people from different places in different jobs. It’s a good way of speeding up your manual testing and/or covering more ground.

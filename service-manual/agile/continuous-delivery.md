@@ -5,7 +5,7 @@ subtitle: Making releases boring
 category: agile
 type: guide
 audience:
-  primary: service-managers, web-ops, designers, developers, performance-analysts, user-researchers, tech-archs
+  primary: service-managers, web-ops, designers, developers, performance-analysts, tech-archs
   secondary:
 status: draft
 phases:
@@ -74,7 +74,7 @@ Make the sandbox environment as similar to the production (live) version as far 
 The purpose is to find any defects in the code. If a defect is found, stop the version of the code at this stage. If it passes the sandbox environment it can move on to further specialist testing environments.
 
 ###Specialist testing environments
-You may need to perform additional testing for specialist requirements, like [load and performance testing](/service-manual/operations/load-and-performance-testing.html), [penetration testing](/service-manual/operations/penetration-testing.html), or [accessibility testing](/service-manual/making-software/accessibility-testing.html). The amount of environments you’ll need will depend on the requirements and conditions of your individual projects.
+You may need to perform additional testing for specialist requirements, like [load and performance testing](/service-manual/operations/load-and-performance-testing.html), [penetration testing](/service-manual/operations/penetration-testing.html), or [accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html). The amount of environments you’ll need will depend on the requirements and conditions of your individual projects.
 
 When you are satisfied with the quality of the code, move it to the live production environment.
 

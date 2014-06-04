@@ -5,7 +5,7 @@ subtitle: Reading age, reading online, plain English, learning disabilities
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, user-researchers, qa, content-designers
+  primary: designers, qa, content-designers
   secondary: service-managers
 status: draft
 phases:

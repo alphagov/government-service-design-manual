@@ -54,5 +54,5 @@ breadcrumbs:
 
 {: .link-list}
 * [Code testing](/service-manual/making-software/code-testing.html)
-* [Accessibility testing](/service-manual/making-software/accessibility-testing.html)
+* [Accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html)
 * [Testing in agile](/service-manual/making-software/testing-in-agile.html)
