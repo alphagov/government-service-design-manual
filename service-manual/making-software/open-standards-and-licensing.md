@@ -137,7 +137,7 @@ On a case-by-case basis, an exemption may be agreed in advance if there’s an e
 * [Standards Hub](http://standards.data.gov.uk/) - go here to get involved in
   the debate about which open standards we should choose and to find out about
   which ones we’re adopting.
-* [Completed challenges](http://standards.data.gov.uk/challenges/completed) –
+* [Completed challenges](http://standards.data.gov.uk/challenges/completed) --
   go here on the Standards Hub to find out which standards profiles are
   compulsory for use in government.
 * [Open Standards Principles](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf)

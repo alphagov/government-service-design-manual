@@ -18,7 +18,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-Digital leaders act as the single point of contact for the department’s strategic interactions with GDS, including co–ordinating digital activity for departmental agencies, arm's length bodies and non–departmental public bodies.
+Digital leaders act as the single point of contact for the department’s strategic interactions with GDS, including co-ordinating digital activity for departmental agencies, arm's length bodies and non-departmental public bodies.
 
 They are senior civil servants (generally executive or director general level) drawn from every department of government and the devolved administrations, and they have experience of leading large scale transformation programs inside and/or outside government.
 

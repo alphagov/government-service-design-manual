@@ -54,7 +54,7 @@ Make sure your analytics solution and processes:
 * anonymise IP addresses that your analytics provider collects by removing the last octet of the address
 * meets the EU privacy directive and the European Commission’s Directive on Data Protection
 * has data centres that meet EU/British data security standards
-* allows you to restrict your vendor’s employees access to your data as appropriate – also make sure there are adequate administration tools to control appropriate access for your own staff
+* allows you to restrict your vendor’s employees access to your data as appropriate -- also make sure there are adequate administration tools to control appropriate access for your own staff
 * allows you to own export analytics data (pay attention to terms and conditions for any free products)
 
 As part of keeping your users' data secure, find out:

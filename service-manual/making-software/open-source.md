@@ -41,7 +41,7 @@ and open source software. This is formalised in the [Technology code of
 practice](https://www.gov.uk/service-manual/technology/code-of-practice.html).
 
 > Ensure a level-playing field for open source software. Demonstrate
-an active and fair consideration of using open source software –
+an active and fair consideration of using open source software --
 taking account of the total lifetime cost of ownership of the
 solution, including exit and transition costs.
 
