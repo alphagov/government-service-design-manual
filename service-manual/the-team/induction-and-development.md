@@ -141,17 +141,17 @@ The open programme includes the following modules:
 
 ##Day 1
 
-###KPIs: setting the bar
+###Data-driven services
 
-The group will discuss how to set and measure key performance indicators so you can lead your services in the right direction. Based on information you will prepare beforehand, you will:
+Using data to inform decision-making is key to the development of your services. Your group will:
 
-* share your service KPIs as they currently stand
+* discuss your service key performance indicators as they currently stand
 
-* consider what additional KPIs may be required for your services to measure satisfaction, success rates, cost per transaction and take-up
+* consider what data you currently use to inform your decision-making, and what data you would like to use
+
+* design your own performance data dashboard to understand your services in a simple, visual way
 
 * find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
-
-* design your own performance dashboard to show KPIs for your services in a simple, visual way
 
 ###Increasing take-up
 
