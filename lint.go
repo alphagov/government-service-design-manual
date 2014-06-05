@@ -33,17 +33,18 @@ func goWalk(location string) chan string {
 			defer file.Close()
 
 			reader := bufio.NewReader(file)
-			brackets, parens := 0, 0
+			brackets, parens, line := 0, 0, 1
+			enDashes := make(map[int] int)
 
 			// Parse the file
 			for {
-				b, err := reader.ReadByte()
+				r, _, err := reader.ReadRune()
 
 				if err != nil {
 					break
 				}
 
-				switch b {
+				switch r {
 				case '[':
 					brackets++
 				case ']':
@@ -52,6 +53,10 @@ func goWalk(location string) chan string {
 					parens++
 				case ')':
 					parens--
+				case '–':
+					enDashes[line]++
+				case '\n':
+					line++
 				}
 			}
 
@@ -65,6 +70,10 @@ func goWalk(location string) chan string {
 				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
 			case parens > 0:
 				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
+			case len(enDashes) > 0:
+				for line, _ := range enDashes {
+					chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
+				}
 			}
 
 			return nil
