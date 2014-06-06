@@ -104,6 +104,8 @@ Make sure you already have a good understanding of your users from your initial 
 ###Narrative
 Use this as a reminder of the main interaction that needs to be addressed as part of the user experience. Remember that the story card does not need to spell out every detail.
 
+<a name="promise-of-a-conversation"></a>
+
 ## Taking a rain check -- the promise of a conversation
 
 [Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html).

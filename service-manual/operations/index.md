@@ -22,19 +22,22 @@ breadcrumbs:
 ## Operating your service
 
 {: .link-list} 
-* [Monitoring](/service-manual/operations/monitoring.html)
-* [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains.html)
-* [Hosting](/service-manual/operations/hosting.html)
-* [Devops](/service-manual/operations/devops.html)
+* [Sample stories](/service-manual/operations/web-operations-stories)
+* [Cloud security](/service-manual/operations/cloud-security)
+* [Monitoring](/service-manual/operations/monitoring)
+* [Hosting](/service-manual/operations/hosting)
+* [Devops](/service-manual/operations/devops)
+* [Availability](/service-manual/operations/uptime-and-availability)
+* [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains)
 
 ## Testing
 
 {: .link-list} 
-* [Penetration testing](/service-manual/operations/penetration-testing.html)
-* [Load and performance testing](/service-manual/operations/load-and-performance-testing.html)
+* [Penetration testing](/service-manual/operations/penetration-testing)
+* [Load and performance testing](/service-manual/operations/load-and-performance-testing)
 
 ## User support
 
 {: .link-list} 
-* [Helpdesk](/service-manual/operations/helpdesk.html)
-* [Managing user support](/service-manual/operations/managing-user-support.html)
+* [Helpdesk](/service-manual/operations/helpdesk)
+* [Managing user support](/service-manual/operations/managing-user-support)
