@@ -143,9 +143,9 @@ The open programme includes the following modules:
 
 ###Data-driven services
 
-Using data to inform decision-making is key to the development of your services. Your group will:
+Using data to inform decision-making is vital to the development of your services. Your group will:
 
-* discuss your service key performance indicators as they currently stand
+* discuss your service's performance indicators as they currently stand
 
 * consider what data you currently use to inform your decision-making, and what data you would like to use
 
