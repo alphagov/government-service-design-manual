@@ -12,6 +12,43 @@ import (
 	"strings"
 )
 
+type Stack struct {
+	top  *Element
+	size int
+}
+
+type Element struct {
+	value interface{}
+	next  *Element
+}
+
+// NewStack returns a new stack.
+func NewStack() *Stack {
+	return &Stack{}
+}
+
+// Return the stack's length
+func (s *Stack) Len() int {
+	return s.size
+}
+
+// Push a new element onto the stack
+func (s *Stack) Push(value interface{}) {
+	s.top = &Element{value, s.top}
+	s.size++
+}
+
+// Remove the top element from the stack and return its value
+// If the stack is empty, return nil
+func (s *Stack) Pop() (value interface{}) {
+	if s.size > 0 {
+		value, s.top = s.top.value, s.top.next
+		s.size--
+		return
+	}
+	return nil
+}
+
 func goWalk(location string) chan string {
 	chann := make(chan string) // unbuffered channel of synchronous error messages
 
@@ -81,7 +118,9 @@ func main() {
 }
 
 func lint(reader *bufio.Reader, path string, chann chan<- string) {
-	brackets, parens, line := 0, 0, 1
+	// Stack for parsing each, to get the line number where it was encountered
+	brackets, parens := NewStack(), NewStack()
+	line := 1
 	enDashes := make(map[int]int)
 
 	// Parse the file
@@ -97,13 +136,19 @@ func lint(reader *bufio.Reader, path string, chann chan<- string) {
 
 		switch r {
 		case '[':
-			brackets++
+			brackets.Push(line)
 		case ']':
-			brackets--
+			top := brackets.Pop()
+			if top == nil {
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket on line %d", path, line)
+			}
 		case '(':
-			parens++
+			parens.Push(line)
 		case ')':
-			parens--
+			top := parens.Pop()
+			if top == nil {
+				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis on line %d", path, line)
+			}
 		case '–':
 			enDashes[line]++
 		case '\n':
@@ -111,20 +156,17 @@ func lint(reader *bufio.Reader, path string, chann chan<- string) {
 		}
 	}
 
-	// Check the results and accumulate any problems
-	switch {
-	case brackets < 0:
-		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket?", path)
-	case brackets > 0:
-		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening bracket?", path)
-	case parens < 0:
-		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
-	case parens > 0:
-		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
-	case len(enDashes) > 0:
-		for line, _ := range enDashes {
-			chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
+	checkHanging := func(stack *Stack, character string) {
+		for top := stack.Pop(); top != nil; top = stack.Pop() {
+			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s on line %d", path, character, top)
 		}
 	}
 
+	// Check the results and accumulate any problems
+	checkHanging(brackets, "bracket")
+	checkHanging(parens, "parenthesis")
+
+	for line, _ := range enDashes {
+		chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
+	}
 }
