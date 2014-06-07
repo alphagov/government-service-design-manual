@@ -117,7 +117,7 @@ func lint(reader *bufio.Reader, path string, chann chan<- string) {
 		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket?", path)
 	case brackets > 0:
 		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening bracket?", path)
-	case parens > 0:
+	case parens < 0:
 		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
 	case parens > 0:
 		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
