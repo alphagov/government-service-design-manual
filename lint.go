@@ -5,6 +5,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
+	"io"
 	"os"
 	"path/filepath"
 	"runtime"
@@ -34,48 +35,8 @@ func goWalk(location string) chan string {
 			defer file.Close()
 
 			reader := bufio.NewReader(file)
-			brackets, parens, line := 0, 0, 1
-			enDashes := make(map[int] int)
 
-			// Parse the file
-			for {
-				r, _, err := reader.ReadRune()
-
-				if err != nil {
-					break
-				}
-
-				switch r {
-				case '[':
-					brackets++
-				case ']':
-					brackets--
-				case '(':
-					parens++
-				case ')':
-					parens--
-				case '–':
-					enDashes[line]++
-				case '\n':
-					line++
-				}
-			}
-
-			// Check the results and accumulate any problems
-			switch {
-			case brackets < 0:
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket?", path)
-			case brackets > 0:
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening bracket?", path)
-			case parens > 0:
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
-			case parens > 0:
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
-			case len(enDashes) > 0:
-				for line, _ := range enDashes {
-					chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
-				}
-			}
+			lint(reader, path, chann)
 
 			return nil
 		})
@@ -108,4 +69,53 @@ func main() {
 	}
 
 	os.Exit(exitCode)
+}
+
+func lint(reader *bufio.Reader, path string, chann chan string) {
+	brackets, parens, line := 0, 0, 1
+	enDashes := make(map[int]int)
+
+	// Parse the file
+	for {
+		r, _, err := reader.ReadRune()
+
+		if err != nil {
+			if err != io.EOF {
+				chann <- fmt.Sprintf("Error reading from %s - %s", path, err)
+			}
+			break
+		}
+
+		switch r {
+		case '[':
+			brackets++
+		case ']':
+			brackets--
+		case '(':
+			parens++
+		case ')':
+			parens--
+		case '–':
+			enDashes[line]++
+		case '\n':
+			line++
+		}
+	}
+
+	// Check the results and accumulate any problems
+	switch {
+	case brackets < 0:
+		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket?", path)
+	case brackets > 0:
+		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening bracket?", path)
+	case parens > 0:
+		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis?", path)
+	case parens > 0:
+		chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening parenthesis?", path)
+	case len(enDashes) > 0:
+		for line, _ := range enDashes {
+			chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
+		}
+	}
+
 }
