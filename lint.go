@@ -80,7 +80,7 @@ func main() {
 	os.Exit(exitCode)
 }
 
-func lint(reader *bufio.Reader, path string, chann chan string) {
+func lint(reader *bufio.Reader, path string, chann chan<- string) {
 	brackets, parens, line := 0, 0, 1
 	enDashes := make(map[int]int)
 
