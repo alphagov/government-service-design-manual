@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"runtime"
 	"strings"
 )
 
@@ -84,6 +85,11 @@ func goWalk(location string) chan string {
 }
 
 func main() {
+	if os.Getenv("GOMAXPROCS") == "" {
+		// Use all available cores if not otherwise specified
+		runtime.GOMAXPROCS(runtime.NumCPU())
+	}
+
 	flag.Parse()
 	location := flag.Arg(0)
 
