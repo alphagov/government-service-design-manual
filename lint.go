@@ -157,8 +157,20 @@ func lint(reader *bufio.Reader, path string, chann chan<- string) {
 	}
 
 	checkHanging := func(stack *Stack, character string) {
+		results := make([]interface{}, stack.Len())
+		i := 0
 		for top := stack.Pop(); top != nil; top = stack.Pop() {
-			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s on line %d", path, character, top)
+			results[i] = top
+			i++
+		}
+
+		// Reverse the results, since we used a LIFO data structure to capture them
+		for i, j := 0, len(results)-1; i < j; i, j = i+1, j-1 {
+			results[i], results[j] = results[j], results[i]
+		}
+
+		for _, line := range results {
+			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s on line %d", path, character, line)
 		}
 	}
 
