@@ -45,18 +45,27 @@ func goWalk(location string) chan string {
 	return chann
 }
 
+func usage() {
+	fmt.Fprintf(os.Stderr, "Usage: %s\n", os.Args[0])
+	helpstring := `
+go run lint.go path/to/markdown/dir
+`
+	fmt.Fprintf(os.Stderr, helpstring)
+	os.Exit(2)
+}
+
 func main() {
 	if os.Getenv("GOMAXPROCS") == "" {
 		// Use all available cores if not otherwise specified
 		runtime.GOMAXPROCS(runtime.NumCPU())
 	}
 
+	flag.Usage = usage
 	flag.Parse()
-	location := flag.Arg(0)
 
+	location := flag.Arg(0)
 	if len(location) == 0 {
-		fmt.Printf("Usage: go run lint.go path/to/markdown/dir\n")
-		os.Exit(2)
+		flag.Usage()
 	}
 
 	chann := goWalk(location)
