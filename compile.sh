@@ -10,7 +10,7 @@ fi
 bundle
 
 echo "Linting"
-go run tools/lint/lint.go service-manual
+make lint
 
 echo "Updating submodules to ensure toolkit up to date..."
 git submodule update --init
