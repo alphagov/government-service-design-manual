@@ -1,15 +1,10 @@
 // *Very* basic markdown linting, since we seem to keep publishing broken things.
-package main
+package mdlint
 
 import (
 	"bufio"
-	"flag"
 	"fmt"
 	"io"
-	"os"
-	"path/filepath"
-	"runtime"
-	"strings"
 )
 
 type Stack struct {
@@ -49,75 +44,7 @@ func (s *Stack) Pop() (value interface{}) {
 	return nil
 }
 
-func goWalk(location string) chan string {
-	chann := make(chan string) // unbuffered channel of synchronous error messages
-
-	go func() {
-		// Once we've walked all the files, close this channel to avoid deadlocks
-		defer close(chann)
-
-		filepath.Walk(location, func(path string, f os.FileInfo, err error) error {
-
-			// Only parse things that look like markdown
-			if !strings.HasSuffix(path, ".md") {
-				return nil
-			}
-
-			file, err := os.Open(path)
-
-			if err != nil {
-				panic(err)
-			}
-
-			defer file.Close()
-
-			reader := bufio.NewReader(file)
-
-			lint(reader, path, chann)
-
-			return nil
-		})
-	}()
-
-	return chann
-}
-
-func usage() {
-	fmt.Fprintf(os.Stderr, "Usage: %s\n", os.Args[0])
-	helpstring := `
-go run lint.go path/to/markdown/dir
-`
-	fmt.Fprintf(os.Stderr, helpstring)
-	os.Exit(2)
-}
-
-func main() {
-	if os.Getenv("GOMAXPROCS") == "" {
-		// Use all available cores if not otherwise specified
-		runtime.GOMAXPROCS(runtime.NumCPU())
-	}
-
-	flag.Usage = usage
-	flag.Parse()
-
-	location := flag.Arg(0)
-	if len(location) == 0 {
-		flag.Usage()
-	}
-
-	chann := goWalk(location)
-
-	exitCode := 0
-
-	for msg := range chann {
-		fmt.Println(msg)
-		exitCode = 1
-	}
-
-	os.Exit(exitCode)
-}
-
-func lint(reader *bufio.Reader, path string, chann chan<- string) {
+func Lint(reader *bufio.Reader, path string, chann chan<- string) {
 	// Stack for parsing each, to get the line number where it was encountered
 	brackets, parens := NewStack(), NewStack()
 	line := 1
