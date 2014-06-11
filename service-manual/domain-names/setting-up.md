@@ -35,7 +35,7 @@ DNS, as GDS will delegate control of your Service Domain to you. You should
 which will prepare you for the next step.
 
 Once your service has an agreed name, you will need to supply the following information to your
-GDS contact who will put you in touch with the GDS Infrastructure Team to arrange delegation.
+GDS contact who will put you in touch with the GOV.UK Infrastructure Team to arrange delegation.
 
 1. Service name, eg {service-name}.service.gov.uk
 2. DNS servers to delegate to (ask your technical team to see [the guidance on DNS delegation](/service-manual/domain-names/how-they-work))

@@ -24,7 +24,7 @@ breadcrumbs:
 ## How service.gov.uk domain names are managed
 
 Once [a domain name for a service has been agreed](/service-manual/domain-names/setting-up.html), the
-GDS Infrastructure Team allocates service.gov.uk domain names by delegating control to the team running
+GOV.UK Infrastructure Team allocates service.gov.uk domain names by delegating control to the team running
 the service. The team should provide the details of nameservers and GDS will delegate
 {service-name}.service.gov.uk to those nameservers. At that point the service team will be able to
 manage the detailed configuration of which servers the domain name points to, and so on.
