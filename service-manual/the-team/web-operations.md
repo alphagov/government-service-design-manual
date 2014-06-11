@@ -41,7 +41,7 @@ At a high level they will:
 
 Web operations engineers will have specific skills, such as:
 
-* a deep understanding of the target operating system; Windows, Linux, Unix etc.
+* a deep understanding of the target operating system; Windows, Linux, Unix etc
 * experience of multiple programming languages
 * common deployment patterns
 * continuous integration
@@ -49,7 +49,7 @@ Web operations engineers will have specific skills, such as:
 * load and performance testing techniques
 * highly-available systems design
 * administration and tuning of production database systems
-* installation and usage of monitoring tools; for instance Nagios, Ganglia, Riemann, Graphite etc.
+* installation and usage of monitoring tools; for instance Nagios, Ganglia, Riemann, Graphite etc
 * knowledge of configuration, deployment and management of web application stacks
 * configuration management tools like Puppet, Chef, CFEngine
 
