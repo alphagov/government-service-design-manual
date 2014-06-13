@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: What your service should look like
-subtitle: Guidance for creating a consistent look-and-feel
+subtitle: Guidance for creating a consistent user experience
 category: user-centred-design
 type: guide
 audience:
@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-The [service standard](/service-manual/digital-by-default#criterion-13) states that your service should be built “with the same look, feel and tone as GOV.UK”.
+The [service standard](/service-manual/digital-by-default#criterion-13) states that you should build your service to be “consistent with the user experience of the rest of GOV.UK by using the design patterns.”
 
 The first place to start is by reading our [design principles](https://www.gov.uk/design-principles). These will help you to understand how we approach design. You should keep these in mind when designing and building your service, always thinking about how to make the service simpler, clearer and faster.
 
