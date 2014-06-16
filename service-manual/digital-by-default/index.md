@@ -151,7 +151,7 @@ breadcrumbs:
       <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/user-centred-design">Design and content</a></li>
-        <li><a href="/service-manual/user-centred-design/service-look-and-feel">Service look-and-feel</a></li>
+        <li><a href="/service-manual/user-centred-design/service-user-experience">Service user experience</a></li>
       </ul>
     </div>
   </li>
