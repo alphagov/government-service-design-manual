@@ -75,6 +75,15 @@ If you need to include contact or account management links, do this:
 
 ## Choosing the right footer
 
-Transactional services should use the standard GOV.UK footer but remove all links other than the crown copyright and OGL licence notices.
+Services on GOV.UK should use the standard GOV.UK home page footer, but with the browse links removed. You may also add a link back to the department responsible and to other language options.
+
+Here's an example from the 'Renew a tax disc' service:
+
+
+<div class="example">
+  <a href="/service-manual/assets/images/header-footer/tax-disc-footer.png">
+  <img src="/service-manual/assets/images/header-footer/tax-disc-footer.png" alt="An example footer from the Renew a tax disc service">
+  </a>
+</div>
 
 
