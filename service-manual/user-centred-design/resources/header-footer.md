@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: GOV.UK header and footer
-subtitle: How to implement the GOV.UK templates
+subtitle: How to make your service look like GOV.UK
 category: user-centred-design
 type: guide
 audience:
