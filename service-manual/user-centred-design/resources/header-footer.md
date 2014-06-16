@@ -1,7 +1,11 @@
 ---
 layout: detailed-guidance
 title: GOV.UK header and footer
+<<<<<<< HEAD
 subtitle: How to make your service look like GOV.UK
+=======
+subtitle: How to implement the GOV.UK templates
+>>>>>>> Simplify guidance around headers and footers
 category: user-centred-design
 type: guide
 audience:
@@ -78,7 +82,6 @@ If you need to include contact or account management links, do this:
 Services on GOV.UK should use the standard GOV.UK home page footer, but with the browse links removed. You may also add a link back to the department responsible and to other language options.
 
 Here's an example from the 'Renew a tax disc' service:
-
 
 <div class="example">
   <a href="/service-manual/assets/images/header-footer/tax-disc-footer.png">
