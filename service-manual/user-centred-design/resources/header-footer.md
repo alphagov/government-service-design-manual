@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Header and footer
+title: GOV.UK header and footer
 subtitle: How to implement the GOV.UK templates
 category: user-centred-design
 type: guide
@@ -22,57 +22,30 @@ breadcrumbs:
 ---
 
 {:.intro}
-All pages on GOV.UK services should use the GOV.UK header, footer, branding and New Transport typeface, as specified in the templates.
+This guide explains when and how to use the GOV.UK header, footer, logo and typeface.
 
----
 
-## 1. Check that your service is on GOV.UK
+## When to use the GOV.UK header and footer
 
-A service is ‘on GOV.UK’ if it’s available at www.gov.uk/myservice, myservice.service.gov.uk or myblog.blog.gov.uk.
+If your service is available from www.gov.uk, service.gov.uk or blog.gov.uk then it must use the GOV.UK header and footer.
+This includes the crown device, the GOV.UK logotype and the New Transport typeface.
 
-If your service isn’t on GOV.UK you can still follow this guidance, but your site shouldn’t identify as being part of GOV.UK and should not use the crown or the GOV.UK logotype in the header. 
+If it's not available from one of these domains (including other gov.uk domains like data.gov.uk) then it must not use the GOV.UK header and footer.
 
-[Here's a good example](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/) of a site that follows our guidance without using our identity.
 
----
 
-## 2. Get the templates
+## Header and footer code
 
-The GOV.UK template code and assets are available for the Play or Rails frameworks, and for the Mustache, Liquid or Jinja templating languages.
+All the code and assets you need to implement the header and footer are available via the [GOV.UK template app on GitHub](https://github.com/alphagov/govuk_template).
 
-[Get the latest version of the templates on GitHub](https://github.com/alphagov/govuk_template)
 
----
 
-## 3. Choose the right approach
+## Choosing the right header
 
-During the [alpha](/service-manual/phases/alpha) phase of delivery the important thing is to make something and make it quickly, before testing it with real users. You can use the GOV.UK templates, but you don’t have to. 
-
-Follow the design principles and focus on the user journeys, but don’t worry about making everything pixel perfect.
-
-Once your service is in [beta](/service-manual/phases/beta) it must use the GOV.UK templates, including the header, footer, logotype and the New Transport typeface.
-
-### Public alphas and betas
-
-If your alpha or beta service is publicly available you should add a banner below the header explaining that the content and features are suject to change, and inviting user feedback.
+There are different versions of the GOV.UK header for different types of page. For simple services on GOV.UK use this:
 
 <div class="example">
-  <img src="/service-manual/assets/images/header-footer/alpha-example.png" alt="An example of an alpha service header">
-</div>
-
-[The README for the GOV.UK Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit#alphabeta) explains how to implement these banners.
-
-
----
-
-## 4. Choose a header
-
-There are different versions of the GOV.UK header for different types of page.
-
-The standard header for information pages on GOV.UK is this:
-
-<div class="example">
-  <img src="/service-manual/assets/images/header-footer/header-pattern-0.png" alt="Standard header">
+  <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
 </div>
 
 Remember:
@@ -81,11 +54,6 @@ Remember:
 * set the coloured bar width to be the same as the content area. The default is 960px at full width
 * the coloured bar is always $govuk-blue (#005ea5)
 
-Pages that are part of a transaction should remove the search box, so people can't accidentally leave before they've completed it:
-
-<div class="example">
-  <img src="/service-manual/assets/images/header-footer/header-pattern-1.png" alt="Header option 1">
-</div>
 
 If your service is more than a few pages long, you can help users understand where they are by adding the service title, like this:
 
@@ -93,7 +61,7 @@ If your service is more than a few pages long, you can help users understand whe
   <img src="/service-manual/assets/images/header-footer/header-pattern-2.png" alt="Header option 2">
 </div>
 
-Finally, if you need to include contact or account management links, you can do so like this:
+If you need to include contact or account management links, you can do so like this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-3.png" alt="Header option 3">
@@ -101,10 +69,6 @@ Finally, if you need to include contact or account management links, you can do 
 
 [Here's how to code the service title and navigation](https://github.com/alphagov/govuk_template#propositional-title-and-navigation)
 
+Transactional services should use the standard GOV.UK footer but remove all links other than the crown copyright and OGL licence notices.
 
----
 
-## 5. Choose a footer
-
-If you're creating content pages for GOV.UK, use the standard GOV.UK footer, as used on the home page.
-For transactional pages, use the standard footer but remove all links other than the crown copyright and OGL licence notices.
