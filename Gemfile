@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
 
+gem 'colorize', '0.7.2'
+
 gem 'jekyll', '1.2.1'
 gem 'jekyll-sass', '1.1.0'
 

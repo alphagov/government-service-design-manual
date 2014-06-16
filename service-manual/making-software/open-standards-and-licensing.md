@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Open standards and licensing
-subtitle: Building services using common standards
+subtitle: Use open standards to build your service
 category: making-software
 type: guide
 audience:
@@ -20,141 +20,124 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-Considerations for using open standards and why they matter.
+This information is to be used as guidance on using open standards and why they matter, and should not be taken as legal advice.
 
-> Please note, this is for guidance purposes only, and should not be taken as
-[legal advice](https://en.wikipedia.org/wiki/IANACL).
+## Open standards explained
 
-## Open standards overview
+GDS define open standards for software interoperability, data, and document formats as those that meet all of these criteria:
 
-We define open standards for software interoperability, data and document
-formats, as those which demonstrate all of these criteria:
+* [collaboration](#collaboration)
+* [transparency](#transparency)
+* [due process](#due-process)
+* [fair access](#fair-access)
+* [market support](#market-suport)
+* [licensing rights](licensing-rights)
 
-*Collaboration* -- the standard is maintained through a collaborative
-decision-making process that is consensus based and independent of any
-individual supplier. Involvement in the development and maintenance of the
-standard is accessible to all interested parties.
+#### Collaboration
 
-*Transparency* -- the decision-making process is transparent and a publicly
-accessible review by subject matter experts is part of the process.
+The standard is maintained by working together in a decision-making process that is consensus-based and independent of any individual supplier. Involvement in the development and maintenance of the standard is accessible to all interested parties.
 
-*Due process* -- the standard is adopted by a specification or standardisation
-organisation, or a forum or consortium with a feedback and ratification process
-to ensure quality.
+#### Transparency
 
-*Fair access* -- the standard is published, thoroughly documented and publicly
-available at zero or low cost.
+The decision-making process is transparent and a review is carried out by subject matter experts, which is open to the public.
 
-*Market support* -- other than in the context of creating innovative solutions,
-the standard is mature, supported by the market and demonstrates platform,
-application and vendor independence.
+####Due process
 
-*Rights* -- rights are essential to implementation of the standard, and for
-interfacing with other implementations which have adopted that same standard,
-are licensed on a royalty-free basis that is compatible with both
-[open source](http://opensource.org/licenses/alphabetical) and proprietary
-licensed solutions. These rights should be irrevocable unless there is a
-breach of licence conditions.
+To guarantee quality, the standard is taken on by a specification or standardisation organisation, or a forum or consortium with a feedback and approval process.
+
+####Fair access
+
+The standard is published, thoroughly documented, and publicly available at zero or low cost.
+
+####Market support
+
+Other than creating innovative solutions, the standard is supported by the market and displays platform, application and vendor independence.
+
+#### Licensing rights
+
+Rights are essential to the implementation of the standard, and for communicating with other implementations using that same standard. They're licensed on a royalty-free basis that's compatible with both [open source](http://opensource.org/licenses/alphabetical) and proprietary licensed solutions.
+
+These rights should be irrevocable unless there is a breach of licence conditions.
 
 ## Building on open standards
 
-There are 7 open standards principles that you should follow when thinking
-about which open standards to use:
+There are 7 open standards principles to follow when thinking about which open standards to use:
 
-1. We place the needs of our users at the heart of our standards choices.
-1. Our selected open standards will enable suppliers to compete on a level
-   playing field.
-1. Our standards choices support flexibility and change.
-1. We adopt open standards that support sustainable cost.
-1. Our decisions on standards selection are well informed.
-1. We select open standards using fair and transparent processes.
-1. We are fair and transparent in the specification and implementation of
-   open standards.
+* place the needs of your users at the heart of your standards choices
+* your selected open standards will make it possible for suppliers to compete on a level playing field
+* your choices of standards support flexibility and change
+* you take on open standards that support sustainable cost
+* your decisions on standards selection are well-informed
+* you select open standards using fair and transparent processes
+* you are fair and transparent in the specification and implementation of open standards
 
-We describe the reasons for these principles and their implications in the
-[Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles),
-published in November 2012.
+GDS describe the reasons for these principles and their implications in '[Open Standards Principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles)', published in November 2012.
 
 ## Choosing which open standards to use
 
-The [Open Standards Board](http://standards.data.gov.uk/meeting/open-standards-board-terms-reference)
-makes recommendations to the Government’s Chief Technology Officer on setting
-compulsory open standards profiles using the
+The Open Standards Board will be selecting some compulsory open standards using the
 [Standards Hub](http://standards.data.gov.uk/) process.
-If you are looking for an open standard for a particular function and we’ve not
-set a compulsory profile in that space, you should carry out a thorough
-assessment of the standards that exist elsewhere. Choose one that meets your
-needs and is consistent with our definition of an open standard.
+Use standards that have been identified.
 
-Where open standards have been identified you should use them. Each
-[completed challenge](http://standards.data.gov.uk/challenges/completed) has a
-standards profile that refers to specific open standards.
-If you are looking for an open standard and we’ve not set a compulsory standards
-profile in that space, you should carry out a thorough assessment of the
-existing standards and choose a standard that meets your needs and is
-consistent with our definition.
+There might be instances where you're looking for an open standard and GDS have not set a compulsory one in that space. If so, do a thorough assessment of existing standards and choose one that meets your needs and is consistent with GDS's definitions.
 
 You should also consider how the standard fits with:
 
 * user and functional needs
 * security and legal requirements
 * economic efficiency of government as a whole
-* interoperability
+* [interoperability](http://en.wikipedia.org/wiki/Interoperability)
 * preventing lock-in
 
-If you are considering use of a standard that doesn’t meet our definition of an
-open standard, you’ll need to apply for an exemption.
+You'll need to apply for exemptions to open standards if:
 
-You’ll also need to apply for an exemption if you want to use an alternative
-standard to one that performs the same function if we’ve already selected a
-compulsory standards profile for that purpose.
+* you're considering use of a standard that doesn't meet GDS's definitions of an open standard
+* you want to use an alternative standard to one that performs the same function (if a compulsory standard has already been selected for that specific purpose)
 
-## Why we do this
+## Why GDS do this
 
 By implementing open standards for software interoperability, data and document
-formats, we are:
+formats, government is:
 
-* improving our flexibility and the ability for government to provide services
-  based on users’ needs and avoid digital exclusion based on the technology
-  choices we make
+* improving adaptability and the ability for government to provide services
+  based on users’ needs -- avoiding digital exclusion based on the technology choices made
 * putting in place a level playing field for open source and proprietary
-  software, giving us the ability to move between different technologies
+  software, giving government the ability to move between different technologies
   without the risk of lock-in
 * making it easier to share appropriate data across and beyond government
-  boundaries to provide efficient services for users and for our delivery
-  partners
-* making the cost of our digital services more sustainable by reducing
-  complexity and encouraging reuse
+  boundaries, providing efficient services for users and delivery partners
+* making the cost of government's digital services more sustainable by
+  making things simpler and encouraging reuse
 
-## Guidance
+## Benefits of using open standards
 
-Build component-based digital services, based on open standards, to provide a
-flexible design to give you greater choice and enable your digital services to
-evolve.
+Basing your build of component-based digital services on open standards will:
+
+* provide you with an adaptable design
+* give you greater choice
+* make it possible for your digital services to change over time
 
 Expressing your user needs in terms of required capabilities, which are in turn
 based on open standards, helps you to make better choices for service delivery.
 It also means that there is no unintentional lock-in built into government
 digital services.
 
-Whether designing and building in-house or outsourcing, you must require
-solutions that comply with open standards, for software interoperability, data
-and document formats, where they exist and meet functional needs.
+Whether designing and building in-house or outsourcing, your solutions need to comply with open standards (where they exist and meet functional needs) for:
 
-If there's a reason why you think using open standards is inappropriate, then
-an exemption may be agreed in advance on an exceptional case-by-case basis.
-Any exemption would be agreed with the government’s Chief Technology Officer
-(or through Departmental Accounting Officer procedures for cases below the
-Cabinet Office’s
-[spend controls](https://www.gov.uk/government/publications/cabinet-office-controls)
-threshold for IT).
+* software interoperability
+* data formats
+* document formats
+
+### Exemptions
+
+On a case-by-case basis, an exemption may be agreed in advance if there’s an exceptional reason why using open standards is inappropriate. The government’s Chief Technology Officer will agree this, or it could also be through Departmental Accounting Officer procedures for cases below the Cabinet Office’s [spend controls](/government/publications/cabinet-office-controls-guidance-version-3-1) threshold for IT.
 
 ##Further reading
 
 * [Standards Hub](http://standards.data.gov.uk/) - go here to get involved in
   the debate about which open standards we should choose and to find out about
   which ones we’re adopting.
-* [Completed challenges](http://standards.data.gov.uk/challenges/completed) –
+* [Completed challenges](http://standards.data.gov.uk/challenges/completed) --
   go here on the Standards Hub to find out which standards profiles are
   compulsory for use in government.
 * [Open Standards Principles](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78892/Open-Standards-Principles-FINAL.pdf)

@@ -5,8 +5,8 @@ subtitle: Learning by doing
 category: user-centred-design
 type: guide
 audience:
-  primary: tech-archs
-  secondary: service-managers, designers, developers, user-researchers
+  primary:
+  secondary: service-managers, designers, developers, tech-archs, user-researchers
 status: draft
 phases:
   - alpha
@@ -17,7 +17,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 
@@ -39,6 +39,6 @@ Prototyping can start on paper with sketches. Hand-drawn sketches of what a serv
 
 The [smart answer format](https://www.gov.uk/maternity-benefits "example of a smart answer") for [GOV.UK](https://www.gov.uk) began as a series of paper sketches refined over a week by a small team. That process gave them a good sense of the boundaries of the problem they were trying to solve. 
 
-As quickly as possible we prototyped the format using HTML and javascript so that it could be experienced in a web browser. That revealed more constraints, such as the fact that users might expect to be able to go back and amend an answer without realising that would change their whole journey through the format. This allowed us to quickly adjust the user interface to be clearer for its users before we started the work of building out the full system.
+As quickly as possible we prototyped the format using HTML and JavaScript so that it could be experienced in a web browser. That revealed more constraints, such as the fact that users might expect to be able to go back and amend an answer without realising that would change their whole journey through the format. This allowed us to quickly adjust the user interface to be clearer for its users before we started the work of building out the full system.
 
 Running code also forces you to think about your integrations with other services and how they might work -- do you need to send email? integrate with an existing database? and so on. A prototype will rarely actually include these integrations but having a clear picture of them is vital if you're going to understand the real effort involved in building and operating the service.

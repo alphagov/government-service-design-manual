@@ -5,7 +5,7 @@ subtitle: Which ones to test with, and how best to support them
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, web-ops, developers, tech-archs, user-researchers, qa, service-managers
+  primary: designers, developers, user-researchers, qa, service-managers
   secondary: delivery-managers, performance-analysts, content-designers
 status: draft
 phases:
@@ -16,7 +16,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 

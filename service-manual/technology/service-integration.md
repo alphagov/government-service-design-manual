@@ -6,6 +6,7 @@ category: technology
 type: guide
 audience:
   primary: chief-technology-officers
+  secondary: tech-archs
 status: draft
 phases:
 breadcrumbs:
@@ -27,7 +28,7 @@ For the model to be effective the component services need to be well defined and
 
 * being able to define different service requirements for critical and non-critical services (for example, some commodity public cloud services may require online service support or service desk only, whereas mission critical IT systems will require a more integrated service model)
 * a performance regime that ensures organisations don’t pay for services they can’t or don’t use
-* explicit service integration arrangements that focus on [service performance](/service-manual/operations/monitoring.html), usability and availability from a [user perspective](/service-manual/users), not just from a supplier's commercial perspective
+* explicit service integration arrangements that focus on [service performance](/service-manual/operations/monitoring.html), usability and availability from a [user perspective](/service-manual/user-centred-design), not just from a supplier's commercial perspective
 * skills and capabilities that support transitioning to, and managing services in a new commodity-based environment
 * a focus on [open standards](/service-manual/making-software/open-standards-and-licensing.html) and interoperability to support workflow, performance management and service management, billing and payment
 

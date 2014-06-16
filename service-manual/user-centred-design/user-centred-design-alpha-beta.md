@@ -5,8 +5,8 @@ subtitle: Combining design and research to create user focused services
 category: user-centred-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa
-  secondary:
+  primary: service-managers, designers, performance-analysts, user-researchers, qa
+  secondary: developers
 status: draft
 phases:
   - alpha
@@ -16,7 +16,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 

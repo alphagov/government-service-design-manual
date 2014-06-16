@@ -76,7 +76,7 @@ Together we’re leading the digital transformation of government, by making ser
 
 ###Putting users first
 
-User-centred processes start with [user needs](/service-manual/users/user-needs.html), and so does this induction programme. In this session the group will:
+User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs.html), and so does this induction programme. In this session the group will:
 
 *  meet some users of government digital services
 *  explore different techniques for finding out what users need
@@ -238,5 +238,5 @@ GDS technical architects will give a series of short talks and Q&A sessions abou
 
 To request a place on the induction programme or the open programme, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
 
-Any questions? Please contact the GDS Capabilities Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
+Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 

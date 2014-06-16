@@ -6,7 +6,7 @@ category: the-team
 type: guide
 audience:
   primary: delivery-managers
-  secondary: service-managers, designers, developers, tech-archs, user-researchers, performance-analysts
+  secondary: service-managers, designers, tech-archs, user-researchers, performance-analysts
 status: draft
 phases:
   - discovery

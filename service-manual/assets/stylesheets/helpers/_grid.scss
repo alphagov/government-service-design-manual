@@ -1,0 +1,120 @@
+// ===================================================
+// GRIDS
+//
+
+// A mixin for laying out lists of elements in a grid.
+// 
+// Parameters:
+//
+// $columns     For columns of equal width:
+//              A single value representing the number of columns in the grid
+//              
+//              For columns of unequal width:
+//              An array of values representing the relative widths of the columns
+//
+// $min-height  Sets a minimum heigh on the elements.
+//              Useful if the amount of content inside each element varies.
+//
+// $max-rows     For grids with multiple rows and unequal column widths.
+//              Browsers that don't support nth-child need this.
+
+
+
+@mixin grid($columns: 1, $min-height:"", $max-rows: 1) {
+  margin: 0 -1em 0 0; // Negates effect of rightmost gutter
+
+  $roundingComp: 0;
+  @include ie-lte(7){
+    $roundingComp: -0.035; // Reduce widths slightly to compensate for IE7's rounding bug
+    margin-bottom: 1em;
+  }
+  padding: 0;
+  overflow: hidden;
+  *zoom: 1;
+  > * { 
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-image: none;
+    @include box-sizing(border-box);
+    float: left;
+    border-right: solid 1em $white;
+    margin-bottom: 1em;
+
+    > *:first-child{
+      margin-top: 0;
+    };
+
+    // Number of columns
+    $numCols: length($columns);
+
+    // If only one value passed, interpret the value as the number of columns of equal width
+    @if $numCols == 1 {
+      width: percentage(1/$columns + $roundingComp);
+
+    } @else {
+    // If multiple values passed, each one represents a column and the values are their relative widths
+
+      // Sum of all values. Used to calculate column widths
+      $sum:0;
+      @each $column in $columns{
+        $sum:$sum+$column;
+      }
+
+      $i:1;
+      @each $column in $columns{
+        // Use nth-child to assign widths to each item
+        &:nth-child(#{$numCols}n+#{$i}){width: percentage($column/$sum);}
+        $i:$i+1;
+      }
+
+      @include ie-lte(8){
+
+        // Alternative method for browsers that don't support nth-child
+        // Instead, we use first-child and sequences of sibling selectors to target the relevant elements
+
+        // First, create a string of sibling selectors that represents a full row of elements
+        $rowSelectors: '';
+        @each $column in $columns{
+          $rowSelectors: $rowSelectors+' + *';
+        }
+
+        // For each column...
+        $i:1;
+        @each $column in $columns{
+
+          // Create a string of sibling selectors that represents the column position
+          $selectors: '';
+          $j:1;
+          @while $j < $i {
+            $selectors: $selectors + ' + *';
+            $j:$j+1;
+          }
+
+          // Create a first-child statement for each element in the column
+          // up to a maximum set by the $max-rows variable (defaults to 1 row)
+          $k:0;
+          @while $k < $max-rows {
+            &:first-child#{$selectors}{ width: percentage($column/$sum + $roundingComp);}
+            $selectors: $selectors + $rowSelectors;
+            $k:$k+1;
+          }
+
+        $i:$i+1;
+        }
+
+      }
+    }
+
+    @if ($min-height != ""){
+      min-height: $min-height;
+    }
+
+    // Switch to single column for mobile layouts
+    @include media(mobile){
+      width: 100% !important;
+    }
+  }
+}
+

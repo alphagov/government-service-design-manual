@@ -6,7 +6,7 @@ category: operations
 type: guide
 audience:
   primary: tech-archs
-  secondary: service-managers, web-ops, developers
+  secondary: service-managers, web-ops
 status: draft
 breadcrumbs:
   -
@@ -25,7 +25,7 @@ Government offers a number of different digital services to citizens. While the 
 
 Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK -- for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
 
-Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts, etc.
+Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts etc.
 
 The start page URL for a given service will be allocated by GDS based on discussions with the service manager and analysis of user behaviour, search referrals and other relevant data.
 
@@ -50,7 +50,7 @@ This section gives some guidance about which subdomains a service manager should
 The user-facing live service SHOULD be operated using at most three user-visible subdomains of `servicename.service.gov.uk`:
 
 * `www.servicename.service.gov.uk` is for the public facing, dynamic web pages that make up your service.
-* `assets.servicename.service.gov.uk` is for assets such as static images and shared javascript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
+* `assets.servicename.service.gov.uk` is for assets such as static images and shared JavaScript files needed to run your live service (note: written content about the service, such as guides to eligibility or detailed guidance for applicants, SHOULD be on GOV.UK)
 * `admin.servicename.service.gov.uk` is for features that enable non-technical staff to run the service (eg contact centre staff might use this subdomain to access and process work items where human judgement is needed)
 
 You SHOULD NOT create separate domains for application programming interfaces (APIs) unless there’s a really good reason to have a completely separate domain. (Really good reasons are few and far between.)

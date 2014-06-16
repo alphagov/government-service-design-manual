@@ -5,7 +5,7 @@ subtitle: Reading age, reading online, plain English, learning disabilities
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers, user-researchers, qa, content-designers
+  primary: designers, user-researchers, qa, content-designers
   secondary: service-managers
 status: draft
 phases:
@@ -17,7 +17,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 
@@ -26,7 +26,7 @@ The [style guide](https://www.gov.uk/design-principles/style-guide) is set in be
 ## Reading
 Users only really read 20 to 28% of a web page. Where users just want to complete a service as quickly as possible, there's added user impatience so you may find users skim words even more.
 
-[The content style guide](https://www.gov.uk/design-principles/style-guide) and [transactions style guide](/service-manual/content-designers/transactions-style-guide) give guidance on how to write. This page details why we do it.
+[The content style guide](https://www.gov.uk/design-principles/style-guide) and [design patterns](/service-manual/user-centred-design/resources/patterns/index.html) give guidance on how to write. This page details why we do it.
 
 All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.
 

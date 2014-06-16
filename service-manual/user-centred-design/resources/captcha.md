@@ -5,8 +5,8 @@ subtitle: Build to the GOV.UK style
 category: design-and-development-resources
 type: resource
 audience:
-    primary: designers, developers
-    secondary:
+    primary: designers
+    secondary: developers
 status: draft
 phases:
   - alpha
@@ -18,7 +18,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 

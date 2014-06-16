@@ -7,6 +7,12 @@ clean:
 aspell:
 	find service-manual -type f -name '*.md' -exec aspell -d, --master=british --mode=sgml -c '{}' \;
 
+test:
+	go test tools/lint/mdlint/mdlint_test.go
+
+lint:
+	go run tools/lint/lint.go service-manual
+
 help:
 	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  clean     to remove the build artefacts"

@@ -17,7 +17,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 
@@ -53,7 +53,7 @@ Services should use clear, easy to read type, with consistent styles and a clear
 
 You'll be given access to the New Transport typeface if your service is on GOV.UK.
 
-[Read our full guidance on typography](/service-manual/user-centred-design/resources/typography).
+[The GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html) has more information about typography.
 
 ## Pictures and icons
 

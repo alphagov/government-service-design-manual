@@ -24,13 +24,12 @@ While the information and guidance within the manual will be useful for teams in
 To establish whether your service needs to meet the service standard, ask yourself if your service is:
 
 * completely new and/or being redesigned?
-* processing (or likely to process) more than 100,000 transactions every year?
 * the responsibility of a central government department, agency or non-departmental public body?
 
+If you have answered 'yes' to both of these then the service must meet the standard before it can go live.
 
-If you have answered **yes** to all of these then the service must meet the standard before it can go live.
+If you have answered 'no' to any of these questions then your service does not have to meet the standard.
 
-If you have answered **no** to one or more of these questions then your service does not have to meet the standard.
 
 ## Why the standard doesn't apply to everything
 Government services cover a vast variety of activity, from the mainstream to the highly specialised. 

@@ -62,7 +62,7 @@ module Jekyll
     end
 
     def is_index_page?(page)
-      page.is_a?(Jekyll::Page) && page.index?
+      page.is_a?(Jekyll::Page) && page.data['layout'].start_with?('role-index')
     end
 
     # We need DirectoryWatcher (the gem jekyll uses to detect changes to files

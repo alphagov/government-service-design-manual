@@ -4,7 +4,7 @@ title: Technology architecture
 category: technology
 type: guide
 audience:
-  primary: chief-technology-officers
+  primary: chief-technology-officers, tech-archs
 status: draft
 phases:
 breadcrumbs:
@@ -24,7 +24,7 @@ These elements include:
 * an information model covering both public and private data, as well as wider information management requirements like business intelligence
 * technology, the modelling of core capabilities, their structure and relationships
 * implementation, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects
-* throughout the project lifecycle you will need to make sure stakeholders stay aligned on what is needed (you'll need to resolve issues when stakeholder requirements conflict with business growth (like reduced cost), system design (like [network latency](https://en.wikipedia.org/wiki/Latency_%28engineering%29) and operational issues (like security, privacy and auditing))
+* throughout the project lifecycle you will need to make sure stakeholders stay aligned on what is needed (you'll need to resolve issues when stakeholder requirements conflict with business growth (like reduced cost), system design (like [network latency](https://en.wikipedia.org/wiki/Latency_%28engineering%29)) and operational issues (like security, privacy and auditing))
 
 The term “architecture” includes both the logical design as well as its physical implementation. Logical architecture based on [user-centric service design](/service-manual/start#a-new-way-of-doing-things) and clear [user needs](/service-manual/user-centred-design/user-needs.html) should always precede physical architecture. At a minimum you need to understand [what capabilities are required](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) before starting to narrow down on product choices.
 
@@ -51,13 +51,42 @@ Duplication is OK when used to optimise the user experience (but there should be
 
 Products and services are the things that users engage with to find information or complete transactions. As such, they should be designed around the needs of the end user rather than the service provider. They can be either Mission IT (internal facing) or Digital Public Services (external facing).
 
-| Products Are: | Products Are NOT: |
-|-----|--------|
-| designed and developed in a user specific way to meet: a) a set of user needs, with success measured by the extent to which those needs are met, and b) a policy outcome | an elaboration of an internal organisational structure |
-| subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?” | a product in the narrow sense of a specific application/box product, ie not Microsoft Dynamics, or Oracle e-business suite, or DropBox |
-| a single point of user engagement, driven by user needs | fixed in time, but designed to evolve to meet changing needs |
-| the responsibility of a [service manager](/service-manual/service-managers) (the user representative), not necessarily the owning department: reporting lines should be based around product and user need (with all the implications for governance that entails) | |
-| guided by clear product roadmaps and timescales based on user need and policy | |
+<table>
+  <thead>
+    <tr>
+      <th>Products Are:</th>
+      <th>Products Are NOT:</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>designed and developed in a user-specific way to meet:
+        <ul>
+          <li>a set of user needs, with success measured by the extent to which those needs are met</li>
+          <li>a policy outcome</li>
+        </ul>
+      </td>
+      <td>an elaboration of an internal organisational structure</td>
+    </tr>
+    <tr>
+      <td>subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?”</td>
+      <td>a product in the narrow sense of a specific application/box product, ie not Microsoft Dynamics, or Oracle e-business suite, or DropBox</td>
+    </tr>
+    <tr>
+      <td>a single point of user engagement, driven by user needs</td>
+      <td>fixed in time, but designed to evolve to meet changing needs</td>
+    </tr>
+    <tr>
+      <td>the responsibility of a <a href="/service-manual/service-managers">service manager</a> (the user representative), not necessarily the owning department: reporting lines should be based around product and user need (with all the implications for governance that entails)
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>guided by clear product roadmaps and timescales based on user need and policy</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ##Platforms
 
@@ -83,4 +112,4 @@ To reduce dependency on legacy platforms:
 	* badly engineered systems should be contained
 	* the working legacy should be modernised to reduce costs and risks and wrapped where appropriate to provide open interfaces and interoperability with platforms
 	* legacy applications should be replaced / rearchitected periodically to prevent situations where the application can no longer be supported because it's grown too complex for anyone to understand or too expensive relative to the benefits delivered
-	* open standards must be used for interoperability between systems and departments, with adaptors used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards) -- you should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies
+	* open standards must be used for interoperability between systems and departments, with adapters used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards) -- you should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies

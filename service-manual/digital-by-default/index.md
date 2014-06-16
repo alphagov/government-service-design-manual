@@ -33,7 +33,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
         <li><a href="/service-manual/user-centred-design/user-needs.html">User needs</a></li>
         <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
       </ul>
@@ -146,7 +146,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the [design patterns](http://alphagov.github.io/design-patterns/) and the [style guide](/service-manual/content-designers/transactions-style-guide.html).</div>
+    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a>.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -218,7 +218,7 @@ breadcrumbs:
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
         <li><a href="/service-manual/user-centred-design/user-research">User research</a></li>
         <li><a href="/service-manual/user-centred-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
       </ul>

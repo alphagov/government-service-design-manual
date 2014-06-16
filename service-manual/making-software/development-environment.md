@@ -5,8 +5,8 @@ subtitle: Early infrastructure needs for agile projects
 category: making-software
 type: guide
 audience:
-  primary: designers, delivery-managers, web-ops, developers, tech-archs
-  secondary: service-managers, content-designers, performance-analysts
+  primary: designers, delivery-managers, web-ops, developers
+  secondary: service-managers, content-designers, performance-analysts, tech-archs
 status: draft
 phases:
   - alpha
@@ -78,7 +78,7 @@ Optional capabilities which would make a marked difference to the production of 
 
 ### Provisioning API
 
-The provisioning of virtual machines, storage, load balancing, etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
+The provisioning of virtual machines, storage, load balancing etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
 
 ### Create virtual machine templates
 

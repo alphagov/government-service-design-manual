@@ -1,10 +1,9 @@
 header.page-header {
-  margin: 1em 1em 3em 1em;
-  padding: 0 0 2em 0;
-  border-bottom: 5px solid $main-colour;
+  margin: 2em 1em 0 1em;
+  padding: 0 0 45px 0;
 
   @include media(desktop) {
-    margin: 1em 2em 3em 2em;
+    margin: 1em 2em 0 2em;
   }
 
   .hgroup {

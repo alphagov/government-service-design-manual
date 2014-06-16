@@ -7,3 +7,7 @@ article table{
 .hide-headers thead{
   display: none;
 }
+
+#content table li {
+  @include core-16;
+}

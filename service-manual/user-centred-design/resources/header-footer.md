@@ -5,8 +5,8 @@ subtitle: How to implement the GOV.UK templates
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers
-  secondary:
+  primary: designers
+  secondary: developers
 status: draft
 phases:
   - alpha
@@ -17,7 +17,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 

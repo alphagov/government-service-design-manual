@@ -5,8 +5,8 @@ subtitle: Help your users by providing content in a format they can use
 category: user-centred-design
 type: guide
 audience:
-  primary: designers, developers, tech-archs, user-researchers, service-managers
-  secondary: delivery-managers, performance-analysts
+  primary: designers, user-researchers, service-managers
+  secondary: delivery-managers, performance-analysts, developers
 status: draft
 phases:
   - beta
@@ -16,7 +16,7 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 
@@ -30,7 +30,7 @@ You should publish documents in file formats that reflect the nature of the info
 
 - For data, use [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or a similar 'structured data' format (see also [JSON](https://en.wikipedia.org/wiki/JSON) and [XML](https://en.wikipedia.org/wiki/XML)). Don't publish structured data in unstructured formats such as PDF.
 
-- If you're regularly publishing data (financial reports, statistical data, etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is 'machine-readable'. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API (application programming interface) if this will simplify your users' interactions with your publications. For more information on APIs, and for more detailed technical guides on publishing data, please see [our guidance on APIs and formats](/service-manual/making-software/apis.html#representations-are-for-the-consumer).
+- If you're regularly publishing data (financial reports, statistical data etc.) then your users may well wish to process this data programmatically, and it becomes especially important that your data is 'machine-readable'. PDFs, Word documents and the like are not suitable formats for data publication. In addition, you should consider making your data available through an API (application programming interface) if this will simplify your users' interactions with your publications. For more information on APIs, and for more detailed technical guides on publishing data, please see [our guidance on APIs and formats](/service-manual/making-software/apis.html#representations-are-for-the-consumer).
 
 - If you're publishing a written report that contains statistical tables, provide the tables alongside or in addition to your report in suitable data formats.
 

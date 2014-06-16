@@ -5,8 +5,8 @@ subtitle: How to get testing right
 category: agile
 type: guide
 audience:
-  primary: qa
-  secondary: service-managers, web-ops, developers, tech-archs
+  primary: qa, developers
+  secondary: service-managers, web-ops, tech-archs
 theme: agile
 status: draft
 phases:

@@ -9,14 +9,15 @@ phases:
   - beta
   - live
 audience:
-  primary: designers, developers
+  primary: designers
+  secondary: developers
 status: draft
 breadcrumbs:
   -
     title: Home
     url: /service-manual
   -
-    title: User centred design
+    title: User-centred design
     url: /service-manual/user-centred-design
 ---
 
@@ -55,7 +56,7 @@ The are two main types of cross browser CSS that we are concerned with. Firstly 
 
 `@extend %contain-floats` uses a cross-browser technique to ensure that the element wraps all the floated elements within it. It is not a property that normally exists in CSS but is something we often need to do and don't want to use different techniques everywhere. It gives us consistency across our code.
 
-`@include border-radius` is designed to use the different border radius implementations (`-moz-border-radius`, `-webkit-border-radius`, etc) to create consistent presentation across different browsers.
+`@include border-radius` is designed to use the different border radius implementations (`-moz-border-radius`, `-webkit-border-radius` etc) to create consistent presentation across different browsers.
 
 ## Further reading
 
