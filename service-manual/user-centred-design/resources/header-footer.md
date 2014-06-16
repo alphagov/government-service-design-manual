@@ -28,10 +28,11 @@ This guide explains when and how to use the GOV.UK header, footer, logo and type
 
 ## When to use the GOV.UK header and footer
 
-If your service is available from www.gov.uk, service.gov.uk or blog.gov.uk then it must use the GOV.UK header and footer.
-This includes the crown device, the GOV.UK logotype and the New Transport typeface.
+If your service is available from www.gov.uk, service.gov.uk or blog.gov.uk then it must use the GOV.UK header and footer. This includes the crown device, the GOV.UK logotype and the New Transport typeface.
 
 If it's not available from one of these domains (including other gov.uk domains like data.gov.uk) then it must not use the GOV.UK header and footer.
+
+If your service isn't yet in beta then you don't need to use the GOV.UK header and footer. The important thing is to make something and make it quickly, before testing it with real users.
 
 ---
 
