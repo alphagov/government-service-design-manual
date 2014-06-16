@@ -24,6 +24,7 @@ breadcrumbs:
 {:.intro}
 This guide explains when and how to use the GOV.UK header, footer, logo and typeface.
 
+---
 
 ## When to use the GOV.UK header and footer
 
@@ -32,13 +33,13 @@ This includes the crown device, the GOV.UK logotype and the New Transport typefa
 
 If it's not available from one of these domains (including other gov.uk domains like data.gov.uk) then it must not use the GOV.UK header and footer.
 
-
+---
 
 ## Header and footer code
 
 All the code and assets you need to implement the header and footer are available via the [GOV.UK template app on GitHub](https://github.com/alphagov/govuk_template).
 
-
+---
 
 ## Choosing the right header
 
@@ -61,13 +62,17 @@ If your service is more than a few pages long, you can help users understand whe
   <img src="/service-manual/assets/images/header-footer/header-pattern-2.png" alt="Header option 2">
 </div>
 
-If you need to include contact or account management links, you can do so like this:
+If you need to include contact or account management links, do this:
 
 <div class="example">
   <img src="/service-manual/assets/images/header-footer/header-pattern-3.png" alt="Header option 3">
 </div>
 
 [Here's how to code the service title and navigation](https://github.com/alphagov/govuk_template#propositional-title-and-navigation)
+
+---
+
+## Choosing the right footer
 
 Transactional services should use the standard GOV.UK footer but remove all links other than the crown copyright and OGL licence notices.
 
