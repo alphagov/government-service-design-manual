@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-Choose a structure for your forms that most naturally fits they way people need to use them.
+Choose a structure for your forms that most naturally fits the way people need to use them.
 
 ### On this page:
 
