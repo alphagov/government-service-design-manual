@@ -94,7 +94,16 @@ extra closing parenthesis at line %d, column %d`, path, line, column)
 		column++
 	}
 
-	checkHanging := func(stack *Stack, character string) {
+	// Check the results and accumulate any problems
+	checkHanging(brackets, "bracket", chann, path)
+	checkHanging(parens, "parenthesis", chann, path)
+
+	for line, _ := range enDashes {
+		chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
+	}
+}
+
+func checkHanging(stack *Stack, character string, chann chan <- string, path string) {
 		results := make([]Position, stack.Len())
 		i := 0
 		for top := stack.Pop(); top != nil; top = stack.Pop() {
@@ -111,12 +120,3 @@ extra closing parenthesis at line %d, column %d`, path, line, column)
 			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s at line %d, column %d", path, character, position.line, position.column)
 		}
 	}
-
-	// Check the results and accumulate any problems
-	checkHanging(brackets, "bracket")
-	checkHanging(parens, "parenthesis")
-
-	for line, _ := range enDashes {
-		chann <- fmt.Sprintf("literal en dash at %s:%d - please use -- instead", path, line)
-	}
-}
