@@ -118,8 +118,7 @@ Information Asset Owner
 : The IAO will be senior individual involved in running the relevant business.  
   Their role is to understand what information is held, what is added and what 
   is removed, how information is moved, and who has access and why. As a result
-  they are able to understand and address risks to the information, and ensure 
-  that information is fully used within the law for the public good.
+  they are able to understand and address risks to the information.
   
 CESG Listed Adviser Scheme (CLAS) Consultant
 : Part of the formal accreditation process. Responsible for much of the formal
