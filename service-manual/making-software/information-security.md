@@ -113,7 +113,14 @@ Accreditor
 : More hands on than the SIRO, the accreditor or accreditors will work with the
   project team to help with understanding the process, identify risks and
   suggest mitigations.
-
+  
+Information Asset Owner
+: The IAO will be senior individual involved in running the relevant business.  
+  Their role is to understand what information is held, what is added and what 
+  is removed, how information is moved, and who has access and why. As a result
+  they are able to understand and address risks to the information, and ensure 
+  that information is fully used within the law for the public good.
+  
 CESG Listed Adviser Scheme (CLAS) Consultant
 : Part of the formal accreditation process. Responsible for much of the formal
   documentation.
@@ -200,6 +207,7 @@ The aim is a system where the risks are known and the team, working with risk pr
 * [HMG IA Standard No. 1 – Technical Risk Assessment](http://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf): the CESG guide to assessing risk in information systems.
 * [G-Cloud Impact Level Guidance](http://gcloud.civilservice.gov.uk/2012/03/09/so-what-is-il3-a-short-guide-to-business-impact-levels/): a brief introduction to Business Impact Levels.
 * [Business Impact Level Tables](http://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf): Business Impact Level Tables.
+* [Guidence on Information Asset Owner role](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/255914/Guidance_on_the_IAO_Role.pdf): Guidence on Information Asset Owner role
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance
@@ -212,3 +220,5 @@ The aim is a system where the risks are known and the team, working with risk pr
 *[ITHC]: IT Health Check
 *[RMADS]: Risk Management Document Set
 *[SIRO]: Senior Information Risk Officer
+*[IAO]: Information Asset Owner
+
