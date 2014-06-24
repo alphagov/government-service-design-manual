@@ -112,6 +112,7 @@ It’s important to understand the different roles involved with the assurance a
 
 * [Senior Information Risk Owner](#Senior-Information-Risk-Owner) (SIRO)
 * [Accreditor](#Accreditor)
+* [Information Asset Owner](#information-asset-owner)
 * [Communications Electronics Security Group](#CESG) (CESG)
 * [CESG Listed Adviser Scheme (CLAS) consultant](#CESG-Listed-Adviser-Scheme)
 
@@ -130,6 +131,14 @@ More hands on than the SIRO, the accreditor or accreditors will work with the pr
 * understanding the process
 * identify risks
 * suggest mitigations
+
+#### Information Asset Owner
+
+The IAO will be a senior individual involved in running the relevant business.
+
+Their role is to understand what information is held, what is added and what
+is removed, how information is moved, and who has access and why. As a result
+they are able to understand and address risks to the information.
 
 #### CESG (originally Communications Electronics Security Group)
 
@@ -235,6 +244,7 @@ Aim for a system where the risks are known, and have your team work with risk pr
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html) is a comprehensive textbook covering the theory and practice of building secure systems
 * [HMG IA Standard No. 1 -- Technical Risk Assessment](https://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf), the CESG guide to assessing risk in information systems
 * [Business Impact Level Tables](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
+* [Guidance on Information Asset Owner role](/government/uploads/system/uploads/attachment_data/file/255914/Guidance_on_the_IAO_Role.pdf): Guidence on Information Asset Owner role
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance
@@ -247,3 +257,4 @@ Aim for a system where the risks are known, and have your team work with risk pr
 *[ITHC]: IT Health Check
 *[RMADS]: Risk Management Document Set
 *[SIRO]: Senior Information Risk Officer
+*[IAO]: Information Asset Owner
