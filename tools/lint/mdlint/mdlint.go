@@ -74,7 +74,7 @@ func Lint(reader *bufio.Reader, path string, chann chan<- string) {
 			top := brackets.Pop()
 			if top == nil {
 				chann <- fmt.Sprintf(`Bad Markdown URL in %s:
-extra closing bracket at line %d, column %d`, path, line, column)
+	extra closing bracket at line %d, column %d`, path, line, column)
 			}
 		case '(':
 			parens.Push(Position{line, column})
@@ -82,7 +82,7 @@ extra closing bracket at line %d, column %d`, path, line, column)
 			top := parens.Pop()
 			if top == nil {
 				chann <- fmt.Sprintf(`Bad Markdown URL in %s:
-extra closing parenthesis at line %d, column %d`, path, line, column)
+	extra closing parenthesis at line %d, column %d`, path, line, column)
 			}
 		case '–':
 			enDashes[line]++
@@ -117,6 +117,7 @@ func checkHanging(stack *Stack, character string, chann chan <- string, path str
 		}
 
 		for _, position := range results {
-			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s at line %d, column %d", path, character, position.line, position.column)
+			chann <- fmt.Sprintf(`Bad Markdown URL in %s:
+	extra opening %s at line %d, column %d`, path, character, position.line, position.column)
 		}
 	}
