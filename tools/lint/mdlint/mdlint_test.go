@@ -27,7 +27,7 @@ this is the first line
 this is a link](http://example.com/)
 this is another line
 `)
-	assertSuffix(t, <-collector, "extra closing bracket on line 3")
+	assertSuffix(t, <-collector, "extra closing bracket at line 3, column 15")
 	assertChannelIsEmpty(t, collector)
 }
 
@@ -37,7 +37,7 @@ this is the first line
 [this is a link(http://example.com/)
 this is another line
 `)
-	assertSuffix(t, <-collector, "extra opening bracket on line 3")
+	assertSuffix(t, <-collector, "extra opening bracket at line 3, column 1")
 	assertChannelIsEmpty(t, collector)
 }
 
@@ -47,7 +47,7 @@ this is the first line
 [this is a link]http://example.com/)
 this is another line
 `)
-	assertSuffix(t, <-collector, "extra closing parenthesis on line 3")
+	assertSuffix(t, <-collector, "extra closing parenthesis at line 3, column 36")
 	assertChannelIsEmpty(t, collector)
 }
 
@@ -57,7 +57,7 @@ this is the first line
 [this is a link](http://example.com/
 this is another line
 `)
-	assertSuffix(t, <-collector, "extra opening parenthesis on line 3")
+	assertSuffix(t, <-collector, "extra opening parenthesis at line 3, column 17")
 	assertChannelIsEmpty(t, collector)
 }
 
@@ -83,8 +83,8 @@ it would be helpful to know
 where in the file you should be looking to fix problems
 		`)
 
-	assertSuffix(t, <-collector, "extra opening parenthesis on line 3")
-	assertSuffix(t, <-collector, "extra opening parenthesis on line 7")
+	assertSuffix(t, <-collector, "extra opening parenthesis at line 3, column 25")
+	assertSuffix(t, <-collector, "extra opening parenthesis at line 7, column 1")
 	assertChannelIsEmpty(t, collector)
 }
 

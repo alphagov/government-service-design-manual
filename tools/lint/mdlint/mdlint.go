@@ -7,6 +7,11 @@ import (
 	"io"
 )
 
+type Position struct {
+	line   int
+	column int
+}
+
 type Stack struct {
 	top  *Element
 	size int
@@ -48,6 +53,7 @@ func Lint(reader *bufio.Reader, path string, chann chan<- string) {
 	// Stack for parsing each, to get the line number where it was encountered
 	brackets, parens := NewStack(), NewStack()
 	line := 1
+	column := 1
 	enDashes := make(map[int]int)
 
 	// Parse the file
@@ -63,31 +69,36 @@ func Lint(reader *bufio.Reader, path string, chann chan<- string) {
 
 		switch r {
 		case '[':
-			brackets.Push(line)
+			brackets.Push(Position{line, column})
 		case ']':
 			top := brackets.Pop()
 			if top == nil {
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing bracket on line %d", path, line)
+				chann <- fmt.Sprintf(`Bad Markdown URL in %s:
+extra closing bracket at line %d, column %d`, path, line, column)
 			}
 		case '(':
-			parens.Push(line)
+			parens.Push(Position{line, column})
 		case ')':
 			top := parens.Pop()
 			if top == nil {
-				chann <- fmt.Sprintf("Bad Markdown URL in %s - extra closing parenthesis on line %d", path, line)
+				chann <- fmt.Sprintf(`Bad Markdown URL in %s:
+extra closing parenthesis at line %d, column %d`, path, line, column)
 			}
 		case '–':
 			enDashes[line]++
 		case '\n':
 			line++
+			column = 0
 		}
+
+		column++
 	}
 
 	checkHanging := func(stack *Stack, character string) {
-		results := make([]interface{}, stack.Len())
+		results := make([]Position, stack.Len())
 		i := 0
 		for top := stack.Pop(); top != nil; top = stack.Pop() {
-			results[i] = top
+			results[i] = top.(Position)
 			i++
 		}
 
@@ -96,8 +107,8 @@ func Lint(reader *bufio.Reader, path string, chann chan<- string) {
 			results[i], results[j] = results[j], results[i]
 		}
 
-		for _, line := range results {
-			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s on line %d", path, character, line)
+		for _, position := range results {
+			chann <- fmt.Sprintf("Bad Markdown URL in %s - extra opening %s at line %d, column %d", path, character, position.line, position.column)
 		}
 	}
 
