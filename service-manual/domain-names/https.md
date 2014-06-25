@@ -67,10 +67,8 @@ seeing the verification email and responding. If this is necessary, then first s
 you intend to use for verification from your own email address warning that an SSL verification is needed for
 your service.
 
-The GDS Infrastructure Team can validate requests sent to the following addresses:
+Your request should be sent to hostmaster@digital.cabinet-office.gov.uk, and
+should mention that an SSL verification email will be sent to them. It also helps if you include the domain name(s)
+to be secured and the name of the SSL certificate vendor.
 
-    hostmaster@digital.cabinet-office.gov.uk
-    webops@digital.cabinet-office.gov.uk
-    webmaster@digital.cabinet-office.gov.uk
-
-They are unable to validate requests sent to any @service.gov.uk address.
+The infrastructure team are unable to validate requests sent to any @service.gov.uk address.
