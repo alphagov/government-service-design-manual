@@ -73,8 +73,8 @@ to change the focus when using them in your backlog.
 
 ### Process
 
-*Development process*
-As a developer working on the service
+*Development process*  
+As a developer working on the service  
 So that we can ensure a high level of quality  
 And so we can maximise the integrity of the source code
 I want a well documented and understood development process
@@ -202,7 +202,7 @@ I want to know whether multiple suppliers of Infrastructure are required
 *Capacity planning*  
 As a web operations engineer
 So that we can estimate the number and size of infrastructure components (instances, firewalls, load balancers etc.)  
-And so that resource based costs can be estimated
+And so that resource based costs can be estimated  
 I want to carry out some capacity planning activities
 
 *Network architecture*  
@@ -338,7 +338,7 @@ As a developer working on a transactional service
 So that we can block fraudulent or otherwise suspect transactions  
 I want to install and configure a transactional monitoring system with suitable rules
 
-*External monitoring*
+*External monitoring*  
 As the service manager for the service  
 So that in the event of a failure of the monitoring system  
 And so that the service is monitoring from outside our local network  
@@ -361,12 +361,12 @@ As a web operations engineer working on the service
 So that I don't have to go to an individual machine to view its logs  
 I want all logs from all machines to be aggregated together
 
-*Log storage*
+*Log storage*  
 As a web operations engineer working on the service  
 So that logs can be kept for a suitable period of time  
 I want to provision enough storage for log archiving
 
-*Log viewing*
+*Log viewing*  
 As a web operations engineer working on the service  
 So that I can see what is happening across the infrastructure  
 I want a mechanism for viewing and searching logs in as near real time as possible
@@ -382,7 +382,7 @@ As a web operations engineer working on the service
 So that changes to server configuration can be made safely and quickly
 I want to install software to manage configuration management
 
-*Configuration management database*
+*Configuration management database*  
 As a web operations engineer working on the service  
 So that configuration changes are tracked over time  
 And so that current state of available to query  
