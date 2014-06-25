@@ -20,7 +20,7 @@ exclude:
   - lint.go
   - README.md
   - tools
-  - vendor
+  - /vendor
 
 maruku:
   use_tex:    false
