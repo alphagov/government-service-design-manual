@@ -20,10 +20,6 @@ Use a single text field labelled 'National Insurance number'.
 	<img src="/service-manual/assets/images/design-patterns/nino.png">
 </div>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> Content updates and corrections following review with team
 National Insurance numbers are 9 characters long, but the characters are often spaced in pairs 
 so you'll need to allow for at least 13 characters in any text fields.
 
