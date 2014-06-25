@@ -17,9 +17,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
-  - lint.go
   - README.md
-  - tools
+  - /tools
+  - /tmp
   - /vendor
 
 maruku:
