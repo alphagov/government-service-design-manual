@@ -1,7 +1,7 @@
 ---
 layout: category-index
 title: Specialist learning and development
-subtitle: Support for service manager and digital specialists
+subtitle: Support for service managers and digital specialists
 category: service-managers
 type: guide
 audience:

@@ -24,7 +24,7 @@ They combine designers, developers, researchers and content specialists to deliv
 
 Whether new recruits or experienced civil servants, all team members need a shared base of specialist skills and knowledge.
 
-GDS offers 3 highly practical [specialist learning and development](/service-manual/the-team/induction-and-development) programmes.
+GDS offers 3 highly practical [specialist learning and development](/service-manual/the-team/learning-and-development) programmes.
 
 ## Recruitment
 
