@@ -20,6 +20,12 @@ The right team needs to be in place to deliver a digital by default service. Tea
 
 They combine designers, developers, researchers and content specialists to deliver a project, and may expand or contract in size as services are developed. The exact shape of the team will vary across departments, and depend on various factors including the number and scale of any transactional services the department is redesigning and running, and the extent to which each will be delivered in house.
 
+##Learning and development
+
+Whether new recruits or experienced civil servants, all team members need a shared base of specialist skills and knowledge.
+
+GDS offers 3 highly practical [specialist learning and development](/service-manual/the-team/induction-and-development) programmes.
+
 ## Recruitment
 
 Many of the skills needed to lead and deliver digital public services are relatively new to government and are highly sought after.

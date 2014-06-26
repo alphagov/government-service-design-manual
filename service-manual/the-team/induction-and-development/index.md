@@ -1,7 +1,7 @@
 ---
 layout: category-index
-title: Induction and development
-subtitle: Support for service managers and digital specialists
+title: Specialist learning and development
+subtitle: Support for service manager and digital specialists
 category: service-managers
 type: guide
 audience:
@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-GDS offers 3 highly practical induction and development programmes so you can strengthen the skills, knowledge and network you will need to succeed in your digital role.
+GDS offers 3 highly practical learning and development programmes so you can strengthen the skills, knowledge and network you will need to succeed in your digital role.
 
 #[Service manager induction programme](service-manager-induction.html)
 
@@ -40,3 +40,5 @@ Participants may be in specialist digital roles, such as product manager, busine
 Three days of more specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
 
 Unless already very familiar with the digital agenda, participants should complete the foundation day or service manager induction before taking part in the open programme.
+
+Newly appointed service managers should attend all three days of the open programme. Others may choose to join any or all of the days as appropriate to their role and development needs.

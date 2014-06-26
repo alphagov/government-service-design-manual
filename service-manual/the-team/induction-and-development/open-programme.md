@@ -40,7 +40,7 @@ All sessions will run at a central London location.
 
 The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
 
-#Contents
+#What's covered
 
 The open programme includes the following modules:
 

@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Specialist digital foundation day
-subtitle: An introduction for people and teams working on digital services
+subtitle: An introduction for people and teams delivering services
 category: service-managers
 type: guide
 audience:
@@ -31,17 +31,15 @@ breadcrumbs:
 
 #Who should take part
 
-The foundation day (currently in alpha) is a one-day workshop for people delivering digital services in government.
+The foundation day is a one-day workshop for people delivering services in government.
 
 Participants may be in specialist digital roles, such as product manager, business analyst, designer or developer, or in non-specialist roles that are expected to work closely with digital teams.
 
 It is not recommended for newly appointed service managers, who should book to attend the [service manager induction programme](service-manager-induction.html) instead.
 
-GDS will run the foundation day at a central London location, but also plans to offer it by arrangement for teams in departments and agencies outside London.
+GDS will run the foundation day at a central London location, but also plans to support departments and agencies in making it more widely available.
 
-The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
-
-#Contents
+#What's covered
 
 The foundation day includes the following modules:
 
@@ -51,11 +49,11 @@ Together we’re leading the digital transformation of government, by making ser
 
 *  why we need to change the way government does digital
 *  what has happened so far, including the launch of GOV.UK and adoption of the 25 exemplar transformations
-*  what this means for agencies and departments in general and for the role of service manager in particular
+*  what this means for agencies and departments in general and for your role in particular
 
 ###Putting users first
 
-User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs.html), and so does this induction programme. In this session the group will:
+User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs.html). In this session the group will:
 
 *  meet some users of government digital services
 *  explore different techniques for finding out what users need

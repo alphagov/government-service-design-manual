@@ -36,13 +36,13 @@ breadcrumbs:
 
 The 4-day induction programme aims to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-All newly appointed service managers should book to participate in the induction programme and all 3 days of the [open programme](open-programme.html). More experienced service managers or others in specialist roles in government may choose to book onto any or all of the open programme days.
+This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. After completing the induction programme, participants are also expected to join all 3 [open programme](open-programme.html) days.
 
 All sessions will run at a central London location.
 
 The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
 
-#Contents
+#What's covered
 
 The induction programme includes the following modules:
 
