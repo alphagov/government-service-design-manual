@@ -61,7 +61,7 @@ Good assisted digital support:
 * meets users’ accessibility and legal language requirements
 * securely stores and handles users’ personal data, in line with the Data Protection Act, ensuring users’ privacy is maintained
 
-For more details, see our [assisted digital action plan](/service-manual/assisted-digital).
+For more details, see our [assisted digital action plan](/service-manual/assisted-digital/action-plan).
 
 ## Assisted digital users and their needs
 It’s vital to gain a good understanding of your assisted digital users - their numbers and their needs. Only then can you put appropriate support in place. Assisted digital users include people who are offline, and people who are online but have limited digital capability - ie low experience, skills, confidence, ability and/or motivation.
@@ -106,7 +106,7 @@ The commissioning route will look to provide for a wide range of transaction vol
 Assisted digital users may also have general enquiries related to the service. This information will be on GOV.UK as part of the digital service, so it will be easy for the assisted digital provider to access on the assisted digital user’s behalf.
 
 ## Departmental approaches to assisted digital
-Some services may want to use alternatives to the cross-government commissioning route for assisted digital support. These services should discuss options with GDS early on in the planning stage and will need to demonstrate how the alternative support provides value for money and a high-quality service, in line with the [assisted digital action plan](/service-manual/assisted-digital).
+Some services may want to use alternatives to the cross-government commissioning route for assisted digital support. These services should discuss options with GDS early on in the planning stage and will need to demonstrate how the alternative support provides value for money and a high-quality service, in line with the [assisted digital action plan](/service-manual/assisted-digital/action-plan).
 
 Services may need to use an alternative commissioning route because of responsibilities to devolved administrations, namely legal accountability to both the UK government and devolved governments. 
 

@@ -17,10 +17,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Makefile
-  - lint.go
   - README.md
-  - tools
-  - vendor
+  - /tools
+  - /tmp
+  - /vendor
 
 maruku:
   use_tex:    false
