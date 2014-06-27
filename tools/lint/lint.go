@@ -12,8 +12,8 @@ import (
 	"strings"
 )
 
-func goWalk(location string) chan string {
-	chann := make(chan string) // unbuffered channel of synchronous error messages
+func goWalk(location string) chan error {
+	chann := make(chan error) // unbuffered channel of synchronous error messages
 
 	go func() {
 		// Once we've walked all the files, close this channel to avoid deadlocks
@@ -74,8 +74,8 @@ func main() {
 
 	exitCode := 0
 
-	for msg := range chann {
-		fmt.Println(msg)
+	for err := range chann {
+		fmt.Println(err)
 		exitCode = 1
 	}
 

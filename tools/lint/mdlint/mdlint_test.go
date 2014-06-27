@@ -88,29 +88,29 @@ where in the file you should be looking to fix problems
 	assertChannelIsEmpty(t, collector)
 }
 
-func assertPrefix(t *testing.T, problem string, prefix string) {
-	if !strings.HasPrefix(problem, prefix) {
+func assertPrefix(t *testing.T, problem error, prefix string) {
+	if !strings.HasPrefix(problem.Error(), prefix) {
 		t.Log(problem)
 		t.Fail()
 	}
 }
 
-func assertSuffix(t *testing.T, problem string, suffix string) {
-	if !strings.HasSuffix(problem, suffix) {
+func assertSuffix(t *testing.T, problem error, suffix string) {
+	if !strings.HasSuffix(problem.Error(), suffix) {
 		t.Log(problem)
 		t.Fail()
 	}
 }
 
-func assertChannelIsEmpty(t *testing.T, chann chan string) {
+func assertChannelIsEmpty(t *testing.T, chann chan error) {
 	for e := range chann {
 		t.Log(e)
 		t.Fail()
 	}
 }
 
-func goLint(markdown string) chan string {
-	collector := make(chan string)
+func goLint(markdown string) chan error {
+	collector := make(chan error)
 	go func() {
 		defer close(collector)
 		reader := bufio.NewReader(strings.NewReader(markdown))
