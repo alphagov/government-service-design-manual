@@ -4,6 +4,7 @@ package mdlint
 import (
 	"bufio"
 	"bytes"
+	"container/list"
 	"fmt"
 	"io"
 	"log"
@@ -18,46 +19,8 @@ type SyntaxError struct {
 	position int64
 }
 
-type Stack struct {
-	top  *Element
-	size int
-}
-
-type Element struct {
-	value interface{}
-	next  *Element
-}
-
-// NewStack returns a new stack.
-func NewStack() *Stack {
-	return &Stack{}
-}
-
-// Return the stack's length
-func (s *Stack) Len() int {
-	return s.size
-}
-
-// Push a new element onto the stack
-func (s *Stack) Push(value interface{}) {
-	s.top = &Element{value, s.top}
-	s.size++
-}
-
-// Remove the top element from the stack and return its value
-// If the stack is empty, return nil
-func (s *Stack) Pop() (value interface{}) {
-	if s.size > 0 {
-		value, s.top = s.top.value, s.top.next
-		s.size--
-		return
-	}
-	return nil
-}
-
 func Lint(reader *bufio.Reader, path string, chann chan<- error) {
-	// Stack for parsing each, to get the line number where it was encountered
-	brackets, parens := NewStack(), NewStack()
+	brackets, parens := list.New(), list.New()
 	line := 1
 	column := 1
 	enDashes := make(map[int]int)
@@ -77,22 +40,26 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 
 		switch r {
 		case '[':
-			brackets.Push(SyntaxError{line, column, pos})
+			brackets.PushFront(SyntaxError{line, column, pos})
 		case ']':
-			top := brackets.Pop()
+			top := brackets.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing bracket at line %d, column %d`, path, line, column)
 				chann <- usefulError(path, pos, basicError)
+			} else {
+				brackets.Remove(top)
 			}
 		case '(':
-			parens.Push(SyntaxError{line, column, pos})
+			parens.PushFront(SyntaxError{line, column, pos})
 		case ')':
-			top := parens.Pop()
+			top := parens.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing parenthesis at line %d, column %d`, path, line, column)
 				chann <- usefulError(path, pos, basicError)
+			} else {
+				parens.Remove(top)
 			}
 		case '–':
 			enDashes[line]++
@@ -113,20 +80,9 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 	}
 }
 
-func checkHanging(stack *Stack, character string, chann chan<- error, path string) {
-	results := make([]SyntaxError, stack.Len())
-	i := 0
-	for top := stack.Pop(); top != nil; top = stack.Pop() {
-		results[i] = top.(SyntaxError)
-		i++
-	}
-
-	// Reverse the results, since we used a LIFO data structure to capture them
-	for i, j := 0, len(results)-1; i < j; i, j = i+1, j-1 {
-		results[i], results[j] = results[j], results[i]
-	}
-
-	for _, syntaxError := range results {
+func checkHanging(list *list.List, character string, chann chan<- error, path string) {
+	for e := list.Back(); e != nil; e = e.Prev() {
+		syntaxError := e.Value.(SyntaxError)
 		basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra opening %s at line %d, column %d`, path, character, syntaxError.line, syntaxError.column)
 		chann <- usefulError(path, syntaxError.position, basicError)
