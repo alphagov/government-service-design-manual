@@ -1,0 +1,109 @@
+---
+layout: detailed-guidance
+title: Writing government services
+subtitle: Tone of voice, writing style, use of headings and more
+category: user-centered-design
+type: guide
+audience:
+  primary: service-managers, designers, developers, content-designers
+  secondary: performance-analysts, user-researchers
+status: draft
+phases:
+  - alpha
+  - beta
+  - live
+breadcrumbs:
+  -
+    title: Home
+    url: /service-manual
+  -
+    title: User centered design
+    url: /service-manual/user-centered-design/user-research
+---
+
+
+
+##Procuring research services 
+
+You should have researchers in your agile project team doing the majority of your research, removing the need to procure a research agency.  However, for most projects, you’ll still need to access:
+ 
+* respondents (members of the public to take part in research)
+* a research laboratory (somewhere to conduct your research)
+* a quantitative sample (for large scale quantitative studies)
+ 
+Your department’s procurement team will be able to support you with any procurement activity. 
+
+###Government Procurement Service
+The Government Procurement Service (GPS) offer procurement options to all government departments.
+
+GPS routes to market are outlined in this guidance. More information on the various options will be available from your in-house procurement team.
+
+
+###Writing your research brief
+You’ll need to write a brief detailing your exact requirements before you start procuring a service. Try to keep the brief succinct and be very clear about your priorities as you’ll need to evaluate suppliers’ proposals as part of the tender process. 
+
+As a basic guide, a research brief will need to include the following:
+
+* an introduction to the department
+* project’s background
+* research objectives
+* methodology (if appropriate)
+* budget and timings
+* the expected outcomes/deliverables
+ 
+This [research brief](/service-manual/user-centered-design/ida-examplebrief.pdf) shows the information needed to recruit participants and a research laboratory for 15 rounds of usability testing over a 4-month period.
+
+Note - if you want to visit the research laboratory as part of the evaluation process then make sure that this requirement is included in your brief from the start. 
+
+
+###Using cash incentives
+Some department’s security rules prevent them from paying cash incentives (for taking part in the research) to members of the public. Find out where your department stands on this issue before you undertake any procurement activity. 
+
+If this is an issue, build this into your research brief. Many recruitment companies (those that find your respondents) offer a hostessing service. This means that they’ll ‘meet and greet’ your respondents, get them to sign a consent form and deal with all cash payments on your behalf. 
+
+Even if this isn’t an issue, you need to make sure that all respondents read and sign a [consent form]((/service-manual/user-centered-design/gds-consentform.pdf) that’s specific to your project.
+ 
+###Spotbuy and Contracts Finder
+You’ll need someone to test with (respondents) and somewhere suitable to conduct the interviews (a research laboratory) to be able to carry out your research. 
+
+GPS offers two procurement routes, [Spotbuy](http://gps.cabinetoffice.gov.uk/i-am-buyer/run-further-competition/spot-buying) and [Contracts Finder](http://procurement.cabinetoffice.gov.uk/policy-capability/doing-business-government/contracts-finder), that will help you do this. Both of these options take approximately a month from start to finish, depending upon the length of time that the advert is live. Rough timings are:
+ 
+* week 1 – write the brief, agree on the scoring mechanism and complete the paperwork
+* weeks 2 and 3 – the advert is live on Spotbuy or Contracts Finder
+* week 4 – review and score the proposals and appoint a successful supplier
+ 
+You can shorten the length of time that the advert is live if your requirement is simple. Discuss this with your procurement team and GPS.
+ 
+###G-Cloud
+[G-Cloud](http://gcloud.civilservice.gov.uk/ ) offers a faster route to the supplier market – services can typically be procured within a fortnight. The amount of research suppliers that are available via G-Cloud is improved continually, with new suppliers able to sign up every 6 months. 
+
+The latest opportunity to join G-Cloud was August 2013 and the User Research team encouraged a range of suppliers to sign up. The exact list of suppliers will be accessible from November 2013. 
+
+###Single tender 
+It may be possible to commission a single tender if you have an urgent need to procure a service. Again, you’ll need to talk to your department’s procurement team to see if this option is available to you. 
+
+If it is available, you can approach a supplier directly with your requirements. The supplier will need to send you a formal written response. This should outline the service that they’ll provide and a quote for the work. Procurement will then need the quotation to raise the purchase order. You can usually engage with the supplier within a matter of days.
+
+###Future developments
+Work is currently underway to put in place the [Digital Services Framework](http://digital.cabinetoffice.gov.uk/2013/07/09/digital-services-framework/), which will include a range of research suppliers that can support the needs of an agile research team. The framework, a list of suppliers who’ve been pre-approved to bid for government contracts, is currently being evaluated and will be available for use in late 2013.
+
+A new market research framework is also being developed by [UK Shared Business Services](http://www.uksbs.co.uk/Pages/default.aspx). It’s likely that this will be available for use early 2014 and will cover: 
+* secondary research
+* strategic planning and development
+* communications, products and services development and training
+* performance/reputation audit and customer/stakeholder satisfaction
+* communications evaluation research
+* research support services
+* panels
+* specialist audiences 
+
+This will provide access to a broader range of research suppliers, particularly online panels and quantitative agencies.
+###Tips for successful procurement
+You can make sure that your procurement process avoids future difficulties by:
+
+* procuring for more than one round of testing —  write a brief that allows you to run a programme of iterative testing, which will ideally involve 10 to 15 rounds of testing
+* planning your procurement during the discovery phase and engage your procurement team early on (conducting the procurement ahead of time will allow you to start immediately when you’re ready to move into alpha)
+* researching suitable suppliers and sending them your procurement advert, inviting them to bid for the work (if using Spotbuy or Contracts Finder) 
+* setting up a call-off contract — this will allow you to extend the contract again if you need to, without going back out to market
+* keeping it simple and being clear about your requirements; you’ll need to evaluate and score supplier’s proposals and it helps to know in advance what’s important 
+  
