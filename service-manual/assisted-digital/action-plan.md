@@ -29,11 +29,9 @@ The information in this document will help you to:
 * understand your assisted digital user volumes and needs
 * develop assisted digital support that meets user needs and provides good value for money
 
-You may find it useful to complete [this form](/service-manual/assets/documents/assisted-digital-information-template.pdf) (PDF, 106KB) as you develop your assisted digital support in line with the Service Standard.
+You may find it useful to complete [this form](/service-manual/assets/documents/assisted-digital-information-template.pdf) (PDF, 106KB) as you develop your assisted digital support in line with the Service Standard. You can also tailor the [form](/service-manual/assets/documents/assisted-digital-template.docx) for your own service. 
 
-<figure class="media-player-wrapper video">
-  <a href="https://www.youtube.com/watch?feature=player_embedded&v=hJUL-nz1crk">Watch the team describe how assisted digital is part of a service</a>
-</figure>
+Click [here](https://www.youtube.com/watch?feature=player_embedded&v=hJUL-nz1crk) to watch an introductory video on assisted digital and the digital service lifecycle. 
 
 ## Discovery: understanding your assisted digital users and their needs
 
