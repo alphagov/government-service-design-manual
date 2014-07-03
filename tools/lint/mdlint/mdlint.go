@@ -19,7 +19,7 @@ type SyntaxError struct {
 	position int64
 }
 
-func Lint(reader *bufio.Reader, path string, chann chan<- error) {
+func Lint(reader *bufio.Reader, path string, out chan<- error) {
 	brackets, parens := list.New(), list.New()
 	line := 1
 	column := 1
@@ -33,7 +33,7 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 
 		if err != nil {
 			if err != io.EOF {
-				chann <- fmt.Errorf("Error reading from %s - %s", path, err)
+				out <- fmt.Errorf("Error reading from %s - %s", path, err)
 			}
 			break
 		}
@@ -46,7 +46,7 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing bracket at line %d, column %d`, path, line, column)
-				chann <- usefulError(path, pos, basicError)
+				out <- usefulError(path, pos, basicError)
 			} else {
 				brackets.Remove(top)
 			}
@@ -57,7 +57,7 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing parenthesis at line %d, column %d`, path, line, column)
-				chann <- usefulError(path, pos, basicError)
+				out <- usefulError(path, pos, basicError)
 			} else {
 				parens.Remove(top)
 			}
@@ -72,20 +72,20 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 	}
 
 	// Check the results and accumulate any problems
-	checkHanging(brackets, "bracket", chann, path)
-	checkHanging(parens, "parenthesis", chann, path)
+	checkHanging(brackets, "bracket", out, path)
+	checkHanging(parens, "parenthesis", out, path)
 
 	for line, _ := range enDashes {
-		chann <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
+		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
 	}
 }
 
-func checkHanging(list *list.List, character string, chann chan<- error, path string) {
+func checkHanging(list *list.List, character string, out chan<- error, path string) {
 	for e := list.Back(); e != nil; e = e.Prev() {
 		syntaxError := e.Value.(SyntaxError)
 		basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra opening %s at line %d, column %d`, path, character, syntaxError.line, syntaxError.column)
-		chann <- usefulError(path, syntaxError.position, basicError)
+		out <- usefulError(path, syntaxError.position, basicError)
 	}
 }
 
