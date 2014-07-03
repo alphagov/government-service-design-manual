@@ -1,4 +1,5 @@
-// *Very* basic markdown linting, since we seem to keep publishing broken things.
+// Package mdlint implements functions for *very* basic markdown
+// linting, since we seem to keep publishing broken things.
 package mdlint
 
 import (
@@ -13,18 +14,21 @@ import (
 	"unicode/utf8"
 )
 
-type SyntaxError struct {
+type syntaxError struct {
 	line     int
 	column   int
 	position int64
 }
 
+// Lint reads the provided reader (with an optional associated path)
+// and checks the markdown for basic errors. Any errors found are
+// sent to the provided out channel
 func Lint(reader *bufio.Reader, path string, out chan<- error) {
 	brackets, parens := list.New(), list.New()
 	line := 1
 	column := 1
 	enDashes := make(map[int]int)
-	var pos int64 = 0
+	pos := int64(0)
 
 	// Parse the file
 	for {
@@ -40,7 +44,7 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 
 		switch r {
 		case '[':
-			brackets.PushFront(SyntaxError{line, column, pos})
+			brackets.PushFront(syntaxError{line, column, pos})
 		case ']':
 			top := brackets.Front()
 			if top == nil {
@@ -51,7 +55,7 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 				brackets.Remove(top)
 			}
 		case '(':
-			parens.PushFront(SyntaxError{line, column, pos})
+			parens.PushFront(syntaxError{line, column, pos})
 		case ')':
 			top := parens.Front()
 			if top == nil {
@@ -75,14 +79,14 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 	checkHanging(brackets, "bracket", out, path)
 	checkHanging(parens, "parenthesis", out, path)
 
-	for line, _ := range enDashes {
+	for line := range enDashes {
 		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
 	}
 }
 
 func checkHanging(list *list.List, character string, out chan<- error, path string) {
 	for e := list.Back(); e != nil; e = e.Prev() {
-		syntaxError := e.Value.(SyntaxError)
+		syntaxError := e.Value.(syntaxError)
 		basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra opening %s at line %d, column %d`, path, character, syntaxError.line, syntaxError.column)
 		out <- usefulError(path, syntaxError.position, basicError)
