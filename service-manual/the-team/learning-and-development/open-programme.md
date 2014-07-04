@@ -32,9 +32,9 @@ breadcrumbs:
 
 #Who should take part
 
-These 3 days contain specialist modules to help you succeed and improve in particular areas of the Digital by Default Service Standard.
+These 3 days contain specialist modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
-Unless already very familiar with the digital agenda, participants should complete either the [specialist digital foundation day](foundation-day.html) or the [service manager induction](service-manager-induction.html) before taking part in the open programme.
+Unless already very familiar with digital in government, participants should complete either the [specialist digital foundation day](foundation-day.html) or the [service manager induction](service-manager-induction.html) before taking part in the open programme.
 
 All sessions will run at a central London location.
 

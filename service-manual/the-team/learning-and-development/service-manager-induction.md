@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Induction programme
+title: Service manager induction programme
 subtitle: For service managers taking the lead in digital transformation
 category: service-managers
 type: guide
@@ -34,7 +34,7 @@ breadcrumbs:
 
 #Who should take part
 
-The 4-day induction programme aims to equip newly appointed service managers with the basic knowledge, network and confidence to take the lead in transforming digital services.
+The 4-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager.html) with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
 This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. After completing the induction programme, participants are also expected to join all 3 [open programme](open-programme.html) days.
 
@@ -81,7 +81,7 @@ Which principles of leadership can be brought to bear in the new era of agile di
 
 ###Meeting the service standard
 
-The [Digital by Default Service Standard](/service-manual/digital-by-default/) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
+The [Digital by Default Service Standard](/service-manual/digital-by-default) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
 
 *  learn about the standard, how it was created and what tools are available to help departments meet it
 *  consider how services will be assessed against the standard
@@ -90,7 +90,7 @@ The [Digital by Default Service Standard](/service-manual/digital-by-default/) i
 
 ###Building the team
 
-As a service manager you need the support of a [multidisciplinary team](/service-manual/the-team/) working intensively together through rapid iterations. Your group will:
+As a service manager you need the support of a [multidisciplinary team](/service-manual/the-team) working intensively together through rapid iterations. Your group will:
 
 *  understand the roles needed in an agile, user-centred service re-design team
 *  get to the heart of what job titles and descriptions really mean, so that your department can appoint the right people, and at the right levels

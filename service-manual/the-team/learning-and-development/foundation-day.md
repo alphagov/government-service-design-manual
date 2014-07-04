@@ -26,14 +26,14 @@ breadcrumbs:
 
 | Day | 2014 |
 |------------|
-| Alpha | July date tbc |
+| Alpha | July 18 |
 | Beta | September 3 and October 23 |
 
 #Who should take part
 
 The foundation day is a one-day workshop for people delivering services in government.
 
-Participants may be in specialist digital roles, such as product manager, business analyst, designer or developer, or in non-specialist roles that are expected to work closely with digital teams.
+Participants may be in specialist digital roles, such as product manager, business analyst, designer or developer, or in other roles that are expected to work closely with digital teams.
 
 It is not recommended for newly appointed service managers, who should book to attend the [service manager induction programme](service-manager-induction.html) instead.
 
@@ -70,7 +70,7 @@ User-centred processes start with [user needs](/service-manual/user-centred-desi
 
 ###Meeting the service standard
 
-The [Digital by Default Service Standard](/service-manual/digital-by-default/) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
+The [Digital by Default Service Standard](/service-manual/digital-by-default) is the benchmark your services must reach in order to be taken live on GOV.UK. You will:
 
 *  learn about the standard, how it was created and what tools are available to help departments meet it
 *  consider how services will be assessed against the standard
@@ -80,7 +80,7 @@ The [Digital by Default Service Standard](/service-manual/digital-by-default/) i
 
 #Request a place
 
-To request a place on the alpha or beta of the foundation day, please fill in this [SurveyMonkey form](#)
+To request a place on the alpha or beta of the foundation day, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/CXJWXXL)
 
 Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
