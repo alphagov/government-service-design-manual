@@ -52,9 +52,9 @@ Click either of the options below to download a template service manager job des
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 
-## Induction and development
+## Learning and development
 
-Newly appointed service managers are supported by GDS through a specialist [induction and development programme](/service-manual/the-team/induction-and-development.html).
+Newly appointed service managers are supported by GDS through [specialist learning and development](/service-manual/the-team/learning-and-development).
 
 ## Guidance
 
