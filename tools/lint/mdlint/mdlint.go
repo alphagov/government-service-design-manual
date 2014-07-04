@@ -1,9 +1,11 @@
-// *Very* basic markdown linting, since we seem to keep publishing broken things.
+// Package mdlint implements functions for *very* basic markdown
+// linting, since we seem to keep publishing broken things.
 package mdlint
 
 import (
 	"bufio"
 	"bytes"
+	"container/list"
 	"fmt"
 	"io"
 	"log"
@@ -12,56 +14,21 @@ import (
 	"unicode/utf8"
 )
 
-type SyntaxError struct {
+type syntaxError struct {
 	line     int
 	column   int
 	position int64
 }
 
-type Stack struct {
-	top  *Element
-	size int
-}
-
-type Element struct {
-	value interface{}
-	next  *Element
-}
-
-// NewStack returns a new stack.
-func NewStack() *Stack {
-	return &Stack{}
-}
-
-// Return the stack's length
-func (s *Stack) Len() int {
-	return s.size
-}
-
-// Push a new element onto the stack
-func (s *Stack) Push(value interface{}) {
-	s.top = &Element{value, s.top}
-	s.size++
-}
-
-// Remove the top element from the stack and return its value
-// If the stack is empty, return nil
-func (s *Stack) Pop() (value interface{}) {
-	if s.size > 0 {
-		value, s.top = s.top.value, s.top.next
-		s.size--
-		return
-	}
-	return nil
-}
-
-func Lint(reader *bufio.Reader, path string, chann chan<- error) {
-	// Stack for parsing each, to get the line number where it was encountered
-	brackets, parens := NewStack(), NewStack()
+// Lint reads the provided reader (with an optional associated path)
+// and checks the markdown for basic errors. Any errors found are
+// sent to the provided out channel
+func Lint(reader *bufio.Reader, path string, out chan<- error) {
+	brackets, parens := list.New(), list.New()
 	line := 1
 	column := 1
 	enDashes := make(map[int]int)
-	var pos int64 = 0
+	pos := int64(0)
 
 	// Parse the file
 	for {
@@ -70,29 +37,33 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 
 		if err != nil {
 			if err != io.EOF {
-				chann <- fmt.Errorf("Error reading from %s - %s", path, err)
+				out <- fmt.Errorf("Error reading from %s - %s", path, err)
 			}
 			break
 		}
 
 		switch r {
 		case '[':
-			brackets.Push(SyntaxError{line, column, pos})
+			brackets.PushFront(syntaxError{line, column, pos})
 		case ']':
-			top := brackets.Pop()
+			top := brackets.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing bracket at line %d, column %d`, path, line, column)
-				chann <- usefulError(path, pos, basicError)
+				out <- usefulError(path, pos, basicError)
+			} else {
+				brackets.Remove(top)
 			}
 		case '(':
-			parens.Push(SyntaxError{line, column, pos})
+			parens.PushFront(syntaxError{line, column, pos})
 		case ')':
-			top := parens.Pop()
+			top := parens.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing parenthesis at line %d, column %d`, path, line, column)
-				chann <- usefulError(path, pos, basicError)
+				out <- usefulError(path, pos, basicError)
+			} else {
+				parens.Remove(top)
 			}
 		case '–':
 			enDashes[line]++
@@ -105,31 +76,20 @@ func Lint(reader *bufio.Reader, path string, chann chan<- error) {
 	}
 
 	// Check the results and accumulate any problems
-	checkHanging(brackets, "bracket", chann, path)
-	checkHanging(parens, "parenthesis", chann, path)
+	checkHanging(brackets, "bracket", out, path)
+	checkHanging(parens, "parenthesis", out, path)
 
-	for line, _ := range enDashes {
-		chann <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
+	for line := range enDashes {
+		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
 	}
 }
 
-func checkHanging(stack *Stack, character string, chann chan<- error, path string) {
-	results := make([]SyntaxError, stack.Len())
-	i := 0
-	for top := stack.Pop(); top != nil; top = stack.Pop() {
-		results[i] = top.(SyntaxError)
-		i++
-	}
-
-	// Reverse the results, since we used a LIFO data structure to capture them
-	for i, j := 0, len(results)-1; i < j; i, j = i+1, j-1 {
-		results[i], results[j] = results[j], results[i]
-	}
-
-	for _, syntaxError := range results {
+func checkHanging(list *list.List, character string, out chan<- error, path string) {
+	for e := list.Back(); e != nil; e = e.Prev() {
+		syntaxError := e.Value.(syntaxError)
 		basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra opening %s at line %d, column %d`, path, character, syntaxError.line, syntaxError.column)
-		chann <- usefulError(path, syntaxError.position, basicError)
+		out <- usefulError(path, syntaxError.position, basicError)
 	}
 }
 
