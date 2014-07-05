@@ -6,7 +6,7 @@ category: user-centred-design
 type: guide
 audience:
   primary: designers, content-designers
-  secondary: service-managers, user-researchers
+  secondary: service-managers
 status: draft
 phases:
   - alpha
@@ -93,7 +93,7 @@ You should test your paper forms with real users. For complex forms, plan for 3 
 
 You'll gain valuable insight by attending the user research in person.
 
-Get [an introduction to user research](/service-manual/user-centred-design/introduction-to-user-research.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
+Get [an introduction to user research](/service-manual/user-centred-design/user-research/index.html) and find out about all the [different kinds of testing](/service-manual/user-researchers).
 
 ## If you have to choose between hiring a writer and a designer, choose a writer
 

@@ -47,7 +47,7 @@ At the end of the beta phase, you'll have:
 
 * delivered a public, end-to-end prototype of the service
 * a collection of prioritised work to be done (your backlog)
-* a [user testing plan](/service-manual/user-centred-design/introduction-to-user-research.html)
+* a [user testing plan](/service-manual/user-centred-design/user-research/index.html)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
 * tested the assisted digital support for your service
 * a working system that can be used, for real, by end users

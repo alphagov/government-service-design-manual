@@ -6,7 +6,7 @@ category: user-centred-design
 type: guide
 audience:
   primary: service-managers, designers, content-designers
-  secondary: performance-analysts, user-researchers
+  secondary: performance-analysts
 status: draft
 phases:
   - alpha

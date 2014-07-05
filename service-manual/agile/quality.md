@@ -5,7 +5,7 @@ subtitle: How to define it, measure it and maintain it
 category: agile
 type: guide
 audience:
-  primary: service-managers, tech-archs, designers, developers, performance-analysts, user-researchers
+  primary: service-managers, tech-archs, designers, developers, performance-analysts
   secondary:
 status: draft
 phases:
@@ -64,7 +64,7 @@ Dylan Robert's book ["Learning From First Responders"](http://www.oreilly.com/ve
 This manual gives further information on testing:
 
 * [testing in an agile environment](/service-manual/making-software/testing-in-agile.html)
-* [accessibility testing](/service-manual/making-software/accessibility-testing.html)
+* [accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html)
 * [testing code](/service-manual/making-software/code-testing.html)
 * [load and performance testing](/service-manual/operations/load-and-performance-testing.html)
 * [vulnerability and penetration testing](/service-manual/operations/penetration-testing.html)

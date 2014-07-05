@@ -5,7 +5,7 @@ subtitle: A guide to assisted digital
 category: assisted-digital
 type: guide
 audience:
-  primary: service-managers, user-researchers
+  primary: service-managers
 status: draft
 phases:
   - discovery

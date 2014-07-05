@@ -5,7 +5,7 @@ subtitle: How to make services that everyone can use
 category: user-centred-design
 type: guide
 audience:
-  primary: service-managers, designers, developers, performance-analysts, user-researchers, qa, content-designers
+  primary: service-managers, designers, developers, performance-analysts, qa, content-designers
   secondary:
 status: draft
 phases:
@@ -32,7 +32,7 @@ As a starting point, your service should aim to meet Level AA of the [Web Conten
 
 Your service should be tested by disabled people, older people, and people who use assistive technologies. You should aim to do this at least twice as your service is developed.
 
-[Find out more about how to conduct accessibility testing](/service-manual/making-software/accessibility-testing.html)
+[Find out more about how to conduct accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html)
 
 
 ## Accessibility statements and policies

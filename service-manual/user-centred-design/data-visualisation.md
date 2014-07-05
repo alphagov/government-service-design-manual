@@ -6,7 +6,7 @@ category: user-centred-design
 type: guide
 audience:
   primary: performance-analysts
-  secondary: service-managers, user-researchers, qa
+  secondary: service-managers, qa
 status: draft
 phases:
   - beta
