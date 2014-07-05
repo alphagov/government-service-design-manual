@@ -30,7 +30,7 @@ People come to GOV.UK with specific needs. Anything that gets between our users 
   <li><a href="/service-manual/user-centred-design/working-with-prototypes">Working with prototypes</a> Learning by doing</li>
   <li><a href="/service-manual/user-centred-design/accessibility">Accessibility</a> How to make services that everyone can use</li>
   <li><a href="/service-manual/user-centred-design/browsers-and-devices">Browsers and devices</a> Which ones to test with, and how best to support them</li>
-  <li><a href="/service-manual/user-centred-design/service-look-and-feel">Service look-and-feel</a> Guidance for creating a consistent look-and-feel</li>
+  <li><a href="/service-manual/user-centred-design/service-user-experience">Service user experience</a> Guidance for creating a consistent user experience</li>
   <li><a href="/service-manual/user-centred-design/resources/header-footer">Header and footer</a> Guidance on using the GOV.UK header</li>
   <li><a href="/service-manual/user-centred-design/print-forms">Print forms</a> Designing or redesigning paper components for transactions</li>
   <li><a href="/service-manual/user-centred-design/how-users-read">How users read</a> Reading age, reading online, plain English, learning disabilities</li>
