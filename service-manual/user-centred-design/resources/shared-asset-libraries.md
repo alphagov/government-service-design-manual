@@ -56,10 +56,11 @@ the language your service is written in.
 GOV.UK's [static][] consumes the Ruby version of the template application, which in turn
 provides shared resources like footer links across the various frontend apps that run GOV.UK.
 
-The Performance Platform's [Node.js application][spotlight] uses the `{{ mustache }}` version of the template.
+The Performance Platform's [Node.js application][spotlight] uses the [Mustache][mustache] version of the template.
 
 [static]: https://github.com/alphagov/static/blob/release_1994/Gemfile#L27-30
 [spotlight]: https://github.com/alphagov/spotlight
+[mustache]: http://mustache.github.io/
 
 You should be able to become a consumer of the template in exactly the same way these two projects
 are, by adding it to your application's dependencies.
