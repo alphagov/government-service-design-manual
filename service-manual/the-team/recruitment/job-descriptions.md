@@ -53,6 +53,7 @@ Before advertising any SCS technology position, the [Recruitment Hub](/service-m
 
 ### Non-SCS specialist roles
 
+* Agile Coach (this is not a permanent role) [Download as Open Office doc](/service-manual/the-team/recruitment/Agile-coach.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Agile-coach.docx)
 * Business analyst [Download as Open Office doc](/service-manual/the-team/recruitment/Businessanalyst-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Businessanalyst-generic.docx)
 * Content designer [Download as Open Office doc](/service-manual/the-team/recruitment/Contentdesigners-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Contentdesigners-generic.docx)
 * Delivery manager [Download as Open Office doc](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx)
@@ -61,8 +62,9 @@ Before advertising any SCS technology position, the [Recruitment Hub](/service-m
 * Digital Communications Lead [Download as Open Office doc](/service-manual/the-team/recruitment/DigitalCommsLead.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DigitalCommsLead.docx)
 * Junior visual designer [Download as Open Office doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx)
 * Performance analyst [Download as Open Office doc](/service-manual/the-team/recruitment/Digitalperformanceanalyst-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Digitalperformanceanalyst-generic.docx)
-* Product manager [Download as Open Office doc](/service-manual/the-team/recruitment/ProductManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/ProductManager-generic.docx)
 * Portfolio manager [Download as Open Office doc](/service-manual/the-team/recruitment/PortfolioManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/PortfolioManager-generic.docx)
+* Product manager [Download as Open Office doc](/service-manual/the-team/recruitment/ProductManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/ProductManager-generic.docx)
+* Programme Delivery Manager [Download as Open Office doc](/service-manual/the-team/recruitment/Programme-Delivery-Manager.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Programme-Delivery-Manager.docx)
 * Technical Architect [Download as Open Office doc](/service-manual/the-team/recruitment/Technicalarchitect-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)
 * User researcher [Download as Open Office doc](/service-manual/the-team/recruitment/Userresearcher-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Userresearcher-generic.docx)
 * Web ops [Download as Open Office doc](/service-manual/the-team/recruitment/WebOps-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/WebOps-generic.docx)
