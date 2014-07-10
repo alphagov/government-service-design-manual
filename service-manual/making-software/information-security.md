@@ -244,7 +244,7 @@ Aim for a system where the risks are known, and have your team work with risk pr
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html) is a comprehensive textbook covering the theory and practice of building secure systems
 * [HMG IA Standard No. 1 -- Technical Risk Assessment](https://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf), the CESG guide to assessing risk in information systems
 * [Business Impact Level Tables](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
-* [Guidance on Information Asset Owner role](/government/uploads/system/uploads/attachment_data/file/255914/Guidance_on_the_IAO_Role.pdf): Guidence on Information Asset Owner role
+* [Guidance on Information Asset Owner role](/government/uploads/system/uploads/attachment_data/file/255914/Guidance_on_the_IAO_Role.pdf)
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance
