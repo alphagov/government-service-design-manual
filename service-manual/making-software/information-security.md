@@ -110,11 +110,11 @@ It’s included here in the hope that they’ll provide a helpful reference that
 
 It’s important to understand the different roles involved with the assurance and accreditation processes. Each role requires formal training and specialist skills, so decide who plays each of these roles from the very beginning:
 
-* [Senior Information Risk Owner](#Senior-Information-Risk-Owner) (SIRO)
-* [Accreditor](#Accreditor)
+* [Senior Information Risk Owner](#senior-information-risk-owner-siro) (SIRO)
+* [Accreditor](#accreditor)
 * [Information Asset Owner](#information-asset-owner)
-* [Communications Electronics Security Group](#CESG) (CESG)
-* [CESG Listed Adviser Scheme (CLAS) consultant](#CESG-Listed-Adviser-Scheme)
+* [Communications Electronics Security Group](#cesg-originally-communications-electronics-security-group) (CESG)
+* [CESG Listed Adviser Scheme (CLAS) consultant](#cesg-listed-adviser-scheme-clas-consultant)
 
 #### Senior Information Risk Owner (SIRO)
 
