@@ -60,7 +60,7 @@ The alpha phase is another relatively short phase. At GDS, we try to limit these
 ## Team requirements
 This phase involves a relatively small core team, who will be capable of rapidly iterating solutions. It will probably expand and contract in size as different specialisms are required.
 
-This core team will be a mix of stakeholders, and makers (designers and developers) particularly those familiar with [user research](/service-manual/user-centred-design/introduction-to-user-research). It will be led by the service manager.
+This core team will be a mix of stakeholders, and makers (designers and developers) particularly those familiar with [user research](/service-manual/user-centred-design/user-research). It will be led by the service manager.
 
 ## Outputs
 

@@ -149,7 +149,7 @@ Guerrilla testing normally involves taking your prototype into a coffee shop or 
 
 There are many other research methods you can use to supplement your ‘in person’ qualitative research and to address specific research questions. Using a different technique can provide better insight into a particular research question, or validate insights from fortnightly research with a larger audience.
 
-Here‘s a [list of some techniques](/service-manual/user-centred-design/introduction-to-user-research) you can use and information on how and when you should use them.
+Here‘s a [list of some techniques](/service-manual/user-centred-design/user-research) you can use and information on how and when you should use them.
 
 ## Learn
 

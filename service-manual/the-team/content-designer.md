@@ -47,7 +47,7 @@ Content designers must be able to:
 - edit content -- making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user -- grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
 - work with developers and designers to [create better solutions](https://gds.blog.gov.uk/2012/11/05/tools-over-content/) -- for example, writing logic and content for [smart answers](https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/)
-- understand and incorporate the results of [user testing](/service-manual/user-centred-design/introduction-to-user-research)
+- understand and incorporate the results of [user testing](/service-manual/user-centred-design/user-research)
 - review the work of other editors -- to make sure consistency and excellence is maintained across the site
 - publish content -- using various systems
 - communicate the [principles of good content design](/design-principles/style-guide) to others in the organisation
