@@ -30,7 +30,7 @@ GDS define open standards for software interoperability, data, and document form
 * [transparency](#transparency)
 * [due process](#due-process)
 * [fair access](#fair-access)
-* [market support](#market-suport)
+* [market support](#market-support)
 * [licensing rights](licensing-rights)
 
 #### Collaboration
