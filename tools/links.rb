@@ -111,12 +111,16 @@ html_files.each do |filename|
       end
 
       request = Net::HTTP::Get.new(uri.request_uri)
-      response = http.request(request)
+      begin
+        response = http.request(request)
 
-      if response.code == '301' or response.code == '302'
-        warn("#{response.code} response code from <#{uri}> to <#{response['location']}>")
-      elsif response.code != '200'
-        error("#{response.code} response code from <#{uri}>")
+        if response.code == '301' or response.code == '302'
+          warn("#{response.code} response code from <#{uri}> to <#{response['location']}>")
+        elsif response.code != '200'
+          error("#{response.code} response code from <#{uri}>")
+        end
+      rescue StandardError => e
+        error("#{e} trying to access <#{uri}>")
       end
 
       sleep 1
