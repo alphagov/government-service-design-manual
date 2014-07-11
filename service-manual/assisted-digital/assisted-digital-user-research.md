@@ -36,7 +36,7 @@ An assisted digital user is someone unable to use a digital by default service i
 
 Assisted digital users include people who are offline, and people who are online but genuinely can’t complete a digital by default transaction by themselves. 
 
-18% of UK adults are offline (ie never or rarely use the internet) and GDS’ Digital Landscape Research provides [a demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
+18% of UK adults are offline (ie never or rarely use the internet) and GDS’ Digital Landscape Research provides [a demographic breakdown](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research#internet-use-by-demographic) of who is online and who is offline.
 
 [Go ON UK estimates that 11 million people in the UK aged 15 and over don’t have Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (eg sending an email, performing a simple search).
 
