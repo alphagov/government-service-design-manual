@@ -35,7 +35,7 @@ The foundation day is a one-day workshop for people delivering services in gover
 
 Participants may be in specialist digital roles, such as product manager, business analyst, designer or developer, or in other roles that are expected to work closely with digital teams.
 
-It is not recommended for newly appointed service managers, who should book to attend the [service manager induction programme](service-manager-induction.html) instead.
+It is not recommended for newly appointed service managers, who should book to attend the [service manager induction programme](/service-manual/the-team/learning-and-development/service-manager-induction) instead.
 
 GDS will run the foundation day at a central London location, but also plans to support departments and agencies in making it more widely available.
 
@@ -53,7 +53,7 @@ Together we’re leading the digital transformation of government, by making ser
 
 ###Putting users first
 
-User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs.html). In this session the group will:
+User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs). In this session the group will:
 
 *  meet some users of government digital services
 *  explore different techniques for finding out what users need
@@ -62,7 +62,7 @@ User-centred processes start with [user needs](/service-manual/user-centred-desi
 
 ###Thinking agile
 
-[Agile](/service-manual/agile/index.html) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
+[Agile](/service-manual/agile) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
 
 * agile as a mindset, much wider than a set of tools and techniques
 * the principles to be found in the [Agile Manifesto](http://agilemanifesto.org/) and how they apply to software projects and beyond
