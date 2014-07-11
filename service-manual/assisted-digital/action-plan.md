@@ -39,7 +39,7 @@ You may find it useful to complete [this form](/service-manual/assets/documents/
 
 The discovery phase will give you a high-level understanding of assisted digital user needs and what your assisted digital support will look like. GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research) will support you in developing your service throughout all stages.
 
-Do some work to understand the demographic makeup (eg gender, age, disability status, region) of who needs your assisted digital support. [The Digital Landscape Research](http://publications.cabinetoffice.gov.uk/digital/research/) provides a cross-population view of who is offline in the UK. You should also look at current users of offline channels for your department's services.
+Do some work to understand the demographic makeup (eg gender, age, disability status, region) of who needs your assisted digital support. [The Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research) provides a cross-population view of who is offline in the UK. You should also look at current users of offline channels for your department's services.
 
 Once you have an initial understanding of who your assisted digital users are, start to understand their needs. Work with people already supporting your users to complete digital transactions. They might be staff in your department, organisations who help people develop digital skills, or intermediaries such as charities, lawyers, libraries, Citizens Advice Bureau, JobCentre Plus, or other commercial agents.
 
