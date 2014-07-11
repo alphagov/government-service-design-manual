@@ -34,7 +34,7 @@ breadcrumbs:
 
 These 3 days contain specialist modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
 
-Unless already very familiar with digital in government, participants should complete either the [specialist digital foundation day](foundation-day.html) or the [service manager induction](service-manager-induction.html) before taking part in the open programme.
+Unless already very familiar with digital in government, participants should complete either the [specialist digital foundation day](/service-manual/the-team/learning-and-development/foundation-day) or the [service manager induction](/service-manual/the-team/learning-and-development/service-manager-induction) before taking part in the open programme.
 
 All sessions will run at a central London location.
 
@@ -55,11 +55,11 @@ Using data to inform decision-making is vital to the development of your service
 
 * design your own performance data dashboard to understand your services in a simple, visual way
 
-* find out about the [Performance Platform](/service-manual/measurement/performance-platform.html) and how you can use it
+* find out about the [Performance Platform](/service-manual/measurement/performance-platform) and how you can use it
 
 ##Increasing take-up
 
-[Digital take-up](/service-manual/measurement/digital-takeup.html) is one of the four KPIs that services must benchmark, measure and monitor to meet the Digital by Default Service Standard. The group will:
+[Digital take-up](/service-manual/measurement/digital-takeup) is one of the four KPIs that services must benchmark, measure and monitor to meet the Digital by Default Service Standard. The group will:
 
 * hear from GDS specialists in digital take-up
 

@@ -34,9 +34,9 @@ breadcrumbs:
 
 #Who should take part
 
-The 4-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager.html) with the basic knowledge, network and confidence to take the lead in transforming digital services.
+The 4-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. After completing the induction programme, participants are also expected to join all 3 [open programme](open-programme.html) days.
+This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. After completing the induction programme, participants are also expected to join all 3 [open programme](/service-manual/the-team/learning-and-development/open-programme) days.
 
 All sessions will run at a central London location.
 
@@ -56,7 +56,7 @@ Together we’re leading the digital transformation of government, by making ser
 
 ###Putting users first
 
-User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs.html), and so does this induction programme. In this session the group will:
+User-centred processes start with [user needs](/service-manual/user-centred-design/user-needs), and so does this induction programme. In this session the group will:
 
 *  meet some users of government digital services
 *  explore different techniques for finding out what users need
@@ -73,7 +73,7 @@ Which principles of leadership can be brought to bear in the new era of agile di
 
 ###Thinking agile
 
-[Agile](/service-manual/agile/index.html) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
+[Agile](/service-manual/agile) marks a fundamental shift from traditional methods of delivery in government. This session will introduce agile thinking and show how it leads to better outcomes. You'll cover:
 
 * agile as a mindset, much wider than a set of tools and techniques
 * the principles to be found in the [Agile Manifesto](http://agilemanifesto.org/) and how they apply to software projects and beyond

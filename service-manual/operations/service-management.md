@@ -183,7 +183,7 @@ complete it, to reach the end. Especially for software development the project c
 too often be viewed as _done_ when the software is released. What happens after that
 is another problem entirely -- and often someone else's problem.
 
-However when building services the main goal is to meet [user needs](/user-centred-design/user-needs.html).
+However when building services the main goal is to meet [user needs](/service-manual/user-centred-design/user-needs).
 These needs may change over time, and are only met by software that is running in
 production and available to those users.
 

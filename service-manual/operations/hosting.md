@@ -106,5 +106,5 @@ It’s important to involve technical colleagues or trusted third parties in any
 
 ## Further information
 
-* [Why IaaS?](http://digital.cabinetoffice.gov.uk/2012/09/25/why-iaas/) -- a blog post about why the Government Digital Service chose an infrastructure as a service for GOV.UK
+* [Why IaaS?](https://gds.blog.gov.uk/2012/09/25/why-iaas/) -- a blog post about why the Government Digital Service chose an infrastructure as a service for GOV.UK
 * [G-Cloud](http://gcloud.civilservice.gov.uk/) -- the procurement framework intended for purchasing infrastructure as a service, platform as a service and software as a service products

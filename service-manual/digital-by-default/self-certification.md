@@ -25,6 +25,6 @@ You should contact your digital leader who will assign a lead assessor trained b
 
 ## Outcomes from an assessment
 
-The responsible digital leader will consider the recommendations from the lead assessor to certify the service with GDS. The assessment will be filed with GDS and a report will be created. You will have the chance to fact check the report before it is published on the [GDS Data Blog](https://gdsdata.blog.gov.uk/category/service-assessments/), usually within 5 working days.
+The responsible digital leader will consider the recommendations from the lead assessor to certify the service with GDS. The assessment will be filed with GDS and a report will be created. You will have the chance to fact check the report before it is published on the [GDS Data Blog](https://gdsdata.blog.gov.uk/all-service-assessments-and-self-certification/), usually within 5 working days.
 
 A certified service may launch publicly with beta branding [on GOV.UK](/service-manual/domain-names/setting-up.html) after the beta assessment. When the service passes a live assessment, beta branding may be removed from the service. Any warnings on the GOV.UK start page will be removed.

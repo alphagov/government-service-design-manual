@@ -23,13 +23,13 @@ breadcrumbs:
 
 GDS offers 3 highly practical learning and development programmes so you can strengthen the skills, knowledge and network you will need to succeed in your digital role.
 
-#[Service manager induction programme](service-manager-induction.html)
+#[Service manager induction programme](/service-manual/the-team/learning-and-development/service-manager-induction)
 
-Four days to equip [service managers](/service-manual/the-team/service-manager.html) with the basic knowledge, network and confidence to take the lead in transforming digital services.
+Four days to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
 This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies.
 
-#[Specialist digital foundation day](foundation-day.html)
+#[Specialist digital foundation day](/service-manual/the-team/learning-and-development/foundation-day)
 
 The foundation day (currently in alpha) is a one-day workshop covering the main points of digital in government for people directly involved in delivering services.
 
@@ -37,7 +37,7 @@ Participants may be in specialist digital roles, such as product manager, busine
 
 It is not recommended for newly appointed service managers, who should book to attend the service manager induction programme instead.
 
-#[Open programme](open-programme.html)
+#[Open programme](/service-manual/the-team/learning-and-development/open-programme)
 
 Three days of more specialised modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
 

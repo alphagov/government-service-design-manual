@@ -21,26 +21,26 @@ Use them to maintain a consistent design across our services.
 
 ### Forms
 
-See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements/index.html)
+See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements)
 for guidance on styling the basic form elements.
 
 <ul>
-  <li><a href="form-structure.html">Form structure</a></li>
-  <li><a href="progress-indicators.html">Progress indicators</a></li>
-  <li><a href="help-text.html">Help text</a></li>
-  <li><a href="names.html">Names</a></li>
-  <li><a href="dates.html">Dates</a></li>
-  <li><a href="addresses.html">Addresses</a></li>
-  <li><a href="national-insurance-number.html">National insurance numbers</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/form-structure">Form structure</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/progress-indicators">Progress indicators</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/help-text">Help text</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/names">Names</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/dates">Dates</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/addresses">Addresses</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/national-insurance-number">National insurance numbers</a></li>
 </ul>
 
 
 ### Transaction pages
 
 <ul>
-  <li><a href="start-pages.html">Start pages</a></li>
-  <li><a href="end-pages.html">End pages</a></li>
-  <li><a href="summary-pages.html">Summary pages</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/start-pages">Start pages</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/end-pages">End pages</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/summary-pages">Summary pages</a></li>
 </ul>
 
 ---
