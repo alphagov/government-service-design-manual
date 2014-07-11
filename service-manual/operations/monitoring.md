@@ -65,5 +65,5 @@ Make the following as widely available to everyone as possible, and also useful 
 
 ## Further reading
 
-* the [Radiating Information](http://digital.cabinetoffice.gov.uk/2012/02/08/radiating-information/) blog post gives examples of some of the monitoring dashboards used while building GOV.UK
+* the [Radiating Information](https://gds.blog.gov.uk/2012/02/08/radiating-information/) blog post gives examples of some of the monitoring dashboards used while building GOV.UK
 * [open source monitoring](https://speakerdeck.com/obfuscurity/the-state-of-open-source-monitoring) explains some of the terminology and available open-source tools
