@@ -22,7 +22,7 @@ Sometimes though you'll need to provide extra help.
 1. [Writing help text](#writing-help-text)
 2. [Inline help text](#inline-help-text)
 3. [Hidden help text](#hidden-help-text)
-4. [Detailed help](#detailed-help)
+4. [Detailed help](#detailed-contextual-help)
 
 ---
 
