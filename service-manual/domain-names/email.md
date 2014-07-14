@@ -24,7 +24,7 @@ breadcrumbs:
 ## Handling email
 
 Emails to users of your service should be sent from a human-monitored email address that originates from the
-domain servicename.service.gov.uk (and not the department, agency or any other domain name). Users are interacting
+domain servicename.service.gov.uk (and not the dept/agency or any other domain name). Users are interacting
 with the service and that is where they will expect communications to come from.
 
 ### Getting emails to users
