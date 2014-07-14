@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-Almost all content relating to the policies or publications of government departments should live on [GOV.UK](https://www.gov.uk/). Where exceptions to this rule are required, content and data should be provided in formats that appropriately reflect their purpose and intended audience.
+Almost all content relating to the policies or publications of government departments should live on [GOV.UK](https://www.gov.uk). Where exceptions to this rule are required, content and data should be provided in formats that appropriately reflect their purpose and intended audience.
 
 ## Choose the format to fit the content
 

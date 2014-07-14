@@ -18,7 +18,7 @@ breadcrumbs:
 ---
 
 
-The [Digital by Default standard](/service-manual/digital-by-default/)
+The [Digital by Default standard](/service-manual/digital-by-default)
 says that organisations should (emphasis on *operate* added):
 
 > Put in place a sustainable multidisciplinary team that can design, build
@@ -141,7 +141,7 @@ too which says that teams should:
 > Make sure that you have the capacity and technical flexibility to update and
 improve the service on a very frequent basis.
 
-[GOV.UK](https://www.gov.uk/) for instance made more than 100 production releases
+[GOV.UK](https://www.gov.uk) for instance made more than 100 production releases
 [during its first two weeks](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/) after launch.
 
 This high rate of change tends to challenge existing processes designed for a

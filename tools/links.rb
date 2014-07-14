@@ -101,6 +101,10 @@ html_files.each do |filename|
       end
     end
 
+    if uri.host == 'www.gov.uk' and uri.path.end_with?('/')
+      warn("Government URI <#{uri}> will probably redirect to version without trailing slash")
+    end
+
     if MAKE_NETWORK_REQUESTS
       http = Net::HTTP.new(uri.host, uri.port)
 
