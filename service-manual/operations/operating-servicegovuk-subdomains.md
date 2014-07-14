@@ -130,8 +130,9 @@ Many suppliers offer IP forwarding DDOS protection, which does not have the same
 
 ## Emails sent to service users
 
-[The service manual page on email](/service-manual/domain-names/email) explains how to
-send email to users.
+Emails to users of your service SHOULD be sent from a human-monitored email address that originates from the domain `servicename.service.gov.uk` (and not the dept/agency or any other domain name).
+
+You SHOULD enable [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message delivery and help recipients to more easily distinguish genuine mail from forgery.
 
 ## Lifecycle of service subdomains
 
