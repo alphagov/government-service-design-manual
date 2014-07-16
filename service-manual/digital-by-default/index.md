@@ -22,6 +22,9 @@ breadcrumbs:
 
   <p>Services will be <a href="/service-manual/digital-by-default/awarding-the-standard">assessed against the standard</a> and must continue to <a href="/service-manual/digital-by-default/maintaining-the-standard">meet the standard after launch</a>. Digital teams must show that they understand that their <a href="/service-manual/digital-by-default/scope-of-the-standard">service needs to meet the standard</a> and should understand <a href="/service-manual/digital-by-default/failure-to-meet-the-standard">what happens to failing services</a>.</p>
 
+   <p>Assessments are against the standard with success measured using this <a href="/service-manual/digital-by-default/meeting-the-standard">guide.</a> Each point of the standard will be considered at every assessment stage, and the evidence needed to meet the standard becomes more specific as teams move towards a Live fully Digital by Default service.</p>
+
+
   <p>Teams must meet the criteria below, and maintain this quality for the full life of their service.</p>
 </div>
 
