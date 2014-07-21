@@ -25,7 +25,7 @@ Government needs services that are genuinely agile and responsive to changing ne
 Liam Maxwell, Chief Technology Officer of the UK government, [wrote a post on the GDS blog about the landscape CTOs are operating in](https://gds.blog.gov.uk/2013/05/21/rebalancing-tech-across-gov/). It's essential reading for those transforming technology provision across government, describing the challenges and opportunities of this new approach.
 
 ##The technology code of practice
-The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for spending approval will be judged against. The 18 points describe a vision of technology provision which can meet and adapt to the changing needs of users throughout government.
+The [technology code of practice](/service-manual/technology/code-of-practice.html) describes the criteria that requests for spending approval will be judged against. It describes a vision of technology provision which can meet and adapt to the changing needs of users throughout government.
 
 ##Processes and controls
 The [spending controls](/service-manual/technology/spending-controls.html) process ensures that spending on technology and digital services meets the needs of users and provides good value for money.
