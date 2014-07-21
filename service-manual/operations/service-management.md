@@ -119,7 +119,7 @@ an effective service management capability.
 * Application management
 * Operations management
 
-## The important of implementation
+## The importance of implementation
 
 The above processes and functions make for an excellent high level list of topics
 to discuss when establishing an operating model for your service, whether
