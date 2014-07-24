@@ -19,10 +19,10 @@ breadcrumbs:
 
 GDS will [examine and challenge all technology-related spending over a certain threshold](https://www.gov.uk/government/publications/cabinet-office-controls) -- no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are:
 
-* £5 million -- full lifetime cost of the project
-* £1 million -- current or new back office / administrative systems, including Enterprise Resource Planning (ERP) systems, HR systems, Finance / Accounting systems, procurement systems. The control includes implementation, licensing and support costs, as well as any extension to those services
-* £100 thousand -- Common Infrastructure Solutions for the Public Sector Network (PSN)
-* £0 (no lower limit) -- spend on digital projects including identity assurance, digital services, and the commissioning of all government digital activity
+* £0k (no lower limit) for any digital projects utilising ID Assurance for the general public, domain name registration, and any external facing digital transaction, websites or mobile apps
+* £100k for digital expenditure
+* £1 million for expenditure on services also delivered by Independent Shared Service Centres such as current or new back office / administrative systems, including ERP systems, HR systems, Finance / Accounting systems, procurement systems
+* £5 million for technology expenditure
 
 ## The technology code of practice
 
@@ -46,3 +46,4 @@ For your project to proceed, you must demonstrate that you have met all applicab
 1. Align to the [shared services strategy](https://www.gov.uk/government/news/next-generation-shared-services-to-save-millions-for-taxpayers) for HR, procurement, finance and payroll.
 1. Plan on using an [agile process](/service-manual/agile), starting with the user need. [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model) should only be used by exception and where it can be shown to better meet user need. Projects may need the best of both formal and agile methods, playing to their respective strengths: producing successful IT services is about knowing when to use the right tool at the right time.
 1. Demonstrate that adequate capability is available in your organisation -- you shouldn't outsource strategic decision-making or service accountability. If the necessary capability does not exist in-house, then you need to evidence a plan for developing or recruiting people with the right skills and experience.
+1. Implement effective procedures for the use and management of information (both structured and unstructured) through its entire lifecycle. Adhere to The National Archives (TNA) [expert guidance on information management](http://www.nationalarchives.gov.uk/information-management/manage-information/).
