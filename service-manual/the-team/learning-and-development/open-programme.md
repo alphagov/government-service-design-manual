@@ -26,9 +26,9 @@ breadcrumbs:
 
 | Date | Modules |
 |------------|
-| 16 July | Data-driven services, Increasing take-up, and Assisted digital |
-| 17 July | Always be testing, Design principles in action, and Identity assured |
-| 23 July | Procure to improve, Being agile, and Technology talks |
+| 10 September, 17 November | Increasing take-up, Assisted digital and Digital inclusion |
+| 13 October, 24 November | Always be testing, Design principles in action, and Data-driven services |
+| 26 September, 28 November | Procure to improve, Being agile, and Identity assured |
 
 #Who should take part
 
@@ -44,18 +44,6 @@ The programme is funded centrally, but you or your department will need to pay f
 
 The open programme includes the following modules:
 
-
-##Data-driven services
-
-Using data to inform decision-making is vital to the development of your services. Your group will:
-
-* discuss your service's performance indicators as they currently stand
-
-* consider what data you currently use to inform your decision-making, and what data you would like to use
-
-* design your own performance data dashboard to understand your services in a simple, visual way
-
-* find out about the [Performance Platform](/service-manual/measurement/performance-platform) and how you can use it
 
 ##Increasing take-up
 
@@ -97,6 +85,18 @@ A set of simple but powerful [design principles](/design-principles) underpin al
 
 * consider how they will be applied to your own services
 
+##Data-driven services
+
+Using data to inform decision-making is vital to the development of your services. Your group will:
+
+* discuss your service's performance indicators as they currently stand
+
+* consider what data you currently use to inform your decision-making, and what data you would like to use
+
+* design your own performance data dashboard to understand your services in a simple, visual way
+
+* find out about the [Performance Platform](/service-manual/measurement/performance-platform) and how you can use it
+
 ##Identity assured
 
 We need to know that users of digital services are who they say they are. In this session, you will learn how the Identity Assurance Programme is:
@@ -128,10 +128,6 @@ GDS delivery managers will lead discussions and exercises around key features of
 * sprint planning and the use of walls to make shared priorities visible
 
 * retrospectives to continually inspect and improve the work teams do together
-
-##Technology talks
-
-GDS technical architects will give a series of short talks and Q&A sessions about important aspects of choosing and managing technology for digital services.
 
 
 #Request a place
