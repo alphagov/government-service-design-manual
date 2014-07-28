@@ -7,7 +7,6 @@ destination: ./_site
 plugins:     ./_plugins
 future:      true
 lsi:         false
-pygments:    false
 markdown:    kramdown
 permalink:   :category/:title/
 
