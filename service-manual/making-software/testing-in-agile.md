@@ -28,7 +28,7 @@ It's important to recognise you are testing in the first place to:
 
 * build the best quality system you can
 * make sure it does what the customer requires
-* compete it a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
+* complete it at a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
 
 Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about these 7 concepts:
 
