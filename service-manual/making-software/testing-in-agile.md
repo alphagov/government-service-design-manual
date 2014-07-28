@@ -32,34 +32,37 @@ It's important to recognise you are testing in the first place to:
 
 Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about these 7 concepts:
 
-* building quality in
-* everyone is responsible for quality
-* fast feedback
-* tests are an asset of the product
-* faster delivery into production
-* clear and constant view of testing
-* optimise value
-
+* [building quality in](#building-quality-in)
+* [everyone is responsible for quality](#ownership-of-quality)
+* [fast feedback](#fast-feedback)
+* [tests are an asset of the product](#tests-are-an-asset)
+* [faster delivery into production](#faster-delivery)
+* [clear and constant view of testing](#clear-view)
+* [optimise value](#optimise-value)
 
 ## Building quality in
+{: id="building-quality-in"}
 
 Use the vast majority of your efforts building quality in at the start, and test the quality throughout the project -- not at the end when it’s too late.
 
 Define acceptance criteria standards for your user stories. You can either do this when you first write your user stories or later on in the form of acceptance tests when you start development work. Testing should confirm what you already know and understand to be true, so there should be no surprises in the latter stages.
 
 ## Everyone is responsible for quality
+{: id="ownership-of-quality"}
 
 Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it.
 
 Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
 
 ## Fast feedback
+{: id="fast-feedback"}
 
 A successful agile project relies on fast feedback loops. Getting feedback and getting it fast means you can actually be agile and change when you need to change.
 
 Your testing should be about giving and getting that fast feedback -- at a time when it’s useful. [Automated code testing techniques](/service-manual/making-software/code-testing) have their place and you can use them, but don’t make them the centre of your approach to testing.
 
 ## Tests are an asset of the product
+{: id="tests-are-an-asset"}
 
 When you build a test, build it to a standard that makes it suitable to use for testing multiple times throughout your project.
 
@@ -68,6 +71,7 @@ It takes a lot of effort to do testing correctly, so don’t make it a throwaway
 Write your automated tests with the same care and accuracy as production code.
 
 ## Faster delivery into production
+{: id="faster-delivery"}
 
 Testing is necessary and valuable to the programme, but the time it takes for your code to go live once written is time wasted.
 
@@ -76,6 +80,7 @@ Use testing to get the fastest possible confirmation that everything is as you e
 It doesn’t always need to be exhaustive at every level, but it does need to be relevant to the current situation. Your team needs to agree on the necessary testing at each level, based on the preferences of the product owner and the likelihood of risk in the application itself.
 
 ## Clear and consistent view of testing
+{: id="clear-view"}
 
 Everybody in your programme needs to understand and agree on:
 
@@ -84,6 +89,7 @@ Everybody in your programme needs to understand and agree on:
 * what they’re required to do
 
 ## Optimise value
+{: id="optimise-value"}
 
 When done well, testing will inform you of the best way forward. It’ll also give you the best value in terms of effort used in various functional or nonfunctional areas and will:
 
