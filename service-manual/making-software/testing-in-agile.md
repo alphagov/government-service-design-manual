@@ -37,7 +37,7 @@ Too often the aim of testing is to validate what has been produced and nothing e
 * [fast feedback](#fast-feedback)
 * [tests are an asset of the product](#tests-are-an-asset)
 * [faster delivery into production](#faster-delivery)
-* [clear and constant view of testing](#clear-view)
+* [clear and consistent view of testing](#clear-view)
 * [optimise value](#optimise-value)
 
 ## Building quality in
