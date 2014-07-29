@@ -17,6 +17,7 @@ exclude:
   - Gemfile.lock
   - Makefile
   - README.md
+  - /service-manual/assets/toolkit/*.md
   - /tools
   - /tmp
   - /vendor
