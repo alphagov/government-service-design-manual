@@ -35,6 +35,21 @@ This will compile the site and make it available at
 `http://localhost:4000/service-manual`.
 Changes will be reloaded without a restart.
 
+## Running on Heroku
+
+This application should run fine on Heroku. You will need to have [set yourself up with a Heroku account and the command-line tools](https://devcenter.heroku.com/articles/quickstart). Then create an application on Heroku.
+
+```
+> heroku create
+```
+
+Make your change locally, commit and deploy them to Heroku as needed.
+
+```
+> git push heroku master
+```
+
+Then open https://your-application.herokuapp.com/service-manual/ to see your changes.
 
 ## YAML page meta data schema
 
