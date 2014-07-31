@@ -40,16 +40,20 @@ Changes will be reloaded without a restart.
 This application should run fine on Heroku. You will need to have [set yourself up with a Heroku account and the command-line tools](https://devcenter.heroku.com/articles/quickstart). Then create an application on Heroku.
 
 ```
-> heroku create
+> heroku create <app-name>
 ```
 
 Make your change locally, commit and deploy them to Heroku as needed.
+If the code you're deploying is not in master, then you'll need to
+make sure you specify your local branch to push to master. Otherwise
+it will just deploy your local master (and probably not work as
+expected).
 
 ```
 > git push heroku master
 ```
 
-Then open https://your-application.herokuapp.com/service-manual/ to see your changes.
+Then open https://app-name.herokuapp.com/service-manual/ to see your changes.
 
 ## YAML page meta data schema
 
