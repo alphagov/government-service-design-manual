@@ -1,6 +1,10 @@
 require 'sinatra/base'
 
 class ServiceManual < Sinatra::Base
+  before do
+    cache_control :public, :must_revalidate, :max_age => 3600
+  end
+
   get '/' do
     redirect '/service-manual'
   end
