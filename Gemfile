@@ -3,6 +3,10 @@ source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
 
 gem 'sinatra', '1.4.5'
 gem 'unicorn', '4.8.3'
+gem 'rake', '10.3.2'
+
+gem 'plek', '1.5.0'
+gem 'gds-api-adapters', '7.18.0'
 
 gem 'colorize', '0.7.3'
 

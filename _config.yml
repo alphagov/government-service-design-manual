@@ -19,6 +19,7 @@ exclude:
   - Gemfile.lock
   - Makefile
   - Procfile
+  - Rakefile
   - README.md
   - /service-manual/assets/toolkit/*.md
   - /tools
