@@ -55,6 +55,10 @@ expected).
 
 Then open https://app-name.herokuapp.com/service-manual/ to see your changes.
 
+### Click-through version
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## YAML page meta data schema
 
 Pages in a Jekyll site begin with a section of YAML meta data, which specifies how the page should be rendered, where it should be linked from and so on.
