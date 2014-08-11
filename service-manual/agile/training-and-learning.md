@@ -122,7 +122,7 @@ Take a project that you’re working on and start to apply agile techniques to i
 
 #### Questioning and retrospecting
 
-You’ll learn a lot through asking questions and there is an agile tool that helps you to do this - the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning - everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
+You’ll learn a lot through asking questions and there is an agile tool that helps you to do this -- the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning -- everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
 
 
@@ -213,7 +213,7 @@ There are hundreds of blogs about agile and lean techniques with lots to learn. 
 
 #### Questioning and retrospecting
 
-You’ll learn a lot through asking questions and there is an agile tool that helps you to do this - the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning - everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
+You’ll learn a lot through asking questions and there is an agile tool that helps you to do this -- the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning -- everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
 
 ### Interested others
