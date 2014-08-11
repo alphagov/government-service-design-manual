@@ -1,6 +1,10 @@
+# encoding: utf-8
 require 'sinatra/base'
 require 'gds_api/rummager'
 require 'liquid'
+
+LANG="en_US.UTF-8"
+LC_ALL="en_US.UTF-8"
 
 class ServiceManual < Sinatra::Base
   Tilt.register Tilt::LiquidTemplate, :html
