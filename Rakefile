@@ -78,3 +78,18 @@ namespace :router do
   desc "Register the service manual backend and routes with the GOV.UK router"
   task :register => [ :register_backend, :register_routes ]
 end
+
+namespace :rummager do
+  task :index do
+    require 'rummageable'
+
+    search_index = File.expand_path('../.search-index.json', __FILE__)
+    puts "Registering search index: #{search_index}"
+
+    content = File.read(search_index)
+    parsed = JSON.parse(content)
+    puts "Handling #{parsed.count} records from #{search_index}"
+
+    Rummageable.index(parsed, '/service-manual')
+  end
+end
