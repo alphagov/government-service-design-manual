@@ -75,7 +75,7 @@ This can come through:
 
 * shadowing / learning from others
 * formal training
-* self initiated learning (networking, reading blogs)
+* self-initiated learning (networking, reading blogs)
 * sharing ideas and support (community, blogging, public speaking)
 * small experiments and running short projects
 * questioning and retrospecting (short feedback loops and [retrospectives](/service-manual/agile/running-retrospectives))
@@ -92,7 +92,7 @@ Try to invite external speakers in to share their own experiences with you and y
 
 Training courses are useful to help understand theory, but it’s important to remember that there is no one answer to how to run every project and that training does not equal learning.
 
-It’s worthwhile to learn a number of tools and techniques and strengthen your understanding with self initiated learning and doing.
+It’s worthwhile to learn a number of tools and techniques and strengthen your understanding with self-initiated learning and doing.
 
 Some options to think about when training are:
 
@@ -102,7 +102,7 @@ Some options to think about when training are:
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 
-#### Self initiated learning (networking, reading blogs)
+#### Self-initiated learning (networking, reading blogs)
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile)
 
@@ -124,14 +124,11 @@ Take a project that you’re working on and start to apply agile techniques to i
 
 You’ll learn a lot through asking questions and there is an agile tool that helps you to do this -- the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning -- everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
-
-
-
 ### Delivery team members
 
 * pairing / learning from others
 * formal training
-* self initiated learning (reading books and blogs)
+* self-initiated learning (reading books and blogs)
 * sharing ideas and support (community, blogging, public speaking)
 
 #### Pairing / Learning from others
@@ -144,7 +141,7 @@ One of you is writing the code or doing the task, and the other is observing and
 
 Training courses are useful to help understand theory, but it’s important to remember that there is no one answer to how to run every project and that training does not equal learning.
 
-It’s worthwhile to learn a number of tools and techniques and strengthen your understanding with self initiated learning and doing.
+It’s worthwhile to learn a number of tools and techniques and strengthen your understanding with self-initiated learning and doing.
 
 Some options to think about when training are:
 
@@ -153,7 +150,7 @@ Some options to think about when training are:
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 
-#### Self initiated learning (networking, reading blogs)
+#### Self-initiated learning (networking, reading blogs)
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
@@ -168,24 +165,24 @@ Once you’re confident, teaching others is a good way to learn. Try engaging in
 
 ### People who govern and stakeholders
 
-Think about how you can enable teams to perform to the best of their abilities. This can come through
+Think about how you can enable teams to perform to the best of their abilities. This can come through:
 
 * understanding and applying the GDS governance principles
-* Formal training
-* Learning from others
-* self initiated learning (reading books and blogs)
+* formal training
+* learning from others
+* self-initiated learning (reading books and blogs)
 * questioning and retrospecting
 
 #### Understanding the GDS governance principles
 
 GDS have provided some [principles for governance on an agile project](https://digitaltransformation.blog.gov.uk/2014/06/24/governance-principles/):
 
-- Don’t slow down delivery
-- Decisions when they’re needed, at the right level
-- Do it with the right people
-- Go see for yourself
-- Only do it if it adds value
-- Trust and verify
+- don’t slow down delivery
+- decisions when they’re needed, at the right level
+- do it with the right people
+- go see for yourself
+- only do it if it adds value
+- trust and verify
 
 It’s important that you understand the detail behind these principles so they can help create the right culture and support for agile projects (and learning) to flourish.
 
@@ -203,7 +200,7 @@ See how other people are doing agile within your organisation. Part of the [deli
 
 There’s also a [job description for an agile coach](/service-manual/the-team/recruitment/job-descriptions#non-scs-specialist-roles) in the service design manual if you need to bring someone in.
 
-#### Self initiated learning (networking, reading blogs)
+#### Self-initiated learning (networking, reading blogs)
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile).
 
@@ -221,14 +218,14 @@ You’ll learn a lot through asking questions and there is an agile tool that he
 If you are interested in finding out more about agile, but you are not going to be involved in a project, there are a number of things you can do:
 
 * go and see / learning from others
-* self initiated learning (networking, reading blogs)
+* self-initiated learning (networking, reading blogs)
 * formal training
 
 #### Go and see / learning from others
 
 See how other people are doing agile within your organisation. Part of the [delivery manager](/service-manual/the-team/delivery-manager) / scrum master role is that of a coach and they can help you understand the benefits of working in an agile way.
 
-#### Self initiated learning (networking, reading blogs)
+#### Self-initiated learning (networking, reading blogs)
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
