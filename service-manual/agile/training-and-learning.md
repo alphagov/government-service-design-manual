@@ -31,7 +31,7 @@ When taking part in any training, it’s important to remember that there are ma
 
 These are the four categories of people that might want to learn more about agile, the content in the more detailed sections below is repeated where it is relevant to multiple categories of people:
 
-[1: Agile delivery practitioner (and those wanting to be):](#agile-delivery-practitioner)
+[Agile delivery practitioner (and those wanting to be):](#agile-delivery-practitioner)
 
 These people need to use agile every day and help teach others. Typical roles are:
 
@@ -40,7 +40,7 @@ These people need to use agile every day and help teach others. Typical roles ar
 * product managers
 * service managers
 
-[2: Delivery team members: if you are becoming part of a delivery team](#delivery-team-members)
+[Delivery team members: if you are becoming part of a delivery team](#delivery-team-members)
 
 This covers people any other people who’ll be part of an agile team, eg:
 
@@ -49,7 +49,7 @@ This covers people any other people who’ll be part of an agile team, eg:
 * designer
 * tester etc
 
-[3: People who govern and stakeholders: if you are going to be a member of a governance team or a stakeholder for an agile project ](#people-who-govern-and-stakeholders)
+[People who govern and stakeholders: if you are going to be a member of a governance team or a stakeholder for an agile project ](#people-who-govern-and-stakeholders)
 
 These people are senior responsible officers (SROs), project leads, directors and those responsible for supporting an agile project. Typical roles are:
 
@@ -60,7 +60,7 @@ These people are senior responsible officers (SROs), project leads, directors an
 * policy teams
 * legal teams
 
-[4: Interested others: if you are just interested in finding out more](#interested-others)
+[Interested others: if you are just interested in finding out more](#interested-others)
 
 This covers anyone that has an interest in understanding what it means to work in an agile way.
 
@@ -80,7 +80,7 @@ This can come through:
 * small experiments and running short projects
 * questioning and retrospecting (short feedback loops and [retrospectives](/service-manual/agile/running-retrospectives))
 
-#### Shadowing / learning from others
+**Shadowing / learning from others**
 
 You can learn a lot from seeing others who are practicing agile techniques.
 
@@ -88,7 +88,7 @@ Because teams are open and transparent, they should be happy to invite you into 
 
 Try to invite external speakers in to share their own experiences with you and your department and take the chance to discuss your ideas with them.
 
-#### Formal training
+**Formal training**
 
 Training courses are useful to help understand theory, but it’s important to remember that there is no one answer to how to run every project and that training does not equal learning.
 
@@ -102,7 +102,7 @@ Some options to think about when training are:
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 
-#### Self initiated learning (networking, reading blogs)
+**Self initiated learning (networking, reading blogs)**
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile)
 
@@ -110,17 +110,17 @@ Networking is a useful way of learning. You can also find local meetups and even
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand) as well as other web collections of links.
 
-#### Sharing ideas and support (community, blogging, public speaking)
+**Sharing ideas and support (community, blogging, public speaking)**
 
 Once you’re confident, teaching others is a good way to learn. Try engaging in communities like those on LinkedIn, blogging on your own and others’ blogs about agile or speaking about your experiences internally, at meetups or events.
 
-#### Small experiments and running short projects
+**Small experiments and running short projects**
 
 The best learning can come from doing. Agile techniques can be applied to many types of projects and are not restricted to software. This means that you can quickly start to learn as a team through running small projects.
 
 Take a project that you’re working on and start to apply agile techniques to it, then improve on them as you go. You can learn a lot from being unsuccessful: the phrase “fail fast” is often used in an agile context, but what you can benefit from is learning quickly.
 
-#### Questioning and retrospecting
+**Questioning and retrospecting**
 
 You’ll learn a lot through asking questions and there is an agile tool that helps you to do this - the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning - everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
@@ -134,13 +134,13 @@ You’ll learn a lot through asking questions and there is an agile tool that he
 * self initiated learning (reading books and blogs)
 * sharing ideas and support (community, blogging, public speaking)
 
-#### Pairing / Learning from others
+**Pairing / Learning from others**
 
 Pairing comes from the term pair programming in Extreme programming, but is just as relevant to different types of work. During this practice two people will sit together to work on the same thing at the same time.
 
 One of you is writing the code or doing the task, and the other is observing and giving input. The benefits of working in this way lead to better quality of code, better communication amongst the team and learning how something is built and why decisions were made. Pairing will rapidly increase learning as an individual and as a team.
 
-#### Formal training
+**Formal training**
 
 Training courses are useful to help understand theory, but it’s important to remember that there is no one answer to how to run every project and that training does not equal learning.
 
@@ -153,7 +153,7 @@ Some options to think about when training are:
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 
-#### Self initiated learning (networking, reading blogs)
+**Self initiated learning (networking, reading blogs)**
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
@@ -161,12 +161,12 @@ Networking is a useful way of learning. You can also find local meetups and even
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand)
 
-#### Sharing ideas and support (community, blogging, public speaking)
+**Sharing ideas and support (community, blogging, public speaking)**
 
 Once you’re confident, teaching others is a good way to learn. Try engaging in communities like those on Linkedin, blogging on your own and others’ blogs about agile or speaking about your experiences internally, at meetups or events.
 
 
-### People who govern and stakeholders
+**People who govern and stakeholders**
 
 Think about how you can enable teams to perform to the best of their abilities. This can come through
 
@@ -176,7 +176,7 @@ Think about how you can enable teams to perform to the best of their abilities. 
 * self initiated learning (reading books and blogs)
 * questioning and retrospecting
 
-#### Understanding the GDS governance principles
+**Understanding the GDS governance principles**
 
 GDS have provided some [principles for governance on an agile project](https://digitaltransformation.blog.gov.uk/2014/06/24/governance-principles/):
 
@@ -189,13 +189,13 @@ GDS have provided some [principles for governance on an agile project](https://d
 
 It’s important that you understand the detail behind these principles so they can help create the right culture and support for agile projects (and learning) to flourish.
 
-#### Formal training
+**Formal training**
 
 As someone who needs to support delivery and have a broader understanding of agile, you should look for courses that give you an introduction to agile and its benefits, understanding user research, agile estimation and planning.
 
 You can use the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant.
 
-#### Learning from others
+**Learning from others**
 
 Try to invite external speakers in to share their own experiences and talk to them about how they compare to yours.
 
@@ -203,7 +203,7 @@ See how other people are doing agile within your organisation. Part of the [deli
 
 There’s also a [job description for an agile coach](/service-manual/the-team/recruitment/job-descriptions#non-scs-specialist-roles) in the service design manual if you need to bring someone in.
 
-#### Self initiated learning (networking, reading blogs)
+**Self initiated learning (networking, reading blogs)**
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile).
 
@@ -211,7 +211,7 @@ Networking is a useful way of learning. You can also find local meetups and even
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand).
 
-#### Questioning and retrospecting
+**Questioning and retrospecting**
 
 You’ll learn a lot through asking questions and there is an agile tool that helps you to do this - the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning - everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
@@ -224,11 +224,11 @@ If you are interested in finding out more about agile, but you are not going to 
 * self initiated learning (networking, reading blogs)
 * formal training
 
-#### Go and see / learning from others
+**Go and see / learning from others**
 
 See how other people are doing agile within your organisation. Part of the [delivery manager](/service-manual/the-team/delivery-manager) / scrum master role is that of a coach and they can help you understand the benefits of working in an agile way.
 
-#### Self initiated learning (networking, reading blogs)
+**Self initiated learning (networking, reading blogs)**
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
@@ -236,7 +236,7 @@ Networking is a useful way of learning. You can also find local meetups and even
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand).
 
-#### Formal training
+**Formal training**
 
 If you’re interested in finding out more, you could try a course that gives you an introduction to agile and its benefits. Try to make sure that it’s a broad course that covers more than one methodology or framework.
 
