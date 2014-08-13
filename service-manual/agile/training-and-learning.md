@@ -21,8 +21,11 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
+When we refer to agile, we are referring to a culture of:
 
-When we refer to agile, we are referring to a culture of: iterative development; responding to change; collaboration and completing, releasing and iterating work as set out in  the agile manifesto, which can be found at [agilemanifesto.org](http://agilemanifesto.org).
+* iterative development
+* responding to change
+* collaboration and completing, releasing and iterating work as set out in the [agile manifesto](http://agilemanifesto.org)
 
 When taking part in any training, it’s important to remember that there are many different approaches to applying this manifesto and its principles. These are only interpretations and there is no one way of doing it. At GDS, we are framework- and methodology-agnostic. We take the tools that we need to from a range of techniques and use the most appropriate for the project and team to help support them to deliver. This means that not all teams will be working in exactly the same way.
 
