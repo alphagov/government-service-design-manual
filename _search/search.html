@@ -1,0 +1,43 @@
+<div id="wrapper">
+
+  <main id="content" role="main" class="group search">
+
+    {% if query %}
+
+      <h1>Search results for &lsquo;{{ query }}&rsquo;</h1>
+
+      {% if count == 0 %}
+
+        <p>No results found</p>
+
+      {% else %}
+
+        <ol>
+
+          {% for result in results %}
+
+            <li>
+
+              <a href="{{ result['link'] }}">
+                <h3>{{ result['title'] }}</h3>
+              </a>
+
+              <p>{{ result['description'] }}</p>
+
+            </li>
+
+          {% endfor %}
+
+        </ol>
+
+      {% endif %}
+
+    {% else %}
+
+      <h1>Search the Government Service Design Manual</h1>
+
+    {% endif %}
+
+  </main>
+
+</div>

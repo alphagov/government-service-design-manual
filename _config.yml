@@ -11,11 +11,15 @@ markdown:    kramdown
 permalink:   :category/:title/
 
 exclude:
+  - app.rb
   - compile.sh
+  - config.ru
   - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
   - Makefile
+  - Procfile
+  - Rakefile
   - README.md
   - /service-manual/assets/toolkit/*.md
   - /tools
