@@ -106,7 +106,7 @@ Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.
 
 ### Self-initiated learning (networking, reading blogs)
 
-You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile)
+You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile).
 
 Networking is a useful way of learning. You can also find local meetups and events close to you at [www.meetup.com](http://www.meetup.com) or you could start your own.
 
