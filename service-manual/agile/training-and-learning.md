@@ -21,13 +21,12 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-## What is agile?
 
 When we refer to agile, we are referring to a culture of: iterative development; responding to change; collaboration and completing, releasing and iterating work as set out in  the agile manifesto, which can be found at [agilemanifesto.org](http://agilemanifesto.org).
 
 When taking part in any training, it’s important to remember that there are many different approaches to applying this manifesto and its principles. These are only interpretations and there is no one way of doing it. At GDS, we are framework- and methodology-agnostic. We take the tools that we need to from a range of techniques and use the most appropriate for the project and team to help support them to deliver. This means that not all teams will be working in exactly the same way.
 
-## Who needs to learn about agile?
+# Intended audience
 
 These are the four categories of people that might want to learn more about agile, the content in the more detailed sections below is repeated where it is relevant to multiple categories of people:
 
@@ -64,7 +63,7 @@ These people are senior responsible officers (SROs), project leads, directors an
 
 This covers anyone that has an interest in understanding what it means to work in an agile way.
 
-## What are the options?
+# Options for learning
 
 Formal training is only one part of learning, as with most new skills. With agile delivery management in particular, training will only give you the foundations of some of the techniques, but the real learning comes from doing. It’s important that the organisational culture is set up to support learning and experimenting.
 
