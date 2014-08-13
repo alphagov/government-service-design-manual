@@ -31,7 +31,7 @@ When taking part in any training, it’s important to remember that there are ma
 
 These are the four categories of people that might want to learn more about agile, the content in the more detailed sections below is repeated where it is relevant to multiple categories of people:
 
-[1: Agile delivery practitioner (and those wanting to be):](#agile-delivery-practitioner)
+[Agile delivery practitioner (and those wanting to be)](#agile-delivery-practitioner)
 
 These people need to use agile every day and help teach others. Typical roles are:
 
@@ -40,7 +40,7 @@ These people need to use agile every day and help teach others. Typical roles ar
 * product managers
 * service managers
 
-[2: Delivery team members: if you are becoming part of a delivery team](#delivery-team-members)
+[Delivery team members: if you are becoming part of a delivery team](#delivery-team-members)
 
 This covers people any other people who’ll be part of an agile team, eg:
 
@@ -49,7 +49,7 @@ This covers people any other people who’ll be part of an agile team, eg:
 * designer
 * tester etc
 
-[3: People who govern and stakeholders: if you are going to be a member of a governance team or a stakeholder for an agile project ](#people-who-govern-and-stakeholders)
+[People who govern and stakeholders: if you are going to be a member of a governance team or a stakeholder for an agile project](#people-who-govern-and-stakeholders)
 
 These people are senior responsible officers (SROs), project leads, directors and those responsible for supporting an agile project. Typical roles are:
 
@@ -60,7 +60,7 @@ These people are senior responsible officers (SROs), project leads, directors an
 * policy teams
 * legal teams
 
-[4: Interested others: if you are just interested in finding out more](#interested-others)
+[Interested others: if you are just interested in finding out more](#interested-others)
 
 This covers anyone that has an interest in understanding what it means to work in an agile way.
 
