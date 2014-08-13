@@ -1,5 +1,11 @@
-compile:
-	./compile.sh
+.PHONY: clean aspell test lint help
+
+help:
+	@echo "Please use 'make <target>' where <target> is one of"
+	@echo "  clean     to remove the build artefacts"
+	@echo "  lint      to lint the markdown"
+	@echo "  test      to test the lint tools"
+	@echo "  aspell    to interactively spellcheck all of the content"
 
 clean:
 	rm -rf _site/*
@@ -16,9 +22,3 @@ test:
 
 lint:
 	go run tools/lint/lint.go service-manual
-
-help:
-	@echo "Please use 'make <target>' where <target> is one of"
-	@echo "  clean     to remove the build artefacts"
-	@echo "  compile   to generate the site artefacts - you probably want this one"
-	@echo "  aspell    to interactively spellcheck all of the content"
