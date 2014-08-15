@@ -150,3 +150,34 @@ GDS is working to develop a long-term proposal for ongoing research on users who
 * what you should be finding out through this research
 * how to conduct this research (based on the recommendations of our long-term research proposal)
 * how you can use it, to improve your assisted digital and digital services
+
+##Designing assisted digital support to meet user needs
+
+Personas can help you design appropriate assisted digital by focusing on the needs of users. We have developed a set of 8 personas that reflect the citizens who need help to use government’s digital by default services. 
+
+One persona (Teresa) represents the needs of assisted digital support providers and the challenges they also face in the light of digital by default. Collectively they all highlight the range of both complex and hidden assisted digital needs. 
+
+The personas were developed based on assisted digital desk and field research and represent real-life stories. The majority of people in scope of the research were vulnerable people who need urgent help with vital government services, as they lack either the means, ability or confidence to do so independently.
+
+* [Link to Cathy](/service-manual/assets/documents/Cathy.odt)
+* [Link to David](/service-manual/assets/documents/David.odt)
+* [Link to Greg](/service-manual/assets/documents/Greg.odt)
+* [Link to Gwen](/service-manual/assets/documents/Gwen.odt)
+* [Link to Mohammed](/service-manual/assets/documents/Mohammed.odt)
+* [Link to Sam](/service-manual/assets/documents/Sam.odt)
+* [Link to Sarah](/service-manual/assets/documents/Sarah.odt)
+* [Link to Teresa](/service-manual/assets/documents/Teresa.odt)
+
+You can use personas that you develop to represent the needs of your service’s users. The personas can help you focus on the journey of assisted digital users through their service to identify where support in completing digital by default transactions is needed.
+
+##Understand the complexity of your service
+
+It’s important to understand:
+
+* what documentation the user needs to complete the service
+* if the user needs to have an email address to use it
+* the difficulty level of the questions the user needs to answer to complete the service
+* the level of digital skill (and other requisite skills - eg literacy or being able to understand technical language/policy) needed to complete your digital transaction
+
+The 25 exemplar services have been mapped against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are) to help show where these services may be difficult for some people to use. You should build on our initial analysis with your own more specific and detailed knowledge, expertise and research on your service.
+
