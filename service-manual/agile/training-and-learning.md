@@ -70,7 +70,7 @@ This covers anyone that has an interest in understanding what it means to work i
 
 Formal training is only one part of learning, as with most new skills. With agile delivery management in particular, training will only give you the foundations of some of the techniques, but the real learning comes from doing. It’s important that the organisational culture is set up to support learning and experimenting.
 
-## Agile delivery practitioner
+**Agile delivery practitioner**
 
 Think about ways to start getting hands on experience as quickly as possible.
 This can come through:
@@ -126,7 +126,7 @@ Take a project that you’re working on and start to apply agile techniques to i
 
 You’ll learn a lot through asking questions and there is an agile tool that helps you to do this -- the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning -- everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
-## Delivery team members
+**Delivery team members**
 
 * pairing / learning from others
 * formal training
@@ -165,7 +165,7 @@ There are hundreds of blogs about agile and lean techniques with lots to learn. 
 Once you’re confident, teaching others is a good way to learn. Try engaging in communities like those on Linkedin, blogging on your own and others’ blogs about agile or speaking about your experiences internally, at meetups or events.
 
 
-## People who govern and stakeholders
+**People who govern and stakeholders**
 
 Think about how you can enable teams to perform to the best of their abilities. This can come through:
 
@@ -215,7 +215,7 @@ There are hundreds of blogs about agile and lean techniques with lots to learn. 
 You’ll learn a lot through asking questions and there is an agile tool that helps you to do this -- the [retrospective](/service-manual/agile/running-retrospectives). This is an important part of any agile team and a good way of learning -- everyone has an input. Regular retrospectives are great way to understand what works and what doesn’t, so you can think about how your learning can be directed.
 
 
-## Interested others
+**Interested others**
 
 If you are interested in finding out more about agile, but you are not going to be involved in a project, there are a number of things you can do:
 
