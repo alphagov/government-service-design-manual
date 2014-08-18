@@ -48,7 +48,7 @@ This will depend on the scale of the service you are working on.  In some cases 
 
 Click either of the options below to download a template service manager job description.
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx)
+[Download as OpenDocument Format](/service-manual/the-team/recruitment/Service-Manager-pack-SM.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Service-Manager-pack-SM.docx)
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 

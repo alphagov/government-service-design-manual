@@ -68,7 +68,7 @@ Read [guidance in the manual of particular interest to web ops](/service-manual/
 
 Click either of the options below to download a template Web Ops job description. 
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/WebOps-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/WebOps-generic.docx) 
+[Download as OpenDocument Format](/service-manual/the-team/recruitment/WebOps-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/WebOps-generic.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub).
 
