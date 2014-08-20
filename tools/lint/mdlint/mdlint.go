@@ -93,7 +93,7 @@ func checkHanging(list *list.List, character string, out chan<- error, path stri
 	}
 }
 
-func highlightError(f io.Reader, pos int64) (line, col int, highlight string) {
+func highlightError(f io.Reader, pos int64) (line int, col int, highlight string) {
 	line = 1
 	br := bufio.NewReader(f)
 	lastLine := ""
