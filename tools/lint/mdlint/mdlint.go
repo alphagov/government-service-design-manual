@@ -20,14 +20,32 @@ type syntaxError struct {
 	position int64
 }
 
+type lintResult struct {
+	brackets *list.List
+	parens   *list.List
+	enDashes map[int]int
+}
+
 // Lint reads the provided reader (with an optional associated path)
 // and checks the markdown for basic errors. Any errors found are
 // sent to the provided out channel
 func Lint(reader *bufio.Reader, path string, out chan<- error) {
-	brackets, parens := list.New(), list.New()
+
+	lintResult := lint(reader, path, out)
+
+	// Check the results and accumulate any problems
+	checkHanging(lintResult.brackets, "bracket", out, path)
+	checkHanging(lintResult.parens, "parenthesis", out, path)
+
+	for line := range lintResult.enDashes {
+		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
+	}
+}
+
+func lint(reader *bufio.Reader, path string, out chan<- error) lintResult {
+	res := lintResult{list.New(), list.New(), make(map[int]int)}
 	line := 1
 	column := 1
-	enDashes := make(map[int]int)
 	pos := int64(0)
 
 	// Parse the file
@@ -44,29 +62,29 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 
 		switch r {
 		case '[':
-			brackets.PushFront(syntaxError{line, column, pos})
+			res.brackets.PushFront(syntaxError{line, column, pos})
 		case ']':
-			top := brackets.Front()
+			top := res.brackets.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing bracket at line %d, column %d`, path, line, column)
 				out <- usefulError(path, pos, basicError)
 			} else {
-				brackets.Remove(top)
+				res.brackets.Remove(top)
 			}
 		case '(':
-			parens.PushFront(syntaxError{line, column, pos})
+			res.parens.PushFront(syntaxError{line, column, pos})
 		case ')':
-			top := parens.Front()
+			top := res.parens.Front()
 			if top == nil {
 				basicError := fmt.Errorf(`Bad Markdown URL in %s:
 	extra closing parenthesis at line %d, column %d`, path, line, column)
 				out <- usefulError(path, pos, basicError)
 			} else {
-				parens.Remove(top)
+				res.parens.Remove(top)
 			}
 		case '–':
-			enDashes[line]++
+			res.enDashes[line]++
 		case '\n':
 			line++
 			column = 0
@@ -74,14 +92,7 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 
 		column++
 	}
-
-	// Check the results and accumulate any problems
-	checkHanging(brackets, "bracket", out, path)
-	checkHanging(parens, "parenthesis", out, path)
-
-	for line := range enDashes {
-		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
-	}
+	return res
 }
 
 func checkHanging(list *list.List, character string, out chan<- error, path string) {
