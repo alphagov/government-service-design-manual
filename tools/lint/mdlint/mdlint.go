@@ -152,6 +152,6 @@ func usefulError(path string, pos int64, basicError error) error {
 	extra := fmt.Sprintf(":\nError at line %d, column %d (file offset %d):\n%s",
 		line, col, pos, highlight)
 
-	return fmt.Errorf("Error parsing Markdown in %s%s\n",
+	return fmt.Errorf("Error parsing Markdown in %s%s",
 		f.Name(), extra)
 }
