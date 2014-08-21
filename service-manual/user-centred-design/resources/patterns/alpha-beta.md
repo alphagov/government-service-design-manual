@@ -37,11 +37,3 @@ If your GOV.UK content is in beta or alpha, show the relevant banner below the p
 ##Get the banner code
 
 All the code and assets you need to implement the alpha and beta banners are available via the [GOV.UK frontend toolkit on GitHub](https://github.com/alphagov/govuk_frontend_toolkit/tree/e295f45f59495f8e37e37a105da6d9d8b2695a54#-phase-banner).
-
-
- 
-
-
-
-
-
