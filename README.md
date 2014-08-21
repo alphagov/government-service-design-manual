@@ -32,8 +32,13 @@ To start the app::
     $ bundle exec ruby app.rb
 
 This will compile the site and make it available at
-`http://localhost:4567/service-manual`.
-Changes will be reloaded without a restart.
+[http://localhost:4567/](http://localhost:4567/).
+
+In a separate terminal, you'll need to run:
+
+    $ bundle exec jekyll build --watch
+
+This will monitor the service manual and rebuild it whenever it's changed.
 
 ## Running on Heroku
 
