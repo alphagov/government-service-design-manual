@@ -29,10 +29,10 @@ Next, install dependencies using bundler::
 
 To start the app::
 
-    $ bundle exec jekyll serve --watch
+    $ bundle exec ruby app.rb
 
 This will compile the site and make it available at
-`http://localhost:4000/service-manual`.
+`http://localhost:4567/service-manual`.
 Changes will be reloaded without a restart.
 
 ## Running on Heroku
