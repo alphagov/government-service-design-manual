@@ -50,7 +50,7 @@ There are many scenarios where the extra layers can fail to load or are delibera
 
 * temporary network errors
 * DNS lookup failures
-* sever that the resource is found on could be overloaded or down, and fail to respond in time or at all
+* server that the resource is found on could be overloaded or down, and fail to respond in time or at all
 * large institutions (eg banks and financial institutions, some government departments) having corporate firewalls that block, remove or alter content from the Internet
 * mobile network providers resampling images and altering content so that load times faster and reduce bandwidth consumed
 * antivirus and personal firewall software that will alter and/or block content
