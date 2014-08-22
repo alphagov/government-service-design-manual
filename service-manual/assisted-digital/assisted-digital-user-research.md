@@ -159,14 +159,14 @@ One persona (Teresa) represents the needs of assisted digital support providers 
 
 The personas were developed based on assisted digital desk and field research and represent real-life stories. The majority of people in scope of the research were vulnerable people who need urgent help with vital government services, as they lack either the means, ability or confidence to do so independently.
 
-* [Link to Cathy](/service-manual/assets/documents/Cathy.odt)
-* [Link to David](/service-manual/assets/documents/David.odt)
-* [Link to Greg](/service-manual/assets/documents/Greg.odt)
-* [Link to Gwen](/service-manual/assets/documents/Gwen.odt)
-* [Link to Mohammed](/service-manual/assets/documents/Mohammed.odt)
-* [Link to Sam](/service-manual/assets/documents/Sam.odt)
-* [Link to Sarah](/service-manual/assets/documents/Sarah.odt)
-* [Link to Teresa](/service-manual/assets/documents/Teresa.odt)
+* [Cathy](/service-manual/assets/documents/Cathy.odt)
+* [David](/service-manual/assets/documents/David.odt)
+* [Greg](/service-manual/assets/documents/Greg.odt)
+* [Gwen](/service-manual/assets/documents/Gwen.odt)
+* [Mohammed](/service-manual/assets/documents/Mohammed.odt)
+* [Sam](/service-manual/assets/documents/Sam.odt)
+* [Sarah](/service-manual/assets/documents/Sarah.odt)
+* [Teresa](/service-manual/assets/documents/Teresa.odt)
 
 You can use personas that you develop to represent the needs of your service’s users. The personas can help you focus on the journey of assisted digital users through their service to identify where support in completing digital by default transactions is needed.
 
