@@ -1,18 +1,17 @@
 language: ruby
 rvm:
   - 1.9.3
+cache: bundler
 before_install:
   - sudo apt-get update
-install:
   - sudo apt-get install aspell aspell-en
-  - bundle install
 before_script:
   - git fetch origin
   - git submodule update --init
   - bundle exec jekyll build
 script:
   - make lint
-  - ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
+  - bundle exec ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
 branches:
   except:
     - master
