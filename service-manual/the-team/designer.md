@@ -42,8 +42,8 @@ You should also ask the designer to talk about any significant differences betwe
 ## Job description templates
 Click either of the options below to download template Designer job descriptions. 
 
-Designer -- [Download as Open Office doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx) 
-Junior Visual Designer -- [Download as Open Office doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx) 
+Designer -- [Download as OpenDocument Format](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx) 
+Junior Visual Designer -- [Download as OpenDocument Format](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 

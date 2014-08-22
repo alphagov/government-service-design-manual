@@ -52,7 +52,7 @@ A delivery manager will also need the following skills:
 
 Click either of the options below to download a template Delivery Manager job description. 
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx) 
+[Download as OpenDocument Format](/service-manual/the-team/recruitment/DeliveryManager-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DeliveryManager-generic.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 

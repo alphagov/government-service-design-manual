@@ -67,6 +67,6 @@ Read [guidance in the manual of particular interest to developers](/service-manu
 
 Click either of the options below to download a template Developer job description. 
 
-[Download as Open Office doc](/service-manual/the-team/recruitment/Developer-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Developer-generic.docx) 
+[Download as OpenDocument Format](/service-manual/the-team/recruitment/Developer-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/Developer-generic.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
