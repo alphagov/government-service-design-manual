@@ -3,3 +3,4 @@
 _site/
 .search-index.json
 tmp/*
+node_modules/
