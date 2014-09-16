@@ -3,3 +3,5 @@
 _site/
 .search-index.json
 tmp/*
+
+Gemfile.lock

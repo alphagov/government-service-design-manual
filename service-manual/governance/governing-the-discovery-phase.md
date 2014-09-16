@@ -9,9 +9,6 @@ audience:
 status: draft
 phases:
   - discovery
-  - alpha
-  - beta
-  - live
 breadcrumbs:
   -
     title: Home
@@ -121,7 +118,7 @@ It may also contain known risks and constraints.
 
 **Get approval**
 
-Get department investment approval and Cabinet Office spend approval for discovery and alpha. There’s more information about this in the guidance on [funding your digital service](../governance/funding-your-digital-service.html).
+Get department investment approval and Cabinet Office spend approval for discovery and alpha. There’s more information about this in the guidance on [funding your digital service](/service-manual/governance/funding-your-digital-service).
 
 **Consider procurement needs**
 
@@ -139,22 +136,22 @@ Discovery has 4 possible outcomes — you can decide to:
 
 * proceed to alpha
 
-You should use [the outputs from discovery](../phases/discovery.html#outputs) to help you decide. You can make the decision to stop at any point during discovery.
+You should use [the outputs from discovery](/service-manual/phases/discovery#outputs) to help you decide. You can make the decision to stop at any point during discovery.
 
 ##Team
 
 **Set up your discovery team**
 
-You’ll need a small [team](../the-team/) consisting of your stakeholders and any core team members that have been identified, including the [service manager](../the-team/service-manager.html) and potentially policy, procurement, HR and legal as required.
+You’ll need a small [team](/service-manual/the-team/) consisting of your stakeholders and any core team members that have been identified, including the [service manager](/service-manual/the-team/service-manager) and potentially policy, procurement, HR and legal as required.
 
 **Equip the discovery team properly**
 
-Make sure people have a [good working environment](../the-team/working-environment.html) and the tools they need. 
+Make sure people have a [good working environment](/service-manual/the-team/working-environment) and the tools they need. 
 
 
 <hr>
 
-Next: [governing the alpha phase](../governance/governing-the-alpha-phase.html)
+Next: [governing the alpha phase](/service-manual/governance/governing-the-alpha-phase)
 
 
 <hr>

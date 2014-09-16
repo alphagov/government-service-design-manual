@@ -48,23 +48,23 @@ It’s also useful for any other people in service teams so they know what to ex
 
 ###Governance principles
 
-GDS has defined [6 principles for governing service development](../governance/governance-principles.html). Following them should help you create the right culture within your service development environment. They are:
+GDS has defined [6 principles for governing service development](/service-manual/governance/governance-principles). Following them should help you create the right culture within your service development environment. They are:
 
-1. [Don’t slow down delivery](../governance/governance-principles.html#dont-slow-down-delivery)
+1. [Don’t slow down delivery](/service-manual/governance/governance-principles#dont-slow-down-delivery)
 
-2. [Decisions when they’re needed, at the right level](../governance/governance-principles.html#decisions-when-theyre-needed-at-the-right-level)
+2. [Decisions when they’re needed, at the right level](/service-manual/governance/governance-principles#decisions-when-theyre-needed-at-the-right-level)
 
-3. [Do it with the right people](../governance/governance-principles.html#do-it-with-the-right-people)
+3. [Do it with the right people](/service-manual/governance/governance-principles#do-it-with-the-right-people)
 
-4. [Go see for yourself](../governance/governance-principles.html#go-see-for-yourself)
+4. [Go see for yourself](/service-manual/governance/governance-principles#go-see-for-yourself)
 
-5. [Only do it if it adds value](../governance/governance-principles.html#only-do-it-if-it-adds-value)
+5. [Only do it if it adds value](/service-manual/governance/governance-principles#only-do-it-if-it-adds-value)
 
-6. [Trust and verify](../governance/governance-principles.html#trust-and-verify)
+6. [Trust and verify](/service-manual/governance/governance-principles#trust-and-verify)
 
 ###How to govern
 
-This section of the service manual provides guidance on [how to govern across the life of a service](governance-across-the-life-of-a-service.html) with advice for each phase including:
+This section of the service manual provides guidance on [how to govern across the life of a service](/service-manual/governance-across-the-life-of-a-service) with advice for each phase including:
 
 * managing approvals and funding your digital service
 

@@ -56,10 +56,12 @@ We gauge success through delivery of services that meet user needs. Governing we
 **A bit more detail**
 
 Scrutinising services in development at regular ‘show and tell’ meetings provides the best evidence of progress. This evidence, alongside data that delivery teams are already using to manage delivery, should provide the information needed to govern service delivery.
+
 If ‘show and tell’ meetings aren’t happening, find out why. If they are, you should go along if you have governance responsibility for that service.
+
 Governance is also about creating an environment where people can thrive. We have a flat organisation structure so everyone can contribute to the success of the team.
 
-<img src="../assets/images/governance/delivery-dashboard.jpg" alt="Live electronic dashboards display information throughout the organisation and beyond"/>
+<img src="/service-manual/assets/images/governance/delivery-dashboard.jpg" alt="Live electronic dashboards display information throughout the organisation and beyond"/>
 
 
 ##2. Decisions when they’re needed, at the right level
@@ -95,7 +97,7 @@ We know we can’t eliminate or transfer risks. We encourage highlighting and ow
 
 Our approach to risk management isn’t about scheduled discussion of a risk register — it’s about dealing with risk at the right time. We identify the best possible moment to respond to important risks and only then start to plan and carry out our response.
 
-<img src="../assets/images/governance/risk-chart.jpg" alt="Risk chart"/>
+<img src="/service-manual/assets/images/governance/risk-chart.jpg" alt="Risk chart"/>
 
 
 ##3. Do it with the right people
@@ -146,13 +148,13 @@ We regularly plan together. We visit teams to find out and openly and honestly d
 
 The best way to gauge progress, check on the mood of the delivery team and assure a service is by meeting them face-to-face in their workspace. There are several ways to do this without adding overhead. These include:
 
-* at [daily stand-up meetings](agile/features-of-agile.html#daily-stand-up) — these last 10 – 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
+* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) — these last 10 – 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
 
-* [regular planning sessions](agile/features-of-agile.html#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
+* [regular planning sessions](/service-manual/agile/features-of-agile#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
 
 * regular reviews or ‘show and tells’ at the end of each iteration to show work completed in that iteration and discuss any issues or changes that need to be made to the service
 
-* [regular retrospectives](agile/running-retrospectives.html), where the team can reflect on what went well, what didn’t and anything they should change
+* [regular retrospectives](/service-manual/agile/running-retrospectives), where the team can reflect on what went well, what didn’t and anything they should change
 
 People who govern should regularly attend these meetings, if only to observe.
 
@@ -161,7 +163,7 @@ Delivery managers should collect data during these meetings to use for simple, h
 Walls are an excellent way to track work and show important things, like what the team is doing and how they’re progressing. It helps planning and communication, within the team and to others.
 Delivery teams should make sure that their walls are up to date and being used. Visiting a team’s wall gives a current view of its work without anyone needing to produce lengthy reports that take the focus away from delivery. You should take the time to visit them regularly.
 
-<img src="../assets/images/governance/team-around-wall.jpg" alt="Daily stand-up"/>
+<img src="/service-manual/assets/images/governance/team-around-wall.jpg" alt="Daily stand-up"/>
 
 ##5. Only do it if it adds value
 
@@ -190,7 +192,7 @@ Governance teams collaborate on the development of this charter and help to buil
 
 Service development is a learning process — and we add value when we learn. Everyone should be encouraged to create better ways to meet user needs. Even if something doesn’t quite work in user research, the lessons learned will guide further service development. This avoids creating an expensive dead-end that doesn’t meet user needs.
 
-<img src="../assets/images/governance/vision-on-wall.jpg" alt="Make service vision and goals prominent in team work areas to increase focus on that vision and goals"/>
+<img src="/service-manual-assets/images/governance/vision-on-wall.jpg" alt="Make service vision and goals prominent in team work areas to increase focus on that vision and goals"/>
 
 ##6. Trust and verify
 

@@ -22,7 +22,7 @@ breadcrumbs:
 
 ---
 
-There are [5 phases of service delivery](../phases) — discovery, alpha, beta, live and retirement. Governance is important across all these phases.
+There are [5 phases of service delivery](/service-manual/phases) — discovery, alpha, beta, live and retirement. Governance is important across all these phases.
 
 
 ##Discovery
@@ -37,7 +37,7 @@ You’ll use this phase to:
 
 You may need approval from Cabinet Office to spend money on suppliers and should start work on your business case.
 
-Find out more about [governing the discovery phase](../governance/governing-the-discovery-phase.html)
+Find out more about [governing the discovery phase](/service-manual/governance/governing-the-discovery-phase)
 
 ##Alpha
 
@@ -59,7 +59,7 @@ To progress to beta you’ll need to:
 
 * prepare for and pass a digital by default service standard assessment
 	
-Find out more about [governing the alpha phase](../governance/governing-the-alpha-phase.html).
+Find out more about [governing the alpha phase](/service-manual/governance/governing-the-alpha-phase).
 
 ##Beta
 
@@ -70,7 +70,7 @@ You should adjust governance arrangements to make sure that they fit your scale 
 If you move outside agreed tolerances for costs and benefits you will need investment re-approval. To move into live service operations, you’ll need to pass a service standard assessment.
 	
 	
-Find out more about [governing the beta phase](../governance/governing-the-beta-phase.html).
+Find out more about [governing the beta phase](/service-manual/governance/governing-the-beta-phase).
 	
 ##Live
 
@@ -78,7 +78,7 @@ You’ll need to make sure that you have the resources and practices in place to
 	
 The service standard assessment process will apply if the service undergoes a major change.
 	
-Find out more about [governing the live phase](../governance/governing-the-beta-phase.html).
+Find out more about [governing the live phase](/service-manual/governance/governing-the-beta-phase).
 
 ##Retirement
 

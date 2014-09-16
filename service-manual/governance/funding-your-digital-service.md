@@ -21,13 +21,13 @@ breadcrumbs:
     url: /service-manual/governance
 ---
 
-There are [5 phases of service delivery](../phases) — discovery, alpha, beta, live and retirement. You’ll need to get approval at different phases when you build your service. 
+There are [5 phases of service delivery](/service-manual/phases) — discovery, alpha, beta, live and retirement. You’ll need to get approval at different phases when you build your service. 
 
 ##Discovery and alpha
 
-[Discovery](https://www.gov.uk/service-manual/phases/discovery.html) is right at the start of your project — where you research user needs, find out about any policy or technological constraints and get a picture of what your first prototypes will explore.
+[Discovery](/service-manual/phases/discovery) is right at the start of your project — where you research user needs, find out about any policy or technological constraints and get a picture of what your first prototypes will explore.
 
-During the [alpha phase](https://www.gov.uk/service-manual/phases/alpha.html), you start building and testing those prototypes.
+During the [alpha phase](/service-manual/phases/alpha), you start building and testing those prototypes.
 
 To start discovery, you need approval for discovery and alpha. This means:
 

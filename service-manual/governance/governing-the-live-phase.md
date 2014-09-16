@@ -8,9 +8,6 @@ audience:
   primary: service-managers
 status: draft
 phases:
-  - discovery
-  - alpha
-  - beta
   - live
 breadcrumbs:
   -
@@ -91,7 +88,7 @@ The National Audit Office audits most public-sector bodies in the UK and produce
 
 During live service operation your team may need to change size and shape in response to user needs and operating context. Teams will expand and contract over the service lifetime.
 
-Find out more about [live team requirements](../phases/live.html#team-requirements)
+Find out more about [live team requirements](/service-manual/phases/live#team-requirements)
 
 **Ensure the team has skills necessary to run the live service**
 
@@ -109,7 +106,7 @@ You will need to remain involved so that you can help the team with decisions, e
 
 <hr>
 
-Previous: [governing the beta phase](../governance/governing-the-beta-phase.html)
+Previous: [governing the beta phase](/service-manual/governance/governing-the-beta-phase)
 
 <hr>
 

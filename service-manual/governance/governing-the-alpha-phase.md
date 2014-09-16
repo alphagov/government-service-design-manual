@@ -8,10 +8,7 @@ audience:
   primary: service-managers
 status: draft
 phases:
-  - discovery
   - alpha
-  - beta
-  - live
 breadcrumbs:
   -
     title: Home
@@ -51,7 +48,7 @@ Your team may take on a different shape as you start to build a prototype. As th
 
 A crucial outcome of the alpha phase is that the team can identify the biggest risks to the service early on. Things that may help manage risks include using iterations to test incrementally and adding critical risks to the team wall.
 
-Find out more about [identifying risks during alpha](../phases/ideal-alphas#identifying-risks).
+Find out more about [identifying risks during alpha](/service-manual/phases/ideal-alphas#identifying-risks).
 
 **Create a roadmap based on the outcome of your discovery**
 
@@ -61,7 +58,7 @@ It’s important to establish goals during discovery and create the roadmap with
 
 Your roadmap may identify that the service is broken up into a number of segments, each of which have their own beta phase and then get separately put into live service.
 
-Find out more about [identifying goals during alpha](../phases/ideal-alphas#identifying-goals).
+Find out more about [identifying goals during alpha](/service-manual/phases/ideal-alphas#identifying-goals).
 
 **Measure your progress**
 
@@ -105,7 +102,7 @@ Consider the expected lifetime of the service and costs for:
 
 * continuous improvement
 
-* [assisted digital](../assisted-digital/)
+* [assisted digital](/service-manual/assisted-digital/)
 
 **Revisit procurement needs**
 
@@ -116,11 +113,11 @@ Rate cards and price lists available in procurement frameworks can help you esti
 
 If you haven’t already appointed a senior responsible officer (SRO), should appoint one now to sponsor the business case. This could be the service manager or someone else senior in the business.
 
-Seek [funding for your digital service](../governance/funding-your-digital-service.html) with a business case for further investment approval and Cabinet Office spend approvals. You can’t start beta until you have an approved business case.
+Seek [funding for your digital service](/service-manual/governance/funding-your-digital-service) with a business case for further investment approval and Cabinet Office spend approvals. You can’t start beta until you have an approved business case.
 
 **Digital by default service standard assessment**
 
-The [Digital by Default Service Standard](../digital-by-default) is a set of criteria for digital teams building government services to meet. Meeting the standard will mean digital services are of a consistently high quality. 
+The [Digital by Default Service Standard](/service-manual/digital-by-default) is a set of criteria for digital teams building government services to meet. Meeting the standard will mean digital services are of a consistently high quality. 
 
 This includes creating services that are easily improved, safe, secure and fulfill user needs. The result of an assessment could mean you continue to build towards a beta service, make some changes and come back for re-assessment or stop what you are doing.
 
@@ -153,7 +150,7 @@ You’ll probably need more user researchers, developers and designers to help d
 
 You may also need finance people, economists and analysts to help with your business case.
 
-During alpha you’ll also need to work out [the team](../the-team/index.html) structure and composition you need for beta and beyond. 
+During alpha you’ll also need to work out [the team](/service-manual/the-team/index) structure and composition you need for beta and beyond. 
 
 **Consider if you need to scale**
 
@@ -163,13 +160,13 @@ At this point your team may need to think about adding more people and how that 
 
 As your team changes, it’s important to revisit their needs. New skills may mean new tools, and new people will certainly mean more space and equipment. Remember to keep the service team seated together so that they can work closely.
 
-Find out how to get the right [working environment](../the-team/working-environment.html).
+Find out how to get the right [working environment](/service-manual/the-team/working-environment).
 
 <hr>
 
-Previous: [governing the discovery phase](../governance/governing-the-discovery-phase.html)
+Previous: [governing the discovery phase](/service-manual/governance/governing-the-discovery-phase)
 
-Next: [governing the beta phase](../governance/governing-the-beta-phase.html)
+Next: [governing the beta phase](/service-manual/governance/governing-the-beta-phase)
 
 <hr>
 

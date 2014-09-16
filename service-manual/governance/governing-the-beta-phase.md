@@ -8,10 +8,7 @@ audience:
   primary: service-managers
 status: draft
 phases:
-  - discovery
-  - alpha
   - beta
-  - live
 breadcrumbs:
   -
     title: Home
@@ -48,7 +45,7 @@ Including risks in your roadmap will help you focus on the risks that are releva
 
 The most important measures of progress are seeing the service being delivered and user satisfaction. The team wall is another useful way of seeing how delivery is progressing - it’s essential everyone understands how the wall can help show progress.
 
-Find out more about [how to decide what to measure](../measurement/other-kpis.html#decide-what-to-measure).
+Find out more about [how to decide what to measure](/service-manual/measurement/other-kpis#decide-what-to-measure).
 
 **Keep going to show and tells**
 
@@ -76,7 +73,7 @@ Consider the expected lifetime of the service and costs for:
 
 * continuous improvement
 
-* [assisted digital](../assisted-digital/)
+* [assisted digital](/service-manual/assisted-digital/)
 
 
 As you progress in beta you should get a much clearer picture of live service costs.
@@ -87,11 +84,11 @@ As your understanding of what is needed for live service improves, you may disco
 
 **Get department investment approval and Cabinet Office spend approval for beta and live**
 
-Seek further approval for [funding your digital service](funding-your-digital-service.html) as necessary.
+Seek further approval for [funding your digital service](/service-manual/funding-your-digital-service) as necessary.
 
 **Digital by Default Service Standard assessment**
 
-The Digital by [Default Service Standard (DbDSS)](../digital-by-default) is a set of criteria for digital teams building government services to meet. Meeting the standard will mean digital services are of a consistently high quality.
+The Digital by [Default Service Standard (DbDSS)](/service-manual/digital-by-default) is a set of criteria for digital teams building government services to meet. Meeting the standard will mean digital services are of a consistently high quality.
 
 This includes creating services that are easily improved, safe, secure and fulfill user needs. The result of an assessment could mean you continue to build towards a beta service, make some changes and come back for re-assessment or stop what you are doing.
 
@@ -119,7 +116,7 @@ Teams need help with things that slow them down and are outside of their control
 
 You’ll probably need a larger team with a broader range of skills to help as you start building the beta service. You should consider if you need business analysis, product management, operations or programme delivery management skills.
 
-Find out more about [beta team requirements](../phases/beta.html#team-requirements).
+Find out more about [beta team requirements](/service-manual/phases/beta#team-requirements).
 
 **Scale as necessary**
 
@@ -129,13 +126,13 @@ Scaling to more than one team brings overheads. It’s important to start small 
 
 As your team changes it’s important to revisit their needs. New skills may mean new tools, and new people will certainly mean more space and equipment. Remember to keep the service teams seated together so that they can work more closely.
 
-Find out how to get the right [working environment](../the-team/working-environment.html).
+Find out how to get the right [working environment](/service-manual/the-team/working-environment).
 
 <hr>
 
-Previous: [governing the alpha phase](../governance/governing-the-alpha-phase.html)
+Previous: [governing the alpha phase](/service-manual/governance/governing-the-alpha-phase)
 
-Next: [governing the live phase](../governance/governing-the-live-phase.html)
+Next: [governing the live phase](/service-manual/governance/governing-the-live-phase)
 
 <hr>
 
