@@ -33,7 +33,7 @@ To start discovery, you need approval for discovery and alpha. This means:
 
 * [investment approval](#investment-approval-in-your-department-or-at-hm-treasury-via-a-business-case) from your department
 
-* [Cabinet Office spend control](#cabinet-office-spend-control-approval) approval to spend some of your agreed funding on external resources, eg on suppliers
+* [Cabinet Office spend control approval](#cabinet-office-spend-control-approval) to spend some of your agreed funding on external resources, eg on suppliers
 
 You don’t normally need a detailed business case for discovery and alpha because they inform the development of the bigger investment case for beta and live.
 
