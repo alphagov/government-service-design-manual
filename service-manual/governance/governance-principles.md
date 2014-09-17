@@ -106,7 +106,7 @@ Everyone involved is:
 
 * capable, motivated and empowered
 
-* focussed on goals and key performance indicators (KPIs)
+* focused on goals and key performance indicators (KPIs)
 
 * open and honest about what they do
 

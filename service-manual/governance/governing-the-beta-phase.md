@@ -84,7 +84,7 @@ As your understanding of what is needed for live service improves, you may disco
 
 **Get department investment approval and Cabinet Office spend approval for beta and live**
 
-Seek further approval for [funding your digital service](/service-manual/funding-your-digital-service) as necessary.
+Seek further approval for [funding your digital service](/service-manual/governance/funding-your-digital-service) as necessary.
 
 **Digital by Default Service Standard assessment**
 
