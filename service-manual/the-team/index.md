@@ -70,7 +70,7 @@ There is no hard and fast rule on the roles or team structure needed to fulfil t
 * one or more [user researchers](/service-manual/the-team/user-researcher)
 * one or more [developers](/service-manual/the-team/developer)
 * one or more [content designers](/service-manual/the-team/content-designer)
-* the support of a [technical architect](/service-manual/the-team/recruitment/Technicalarchitect-generic.docx)
+* the support of a [technical architect](/service-manual/the-team/technical-architect)
 * the support of some [web ops expertise](/service-manual/the-team/web-operations)
 
 The team will also have a shared understanding of the [accessibility needs](/service-manual/the-team/accessibility) and possible [assisted digital](/service-manual/assisted-digital) needs of a service's users.
