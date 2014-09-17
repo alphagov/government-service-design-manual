@@ -82,7 +82,7 @@ There will be default modules that are:
 
 * relevant to all services
 * relevant to similar groups of services (eg applying for something, requesting information, booking an appointment)
-* [Key Performance Indicators](/service-manual/measurement/index.html)
+* [Key Performance Indicators](/service-manual/measurement/)
 
 You’ll also have the ability to develop your own custom modules for your service.
 
