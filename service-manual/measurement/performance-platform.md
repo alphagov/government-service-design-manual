@@ -89,4 +89,4 @@ You’ll also have the ability to develop your own custom modules for your servi
 ##Further information
 
 * [The Performance Platform](/performance)
-* [Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)
+* [Contact the team](mailto:performance@digital.cabinet-office.gov.uk)
