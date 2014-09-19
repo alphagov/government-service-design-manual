@@ -148,7 +148,7 @@ We regularly plan together. We visit teams to find out and openly and honestly d
 
 The best way to gauge progress, check on the mood of the delivery team and assure a service is by meeting them face-to-face in their workspace. There are several ways to do this without adding overhead. These include:
 
-* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) — these last 10 – 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
+* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) -- these last 10 to 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
 
 * [regular planning sessions](/service-manual/agile/features-of-agile#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
 
