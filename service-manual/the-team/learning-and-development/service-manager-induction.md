@@ -115,7 +115,9 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-To request a place on the induction programme, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
+Please note: the service manager induction programme is now fully booked until the end of December 2014. 
+
+However, places are still available on the [open programme](/service-manual/the-team/learning-and-development/open-programme), to book a place please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
 
 Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
