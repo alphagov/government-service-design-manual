@@ -26,7 +26,7 @@ breadcrumbs:
 
 | Date | Modules |
 |------------|
-| 10 September, 17 November | Increasing take-up, Assisted digital and Digital inclusion |
+| 17 November, 12 December | Increasing take-up, Assisted digital and Digital inclusion |
 | 13 October, 24 November | Always be testing, Design principles in action, and Data-driven services |
 | 26 September, 28 November | Procure to improve, Being agile, and Identity assured |
 
