@@ -1,6 +1,6 @@
 GEM
   remote: https://rubygems.org/
-  remote: https://gem.fury.io/govuk/
+  remote: https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/
   specs:
     PriorityQueue (0.1.2)
     RedCloth (4.2.9)
