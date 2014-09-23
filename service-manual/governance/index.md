@@ -64,7 +64,7 @@ GDS has defined [6 principles for governing service development](/service-manual
 
 ###How to govern
 
-This section of the service manual provides guidance on [how to govern across the life of a service](/service-manual/governance-across-the-life-of-a-service) with advice for each phase including:
+This section of the service manual provides guidance on [how to govern across the life of a service](/service-manual/governance/governance-across-the-life-of-a-service) with advice for each phase including:
 
 * managing approvals and funding your digital service
 
