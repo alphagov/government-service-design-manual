@@ -33,7 +33,7 @@ The Recruitment Hub is not intended to replace existing HR and recruitment proce
 
 GDS must approve the job descriptions and appointments for all SCS-level technology positions. All senior grades (Deputy Director / Grade 5 level and above) are part of the Senior Civil Service, which is overseen by the Cabinet Office on behalf of the civil service as a whole. Senior civil servants may be called to account by Parliament, and are barred from holding any political office. 
 
-The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should be a useful starting point for departments and agencies to tailor to their specific roles.
+The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign) and [salary guidance](/service-manual/the-team/recruitment/salary-advice) should be a useful starting point for departments and agencies to tailor to their specific roles.
 
 For SCS level hires, the Recruitment Hub could also provide:
 
@@ -47,7 +47,7 @@ Departments should continue to liaise with advertisers and Civil Service Commiss
 
 ## Non-SCS specialist recruitment
 
-GDS does not need to approve the appointment of non-SCS specialist posts, but will again provide guidance, support and advice for departments seeking to bring in specialist digital skills. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions.html), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign.html) and [salary guidance](/service-manual/the-team/recruitment/salary-advice.html) should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
+GDS does not need to approve the appointment of non-SCS specialist posts, but will again provide guidance, support and advice for departments seeking to bring in specialist digital skills. The template [job descriptions](/service-manual/the-team/recruitment/job-descriptions), [organisation design advice](/service-manual/the-team/recruitment/scs-orgdesign) and [salary guidance](/service-manual/the-team/recruitment/salary-advice) should again be a useful starting point for departments and agencies, and is likely to require less tailoring than SCS roles.
 
 In addition, the Recruitment Hub could also provide:
 
