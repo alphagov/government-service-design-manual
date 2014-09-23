@@ -25,7 +25,7 @@ GOV.UK done pages:
 
 Contact the mainstream business as usual content team via Zendesk to ask for
 a done page when you ask for your [start
-page](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/start-pages.html).
+page](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/start-pages).
 You should do this close to your beta launch.
 
 ---
