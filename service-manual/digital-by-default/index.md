@@ -194,7 +194,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-16">
-    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">identity assurance</a>) where available.</div>
+    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">GOV.UK Verify</a>) where available.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
