@@ -26,8 +26,6 @@ breadcrumbs:
 
 | Cohort | 2014 |
 |------------|
-| M | July 7, 8, 9 10 |
-| N | September 15, 16, 22, 23 |
 | O | October 6, 7, 8, 9 |
 | P | November 3, 4, 10, 11 |
 | Q | December 1, 2, 3, 4 |
@@ -116,6 +114,8 @@ It's time to try out the methods and tools picked up on the programme so far. In
 #Request a place
 
 Please note: the service manager induction programme is now fully booked until the end of December 2014. 
+
+Dates for the new year will be published soon.
 
 However, places are still available on the [open programme](/service-manual/the-team/learning-and-development/open-programme), to book a place please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
 
