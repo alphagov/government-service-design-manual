@@ -26,7 +26,7 @@ GDS will [examine and challenge all technology-related spending over a certain t
 
 ## The technology code of practice
 
-For your project to proceed, you must demonstrate that you have met all applicable elements of this code -- this will be verified through the [controls process](/service-manual/agile/spending-controls.html):
+For your project to proceed, you must demonstrate that you have met all applicable elements of this code -- this will be verified through the [controls process](/service-manual/technology/spending-controls):
 
 1. Ensure systems, information and processes are designed around the needs of the service user, providing as simple and as integrated an experience as possible. Be very clear who the users are and how to engage with them and ensure their needs are met.
 1. Demonstrate value for money in your business case and articulate the options considered in a full and objective appraisal.
