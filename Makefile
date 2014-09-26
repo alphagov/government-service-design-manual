@@ -4,6 +4,7 @@ help:
 	@echo "Please use 'make <target>' where <target> is one of"
 	@echo "  clean     to remove the build artefacts"
 	@echo "  lint      to lint the markdown"
+	@echo "  links     to check internal links in the service manual"
 	@echo "  test      to test the lint tools"
 	@echo "  aspell    to interactively spellcheck all of the content"
 
@@ -22,3 +23,7 @@ test:
 
 lint:
 	go run tools/lint/lint.go service-manual
+
+links:
+	go get -t -v github.com/jabley/markdown
+	go run tools/linkcheck/linkcheck.go service-manual
