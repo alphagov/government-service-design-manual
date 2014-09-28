@@ -44,7 +44,7 @@ These people need to use agile every day and help teach others. Typical roles ar
 
 [Delivery team members: if you are becoming part of a delivery team](#delivery-team-members)
 
-This covers people any other people who’ll be part of an agile team, eg:
+This covers any other people who’ll be part of an agile team, eg:
 
 * developer
 * user researcher
