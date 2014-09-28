@@ -10,7 +10,7 @@ before_script:
   - git submodule update --init
   - bundle exec jekyll build
 script:
-  - make lint
+  - make lint links
   - bundle exec ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
 branches:
   except:
