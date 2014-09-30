@@ -20,6 +20,7 @@ test:
 	# go get github.com/golang/lint/golint
 	golint tools/lint/
 	go test tools/lint/mdlint/mdlint_test.go
+	go test ./tools/linkcheck/
 
 lint:
 	go run tools/lint/lint.go service-manual

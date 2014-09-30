@@ -195,11 +195,13 @@ func getURLOptions(URL string) []string {
 		}
 	case "":
 		{
-			res[0] = "." + URL + "/index.md"
-			res[1] = "." + URL + "/index.html"
 			if strings.HasSuffix(URL, "/") {
+				res[0] = "." + URL + "index.md"
+				res[1] = "." + URL + "index.html"
 				return res[0:2]
 			} else {
+				res[0] = "." + URL + "/index.md"
+				res[1] = "." + URL + "/index.html"
 				res[2] = "." + URL + ".md"
 				return res
 			}
