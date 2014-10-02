@@ -81,7 +81,7 @@ You’ll need to continue [developing user personas and user journeys](/service-
 * organisations who support people offline to access services
 * organisations who are already providing formal and informal support to your users
 
-You’ll need to put suitable plans in place to support your assisted digital users if your service requires [Identity Assurance](/service-manual/identity-assurance).
+You’ll need to put suitable plans in place to support your assisted digital users if your service requires [GOV.UK Verify](/service-manual/identity-assurance).
 
 You should also consider any impacts on or overlaps with other central government transactions, to make sure that the user journey is consistent and joined up across services, where relevant.
 

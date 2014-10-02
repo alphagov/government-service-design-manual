@@ -99,7 +99,7 @@ Using data to inform decision-making is vital to the development of your service
 
 ##Identity assured
 
-We need to know that users of digital services are who they say they are. In this session, you will learn how the Identity Assurance Programme is:
+We need to know that users of digital services are who they say they are. In this session, you will learn how the GOV.UK Verify Programme is:
 
 * creating a market so that users can choose from a number of identity providers
 
@@ -107,7 +107,7 @@ We need to know that users of digital services are who they say they are. In thi
 
 * building and running the hub that connects services to identity providers
 
-* working with departments and agencies to identify their services’ identity assurance requirements and plan their transition to using the identity assurance service
+* working with departments and agencies to identify their services’ GOV.UK Verify requirements and plan their transition to using the GOV.UK Verify service
 
 ##Procure to improve
 

@@ -51,6 +51,6 @@ Understanding the interoperability of services and devices is crucial to being a
 * understand the [architecture](/service-manual/technology/architecture.html) of services and technology across team, departments and government
 * provide [end user devices](/service-manual/technology/end-user-devices.html) which meet user needs
 * have a good understanding of what effective [service integration](/service-manual/technology/service-integration.html) looks like
-* understand the role of [identity assurance](/service-manual/identity-assurance/index.html) when providing services to citizens
+* understand the role of [GOV.UK Verify](/service-manual/identity-assurance/index.html) when providing services to citizens
 
 *[CTOs]: Chief Technology Officers
