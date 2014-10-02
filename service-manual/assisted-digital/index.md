@@ -116,4 +116,4 @@ Services may have existing contracts for providing outsourced assisted digital. 
 
 ## Authenticating user identity
 
-Services that include a requirement for users to authenticate their identity before undertaking a digital transaction should refer to GDS’s [Identity Assurance](/service-manual/identity-assurance) guidance and [contact](mailto:janet.hughes@digital.cabinet-office.gov.uk)  the Identity Assurance (IDA) team at GDS at the earliest opportunity. GDS are developing IDA as the default identity assurance platform within government digital services. 
+Services that include a requirement for users to authenticate their identity before undertaking a digital transaction should refer to GDS’s [GOV.UK Verify](/service-manual/identity-assurance) guidance and [contact](mailto:janet.hughes@digital.cabinet-office.gov.uk)  the GOV.UK Verify team at GDS at the earliest opportunity. GDS are developing IDA as the default GOV.UK Verify platform within government digital services. 

@@ -62,9 +62,9 @@ It's probably safe to carry on if you're building a service for a small number o
   * unusually high numbers of failed login attempts over a short period of time
   * a sequence of failed logins on a given account over a long period of time
 * separate user data from other data you hold to avoid collecting a large amount of identifiable information
-* swap to a new identity system, like the [identity assurance](/service-manual/identity-assurance) scheme, without invasive changes to the rest of your codebase
+* swap to a new identity system, like the [GOV.UK Verify](/service-manual/identity-assurance) scheme, without invasive changes to the rest of your codebase
 
-Read the [advice published by the identity assurance team](/service-manual/identity-assurance) if you need to:
+Read the [advice published by the GOV.UK Verify](/service-manual/identity-assurance) if you need to:
 
 * build a system for a broad range of citizens and businesses
 * do sophisticated matching with other systems so you can build confidence in the identity of your users

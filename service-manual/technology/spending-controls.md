@@ -30,7 +30,7 @@ The government's [Spend Controls](https://www.gov.uk/government/publications/cab
 * strategic supplier management, including disputes
 * commercial models
 * ICT
-* Digital Service Delivery (including [identity assurance](/service-manual/identity-assurance))
+* Digital Service Delivery (including [GOV.UK Verify](/service-manual/identity-assurance))
 * external recruitment
 * consultancy
 * redundancy and compensation
