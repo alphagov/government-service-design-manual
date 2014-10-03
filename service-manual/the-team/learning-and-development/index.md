@@ -31,7 +31,7 @@ This programme is designed specifically for newly appointed service managers who
 
 #[Specialist digital foundation day](/service-manual/the-team/learning-and-development/foundation-day)
 
-The foundation day (currently in alpha) is a one-day workshop covering the main points of digital in government for people directly involved in delivering services.
+The foundation day is a one-day workshop covering the main points of digital in government for people directly involved in delivering services.
 
 Participants may be in specialist digital roles, such as product manager, business analyst, designer or developer, or in other roles that are expected to work closely with digital teams.
 

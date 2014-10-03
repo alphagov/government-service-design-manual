@@ -29,6 +29,10 @@ breadcrumbs:
 | O | October 6, 7, 8, 9 |
 | P | November 3, 4, 10, 11 |
 | Q | December 1, 2, 3, 4 |
+| R | January 5, 6, 7, 8 |
+| S | February 10, 11, 17, 18 |
+| T | March 9, 10, 11, 12 |
+| U | April 14, 15, 20, 21 |
 
 #Who should take part
 
@@ -113,7 +117,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-Please note: the service manager induction programme is now fully booked until the end of December 2014. 
+Please note: the service manager induction programme is now fully booked until the end of December 2014, however you can book places for the 2015 cohorts. 
 
 Dates for the new year will be published soon.
 
