@@ -13,19 +13,20 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-The end page of any transaction should be a page on the GOV.UK domain.
+All digital services that government provides must end (and start) on
+GOV.UK.
 
-These pages should let the user know:
+GOV.UK done pages:
 
-* that they have successfully completed the transaction
-* their reference number if there is one
-* what further actions they need to perform, and when
-* what further actions they can expect from the service, and when
-* who they should contact with any queries or complaints
-* about any related information and services
++ are the very final step after a user has finished interacting with the transaction
++ help frame the service
++ capture satisfaction and comments
++ allow measurement of KPIs for the performance dashboard
 
-
-
+Contact the mainstream business as usual content team via Zendesk to ask for
+a done page when you ask for your [start
+page](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/start-pages).
+You should do this close to your beta launch.
 
 ---
 
