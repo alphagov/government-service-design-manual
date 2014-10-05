@@ -24,11 +24,6 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
-| Day | 2014 |
-|------------|
-| Alpha | July 18 |
-| Beta | September 3 and October 23 |
-
 #Who should take part
 
 The foundation day is a one-day workshop for people delivering services in government.
@@ -80,7 +75,7 @@ The [Digital by Default Service Standard](/service-manual/digital-by-default) is
 
 #Request a place
 
-To request a place on the alpha or beta of the foundation day, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/CXJWXXL)
+To request a place on the foundation day, please fill in this [Civil Service Learning request form](https://civilservicelearning.civilservice.gov.uk/learning-opportunities/digital-foundation-day)
 
 Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
