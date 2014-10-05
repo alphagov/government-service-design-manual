@@ -58,6 +58,6 @@ In addition, the Recruitment Hub could also provide:
 
 In specific cases where a position requires a particular specialist set of technical skills (eg technical architects, designers), departments should request sifting or shortlisting support from GDS via the Recruitment Hub. This service should be requested before the post is advertised. 
 
-We cannot promise to provide this in all cases, but will endeavour to make expert advice available from the shortlisting stage for crucial posts. 
+We cannot promise to provide this in all cases, but will try to make expert advice available from the shortlisting stage for crucial posts.
 
 **All queries for the hub should be made to [digitaltalent@digital.cabinet-office.gov.uk](mailto:digitaltalent@digital.cabinet-office.gov.uk).**
