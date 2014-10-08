@@ -60,7 +60,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
     <td>Mozilla Firefox (latest version)</td><td>Compliant</td>
   </tr>
   <tr>
-    <th scope="row" rowspan="3">Mac OS X</th><td>Safari 7</td><td>Compliant</td>
+    <th scope="row" rowspan="3">Mac OS X</th><td>Safari 7+</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome (latest version)</td><td>Compliant</td>
@@ -79,7 +79,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
     </tr>
   </thead>
   <tr>
-    <th scope="row" rowspan="4">iOS</th><td rowspan="2">7</td><td>Mobile Safari</td><td>Compliant</td>
+    <th scope="row" rowspan="4">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome</td><td>Compliant</td>
@@ -100,7 +100,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
     <td>2.3</td><td>Android Browser</td><td>Functional</td>
   </tr>
   <tr>
-    <th scope="row">Windows Phone</th><td>8</td><td>Internet Explorer 10</td><td>Functional</td>
+    <th scope="row">Windows Phone</th><td>8</td><td>Internet Explorer 10+</td><td>Functional</td>
   </tr>
   <tr>
     <th scope="col">BlackBerry</th><td>7.1</td><td>BlackBerry Browser</td><td>Functional</td>
