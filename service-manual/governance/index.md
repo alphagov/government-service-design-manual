@@ -20,13 +20,15 @@ breadcrumbs:
 
 ###What governance is and why we need it
 
-Governance enables service delivery by making sure that the right things are done for users — in the right way and at the right time. This means:
+Governance enables service delivery by creating the right conditions to ensure that delivery teams can do the right things for users — in the right way and at the right time. This means:
 
 * making sure we’re doing things that meet user needs and achieve organisational goals
 
 * being aligned to organisational standards and ways of working
 
 * deciding what to deliver when and prioritising things
+
+* anticipating problems and making decisions to avoid slowing down delivery
 
 The guidance in this section of the manual is about how to do this. It provides advice on the governance practices needed across:
 
@@ -36,15 +38,17 @@ The guidance in this section of the manual is about how to do this. It provides 
 
 * team level activities
 
+Delivery teams need support from people who govern so they can build services that meet user needs.
+
 ###Who’s involved in governance
 
-Governance is part of service delivery. Everyone who’s working to deliver a service is in some way responsible for and involved in its governance.
+Everyone who’s working to deliver a service is in some way responsible for and involved in its governance.
 
 At the team level, agile processes (eg daily stand-ups, regular planning meetings and retrospectives) are all forms of governing delivery. They help make sure that the right things are done in the right way at the right time.
 
-This guidance applies to service managers, senior responsible officers, auditors and assurers, and to senior people (eg digital leaders and chief digital officers). 
+This guidance applies to service managers, senior responsible officers, auditors and assurers, and to senior people (eg digital leaders and chief digital officers). These people who govern are responsible for creating the right conditions for a service to be successful.
 
-It’s also useful for any other people in service teams so they know what to expect from governance activity.
+The guidance is also useful for any other people in service teams so they know what to expect from governance activity.
 
 ###Governance principles
 
