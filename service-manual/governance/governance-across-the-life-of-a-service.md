@@ -22,7 +22,7 @@ breadcrumbs:
 
 ---
 
-There are [5 phases of service delivery](/service-manual/phases) — discovery, alpha, beta, live and retirement. Governance is important across all these phases.
+There are [5 phases of service delivery](/service-manual/phases) — discovery, alpha, beta, live and retirement. Governance is important across all these phases and ensures the transition between them is seamless. People who govern must anticipate problems that could affect delivery and make sure it isn't slowed down.
 
 
 ##Discovery
@@ -30,6 +30,8 @@ There are [5 phases of service delivery](/service-manual/phases) — discovery, 
 During discovery your team will be uncovering new information rapidly and you’ll need to support it by making decisions about the direction of the product and removing blockers.
 
 You’ll use this phase to:
+
+* establish conditions for delivering a successful service
 
 * decide whether to proceed to alpha
 
@@ -52,13 +54,15 @@ You’ll use this phase to:
 You may need approval from Cabinet Office to spend money on suppliers and continue to work on your business case.
 
 To progress to beta you’ll need to:
-	
+  
 * complete a business case and get approval for it
 
 * get Cabinet Office spend control approval, if necessary
 
 * prepare for and pass a digital by default service standard assessment
-	
+  
+You must ensure you do these things in enough time to enable the delivery team to move from alpha straight into the beta phase. You'll slow down delivery if you don't.
+
 Find out more about [governing the alpha phase](/service-manual/governance/governing-the-alpha-phase).
 
 ##Beta
@@ -66,19 +70,18 @@ Find out more about [governing the alpha phase](/service-manual/governance/gover
 The purpose of beta is to develop the service and test it with users. As you do this, you may need to scale to achieve your objectives.
 
 You should adjust governance arrangements to make sure that they fit your scale and structure for this phase. You’ll also need to update your business case and get further Cabinet Office spend control approval for the service if you’re spending money on external resources (eg suppliers).
-	
+  
 If you move outside agreed tolerances for costs and benefits you will need investment re-approval. To move into live service operations, you’ll need to pass a service standard assessment.
-	
-	
+  
 Find out more about [governing the beta phase](/service-manual/governance/governing-the-beta-phase).
-	
+  
 ##Live
 
 You’ll need to make sure that you have the resources and practices in place to continuously and iteratively improve the service. This will make sure it responds to changing user needs and policy development. 
-	
+  
 The service standard assessment process will apply if the service undergoes a major change.
-	
-Find out more about [governing the live phase](/service-manual/governance/governing-the-live-phase).
+  
+Find out more about [governing the live phase](/service-manual/governance/governing-the-beta-phase).
 
 ##Retirement
 

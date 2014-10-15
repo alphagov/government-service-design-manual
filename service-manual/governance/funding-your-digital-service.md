@@ -37,7 +37,7 @@ To start discovery, you need approval for discovery and alpha. This means:
 
 You don’t normally need a detailed business case for discovery and alpha because they inform the development of the bigger investment case for beta and live.
 
-As a guide, discovery and alpha together shouldn’t cost over £750,000. If you plan to go above this, you should question whether you’ve sized the discovery and alpha correctly - if you do exceed this figure you’ll need a detailed business case.
+As a guide, discovery and alpha together shouldn’t cost over £750,000. If you plan to go above this, you should question whether you’ve sized the discovery and alpha correctly — if you do exceed this figure you’ll need a detailed business case.
 
 
 ##Beta and live
@@ -52,7 +52,7 @@ To go to beta you’ll need approval for beta and live. This means:
 
 * any other approvals specific to your service eg headcount or salary/grade changes
 
-You **only** need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)) if any of following apply:
+You **only** need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) if any of following apply:
 
 * your anticipated total spend on the entire programme (including non-digital aspects) is higher than your organisation’s delegated expenditure limit (DEL)
 

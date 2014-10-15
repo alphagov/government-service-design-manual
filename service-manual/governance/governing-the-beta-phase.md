@@ -38,12 +38,13 @@ Keep your governance arrangements as lightweight as possible whilst still suppor
 
 **Plan for known risks**
 
-A successful alpha will have investigated most of the areas of risk and uncertainty in your service. Use this to inform your roadmap and try to identify and plan for risks that are specific to beta. 
+A successful alpha will have investigated most of the areas of risk and uncertainty in your service. Use this to inform your roadmap and try to identify and plan for risks that are specific to beta.
+
 Including risks in your roadmap will help you focus on the risks that are relevant to delivery.
 
 **Measure progress**
 
-The most important measures of progress are seeing the service being delivered and user satisfaction. The team wall is another useful way of seeing how delivery is progressing - it’s essential everyone understands how the wall can help show progress.
+The most important measures of progress are seeing the service being delivered and user satisfaction. The team wall is another useful way of seeing how delivery is progressing — it’s essential everyone understands how the wall can help show progress.
 
 Find out more about [how to decide what to measure](/service-manual/measurement/other-kpis#decide-what-to-measure).
 
@@ -110,7 +111,7 @@ If your service development team is working well, it will quickly learn and modi
 
 **Unblock and support the team**
 
-Teams need help with things that slow them down and are outside of their control. During beta they’ll need you to be closely involved on a daily basis, so that you can help them with decisions, encouragement and ideas.
+Teams need help with things that slow them down and are outside of their control. During beta they’ll need you to be closely involved on a daily basis, so that you can help them with decisions, encouragement and ideas. You’ll need to anticipate problems and make decisions promptly to avoid slowing down delivery.
 
 **Revisit the size and shape of the team**
 
