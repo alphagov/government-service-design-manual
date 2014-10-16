@@ -65,7 +65,7 @@ Embrace that things change. Make sure:
 
 * decision making is evidence-based and focused on meeting user needs
 
-* the service manager and team are empowered to make informed decisions promptly so that they rarely need to escalate
+* the service manager and team have the authority to make decisions and only escalate when they need to
 
 * you handle change and improve quality through continuous iterative development
 
