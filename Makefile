@@ -23,7 +23,7 @@ test:
 	go test ./tools/linkcheck/
 
 lint:
-	go run tools/lint/lint.go service-manual
+	go run tools/lint/lint.go --exclude service-manual/assets/toolkit service-manual
 
 links:
 	go get -t -v github.com/jabley/markdown

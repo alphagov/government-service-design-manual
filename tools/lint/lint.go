@@ -12,7 +12,7 @@ import (
 	"strings"
 )
 
-func goWalk(location string) chan error {
+func goWalk(location string, exclude []string) chan error {
 	chann := make(chan error) // unbuffered channel of synchronous error messages
 
 	go func() {
@@ -24,6 +24,12 @@ func goWalk(location string) chan error {
 			// Only parse things that look like markdown
 			if !strings.HasSuffix(path, ".md") {
 				return nil
+			}
+
+			for _, prefixDir := range(exclude) {
+				if (strings.HasPrefix(path, prefixDir))	{
+					return nil
+				}
 			}
 
 			file, err := os.Open(path)
@@ -48,9 +54,10 @@ func goWalk(location string) chan error {
 func usage() {
 	fmt.Fprintf(os.Stderr, "Usage: %s\n", os.Args[0])
 	helpstring := `
-go run lint.go path/to/markdown/dir
+go run lint.go [--exclude csv-exclude-paths] path/to/markdown/dir
 
 path/to/markdown/dir - mandatory directory which will be recursively linted
+csv-exclude-paths    - CSV list of paths to exclude
 `
 	fmt.Fprintf(os.Stderr, helpstring)
 	os.Exit(2)
@@ -62,6 +69,10 @@ func main() {
 		runtime.GOMAXPROCS(runtime.NumCPU())
 	}
 
+	var (
+		excludePaths = flag.String("exclude", "", "Optional CSV list of paths to exclude")
+	)
+
 	flag.Usage = usage
 	flag.Parse()
 
@@ -70,7 +81,15 @@ func main() {
 		flag.Usage()
 	}
 
-	chann := goWalk(location)
+	var excludeList []string
+
+	if len(*excludePaths) > 0 {
+		excludeList = strings.Split(*excludePaths, ",")
+	} else {
+ 		excludeList = []string{}
+	}
+
+	chann := goWalk(location, excludeList)
 
 	exitCode := 0
 
