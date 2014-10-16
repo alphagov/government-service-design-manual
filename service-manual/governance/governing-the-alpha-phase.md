@@ -64,7 +64,7 @@ Find out more about [identifying goals during alpha](/service-manual/phases/idea
 
 You should use the measures you agreed to use during discovery. If you decide to measure progress in a different way, you need to make sure this is really necessary and get everyone involved in the decision to change.
 
-The team wall is an important tool -  it’s essential everyone understands how the wall can help show progress.
+The team wall is an important tool -- it’s essential everyone understands how the wall can help show progress.
 
 **Go to show and tells**
 
