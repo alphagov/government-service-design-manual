@@ -39,7 +39,7 @@ GDS has defined 6 principles for governing service delivery. Following them shou
 
 We help build services that are continually improved to meet user needs. This means:
 
-* unblocking anything that slows down delivery where the delivery team aren’t empowered to unblock it themselves
+* unblocking anything that slows down delivery where the delivery team doesn't have the authority to do so
 
 * being available when needed — throughout service delivery
 
