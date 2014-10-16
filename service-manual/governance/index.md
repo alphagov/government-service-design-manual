@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Introduction to governance for service delivery
-subtitle: Governance for digital services — why it’s important and how to get it right
+subtitle: Governance for digital services -- why it’s important and how to get it right
 category: governance
 type: category-index
 audience:
@@ -20,7 +20,7 @@ breadcrumbs:
 
 ###What governance is and why we need it
 
-Governance enables service delivery by creating the right conditions to ensure that delivery teams can do the right things for users — in the right way and at the right time. This means:
+Governance enables service delivery by creating the right conditions to ensure that delivery teams can do the right things for users -- in the right way and at the right time. This means:
 
 * making sure we’re doing things that meet user needs and achieve organisational goals
 

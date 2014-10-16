@@ -32,7 +32,7 @@ You need to get investment approval within your department and spend approval fr
 
 If your service is in response to a new policy, make sure you consider the digital service during the policy impact assessment. 
 
-You need to set up proportionate governance for discovery — you’ll need to consider:
+You need to set up proportionate governance for discovery -- you’ll need to consider:
 
 * delivery and assurance
 
@@ -62,7 +62,7 @@ Goals and measures are likely to be incomplete and there may be little evidence 
 
 **Go to show and tells**
 
-‘Seeing the thing’ at show and tells is an important governance activity — this is useful because:
+‘Seeing the thing’ at show and tells is an important governance activity -- this is useful because:
 
 * the team can demonstrate progress towards meeting discovery goals
 
@@ -76,7 +76,7 @@ Even early in the life of a service, there’s a lot that the team can show to d
 
 In discovery you’ll spend some time exploring and understanding what benefits the service could bring to users and government. You’ll do this through lots of user research and a close analysis of policies, laws and business needs. 
 
-If you don’t identify benefits from the start, the chances of them being realised are reduced. Different delivery options may offer different benefits — so identify the options in discovery and explore further during alpha.
+If you don’t identify benefits from the start, the chances of them being realised are reduced. Different delivery options may offer different benefits -- so identify the options in discovery and explore further during alpha.
 
 ##Funding and approvals
 
@@ -126,7 +126,7 @@ Involve procurement and HR during discovery to ensure there is no lag between di
 
 **Make a decision to proceed or not**
 
-Discovery has 4 possible outcomes — you can decide to:
+Discovery has 4 possible outcomes -- you can decide to:
 
 * stop
 

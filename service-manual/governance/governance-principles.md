@@ -71,7 +71,7 @@ Embrace that things change. Make sure:
 
 * people who govern keep up with the pace of delivery by having short, frequent meetings
 
-* high impact, high probability risks are managed when needed, and our controls (e.g. on spending) are based on the balance between costs and benefits
+* high impact, high probability risks are managed when needed, and our controls (eg on spending) are based on the balance between costs and benefits
 
 **A bit more detail**
 
