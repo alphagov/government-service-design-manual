@@ -52,7 +52,7 @@ To go to beta you’ll need approval for beta and live. This means:
 
 * any other approvals specific to your service eg headcount or salary/grade changes
 
-You **only** need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) if any of following apply:
+You **only** need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)) if any of following apply:
 
 * your anticipated total spend on the entire programme (including non-digital aspects) is higher than your organisation’s delegated expenditure limit (DEL)
 
