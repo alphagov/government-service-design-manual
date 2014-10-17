@@ -83,7 +83,7 @@ Only add more people when you are confident that they are a good cultural fit an
 
 [Scaling a service team](/service-manual/governance/scaling-a-service-team)
 
-[Governing a scaled service](/service-manual/governance/governing-a-scaled-service)
+[Governing a scaled service](/service-manual/governance/governing-a-service-after-scaling-up)
 
 <hr>
 

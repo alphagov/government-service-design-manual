@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
-title: Governing a scaled service
-subtitle: How to keep governance simple and effective
+title: Governing a service after scaling up
+subtitle: How to keep governance simple and effective when you've scaled your team
 category: governance
 type: guide
 audience:

@@ -57,7 +57,7 @@ Read about [GDS’ experience in scaling from a single team of 12 people to 14 t
 
 [When to scale up](/service-manual/governance/when-to-scale-up)
 
-[Governing a scaled service](/service-manual/governance/governing-a-scaled-service)
+[Governing a scaled service](/service-manual/governance/governing-a-service-after-scaling-up)
 
 <hr>
 
