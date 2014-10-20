@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Assisted digital action plan
-subtitle: How to develop assisted digital support
+subtitle: Developing assisted digital support that meets the Service Standard
 category: assisted-digital
 type: guide
 audience:
@@ -20,140 +20,195 @@ breadcrumbs:
     title: Assisted digital
     url: /service-manual/assisted-digital
 ---
+This guidance aims to help service managers develop good assisted digital support. It will also help you to prepare for the service assessment as it lists questions and prompts that can be raised in assessments.
+This guidance is given in tandem with the definitions and parameters laid out in [Assisted digital - information for service managers](/service-manual/assisted-digital).
 
-All new digital services must demonstrate appropriate [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research), and show that suitable support is in place to meet their needs, to meet the [Digital by Default Service Standard](/service-manual/digital-by-default).
+##During service design phases
+There are [4 service design phases](/service-manual/phases): discovery, alpha, beta and live. 
+An assessment will take place: 
+* at the end of alpha
+* before testing your service in a live environment (sometimes called public beta)
+* before going fully live on GOV.UK (or an alternative domain for departments who are exempt from GOV.UK)
+We’ve put together [this checklist](/service-manual/assets/documents/assisted-digital-information-template.pdf) to help you keep track of information you’ll need as you develop your assisted digital support.
 
-The information in this document will help you to:
+##Discovery: starting to understand user needs
 
-* meet the Service Standard at each development phase
-* understand your assisted digital user volumes and needs
-* develop assisted digital support that meets user needs and provides good value for money
+During this phase you must develop a high-level understanding of assisted digital user needs, user numbers and what assisted digital support for your service might look like. You should develop a plan to answer these questions:
 
-You may find it useful to complete [this form](/service-manual/assets/documents/assisted-digital-information-template.pdf) (PDF, 106KB) as you develop your assisted digital support in line with the Service Standard.
+* what are your early estimates of how many of your users will require assisted digital support? 
+* what are the demographic characteristics of your assisted digital users?
+* what might the assisted digital user journeys and personas look like for your service?
+* what is your plan for developing your understanding of assisted digital user needs and support requirements during the alpha phase?
 
-<figure class="media-player-wrapper video">
-  <a href="https://www.youtube.com/watch?feature=player_embedded&v=hJUL-nz1crk">Watch the team describe how assisted digital is part of a service</a>
-</figure>
+For more information and tools on how to conduct research and testing with your assisted digital users, see GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research). 
 
-## Discovery: understanding your assisted digital users and their needs
+##Providing evidence that your service doesn’t need assisted digital support
+Some services may not have to provide assisted digital support, as explained in the section on [assisted digital information for service managers](/service-manual/assisted-digital/assisted-digital-user-research). You’ll need to carry out research and gain evidence of this to explain it in the alpha review. 
 
-The discovery phase will give you a high-level understanding of assisted digital user needs and what your assisted digital support will look like. GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research) will support you in developing your service throughout all stages.
+##Alpha: designing assisted digital support
 
-Do some work to understand the demographic makeup (eg gender, age, disability status, region) of who needs your assisted digital support. [The Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research) provides a cross-population view of who is offline in the UK. You should also look at current users of offline channels for your department's services.
+In alpha, your objective is to learn the needs of your assisted digital users and then design assisted digital support that meets those needs. You then test this model during the beta. 
 
-Once you have an initial understanding of who your assisted digital users are, start to understand their needs. Work with people already supporting your users to complete digital transactions. They might be staff in your department, organisations who help people develop digital skills, or intermediaries such as charities, lawyers, libraries, Citizens Advice Bureau, JobCentre Plus, or other commercial agents.
+You'll need to show evidence of meeting your key performance indicators (KPIs) before going live, so plan on how to measure your service. 
 
-GDS regularly meet a panel of user experts and have published information on work carried out with these groups on the [GDS blog](https://gds.blog.gov.uk/category/assisted-digital/).
+During the alpha stage, you should carry out research to gain understanding of your assisted digital users’ current abilities, confidence and barriers to completing your service independently. For more information and tools on how to conduct research and testing with your assisted digital users, see GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research). 
 
-Existing assisted digital support may be informal and uncoordinated. Think about how you will make sure there’s formal, funded and sustainable assisted digital support for all users who need it. This support should cover all relevant channels, such as web chat, telephone, face by face (on the high street or in the user’s location).
 
-You should start to develop [user stories](/service-manual/agile/writing-user-stories) and personas based on assisted digital user needs. These will help you visualise specific needs and user journeys.
+##The alpha review (assessment) 
+This review takes place before the service can move to beta, and may cover the following questions and prompts: 
+**1. What user research have you conducted with assisted digital users and what have you learnt that will inform the design of your assisted digital support?** 
 
-By the end of the discovery phase, you should have developed a plan to answer these questions:
+As the service manager, you must be able to:
+* explain what types of research, when, with how many people, including recruitment specification
+* explain how the assisted digital support might be tailored according to research carried out so far
+* explain why, if relevant, your service does not have to provide assisted digital in line with GDS policy, and what alternative will be in place for any assisted digital users
 
-1. How many of your users do you estimate will require assisted digital support and what is the proportion of total users?
-1. What are the demographic characteristics of your assisted digital users?
-1. What are your existing support channels for assisted digital users and how are you likely to provide support in future? This should be in line with GDS assisted digital guidance and the [Government Approach to Assisted Digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital).
-1. What do initial assisted digital user journeys and personas look like for your service?
-1. What is your plan for developing your understanding of assisted digital user needs and provision during the alpha phase?
+**2. What are your plans to test, measure and iterate your assisted digital support during beta?** 
 
-Your understanding of the number of users who may need support and their specific needs will be at an early stage and may have some gaps. As you design your service in alpha, you’ll be able to fill these gaps and iterate your initial answers.
+You must be able to explain how you will test, measure and iterate your assisted digital support during beta. Your testing must be with assisted digital users going through the end-to-end user journey. This includes identity assurance.
 
-## Alpha: designing assisted digital provision
+**3. Will your assisted digital support be sustainably funded and free to the user?** 
 
-The objective of the alpha phase is to design a support model with which to test the appropriateness of your support and your understanding of user needs.
+You must be able to explain how you plan to ensure assisted digital support is sustainably funded (including support not delivered by government) and free to the user.
 
-At this point, you should formalise your thinking on assisted digital and create an assisted digital plan. This will state how you will provide assisted digital to the standards set out in the [GDS assisted digital guidance](/service-manual/assisted-digital).
-The guidance includes key performance indicators (KPIs) for your assisted digital support, so you will need to include ways to measure your service.
 
-During the alpha stage, you should understand your assisted digital users’ current ability, confidence and barriers to completing your service independently. You need to find out if they lack:
+##Assisted digital support during identity assurance
+During alpha, you need to plan on how you’ll make sure that assisted digital support is in place for the entire user journey. This includes times when the user has to visit a third party site for identity assurance, such as [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify). 
 
-* confidence with using computers and the internet
-* experience
-* access to an online device
-* trust in sharing personal information online
-* full physical or cognitive ability
+Think about how this could affect or overlap with other central government transactions during their identity assurance. For example, talk to service managers of [exemplar services] in your department and other service managers in the service manager community to discuss what they are doing in this area.
 
-You’ll need to continue [developing user personas and user journeys](/service-manual/assisted-digital/assisted-digital-user-research) based on assisted digital user needs. You should involve:
+##Assisted digital support must be sustainably provided
+You must make sure that sustainable assisted digital support is in place for all users who need it and that no one is excluded from using the service on the basis of cost. 
 
-* your existing users who’ll need assisted digital support in the future
-* people in your organisation who work with assisted digital users
-* organisations who support people offline to access services
-* organisations who are already providing formal and informal support to your users
+You need to make sure that assisted digital support is sustainably funded, including support provided by friends, family, and support not funded by the department, eg 
+* a different government department
+* a non-government funding body
+* charitable donations
+* the citizen
 
-You’ll need to put suitable plans in place to support your assisted digital users if your service requires [GOV.UK Verify](/service-manual/identity-assurance).
+##Beta: testing and measuring your service 
+In beta, you need to thoroughly test your end-to-end assisted digital support. This will help you to gain accurate metrics and measurements. 
+The beta phase has 2 distinct stages: 
+* beta while testing in a closed environment to a limited user group
+* beta where the service is on the GOV.UK domain (this is sometimes called public beta)
+When your digital service is in public beta, you must test your support on the entire scope of your service’s assisted digital users. 
+Learn more about [how to conduct research and testing with your assisted digital users](/service-manual/assisted-digital/assisted-digital-user-research). 
 
-You should also consider any impacts on or overlaps with other central government transactions, to make sure that the user journey is consistent and joined up across services, where relevant.
+##The beta assessment
+The beta assessment will decide whether a service is ready to move to public beta. 
+To meet the Digital By Default Service Standard requirements to move to beta on the GOV.UK domain, the service manager must be able to talk about and evidence how they have built on their work and evidence from the discovery, alpha and private beta phases. 
+A beta assessment may cover the following questions and prompts: 
 
-Assisted digital support should follow shared models which are currently being developed and tested by [GDS and exemplar services](/service-manual/assisted-digital). By the end of the alpha stage, you’ll need to be able to answer these 7 questions to be allowed to proceed to beta:
+**1. What user research have you conducted with assisted digital users during the beta, and what have you learnt?** 
 
-1. How many of your users do you estimate will require assisted digital support and what is the proportion of total users?
-1. What barriers do your assisted digital users need to overcome (eg skills, access, confidence, motivation) to use the digital service independently?
-1. What is your plan to test your assisted digital support before the digital service moves to GOV.UK? Your tests should be in line with GDS guidance and the [Government Approach to Assisted Digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital). The results should help you develop your assisted digital support so that it’s ready to be fully tested during beta.
-1. What are the user journeys for your service’s assisted digital user personas (including ID Assurance if required)? Include estimated volumes for relevant channels:
-  * web chat
-  * telephone support
-  * face by face support on the high street
-  * face by face support at home (outreach)
+You must be able to explain:
+* the types of research carried out, when and with how many people
+* the recruitment specification, including users of your service at the lowest end of the digital inclusion scale 
+* findings from any tools you used as recommended in the assisted digital guidance in the service manual (eg personas, digital inclusion scale)
+* how you have iterated your support following analysis of research and user feedback
 
-1. What research have you conducted and what feedback have you received on your user journeys from users and/or experts?
-1. How will you fund your assisted digital support so that it’s sustainable, and is the support free to use for the user?
-1. How will you gather user insights and use them to iterate your assisted digital support in beta?
+**2. How many transactions and what costs are you expecting when live for your assisted digital support?** 
 
-## Beta: testing and measuring your service
+You must be able to give details for each relevant channel (eg web chat, telephone, face by face on the high street and face by face as outreach/home visit) and by provider (including non-department), including:
+* costs per minute
+* number of transactions per year
+* sustainable funding
 
-During the beta phase, you will fully test and complete end-to-end assisted digital support so you have accurate metrics and measurements in place.
+**3. How will the assisted digital support you are putting in place meet user needs?**
 
-### Beta: before GOV.UK
+Explain how the following elements of the service’s assisted digital support are designed to meet user needs:
+*  channels and providers
+* user journeys (including identity assurance and needs assessment)
+* consistency with similar government transactions
+* approach to digital inclusion 
 
-You should continue to do user research and sufficiently test your assisted digital support with users in the early stage of beta. You should involve experts and intermediaries in your testing. GDS can support this by introducing you to organisations we work with. You should test the whole of your assisted digital user journey, looking at each point where the user interacts digitally in the transaction and testing the planned support at that point.
+**4. How will you test your assisted digital support and use feedback to iterate your assisted digital support during the beta?**
 
-Before your digital service moves onto GOV.UK, you’ll need to demonstrate:
+You must be able to explain the thinking and decisions behind plans for testing your assisted digital support, including how you will:
+* gather user insights, including recruitment specification
+* use these insights to iterate your assisted digital support 
 
-1. The specific [needs of users](/service-manual/assisted-digital/assisted-digital-user-research) who may require assisted digital support (including accessibility). This must be established by evidence-based research.
-1. Your plan to fully test assisted digital support in beta. This should include:
-  * timelines
-  * details of how assisted digital support will be provided, by channel
-  * forecast volume, during testing and when live -- this should also be split by channel
-  * forecast costs in live, by channel
-  * showing assisted digital support that is joined up and consistent with relevant central government transactions
-  * showing how [digital inclusion](https://www.gov.uk/government/publications/government-digital-strategy-action-15) will be incorporated into your support
-  * evidence that all assisted digital support meets legal requirements, including language requirements, Data Protection Act, accessibility etc
-1. How you’ll gather user insights in beta (in testing and/or pilots) and use them to iterate your assisted digital support for live.
+##Transaction costs by channel
+You need to show an understanding of the cost of providing assisted digital support for your service. You can do this by working out the cost per minute of providing each support channel. This makes it possible to compare costs across channels. 
 
-### Beta: on GOV.UK
+Costs should include and exclude specifics as listed in the page on [measuring cost per transaction](/service-manual/measurement/cost-per-transaction#costs-to-include). You should also exclude free or sub market-value support (eg given by volunteers), as it's not sustainable.
+##Support across government services
+Your research into your users’ needs should also tell you what other government services they are using. Consider how their use of those services might connect with your service. You should then make sure that the user journey is consistent and joined up, where relevant and possible. 
+##Approach to digital inclusion 
+You must give your users training or guidance to help them complete transactions on their own in the future.
 
-When your digital service is in [beta](/service-manual/phases/beta.html#the-objective-of-a-beta) and on GOV.UK, it’s vital that your plans are fully tested on real assisted digital users before your service proceeds to the live stage.
+This may include: 
+* making it easy for assisted digital users to find digital skills training opportunities
+* running assisted digital support in such a way as to build the user’s skills and/or confidence (eg allow the user to see the screen during in-person support or reassure and encourage them to try completing the service themselves)
 
-Testing should cover all channels that are relevant for your assisted digital users and should be in line with [GDS assisted digital guidance](/service-manual/assisted-digital). You should establish ways to get ongoing feedback from users about your assisted digital support and to monitor key performance indicators (KPIs). This will help you to provide evidence that your service will meet user needs, is high quality and provides good value for money.
+For more information on digital inclusion, read the [Government Digital Inclusion Strategy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy). 
 
-Use this information to iterate the assisted digital support and continue to ask for feedback from users, providers and experts. This will make sure the support is suited to user needs throughout the beta and live phases. You should share your findings with GDS and other service managers.
-By the end of the beta stage, you’ll need to be able to answer these questions to proceed to live:
+##Live phase 
+Your assisted digital support meets your users’ needs, but this is not the end of the process. You need to continuously improve your assisted digital support based on [analytics](/service-manual/operations/monitoring), [user feedback](/service-manual/operations/helpdesk), and [user research](/service-manual/assisted-digital/assisted-digital-user-research). 
 
-1. What have you done to test your assisted digital support?
-1. What evidence do you have that your assisted digital support meets users’ needs and provides good value for money? Show that:
-  * volumes and costs for different channels are in line with estimates
-  * users are aware of assisted digital support and can access it easily
-  * your assisted digital support is consistently and clearly branded as a government service
-  * wait times are low for all support channels
-  * a high volume of users successfully complete the transaction
-  * the volume of assisted digital users has decreased
-  * the service is trusted
-  * feedback from users and experts is positive, with good end-to-end user experience
-  * your users have a joined-up and consistent assisted digital support across central government transactions
-  * all assisted digital support meets relevant legal requirements, including language requirements, Data Protection Act, accessibility
-1. What will you do to iterate your assisted digital support in live, based on what you have learnt from your testing?
-1. What is your plan for ongoing evaluation and iteration of assisted digital support? Include how you will measure performance for the following:
-  * user satisfaction
-  * increase in users’ digital skills and/or confidence to use digital services unaided
-  * decrease in the volume of people using assisted digital support
+You’ll repeat the development phases (discovery, alpha, beta and live) for smaller pieces of work, as the service continues to run. You’ll find something that needs improvement, research solutions and make iterations. 
 
-Your digital transformation project must meet the [Service Standard](/service-manual/digital-by-default/index) before it goes live. Your project can go live only after you’ve thoroughly tested your assisted digital support and can prove that it meets user needs and provides good value for money.
 
-## Live: continuous development
+##The live assessment
+This takes place during the beta phase and ensures the service is ready to go fully live on a GOV.UK domain. To meet the requirements for live, you must be able to show how you have built upon each phase - from discovery to alpha to the beta phases. 
 
-This is not the end of the process. The service should now be improved continuously, based on user feedback, KPIs and further user research.
+A live assessment may cover the following questions and prompts: 
 
-You should have plans in place to provide training or guidance for your assisted digital users so that many are able to complete transactions independently in future, through [digital inclusion](https://www.gov.uk/government/publications/government-digital-strategy-action-15). You may also need to [close down services](/service-manual/phases/retirement) if your former offline channels are being replaced.
+**1. How did you test and iterate your assisted digital support in beta, in response to user research and performance measurement?** 
 
-You should be able to show your service’s assisted digital information on your Performance Platform dashboard.
+You must be able to: 
+  * explain how you tested and iterated your assisted digital support during beta, including identity assurance
+  * explain how you measured performance and what the results were, including user satisfaction and confidence that the assisted digital support provider was trustworthy
+  * give examples of positive feedback from users and experts
+
+**2. Can you explain how the assisted digital support you are putting in place meets user needs?**
+
+You must be able to explain how the design of the following elements of each channel of the service’s assisted digital support are meeting user needs:
+* channels and providers
+* user awareness 
+* user journeys (including identity assurance and needs assessment)
+* availability and wait times for support
+* availability of appropriate technology
+* approach to users’ privacy
+* consistency with similar government transactions
+* approach to digital inclusion 
+* ability to forecast and respond to changing demand
+
+**3. How many transactions are you expecting and how much does your assisted digital support cost?** 
+
+You must be able to:
+* show that costs per minute are in line with estimates, per channel
+* give details of expected number of transactions per year, per channel
+**4. How will you measure the performance of your assisted digital support in live, including user satisfaction and a decrease in the number of assisted digital users?** 
+
+You must be able to explain how you will measure the performance of your assisted digital support, including user satisfaction and decrease in the number of assisted digital users.
+
+**5. How will you iterate your assisted digital support in response to user testing and feedback when the service is live?** 
+
+You must be able to explain your plans to iterate your assisted digital support once the service has gone live.
+
+##Visible support
+Your user testing must show that users who need assisted digital support are aware of it and can access it easily. 
+
+You should point users towards a needs assessment to check their eligibility for assisted digital support. This maximises digital take-up by making sure that assisted digital support is only given to users who really need it.
+
+Basic information about assisted digital support should be visible and clear to the user. It should also be shown in places where they already go for support, including through existing communication channels and on the service’s GOV.UK start page. 
+
+Assisted digital support should promote the digital service and not be marketed or promoted. This means that digital take-up will be encouraged. 
+
+
+##Easily accessible support
+You must be able to show, from user research, that your service’s assisted digital support is easy for users to access, at appropriate times and places. 
+
+This could mean having phone line or in person support available in the evening, and that users report acceptable wait times for an appointment or for their call to be answered.
+
+For more information and tools on how to conduct research and testing with your assisted digital users, see GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research). 
+
+##Measuring the performance of support 
+You should be able to measure the performance of your assisted digital support. This should include measuring support provided by third party suppliers, and payment by results where relevant. 
+
+Measurements should include user satisfaction and a decrease in the number of assisted digital users. You should incentivise suppliers to improve both of these measurements, where relevant. 
+
+This enables you to demonstrate on your Performance Platform dashboard that your service’s assisted digital support is working effectively, and to look out for signs of where improvements could be made.
+
+

@@ -23,161 +23,113 @@ breadcrumbs:
 
 ##Researching assisted digital users -- a guide for service managers
 
-Services need to conduct and collate research on their assisted digital users as part of developing their requirements for assisted digital support. Doing this research is the department’s responsibility. 
+To pass point 10 on the Digital by Default Service Standard, you will need to show that you have designed your assisted digital support based on your [users’ needs](/service-manual/user-centred-design/user-needs).
 
-User research will allow services and departments to answer these questions:
+You can gain a detailed understanding of your assisted digital users and their needs by carrying out lots of user research. This also means [learning how to plan and test your assisted digital support](/service-manual/assisted-digital/action-plan) and how to make sure that users know where to go for help.
 
-* who are my assisted digital users
-* what is a good service for my assisted digital users
+##Understanding your assisted digital users and their needs
 
-##Assisted digital users
+An assisted digital user is someone who can’t use a digital government service independently. This includes people who are offline with no digital skills, and people who are online but only have limited digital skills.
 
-An assisted digital user is someone unable to use a digital by default service independently. Assisted digital support will be provided for these users so that they can use digital by default services.
+Every service has different proportions of assisted digital users. During the discovery and alpha stages, you need to: 
+* develop an understanding of how many of your users need assisted digital support
+* work out their demographic makeup 
+* learn what their needs are
 
-Assisted digital users include people who are offline, and people who are online but genuinely can’t complete a digital by default transaction by themselves. 
+###Where to start
 
-18% of UK adults are offline (ie never or rarely use the internet) and GDS’ Digital Landscape Research provides [a demographic breakdown](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research#internet-use-by-demographic) of who is online and who is offline.
+Start by looking at who currently uses the offline channels for your service and then map out where people go for help. This help could range from general enquiries to specific questions on things like eligibility or form filling. It may include help provided by: 
 
-[Go ON UK estimates that 11 million people in the UK aged 15 and over don’t have Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (eg sending an email, performing a simple search).
+* other government departments
+* third parties, such as charities or businesses
+* informal sources
+* family and friends 
 
-Every service will have a different proportion of users who are offline or who are unable to complete a digital transaction independently. Understanding your [users’ needs](/service-manual/user-centred-design/user-needs) is vital for putting in place appropriate assisted digital support.
+Look at which of your users access these sources of help and find out why. You can then use this information to work out how many of these users will need assisted digital support. 
 
-Consider the digital skills of your users. This will help you understand, out of those not using digital channels, which users:
+You should also look at existing management information about your service, such as user data, transcripts and user feedback from your contact centres. Find out whether your department or service has carried out any recent research (qualitative or quantitative) on your users. Look through it to find out if it can provide any insights about who your users are and who faces barriers to going online. 
 
-* won’t ever be able to use the digital service independently and will always need assisted digital support
-* could use the digital service independently, but will need assisted digital support at the beginning to build their confidence in using the service
-* should use the digital service (ie have the digital skills, but currently choose not to use the digital channel) and don’t need assisted digital support
+Add to any existing insight with new, targeted research so you can find out more about your assisted digital users and their needs. 
 
-Remember, [assisted digital](/service-manual/assisted-digital) and digital inclusion are separate, but related.
+###Finding users for your research sessions
 
-##What services need to know about their assisted digital users
+You need to find out if your users lack:
+* confidence with using computers and the internet
+* online experience
+* access to a device (computer, tablet, phone etc)
+* access to the internet
+* trust in sharing personal information online
+* full physical or cognitive ability
 
-All digital by default services need to know:
+To recruit suitable users for your research, you should talk to people and organisations who already help your users, such as:
 
-* the estimated number of assisted digital users for your service
-* the demographic characteristics of your assisted digital users (eg gender, age, disability status (physical and/or cognitive), language, region, other)
-* what channels your assisted digital users currently use (eg face by face, telephone)
-* why they currently use these channels (eg for trust, familiarity, known expertise)
-* which other government services your assisted digital users use
-* where your assisted digital users currently go for support with using your service
-* what parts of your service users find difficult to complete (pain points)
-* what barriers your assisted digital users need to overcome (eg skills, access, confidence, motivation) to be able to use the digital service independently
-* your assisted digital users’ support needs and preferences
-* if your assisted digital users need assurance that they’re using an official assisted digital service
-* the number of your assisted digital users that have accessibility needs for the assisted digital service specifically
-* the details of your users’ accessibility needs
+* staff in your department
+* organisations that help people to develop digital skills
+* intermediaries - eg charities, lawyers, libraries, Citizens Advice or commercial agents
 
-##Accessing information on assisted digital users
+You should also consider employing the services of user research recruitment agencies to recruit to a specific but relevant [research brief](/service-manual/user-centred-design/user-research/user-research-briefs). You may need to explain your recruitment specification at your beta assessment against the Service Standard.
 
-Information on your assisted digital users should come from:
+###User research methods
 
-* ongoing or recent research on the offline users of your service
-* looking at existing data and insight on your offline users
+Speak with staff and volunteers, as well as end-users of your service, and make sure researched users have either no or low digital skills. It’s also important to do your research in places where vulnerable users will feel more comfortable. This might be a library, community centre, religious centre and places where support groups meet.
 
-Combining new research with analysis of existing research will let you build up the most accurate picture possible of your assisted digital users.
+You, or any agency you use, must use offline methods for your research, as online methods aren’t suitable for users with no or low digital skills. Additionally, [ethnographic research](/service-manual/user-centred-design/user-research/ethnographic-research) is more suitable for hard to reach and vulnerable users than lab-based research.  
 
-###Conducting new research
+Research methods that work well with assisted digital users include:
+* one-to-one interviews (find out more on [focus groups and interviews](/service-manual/user-centred-design/user-research/focus-groups-mini-groups-interviews))
+* ethnographic research 
+* ‘a day in a life’ techniques
+* diary studies
+* user journey mapping
+* surveys (conducted through offline channels your users already use, like a contact centre or support group)
 
-Identify opportunities to engage with your users by:
+Learn more about [user research techniques and research methods](/service-manual/user-centred-design/user-research/index). 
 
-* using the existing channels that currently support your services, eg voluntary and community sector organisations, in-house suppliers, contact centres
-* using locations where vulnerable users may feel more comfortable about answering questions, eg libraries, community centres, religious centres, and places where support groups meet
-* speaking with staff and volunteers as well as the end-users of your services
-* considering employing the services of user research recruitment agencies to recruit to a specific but relevant research brief
+You can also find more information on [user research surveys](/service-manual/user-centred-design/user-research/user-research-surveys), including [survey design](/service-manual/user-centred-design/user-research/survey-design) and [survey sampling methodologies](/service-manual/user-centred-design/user-research/sampling-methodologies).
 
-Our research so far has indicated that service providers and assisted digital users don’t talk about ‘government services’ as such, and aren’t always aware of which central government departments administer them. 
+##Creating an assisted digital plan
 
-We’ve found it’s more relevant to ask users about services more colloquially, for example:
+By the end of the alpha stage, you’ll need to have a plan ready for testing your assisted digital support before your service moves to GOV.UK. 
 
-* ‘applying/ renewing a passport at the Post Office’
-* ‘applying for Carer’s Allowance’
+As you gather more data and insight about your assisted digital users, you also need to build up an understanding of their levels of digital skills by mapping them onto the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals). 
 
-###Using existing research
+You must also use the digital inclusion scale to understand how difficult your digital service is to complete during each stage of development. GDS has published an initial analysis of how complex the [exemplar services](https://www.gov.uk/transformation) are. We considered criteria like how long the service takes to complete on average and how easy the service is to use on a mobile device. The analyses [are published here](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are) - you should refer to them to help you analyse the complexity of your own service.
 
-Read through your existing research to pull out the answers to the questions above, and to identify which questions existing research is unable to answer. 
+###Creating user personas
 
-Look for existing external research relevant to your service to support your research. There’s a lot of useful research resources on offline users, for example:
+Using your data and insight, create user personas that represent your assisted digital users. User personas allow you to look at the journey of each assisted digital user through your digital service. This makes it easier to work out which parts of your digital service these users find difficult or impossible to complete and why. 
 
-* [Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research) (GDS, 2012)
-* [Oxford Institute Survey](http://oxis.oii.ox.ac.uk/sites/oxis.oii.ox.ac.uk/files/content/files/publications/OxIS_2013.pdf) (PDF, 2013)
-* [Office of National Statistics](http://www.ons.gov.uk/ons/rel/rdit2/internet-access-quarterly-update/q3-2013/index.html) (2013)
-* [Ofcom Disability Consumer Report](http://stakeholders.ofcom.org.uk/market-data-research/other/telecoms-research/tce-disabled-13/) (2013)
-* Third Sector research, eg [Age UK](http://www.ageuk.org.uk/london/news--campaigns/wealth-of-the-web/) (2014), [Citizens Advice](http://www.citizensadvice.org.uk/index/policy/policy_publications.htm)
-* [BBC Media Literacy: Understanding Digital Capabilities](http://downloads.bbc.co.uk/learning/learningoverview/bbcmedialiteracy_26072012.pdf) (PDF, 2012)
+We’ve created 8 user personas that represent people who need help to use government services online. The personas are based on desk and field research and represent real-life stories. The users were vulnerable people who needed urgent help using a variety of government services:
+[Cathy](/service-manual/assets/documents/Cathy.odt)
+[David](service-manual/assets/documents/David.odt)
+[Greg](/service-manual/assets/documents/Greg.odt)
+[Gwen](/service-manual/assets/documents/Gwen.odt)
+[Mohammed](/service-manual/assets/documents/Mohammed.odt)
+[Sam](/service-manual/assets/documents/Sam.odt)
+[Sarah](/service-manual/assets/documents/Sarah.odt)
+[Teresa](/service-manual/assets/documents/Teresa.odt)
+Your service-specific personas, along with these examples, will help you to [write good user stories](/service-manual/agile/writing-user-stories) on what your users need and why. 
+This means you’ll understand any specific user needs, including which channels will work best for them. You must use these needs to create your plan for assisted digital support.
+##Testing your assisted digital support
+You must test your plan with real assisted digital users when your service is in the early stage of beta. You must then continue to test your assisted digital support and gather user insights once your service has moved to GOV.UK.
 
-##Relating user insight to assisted digital support design
+You need to: 
+* test all channels that are relevant for your assisted digital users
+* set up ways to get ongoing feedback from users about your assisted digital support
+* set and monitor key performance indicators (KPIs)
 
-It will be important to understand the [Digital Inclusion Scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals) and the definitions, when they are published this month. From then you will be able to:
+This will help you to provide evidence that your service will meet user needs, is high quality and provides good value for money. 
 
-* share the Digital Inclusion Scale with colleagues working on user research and digital services in your department
-* use the scale to understand the complexity of your service and your users’ levels of digital skill (see below)
-* provide feedback on the usefulness of the scale to the GDS Assisted Digital team
+Use this feedback to iterate the assisted digital support and continue to ask for feedback from users, providers and experts. This will make sure the support meets user needs throughout the beta and live phases. You must share your findings with GDS and other service managers. 
 
-###Understand the complexity of your service
+##Making sure your users know where to find help
 
-It’s important to understand:
+For your service to go live, you must have evidence showing that the users who need help are aware of the support and can easily find it. 
+It should be clear and easy to see that there is support available, but not be marketed or promoted - this helps to encourage [digital take-up](/service-manual/measurement/digital-takeup). In the first instance, you need to point users towards a needs assessment to check their eligibility for assisted digital support.
 
-* what documentation the user needs to complete the service
-* if the user needs to have an email address to use it
-* the difficulty level of the questions the user needs to answer to complete the service
-* the level of digital skill (and other requisite skills - eg literacy or being able to understand technical language/policy) needed to complete your digital transaction
+Information about the availability of support (eg phone line numbers and opening hours, or office locations and opening hours) must encourage people to use the online service. You should provide this information in places where assisted digital users already go for help and advice, through existing communication channels with users, and on the service’s start page on GOV.UK.
 
-You should build on our initial analysis with your own more specific and detailed knowledge, expertise and research on your service.
+The language you use must be simple and clear. With real users, test
+the wording and design of your physical messaging (eg posters, banners and leaflets) and the content on GOV.UK. Use their feedback to improve and iterate on your messaging.
 
-###Understand your users’ levels of digital skills
-
-Understand your users’ levels of digital skills by using your data and insight about them to map them onto the Digital Inclusion Scale, when available. 
-
-Your user data and insight should also be used to create personas which represent the different assisted digital user types for your service. The assisted digital team has developed personas that apply across government services, which you can also use to better understand your users (contact the [assisted digital team](mailto:adteam@digital.cabinet-office.gov.uk) for more information)
-
-You can then assess how much support your assisted digital users will need to fill the gap between their skills and the skills needed to complete your specific service.
-
-###Develop an understanding of which channels for assisted digital support your users may need
-
-Use the demographic data and insight you collect on your users to develop an understanding of which channels for assisted digital support your users may need and why.
-
-You should then map the journeys for each of your user personas through your proposed assisted digital channels. This will allow you to check that your proposed provision will meet your users' needs.
-
-Low levels of literacy (verbal and written) may impact on the ability to communicate effectively. Face by face support can help people overcome these barriers by providing a safe and comfortable environment in which they can express themselves.
-
-##Researching users who are offline or have low digital skills across government in the long term
-
-It’s sensible for research on users who are offline or have low digital skills to be coordinated across government and to be aligned between assisted digital and digital inclusion in the long term.
-
-GDS is working to develop a long-term proposal for ongoing research on users who are offline or have low digital skills. We will also develop more detailed guidance for departments, which will be made available on the [Government Service Design Manual](/service-manual), on:
-
-* why departments should conduct ongoing research on users who are offline or have low digital skills
-* what you should be finding out through this research
-* how to conduct this research (based on the recommendations of our long-term research proposal)
-* how you can use it, to improve your assisted digital and digital services
-
-##Designing assisted digital support to meet user needs
-
-Personas can help you design appropriate assisted digital by focusing on the needs of users. We have developed a set of 8 personas that reflect the citizens who need help to use government’s digital by default services. 
-
-One persona (Teresa) represents the needs of assisted digital support providers and the challenges they also face in the light of digital by default. Collectively they all highlight the range of both complex and hidden assisted digital needs. 
-
-The personas were developed based on assisted digital desk and field research and represent real-life stories. The majority of people in scope of the research were vulnerable people who need urgent help with vital government services, as they lack either the means, ability or confidence to do so independently.
-
-* [Cathy](/service-manual/assets/documents/Cathy.odt)
-* [David](/service-manual/assets/documents/David.odt)
-* [Greg](/service-manual/assets/documents/Greg.odt)
-* [Gwen](/service-manual/assets/documents/Gwen.odt)
-* [Mohammed](/service-manual/assets/documents/Mohammed.odt)
-* [Sam](/service-manual/assets/documents/Sam.odt)
-* [Sarah](/service-manual/assets/documents/Sarah.odt)
-* [Teresa](/service-manual/assets/documents/Teresa.odt)
-
-You can use personas that you develop to represent the needs of your service’s users. The personas can help you focus on the journey of assisted digital users through their service to identify where support in completing digital by default transactions is needed.
-
-##Understand the complexity of your service
-
-It’s important to understand:
-
-* what documentation the user needs to complete the service
-* if the user needs to have an email address to use it
-* the difficulty level of the questions the user needs to answer to complete the service
-* the level of digital skill (and other requisite skills - eg literacy or being able to understand technical language/policy) needed to complete your digital transaction
-
-The 25 exemplar services have been mapped against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are) to help show where these services may be difficult for some people to use. You should build on our initial analysis with your own more specific and detailed knowledge, expertise and research on your service.
-
+Read the assisted digital team’s blog about [how the Department for Work and Pensions tested assisted digital support and messaging](https://assisteddigital.blog.gov.uk/2014/09/04/testing-assisted-digital-support-for-carers-allowance/) for the [Carer’s Allowance](https://www.gov.uk/carers-allowance/overview) exemplar service.
