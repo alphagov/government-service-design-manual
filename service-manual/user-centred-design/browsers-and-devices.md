@@ -35,7 +35,7 @@ Browsers not listed may still work well, and it should be noted that this is not
 
 Services should ensure there's an obvious way for users to report problems they may find, and additional testing and adjustments should be made upon receiving such a report.
 
-Note: Whilst Internet Explorer 6 is still in use in some government departments, its lack of TLS 1.0 by default means that securing connections for most IE6 users is problematic. IE6 uses SSLv3 by default. See [Poodle Attack](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3566) for the problems with SSLv3. The amount of users with TLS 1.0 enabled in IE6 means that it is an insignificant proportion of overall traffic, and the burden of support outways the benefits.
+Note: Whilst Internet Explorer 6 is still in use in some government departments, its lack of TLS 1.0 by default means that securing connections for most IE6 users is problematic. Internet Explorer 6 uses SSLv3 by default. See [Poodle Attack](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3566) for the problems with SSLv3. The amount of users with TLS 1.0 enabled in Internet Explorer 6 means that it is an insignificant proportion of overall traffic, and the burden of support outways the benefits.
 
 Two distinct levels of support are given and denoted next to each browser. Where 'latest version' is listed, it means the latest stable version plus one version back, as these browsers regularly update without intervention from the user.
 
