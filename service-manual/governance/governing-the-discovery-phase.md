@@ -18,21 +18,21 @@ breadcrumbs:
     url: /service-manual/governance
 ---
 
-Discovery should include a set-up period where you need to:
+Discovery is more successful when you begin by:
+ 
+* describing the initial vision for the service
 
-* describe the initial vision for the service
+* assigning a service manager
 
-* assign a service manager
+* assembling a discovery team
 
-* assemble a discovery team
-
-* agree the outcomes you want from discovery
+* agreeing the outcomes you want from discovery
 
 You need to get investment approval within your department and spend approval from Cabinet Office if you’re going to spend money on a supplier. 
 
 If your service is in response to a new policy, make sure you consider the digital service during the policy impact assessment. 
 
-You need to set up proportionate governance for discovery - you’ll need to consider:
+You need to set up proportionate governance for discovery — you’ll need to consider:
 
 * delivery and assurance
 
@@ -76,7 +76,7 @@ Even early in the life of a service, there’s a lot that the team can show to d
 
 In discovery you’ll spend some time exploring and understanding what benefits the service could bring to users and government. You’ll do this through lots of user research and a close analysis of policies, laws and business needs. 
 
-If you don’t identify benefits from the start, the chances of them being realised are reduced. Different delivery options may offer different benefits - so identify the options in discovery and explore further during alpha.
+If you don’t identify benefits from the start, the chances of them being realised are reduced. Different delivery options may offer different benefits — so identify the options in discovery and explore further during alpha.
 
 ##Funding and approvals
 
