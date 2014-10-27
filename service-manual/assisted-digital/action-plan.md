@@ -38,15 +38,15 @@ We’ve put together [this checklist](/service-manual/assets/documents/assisted-
 
 During this phase you must develop a high-level understanding of assisted digital user needs, user numbers and what assisted digital support for your service might look like. You should develop a plan to answer these questions:
 
-* what are your early estimates of how many of your users will require assisted digital support? 
+* what are your early estimates of how many of your users will require assisted digital support?
 * what are the demographic characteristics of your assisted digital users?
 * what might the assisted digital user journeys and personas look like for your service?
 * what is your plan for developing your understanding of assisted digital user needs and support requirements during the alpha phase?
 
-For more information and tools on how to conduct research and testing with your assisted digital users, see GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research). 
+For more information and tools on how to conduct research and testing with your assisted digital users, see GDS’s guidance on [assisted digital user research](/service-manual/assisted-digital/assisted-digital-user-research).
 
 ##Providing evidence that your service doesn’t need assisted digital support
-Some services may not have to provide assisted digital support, as explained in the section on [assisted digital information for service managers](/service-manual/assisted-digital/assisted-digital-user-research). You’ll need to carry out research and gain evidence of this to explain it in the alpha review.
+Some services may not have to provide assisted digital support, as explained in the section on [assisted digital information for service managers](/service-manual/assisted-digital). You’ll need to carry out research and gain evidence of this to explain it in the alpha review.
 
 ##Alpha: designing assisted digital support
 
@@ -111,16 +111,16 @@ The beta assessment will decide whether a service is ready to move to public bet
 To meet the Digital By Default Service Standard requirements to move to beta on the GOV.UK domain, the service manager must be able to talk about and evidence how they have built on their work and evidence from the discovery, alpha and private beta phases.
 A beta assessment may cover the following questions and prompts:
 
-**1. What user research have you conducted with assisted digital users during the beta, and what have you learnt?** 
+**1. What user research have you conducted with assisted digital users during the beta, and what have you learnt?**
 
 You must be able to explain:
 
 * the types of research carried out, when and with how many people
-* the recruitment specification, including users of your service at the lowest end of the digital inclusion scale 
+* the recruitment specification, including users of your service at the lowest end of the digital inclusion scale
 * findings from any tools you used as recommended in the assisted digital guidance in the service manual (eg personas, digital inclusion scale)
 * how you have iterated your support following analysis of research and user feedback
 
-**2. How many transactions and what costs are you expecting when live for your assisted digital support?** 
+**2. How many transactions and what costs are you expecting when live for your assisted digital support?**
 
 You must be able to give details for each relevant channel (eg web chat, telephone, face by face on the high street and face by face as outreach/home visit) and by provider (including non-department), including:
 
@@ -145,7 +145,7 @@ You must be able to explain the thinking and decisions behind plans for testing 
 * use these insights to iterate your assisted digital support
 
 ##Transaction costs by channel
-You need to show an understanding of the cost of providing assisted digital support for your service. You can do this by working out the cost per minute of providing each support channel. This makes it possible to compare costs across channels. 
+You need to show an understanding of the cost of providing assisted digital support for your service. You can do this by working out the cost per minute of providing each support channel. This makes it possible to compare costs across channels.
 
 Costs should include and exclude specifics as listed in the page on [measuring cost per transaction](/service-manual/measurement/cost-per-transaction#costs-to-include). You should also exclude free or sub market-value support (eg given by volunteers), as it's not sustainable.
 
