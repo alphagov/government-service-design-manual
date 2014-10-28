@@ -70,8 +70,9 @@ Your service doesn’t need to provide assisted digital support if:
 * the service’s users are third party intermediaries who benefit commercially for engaging with the service on behalf of the end user
 * your users are public sector employees who use your service as part of their work
 
-##Responsibilities and liabilities 
-As a service manager, you will need to make sure that: 
+##Responsibilities and liabilities
+As a service manager, you will need to make sure that:
+
 * assisted digital support is delivered within legal and policy constraints, such as the Equality Act 2010
 * assisted digital users are not charged more to use your service than those who do not need any help
 * your assisted digital support provides free translation and accessibility facilities, to meet relevant legal requirements
@@ -90,6 +91,7 @@ Assisted digital support providers can choose not to provide support if it can�
 
 ###Costs for assisted digital
 Sometimes an assisted digital user may need to pay for the costs of accessing assisted digital support like:
+
 * the cost of travelling to an office
 * calling a contact centre
 * paying for printing, scanning and taking photos
