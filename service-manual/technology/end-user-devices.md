@@ -20,7 +20,7 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=7rnsqrraNb8">Watch a short film describing the new approach to end user devices.</a></figure>
 
-The government agreed in the [ICT Strategy](https://www.gov.uk/government/publications/uk-government-ict-strategy-resources) to developing and implementing an [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy). This strategy has aimed to address historic issues, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences. 
+This guidance aims to address historic issues with poor user experiences of device technology, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences.
 
 These issues have been compounded by:
 
