@@ -39,7 +39,7 @@ GDS has defined 6 principles for governing service delivery. Following them shou
 
 We help build services that are continually improved to meet user needs. This means:
 
-* unblocking anything that slows down delivery
+* unblocking anything that slows down delivery where the delivery team doesn't have the authority to do so
 
 * being available when needed — throughout service delivery
 
@@ -55,27 +55,23 @@ We gauge success through delivery of services that meet user needs. Governing we
 
 **A bit more detail**
 
-Scrutinising services in development at regular ‘show and tell’ meetings provides the best evidence of progress. This evidence, alongside data that delivery teams are already using to manage delivery, should provide the information needed to govern service delivery.
-
-If ‘show and tell’ meetings aren’t happening, find out why. If they are, you should go along if you have governance responsibility for that service.
+Transition between the [5 phases of service delivery](/service-manual/phases) should be seamless, so people who govern must anticipate problems and make timely decisions to allow this.
 
 Governance is also about creating an environment where people can thrive. We have a flat organisation structure so everyone can contribute to the success of the team.
-
-<img src="/service-manual/assets/images/governance/delivery-dashboard.jpg" alt="Live electronic dashboards display information throughout the organisation and beyond"/>
-
 
 ##2. Decisions when they’re needed, at the right level
 
 Embrace that things change. Make sure:
 
 * decision making is evidence-based and focused on meeting user needs
-the service manager and team are empowered to make decisions and only escalate when they need to
+
+* the service manager and team have the authority to make decisions and only escalate when they need to
 
 * you handle change and improve quality through continuous iterative development
 
 * people who govern keep up with the pace of delivery by having short, frequent meetings
 
-* high impact, high probability risks are managed when needed, and our controls (e.g. on spending) are based on the balance between costs and benefits
+* high impact, high probability risks are managed when needed, and our controls (eg on spending) are based on the balance between costs and benefits
 
 **A bit more detail**
 
@@ -148,7 +144,7 @@ We regularly plan together. We visit teams to find out and openly and honestly d
 
 The best way to gauge progress, check on the mood of the delivery team and assure a service is by meeting them face-to-face in their workspace. There are several ways to do this without adding overhead. These include:
 
-* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) -- these last 10 to 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
+* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) — these last 10 to 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
 
 * [regular planning sessions](/service-manual/agile/features-of-agile#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
 
@@ -156,11 +152,14 @@ The best way to gauge progress, check on the mood of the delivery team and assur
 
 * [regular retrospectives](/service-manual/agile/running-retrospectives), where the team can reflect on what went well, what didn’t and anything they should change
 
-People who govern should regularly attend these meetings, if only to observe.
+People who govern should regularly take part in these meetings, if only to observe. Going to see for yourself, and looking at data that delivery teams are already using to manage delivery, should give you the information you need to govern.
+
+If these meetings aren’t happening, find out why. If they are, you should go along if you have governance responsibility for that service.
 
 Delivery managers should collect data during these meetings to use for simple, highly visual reports. These should be displayed where people can easily see them, such as the team walls or the service’s wiki/collaboration tool. The reports will help frame discussions at future meetings.
 
 Walls are an excellent way to track work and show important things, like what the team is doing and how they’re progressing. It helps planning and communication, within the team and to others.
+
 Delivery teams should make sure that their walls are up to date and being used. Visiting a team’s wall gives a current view of its work without anyone needing to produce lengthy reports that take the focus away from delivery. You should take the time to visit them regularly.
 
 <img src="/service-manual/assets/images/governance/team-around-wall.jpg" alt="Daily stand-up"/>
@@ -178,6 +177,7 @@ We keep user needs at the forefront of everything we do and focus on delivering 
 **A bit more detail**
 
 ‘Delivering value’ means introducing a quality service that meets user needs and doing that in an incremental manner. Service delivery — through discovery, alpha, beta and to live — is the most effective and efficient way of understanding user needs and getting a service into users’ hands.
+
 Good governance allows us to do this as quickly as possible by focussing delivery teams on developing things that meet their needs. Governance decisions, like service delivery decisions, should always be evidence‑driven.
 
 The service delivery team should develop a charter that describes:
@@ -186,13 +186,13 @@ The service delivery team should develop a charter that describes:
 
 * quantifiable goals
 
-* key performance indicators (KPIs) that show how they will meet user needs
+* key performance indicators (KPIs) that show progress against meeting user needs and organisational goals
 
 Governance teams collaborate on the development of this charter and help to build consensus and understanding of it across the organisation and in third parties.
 
 Service development is a learning process — and we add value when we learn. Everyone should be encouraged to create better ways to meet user needs. Even if something doesn’t quite work in user research, the lessons learned will guide further service development. This avoids creating an expensive dead-end that doesn’t meet user needs.
 
-<img src="/service-manual-assets/images/governance/vision-on-wall.jpg" alt="Make service vision and goals prominent in team work areas to increase focus on that vision and goals"/>
+<img src="/service-manual/assets/images/governance/vision-on-wall.jpg" alt="Make service vision and goals prominent in team work areas to increase focus on that vision and goals"/>
 
 ##6. Trust and verify
 

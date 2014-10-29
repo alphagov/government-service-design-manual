@@ -64,7 +64,7 @@ Find out more about [identifying goals during alpha](/service-manual/phases/idea
 
 You should use the measures you agreed to use during discovery. If you decide to measure progress in a different way, you need to make sure this is really necessary and get everyone involved in the decision to change.
 
-The team wall is an important tool -  it’s essential everyone understands how the wall can help show progress.
+The team wall is an important tool -- it’s essential everyone understands how the wall can help show progress.
 
 **Go to show and tells**
 
@@ -144,6 +144,8 @@ If your service development team is working well, it will quickly learn and modi
 
 Teams need help with things that slow them down and are outside of their control. During alpha they’ll need you to be closely involved on a daily basis, so that you can help them with decisions, encouragement and ideas.
 
+You’ll need to anticipate problems and make decisions promptly to avoid slowing down delivery and ensure a seamless transition from the alpha to beta phase.
+
 **Revisit the size and shape of the team**
 
 You’ll probably need more user researchers, developers and designers to help deliver your alpha, particularly as you start building prototypes of the service.
@@ -172,4 +174,5 @@ Next: [governing the beta phase](/service-manual/governance/governing-the-beta-p
 
 **Get involved**
 
-To give feedback, make a suggestion or share your experience, use the [governance guidance hackpad](https://gds-governance-guidance.hackpad.com/Governing-the-alpha-phase-c2WkmJjBCPv).  
+To give feedback, make a suggestion or share your experience, use the [governance guidance hackpad](https://gds-governance-guidance.hackpad.com/Governing-the-alpha-phase-c2WkmJjBCPv).
+ 
