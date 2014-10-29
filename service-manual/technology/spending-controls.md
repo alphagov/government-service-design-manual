@@ -41,7 +41,7 @@ The government's [Spend Controls](https://www.gov.uk/government/publications/cab
 
 A request for spend approval is likely to require a number of controls -- most digital and IT spend requests will also require commercial approval to make sure they are aligned to [government procurement policy](/government/collections/procurement-policy-notes).
 
-Each department has a GDS account manager who will ensure that other areas of Cabinet Office are engaged as needed when considering a case. An online controls tool has been introduced to support this process and give full visibility on case progress.
+Each department has a GDS senior IT adviser who will ensure that other areas of Cabinet Office are engaged as needed when considering a case. An online controls tool has been introduced to support this process and give full visibility on case progress.
 
 The purpose of the IT and digital controls is to ensure that spending on IT is proportionate and directed at programmes and projects that meet the commonly agreed digital and ICT strategies. It's an independent confirmation that the department has undertaken thorough consideration of the user need and value for money solution options.
 
@@ -66,7 +66,7 @@ These thresholds cover all technology expenditure, including:
 - ‘business as usual’ changes or enhancements or maintenance or refreshes
 - common infrastructure solutions including voice and data communications, Public Services Networks (PSN) whether fixed or mobile.
 
-They also cover programmes that are broken into smaller chunks or projects, which individually are below the thresholds, but which in aggregate are above them. Intentionally breaking down a programme into smaller elements to avoid the controls process is itself a serious breach of the controls.
+They also cover programmes that are broken into smaller chunks or projects, which individually are below the thresholds, but which in aggregate are above them. 
 
 Digital is defined as any external-facing service provided through the internet to citizens, businesses, civil society or non-government organisations.  This includes, but is not limited to information services, websites, transactional services, web applications, mobile apps, and extranets.
 
@@ -74,7 +74,9 @@ The control covers the total cost of running that service, including any assiste
 
 The definition of digital does not include content creation on existing sites, intranets or those areas listed under the advertising, marketing and communications controls.
 
-## Starting the process
+## Further information on the process 
+
+Users should refer to Cabinet Office [controls guidance](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32), specifically the [digital and technology section].(https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32#digital-and-technology-including-id-assurance) 
 
 Departments should engage early with GDS to agree the appropriate points for approval, before the first approval is needed (usually after the discovery phase, at strategic outline case or before a prior information notice is issued).  This early engagement will avoid departments proceeding too far without approval and reduces the risk of irregular expenditure.
 
@@ -84,8 +86,6 @@ If your project cost exceeds your department’s main delegated authority set by
 
 HMT's ['Major Project approval and assurance guidance'](http://www.hm-treasury.gov.uk/d/major_projects_approvals_assurance_guidance.PDF)(PDF) describes the Treasury's and the MPA's process. The Cabinet Office's ['Integrated Assurance and Approval Plan'](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf)(PDF), explains the approvals needed through the lifecycle of the project.
 
-Digital projects will also be assessed for compliance to the service standard -- as described in this flowchart:
 
-![Compliance flowchart](/service-manual/assets/images/spending-controls/flowchart.png)
 
 *[MPA]: Major Projects Authority
