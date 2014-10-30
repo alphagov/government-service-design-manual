@@ -116,6 +116,9 @@ Alternatively, telephone support may involve the user providing information to t
 ###Web chat
 Assisted digital support may be provided on screen while the user is attempting to use the digital service independently. An on-screen dialogue enables the assisted digital support provider to support the user.
 
+##Front Office Counter Services framework
+When procuring for assisted digital services, departments should use the Front Office Counter Services (FOCS) framework where this provides value for money and meets user need. Where departments choose to use an alternative contractual mechanism, they should consult and agree with HM Treasury (including reasons for selecting an alternative contractual mechanism) before submitting their spend request to Cabinet Office. The Efficiency Reform Group (ERG) should seek relevant HM Treasury spending team approval on any decision not to use the FOCS framework. 
+
 ##How assisted digital, digital take-up and digital inclusion are related
 Some people can use digital services but for a range of reasons prefer other channels. [Digital take-up](/service-manual/communications/increasing-digital-takeup) is about encouraging them to start using digital government services instead.
 
