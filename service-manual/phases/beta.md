@@ -30,6 +30,24 @@ This is achieved by providing the [user stories](/service-manual/agile/writing-u
 You'll also be resolving technical and process challenges, meeting for the first time many of the technical criteria outlined in the [service standard](/service-manual/digital-by-default). You should be [rapidly releasing](/service-manual/making-software/release-strategies.html) updates and improvements into the [development environment](/service-manual/making-software/development-environment.html), and [measuring the impact](/service-manual/measurement) of your changes to the key performance indicators (KPIs) established in your [discovery](/service-manual/phases/discovery.html) and [alpha](/service-manual/phases/alpha.html) phases.
 
 You'll also [test the assisted digital support](/service-manual/assisted-digital/action-plan.html#beta-stage) for the digital service. You might test one or more of the options you developed in the alpha phase.
+## How to publish a beta
+
+There are various ways of running the beta phase. In all instances, it should involve interacting with a full, end-to-end version of the service.
+
+### Private beta
+
+This is a beta that is not open to everyone -- either regional, or invite only etc. You might want to choose this option because it:
+
+* gives more control over the audience demographic that gets to use the beta
+* allows you to restrict the volume of transactions that go through the beta
+* lets you start small and get feedback faster before rolling it out to a wider audience
+
+### Public beta
+
+A public beta is made open to everyone. It can exist alongside an existing version of the service and you might:
+
+* use something like AB-testing to funnel some traffic to the beta
+* invite people with a separate call to action to use the beta
 
 ## Duration of the beta phase
 
@@ -45,7 +63,7 @@ You'll now know [what size team](/service-manual/the-team) you need to create th
 ## Outputs
 At the end of the beta phase, you'll have:
 
-* delivered a public, end-to-end prototype of the service
+* delivered a (private or public) end-to-end prototype of the service
 * a collection of prioritised work to be done (your backlog)
 * a [user testing plan](/service-manual/user-centred-design/user-research/index.html)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
