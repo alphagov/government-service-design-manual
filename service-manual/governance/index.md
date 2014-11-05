@@ -28,7 +28,7 @@ breadcrumbs:
 ##Governing a digital service
 
 {: .link-list}
-* [Introduction to governance for service delivery](/service-manual/governance/Introduction-to-governance-for-service-delivery)
+* [Introduction to governance for service delivery](/service-manual/governance/introduction-to-governance-for-service-delivery)
 * [Governance across the life of a service](/service-manual/governance/governance-across-the-life-of-a-service)
 * [Governing the discovery phase](/service-manual/governance/governing-the-discovery-phase)
 * [Governing the alpha phase](/service-manual/governance/governing-the-alpha-phase)
