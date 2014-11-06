@@ -51,6 +51,10 @@ check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie6.css
 check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie7.css
 check_css_compiled ./_site/service-manual/assets/stylesheets/main-ie8.css
 
+if [ -n "$TRAVIS" ]; then
+  exit 0
+fi
+
 echo "Copying the compiled manual to $GUIDANCE_PATH"
 
 cp -R ./_site/service-manual $GUIDANCE_PATH
