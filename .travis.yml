@@ -12,6 +12,7 @@ before_script:
 script:
   - make lint links
   - bundle exec ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
+  - ./compile.sh
 branches:
   except:
     - master
