@@ -70,7 +70,7 @@ Your service doesn’t need to provide assisted digital support if:
 * the service’s users are third party intermediaries who benefit commercially for engaging with the service on behalf of the end user
 * your users are public sector employees who use your service as part of their work
 
-##Responsibilities and liabilities
+##Responsibilities and liabilities 
 As a service manager, you will need to make sure that:
 
 * assisted digital support is delivered within legal and policy constraints, such as the Equality Act 2010
