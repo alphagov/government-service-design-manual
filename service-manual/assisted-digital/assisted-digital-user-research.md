@@ -105,7 +105,7 @@ Using your data and insight, create user personas that represent your assisted d
 We’ve created 8 user personas that represent people who need help to use government services online. The personas are based on desk and field research and represent real-life stories. The users were vulnerable people who needed urgent help using a variety of government services:
 
 * [Cathy](/service-manual/assets/documents/Cathy.odt)
-* [David](service-manual/assets/documents/David.odt)
+* [David](/service-manual/assets/documents/David.odt)
 * [Greg](/service-manual/assets/documents/Greg.odt)
 * [Gwen](/service-manual/assets/documents/Gwen.odt)
 * [Mohammed](/service-manual/assets/documents/Mohammed.odt)
