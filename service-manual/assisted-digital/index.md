@@ -49,7 +49,7 @@ Good assisted digital support:
 * meets users’ accessibility and legal language requirements
 * securely stores and handles users’ personal data in line with the Data Protection Act, ensuring users’ privacy is maintained
 
-Find out how to [create an assisted digital action plan](service-manual/assisted-digital/action-plan).
+Find out how to [create an assisted digital action plan](/service-manual/assisted-digital/action-plan).
 
 ## Who needs assisted digital support
 GDS’s [Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research) (2012) found that [18% of UK adults are offline](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research#uk-digital-landscape). This means that about 9m people never or rarely use the internet. [Go ON UK](http://www.go-on.co.uk/) estimates that 1 in 5, or 11m, adults lack [Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (including people who are offline).

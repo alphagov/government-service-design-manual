@@ -144,6 +144,12 @@ func isInternalLink(URL string) (r bool) {
 }
 
 func (p *linkProducer) checkWorks(l link) {
+
+	if strings.HasPrefix(l.URL, "service-manual") {
+		p.errors <- fmt.Errorf("Bad link to <%v> in <%v>.\nShould it start with a forward slash?", l.URL, p.filepath)
+		return
+	}
+
 	if !strings.HasPrefix(l.URL, "/service-manual") {
 		return
 	}
