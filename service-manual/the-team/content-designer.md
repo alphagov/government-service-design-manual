@@ -43,14 +43,14 @@ Content designers must be able to:
   - analytics data both from the site and from search engines
 - gain an in-depth knowledge of a wide range of subjects -- so they can make informed decisions about the best way to present information to users
 - develop content plans and strategies -- high-level plans showing how the identified user needs will be met
-- write great content -- in [plain English](/design-principles/style-guide#writing-plain-english), optimised for the web and according to [house style](/design-principles/style-guide#style-guide)
+- [write great content](/guidance/content-design/writing-for-gov-uk) -- in [plain English](/guidance/content-design/writing-for-gov-uk#plain-english), optimised for the web and according to [house style](/guidance/style-guide/a-to-z-of-gov-uk-style)
 - edit content -- making sure the site remains accurate, relevant, current and optimised both for users and search engines
 - make tough decisions and work hard for the user -- grappling with complicated legislation and turning it into clear, clean, crisp web content (that still has enough depth to be useful)
 - work with developers and designers to [create better solutions](https://gds.blog.gov.uk/2012/11/05/tools-over-content/) -- for example, writing logic and content for [smart answers](https://gds.blog.gov.uk/2012/02/16/smart-answers-are-smart/)
 - understand and incorporate the results of [user testing](/service-manual/user-centred-design/user-research)
 - review the work of other editors -- to make sure consistency and excellence is maintained across the site
 - publish content -- using various systems
-- communicate the [principles of good content design](/design-principles/style-guide) to others in the organisation
+- communicate the [principles of good content design](/guidance/content-design/what-is-content-design) to others in the organisation
 - advocate for the user and act as a guardian for the site -- pushing back on change requests that don’t contribute to meeting user needs and incorporating change requests that do
 - build positive relationships with others inside the team and in the wider organisation
 - innovate and anticipate -- excellent content designers are excited about the possibilities of web content and contributing to the digital sector's future

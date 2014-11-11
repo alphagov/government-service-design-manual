@@ -16,7 +16,7 @@ breadcrumbs:
     url: /service-manual/communications
 ---
 
-Blogs are a simple, effective way of keeping a record of the work a team is doing on a service. 
+Blogs are a simple, effective way of keeping a record of the work a team is doing on a service.
 
 Updates can be as short as you like, allowing you to tell readers about subtle changes to a service’s design or new features added to a tool, while also offering you a platform for longer pieces of writing that describe significant changes to policy or approach.
 
@@ -42,20 +42,20 @@ Though the frequency with which you blog will often vary you should aim to publi
 
 A well-chosen illustration or photo can add important context or information for your readers. The GOV.UK blogging platform is fairly flexible. You can embed tweets, slide decks and videos as well as images, all media that make your message just [a little bit easier to comprehend](https://insidegovuk.blog.gov.uk/2013/09/11/prototyping-browse-and-navigation/).
 
-##Use the style guide...
+##Use the style guidance...
 
-[The GOV.UK style guide](https://www.gov.uk/design-principles/style-guide) is an invaluable tools for writers. It’s full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
+The GOV.UK [content design guidance](/guidance/content-design/blogging#style-and-tone-of-voice) is an invaluable tool for writers. They’re full of carefully researched tips for clear, concise prose which seeks to make your writing easier to understand.
 
-In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the 'words to avoid' list -- it’s there to make sure writers stay clear no matter the audience.
+In particular, make use of subheadings and bullet points within your blog posts to make them quicker to read. And make use of the [‘words to avoid’ list](/guidance/style-guide/a-to-z-of-gov-uk-style#words-to-avoid) -- it’s there to make sure writers stay clear no matter the audience.
 
 ##...but remember you’re a person
 
-The style guide doesn’t mean you can’t be warm, candid or personal. You should be all of these things. 
+The style guide doesn’t mean you can’t be warm, candid or personal. You should be all of these things.
 
 It’s important that you’re accountable for the things you write. If your name appears on a post then you should be prepared to respond to comments and engage in dialogue both on your blog and on other social networks. It’ll improve your work, and ultimately improve the experience for your users
 
 ##Always get someone to read it first
 
-It’s a given that writers will be professional and mindful of things like the [Civil Service Code](http://www.civilservice.gov.uk/about/values) when they blog, but you should always get someone to read your work over before you hit PUBLISH. 
+It’s a given that writers will be professional and mindful of things like the [Civil Service Code](http://www.civilservice.gov.uk/about/values) when they blog, but you should always get someone to read your work over before you hit PUBLISH.
 
-For starters, they’ll probably spot a few mistake that have slipped your notice, but they might also be able to offer a different perspective on the things you’re writing about. 
+For starters, they’ll probably spot a few mistake that have slipped your notice, but they might also be able to offer a different perspective on the things you’re writing about.
