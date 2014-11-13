@@ -164,7 +164,7 @@ breadcrumbs:
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a> and the <a href="/design-principles/style-guide">style guide</a>.</div>
+    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a> and the <a href="/government-digital-guidance/content-publishing">style guide</a>.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -303,4 +303,3 @@ breadcrumbs:
 </ol>
 
 <p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
-

@@ -21,12 +21,12 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-The [style guide](https://www.gov.uk/design-principles/style-guide) is set in best practice and relates to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
+The [content design guidance](/guidance/content-design) and [style guide](/guidance/style-guide/a-to-z-of-gov-uk-style) are set in best practice and relate to how users read. This is an explanation of some of our guidance and the reasons behind the rules.
 
 ## Reading
 Users only really read 20 to 28% of a web page. Where users just want to complete a service as quickly as possible, there's added user impatience so you may find users skim words even more.
 
-[The content style guide](https://www.gov.uk/design-principles/style-guide) and [design patterns](/service-manual/user-centred-design/resources/patterns/index.html) give guidance on how to write. This page details why we do it.
+The [content design guidance](/guidance/content-design), [style guide](/guidance/style-guide/a-to-z-of-gov-uk-style) and [design patterns](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/index.html) give guidance on how to write. This page details why we do it.
 
 All of this guidance is based on the learning skills of an average person in the UK, who has English as a first language.
 
@@ -55,7 +55,7 @@ Also, in modern usage it sounds like we're shouting. We are government. We shoul
 ## Plain English
 By the time you are 9, you're building up your ‘common words’. Your primary set is around 5,000 words in your vocabulary; your secondary set is around 10,000 words.
 
-These are words you use every day. They include a lot of [plain English](https://www.gov.uk/design-principles/style-guide#writing-plain-english) words, which is why we should be obsessed with them. These are words so easy to comprehend, you learn to read them quickly and then you stop reading and start recognising.
+These are words you use every day. They include a lot of [plain English](/guidance/content-design/writing-for-gov-uk#plain-english) words, which is why we should be obsessed with them. These are words so easy to comprehend, you learn to read them quickly and then you stop reading and start recognising.
 
 ## Context
 We explain all unusual terms on GOV.UK. This is because you can understand 6-letter words as easily as 2-letter words -- if they're in context.
