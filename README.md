@@ -10,7 +10,7 @@ The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassifie
 
 Instructions are here:
 
-https://github.com/alphagov/wiki/wiki/HOWTO%3A-Deploy-the-Digital-By-Default-Guidance
+https://github.com/alphagov/wiki/wiki/HOWTO:-Deploy-the-Government-Service-Design-Manual
 
 ## Running the app yourself
 
