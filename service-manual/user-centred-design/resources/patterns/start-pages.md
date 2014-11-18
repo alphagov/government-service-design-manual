@@ -22,7 +22,7 @@ Start pages are written by the mainstream business as usual (BAU) content
 team at GDS. The start page and the content in your service should
 complement each other.
 
-Contact the team via Zendesk to ask for a start page when you're close to
+Contact the team the [GOV.UK Support form](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page when you're close to
 your beta launch. You should include:
 
 + what the service is and who it's for
