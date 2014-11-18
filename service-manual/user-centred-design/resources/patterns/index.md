@@ -39,8 +39,8 @@ for guidance on styling the basic form elements.
 
 <ul>
   <li><a href="/service-manual/user-centred-design/resources/patterns/start-pages">Start pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/end-pages">End pages</a></li>
   <li><a href="/service-manual/user-centred-design/resources/patterns/summary-pages">Summary pages</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/done-pages">Done pages</a></li>
   <li><a href="/service-manual/user-centred-design/resources/patterns/alpha-beta">Alpha and beta banners</a></li>
 </ul>
 
@@ -55,4 +55,3 @@ However, if you find a better approach to something or want to suggest a new pat
 
 <br>
 <br>
-

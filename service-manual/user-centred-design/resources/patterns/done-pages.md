@@ -1,6 +1,6 @@
 ---
 layout: design-pattern
-title: End pages
+title: Done pages
 breadcrumbs:
   -
     title: Home
