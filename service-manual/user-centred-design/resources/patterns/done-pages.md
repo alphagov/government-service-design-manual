@@ -30,4 +30,4 @@ You should do this close to your beta launch.
 
 ---
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Transaction-end-pages-xkOPGx6R1iM)
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Done-pages-SnYuLcWGw3j)
