@@ -1,6 +1,6 @@
 ---
 layout: design-pattern
-title: End pages
+title: Done pages
 breadcrumbs:
   -
     title: Home
@@ -23,11 +23,11 @@ GOV.UK done pages:
 + capture satisfaction and comments
 + allow measurement of KPIs for the performance dashboard
 
-Contact the mainstream business as usual content team via Zendesk to ask for
+Contact the mainstream business as usual content team via the [GOV.UK Support form](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for
 a done page when you ask for your [start
 page](https://www.gov.uk/service-manual/user-centred-design/resources/patterns/start-pages).
 You should do this close to your beta launch.
 
 ---
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Transaction-end-pages-xkOPGx6R1iM)
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Done-pages-SnYuLcWGw3j)
