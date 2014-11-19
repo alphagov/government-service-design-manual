@@ -25,6 +25,6 @@ Architecture is not just about the design and deployment of technology -- to be 
  departmental organisation. We need to be able to build services without repetition, 
  where services are focused on user need, and common elements are shared throughout.
  
- We will talk a little more about the engineering details of architecture in due course.
+ We will talk a little more about the details of architecture in due course.
  
 

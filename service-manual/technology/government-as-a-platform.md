@@ -19,7 +19,7 @@ breadcrumbs:
 
 ## Government as a platform
 
-* This page is being redesigned *
+* This page is being redesigned
 
 Further reading:
 
