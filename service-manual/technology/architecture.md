@@ -16,100 +16,12 @@ breadcrumbs:
     url: /service-manual/technology
 ---
 
-Architecture is not just about the design and deployment of technology -- to be successful you need to understand how several elements work together.
+Architecture is not just about the design and deployment of technology -- to be successful you need to consider the utility, sustainability and attractiveness of the system as a whole. 
+ 
+ We need to build an architecture where the consistency and overall clarity of form is sufficiently 
+ persuasive and useful that a user can engage with government without understanding the details of policy or
+ departmental organisation. We need to be able to build services without repetition, 
+ where services are focused on user need, and common elements are shared throughout.
+ 
 
-These elements include:
 
-* the high-level business vision and requirements that guide the design of processes and systems around the needs of users (recognise that business requirements will change over time, so design solutions that minimise the impact of such changes)
-* an information model covering both public and private data, as well as wider information management requirements like business intelligence
-* technology, the modelling of core capabilities, their structure and relationships
-* implementation, including the development and application of guidelines, patterns, blueprints, models and communities that ensure consistent implementation and compliance across multiple programmes and projects
-* throughout the project lifecycle you will need to make sure stakeholders stay aligned on what is needed (you'll need to resolve issues when stakeholder requirements conflict with business growth (like reduced cost), system design (like [network latency](https://en.wikipedia.org/wiki/Latency_%28engineering%29)) and operational issues (like security, privacy and auditing))
-
-The term “architecture” includes both the logical design as well as its physical implementation. Logical architecture based on [user-centric service design](/service-manual/start#a-new-way-of-doing-things) and clear [user needs](/service-manual/user-centred-design/user-needs.html) should always precede physical architecture. At a minimum you need to understand [what capabilities are required](/service-manual/making-software/choosing-technology.html#start-with-capabilities-not-implementations) before starting to narrow down on product choices.
-
-The [technology code of practice](/service-manual/technology/code-of-practice.html) provides guidance on the consistent use of technology across government.
-
-##Our reference model
-Our reference model draws on modern [platform-based architectures](/service-manual/technology/government-as-a-platform). We should use the highly scalable open platform model of internet-scale organisations and draw upon the practical experience of other governments like [Estonia](http://e-estonia.com/component/x-road/).
-
-<img src="/service-manual/assets/images/architecture-reference-model.png" alt="Diagram showing government architecture reference model" />
-
-Note: examples are for illustration purposes only.
-
-To support this our architecture will need to move away from tightly coupled and proprietary models towards an open, interoperable architecture using [open standards](/service-manual/making-software/open-standards-and-licensing.html) and [open interfaces](/service-manual/making-software/apis.html), eg XML- and JSON-based data services, to maximise government’s flexibility and improve the deliver speed of services.
-
-We should strive to:
-
-* avoid duplication of data ownership -- to prevent synchronisation, data quality, security, and privacy problems
-* limit duplication of development effort -- to prevent the continual reinvention of the wheel across multiple projects dealing with common data, users and processes
-* wherever possible (and tested against the “[rule of three](http://www.maheshpai.info/?p=20)”), we will use and reuse standard, interoperable components, interfaces, data formats and processes using open standards
-
-Duplication is OK when used to optimise the user experience (but there should be clear master-slave data relationships if information itself is replicated, eg for reasons of performance).
-
-##Products and services
-
-Products and services are the things that users engage with to find information or complete transactions. As such, they should be designed around the needs of the end user rather than the service provider. They can be either Mission IT (internal facing) or Digital Public Services (external facing).
-
-<table>
-  <thead>
-    <tr>
-      <th>Products Are:</th>
-      <th>Products Are NOT:</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>designed and developed in a user-specific way to meet:
-        <ul>
-          <li>a set of user needs, with success measured by the extent to which those needs are met</li>
-          <li>a policy outcome</li>
-        </ul>
-      </td>
-      <td>an elaboration of an internal organisational structure</td>
-    </tr>
-    <tr>
-      <td>subject to continuing assessment and improvement to further refine the quality of the service: “Am I meeting the user need?”</td>
-      <td>a product in the narrow sense of a specific application/box product, ie not Microsoft Dynamics, or Oracle e-business suite, or DropBox</td>
-    </tr>
-    <tr>
-      <td>a single point of user engagement, driven by user needs</td>
-      <td>fixed in time, but designed to evolve to meet changing needs</td>
-    </tr>
-    <tr>
-      <td>the responsibility of a <a href="/service-manual/service-managers">service manager</a> (the user representative), not necessarily the owning department: reporting lines should be based around product and user need (with all the implications for governance that entails)
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>guided by clear product roadmaps and timescales based on user need and policy</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-##Platforms
-
-Platforms provide a set of open interfaces, protocols, data formats and tools that enable software developers to rapidly provide products and services.
-
-Examples of platforms are the GOV.UK publishing platform, the Performance Platform, and the [GOV.UK Verify](/service-manual/identity-assurance) platform -- they are not things like ‘Windows Server’ or ‘Linux Server’.
-
-Platforms should be kept as simple as possible, but designed to have no barriers to scaling up and scaling out. New features should be added only when required by new product needs -- platforms emerge from the demands of products rather than being driven by top-down architectural process.
-
-[Learn more about government platforms](/service-manual/technology/government-as-a-platform.html).
-
-## The legacy estate
-
-“Legacy” is used as shorthand to reference existing mission IT systems and components that have been designed to meet historic requirements. Often they are built using technologies that have become difficult and expensive to maintain or change.
-
-Examples of legacy applications are likely to span benefits systems, case management systems, and customer relationship management systems. Over time the dependence on legacy platforms should be reduced as successful new platforms are developed.
-
-To reduce dependency on legacy platforms:
-
-* new user services must take the opportunity to reduce dependency on legacy systems, and new programmes should where possible avoid nugatory expenditure on integrating with such systems
-* the volume of such systems, their cost of support and business criticality should continually decrease, ie they exist to fulfil a current specific need, but should not be the focus of further investment
-* departments should baseline and plan to migrate/mitigate existing systems (triage the ‘old and broke’, ‘old and works’ and ‘defunct’), ensuring value is released:
-	* badly engineered systems should be contained
-	* the working legacy should be modernised to reduce costs and risks and wrapped where appropriate to provide open interfaces and interoperability with platforms
-	* legacy applications should be replaced / rearchitected periodically to prevent situations where the application can no longer be supported because it's grown too complex for anyone to understand or too expensive relative to the benefits delivered
-	* open standards must be used for interoperability between systems and departments, with adapters used to integrate existing host systems, programs, messages and data (from mainframes to line of business services, where those systems do not natively support open standards) -- you should avoid point-to-point bespoke integration between systems to reduce costs and inter-dependencies
