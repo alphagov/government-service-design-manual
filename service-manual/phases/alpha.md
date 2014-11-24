@@ -49,7 +49,7 @@ The alpha doesn't need to be a complete, end-to-end transaction. You're looking 
 Think of it as a proof of concept:
 
 * is the solution appropriate?
-* is your approach viable
+* is your approach viable?
 * do you have enough understanding of your users' needs to meet them?
 
 If not, find out more and make a new prototype.
