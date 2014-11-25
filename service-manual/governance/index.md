@@ -49,3 +49,13 @@ breadcrumbs:
 * [When to scale up](/service-manual/governance/when-to-scale-up)
 * [Governing a service after scaling up](/service-manual/governance/governing-a-service-after-scaling-up)
 
+
+##Seeing progress
+
+{: .link-list}
+* [Seeing progress](/service-manual/governance/seeing-progress)
+* [How delivery teams manage their work](/service-manual/governance/how-delivery-teams-manage-their-work)
+* [What to expect from the show and tell](/service-manual/governance/what-to-expect-from-the-show-and-tell)
+* [Setting up the right reporting](/service-manual/governance/setting-up-the-right-reporting)
+
+
