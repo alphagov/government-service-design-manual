@@ -108,10 +108,7 @@ Still notify users that these cookies are in use, even though they are exempt fr
 
 All services on the `service.gov.uk` subdomain must include a cookie information page. This page must contain information about the cookies used throughout the site, followed by an explanation of each cookie's purpose and how long it's stored for.
 
-The [GOV.UK cookies page](https://www.gov.uk/support/cookies) is an example of how to do this. You are required to link back to the GOV.UK cookies page from:
-
-* the footer of your website
-* your information page
+The [GOV.UK cookies page](https://www.gov.uk/support/cookies) is an example of how to do this. You must link back to your service's cookies page from the footer of your website. Your service information page must also link to the GOV.UK cookies page.
 
 Your service must also tell users on their first visit that cookies are used and regularly remind them of this. This is particularly important when your service relies on implied consent. GOV.UK does this with a blue information banner that is displayed at least once every 3 months with this message:
 
