@@ -27,6 +27,10 @@ Next, install dependencies using bundler::
 
     $ bundle install
 
+You need to run compile to create the content (note if you don't have go comment out the linting)
+
+	$ ./compile.sh
+
 To start the app::
 
     $ bundle exec ruby app.rb
