@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Seeing progress
-subtitle: How to understand progress without creating extra work for delivery teams
+subtitle: How to judge progress without creating extra work for delivery teams
 category: governance
 type: category-index
 audience:
@@ -34,7 +34,7 @@ Good governance includes getting a clear view of progress without creating any e
 
 Delivery teams use walls to manage their work and track progress
 
-###Don’t slow down delivery
+###Supporting delivery
 
 Encourage communication and information sharing by creating a culture where people can be open. Listen to your delivery teams and look for opportunities to help meet their needs so that they can work together effectively.
 

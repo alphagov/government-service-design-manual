@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: What to expect from the show and tell
-subtitle: Participating in show and tells is an essential governance activity
+subtitle: How show and tells work and why they’re important if you’re involved
 category: governance
 type: guide
 audience:
@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/governance
 ---
 
-###Why you should participate in show and tells
+###Why you should go to show and tells
 
 This is a meeting that happens every few weeks in the delivery team work area. It gives you a chance to:
 
