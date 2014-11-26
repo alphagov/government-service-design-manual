@@ -27,7 +27,7 @@ Next, install dependencies using bundler::
 
     $ bundle install
 
-You need to run compile to create the content (note if you don't have go comment out the linting)
+You need to run compile to create the content (note this requires go to be installed)
 
 	$ ./compile.sh
 
