@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: What to expect from the show and tell
-subtitle: How show and tells work and why they’re important if you’re involved
+subtitle: How show and tells work and why they’re important if you’re involved in governance
 category: governance
 type: guide
 audience:
