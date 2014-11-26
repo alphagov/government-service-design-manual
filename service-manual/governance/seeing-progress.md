@@ -34,7 +34,7 @@ Good governance includes getting a clear view of progress without creating any e
 
 Delivery teams use walls to manage their work and track progress
 
-###Dont slow down delivery
+###Don’t slow down delivery
 
 Encourage communication and information sharing by creating a culture where people can be open. Listen to your delivery teams and look for opportunities to help meet their needs so that they can work together effectively.
 
