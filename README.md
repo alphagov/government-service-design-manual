@@ -27,9 +27,9 @@ Next, install dependencies using bundler::
 
     $ bundle install
 
-You need to run compile to create the content (note this requires go to be installed)
+You need to create the content::
 
-	$ ./compile.sh
+    $ bundle exec jekyll build
 
 To start the app::
 
