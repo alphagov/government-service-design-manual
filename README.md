@@ -27,6 +27,10 @@ Next, install dependencies using bundler::
 
     $ bundle install
 
+You need to create the content::
+
+    $ bundle exec jekyll build
+
 To start the app::
 
     $ bundle exec ruby app.rb
