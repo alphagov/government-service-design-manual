@@ -107,29 +107,7 @@ These tests run in continuous integration, which means that they form part of yo
 Read the guidance about [testing code](/service-manual/making-software/code-testing.html).
 
 ### Exploratory testing
-Exploratory  testing is a term commonly used to describe unscripted manual testing. This is where the tester uses his or her knowledge, experience and intuition to go through through the software and identify bugs.
-
-The difference between unscripted and scripted tests is that a scripted test can only ever test a predetermined outcome. Exploratory testing (unscripted) doesn’t mean you don’t prepare for the testing.
-
-Exploratory testing is:
-
-* always planned in advance, in detail, including:
-    * the specific aspects you want to explore
-    * any need for extra data or a different system set-up to perform the testing
-* used to find and test the less obvious outcomes (automated tests prevent bugs whereas exploratory tests find them)
-* normally timeboxed (runs for a fixed period of time)
-* has a specific purpose -- eg ‘I will spend x hours exploring y and z aspects of the system (though this may take me elsewhere and it may take more or less time, so I’ll use my judgement as I go)’
-* not always without automation -- automation can be used to set up the data or to get a set of transactions (just not to run the tests)
-
-The quality analysts or testers in your team carry out this type of testing. If your team is made up of only developers, you’ll need to put time aside for the developers to do the testing, but bear in mind that:
-
-* as developers are deeply involved in writing the code, it’s sometime difficult for them to see ways through the system that they hadn’t previously thought of
-* it’s ideal for developers to be assigned to exploratory testing for a full day to allow the appropriate amount of context switching (the way a central processing unit changes from one task to another without the tasks conflicting)
-* it’s preferable if they explore parts of the system that they haven’t really developed
-
-When a manual test finds a defect, it’s important to always add an automated test to stop it from happening again.
-
-Read [Cem Kaner on exploratory testing](http://www.kaner.com/pdfs/QAIExploring.pdf)
+Read the guidance about [exploratory testing](/service-manual/making-software/exploratory-testing.html).
 
 ### Load and performance testing
 Read the guidance about [load and performance testing](/service-manual/operations/load-and-performance-testing.html)

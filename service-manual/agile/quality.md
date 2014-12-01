@@ -68,6 +68,7 @@ This manual gives further information on testing:
 * [testing code](/service-manual/making-software/code-testing.html)
 * [load and performance testing](/service-manual/operations/load-and-performance-testing.html)
 * [vulnerability and penetration testing](/service-manual/operations/penetration-testing.html)
+* [exploratory testing](/service-manual/making-software/exploratory-testing.html)
 
 ## Team roles and quality assurance specialists
 
