@@ -26,8 +26,8 @@ func goWalk(location string, exclude []string) chan error {
 				return nil
 			}
 
-			for _, prefixDir := range(exclude) {
-				if (strings.HasPrefix(path, prefixDir))	{
+			for _, prefixDir := range exclude {
+				if strings.HasPrefix(path, prefixDir) {
 					return nil
 				}
 			}
@@ -86,7 +86,7 @@ func main() {
 	if len(*excludePaths) > 0 {
 		excludeList = strings.Split(*excludePaths, ",")
 	} else {
- 		excludeList = []string{}
+		excludeList = []string{}
 	}
 
 	chann := goWalk(location, excludeList)
