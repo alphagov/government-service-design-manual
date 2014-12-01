@@ -5,20 +5,20 @@ subtitle: What is exploratory testing and how to use it
 category: making-software
 type: guide
 audience:
-  primary: developers, qa
+  primary: developers, qa 
   secondary: web-ops, tech-archs
-status: draft
 phases:
   - alpha
   - beta
   - live
+status: draft
 breadcrumbs:
   -
     title: Home
     url: /service-manual
   -
-  	title: Making software
-  	url: /service-manual/making-software
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 The goal of exploratory testing is to explore a system as a user would, possibly finding new defects as you go.
