@@ -26,13 +26,13 @@ breadcrumbs:
 
 To govern a service, you need to understand the work that‘s being done and how this work is organised by the teams.
 
-To get a picture of where you are, you need to have a service vision, goals and a roadmap for realising that vision - you’ll measure progress against these goals. Create your vision, goals and roadmap at the start and modify them as you learn more about user needs.
+To get a picture of where you are, you need to have a service vision, goals and a roadmap for realising that vision -- you’ll measure progress against these goals. Create your vision, goals and roadmap at the start and modify them as you learn more about user needs.
 
 Good governance includes getting a clear view of progress without creating any extra work for the team. Delivery teams already produce the data you need to be able to provide governance support. 
 
 <img src="/service-manual/assets/images/governance/team-around-wall.jpg" alt="Delivery teams use walls to manage their work and track progress"/>
 
-Delivery teams use walls to manage their work and track progress
+Delivery teams use walls to manage their work and track progress.
 
 ###Supporting delivery
 
@@ -40,11 +40,11 @@ Encourage communication and information sharing by creating a culture where peop
 
 Remember that:
 
-+ the delivery team will have data and tracking techniques to measure progress - these should be all you’ll need for good governance
++ the delivery team will have data and tracking techniques to measure progress -- these should be all you’ll need for good governance
 
 + focusing your efforts on things outside the team’s control and [unblocking delivery](/service-manual/governance/governance-principles#dont-slow-down-delivery) means the team's time is spent on the most important things
 
-+ the best way to understand where you are is to [go see things for yourself](/service-manual/governance/governance-principles#go-see-for-yourself) - face-to-face discussion is better than written reports
++ the best way to understand where you are is to [go see things for yourself](/service-manual/governance/governance-principles#go-see-for-yourself) -- face-to-face discussion is better than written reports
 
 + delivery team retrospectives can give valuable insight into recurring issues as well as giving a sense of how the team think they are doing
 
