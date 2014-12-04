@@ -62,7 +62,7 @@ The verification methods that are commonly in use (in order of preference) are:
 2. Create a special DNS record with a code supplied by the SSL vendor
 3. Sending an email to the owner of the service.gov.uk domain
 
-The least preferred method of sending an email to the domain owner relies on the GDS Infrastructure Team
+The least preferred method of sending an email to the domain owner relies on the GOV.UK Infrastructure Team
 seeing the verification email and responding. If this is necessary, then first send an email to the address that
 you intend to use for verification from your own email address warning that an SSL verification is needed for
 your service.
