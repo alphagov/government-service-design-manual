@@ -117,11 +117,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-Please note: the service manager induction programme is now fully booked until the end of December 2014, however you can book places for the 2015 cohorts. 
-
-Dates for the new year will be published soon.
-
-However, places are still available on the [open programme](/service-manual/the-team/learning-and-development/open-programme), to book a place please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
+To request a place on a cohort in 2015, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
 
 Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
