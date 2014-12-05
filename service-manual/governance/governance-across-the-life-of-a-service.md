@@ -81,7 +81,7 @@ You’ll need to make sure that you have the resources and practices in place to
 
 The service standard assessment process will apply if the service undergoes a major change.
 
-Find out more about [governing the live phase](/service-manual/governance/governing-the-beta-phase).
+Find out more about [governing the live phase](/service-manual/governance/governing-the-live-phase).
 
 ##Retirement
 

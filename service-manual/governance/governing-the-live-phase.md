@@ -80,7 +80,7 @@ The Government Digital Strategy aims to build in-house capability, so the need t
 
 Part of assurance is reviewing whether or not expected benefits are being realised. You can use your department’s internal audit team to run reviews and the Major Projects Authority (MPA) will assure major projects.
 
-The National Audit Office audits most public-sector bodies in the UK and produces value for money reports into the implementation of Government policies, so you may find that it does this for your service.
+The National Audit Office audits most public-sector bodies in the UK and produces value for money reports into the implementation of government policies, so you may find that it does this for your service.
 
 ##Team
 
