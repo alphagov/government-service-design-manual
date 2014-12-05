@@ -24,11 +24,8 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
-| Cohort | 2014 |
+| Cohort | 2015 |
 |------------|
-| O | October 6, 7, 8, 9 |
-| P | November 3, 4, 10, 11 |
-| Q | December 1, 2, 3, 4 |
 | R | January 5, 6, 7, 8 |
 | S | February 10, 11, 17, 18 |
 | T | March 9, 10, 11, 12 |
