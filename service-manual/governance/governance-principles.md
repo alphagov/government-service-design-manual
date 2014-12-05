@@ -206,8 +206,16 @@ To create the right environment for the delivery team to flourish we form teams 
 
 Regular reflection on how we’re doing and finding ways to improve is an important part of good governance. At the end of each iteration every delivery team holds a retrospective where it discusses lessons learned — both what went well and what didn’t. This lets us identify actions which are planned into future iterations. Retrospectives should also be used across programmes of work.
 
+
+**More on governance for digital services**
+
+[Governance across the life of a service](/service-manual/governance/governance-across-the-life-of-a-service)
+
+
 <hr>
 
 **Get involved**
 
 To give feedback, make a suggestion or share your experience, use the [governance guidance hackpad](https://gds-governance-guidance.hackpad.com/Governance-principles-AhFwUUHis16).
+
+*[KPIs]: key performance indicators
