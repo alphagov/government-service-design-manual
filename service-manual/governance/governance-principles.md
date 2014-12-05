@@ -209,7 +209,7 @@ Regular reflection on how we’re doing and finding ways to improve is an import
 
 **More on governance for digital services**
 
-[Governance across the life of a service](/service-manual/governance/)
+[Governance across the life of a service](/service-manual/governance/governance-across-the-life-of-a-service)
 
 
 <hr>
