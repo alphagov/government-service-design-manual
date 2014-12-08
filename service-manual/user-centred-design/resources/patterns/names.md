@@ -37,7 +37,7 @@ A single text field where the user can enter their full name, including title if
 
 * difficult if you need to parse out things like last name
 * can't use formal contractions in correspondence (like 'Mr. Smith')
-* may be difficult to integrate this apporach with legacy back-end systems
+* may be difficult to integrate this approach with legacy back-end systems
 
 ---
 
