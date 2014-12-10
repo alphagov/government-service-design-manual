@@ -55,7 +55,7 @@ When you are considering an individual or company to work with, they should give
 
 They should also be aware of the [departmental digital strategies](/government/collections/government-digital-strategy-reports-and-research) and how they will need to work with them.
 
-GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. Later in 2013, you will be able to use the Digital Procurement Framework.
+GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. You can now use the [Digital Marketplace](https://www.gov.uk/digital-marketplace).
 
 ##People, not process
 An underlying principle behind Agile development is that people are more important than process. It has been proven that great teams make great products whether they’re in government or business.
