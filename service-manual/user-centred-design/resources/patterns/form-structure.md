@@ -148,4 +148,4 @@ As always, these design decisions must have a strong, user-centred rationale beh
 
 ---
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Question-pages-ZztvLlQ7VDV)
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Form-structure-XDwY2wv3lCn)
