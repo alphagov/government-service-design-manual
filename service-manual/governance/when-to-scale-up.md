@@ -45,7 +45,7 @@ This might be the case if:
 
 Where there are obvious pieces of work in the backlog that would sustain another team it can make sense to scale up and split the backlog into themes for multiple teams to work on in parallel.
 
-Before scaling up, check that the backlog is really as big as you think -- is everything in it necessary by a fixed date?
+Before scaling up, check that the backlog is really as big as you think --- is everything in it necessary by a fixed date?
 
 ###The current pace means you won’t meet a delivery date
 
@@ -53,7 +53,7 @@ Delivery teams should track their progress to forecast when they will complete w
 
 ###The team is too big or too far apart to work together effectively
 
-As a team grows, it may become too big to work as effectively as 2 smaller teams would. This can have a negative impact on the culture and behaviours of people working in the team -- so it could be better to split into smaller teams.
+As a team grows, it may become too big to work as effectively as 2 smaller teams would. This can have a negative impact on the culture and behaviours of people working in the team --- so it could be better to split into smaller teams.
 
 Your team might be too big if:
 
@@ -79,7 +79,7 @@ Only add more people when you are confident that they are a good cultural fit an
 
 <hr>
 
-###More from the service manual on scaling
+**More from the service manual on scaling**
 
 [Scaling a service team](/service-manual/governance/scaling-a-service-team)
 

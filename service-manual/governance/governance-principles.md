@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/governance
 ---
 
-GDS has defined 6 principles for governing service delivery. Following them should help you create the right culture within your service development environment. They are:
+GDS has defined 6 principles for governing service delivery. Following them should help you create the right culture within your service. They are:
 
 1. Don’t slow down delivery
 
@@ -41,7 +41,7 @@ We help build services that are continually improved to meet user needs. This me
 
 * unblocking anything that slows down delivery where the delivery team doesn't have the authority to do so
 
-* being available when needed — throughout service delivery
+* being available when needed --- throughout service delivery
 
 * being mindful of the balance between features and quality
 
@@ -51,7 +51,7 @@ We gauge success through delivery of services that meet user needs. Governing we
 
 * actively seeking out delivery impediments, being accountable for them and removing them before they affect teams
 
-* protecting the team from, or helping them handle, external pressures — service teams will be familiar with these!
+* protecting the team from, or helping them handle, external pressures --- service teams will be familiar with these!
 
 **A bit more detail**
 
@@ -87,11 +87,11 @@ People who govern should support this ‘evolutionary’ model of development, r
 
 Iterative development is the best way of handling change and improving service quality. We can support this by devolving decision making to service teams and by unblocking them quickly for decisions that haven’t yet been devolved.
 
-People who govern should also participate in regular delivery meetings like stand-ups and sprint planning. This makes sure they’re fully informed and can make decisions quickly. It also improves the ways they communicate and work with delivery teams.
+People who govern should also participate in regular delivery meetings like stand ups and sprint planning. This makes sure they’re fully informed and can make decisions quickly. It also improves the ways they communicate and work with delivery teams.
 
 We know we can’t eliminate or transfer risks. We encourage highlighting and owning them, but we only actively manage risks that could tangibly affect service delivery.
 
-Our approach to risk management isn’t about scheduled discussion of a risk register — it’s about dealing with risk at the right time. We identify the best possible moment to respond to important risks and only then start to plan and carry out our response.
+Our approach to risk management isn’t about scheduled discussion of a risk register --- it’s about dealing with risk at the right time. We identify the best possible moment to respond to important risks and only then start to plan and carry out our response.
 
 <img src="/service-manual/assets/images/governance/risk-chart.jpg" alt="Risk chart"/>
 
@@ -120,9 +120,9 @@ They contribute by supporting the delivery team to bring in the right people, in
 
 Services are developed by multi‑disciplinary delivery teams where people have different skills and roles to achieve the team goals. They can include technical experts, business people and may also include legal and policy staff. Teams should keep the same service manager but the specialist skills needed will change as the service develops, so the makeup of the team will change.
 
-We make sure delivery teams have all the skills they need — and we provide them with the environment, workspace and tools to collaborate, organise and deliver.
+We make sure delivery teams have all the skills they need --- and we provide them with the environment, workspace and tools to collaborate, organise and deliver.
 
-Teams benefit from sitting close together — do everything you can to co‑locate.
+Teams benefit from sitting close together --- do everything you can to co‑locate.
 
 ##4. Go see for yourself
 
@@ -144,11 +144,11 @@ We regularly plan together. We visit teams to find out and openly and honestly d
 
 The best way to gauge progress, check on the mood of the delivery team and assure a service is by meeting them face-to-face in their workspace. There are several ways to do this without adding overhead. These include:
 
-* at [daily stand-up meetings](/service-manual/agile/features-of-agile#daily-stand-up) — these last 10 to 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
+* at [daily stand up meetings](/service-manual/agile/features-of-agile#daily-stand-up) --- these last 10 to 15 minutes and team members give updates on work completed the previous day, work being taken on that day, and any blockers
 
 * [regular planning sessions](/service-manual/agile/features-of-agile#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
 
-* regular reviews or ‘show and tells’ at the end of each iteration to show work completed in that iteration and discuss any issues or changes that need to be made to the service
+* regular reviews or [show and tells](/service-manual/governance/what-to-expect-from-the-show-and-tell) at the end of each iteration to show work completed in that iteration and discuss any issues or changes that need to be made to the service
 
 * [regular retrospectives](/service-manual/agile/running-retrospectives), where the team can reflect on what went well, what didn’t and anything they should change
 
@@ -162,21 +162,21 @@ Walls are an excellent way to track work and show important things, like what th
 
 Delivery teams should make sure that their walls are up to date and being used. Visiting a team’s wall gives a current view of its work without anyone needing to produce lengthy reports that take the focus away from delivery. You should take the time to visit them regularly.
 
-<img src="/service-manual/assets/images/governance/team-around-wall.jpg" alt="Daily stand-up"/>
+<img src="/service-manual/assets/images/governance/team-around-wall.jpg" alt="Daily stand up"/>
 
 ##5. Only do it if it adds value
 
 We keep user needs at the forefront of everything we do and focus on delivering value early and continuously. This means:
 
-* we set out a clear vision and measures of success — and we communicate these regularly
+* we set out a clear vision and measures of success --- and we communicate these regularly
 
-* we value quality and making sure that user needs are met — and we give the team time to do this
+* we value quality and making sure that user needs are met --- and we give the team time to do this
 
-* we explore and develop ideas that could add value — and if they don’t work, we stop
+* we explore and develop ideas that could add value --- and if they don’t work, we stop
 
 **A bit more detail**
 
-‘Delivering value’ means introducing a quality service that meets user needs and doing that in an incremental manner. Service delivery — through discovery, alpha, beta and to live — is the most effective and efficient way of understanding user needs and getting a service into users’ hands.
+‘Delivering value’ means introducing a quality service that meets user needs and doing that in an incremental manner. Service delivery --- through discovery, alpha, beta and to live --- is the most effective and efficient way of understanding user needs and getting a service into users’ hands.
 
 Good governance allows us to do this as quickly as possible by focussing delivery teams on developing things that meet their needs. Governance decisions, like service delivery decisions, should always be evidence‑driven.
 
@@ -190,7 +190,7 @@ The service delivery team should develop a charter that describes:
 
 Governance teams collaborate on the development of this charter and help to build consensus and understanding of it across the organisation and in third parties.
 
-Service development is a learning process — and we add value when we learn. Everyone should be encouraged to create better ways to meet user needs. Even if something doesn’t quite work in user research, the lessons learned will guide further service development. This avoids creating an expensive dead-end that doesn’t meet user needs.
+Service development is a learning process --- and we add value when we learn. Everyone should be encouraged to create better ways to meet user needs. Even if something doesn’t quite work in user research, the lessons learned will guide further service development. This avoids creating an expensive dead-end that doesn’t meet user needs.
 
 <img src="/service-manual/assets/images/governance/vision-on-wall.jpg" alt="Make service vision and goals prominent in team work areas to increase focus on that vision and goals"/>
 
@@ -204,7 +204,7 @@ We regularly speak to the team so that we can help to support, steer and assure.
 
 To create the right environment for the delivery team to flourish we form teams with the right mix of people, supporting rather than slowing down delivery and empowering decision makers. Frequent interaction with the team provides regular opportunities for people who govern to support, steer and assure rather than waiting for less frequent, formal meetings.
 
-Regular reflection on how we’re doing and finding ways to improve is an important part of good governance. At the end of each iteration every delivery team holds a retrospective where it discusses lessons learned — both what went well and what didn’t. This lets us identify actions which are planned into future iterations. Retrospectives should also be used across programmes of work.
+Regular reflection on how we’re doing and finding ways to improve is an important part of good governance. At the end of each iteration every delivery team holds a retrospective where it discusses lessons learned --- both what went well and what didn’t. This lets us identify actions which are planned into future iterations. [Retrospectives](/service-manual/agile/running-retrospectives) should also be used across programmes of work.
 
 
 **More on governance for digital services**
