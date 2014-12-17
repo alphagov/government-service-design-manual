@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/governance
 ---
 
-GDS has defined 6 principles for governing service delivery. Following them should help you create the right culture within your service development environment. They are:
+GDS has defined 6 principles for governing service delivery. Following them should help you create the right culture within your service. They are:
 
 1. Don’t slow down delivery
 
@@ -148,7 +148,7 @@ The best way to gauge progress, check on the mood of the delivery team and assur
 
 * [regular planning sessions](/service-manual/agile/features-of-agile#sprint-planning) at the beginning of each iteration, where the team commits to work to be done 
 
-* regular reviews or ‘show and tells’ at the end of each iteration to show work completed in that iteration and discuss any issues or changes that need to be made to the service
+* regular reviews or [show and tells](/service-manual/governance/what-to-expect-from-the-show-and-tell) at the end of each iteration to show work completed in that iteration and discuss any issues or changes that need to be made to the service
 
 * [regular retrospectives](/service-manual/agile/running-retrospectives), where the team can reflect on what went well, what didn’t and anything they should change
 
@@ -204,7 +204,7 @@ We regularly speak to the team so that we can help to support, steer and assure.
 
 To create the right environment for the delivery team to flourish we form teams with the right mix of people, supporting rather than slowing down delivery and empowering decision makers. Frequent interaction with the team provides regular opportunities for people who govern to support, steer and assure rather than waiting for less frequent, formal meetings.
 
-Regular reflection on how we’re doing and finding ways to improve is an important part of good governance. At the end of each iteration every delivery team holds a retrospective where it discusses lessons learned --- both what went well and what didn’t. This lets us identify actions which are planned into future iterations. Retrospectives should also be used across programmes of work.
+Regular reflection on how we’re doing and finding ways to improve is an important part of good governance. At the end of each iteration every delivery team holds a retrospective where it discusses lessons learned --- both what went well and what didn’t. This lets us identify actions which are planned into future iterations. [Retrospectives](/service-manual/agile/running-retrospectives) should also be used across programmes of work.
 
 
 **More on governance for digital services**

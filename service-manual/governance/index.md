@@ -59,3 +59,10 @@ breadcrumbs:
 * [Setting up the right reporting](/service-manual/governance/setting-up-the-right-reporting)
 
 
+##Assuring digital services
+
+{: .link-list}
+* [Assurance for digital services](/service-manual/governance/assurance-for-digital-services)
+* [Self assurance by Agile teams](/service-manual/governance/self-assurance-by-agile-teams)
+* [Assurance from those outside the service team](/service-manual/governance/assurance-from-those-outside-the-service-team)
+

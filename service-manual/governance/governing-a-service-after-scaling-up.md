@@ -29,7 +29,7 @@ As soon as you have more than one team you’ll need shared planning, coordinati
 
 Scaling up doesn’t mean you need to add more people who govern; don’t complicate governance processes as you scale. You need to:
 
-* make sure everyone understands the service vision and goals -- especially new starters
+* make sure everyone understands the service vision and goals --- especially new starters
 
 * have teams plan together and think about what they’ll individually be responsible for
 
@@ -39,7 +39,7 @@ Scaling up doesn’t mean you need to add more people who govern; don’t compli
 
 ###Get your teams working together
 
-It’s better for multiple teams to be sitting in the same location -- just as a single team benefits from this. When your teams don’t sit together:
+It’s better for multiple teams to be sitting in the same location --- just as a single team benefits from this. When your teams don’t sit together:
 
 * there are communication overheads
 
@@ -55,7 +55,7 @@ This is particularly problematic when ‘business’ and delivery team members d
 
 * regular face-to-face meetings
 
-You can also get team representatives together in a cross team stand up (sometimes called a 'scrum of scrums'), where the following questions are explored:
+You can also get team representatives together in a cross team stand up (sometimes called a ‘stand up of stand ups'), where the following questions are explored:
 
 * what has your team done since we last met?
 
@@ -77,13 +77,13 @@ It’s important to plan for changes in team composition. Planning activities in
 
 * making sure new people will have the tools they need to be productive on the day they arrive
 
-When you have more teams, don’t force them to work in exactly the same way as each other. Delivery teams work best when they can control how they work. Don’t compare velocity between teams either -- it’s team specific. 
+When you have more teams, don’t force them to work in exactly the same way as each other. Delivery teams work best when they can control how they work. 
 
 <hr>
 
-###More from the service manual on scaling
+**More from the service manual on scaling**
 
-[Scaling a service team](/service-manual/governance/index)
+[Scaling a service team](/service-manual/governance/scaling-a-service-team)
 
 [When to scale up](/service-manual/governance/when-to-scale-up)
 
