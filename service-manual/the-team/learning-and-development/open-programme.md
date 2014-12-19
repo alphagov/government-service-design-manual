@@ -24,11 +24,11 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
-| Date | Modules |
+| 2015 | Modules |
 |------------|
-| 17 November, 12 December | Increasing take-up, Assisted digital and Digital inclusion |
-| 13 October, 24 November | Always be testing, Design principles in action, and Data-driven services |
-| 28 November | Procure to improve, Being agile, and Identity assured |
+| 12 January, 5 February, 16 March | Supporting people to use your digital service |
+| 19 January, 26 February, 26 March | Design and improve your digital service |
+| 29 January, 5 March, 30 April | Practice, procurement and platforms for your digital service |
 
 #Who should take part
 
@@ -40,40 +40,29 @@ All sessions will run at a central London location.
 
 The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
 
-#What's covered
+#Supporting people to use your digital service
 
-The open programme includes the following modules:
+This one day module will cover [digital take-up](/service-manual/measurement/digital-takeup), digital inclusion and [assisted digital](/service-manual/assisted-digital), and focuses on supporting your users to use your digital service. These are all areas required by the Digital by Default Service Standard.
 
+It’s essential to ‘shift’ people away from non-digital channels and increase the take-up of government digital services so more users can benefit from improved government services. Departments and agencies will also come under increasing pressure to deliver the return on the investment in digital services – estimated at between £1.7 and £1.8 billion per year.
 
-##Increasing take-up
+Digital inclusion helps people become capable of using and benefiting from the internet. This means that most users will be able to use new and redesigned government digital services unaided, but there are some who will need help through assisted digital support.
 
-[Digital take-up](/service-manual/measurement/digital-takeup) is one of the four KPIs that services must benchmark, measure and monitor to meet the Digital by Default Service Standard. The group will:
+You will:
 
-* hear from GDS specialists in digital take-up
+* learn about why it’s important to support people to use your service
 
-* consider barriers to adoption and how your services can overcome them
+* develop your understanding of why people might not use your digital service and how to overcome barriers
 
-* assess the impact of channel shift on non-digital processes
+* walk personas through a user journey, to see where they might need support and what that could look like
 
-##Assisted digital
+* discuss the requirements of the Digital by Default Service Standard for these areas, covering expectations at each development phase
 
-Most users will be able to use new and redesigned government digital services unaided, but there are some who will need help. This support is referred to as [assisted digital](/service-manual/assisted-digital). The group will discover:
+* share your experience with other service managers and work together to improve your understanding of effective support for digital services.
 
-* who are the users who need assisted digital support
+#Design and improve your digital service
 
-* what good assisted digital support will look like
-
-* how departments and GDS are working together to develop assisted digital support approaches as part of overall service transformation
-
-##Always be testing
-
-Carry out user research in every stage of your project. Do it continuously through each stage -- don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
-
-* keep your team concentrating on real user needs
-
-* help teams design products which are prioritised by user needs 
-
-* help teams iterate products in response to user feedback
+This one day module will cover the GOV.UK Design Principles, user research and data-driven services. These are all areas required by the Digital by Default Service Standard.
 
 ##Design principles in action
 
@@ -84,6 +73,16 @@ A set of simple but powerful [design principles](/design-principles) underpin al
 * hear from a product manager who has used them on a project
 
 * consider how they will be applied to your own services
+
+##Always be testing
+
+Carry out user research in every stage of your project. Do it continuously through each stage -- don’t leave it as something that happens at the beginning and end of phases. You will find out how doing user research continuously will:
+
+* keep your team concentrating on real user needs
+
+* help teams design products which are prioritised by user needs 
+
+* help teams iterate products in response to user feedback
 
 ##Data-driven services
 
@@ -97,19 +96,11 @@ Using data to inform decision-making is vital to the development of your service
 
 * find out about the [Performance Platform](/service-manual/measurement/performance-platform) and how you can use it
 
-##Identity assured
+#Practice, procurement and platforms for your digital service
 
-We need to know that users of digital services are who they say they are. In this session, you will learn how the GOV.UK Verify Programme is:
+This one day module will cover governance, procurement and spend control in an agile context, along with an overview of the GOV.UK Verify platform. These are all areas required by the Digital by Default Service Standard.
 
-* creating a market so that users can choose from a number of identity providers
-
-* setting standards for consistently meeting the needs of users, services and departments
-
-* building and running the hub that connects services to identity providers
-
-* working with departments and agencies to identify their services’ GOV.UK Verify requirements and plan their transition to using the GOV.UK Verify service
-
-##Procure to improve
+##Procurement, spend control and governance
 
 Delivering high quality digital services that improve continuously often depends on effective procurement. As a group you will:
 
@@ -129,10 +120,19 @@ GDS delivery managers will lead discussions and exercises around key features of
 
 * retrospectives to continually inspect and improve the work teams do together
 
+##Identity assured
+
+We need to know that users of digital services are who they say they are. In this session, you will learn how the GOV.UK Verify Programme is:
+
+* creating a market so that users can choose from a number of identity providers
+
+* setting standards for consistently meeting the needs of users, services and departments
+
+* building and running the hub that connects services to identity providers
+
+* working with departments and agencies to identify their services’ GOV.UK Verify requirements and plan their transition to using the GOV.UK Verify service
 
 #Request a place
 
-To request a place on the induction programme or the open programme, please fill in this [SurveyMonkey form](https://www.surveymonkey.com/s/3PWSZNX)
-
-Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
+The GDS Skills Team will invite all service manager induction and foundation day participants to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
