@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/user-centred-design
 ---
 
-Carry out user research during every stage of your project. Do it continuously through each stage — don’t leave it as something that happens at the beginning and end of phases.
+Carry out user research during every stage of your project. Do it continuously through each stage --- don’t leave it as something that happens at the beginning and end of phases.
 
 Doing user research continuously will:
 
@@ -32,10 +32,10 @@ Doing user research continuously will:
 
 Each team needs to have a designer and a researcher working together, both having an active interest in the design and user insight.
 
-This isn’t about a user researcher ‘testing’ the work of the designer — having designers and researchers work together means that:
+This isn’t about a user researcher ‘testing’ the work of the designer --- having designers and researchers work together means that:
 
 * they’re sharing all the knowledge that’s been gathered about users, so any decisions made on the product design will be influenced by real user insights
-* the researcher can provide more information and more regular feedback — helping the entire team to iterate and prioritise, and create the best possible product
+* the researcher can provide more information and more regular feedback --- helping the entire team to iterate and prioritise, and create the best possible product
 * they’ll continually create experiments that allow them to test and prove whether or not design approaches create products that users find understandable and desirable
 
 Make sure that you have a team member leading on research that sits with the team. They may also do other work (design, write content etc), but are also responsible for running research at least every 2 weeks.
@@ -55,7 +55,7 @@ Each 2-week iteration should comprise of 3 stages:
 
 ## Build
 
-With every iteration, create materials to be included in the next round of research. In the alpha and beta phases, these will typically be prototypes that vary in accuracy — from paper prototypes through to working prototypes in code.
+With every iteration, create materials to be included in the next round of research. In the alpha and beta phases, these will typically be prototypes that vary in accuracy --- from paper prototypes through to working prototypes in code.
 
 Use [existing GDS code](https://github.com/alphagov) and other open source frameworks as:
 
@@ -102,7 +102,7 @@ Make sure that you have both facilities booked and participants recruited as ear
 
 To prepare for these sessions, you need to:
 
-* define your research questions — what do you want to learn from the round of user testing?
+* define your research questions --- what do you want to learn from the round of user testing?
 * prepare some theories about your design, eg changing the words on the button will encourage people to read the page more carefully
 * decide how you’ll know when these theories have been proved or disproved, eg you’ll know this is true because you’ll observe people taking more time to read the page
 * decide the type/demographic of users you want to talk to
@@ -174,7 +174,7 @@ To do this correctly, you need to:
 
 * gather all the post-it note observations created during the testing sessions and stick them up on a big wall
 * group the observations into similar themes
-* create findings — a statement that summarises the observations — for each group, and write it down on a post-it note, sticking it on top of the group
+* create findings --- a statement that summarises the observations --- for each group, and write it down on a post-it note, sticking it on top of the group
 * try to address the theories and decide if you have enough information to state a theory is now proven or disproven
 * a theory needs further qualitative/quantitative testing
 

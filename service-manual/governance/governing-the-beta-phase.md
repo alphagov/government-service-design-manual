@@ -44,7 +44,7 @@ Including risks in your roadmap will help you focus on the risks that are releva
 
 **Measure progress**
 
-The most important measures of progress are seeing the service being delivered and user satisfaction. The team wall is another useful way of seeing how delivery is progressing — it’s essential everyone understands how the wall can help show progress.
+The most important measures of progress are seeing the service being delivered and user satisfaction. The team wall is another useful way of seeing how delivery is progressing --- it’s essential everyone understands how the wall can help show progress.
 
 Find out more about [how to decide what to measure](/service-manual/measurement/other-kpis#decide-what-to-measure).
 
