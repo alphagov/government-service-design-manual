@@ -44,7 +44,7 @@ The programme is funded centrally, but you or your department will need to pay f
 
 This one day module will cover [digital take-up](/service-manual/measurement/digital-takeup), digital inclusion and [assisted digital](/service-manual/assisted-digital), and focuses on supporting your users to use your digital service. These are all areas required by the Digital by Default Service Standard.
 
-It’s essential to ‘shift’ people away from non-digital channels and increase the take-up of government digital services so more users can benefit from improved government services. Departments and agencies will also come under increasing pressure to deliver the return on the investment in digital services – estimated at between £1.7 and £1.8 billion per year.
+It’s essential to ‘shift’ people away from non-digital channels and increase the take-up of government digital services so more users can benefit from improved government services. Departments and agencies will also come under increasing pressure to deliver the return on the investment in digital services -- estimated at between £1.7 and £1.8 billion per year.
 
 Digital inclusion helps people become capable of using and benefiting from the internet. This means that most users will be able to use new and redesigned government digital services unaided, but there are some who will need help through assisted digital support.
 
