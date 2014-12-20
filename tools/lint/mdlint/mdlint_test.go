@@ -71,6 +71,16 @@ this is another line
 	assertChannelIsEmpty(t, collector)
 }
 
+func TestLiteralEmDashesAreBad(t *testing.T) {
+	collector := goLint(`
+this is the first line — OK?
+[this is a link](http://example.com/)
+this is another line
+`)
+	assertPrefix(t, <-collector, "literal em dash at")
+	assertChannelIsEmpty(t, collector)
+}
+
 func TestLineNumberOfProblemWithBracesIsCaptured(t *testing.T) {
 	collector := goLint(`
 this is the first line
