@@ -22,7 +22,7 @@ breadcrumbs:
 
 ---
 
-There are [5 phases of service delivery](/service-manual/phases) — discovery, alpha, beta, live and retirement. Governance is important across all these phases and ensures the transition between them is seamless. People who govern must anticipate problems that could affect delivery and make sure it isn't slowed down.
+There are [5 phases of service delivery](/service-manual/phases) --- discovery, alpha, beta, live and retirement. Governance is important across all these phases and ensures the transition between them is seamless. People who govern must anticipate problems that could affect delivery and make sure it isn't slowed down.
 
 
 ##Discovery

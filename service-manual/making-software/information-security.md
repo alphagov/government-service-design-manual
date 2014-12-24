@@ -240,7 +240,7 @@ Aim for a system where the risks are known, and have your team work with risk pr
 
 ## Further reading
 
-* [Security Engineering — Ross
+* [Security Engineering --- Ross
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html) is a comprehensive textbook covering the theory and practice of building secure systems
 * [HMG IA Standard No. 1 -- Technical Risk Assessment](https://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf), the CESG guide to assessing risk in information systems
 * [Business Impact Level Tables](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)

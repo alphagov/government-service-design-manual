@@ -24,6 +24,7 @@ type lintResult struct {
 	brackets *list.List
 	parens   *list.List
 	enDashes map[int]int
+	emDashes  map[int]int
 }
 
 // Lint reads the provided reader (with an optional associated path)
@@ -40,10 +41,14 @@ func Lint(reader *bufio.Reader, path string, out chan<- error) {
 	for line := range lintResult.enDashes {
 		out <- fmt.Errorf("literal en dash at %s:%d - please use -- instead", path, line)
 	}
+
+	for line := range	lintResult.emDashes {
+		out <- fmt.Errorf("literal em dash at %s:%d - please use --- instead", path, line)
+	}
 }
 
 func lint(reader *bufio.Reader, path string, out chan<- error) lintResult {
-	res := lintResult{list.New(), list.New(), make(map[int]int)}
+	res := lintResult{list.New(), list.New(), make(map[int]int), make(map[int]int)}
 	line := 1
 	column := 1
 	pos := int64(0)
@@ -85,6 +90,8 @@ func lint(reader *bufio.Reader, path string, out chan<- error) lintResult {
 			}
 		case '–':
 			res.enDashes[line]++
+		case '—':
+			res.emDashes[line]++
 		case '\n':
 			line++
 			column = 0

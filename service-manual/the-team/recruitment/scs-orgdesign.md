@@ -21,7 +21,7 @@ breadcrumbs:
     title: The team
     url: /service-manual/the-team
 ---
-Government has traditionally treated IT as a single entity with the same approach being used for very different types of service. Government IT is more appropriately mapped into distinct areas with different user needs — some are public facing, and some are for internal use. These areas include:
+Government has traditionally treated IT as a single entity with the same approach being used for very different types of service. Government IT is more appropriately mapped into distinct areas with different user needs --- some are public facing, and some are for internal use. These areas include:
 
 * digital public services
 * mission IT systems
