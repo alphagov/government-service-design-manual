@@ -31,4 +31,4 @@ Instead, use: "QQ 12 34 56 C"
 
 ## Further reading
 
-* [http://en.wikipedia.org/wiki/National_Insurance_number](http://en.wikipedia.org/wiki/National_Insurance_number)
+* [https://en.wikipedia.org/wiki/National_Insurance_number](https://en.wikipedia.org/wiki/National_Insurance_number)

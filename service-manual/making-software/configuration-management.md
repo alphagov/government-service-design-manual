@@ -34,7 +34,7 @@ Configuration management tools will help with documenting and maintaining the co
 Three examples of existing open source configuration management tools are:
 
 * [CFEngine](http://cfengine.com/)
-* [Chef](http://www.getchef.com/chef/)
+* [Chef](https://www.chef.io/chef/)
 * [Puppet](https://puppetlabs.com/)
 
 ### Infrastructure as code

@@ -142,7 +142,7 @@ they are able to understand and address risks to the information.
 
 #### CESG (originally Communications Electronics Security Group)
 
-[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. They can provide technical assistance or consultation on project issues.
+[CESG](https://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. They can provide technical assistance or consultation on project issues.
 
 #### CESG Listed Adviser Scheme (CLAS) consultant
 

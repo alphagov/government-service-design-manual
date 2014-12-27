@@ -102,7 +102,7 @@ To find out more about ways to use data, try reading:
 
 * an article on [online customer satisfaction scores](http://www.theguardian.com/money/2010/dec/22/amazon-top-consumer-satisfaction) for retailers, based on the Customer Satisfaction Index, written for *The Guardian*
 * [The role of the data scientist](http://radar.oreilly.com/2010/06/what-is-data-science.html) by Mike Loukides
-* [Costing customer time](http://www.hmrc.gov.uk/research/cost-of-time.pdf) (PDF, 79k), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government -- this is important because some channels may be quicker to use than others)
+* [Costing customer time](/government/publications/costing-customer-time), a method for calculating the cost of a transaction for both the service provider and the user (HMRC developed a method for calculating the cost of a users time when interacting with government -- this is important because some channels may be quicker to use than others)
 * [Designing with Data](http://designingwithdata.co.uk/), an excellent book by Brian Suda which helps you to design beautiful and powerful data visualisations
 * [Juice Analytics](http://www.juiceanalytics.com/), a website with lots of useful resources on how to design and develop useful data visualisations and dashboards
 * Edward Tufte’s [The Visual Display of Quantitative Information](http://www.edwardtufte.com/tufte/books_vdqi), an original piece of work on data visualisation and introduces the concept of chartjunk

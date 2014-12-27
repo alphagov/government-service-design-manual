@@ -98,8 +98,8 @@ It’s worthwhile to learn a number of tools and techniques and strengthen your 
 
 Some options to think about when training are:
 
-* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](http://www.scrumalliance.org), Kanban and Extreme Programming ([others are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
-* more specific practices such as: agile user stories, agile estimating, agile planning, managing teams ([more are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
+* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](https://www.scrumalliance.org/), Kanban and Extreme Programming ([others are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
+* more specific practices such as: agile user stories, agile estimating, agile planning, managing teams ([more are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
 * softer skills such as workshop facilitation, coaching, motivating teams
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
@@ -147,8 +147,8 @@ It’s worthwhile to learn a number of tools and techniques and strengthen your 
 
 Some options to think about when training are:
 
-* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](http://www.scrumalliance.org), Kanban and Extreme Programming ([others are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
-* more specific practices such as: agile user stories, agile estimating, agile planning ([more are available here](http://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
+* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](https://www.scrumalliance.org/), Kanban and Extreme Programming ([others are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
+* more specific practices such as: agile user stories, agile estimating, agile planning ([more are available here](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 

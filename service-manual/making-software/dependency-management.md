@@ -146,7 +146,7 @@ Most operating systems, vendors and some open source projects  will also have ma
 to advise about security vulnerabilities in third party code. You should always be
 monitoring these lists where they exist for software you use. Some common examples include:
 
-* [RedHat](https://access.redhat.com/site/security/updates/advisory/)
+* [RedHat](https://access.redhat.com/security/updates/advisory/)
 * [Ubuntu](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce)
 * [Microsoft](http://technet.microsoft.com/en-us/security/dd252948.aspx)
 * [CERT-UK](https://www.cert.gov.uk/register-for-alerts/)

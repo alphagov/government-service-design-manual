@@ -73,6 +73,6 @@ Even if a site or application is able to scale out successfully it doesn’t mea
 
 ## Further reading
 
-* [Matt Cutts from Google on page speed](http://www.mattcutts.com/blog/site-speed/)
-* [distributed Denial of Service attacks](http://en.wikipedia.org/wiki/Denial-of-service_attack)
+* [Matt Cutts from Google on page speed](https://www.mattcutts.com/blog/site-speed/)
+* [distributed Denial of Service attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack)
 * [capacity planning presentation](http://www.slideshare.net/jallspaw/velocity2008-capacity-management1-484676)

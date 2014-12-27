@@ -84,7 +84,7 @@ Full details of current requirements are detailed in the [Cabinet Office ICT Spe
 
 If your project cost exceeds your department’s main delegated authority set by Treasury it will be classed as a major project. GDS and HMT have released a [guidance clarification](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) explaining how agile approval can be streamlined in these cases. You will still need to engage with the Major Projects Authority (MPA).
 
-HMT's ['Major Project approval and assurance guidance'](http://www.hm-treasury.gov.uk/d/major_projects_approvals_assurance_guidance.PDF)(PDF) describes the Treasury's and the MPA's process. The Cabinet Office's ['Integrated Assurance and Approval Plan'](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf)(PDF), explains the approvals needed through the lifecycle of the project.
+HMT's ['Major Project approval and assurance guidance'](/government/uploads/system/uploads/attachment_data/file/179763/major_projects_approvals_assurance_guidance.PDF.pdf) (PDF) describes the Treasury's and the MPA's process. The Cabinet Office's ['Integrated Assurance and Approval Plan'](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf)(PDF), explains the approvals needed through the lifecycle of the project.
 
 
 
