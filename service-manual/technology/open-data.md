@@ -109,7 +109,7 @@ The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact f
 
 The [Open Data Institute](https://theodi.org/) and the [Open Knowledge Foundation](https://okfn.org/) can give you advice and training on how to open up your data.
 
-The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
+The [Government Statistical Service](https://gss.civilservice.gov.uk/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
 ##Further reading
 

@@ -43,7 +43,7 @@ Scale according to service needs, instead of trying to scale across the entire o
 
 You can scale up by adding people to existing teams or by creating new ones. It’s better to increase the size of existing teams until it becomes impractical. If this happens, consider adding more teams.
 
-Scale incrementally instead of resourcing to peak capacity from an early stage. New [business case arrangements](/service-manual/governance/funding-your-digital-service) and use of [procurement frameworks](https://ccs.cabinetoffice.gov.uk/contracts/rm1043) allow you to build your team as the work requires.
+Scale incrementally instead of resourcing to peak capacity from an early stage. New [business case arrangements](/service-manual/governance/funding-your-digital-service) and use of [procurement frameworks](http://ccs-agreements.cabinetoffice.gov.uk/contracts/rm1043) allow you to build your team as the work requires.
 
 It’s easy to forget about reducing teams and team size to match the work throughout the life of your service. When a service moves from beta to live, more user needs will have been met and there’s typically less remaining work. Whilst you must continuously, iteratively improve your service over time, you won’t always need the same size of team as you did during peak development, so think about how and when to scale down.
 

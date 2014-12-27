@@ -156,7 +156,7 @@ Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
-Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](www.meetup.com) or you could start your own.
+Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](http://www.meetup.com) or you could start your own.
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand)
 
@@ -206,7 +206,7 @@ There’s also a [job description for an agile coach](/service-manual/the-team/r
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile).
 
-Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](www.meetup.com) or you could start your own.
+Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](http://www.meetup.com) or you could start your own.
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand).
 
