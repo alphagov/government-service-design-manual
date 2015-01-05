@@ -60,7 +60,7 @@ The Performance Platform's [Node.js application][spotlight] uses the [Mustache][
 
 [static]: https://github.com/alphagov/static/blob/release_1994/Gemfile#L27-30
 [spotlight]: https://github.com/alphagov/spotlight
-[mustache]: http://mustache.github.io/
+[mustache]: https://mustache.github.io/
 
 You should be able to become a consumer of the template in exactly the same way these two projects
 are, by adding it to your application's dependencies.

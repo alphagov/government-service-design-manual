@@ -56,7 +56,7 @@ Explanatory text will be needed in some cases, but it should not simply repeat t
 
 Choosing the right visualisation will help the data tell its own story and give powerful insight. There are many ways of displaying information visually. 
 
-Most computer programmes come with a range of visualisations. There also visualisation tools available online: for example, this [blog showcases some free ones](http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?taxonomyId=18&pageNumber=1) and GDS has produced [a guide to infographics](/service-manual/assets/documents/Infographics_Guide.pdf)
+Most computer programmes come with a range of visualisations. There also visualisation tools available online: for example, this [blog showcases some free ones](http://www.computerworld.com/article/2507728/enterprise-applications-22-free-tools-for-data-visualization-and-analysis.html) and GDS has produced [a guide to infographics](/service-manual/assets/documents/Infographics_Guide.pdf)
 
 Each chart has its own strength. Below are the core 5 with templates (a [Google spreadsheet of these is available](https://docs.google.com/spreadsheet/pub?key=0AtlK1009bUPidGVET1h5Z0xNSFJvVXA5MFF2ZHBKakE&output=html)):
 
@@ -219,6 +219,6 @@ Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http
 
 Edward Tufte’s [*The Visual Display of Quantitative Information*](http://www.edwardtufte.com/tufte/books_vdqi) is a seminal work on data visualisations and introduces the concept of chartjunk. Here is a [video of Edward Tufte discussing his theories on visual thinking and analytical design](https://www.youtube.com/watch?v=Th_1azZA2OY).
 
-This article from the [Peltier Tech blog](http://peltiertech.com/WordPress/ten-chart-design-principles-guest-post/) covers the ten chart design principles.
+This article from the [Peltier Tech blog](http://peltiertech.com/ten-chart-design-principles-guest-post/) covers the ten chart design principles.
 
 The [Flowing Data](http://flowingdata.com/) blog is a source of data visualisation news.

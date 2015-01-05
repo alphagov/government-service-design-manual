@@ -58,7 +58,7 @@ The Open Data Principles that you must follow are:
 6. Public data from different departments about the same subject will be published in the same, standard formats and with the same definitions.
 7. Public data underlying the Government’s own websites will be published in reusable form.
 8. Public data will be timely and fine-grained.
-9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats), including [linked data forms](http://data.gov.uk/blog/what-is-linked-data).
+9. Release data quickly, and then work to make sure that it is available in [open standard formats](/service-manual/user-centred-design/choosing-appropriate-formats), including [linked data forms](http://data.gov.uk/blog/what-linked-data).
 10. Public data will be freely available to use in any lawful way.
 11. Public data will be available without application or registration, and without requiring details of the user.
 12. Public bodies should actively encourage the reuse of their public data.
@@ -81,7 +81,7 @@ You need to be scrupulous in protecting individual privacy by taking appropriate
 
 You should consider privacy issues at the beginning of all discussions concerning the release of a new dataset or the building of or change to a digital service dealing with personal data.
 
-If you are using new technology to handle personal data or reusing the data in a different way, you may need to carry out a [Privacy Impact Assessment](http://ico.org.uk/for_organisations/data_protection/topic_guides/privacy_impact_assessment). This is an important part of the process for identifying and managing risk.
+If you are using new technology to handle personal data or reusing the data in a different way, you may need to carry out a [Privacy Impact Assessment](https://ico.org.uk/for-organisations/guide-to-data-protection/privacy-by-design/). This is an important part of the process for identifying and managing risk.
 
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
@@ -109,7 +109,7 @@ The team at [data.gov.uk](http://data.gov.uk) is a good first point of contact f
 
 The [Open Data Institute](https://theodi.org/) and the [Open Knowledge Foundation](https://okfn.org/) can give you advice and training on how to open up your data.
 
-The [Government Statistical Service](http://www.statistics.gov.uk/hub/government-statistical-service/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
+The [Government Statistical Service](https://gss.civilservice.gov.uk/) has developed computer-based training to help you to make the right decisions about how to make data available in open formats.
 
 ##Further reading
 

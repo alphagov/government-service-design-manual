@@ -56,6 +56,6 @@ It’s important that you’re accountable for the things you write. If your nam
 
 ##Always get someone to read it first
 
-It’s a given that writers will be professional and mindful of things like the [Civil Service Code](http://www.civilservice.gov.uk/about/values) when they blog, but you should always get someone to read your work over before you hit PUBLISH.
+It’s a given that writers will be professional and mindful of things like the [Civil Service Code](/government/publications/civil-service-code) when they blog, but you should always get someone to read your work over before you hit PUBLISH.
 
 For starters, they’ll probably spot a few mistake that have slipped your notice, but they might also be able to offer a different perspective on the things you’re writing about.

@@ -33,13 +33,13 @@ Online tools are a good way in which to conduct in-house research cheaply and ef
 
 These enable the easy creation of online surveys. Features include a scripting tool that allows easy creation of different question types, the ability to add branding, advanced branching, automated reporting, automatic activation/pop script, email links etc.
 
-Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](https://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](http://www.smartsurvey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
+Some good tools are available free, however, these often have restrictions on the number of questions you can ask, the number of completes you can collect, and advance features such as API, and branding. Examples include [Survey Monkey](https://www.surveymonkey.com/), [Survey Expression](http://www.surveyexpression.com/), [Smart Survey](https://www.smartsurvey.co.uk/) and [Fluid Surveys](http://fluidsurveys.com/).
 
 ## Remote user testing tools
 
 These tools enable user research teams to conduct remote usability testing in-house. These tools allow you to script the surveys easily, while also conduct the analysis to be conducted relatively simply and quickly.
 
-Most of these tools also enable you to conduct standard online surveys within the same software package. Examples include [Keynote Webeffective](http://www.keynote.com/products/customer_experience/web_ux_research_tools/webeffective.html), and [User Zoom](http://www.userzoom.co.uk/).
+Most of these tools also enable you to conduct standard online surveys within the same software package. Examples include [Keynote Webeffective](http://www.keynote.com/solutions/analytics), and [User Zoom](http://www.userzoom.co.uk/).
 
 ## Card sorting tools
 
@@ -51,8 +51,8 @@ Enable in-house research teams to conduct focus groups online. Most also enable 
 
 ## Community groups
 
-Enables in-house research team to manage a community of users and/or stakeholders. These normally come part of a larger online research tools package. Examples include [LiveMinds](http://www.liveminds.co.uk/) and [Bloomfire](http://www.bloomfire.com/).
+Enables in-house research team to manage a community of users and/or stakeholders. These normally come part of a larger online research tools package. Examples include [LiveMinds](http://www.liveminds.co.uk/) and [Bloomfire](https://bloomfire.com/).
 
 ## Text analysis tool
 
-Enables the analysis of large amounts of written feedback -- via email, helpdesk etc. This software enables you to sort user feedback into themes, and make it easier to action. Examples include [Feedback Ferret](http://www.feedbackferret.com/) and [Atlas](http://www.atlasti.com/).
+Enables the analysis of large amounts of written feedback -- via email, helpdesk etc. This software enables you to sort user feedback into themes, and make it easier to action. Examples include [Feedback Ferret](http://www.feedbackferret.com/) and [Atlas](http://atlasti.com/).

@@ -97,7 +97,7 @@ If you’re unhappy with the way [department name] handled your personal informa
 
 You’ll get a confirmation that [department name] has received your complaint within 5 days and a full answer within 20 days. [Department name] will tell you if there's going to be a delay. 
 
-If you’re unhappy with the answer or need any advice, contact the [Information Commissioner’s Office (ICO)](http://ico.org.uk/concerns/getting).
+If you’re unhappy with the answer or need any advice, contact the [Information Commissioner’s Office (ICO)](https://ico.org.uk/concerns/getting/).
 
 The ICO can investigate your complaint and take action against anyone who has misused personal data.
 

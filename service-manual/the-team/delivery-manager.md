@@ -57,5 +57,5 @@ Click either of the options below to download a template Delivery Manager job de
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 
 ## Further reading
-* [Good health check](http://www.scrumalliance.org/community/articles/2008/july/the-manager-s-role-in-agile) from the Scrum Alliance for delivery managers.
+* [Good health check](https://www.scrumalliance.org/community/articles/2008/july/the-manager-s-role-in-agile) from the Scrum Alliance for delivery managers.
 * [A day in the life of a delivery manager](https://gds.blog.gov.uk/2012/12/12/a-day-in-the-life-of-a-delivery-manager/) - blog

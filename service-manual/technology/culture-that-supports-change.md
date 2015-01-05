@@ -40,7 +40,7 @@ To create better public services you’ll need to change existing behaviours and
 
 You may need to radically change governance and management structures and will need to run projects in a more [agile](/service-manual/agile/index.html) way.
 
-You’ll need an effective approach to information management, ensuring you adhere to the high level direction and guidance provided in the [Information Principles](http://www.nationalarchives.gov.uk/information-management/manage-information/planning/information-principles).
+You’ll need an effective approach to information management, ensuring you adhere to the high level direction and guidance provided in the [Information Principles](https://www.nationalarchives.gov.uk/information-management/manage-information/planning/information-principles/).
 
 You'll need to build relationships with new suppliers that you may have found through new procurement routes, such as [the G-Cloud framework](/how-to-use-cloudstore).
 

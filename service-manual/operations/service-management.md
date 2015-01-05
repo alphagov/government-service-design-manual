@@ -60,7 +60,7 @@ frameworks (especially as a starting point) is one approach to this problem.
 
 ## ITIL
 
-[ITIL](http://www.itil-officialsite.com/) (the Information Technology Infrastructure
+[ITIL](https://www.axelos.com/itil) (the Information Technology Infrastructure
 Library) is one such framework. ITIL does a particularly good job of facilitating shared
 language. For instance it's definition of a service is:
 
@@ -163,8 +163,8 @@ might not.
 It is important to note that other service management frameworks and standards
 exist, including some that are of a similar size and scope to ITIL:
 
-* [ISO/IEC 20000](http://en.wikipedia.org/wiki/ISO/IEC_20000)
-* [Microsoft Operations Framework](http://www.microsoft.com/MOF)
+* [ISO/IEC 20000](https://en.wikipedia.org/wiki/ISO/IEC_20000)
+* [Microsoft Operations Framework](https://www.microsoft.com/MOF)
 
 Many organisations also use smaller processes and integrate them together.
 The needs of your service and organisation will determine what works best for you.
@@ -208,7 +208,7 @@ performance data, changes to best practice and service demand
 ## Further reading
 
 * [Functions in service management](http://www.slideshare.net/nuwulang/functions-in-service-operation)
-* [ITIL on Wikipedia](http://en.wikipedia.org/wiki/ITIL)
+* [ITIL on Wikipedia](https://en.wikipedia.org/wiki/ITIL)
 * [Introduction to ILIL v3](http://www.best-management-practice.com/gempdf/itsmf_an_introductory_overview_of_itil_v3.pdf)
 * [Discussion of Devops and ITIL](http://blog.ingineering.it/post/59414765140/itil-vs-devops-slugfest-or-lovefest)
 * [Discussion of ITIL and Continuous Delivery](http://changeandrelease.com/2014/04/05/devops-and-itil-continuous-delivery-doesnt-stop-at-software/)

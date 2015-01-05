@@ -98,8 +98,8 @@ It’s worthwhile to learn a number of tools and techniques and strengthen your 
 
 Some options to think about when training are:
 
-* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](http://www.scrumalliance.org), Kanban and Extreme Programming ([others are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
-* more specific practices such as: agile user stories, agile estimating, agile planning, managing teams ([more are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
+* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](https://www.scrumalliance.org/), Kanban and Extreme Programming ([others are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
+* more specific practices such as: agile user stories, agile estimating, agile planning, managing teams ([more are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
 * softer skills such as workshop facilitation, coaching, motivating teams
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
@@ -147,8 +147,8 @@ It’s worthwhile to learn a number of tools and techniques and strengthen your 
 
 Some options to think about when training are:
 
-* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](http://www.scrumalliance.org), Kanban and Extreme Programming ([others are available](http://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
-* more specific practices such as: agile user stories, agile estimating, agile planning ([more are available here](http://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
+* specific frameworks and methodologies: Start with lightweight frameworks and methodologies such as [Scrum](https://www.scrumalliance.org/), Kanban and Extreme Programming ([others are available](https://en.wikipedia.org/wiki/Agile_software_development#Agile_methods))
+* more specific practices such as: agile user stories, agile estimating, agile planning ([more are available here](https://en.wikipedia.org/wiki/Agile_software_development#Agile_practices))
 
 Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.gov.uk) portal to book formal classroom training as a civil servant
 
@@ -156,7 +156,7 @@ Refer to the [Civil Service Learning](https://civilservicelearning.civilservice.
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile/index).
 
-Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](www.meetup.com) or you could start your own.
+Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](http://www.meetup.com) or you could start your own.
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand)
 
@@ -206,7 +206,7 @@ There’s also a [job description for an agile coach](/service-manual/the-team/r
 
 You can teach yourself through self-initiated learning, networking and reading books and blogs.  The first thing you should read is [the agile section of the Service Design Manual](/service-manual/agile).
 
-Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](www.meetup.com) or you could start your own.
+Networking is a useful way of learning. You can also find local meetups and events close to you at [meetup.com](http://www.meetup.com) or you could start your own.
 
 There are hundreds of blogs about agile and lean techniques with lots to learn. Subscribe to ones that you think are interesting. GDS also has an [agile delivery community](http://linkydink.io/groups/gds-agile-delivery-community) links list that’s updated regularly, which you can subscribe to. It’s also worth having a look to see if there are any relevant collections on the links collection service [paper.li](http://paper.li/newsstand).
 

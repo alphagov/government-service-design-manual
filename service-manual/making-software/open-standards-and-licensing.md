@@ -86,7 +86,7 @@ You should also consider how the standard fits with:
 * user and functional needs
 * security and legal requirements
 * economic efficiency of government as a whole
-* [interoperability](http://en.wikipedia.org/wiki/Interoperability)
+* [interoperability](https://en.wikipedia.org/wiki/Interoperability)
 * preventing lock-in
 
 You'll need to apply for exemptions to open standards if:

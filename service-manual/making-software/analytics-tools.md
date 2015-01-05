@@ -90,7 +90,7 @@ Sites that provide vendor comparison information:
 * [AboutAnalytics](http://www.aboutanalytics.com/)
 * [Web Analytics Tools Comparison: A Recommendation](http://www.kaushik.net/avinash/web-analytics-tools-comparison-a-recommendation/) - old, but thoughtful
 * [Analytics tool comparison](http://www.slideshare.net/shvmdhwn/analytics-tool-comparison)
-* [Enterprise Web Analytics: A Buyer’s Guide](http://searchengineland.com/buyers-guides/enterprise-web-analytics-tools-in-the-facebook-era-a-buyers-guide)
+* [Enterprise Web Analytics: A Buyer’s Guide](http://marketingland.com/buyers-guides/enterprise-web-analytics-tools-in-the-facebook-era-a-buyers-guide)
 
 Sites that provide information on digital analytics:
 

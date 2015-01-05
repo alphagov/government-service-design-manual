@@ -34,7 +34,7 @@ Many uses of cookies are harmless, but sometimes they are used to track users an
 
 ## Privacy and Electronic Communications Regulations
 
-In May 2011, the [Privacy and Electronic Communications Regulations](http://ico.org.uk/for_organisations/privacy_and_electronic_communications) were updated to require website operators to gain consent before storing or retrieving data from a user's computer (or other device). This change directly affects the use of cookies and other similar technologies, like HTML5 local storage.
+In May 2011, the [Privacy and Electronic Communications Regulations](https://ico.org.uk/for-organisations/guide-to-pecr/) were updated to require website operators to gain consent before storing or retrieving data from a user's computer (or other device). This change directly affects the use of cookies and other similar technologies, like HTML5 local storage.
 
 Before using cookies, your website operator needs to either:
 
@@ -42,7 +42,7 @@ Before using cookies, your website operator needs to either:
 - be satisfied that the user understands that their actions will result in cookies being stored (implied consent)
 - be satisfied that the cookie is "absolutely essential" to the operation of the website (eg cookies used for operating a shopping cart)
 
-Responsibility for [complying with these regulations](http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies) lies with your website operator.
+Responsibility for [complying with these regulations](https://ico.org.uk/for-organisations/guide-to-pecr//the_guide/cookies) lies with your website operator.
 
 ## Using cookies
 
@@ -102,7 +102,7 @@ These cookies do not need to gain consent from a user. Exempt cookies have many 
 * being used for [load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
 * being absolutely essential to website functionality (eg used to store shopping cart contents)
 
-Still notify users that these cookies are in use, even though they are exempt from the [Privacy and Electronic Communications Regulations](http://ico.org.uk/for_organisations/privacy_and_electronic_communications).
+Still notify users that these cookies are in use, even though they are exempt from the [Privacy and Electronic Communications Regulations](https://ico.org.uk/for-organisations/guide-to-pecr/).
 
 ## Cookie information and warnings
 

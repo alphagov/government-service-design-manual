@@ -115,7 +115,7 @@ Those interested in Devops are often also interested in:
 
 ## Further reading
 
-* [What Devops Means to Me](http://www.getchef.com/blog/2010/07/16/what-devops-means-to-me/)
+* [What Devops Means to Me](https://www.chef.io/blog/2010/07/16/what-devops-means-to-me/)
 * [what is this Devops thing anyway?](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/)
 * [what is Devops (and the wall of confusion)](http://dev2ops.org/2010/02/what-is-devops/)
 * [there’s no such thing as a "Devops Team"](http://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/)

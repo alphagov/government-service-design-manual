@@ -135,7 +135,7 @@ Share software that’s developed to meet the needs of government wherever possi
 
 Sharing software means it can be widely used and improved by anyone in the world who has a similar need. It’s important that other governments in particular have the opportunity to reuse the software you’ve created, because everyone deserves to have [digital services so good that people prefer to use them](/service-manual/digital-by-default).
 
-For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/alphagov/unicornherder) are small components that were [developed as a part of GOV.UK](https://gds.blog.gov.uk/govuk-launch-colophon/). They're now used by several different organisations, and have received a number of [public contributions](https://github.com/alphagov/unicornherder/commits/master).
+For example [GovSpeak](https://github.com/alphagov/govspeak) and [unicorn herder](https://github.com/gds-operations/unicornherder) are small components that were [developed as a part of GOV.UK](https://gds.blog.gov.uk/govuk-launch-colophon/). They're now used by several different organisations, and have received a number of [public contributions](https://github.com/gds-operations/unicornherder/commits/master).
 
 In practice, sharing usually means:
 

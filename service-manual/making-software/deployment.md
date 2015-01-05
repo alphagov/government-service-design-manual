@@ -386,7 +386,7 @@ deployment pipeline was not streamlined enough to accommodate a rapid
 deployment of a fix to production.
 
 [CFEngine]: http://cfengine.com/
-[Chef]: http://www.getchef.com/chef/
+[Chef]: https://www.chef.io/chef/
 [Puppet]: https://puppetlabs.com/
 [immutable server]: http://martinfowler.com/bliki/ImmutableServer.html
 [lxc]: https://linuxcontainers.org/
@@ -395,6 +395,6 @@ deployment of a fix to production.
 [Hiera]: http://projects.puppetlabs.com/projects/hiera
 [hiera-gpg]: https://github.com/crayfishx/hiera-gpg
 [GPG]: https://www.gnupg.org/
-[chef data bags]: http://docs.opscode.com/essentials_data_bags.html
+[chef data bags]: https://docs.chef.io/data_bags.html
 
 *[API]: application programming interface 

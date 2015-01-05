@@ -142,7 +142,7 @@ they are able to understand and address risks to the information.
 
 #### CESG (originally Communications Electronics Security Group)
 
-[CESG](http://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. They can provide technical assistance or consultation on project issues.
+[CESG](https://www.cesg.gov.uk/Pages/homepage.aspx) are the government agency responsible for Information Security. They can provide technical assistance or consultation on project issues.
 
 #### CESG Listed Adviser Scheme (CLAS) consultant
 
@@ -244,7 +244,7 @@ Aim for a system where the risks are known, and have your team work with risk pr
   Anderson](http://www.cl.cam.ac.uk/~rja14/book.html) is a comprehensive textbook covering the theory and practice of building secure systems
 * [HMG IA Standard No. 1 -- Technical Risk Assessment](https://www.cesg.gov.uk/publications/Documents/is1_risk_assessment.pdf), the CESG guide to assessing risk in information systems
 * [Business Impact Level Tables](https://www.cesg.gov.uk/publications/Documents/business_impact_tables.pdf)
-* [Guidance on Information Asset Owner role](/government/uploads/system/uploads/attachment_data/file/255914/Guidance_on_the_IAO_Role.pdf)
+* [Guidance on Information Asset Owner role](/government/publications/information-asset-owner-role-guidance)
 
 *[BCS]: Baseline Control Set
 *[CESG]: UK National Technical Authority for information assurance
