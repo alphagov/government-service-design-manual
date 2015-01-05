@@ -74,15 +74,15 @@ The control covers the total cost of running that service, including any assiste
 
 The definition of digital does not include content creation on existing sites, intranets or those areas listed under the advertising, marketing and communications controls.
 
-## Further information on the process 
+## Further information on the process
 
-Users should refer to Cabinet Office [controls guidance](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32), specifically the [digital and technology section].(https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32#digital-and-technology-including-id-assurance) 
+Users should refer to Cabinet Office [controls guidance](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32), specifically the [digital and technology section](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32#digital-and-technology-including-id-assurance).
 
 Departments should engage early with GDS to agree the appropriate points for approval, before the first approval is needed (usually after the discovery phase, at strategic outline case or before a prior information notice is issued).  This early engagement will avoid departments proceeding too far without approval and reduces the risk of irregular expenditure.
 
 Full details of current requirements are detailed in the [Cabinet Office ICT Spend Control Form](https://www.gov.uk/government/publications/cabinet-office-controls).  You can start the process by e-mailing [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk). If your request contains ‘Restricted’ information it should be sent to [ictspendapproval@cabinet-office.gsi.gov.uk](mailto:ictspendapproval@cabinet-office.gsi.gov.uk). Note that your organisation may have established a single point of contact for engaging with GDS, so check first within your organisation.
 
-If your project cost exceeds your department’s main delegated authority set by Treasury it will be classed as a major project. GDS and HMT have released a [guidance clarification](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) explaining how agile approval can be streamlined in these cases. You will still need to engage with the Major Projects Authority (MPA).
+If your project cost exceeds your department’s main delegated authority set by Treasury it will be classed as a major project. GDS and HMT have released a [guidance clarification](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent) explaining how agile approval can be streamlined in these cases. You will still need to engage with the [Major Projects Authority](https://www.gov.uk/government/groups/major-projects-authority) (MPA).
 
 HMT's ['Major Project approval and assurance guidance'](http://www.hm-treasury.gov.uk/d/major_projects_approvals_assurance_guidance.PDF)(PDF) describes the Treasury's and the MPA's process. The Cabinet Office's ['Integrated Assurance and Approval Plan'](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf)(PDF), explains the approvals needed through the lifecycle of the project.
 
