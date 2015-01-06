@@ -58,11 +58,11 @@ The [Digital by Default Service Standard](/service-manual/digital-by-default) is
 
 Services with more than 100,000 transactions per year are assessed by the Government Digital Service (GDS). Services with under 100,000 transactions a year are [assessed by a team within their own department](/service-manual/digital-by-default/self-certification). 
 
-Assessments happen at 3 points in the development of a service: 
+Assessments happen at 3 points in the development of a service:
 
-+ at the end of the alpha stage and before a private beta
-+ when the service is ready to go to a public beta on GOV.UK
-+ when the service is ready to have its beta branding removed and be fully live  
+ + at the end of the alpha stage
+ + when the service is ready to go to public beta on GOV.UK
+ + at the end of beta when the service is ready to have its beta branding removed and be fully live
 
 This is an assurance and approval process: if the GDS assessment panel doesn’t pass a service, it won’t be awarded the standard or appear on GOV.UK.
 
