@@ -64,11 +64,11 @@ Find out more about [identifying goals during alpha](/service-manual/phases/idea
 
 You should use the measures you agreed to use during discovery. If you decide to measure progress in a different way, you need to make sure this is really necessary and get everyone involved in the decision to change.
 
-The team wall is an important tool -- it’s essential everyone understands how the wall can help show progress.
+The team wall is [how delivery teams manage their work](/service-manual/governance/how-delivery-teams-manage-their-work) --- it’s essential everyone understands how the wall can help show progress.
 
 **Go to show and tells**
 
-This is where the team demonstrates progress by showing what they’ve been doing. It’s an opportunity to ensure user needs are being met. 
+A [show and tell](/service-manual/governance/what-to-expect-from-the-show-and-tell) is where the team demonstrates progress by showing what they’ve been doing. It’s an opportunity to ensure user needs are being met. 
 
 The team may ask for help in unblocking something, or need a decision on something that needs your steer.
 
@@ -106,14 +106,13 @@ Consider the expected lifetime of the service and costs for:
 
 **Revisit procurement needs**
 
-You need to evaluate the size of team you need for beta and get costs for things like cloud services and tools needed for development so you can build a set of costs for spend approval and the business case.
-Rate cards and price lists available in procurement frameworks can help you estimate costs, as can actual spend data of similar services.
+You need to evaluate the size of team you need for beta and get costs for things like cloud services and tools needed for development so you can build a set of costs for spend approval and the business case. Rate cards and price lists available in procurement frameworks can help you estimate costs, as can actual spend data of similar services.
 
 **Develop your business case and get approval**
 
 If you haven’t already appointed a senior responsible officer (SRO), should appoint one now to sponsor the business case. This could be the service manager or someone else senior in the business.
 
-Seek [funding for your digital service](/service-manual/governance/funding-your-digital-service) with a business case for further investment approval and Cabinet Office spend approvals. You can’t start beta until you have an approved business case.
+Seek [funding for your digital service](/service-manual/governance/funding-your-digital-service) with a business case for further investment approval and [Cabinet Office spend control](/service-manual/technology/spending-controls) approvals. You can’t start beta until you have an approved business case.
 
 **Digital by default service standard assessment**
 
@@ -121,22 +120,17 @@ The [Digital by Default Service Standard](/service-manual/digital-by-default) is
 
 This includes creating services that are easily improved, safe, secure and fulfill user needs. The result of an assessment could mean you continue to build towards a beta service, make some changes and come back for re-assessment or stop what you are doing.
 
-**Plan for assurance and audit**
+**Plan for assurance**
 
-In addition to the in-built assurance activities at the team level (eg pairing, show and tells, user research and retrospectives), you can use your department’s internal audit team to provide an independent view.
+In addition to the [in built assurance activities](/service-manual/governance/self-assurance-by-agile-teams) at the team level (eg pairing, show and tells, user research and retrospectives), you can use your department’s internal assurance team to provide an independent view.
 
 A valuable side-effect of this assurance can be identifying potential opportunities and dependencies with other departmental initiatives that could impact your service development.
 
-If your development is, or is part of, a [major project](https://www.gov.uk/government/groups/major-projects-authority) then you’ll have developed an [Integrated Approval and Assurance Plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf) that defines appropriate assurance activities.
+If your service is, or is part of, a [major project](https://www.gov.uk/government/groups/major-projects-authority) then you’ll have developed an [Integrated Approval and Assurance Plan](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61374/MPA_20Guidance.pdf) that defines appropriate assurance activities.
 
 In these circumstances you’d also expect to have a [Major Projects Authority (MPA) Project Assessment Review](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/61378/MPA_20PAR_20guidance_20for_20Departments.pdf) towards the end of alpha to help the shaping of beta and the development and approval of your business case.
 
-Even if you’re not subject to MPA assurance, you should plan the assurance and approvals points in your service roadmap, clearly identifying who needs to be involved, in what role and when.
-Any audit of alpha should focus on the team and governance process and behaviour, not the actual decisions taken.
-
-The team and its governance bodies can only be expected to make decisions based on what’s known at the time. A decision may be found to be wrong as better information becomes available, eg through testing with users. 
-
-If your service development team is working well, it will quickly learn and modify its approach.
+Even if you’re not subject to MPA assurance, you should include assurance and approval points in your service roadmap.
 
 ##Team
 

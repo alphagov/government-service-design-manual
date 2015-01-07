@@ -53,7 +53,7 @@ Read about [GDS’ experience in scaling from a single team of 12 people to 14 t
 
 <hr>
 
-###More from the service manual on scaling
+**More from the service manual on scaling**
 
 [When to scale up](/service-manual/governance/when-to-scale-up)
 
