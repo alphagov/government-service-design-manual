@@ -31,9 +31,9 @@ During the [alpha phase](/service-manual/phases/alpha), you start building and t
 
 To start discovery, you need approval for discovery and alpha. This means:
 
-* [investment approval](#investment-approval-in-your-department-or-at-hm-treasury-via-a-business-case) from your department
+* investment approval from your department
 
-* [Cabinet Office spend control approval](#cabinet-office-spend-control-approval) to spend some of your agreed funding on external resources, eg on suppliers
+* [Cabinet Office spend control approval](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32) to spend on external resources, eg on suppliers
 
 You don’t normally need a detailed business case for discovery and alpha because they inform the development of the bigger investment case for beta and live.
 
@@ -46,15 +46,15 @@ The beta phase is where you build a fully working prototype that you’ll test i
 
 To go to beta you’ll need approval for beta and live. This means:
 
-* [investment approval](#investment-approval-in-your-department-or-at-hm-treasury-via-a-business-case) from your department
+* investment approval from your department
 
-* [Cabinet Office spend control approval](#cabinet-office-spend-control-approval) to spend some of your agreed funding on external resources, eg on suppliers
+* [Cabinet Office spend control approval](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32) to spend on external resources, eg on suppliers
 
 * any other approvals specific to your service eg headcount or salary/grade changes
 
-You **only** need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)) if any of following apply:
+You need to submit a business case to HM Treasury ([HM Treasury published guidance](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent)) if any of following apply:
 
-* your anticipated total spend on the entire programme (including non-digital aspects) is higher than your organisation’s delegated expenditure limit (DEL)
+* your anticipated total spend on the entire programme (including non-digital aspects) is higher than your organisation’s delegated authority as set by HM Treasury
 
 * your digital spend is above £10 million
 
@@ -73,16 +73,6 @@ The programme business case can be used for projects or programmes that have agi
 However, these still apply for large investment decisions involving lengthy public sector OJEU (Official Journal of the European Union) procurement processes. 
 
 There’s more information about this in the [HM Treasury clarification on business cases for agile](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent/agile-systems-projects-a-clarification-of-business-case-guidance).
-
-##The difference between investment approval and spend approval
-
-###Investment approval in your department or at HM Treasury via a business case
-
-This is based on an assessment of the expected cost of an opportunity (like developing a digital service) and the benefits it’s expected to bring. 
-
-###Cabinet Office spend control approval
-
-Having got your funding, this checks you’re spending it effectively.
 
 <hr>
 
