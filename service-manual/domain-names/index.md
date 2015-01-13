@@ -1,6 +1,6 @@
 ---
 layout: category-index
-title: Domain Names, SSL, Email
+title: Domain Names, TLS, Email
 subtitle: Where things live on the web
 category: operations
 type: category-index
