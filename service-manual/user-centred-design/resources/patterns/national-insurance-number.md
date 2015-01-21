@@ -29,6 +29,4 @@ Do not use "AB 12 34 56 C" as an example (it belongs to a real person).
 Instead, use: "QQ 12 34 56 C"
 
 
-## Further reading
-
-* [https://en.wikipedia.org/wiki/National_Insurance_number](https://en.wikipedia.org/wiki/National_Insurance_number)
+[Discuss this page on hackpad](https://designpatterns.hackpad.com/National-Insurance-numbers-ss56rQhpcBT)

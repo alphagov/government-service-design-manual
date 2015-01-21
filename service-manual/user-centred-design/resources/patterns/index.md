@@ -31,7 +31,7 @@ for guidance on styling the basic form elements.
   <li><a href="/service-manual/user-centred-design/resources/patterns/names">Names</a></li>
   <li><a href="/service-manual/user-centred-design/resources/patterns/dates">Dates</a></li>
   <li><a href="/service-manual/user-centred-design/resources/patterns/addresses">Addresses</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/national-insurance-number">National insurance numbers</a></li>
+  <li><a href="/service-manual/user-centred-design/resources/patterns/national-insurance-number">National Insurance numbers</a></li>
 </ul>
 
 
