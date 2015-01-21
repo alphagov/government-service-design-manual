@@ -4,6 +4,7 @@ set -e
 
 if [ $(find . -name '*.orig' -type f | grep -c .) -ne 0 ]; then
   echo "You seem to have some git merge artifacts on the filesystem. Aborting..."
+  find . -name '*.orig' -type f
   exit 1
 fi
 
