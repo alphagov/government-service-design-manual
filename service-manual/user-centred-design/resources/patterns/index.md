@@ -19,7 +19,7 @@ The Design Patterns section is split into two areas, broadly organised according
 
 <ul>
  <li>If you're doing design then you'll probably find the Detail and Process patterns (below) most useful; they're mostly about which patterns to use and why we're recommending them.</li>
- <li>If you're doing development then you'll probably find the [the GOV.UK elements](/service-manual/user-centred-design/resources/elements)  most useful; they're mostly about how to make your service look consistent with GOV.UK and include links to code snippets. </li>
+ <li>If you're doing development then you'll probably find [the GOV.UK elements](/service-manual/user-centred-design/resources/elements)  most useful; they're mostly about how to make your service look consistent with GOV.UK and include links to code snippets. </li>
 </ul>
 
 Whatever you're doing, you'll need to use these patterns as part of a user-centred design approach.
