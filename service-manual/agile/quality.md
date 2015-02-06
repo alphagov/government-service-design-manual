@@ -69,6 +69,7 @@ This manual gives further information on testing:
 * [load and performance testing](/service-manual/operations/load-and-performance-testing.html)
 * [vulnerability and penetration testing](/service-manual/operations/penetration-testing.html)
 * [exploratory testing](/service-manual/making-software/exploratory-testing.html)
+* [security testing](/service-manual/making-software/security-testing.html)
 
 ## Team roles and quality assurance specialists
 
