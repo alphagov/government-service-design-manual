@@ -31,8 +31,6 @@ You may need to scale up if:
 
 * your current pace means you won’t meet delivery commitments
 
-* the team is too big or too far apart to work together effectively
-
 ###There’s too much work for the team
 
 This might be the case if:
