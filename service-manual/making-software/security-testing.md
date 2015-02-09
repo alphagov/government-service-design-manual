@@ -5,9 +5,8 @@ subtitle: What is security testing and how to use it
 category: making-software
 type: guide
 audience:
-  primary: developers, qa
-  secondary: web-ops, tech-archs
-status: draft
+  primary: tech-archs, web-ops, qa
+  secondary: developers, performance-analysts
 phases:
   - alpha
   - beta
