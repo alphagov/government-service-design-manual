@@ -15,40 +15,30 @@ breadcrumbs:
 ---
 
 {:.intro}
-The Design Patterns section is split into two areas, broadly organised according to the main task they are supposed to help with. 
+Use these design patterns to maintain a consistent design across our services.
 
-<ul>
- <li>If you're doing design then you'll probably find the Detail and Process patterns (below) most useful; they're mostly about which patterns to use and why we're recommending them.</li>
- <li>If you're doing development then you'll probably find [the GOV.UK elements](/service-manual/user-centred-design/resources/elements)  most useful; they're mostly about how to make your service look consistent with GOV.UK and include links to code snippets. </li>
-</ul>
+Start with [the GOV.UK elements](/service-manual/user-centred-design/resources/elements) page, to find out how to make your service look consistent with GOV.UK. It also includes links to code snippets.
 
-Whatever you're doing, you'll need to use these patterns as part of a user-centred design approach.
+The patterns below describe our approach to services, transactions and forms.
 
-### Detail patterns
-These patterns bring together our approach to selected details of services, transactions, and forms.
-
-<ul>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/names">Names</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/dates">Dates</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/addresses">Addresses</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/national-insurance-number">National Insurance numbers</a></li>
- <li><a href="/service-manual/user-centred-design/resources/patterns/summary-pages">Summary pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/confirmation-pages">Confirmation pages</a></li>
- <li><a href="/service-manual/user-centred-design/resources/patterns/help-text">Help text</a></li>
-<li><a href="/service-manual/user-centred-design/resources/patterns/progress-indicators">Progress indicators</a></li>
-
-</ul>
+## Detail patterns
+* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure)
+* [Names](/service-manual/user-centred-design/resources/patterns/names)
+* [Dates](/service-manual/user-centred-design/resources/patterns/dates)
+* [Addresses](/service-manual/user-centred-design/resources/patterns/addresses)
+* [National Insurance numbers](/service-manual/user-centred-design/resources/patterns/national-insurance-number)
+* [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages)
+* [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages)
+* [Help text](/service-manual/user-centred-design/resources/patterns/help-text)
+* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators)
 
 
-### Process patterns
-These patterns are mostly about things that you need to do (such as: ask for a start page) or ways to think about wider issues such as the relationship between parts of a transaction and user needs (such as: form structure). 
-<ul>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/form-structure">Form structure</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/start-pages">Start pages</a></li>
-   <li><a href="/service-manual/user-centred-design/resources/patterns/done-pages">Done pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/alpha-beta">Alpha and beta banners</a></li>
+## Process patterns
+These patterns are about things that you need to do, for example: ask for a start page.
 
-</ul>
+* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta)
+* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages)
+* [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages)
 
 ---
 
