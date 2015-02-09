@@ -4,7 +4,8 @@ rvm:
 cache: bundler
 before_install:
   - sudo apt-get update
-  - sudo apt-get install aspell aspell-en
+  - sudo apt-get install aspell aspell-en golang
+  - export GOPATH=$HOME/gopath
 before_script:
   - git fetch origin
   - git submodule update --init
