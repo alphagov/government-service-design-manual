@@ -17,8 +17,8 @@ breadcrumbs:
     title: Home
     url: /service-manual
   -
-  	title: Making software
-  	url: /service-manual/making-software
+    title: Making software
+    url: /service-manual/making-software
 ---
 
 Security Testing intends to find flaws and vulnerabilities in an IT system, as well as the people and processes that surround the system. The practice includes:
@@ -63,7 +63,7 @@ Security must be taken into account throughout the development process, with reg
  
 The amount of security testing required will depend on your system and the data it uses. Systems handling sensitive information are usually subject to formal assessments carried out by the Tiger Scheme or the CREST approved IT health check (ITHC) service, which is accredited by the Communications Electronics Security Group (CESG). 
  
-The frequency of ITHCs will depend on their duration and cost, as well as your number of development cycles.
+The frequency of ITHCs will depend on their duration and cost, as well as your number of development cycles, but ideally you would run one per cycle.
  
 Plan your approach to security accreditation at the start of your project so that everyone is aware of the needs and requirements that have to be fulfilled.
 
