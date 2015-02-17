@@ -22,7 +22,6 @@ Start with [the GOV.UK elements](/service-manual/user-centred-design/resources/e
 The patterns below describe our approach to services, transactions and forms.
 
 ## Detail patterns
-* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure)
 * [Names](/service-manual/user-centred-design/resources/patterns/names)
 * [Dates](/service-manual/user-centred-design/resources/patterns/dates)
 * [Addresses](/service-manual/user-centred-design/resources/patterns/addresses)
@@ -35,7 +34,7 @@ The patterns below describe our approach to services, transactions and forms.
 
 ## Process patterns
 These patterns are about things that you need to do, for example: ask for a start page.
-
+* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure)
 * [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta)
 * [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages)
 * [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages)
