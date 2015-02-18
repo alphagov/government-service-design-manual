@@ -15,44 +15,34 @@ breadcrumbs:
 ---
 
 {:.intro}
-These patterns take the GOV.UK elements and combine them to meet common user needs.
-Use them to maintain a consistent design across our services.
+Use these design patterns to maintain a consistent design across our services.
+
+Start with [the GOV.UK elements](/service-manual/user-centred-design/resources/elements) page, to find out how to make your service look consistent with GOV.UK. It also includes links to code snippets.
+
+The patterns below describe our approach to services, transactions and forms.
+
+## Detail patterns
+* [Names](/service-manual/user-centred-design/resources/patterns/names.html)
+* [Dates](/service-manual/user-centred-design/resources/patterns/dates.html)
+* [Addresses](/service-manual/user-centred-design/resources/patterns/addresses.html)
+* [National Insurance numbers](/service-manual/user-centred-design/resources/patterns/national-insurance-number.html)
+* [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages.html)
+* [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages.html)
+* [Help text](/service-manual/user-centred-design/resources/patterns/help-text.html)
+* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators.html)
 
 
-### Forms
+## Process patterns
+These patterns are about things that you need to do, for example: ask for a start page.
 
-See [the GOV.UK elements page](/service-manual/user-centred-design/resources/elements)
-for guidance on styling the basic form elements.
-
-<ul>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/form-structure">Form structure</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/progress-indicators">Progress indicators</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/help-text">Help text</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/names">Names</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/dates">Dates</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/addresses">Addresses</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/national-insurance-number">National Insurance numbers</a></li>
-</ul>
-
-
-### Transaction pages
-
-<ul>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/start-pages">Start pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/summary-pages">Summary pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/confirmation-pages">Confirmation pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/done-pages">Done pages</a></li>
-  <li><a href="/service-manual/user-centred-design/resources/patterns/alpha-beta">Alpha and beta banners</a></li>
-</ul>
+* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
+* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta.html)
+* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
+* [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages.html)
 
 ---
 
 ## Get involved
 
-The patterns here are based on best practice and user research.
-However, if you find a better approach to something or want to suggest a new pattern then let us know on the [design patterns wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql).
-
-
-
-<br>
+These patterns are always being tested and improved. If you find a better approach to something or want to suggest a new pattern then let us know on the [design patterns wiki](https://designpatterns.hackpad.com/GOV.UK-design-patterns-0eUk1OdHvql).
 <br>
