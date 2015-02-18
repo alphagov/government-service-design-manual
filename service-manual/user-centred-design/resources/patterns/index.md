@@ -34,6 +34,7 @@ The patterns below describe our approach to services, transactions and forms.
 
 ## Process patterns
 These patterns are about things that you need to do, for example: ask for a start page.
+
 * [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure)
 * [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta)
 * [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages)
