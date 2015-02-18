@@ -22,23 +22,23 @@ Start with [the GOV.UK elements](/service-manual/user-centred-design/resources/e
 The patterns below describe our approach to services, transactions and forms.
 
 ## Detail patterns
-* [Names](/service-manual/user-centred-design/resources/patterns/names)
-* [Dates](/service-manual/user-centred-design/resources/patterns/dates)
-* [Addresses](/service-manual/user-centred-design/resources/patterns/addresses)
-* [National Insurance numbers](/service-manual/user-centred-design/resources/patterns/national-insurance-number)
-* [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages)
-* [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages)
-* [Help text](/service-manual/user-centred-design/resources/patterns/help-text)
-* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators)
+* [Names](/service-manual/user-centred-design/resources/patterns/names.html)
+* [Dates](/service-manual/user-centred-design/resources/patterns/dates.html)
+* [Addresses](/service-manual/user-centred-design/resources/patterns/addresses.html)
+* [National Insurance numbers](/service-manual/user-centred-design/resources/patterns/national-insurance-number.html)
+* [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages.html)
+* [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages.html)
+* [Help text](/service-manual/user-centred-design/resources/patterns/help-text.html)
+* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators.html)
 
 
 ## Process patterns
 These patterns are about things that you need to do, for example: ask for a start page.
 
-* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure)
-* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta)
-* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages)
-* [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages)
+* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
+* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta.html)
+* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
+* [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages.html)
 
 ---
 
