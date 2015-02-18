@@ -86,7 +86,7 @@ If you are using new technology to handle personal data or reusing the data in a
 ## Licensing your open data for reuse
 The Cabinet Office is preparing a new [Code of Practice (Datasets)](http://data.gov.uk/consultation/code-of-practice) (the consultation on this draft version is now closed).
 
-This code includes the [licensing framework](https://www.nationalarchives.gov.uk/information-management/government-licensing/the-framework.htm) you must use when making your datasets available for reuse. There are a number of licenses in the framework. For UK government open data, this will be the [Open Government Licence](https://www.nationalarchives.gov.uk/information-management/government-licensing/about-the-ogl.htm).
+This code includes the [licensing framework](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/re-use-and-licensing/ukglf/) you must use when making your datasets available for reuse. There are a number of licenses in the framework. For UK government open data, this will be the [Open Government Licence](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/re-use-and-licensing/what-ogl-covers/).
 
 ## Why we do this
 

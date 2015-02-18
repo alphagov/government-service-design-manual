@@ -42,7 +42,7 @@ Before using cookies, your website operator needs to either:
 - be satisfied that the user understands that their actions will result in cookies being stored (implied consent)
 - be satisfied that the cookie is "absolutely essential" to the operation of the website (eg cookies used for operating a shopping cart)
 
-Responsibility for [complying with these regulations](https://ico.org.uk/for-organisations/guide-to-pecr//the_guide/cookies) lies with your website operator.
+Responsibility for [complying with these regulations](https://ico.org.uk/for-organisations/guide-to-pecr/cookies/) lies with your website operator.
 
 ## Using cookies
 

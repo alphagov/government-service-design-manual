@@ -61,7 +61,7 @@ Combining these sources will produce information that encourages a greater under
 ##Put data in
 
 You will be able to supply your service performance data via standard
-[Application Programming Interfaces (APIs)](http://www.techterms.com/definition/api).
+[Application Programming Interfaces (APIs)](http://techterms.com/definition/api).
 These APIs will be defined, documented and supported by the Performance
 Platform team. Your service will be responsible for collecting and supplying
 data to the API.
