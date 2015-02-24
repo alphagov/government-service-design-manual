@@ -213,7 +213,7 @@ More information about the [Performance Platform](/service-manual/measurement/pe
 
 This [chart chooser](http://www.verstaresearch.com/types-of-charts.jpg) from Andrew Abela builds on the work of Gene Zelazny’s classic book Saying it with Charts. This [interactive tool](http://labs.juiceanalytics.com/chartchooser.html) from Juice Analytics helps guide your chart choice through filters.
 
-Brain Suda’s [*A Practical Guide to Designing with Data*](http://designingwithdata.co.uk/) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](http://vimeo.com/27483938).
+Brain Suda’s [*A Practical Guide to Designing with Data*](http://designingwithdata.co.uk/) provides a comprehensive understanding of how to best engage the audience with your data. Here is a video of [Brian Suda presenting on a section of his book at the 2012 DIBI conference](https://vimeo.com/27483938).
 
 Dona M. Wong’s [*The Wall Street Journal, Guide to Information Graphics*](http://donawong.com/) details the do’s and don’ts of presenting data.
 

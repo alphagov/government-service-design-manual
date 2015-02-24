@@ -148,7 +148,7 @@ monitoring these lists where they exist for software you use. Some common exampl
 
 * [RedHat](https://access.redhat.com/security/updates/advisory/)
 * [Ubuntu](https://lists.ubuntu.com/mailman/listinfo/ubuntu-security-announce)
-* [Microsoft](http://technet.microsoft.com/en-us/security/dd252948.aspx)
+* [Microsoft](https://technet.microsoft.com/en-us/security/dd252948.aspx)
 * [CERT-UK](https://www.cert.gov.uk/register-for-alerts/)
 
 The above is a small example of what is available. Having these emails come into an
