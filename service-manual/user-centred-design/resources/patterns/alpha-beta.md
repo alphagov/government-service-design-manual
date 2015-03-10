@@ -31,9 +31,13 @@ If your service is in beta or alpha, you must show the relevant banner in the he
 ###Things on GOV.UK
 
 If your GOV.UK content is in beta or alpha, show the relevant banner below the page title, but above the body content. You can see what they should look like in [this blog post](https://designnotes.blog.gov.uk/2014/03/26/betas-on-gov-uk/).
- 
+
 ---
 
 ##Get the banner code
 
 All the code and assets you need to implement the alpha and beta banners are available via the [GOV.UK frontend toolkit on GitHub](https://github.com/alphagov/govuk_frontend_toolkit/tree/e295f45f59495f8e37e37a105da6d9d8b2695a54#-phase-banner).
+
+---
+
+[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Alpha-and-beta-banners-HpbaBjaYRSJ)
