@@ -44,8 +44,3 @@ Read more about models for organising roles for [senior technology leadership](/
 To get the right skills into government, we need make sure we’re asking the right people to apply.
 
 [Choose from a set of template job descriptions for senior technology leaders and digital specialists](/service-manual/the-team/recruitment/job-descriptions.html).
-
-
-## Salary advice
-
-High calibre specialist skills are rare and sought after. To attract the best talent and ensure there’s a level playing field across government, we have set out [independently assessed salary benchmarks for specialist digital and leadership skills](/service-manual/the-team/recruitment/salary-advice.html).
