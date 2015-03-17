@@ -104,7 +104,7 @@ Using your data and insight, create user personas that represent your assisted d
 
 We’ve created 8 user personas that represent people who need help to use government services online. The personas are based on desk and field research and represent real-life stories. The users were vulnerable people who needed urgent help using a variety of government services:
 
-* [Download assisted digital personas document (57kb)](/service-manual/assets/documents/ad-personas-march-2015.odt)
+* Download [assisted digital personas document](/service-manual/assets/documents/ad-personas-march-2015.odt) (57kb)
 
 Your service-specific personas, along with these examples, will help you to [write good user stories](/service-manual/agile/writing-user-stories) on what your users need and why.
 This means you’ll understand any specific user needs, including which channels will work best for them. You must use these needs to create your plan for assisted digital support.
