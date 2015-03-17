@@ -54,11 +54,10 @@ Find out how to [create an assisted digital action plan](/service-manual/assiste
 ## Who needs assisted digital support
 GDS’s [Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research) (2012) found that [18% of UK adults are offline](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research#uk-digital-landscape). This means that about 9m people never or rarely use the internet. [Go ON UK](http://www.go-on.co.uk/) estimates that 1 in 5, or 11m, adults lack [Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (including people who are offline).
 
-Assisted digital support needs to be available to service users in the UK who cannot access or complete a user journey on their own, such as:
+And [Lloyds Bank UK Business Digital Index 2014](http://resources.lloydsbank.com/economic-research/uk-business-digital-index-2014/) found that 1 in 3 SMEs and charities also lack basic online skills. Assisted digital support needs to be available to service users in the UK or UK citizens who are living overseas who cannot access or complete a user journey on their own, such as:
 
-* people who are offline
-* people who are online but have limited digital capability - ie low experience, skills, confidence, ability and/or motivation
-* UK citizens who are living overseas
+* people or businesses who are offline
+* people or businesses who are online but have limited digital capability - ie low experience, skills, confidence, ability and/or motivation
 
 Every service will have a different proportion of users who need assisted digital support. You will need to [carry out user research to understand your users](/service-manual/assisted-digital/assisted-digital-user-research), including those with very low or no digital skills.
 
