@@ -66,8 +66,10 @@ Your service doesn’t need to provide assisted digital support if:
 
 * there is an alternative service (not channel) available that achieves the same outcome for users.
   * eg the [Registered Traveller service](https://www.gov.uk/transformation/apply-registered-traveller) enables pre-approved travellers to pass through the UK border faster than the standard border process, which is a separate service that is available to them with the same outcome.
-* the service’s users are third party intermediaries who benefit commercially for engaging with the service on behalf of the end user
 * your users are public sector employees who use your service as part of their work
+* your users are non-UK citizens overseas
+* your service is being completed by a third party intermediary who benefits commercially for engaging with the service on behalf of the end user. 
+  * Note that if an intermediary is the intended end user (rather than completing the service on behalf of the end user), you may need to provide assisted digital support.
 
 ##Responsibilities and liabilities
 As a service manager, you will need to make sure that:
