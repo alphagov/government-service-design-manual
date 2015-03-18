@@ -8,9 +8,7 @@ The site is built using [Jekyll](http://jekyllrb.com/), and the CSS is [Sassifie
 
 ## Deploying
 
-Instructions are here:
-
-https://github.com/alphagov/wiki/wiki/HOWTO:-Deploy-the-Government-Service-Design-Manual
+[Private, GDS-specific instructions are for how to deploy this content](https://github.com/alphagov/wiki/wiki/HOWTO:-Deploy-the-Government-Service-Design-Manual).
 
 ## Running the app yourself
 
