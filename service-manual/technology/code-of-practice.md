@@ -19,7 +19,7 @@ breadcrumbs:
 
 GDS will [examine and challenge all technology-related spending over a certain threshold](https://www.gov.uk/government/publications/cabinet-office-controls) -- no public commitment or expenditure should be made above these thresholds without prior approval. The thresholds are:
 
-* £5 million -- for technology expenditure including all sub components in a request e.g. a website and service supported by a series of contracts such as hosting, data centres, voice & video, security, securing third party support. Includes expenditure related to PSN.
+* £5 million -- for technology expenditure including all sub components in a request, eg a website and service supported by a series of contracts such as hosting, data centres, voice & video, security, securing third party support. Includes expenditure related to PSN.
 * £1 million -- for expenditure on services also delivered by Independent Shared Service Centres (current or new back office/administrative systems, including ERP systems, HR systems, finance/accounting systems, procurement systems).
 * £100 thousand -- for digital expenditure.
 * £0 (no lower limit) -- for any digital projects using ID assurance for the general public, domain registration, and any external facing digital transaction, website or mobile apps.
@@ -59,6 +59,6 @@ There are a number of aspects, which indicate that a project or programme is sig
 * there will be no automatic contract extensions; the government won’t extend existing contracts unless there is a compelling case
 * new [cloud] hosting contracts will not last for more than 2 years
 
-Further information can be found [here](https://gds.blog.gov.uk/2014/02/26/red-lines-for-it-procurement/).
+Further information can be found in [our blog post about red lines](https://gds.blog.gov.uk/2014/02/26/red-lines-for-it-procurement/).
 
 However, there will always be exceptions to these red lines and we are pragmatic, where there is genuine need. If you have any doubt please contact GDS on gdsapprovals@digital.cabinet-office.gov.uk.
