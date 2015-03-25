@@ -6,7 +6,7 @@ category: measurement
 type: guide
 audience:
   primary: service-managers, performance-analysts
-  secondary: designers, developers, content-designers
+  secondary: designers, content-designers
 phases:
   - beta
   - live
@@ -46,7 +46,7 @@ GOV.UK will provide a user satisfaction survey at the end of your transactional 
 
 Measure all user journeys through your transaction to better understand dropout points.
 
-If a user drops out your should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
+If a user drops out you should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
 
 Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service dropout points and find ways to improve transactions.
 
@@ -84,4 +84,4 @@ Analyse the major factors generating satisfaction with the service. You can do t
 You can then determine which of those factors is most positively contributing to user satisfaction and prioritise where to direct ongoing design efforts.
 
 ## Further reading
-[Survey design](/service-manual/user-centered-design/user-research/survey-design.html)
+[Survey design](/service-manual/user-centred-design/user-research/survey-design.html)

@@ -63,7 +63,7 @@
     }
   }
 
-  .inner {
+  .article-container .inner {
     padding: 0 2em;
   }
 
@@ -84,7 +84,7 @@
       margin-top: 0;
     }
 
-    p{
+    p, li {
       @include core-24;
     }
 
@@ -94,24 +94,6 @@
       }
     }
 
-    ul {
-      margin: 0;
-      padding: 0 0 1.8em 0;
-
-      li {
-        font-size: 16px;
-        list-style: none;
-        overflow: hidden;
-        margin: 0.5em 0 0 0;
-        padding: 0.5em 0 0 0;
-        border-top: 1px solid $grey-3;
-
-        &:first-child {
-          border-top: none;
-        }
-      }
-
-    }
   }
 
   // The list of criteria

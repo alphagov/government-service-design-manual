@@ -1,19 +1,30 @@
 safe:        false
-auto:        false
-server:      false
-#server_port: 4000
-baseurl:    /
-#url: http://localhost:4000
+
+baseurl:     /
 
 source:      ./
 destination: ./_site
 plugins:     ./_plugins
-exclude: Procfile, Gemfile, Gemfile.lock, config.ru, compile.sh, README.md, CONTRIBUTING.md
 future:      true
 lsi:         false
-pygments:    false
 markdown:    kramdown
 permalink:   :category/:title/
+
+exclude:
+  - app.rb
+  - compile.sh
+  - config.ru
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - Procfile
+  - Rakefile
+  - README.md
+  - /service-manual/assets/toolkit/*.md
+  - /tools
+  - /tmp
+  - /vendor
 
 maruku:
   use_tex:    false
@@ -43,3 +54,5 @@ kramdown:
 sass:
   syntax: scss        # scss|sass
   style:  compressed  # nested|expanded|compact|compressed
+
+govuk_template_assets: '/service-manual/assets/govuk_template'

@@ -1,12 +1,12 @@
 ---
 layout: detailed-guidance
 title: Configuration management
-subtitle: Manage a team's approach to configuration
+subtitle: Manage a team's approach to software configuration
 category: making-software
 type: guide
 audience:
-  primary: tech-archs, web-ops
-  secondary: developers
+  primary: web-ops
+  secondary: developers, tech-archs
 status: draft
 phases:
   - alpha
@@ -21,46 +21,64 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-Your system is likely to be much larger than a single application, relying on other supporting infrastructure components. Even a simple application probably requires some configuration, to provide database credentials or a web service endpoint for instance.
+Configuration management is about managing how the pieces of your software and/or service work together.
 
-In order to build robust, scalable and portable systems this configuration data should be well managed.
+It's important to get it right as your system is likely to be much larger than a single application, relying on other supporting infrastructure components. Even a simple application probably requires some configuration, like providing database credentials or a web service endpoint.
+
+Managing your configuration data well will mean you can build a stable, scalable and portable system.
 
 ## Management tools
 
-Configuration management tools help with documenting and maintaining the configuration and dependencies of a software system. Although this could be done using hand-made software, it's common to use existing tools.
+Configuration management tools will help with documenting and maintaining the configuration and dependencies of your software system. Although you can do this using hand-made software, it’s common to use existing tools.
 
-Three examples of existing open source configuration management tools are [CFEngine](http://cfengine.com/), [Chef](http://www.opscode.com/chef/) and [Puppet](https://puppetlabs.com/).
+Three examples of existing open source configuration management tools are:
+
+* [CFEngine](http://cfengine.com/)
+* [Chef](https://www.chef.io/chef/)
+* [Puppet](https://puppetlabs.com/)
 
 ### Infrastructure as code
 
-One approach to managing configuration is to describe the configuration and the software dependencies in code. This brings with it all the advantages of programming in general, including:
+One approach to managing configuration is to describe in code the configuration and software dependencies (what your software needs to perform its function).
+
+This brings with it all the advantages of programming in general, including:
 
 * testability
 * reusability
 * executable documentation
 * common and constrained language to describe a problem domain
 
-Once described in code the infrastructure configuration is executed against the servers, networks and software in question.
+Once written in code, the infrastructure configuration is then run against the servers, networks and software in question.
 
 ### Build for portability
 
-Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules it's possible to lock yourself in through technical inertia alone.
+Moving software systems between providers can be difficult and time-consuming. Even with compatible providers and simpler procurement rules, it’s possible to lock yourself in through inaction alone.
 
-Configuration management encourages a deep understanding of the configuration of the system and this can be used to move software easily between providers.
+Configuration management encourages a deep understanding of the configuration of your system. Use this understand to move software easily between providers, if needed.
+
 
 ### Use the same tools for development and production
 
-A common problem in software systems is seen when code written by a development team works on their machine or a test environment but not on the production environment. A common cause of this is differences in configuration – different versions of software, different types of database or application server. This can be avoided by using the same tools for both development and production environments.
+A common problem in software systems is when code written by a development team works on their machine or a test environment, but not on the production environment. A common cause of this is differences in configuration:
 
-## Why we do this
+* different versions of software
+* different types of database
+* different application servers
 
-Existing approaches to managing configuration are often manual, process heavy, slow and error prone. Ultimately people are bad at carrying out detailed monotonous tasks. And installing and configuring software across tens or hundreds of servers (if done by hand) is definitely monotonous.
+Avoid this by using the same tools for your development and production environments.
 
-Even if this could be done to provide everything correctly configured on day 0, over time configuration drifts if not kept in check. One traditional approach to this problem is to make configuration changes hard, thereby limiting the number of them. When trying to build agile and flexible software systems rapid change is needed and manual processes break down.
+## Why GDS do this
+
+Existing methods to managing configuration are often manual, process-heavy, slow and error prone.
+
+Ultimately, people are bad at carrying out detailed monotonous tasks - and installing and configuring software across tens or hundreds of servers (if done by hand) is definitely monotonous.
+
+Even if this could be done to provide everything correctly configured on day 0, configuration will drift if not kept in check. A traditional solution to this problem is to make it harder to change configuration, which then limits the number of changes that can made.
+
+Overall, the ability to change rapidly is essential when trying to build agile and flexible software systems, which means breaking down those restrictive manual processes.
+
 
 ## Further reading
 
 * [Infrastructure as Code](https://speakerdeck.com/garethr/infrastructure-as-code)
-* [CFEngine](http://cfengine.com/)
-* [Chef](http://www.opscode.com/chef/)
-* [Puppet](http://puppetlabs.com/solutions/configuration-management/)
+* [Managing dependencies](/service-manual/making-software/dependency-management)

@@ -20,7 +20,7 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=d_Om02sbn_c">Watch GDS Designer Mark Hurrell talk about his work.</a></figure>
 
-Those with the title of designer may have a particular focus on one or more specific design disciplines – interaction, graphic, UX – but a good digital service needs talented, flexible designers to help build user-centred products.
+Those with the title of designer may have a particular focus on one or more specific design disciplines -- interaction, graphic, UX -- but a good digital service needs talented, flexible designers to help build user-centred products.
 
 ## How designers work
 Designers, user researchers and front-end developers should work together in one team, designing in-browser. This is a better way of working, avoiding silos and ensuring that decisions are made with complete awareness of the implications.
@@ -42,8 +42,8 @@ You should also ask the designer to talk about any significant differences betwe
 ## Job description templates
 Click either of the options below to download template Designer job descriptions. 
 
-Designer - [Download as Open Office doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx) 
-Junior Visual Designer - [Download as Open Office doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx) 
+Designer -- [Download as OpenDocument Format](/service-manual/the-team/recruitment/DesignerJobDescription-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/DesignerJobDescription-generic.docx) 
+Junior Visual Designer -- [Download as OpenDocument Format](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.odt) / [Download as MS Word doc](/service-manual/the-team/recruitment/JuniorVisualDesigner-generic.docx) 
 
 Cabinet Office will help departments to recruit suitably skilled individuals through the [Recruitment Hub](/service-manual/the-team/recruitment/hub.html).
 

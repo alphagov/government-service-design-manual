@@ -6,6 +6,7 @@ category: technology
 type: guide
 audience:
   primary: chief-technology-officers
+  secondary: web-ops
 status: draft
 phases:
 breadcrumbs:
@@ -19,7 +20,7 @@ breadcrumbs:
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=7rnsqrraNb8">Watch a short film describing the new approach to end user devices.</a></figure>
 
-The government agreed in the [ICT Strategy](https://www.gov.uk/government/publications/uk-government-ict-strategy-resources) to developing and implementing an [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy). This strategy has aimed to address historic issues, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences. 
+This guidance aims to address historic issues with poor user experiences of device technology, including user tools that do not meet user needs, degrade civil service productivity, and provide poor user experiences.
 
 These issues have been compounded by:
 
@@ -36,13 +37,13 @@ The Government Protective Marking Scheme Review and resulting Security Classific
 
 ##Start with user needs
 
-The [Government and Departmental Digital Strategies](http://publications.cabinetoffice.gov.uk/digital/) establish user needs as central to digital services and tools. This requires a step change in agility to meet changing user needs, together with an excellent user experience.
+The [government and departmental digital strategies](/government/collections/government-digital-strategy-reports-and-research) establish user needs as central to digital services and tools. This requires a step change in agility to meet changing user needs, together with an excellent user experience.
 
 We need to get 4 basic things right:
 
 | Area | Approach |
 |-----|-----|
-| User Experience | We need to design services with users’ needs in mind – and that goes for our own technology as much as it does for what we produce for the public |
+| User Experience | We need to design services with users’ needs in mind -- and that goes for our own technology as much as it does for what we produce for the public |
 | Proportionate Security | Security should be proportionate to the risk, and for the vast majority of government business, this means using controls in the same way that a well run commercial business would |
 | Sustained Value | Making sure that value can be sustained after something has been bought. This means designing for change, and opening up access to all types of suppliers, including open source or small businesses |
 | Consumerised IT | We need to make it possible to use the sort of general, commodity technology that works well for consumers, and for other businesses |
@@ -50,4 +51,4 @@ We need to get 4 basic things right:
 The [end user device strategy](https://www.gov.uk/government/publications/end-user-device-strategy) will help departments and suppliers understand what kinds of design decisions they should now be making.
 
 There’s specific guidance on the standards that need to be met to ensure that digital services don’t become heavily dependent on particular products or suppliers, and
-[new security guidance](https://www.gov.uk/government/organisations/cesg/series/end-user-devices-security-guidance--2) has been developed by CESG -- originally Communications-Electronics Security Group -- (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.
+[new security guidance](/government/collections/end-user-devices-security-guidance) has been developed by CESG (the government’s specialist technology security advisors) for those working with government information across all types of mobile devices.

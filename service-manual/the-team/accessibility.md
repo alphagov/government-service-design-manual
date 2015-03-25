@@ -5,7 +5,7 @@ subtitle: What your team needs to build for inclusion
 category: the-team
 type: guide
 audience:
-  primary: designers, developers, content-designers
+  primary: designers
   secondary: service-managers
 status: draft
 phases:
@@ -25,7 +25,7 @@ Accessibility is everyone’s responsibility. Provide training and resources to 
 
 Include at least one person with strong accessibility knowledge in your team. Give them overall responsibility for educating and supporting your team’s accessibility goals.
 
-The key skills required by an accessibility-focussed developer are:
+The key skills required by an accessibility-focused developer are:
 
 * strong analytical skills
 * a methodical approach to testing
@@ -36,4 +36,4 @@ The key skills required by an accessibility-focussed developer are:
 Accessible, usable products are the heart of everything we do at the GDS. Your service needs to be just as thoughtful to the needs of all possible users so that no one is excluded on the basis of disability.
 
 ## Related links
-[Read the guidance on accessible design](/service-manual/user-centered-design/accessibility.html)
+[Read the guidance on accessible design](/service-manual/user-centred-design/accessibility.html)

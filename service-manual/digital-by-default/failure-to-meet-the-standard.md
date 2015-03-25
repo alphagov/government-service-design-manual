@@ -19,40 +19,22 @@ breadcrumbs:
 
 A service may fail to meet [the standard](/service-manual/digital-by-default/index.html) at three points:
 
-* during the service’s design, prior to going live
-* rejection at a [go live panel](/service-manual/digital-by-default/go-live-panel.html)
-* a live service falling below the [performance targets](/service-manual/measurement) approved at launch
+* during the service’s design after a review at GDS
+* prior to going live
+* when live, if it falls below the [performance targets](/service-manual/measurement) approved at launch
 
 ## Failure during service design
 
-If there is evidence that a service is being designed in a way which is not in line with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with the responsible service manager and [digital leader](/service-manual/the-team/digital-leader.html) and suggest corrective action.
+If a service isn’t being designed inline with the standard, or there is [no public written record of progress](/service-manual/communications/index.html), GDS will raise the issue with you and the [digital leader](/service-manual/the-team/digital-leader.html) and suggest action.
 
-Service progress towards meeting the standard will also be assessed at every [spending control](/service-manual/technology/spending-controls.html) point the service passes through. If the department cannot provide sufficient evidence that the work completed so far is in line with the criteria and evidence requirements of the standard, further spending on the project will not be approved. If the business case is rejected, GDS will stipulate what the service must provide evidence for in order for funding to be released.
+Progress towards meeting the standard will be assessed at every [spending control](/service-manual/technology/spending-controls.html) point the service passes through. If the department can’t give sufficient evidence that the work completed so far is in line with the standard, further spending on the project won’t be approved. If the business case is rejected, GDS will explain what evidence the service team must give for funding to be released.
 
-## Failure to pass the go live panel
+## Failure to pass a Digital by Default assessment
 
-If the [go live panel](/service-manual/digital-by-default/go-live-panel.html) does not produce unanimous approval, the service will not be awarded the standard and will not be linked to from GOV.UK. If the panel does not award the standard, the chair will provide feedback to the service manager and digital leader on what needs to be rectified. They will then be invited back to present a second time to the panel on an agreed date.
+If a GDS assessment panel doesn’t pass a service, it won’t be awarded the standard and won’t appear on, or be linked to from, GOV.UK. The lead assessor will give feedback to you and the digital leader on what needs to be rectified. Depending on the stage of development, your team will be invited back to be re-assessed fully or against the failed criteria. If this needs only relatively minor changes, or a small amount of additional evidence, this can be done through correspondence.
 
-If the panel’s verdict demanded relatively minor changes or a small amount of additional evidence, this second assessment can be completed through correspondence. For more significant changes, a second meeting will be convened.
+If the service fails to pass an assessment twice, the Cabinet Office will write to the responsible minister explaining why the service has not yet been awarded the standard, and what remedial action is required.
 
-If the service fails to pass the panel on two occasions, the Cabinet Office will write to the responsible minister explaining why the service has not yet been awarded the standard, and what remedial actions are required.
+## Ongoing performance
 
-## Failure of a live service to meet performance goals
-
-[Performance levels](/service-manual/measurement/performance-platform) of a service will be monitored closely. If they consistently fall below the targets presented to the [go live panel](/service-manual/digital-by-default/go-live-panel.html) for three months GDS will request a note from the service manager explaining why this is the case and convene a performance panel.
-
-### The performance panel
-The performance panel will be chaired by GDS. It will include representatives from other departments and may feature external experts when suitable.
-
-The service manager and digital leader will present to the panel, explaining why they believe performance levels are below those expected at launch and set out what remedial actions they intend on taking to rectify the issues within the next three months. The panel will approve this plan, or suggest additional actions.
-
-It will approve changes to the performance targets set at launch only if there is compelling evidence that the [user needs](/service-manual/user-centered-design/user-needs.html) have demonstrably changed. It will also request monthly updates against the actions.
-
-### Failing services
-If after a further three months the performance issues still persist, the Cabinet Office will write to the minister responsible for the service, explaining that the service is failing to meet the standard, and that a warning will be placed on the start page of the transaction explicitly stating that the service does not meet the standard, apologising to users, and requesting their feedback. Once performance returns to the levels expected and agreed at launch, this warning will be removed.
-
-If there is still no improvement a month after this point, GDS will recommend whether the service should;
-
-* be [taken offline](/service-manual/phases/retirement.html)
-* not be linked to from GOV.UK
-* be rolled back to an [assisted digital](/service-manual/assisted-digital) contingency (that does not incur significant unintended expense for the taxpayer)
+GDS will use assessments to review services that are failing to [maintain the standard](/service-manual/digital-by-default/maintaining-the-standard.html), and will call in service teams to explain drops in performance or satisfaction.

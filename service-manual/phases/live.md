@@ -17,7 +17,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-You've been building a service to meet [users needs](/service-manual/user-centered-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
+You've been building a service to meet [users needs](/service-manual/user-centred-design/user-needs.html), and after your [public beta](/service-manual/phases/beta.html) you have a tested solution that is ready to release.
 
 ## Going live
 
@@ -25,13 +25,13 @@ To provide a fully resilient service to all end users the service should now mee
 
 You have liaised with the team governing the [Digital by Default Service Standard](/service-manual/digital-by-default) to make sure that you have met the requirements of new and redesigned services.
 
-And, most importantly, you have met [the user needs](/service-manual/user-centered-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
+And, most importantly, you have met [the user needs](/service-manual/user-centred-design/user-needs.html) identified in the [discovery](/service-manual/phases/discovery.html), [alpha](/service-manual/phases/alpha.html) and [beta](/service-manual/phases/beta.html) phases.
 
 ## Post-launch stages
 
 This is not the end of the process. The service should now be improved continuously, based on [user feedback](/service-manual/operations/helpdesk.html), [analytics](/service-manual/operations/monitoring.html) and further research.
 
-[Operational support](/service-manual/operations) - both technical and customer-focused - is in place, and you have implemented pro-active monitoring methods. These will help you to:
+[Operational support](/service-manual/operations) -- both technical and customer-focused -- is in place, and you have implemented pro-active monitoring methods. These will help you to:
 
 * monitor system performance
 * optimise the code

@@ -1,12 +1,12 @@
 ---
 layout: detailed-guidance
 title: Managing user support
-subtitle: Using helpdesk contacts to improve services
+subtitle: Use helpdesk enquiries to improve services
 category: operations
 type: guide
 audience: 
   primary: 
-  secondary: service-managers, designers, developers
+  secondary: service-managers, designers
 status: draft
 phases:
  - alpha
@@ -21,23 +21,31 @@ breadcrumbs:
     url: /service-manual/operations
 ---
 
-Once you have created [a helpdesk](/service-manual/operations/helpdesk.html), you'll want to figure out how to make the best use of user feedback to improve your service and the user experience.
+Now you’ve created a [helpdesk](/service-manual/operations/helpdesk), it’s time to figure out how to make the best use of user feedback so you can improve your service and your user experience.
 
-## Stratifying contact data
+## Arrange enquiry data into subgroups
 
-Your ability to act quickly and constructively on user feedback will ultimately depend on the degree to which you can stratify contacts for analysis.
+Your ability to act quickly and constructively on user feedback depends on how well you can arrange enquiries for analysis.
 
-Depending on the complexity of your contact types and the sophistication of the systems you use to handle them, this might be almost completely manual (with metadata created for the contact by the staff handling it) or largely automated (with the software you use to aid contact handling adding most of the metadata automatically).
+How you choose to put enquiries into relevant subgroups will depend on:
 
-Minimally, you’ll want to stratify contacts by channel (phone, email, chat, social media, surface mail, etc) and by the target group that can act on the feedback. For example, some feedback may be directly dealt with by your organisation, while other types may need to be sent to other departments or groups for their use.
+* how complex your enquiries are
+* the sophistication of the systems you use to handle them
 
-## Potential dimensions for stratification
+These factors will decide if the process of arranging enquiries will be carried out manually (staff create the metadata for the enquiries they handle) or be automated (the software you use for handling enquiries will add most of the metadata automatically).
 
-In addition to the very basic channel and target stratifications mentioned above, you'll likely want to consider the following categories as potentially applicable to your contacts/feedback:
+At the very least, arrange enquiries by:
 
-**Enquiry type**
+* channel (phone, email, chat, social media, surface mail etc)
+* the target group that can act on the feedback
 
-Is the contact a: 
+## Potential subgroup categories
+
+In addition to the very basic channel and target arrangements mentioned above, the following categories may be suitable.
+
+### Enquiry type
+
+Is the enquiry a:
 
 * question
 * problem
@@ -45,35 +53,59 @@ Is the contact a:
 * Freedom of Information (FOI) request
 * non-actionable rant
 
-**Requester details**
-You'll want to be very thoughtful about data collection of user details, given privacy concerns, but you'll almost certainly want to gather minimal detail on the requesters of your contacts.
+### Requester details
 
-**Reply type**
+Given user privacy concerns, spend time thinking about how you’ll collect data on your users. At the very least, gather minimal information on who is requesting assistance.
+
+### Reply type
+
 Is a reply necessary/expected or not?
 
-**Enquiry status**
-Whether a contact is open, pending some other action, solved, etc
+### Enquiry status
 
-**Enquiry category or categories**
+Is an enquiry open, pending some other action, solved etc
+
+### Enquiry category or categories
+
 Some internal sectional or functional categories along which you’ll want to be able to stratify--think of separate URLs or sections on a large website as a concrete example.
 
-**Service category or categories**
-Aspects of the handling processes you use that you should capture for further analysis--support level, priority, internal resolving group, resolving agent(s), day/date/time received, and day/date/time resolved are all examples you’ll likely want to have available for analysis.
+### Service category or categories
 
-**Root cause category or categories**
-The ultimate reason for the contact, eg page failing to load, database down, forgotten password, user error, software bug, etc. As with most of these categories, you'll tailor these categories based on the specifics of your product and support model.
+Capture information on the different aspects of the handling processes. You’ll want to have information on:
 
-## Sending the data to appropriate groups
-Once you have gathered data for contact stratification, you’ll need to decide how to share it. If all the data can be handled and used directly within your organisation then this step may be easier. However there will likely be different teams that will act on different types of problems, some of them outside of your department.
+* support level
+* priority
+* internal resolving group
+* resolving agent(s)
+* day/date/time received
+* day/date/time resolved
 
-Depending on the nature of your contact handling systems, you may be able to use automation to do most of this routing, and you should plan for that if possible.
+### Root cause category or categories
 
-## Treating contacts as defects
-One very ambitious improvement model that you can use treats each contact from a user as ultimately due to a defect in the service itself, either in your support model for it or in the communications processes you use to handle contacts. 
+The ultimate reason for contacting helpdesk, eg:
 
-While this perhaps overstates the reality for some kinds of contacts--is a user’s email of thanks and appreciation genuinely a defect?--it's an excellent way to focus critical thinking on how you provide service. 
+* page failing to load
+* database down
+* forgotten password
+* user error
+* software bug
+
+As with most of these, tailor these categories based on the specifics of your product and support model.
+
+## Send data to appropriate groups
+
+Now that you’ve gathered your data, you need to decide how to share it. Sharing data is easier if all the data can be handled and used directly within your organisation. However, it’s likely that different teams will act on different types of problems, and some may be outside of your department.
+
+If possible through your system, use automation for sharing data.
+
+## Treating enquiries as defects
+
+Treating each enquiry from a user as being due to a defect in the service itself is a very ambitious improvement model. Here enquiries are either seen as a fault in your support model for your service, or in the communications processes you use to handle enquiries.
+
+While this can exaggerate the reason for some kinds of contact (is a user’s email of thanks and appreciation genuinely a defect?) it’s an excellent way to direct critical thinking on how you provide service.
 
 ## Improvement projects
-Once the contact-level improvement data has been sent to the right group, you can begin doing analysis for process improvement. You may want to marry your contact level data with cost data to help prioritise which areas to target first, but you may also simply use the number (or percentage) of affected users as a prioritisation mechanism. 
 
-In any case, you'll want to have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle contacts and those who built the service into improvement projects will yield better and faster results.
+Once the enquiry-level improvement data has been sent to the right group, begin doing analysis for improving processes. Join your enquiry level data with cost data to help prioritise which areas to target first. But you can also simply use the number (or percentage) of affected users as a tool for prioritising.
+
+In any case, make sure you have access to staff with experience in process analysis and improvement, ideally with relevant contact centre or technology experience. Directly involving the individuals who handle enquiries and those who built the service into improvement projects will produce better and faster results.

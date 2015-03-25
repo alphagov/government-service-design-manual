@@ -12,5 +12,5 @@ Once guidance has been submitted it will stay open as a pull request for a few d
 Remember to:
 
 * [write helpful commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-* [check the GDS style guide](https://www.gov.uk/designprinciples/styleguide) for tips on how to write to our standard
+* check the GOV.UK [style guide](/guidance/style-guide/a-to-z-of-gov-uk-style) and [content design guidance](/guidance/content-design/writing-for-gov-uk#writing-to-govuk-style) for tips on how to write to our standard
 * make sure that new guidance has been shared with the relevant people before being submitted

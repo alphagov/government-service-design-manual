@@ -5,8 +5,8 @@ subtitle: Sprints, stand-ups and other regular meetings
 category: agile
 type: guide
 audience:
-  primary:
-  secondary: service-managers, designers, delivery-managers, web-ops, developers, tech-archs, performance-analysts, user-researchers, qa, content-designers
+  primary: developers
+  secondary: service-managers, designers, delivery-managers, web-ops, tech-archs, performance-analysts, qa, content-designers
 status: draft
 phases:
   - alpha
@@ -25,7 +25,7 @@ Some common features of the agile development methods we’ve used at GDS.
 
 ##Sprints
 
-Sprints are part of an agile process that uses [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
+Sprints are part of an agile process that uses [Scrum](https://en.wikipedia.org/wiki/Scrum_(development)), a framework for teams developing a product.
 
 Sprints are about planning what you and your team will achieve and when you will achieve it by. Each member of your team should have a task to complete within each sprint.
 
@@ -33,7 +33,7 @@ Each sprint is of equal length and usually lasts between 1 to 2 weeks, but you c
 
 When deciding the length of your sprints, consider:
 
-* the length of the project – use shorter sprints for shorter projects, giving you greater visibility of what’s going on, the opportunity to iterate and the flexibility to adaptively plan
+* the length of the project -- use shorter sprints for shorter projects, giving you greater visibility of what’s going on, the opportunity to iterate and the flexibility to adaptively plan
 * team members that are new to the Scrum process:
     * shorter sprints means those that are new to Scrum get used to the regular meeting formats and processes faster
 * how often you release code to production  - if it’s only released at the end of each sprint decide how often do you want to ship production-ready code
@@ -45,7 +45,7 @@ Start the process with a sprint 0. This sprint is about preparing your team for 
 * prepare the product backlog for the first sprint
 
 While there are other agile methodologies that don’t rely on sprinting, such
-as [Kanban](http://en.wikipedia.org/wiki/Kanban_(development)), it’s common
+as [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)), it’s common
 for teams to start with Scrum.
 
 ## Standard meetings

@@ -18,44 +18,47 @@ breadcrumbs:
 
   <img src="/service-manual/assets/images/DbD-kitemark.png" />
 
-  <p>The <a href="http://publications.cabinetoffice.gov.uk/digital/strategy/">Government Digital Strategy</a> committed the government to ensuring all new or redesigned digital services meet this standard from April 2014.</p>
+  <p>
+    The Digital by Default Service Standard is a set of criteria for digital teams
+    building government services to meet. Meeting the standard will mean digital
+    services are of a consistently high quality. This includes creating services
+    that are easily improved, safe, secure and fulfill user needs.
+  </p>
 
-  <p>To achieve this, teams must demonstrate that they have met the criteria below, and must be able to maintain this quality for the full life of their service.</p>
+  <p>The standard:</p>
 
-  <div class="common-questions">
-    <h2>Common questions</h2>
-    <ul>
-      <li><a href="/service-manual/digital-by-default/scope-of-the-standard.html">Does our service need to meet the standard?</a></li>
-      <li><a href="/service-manual/digital-by-default/awarding-the-standard.html">How will our service be assessed against the standard?</a></li>
-      <li><a href="/service-manual/digital-by-default/maintaining-the-standard.html">How can we continue to meet the standard after launch?</a></li>
-      <li><a href="/service-manual/digital-by-default/assessments-before-2014.html">How will services be assessed before 2014?</a></li>
-      <li><a href="/service-manual/digital-by-default/failure-to-meet-the-standard.html">What if we fail to meet the standard?</a></li>
-    </ul>
+  <ul>
+    <li>needs to be met by all new or redesigned <a href="/service-manual/digital-by-default/scope-of-the-standard">transactional government services</a> going live after April 2014</li>
+    <li><a href="/service-manual/digital-by-default/maintaining-the-standard">has to be maintained</a> after a government service has gone live</li>
+    <li>aims to make digital services so good that people prefer to carry out the transaction online rather than by phone, post or in person</li>
+  </ul>
 
-  <h2>The criteria</h2>
-  </div>
+  <p>The service manual will help digital teams meet the standard and select people with the skills they need.</p>
+
+  <p>If a Government Digital Service assessment panel doesn't pass a service, it won't be awarded the standard and won't appear on GOV.UK.</p>
+
+  <p>The Digital by Default Service Standard was a commitment the government made in its <a href="/government/publications/government-digital-strategy/government-digital-strategy">Digital Strategy</a>.</p>
+
+  <p>Teams must meet the criteria below, and maintain this quality for the full life of their service.</p>
 
 </div>
 
-
+<h2>The criteria</h2>
 
 <ol class="standard">
   <li id="criterion-1">
-    <div class="point">Understand user needs – conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
+    <div class="point">Understand user needs. Research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/user-centered-design/user-needs.html">User needs</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design/user-needs.html">User needs</a></li>
         <li><a href="/service-manual/assisted-digital">Assisted digital</a></li>
       </ul>
     </div>
   </li>
   <li id="criterion-2">
-    <div class="point">
-      Assemble a multidisciplinary team that can design, build and operate the
-service, led by a suitably skilled and senior service manager with full authority and decision-making responsibility.
-    </div>
+    <div class="point">Put in place a sustainable multidisciplinary team that can design, build and operate the service, led by a suitably skilled and senior service manager with decision-making responsibility.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -85,7 +88,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-5">
-    <div class="point">Evaluate what tools and systems will be used to build, host, operate and measure a service, and how to procure them.</div>
+    <div class="point">Evaluate what tools and systems will be used to build, host, operate and measure the service, and how to procure them.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -96,13 +99,13 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-6">
-    <div class="point">Build a working prototype using the agile, iterative and user-centred methods set out in the manual.</div>
+    <div class="point">Build the service using the agile, iterative and user-centred methods set out in the manual.</div>
     <div class="guidance">
     <p>Related guides</p>
       <ul>
         <li><a href="/service-manual/agile">Agile</a></li>
         <li><a href="/service-manual/phases/alpha.html">Alpha phase</a></li>
-        <li><a href="/service-manual/user-centered-design/working-with-prototypes.html">Working with prototypes</a></li>
+        <li><a href="/service-manual/user-centred-design/working-with-prototypes.html">Working with prototypes</a></li>
       </ul>
     </div>
   </li>
@@ -129,7 +132,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-  		<li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
+      <li><a href="/service-manual/measurement/completion-rate.html">Completion rate</a></li>
       </ul>
     </div>
   </li>
@@ -156,16 +159,17 @@ service, led by a suitably skilled and senior service manager with full authorit
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/user-centered-design/print-forms.html">Printed forms</a></li>
+        <li><a href="/service-manual/user-centred-design/print-forms.html">Printed forms</a></li>
       </ul>
     </div>
   </li>
   <li id="criterion-13">
-    <div class="point">Build a service with the same look, feel and tone as GOV.UK, using the service manual.</div>
+    <div class="point">Build a service consistent with the user experience of the rest of GOV.UK by using the <a href="/service-manual/user-centred-design/resources/patterns/index.html">design patterns</a> and the <a href="/government-digital-guidance/content-publishing">style guide</a>.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/user-centered-design">Design and content</a></li>
+        <li><a href="/service-manual/user-centred-design">Design and content</a></li>
+        <li><a href="/service-manual/user-centred-design/service-user-experience">Service user experience</a></li>
       </ul>
     </div>
   </li>
@@ -179,7 +183,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-15">
-    <div class="point">Make all new source code open and reuseable, and publish it under appropriate licences (or provide a convincing explanation as to why this cannot be done for specific subsets of the source code).</div>
+    <div class="point">Make all new source code open and reusable, and publish it under appropriate licences (or give a convincing explanation as to why this can’t be done for specific subsets of the source code).</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -190,7 +194,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-16">
-    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">identity assurance</a>) where available.</div>
+    <div class="point">Use open standards and common government platforms (eg <a href="/service-manual/identity-assurance">GOV.UK Verify</a>) where available.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -199,7 +203,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-17">
-    <div class="point">Be able to test the end-to-end service in an environment identical to that of the live version (using dummy accounts and a representative sample of potential service users) on all common browsers and devices.</div>
+    <div class="point">Be able to test the end-to-end service in an environment identical to that of the live version on all common browsers and devices. Use dummy accounts and a representative sample of users.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -219,7 +223,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-19">
-    <div class="point">Build a service that can be iterated on a frequent basis, eg in response to user feedback or performance data and make sure resources are in place to do / pay for the iteration.</div>
+    <div class="point">Build a service that can be iterated on a frequent basis and make sure resources are in place to do so.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -228,18 +232,18 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-20">
-    <div class="point">Put a plan in place for ongoing user testing, including the ability to support multivariate experiments.</div>
+    <div class="point">Put a plan in place for ongoing user research and usability testing to continuously seek feedback from users.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
-        <li><a href="/service-manual/users">Know your users</a></li>
-        <li><a href="/service-manual/user-centered-design/user-research">User research</a></li>
-        <li><a href="/service-manual/user-centered-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
+        <li><a href="/service-manual/user-centred-design">Know your users</a></li>
+        <li><a href="/service-manual/user-centred-design/user-research">User research</a></li>
+        <li><a href="/service-manual/user-centred-design/user-research/multivariate-testing.html">Multivariate testing</a></li>
       </ul>
     </div>
   </li>
   <li id="criterion-21">
-    <div class="point">Achieve ongoing high levels of user satisfaction across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
+    <div class="point">Establish a benchmark for user satisfaction across the digital and assisted digital service. Report performance data on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -249,7 +253,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-22">
-    <div class="point">Achieve ongoing high completion rates across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
+    <div class="point">Establish a benchmark for completion rates across the digital and assisted digital service. Report performance data on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -259,7 +263,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-23">
-    <div class="point">Create a plan (with supporting evidence) for achieving a low cost per transaction across the digital and assisted digital service, with performance data reported on the Performance Platform.</div>
+    <div class="point">Make a plan (with supporting evidence) to achieve a low cost per transaction across the digital and assisted digital service. Report performance data on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -269,7 +273,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-24">
-    <div class="point">Create a plan (with supporting evidence) for achieving a high digital take-up and assisted digital support for users who really need it, with performance data reported on the Performance Platform.</div>
+    <div class="point">Make a plan (with supporting evidence) to achieve a high digital take-up and assisted digital support for users who really need it. Report performance data on the Performance Platform.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -279,7 +283,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-25">
-    <div class="point">Create a contingency ‘rollback’ plan in the event of the service being taken temporarily offline.</div>
+    <div class="point">Make a plan for the event of the service being taken temporarily offline.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -288,7 +292,7 @@ service, led by a suitably skilled and senior service manager with full authorit
     </div>
   </li>
   <li id="criterion-26">
-    <div class="point">Successfully test the service from beginning to end with the minister responsible for it.</div>
+    <div class="point">Test the service from beginning to end with the minister responsible for it.</div>
     <div class="guidance">
       <p>Related guides</p>
       <ul>
@@ -299,4 +303,3 @@ service, led by a suitably skilled and senior service manager with full authorit
 </ol>
 
 <p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
-

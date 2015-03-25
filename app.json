@@ -1,0 +1,8 @@
+{
+  "name": "service-design-manual",
+  "description": "Content for UK government Service Design Manual",
+  "repository": "https://github.com/alphagov/government-service-design-manual",
+  "website":"https://www.gov.uk/service-manual",
+  "env": {
+  }
+}

@@ -5,8 +5,8 @@ subtitle: Early infrastructure needs for agile projects
 category: making-software
 type: guide
 audience:
-  primary: designers, delivery-managers, web-ops, developers, tech-archs
-  secondary: service-managers, content-designers, performance-analysts
+  primary: designers, delivery-managers, web-ops, developers
+  secondary: service-managers, content-designers, performance-analysts, tech-archs
 status: draft
 phases:
   - alpha
@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-As software developers, the environments we use every day matter greatly. Below are a set of guidelines for development environments to enable the [exemplar projects][] (service transformations committed to in the [Government Digital Strategy](http://publications.cabinetoffice.gov.uk/digital/strategy)) to:
+As software developers, the environments we use every day matter greatly. Below are a set of guidelines for development environments to enable the [exemplar projects][] (service transformations committed to in the [Government Digital Strategy](/government/publications/government-digital-strategy)) to:
 
 * test software choices to prove they are valid
 * experiment quickly with new approaches
@@ -78,7 +78,7 @@ Optional capabilities which would make a marked difference to the production of 
 
 ### Provisioning API
 
-The provisioning of virtual machines, storage, load balancing, etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
+The provisioning of virtual machines, storage, load balancing etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
 
 ### Create virtual machine templates
 
@@ -86,7 +86,7 @@ To speed up provisioning we would like to be able to store virtual machine templ
 
 ### Firewall and load balancer service
 
-If available a managed firewall and/or [load balancer](http://en.wikipedia.org/wiki/Load_balancing_(computing) service may be used.
+If available a managed firewall and/or [load balancer](https://en.wikipedia.org/wiki/Load_balancing_(computing)) service may be used.
 
 ### Configurable private network
 

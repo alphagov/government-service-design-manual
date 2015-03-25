@@ -5,8 +5,8 @@ subtitle: Using and creating Application Programming Interfaces
 category: making-software
 type: guide
 audience:
-  primary: service-managers, tech-archs
-  secondary: developers, chief-technology-officers
+  primary: service-managers, tech-archs, developers
+  secondary: chief-technology-officers
 status: draft
 phases:
   - beta
@@ -20,7 +20,7 @@ breadcrumbs:
     url: /service-manual/making-software
 ---
 
-[Martha Lane Fox's report](https://www.gov.uk/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler, as well as the retail shop front, for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](http://en.wikipedia.org/wiki/Application_programming_interface)) to third parties."
+[Martha Lane Fox's report](/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox) called for government to act as a "wholesaler, as well as the retail shop front, for services and content by mandating the development and opening up of Application Programme Interfaces ([APIs](https://en.wikipedia.org/wiki/Application_programming_interface)) to third parties."
 
 This section is a set of guiding principles for exposing a digital service as an API.
 
@@ -29,7 +29,7 @@ This section is a set of guiding principles for exposing a digital service as an
 ###Build an API by building with the API
 When building an API there is always a danger of building the wrong thing in the wrong way for the wrong people.
 
-This is especially a risk in the absence of a developer community driving [the needs](https://www.gov.uk/designprinciples#first) behind the API.
+This is especially a risk in the absence of a developer community driving [the needs](https://www.gov.uk/design-principles#first) behind the API.
 
 The simplest way to ensure your API is useful and consumable is to build a website using your own API.
 
@@ -51,19 +51,19 @@ a worldwide audience is difficult. While proprietary and open technologies
 abound for machine-to-machine communication, none of them have the web's
 interoperability, reach and ability to scale.
 
-Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URLs (uniform resource locator), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](http://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](http://www.cabinetoffice.gov.uk/resource-library/directgov-2010-and-beyond-revolution-not-evolution), meeting our design principle to [build digital services, not websites](https://www.gov.uk/designprinciples#eighth).
+Standards are powerful agreements, and nowhere are agreements more quickly established and adopted than on the web. Using HTTP (Hypertext Transfer Protocol) and URLs (uniform resource locator), the core technologies of the web, along with emergent standards such as [JSON](http://www.json.org/) and [OAuth](https://en.wikipedia.org/wiki/OAuth) changes a website from [a retail shop window into a wholesaler](/government/publications/directgov-2010-and-beyond-revolution-not-evolution-a-report-by-martha-lane-fox), meeting our design principle to [build digital services, not websites](/design-principles#eighth).
 
 ### Give each thing a bookmarkable URL
-Expose data as a set of resources, offering a [clean URL](http://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.
+Expose data as a set of resources, offering a [clean URL](https://en.wikipedia.org/wiki/Clean_URL) for each thing, and each collection of things.
 
-Only use [query strings](http://en.wikipedia.org/wiki/Query_string) for URLs with unordered parameters, such as options to search pages.
+Only use [query strings](https://en.wikipedia.org/wiki/Query_string) for URLs with unordered parameters like options to search pages.
 
 Consider creating URLs for different granularity of resources. For example, `/members.json` could return a list of names, whilst `/members.json?detail=full` could return detailed information about each member in a list.
 
 These principles enable network effects which arise through linking and allow information published beyond the web, sent in alerts email, SMS, XMPP and other messages, to link back to the canonical content on the web.
 
 ### Use HTTP methods as Tim intended
-Ensure all [HTTP GET](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html), and actions which change state are conducted using a [POST](http://en.wikipedia.org/wiki/POST_(HTTP)), PUT or DELETE method.
+Ensure all [HTTP GET](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html) and actions which change state are conducted using a [POST](https://en.wikipedia.org/wiki/POST_(HTTP)), PUT or DELETE method.
 
 Use PUT and DELETE with caution, as they are commonly blocked by firewalls,
 intranet proxies, hotel Wi-Fi and mobile operators: always offer a POST
@@ -74,23 +74,23 @@ Avoid HTTP methods which are not well defined, such as PATCH.
 ### Representations are for the consumer
 Offer content for each thing as a human-readable HTML, with links to content in alternative machine-readable representations:
 
-- [JSON](http://en.wikipedia.org/wiki/JSON) for convenient processing in most programming languages
-- [JSONP](http://en.wikipedia.org/wiki/JSONP) and JSON with [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) for client-side JavaScript
-- [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) for importing into spreadsheets
-- [Atom](http://en.wikipedia.org/wiki/Atom_(standard)) for [feeds](http://en.wikipedia.org/wiki/Web_feed)
+- [JSON](https://en.wikipedia.org/wiki/JSON) for convenient processing in most programming languages
+- [JSONP](https://en.wikipedia.org/wiki/JSONP) and JSON with [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) for client-side JavaScript
+- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) for importing into spreadsheets
+- [Atom](https://en.wikipedia.org/wiki/Atom_(standard)) for [feeds](https://en.wikipedia.org/wiki/Web_feed)
 
 Where possible, also offer other formats most suited to a specific domain, such as:
 
-- [iCalendar](http://en.wikipedia.org/wiki/ICalendar) for events
-- [vCard](http://en.wikipedia.org/wiki/VCard) for name and addresses
-- [KML](http://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](http://en.wikipedia.org/wiki/GeoRSS) for geographical data
-- [m3u](http://en.wikipedia.org/wiki/.m3u) for playlists
+- [iCalendar](https://en.wikipedia.org/wiki/ICalendar) for events
+- [vCard](https://en.wikipedia.org/wiki/VCard) for name and addresses
+- [KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language) and [geoRSS](https://en.wikipedia.org/wiki/GeoRSS) for geographical data
+- [m3u](https://en.wikipedia.org/wiki/.m3u) for playlists
 
-This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centered-design/choosing-appropriate-formats.html).
+This advice builds on our [more general guidance on data and content publication formats](/service-manual/user-centred-design/choosing-appropriate-formats.html).
 
 Include hyperlinks to alternative representations as [link headers](http://www.w3.org/TR/html51/document-metadata.html#the-link-element) as well as in content.
 
-Consider also encoding metadata inside HTML content using semantic markup: [Microformats](http://microformats.org/), [RDFa](http://en.wikipedia.org/wiki/Rdfa) or [schema.org](http://schema.org/).
+Consider also encoding metadata inside HTML content using semantic markup: [Microformats](http://microformats.org/), [RDFa](https://en.wikipedia.org/wiki/Rdfa) or [schema.org](http://schema.org/).
 
 The representations supported by an API for input will vary depending upon the complexity of the action, but where possible should include `application/x-www-form-urlencoded` to allow the construction of simple POST forms.
 
@@ -112,16 +112,16 @@ Lower the barriers to others using your data: don't demand registration or API k
 
 Open data increases the number of people able to use your data and service, and leads to feedback loops where consumers become motivated to resolve issues at source, feeding back issues and correction to your service and its data.
 
-Where content is sensitive, or requires authentication, use HTTPS encryption (Hypertext Transfer Protocol Secure) and a standard authentication such as [basic authentication](http://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](http://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
+Where content is sensitive, or requires authentication, use HTTPS encryption (Hypertext Transfer Protocol Secure) and a standard authentication such as [basic authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) or [OAuth](https://en.wikipedia.org/wiki/OAuth), depending upon the sensitivity of your content.
 
 ### Practice service evolution
 
-Build for [forwards compatibility](http://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected. The [robustness principle](http://en.wikipedia.org/wiki/Robustness_principle) &mdash; Postel's Law explains the ability for the web and internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content.
+Build for [forwards compatibility](https://en.wikipedia.org/wiki/Forward_compatibility) by gracefully handling content that is unexpected. The [robustness principle](https://en.wikipedia.org/wiki/Robustness_principle) -- Postel's Law -- explains the ability for the web and internet to evolve, though you shouldn't ignore protocol errors, corrupted, or invalidly formatted content.
 
-Preserve [backwards compatibility](http://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to meaning the prefix for a name to the person's job title.
+Preserve [backwards compatibility](https://en.wikipedia.org/wiki/Backward_compatibility) with existing consumers of your API, by sending expected fields and employing sensible default values for missing fields. Eschew changes to the semantics of content, eg don't change a `title` field from meaning the title of the page, to meaning the prefix for a name to the person's job title.
 
 Where a revolutionary change is unavoidable, communicate a breaking change by changing the URL.
-When changing URLs, continue to honour old consumers, possibly use a [redirection](http://digital.cabinetoffice.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
+When changing URLs, continue to honour old consumers, possibly use a [redirection](https://gds.blog.gov.uk/2012/10/11/no-link-left-behind/). [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html).
 
 
 ##Consuming and using APIs
@@ -154,7 +154,7 @@ You should be clear with your users about what's happening. If a third-party pay
 
 ##Further reading
 
-* [API Craft](http://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs
+* [API Craft](https://groups.google.com/group/api-craft) is a reasonably active public forum for discussing publishing APIs
 * The Open Web Application Security Project ([OWASP](https://www.owasp.org)) maintains a large repository of security information applicable to building APIs, including a [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
 * The White House are developing [API standards](https://github.com/WhiteHouse/api-standards) which are largely compatible with this guide
 

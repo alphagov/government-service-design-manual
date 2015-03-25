@@ -17,15 +17,15 @@ breadcrumbs:
 ---
 
 {:.intro}
-What are the [needs of your users](/service-manual/user-centered-design/user-needs.html)? What services currently meet those? How are they [performing](/service-manual/measurement/performance-platform)? What technological or policy related constraints might there be?
+What are the [needs of your users](/service-manual/user-centred-design/user-needs.html)? What services currently meet those? How are they [performing](/service-manual/measurement/performance-platform)? What technological or policy related constraints might there be?
 
-Before you start building a service you need to build up a picture of what the context for that service is. That means lots of [user research](/service-manual/user-centered-design/introduction-to-user-research.html), close analysis of policies, laws and business needs, and workshops and interviews which establish the criteria for success of your service.
+Before you start building a service you need to build up a picture of what the context for that service is. That means lots of [user research](/service-manual/user-centred-design/user-research/index.html), close analysis of policies, laws and business needs, and workshops and interviews which establish the criteria for success of your service.
 
 ## Objectives
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=UVX1BT0oxWU">Watch Aleks Maricic, GDS Proposition Manager, describe the discovery phase.</a></figure>
 
-The discovery phase will give you a high-level understanding of [user needs](/service-manual/user-centered-design/user-needs.html), what the existing service landscape looks like and a sense of what your [initial prototypes](/service-manual/user-centered-design/working-with-prototypes.html) will explore.
+The discovery phase will give you a high-level understanding of [user needs](/service-manual/user-centred-design/user-needs.html), what the existing service landscape looks like and a sense of what your [initial prototypes](/service-manual/user-centred-design/working-with-prototypes.html) will explore.
 
 You'll need to think about user needs for digital and assisted digital users. As a start, you'll need to understand [what proportion of your users you think will need assisted digital support](/service-manual/assisted-digital/action-plan.html#discovery-stage).
 
@@ -54,7 +54,7 @@ The phase should not take longer than 4 to 8 weeks. During the final week you sh
 
 You will leave the discovery phase with:
 
-* a prioritised list of [user needs](/service-manual/user-centered-design/user-needs.html)
+* a prioritised list of [user needs](/service-manual/user-centred-design/user-needs.html)
 * a prioritised list of [story cards](/service-manual/agile/writing-user-stories.html) to feed into project teams
 * understanding of [team](/service-manual/the-team) and capability required to complete the project
 * ability to scope and plan an [alpha](/service-manual/phases/alpha.html)

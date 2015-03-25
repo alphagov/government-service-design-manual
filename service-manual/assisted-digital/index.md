@@ -1,11 +1,11 @@
 ---
 layout: detailed-guidance
 title: Assisted digital
-subtitle: Getting digital services to people who aren’t online
+subtitle: Information for service managers
 category: assisted-digital
 type: guide
 audience:
-  primary: service-managers, designers, developers, tech-archs, performance-analysts, user-researchers, content-designers
+  primary: service-managers
 status: draft
 phases:
   - discovery
@@ -18,59 +18,130 @@ breadcrumbs:
     url: /service-manual
 ---
 
-Most of your users will be able to use new and redesigned services unaided, but there are some who will need help. This support is referred to as assisted digital.
+Your service will need to pass point 10 of the [Digital by Default Service Standard](/service-manual/digital-by-default), which is to “Put appropriate assisted digital support in place that’s aimed towards those who genuinely need it”.
 
-<figure class="media-player-wrapper video">
-	<a href="https://www.youtube.com/watch?v=CnCCmwxdPWQ">Watch the team describe what assisted digital means</a
-	>
-</figure>
+Here you will be able to find out:
 
-Assisted digital support might be provided in person, on the phone, or through other appropriate channels. Users will be given help to use the service, or someone will use it alongside them on their behalf.
+* what we mean by assisted digital
+* who needs assisted digital support
+* when you don’t need to provide assisted digital support
+* how you can provide assisted digital support, including channels, responsibilities and liabilities
+* how assisted digital, digital inclusion and digital take-up are related
+* how to provide support during GOV.UK Verify
+
+## What is assisted digital?
+Assisted digital is support for people who can’t use online government services on their own. The support can be someone guiding a user through the digital service or entering a user’s information into the digital service on their behalf. It can be provided by the private, voluntary or public sectors.
 
 <img src="/service-manual/assets/images/ad-image.jpg" alt="Diagram showing the digital and assisted digital routes to a digital service" />
 
-You can read more about assisted digital in the publication '[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
-
-##The users who need assisted digital support
-
-Assisted digital support is for users who are not able to use digital services without help. 18% of UK adults are offline and the GDS ‘Digital Landscape Research’ provides [a demographic breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#fig-5) of who is online and who is offline.
-
-Every service will have a different proportion of users who aren’t online, so understanding your [users' needs](/service-manual/user-centered-design/user-needs.html) is vital for putting in place the appropriate support.
-
-[User research](/service-manual/user-centered-design/introduction-to-user-research.html) will help you to understand your users. When doing your research, use service teams and [user research techniques](/service-manual/user-centered-design/user-research#tips-for-user-research).
-
-Consider the digital skills of your users. This will help you understand - out of those not using digital channels - which users:
-
-* won’t ever be able to use the digital service independently and will always need assisted digital support
-* could use the digital service independently, but will need assisted digital support at the beginning to build their confidence in using the service
-* should use the digital service (ie have the digital skills, but currently use non-digital channels) and don’t need assisted digital support
-
-Your service might not need to provide assisted digital support, eg your users are large corporations.
-
-##What ‘good’ looks like
+Assisted digital support must include advice on how to use the digital service. This could be information already on [GOV.UK](https://www.gov.uk/) (or on an alternative domain for departments that are exempt from GOV.UK) about the service or the policy decisions behind it. The person giving assisted digital support must only need to use information already available to do their job.
 
 Good assisted digital support:
 
-* is based on [user needs](/service-manual/user-centered-design/user-needs.html)
-* acts as an alternative way to access the digital service
-* includes an opportunity to learn, and encourages users to use the digital service independently in the future (where appropriate)
-* can be provided externally from government, ie by the private and voluntary sectors
-* replaces existing non-digital channels, such as phone or face--to--face, as the demand for them decreases
+* is designed to meet well-researched user needs
+* helps users build the skills or confidence to use the online service independently
+* is easy for users to find - at the times and places they need it
+* is trusted, free to use and easy to access
+* gives a good end-to-end experience as users can successfully complete the service
+* gives users a joined-up experience across multiple services that can be run by different government departments
+* helps to make the digital service better
+* is sustainably provided
+* meets users’ accessibility and legal language requirements
+* securely stores and handles users’ personal data in line with the Data Protection Act, ensuring users’ privacy is maintained
 
-For more details, see our [assisted digital action plan](/service-manual/assisted-digital/action-plan.html).
+Find out how to [create an assisted digital action plan](/service-manual/assisted-digital/action-plan).
 
-##What assisted digital support will look like
+## Who needs assisted digital support
+GDS’s [Digital Landscape Research](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research) (2012) found that [18% of UK adults are offline](https://www.gov.uk/government/publications/digital-landscape-research/digital-landscape-research#uk-digital-landscape). This means that about 9m people never or rarely use the internet. [Go ON UK](http://www.go-on.co.uk/) estimates that 1 in 5, or 11m, adults lack [Basic Online Skills](http://www.go-on.co.uk/opportunity/basic-online-skills/) (including people who are offline).
 
-Assisted digital support must follow shared models of assisted digital and be procured from the private and voluntary and community sector to make sure it’s consistent. Shared models and procurement routes are currently being developed by GDS and departments in conjunction with the Government Procurement Service (GPS). For more information, see the publication ‘[Government Approach to Assisted Digital](http://publications.cabinetoffice.gov.uk/digital/assisted/)’.
+And [Lloyds Bank UK Business Digital Index 2014](http://resources.lloydsbank.com/economic-research/uk-business-digital-index-2014/) found that 1 in 3 SMEs and charities also lack basic online skills. Assisted digital support needs to be available to service users in the UK or UK citizens who are living overseas who cannot access or complete a user journey on their own, such as:
 
-Only in exceptional circumstances can a department ask for an exemption from this requirement, eg where a business case for using external resources doesn’t demonstrate good value for money.
+* people or businesses who are offline
+* people or businesses who are online but have limited digital capability - ie low experience, skills, confidence, ability and/or motivation
 
-Moving from in-house to external resources will be phased in as the marketplace of assisted digital providers is established.
+Every service will have a different proportion of users who need assisted digital support. You will need to [carry out user research to understand your users](/service-manual/assisted-digital/assisted-digital-user-research), including those with very low or no digital skills.
 
-Where an alternative channel remains, it must be redesigned to provide assisted digital support.
+## When you don’t need to offer assisted digital support
+Your service doesn’t need to provide assisted digital support if:
 
-##How we’re developing an approach to assisted digital
+* there is an alternative service (not channel) available that achieves the same outcome for users.
+  * eg the [Registered Traveller service](https://www.gov.uk/transformation/apply-registered-traveller) enables pre-approved travellers to pass through the UK border faster than the standard border process, which is a separate service that is available to them with the same outcome.
+* your users are public sector employees who use your service as part of their work
+* your users are non-UK citizens overseas
+* your service is being completed by a third party intermediary who benefits commercially for engaging with the service on behalf of the end user. 
+  * Note that if an intermediary is the intended end user (rather than completing the service on behalf of the end user), you may need to provide assisted digital support.
 
-Departments and GDS are working together to develop assisted digital support for the [exemplar digital by default services](https://www.gov.uk/transformation). The experiences with these services will inform shared models and shared procurement routes for assisted digital.
+##Responsibilities and liabilities
+As a service manager, you will need to make sure that:
 
-If you’re not an exemplar service but would like to get involved in this work, please [contact GDS](/service-manual/feedback).
+* assisted digital support is delivered within legal and policy constraints, such as the Equality Act 2010
+* assisted digital users are not charged more to use your service than those who do not need any help
+* your assisted digital support provides free translation and accessibility facilities, to meet relevant legal requirements
+
+You may provide users with non-financial incentives for completing the service digitally, such as later deadlines for online self assessment tax returns.
+
+###Information accuracy
+Assisted digital support providers are responsible for making sure that the user has a basic understanding of your service.
+
+Responsibility for  the accuracy of information (eg typing a passport number or date of birth) lies with either the service provider or the service user, depending on who is entering the information:
+
+* if the user enters the information, they are responsible
+* if a support provider enters the information, they are responsible for making sure that the information is correct, even if the user can see the screen
+
+Assisted digital support providers can choose not to provide support if it can’t be done accurately, eg because of a bad phone line or if the user has a speech impairment. In such instances, the assisted digital support provider must guide the user to an appropriate alternative.
+
+###Costs for assisted digital
+Sometimes an assisted digital user may need to pay for the costs of accessing assisted digital support like:
+
+* the cost of travelling to an office
+* calling a contact centre
+* paying for printing, scanning and taking photos
+
+These costs must be in line with existing policy, eg not using higher-rate phone lines.
+
+##Channels for providing assisted digital support
+You can only provide assisted digital support in person, through web chat or over the telephone, and not on paper. This is because a user’s information will be fed directly into the digital service by the person or technology they are interacting with. This reduces administrative overheads related to double handling and re-typing.
+
+###In person
+You can offer assisted digital support at the support provider’s location (eg high street or office location) or as an outreach visit (eg at the user's home or in hospital).
+
+The user sits alongside the assisted digital support provider and can see the digital service on the screen. It’s important to take this approach because it enables the user to learn digital skills and build confidence. This means the user is more likely to complete the digital service on their own in the future.
+
+For the same reason, it’s preferable for users to type in their own information. Providers of in person assisted digital support may need to type the user’s information into the service if a user cannot do so themselves.
+
+###Telephone
+The preferred approach to telephone support is for the assisted digital support provider to talk to the user at the same time they are trying to use your service. This will encourage the user to build their digital skills and confidence, making it more likely that they will be able to do it on their own in future.
+
+Alternatively, telephone support may involve the user providing information to the assisted digital support provider to type into the digital service on their behalf.
+
+###Web chat
+Assisted digital support may be provided on screen while the user is attempting to use the digital service independently. An on-screen dialogue enables the assisted digital support provider to support the user.
+
+##Front Office Counter Services framework
+When procuring for assisted digital services, departments should use the Front Office Counter Services (FOCS) framework where this provides value for money and meets user need. Where departments choose to use an alternative contractual mechanism, they should consult and agree with HM Treasury (including reasons for selecting an alternative contractual mechanism) before submitting their spend request to Cabinet Office. The Efficiency Reform Group (ERG) should seek relevant HM Treasury spending team approval on any decision not to use the FOCS framework. 
+
+##How assisted digital, digital take-up and digital inclusion are related
+Some people can use digital services but for a range of reasons prefer other channels. [Digital take-up](/service-manual/communications/increasing-digital-takeup) is about encouraging them to start using digital government services instead.
+
+[Assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) is about supporting people who can’t use government digital services on their own.
+
+Helping individuals to develop the basic digital skills needed to make the most of being online more broadly is called [Digital inclusion](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy).
+
+###How they might overlap
+Assisted digital and digital inclusion both involve users who can’t use digital services on their own. Both approaches help users gain the confidence and skills to be able to use the service on their own in the future.
+
+Any user that builds their digital skills and confidence to the point that they no longer require assisted digital support should then be included in your digital take-up strategy.
+
+Some users may never develop the skills or confidence to be able to complete digital services independently and will always need assisted digital support.
+
+###How digital take-up users are different from assisted digital users
+Unlike assisted digital and digital inclusion users, digital take-up users can use online services, but prefer to use other channels for a number of reasons. Service managers must find ways of encouraging their service’s users to user digital channels whenever possible.
+
+
+##Providing assisted digital support during GOV.UK Verify
+If your service includes GOV.UK Verify (enabling users to authenticate their identity before using online services), you must ensure that assisted digital support is available for the full end-to-end transaction, including the identity providers’ pages.
+
+For more information on GOV.UK Verify, refer to GDS’s [guidance](/service-manual/identity-assurance) and [contact](mailto:janet.hughes@digital.cabinet-office.gov.uk) the GOV.UK Verify team at GDS at the earliest opportunity.
+
+
+

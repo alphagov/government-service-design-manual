@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Performance analyst job description
+title: Digital performance analyst 
 category: the-team
 audience:
   primary:
@@ -15,8 +15,6 @@ breadcrumbs:
     url: /service-manual/the-team
 ---
 
-*NOTE: the following template was used to advertise a performance analyst vacancy at GDS*
-
 ## Job description
 
 Digital Performance Analysts sit at the heart of [a team](/service-manual/the-team), working to specify, collect and present the key performance data and analysis for their service.  The post holder will be part of a revolution in the way in which government continuously measures, assesses, and improves performance in transacting with the public. 
@@ -29,77 +27,73 @@ You will need to be confident in explaining technical concepts to senior civil s
 
 The main responsibilities of the post are to:
 
-* support the [service manager](/service-manual/the-team/service-manager.html) in ensuring that their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default)
-* communicate service performance against key indicators to the Cabinet Office and other senior stakeholders within the department
-* ensure high quality analysis of departmental [transaction data](/service-manual/measurement/cost-per-transaction.html)
-* support the procurement of the [necessary digital platforms](/service-manual/making-software/analytics-tools.html) to support automated and real-time collection and presentation of data
-* share examples of best practice in digital performance management across government, contributing to the [Government Service Design Manual](/service-manual)
-* identify delivery obstacles to improving transactional performance within departments and working with teams to overcome those obstacles.
+* support the [service manager](/service-manual/the-team/service-manager.html) to make sure their service meets the performance requirements set out in the [Digital by Default Service Standard](/service-manual/digital-by-default)
+* communicate service performance against key indicators to internal and external stakeholders
+* ensure high-quality analysis of departmental transaction data
+* support the procurement of the necessary digital platforms to support automated and real-time collection and presentation of data
+* share examples of best practice in digital performance management across government
+* identify delivery obstacles to improving transactional performance in 	departments and working with teams to overcome those obstacles
 
-## Personal Specification - Competencies / Skills 
+## Personal specification -- competencies and skills required 
 
-SEEING THE BIG PICTURE
+You need to be able to see the big picture. You must have these skills:
 
 **Essential**  					
 
-* Building on the inter-dependencies and relationships between teams to create a common purpose
-* Clarifying and communicating team objectives, bringing a broader perspective to a team so that it can focus on different delivery approaches
-* Co-ordinating and monitoring team performance, utilising team diversity to maximise effectiveness
+* be alert to emerging issues and trends which might impact or benefit own and team’s work
+* understand how the services, activities and strategies in the area work together to create value for the user
+* make sure own area/team activities are aligned to departmental priorities
 
-**Desirable**
 
-* Familiarity with the public sector and government processes
-
-BUILDING CAPABILITY FOR ALL
+You must be able to make effective decisions by: 
 
 **Essential**						
 
-* Valuing contributions from everyone, rewarding productive behaviour and promptly addressing any poor performance
-* Ability to work in a diverse team of highly talented staff, from different disciplines and backgrounds.
-* Using regular performance assessment to focus on the delivery of objectives and provide or gain timely and constructive feedback to agree development plans
-* Ensuring equal access to learning and development opportunities to enable all people to realise their full potential
+* identifing a range of relevant and credible information sources and recognise the need to collect new data when necessary from internal and external sources
+* recognising patterns and trends in a wide range of evidence and draw important conclusions
+* exploring different options outlining costs, benefits, risks and potential responses to each
+* inviting challenge and where appropriate involve others in decision making to help build engagement and present robust recommendations
+		
+					
+You need to be a good leader with strong communication skills. You will be able to:
+
+**Essential**
+
+* communicate using appropriate styles, methods and timing, including digital channels, to maximise understanding and impact
+* communicate in a succinct, engaging manner and stand ground when needed
+* convey enthusiasm and energy about their work and encourage others to do the same
+* promote the work of the department and play an active part in supporting the civil service values and culture
+
+
+You must be able to build capability for all:
+
+**Essential**
+
+* proactively manage own career and identify own learning needs with line manager, plan and carry out workplace learning opportunities
+* continually seek and act on feedback to evaluate and improve their own and team’s performance
+
+
+You must be able to manage a quality service:
+
+**Essential**
+
+* make effective use of project management skills and techniques to deliver outcomes, including identifying risks and mitigating actions
+* develop, implement, maintain and review systems and service standards to provide quality, efficiency and value for money
+* establish mechanisms to seek out and respond to feedback from customers about service provided
+
 							
-LEADING AND COMMUNICATING
+You will be able to deliver at pace: 
 
 **Essential**
 
-* Strong communication skills; the ability to make extremely complex subjects clear and easy to comprehend.
-* Excellent stakeholder management skills, and the ability to form strong collaborative relationships.
-* Proposing ways in which communication and marketing can add creative and innovative impact
+* make sure there is efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
+* regularly monitor own and team’s work against targets
+* act promptly to keep work on track and maintain performance
+* plan ahead but reassess workloads and priorities if situations change or people are facing conflicting demands
 
-MAKING EFFECTIVE DECISIONS	
-
-**Essential**
-
-* Identifying emerging performance issues or trends and proposing decisive strategic action
-* Probing evidence to identify quick fixes and user needs for service improvements
-* Analysing evidence from diverse sources to generate robust solutions and make timely decisions
-* The ability to make sound judgements under pressure and competing demands.
-
-DELIVERING AT PACE
+Some specialist skills you will have:
 
 **Essential**
 
-* Ensuring efficient and effective use of resources to deliver programmes and projects on time, within budgets and to agreed quality standards
-* Managing across boundaries to ensure delivery of benefits and sharing lessons learned
-							
-DELIVERING VALUE FOR MONEY
-
-**Desirable**	 	 	 					
-* Experience of complying with government guidance on finance and procurement policies and applying procedures correctly
-* Advising on future resource requirements and assessing the implications of changing demands
-
-MANAGING A QUALITY SERVICE
-
-**Essential**										
-
-* Investing time to understand customer and stakeholder expectations and priorities, developing services to meet those needs, including when they change
-* Anticipating and managing problems, bringing issues and conflict into the open and taking pre-emptive action
-* Identifying and introducing improved services to deliver customer and stakeholder requirements.
-
-SPECIALIST SKILLS
-
-**Essential**
-
-* Familiarity with web technologies an advantage
-* Familiarity with data analysis and visualisation tools an advantage, eg Google Analytics, Google Refine, Tableau, etc.
+* familiarity with data analysis, web analytics and visualisation tools essential eg Google Analytics, Google Refine, Tableau etc
+* experience of providing performance analysis and recommendations on digital public services

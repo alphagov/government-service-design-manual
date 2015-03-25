@@ -1,0 +1,31 @@
+// Example
+//
+// Use this to wrap HTML or image examples in a grey outline
+
+.example {
+  @extend %contain-floats;
+  position: relative;
+  overflow: hidden;
+  background: $white;
+  border: 1px solid $border-colour;
+  outline: $gutter-half solid $highlight-colour;
+  margin: $gutter 0 $gutter*2 0;
+  padding: $gutter-half;
+  @include media(tablet) {
+    padding: $gutter $gutter-half;
+  }
+	.ribbon {
+		background-color: $grass-green;
+		overflow: hidden;
+		position: absolute;
+		right: -50px;
+		top: 40px;
+		-moz-transform: rotate(45deg);
+		-webkit-transform: rotate(45deg);
+		color: #FFF;
+		display: block;
+		font-weight: bold;
+		font-size: 16px;
+		padding: 3px 50px;
+	}
+}

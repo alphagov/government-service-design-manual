@@ -15,18 +15,64 @@
   }
 }
 
-#global-breadcrumb{
-  padding: 0.75em 0;
-  margin: 0 1em;
-  border-bottom: 1px solid $border-colour;
 
-  @include media(desktop) {
-    margin: 0 2em;
+#global-breadcrumb {
+  background-color: #fff;
+  max-width: 1020px;
+  margin:0 auto;
+  z-index: 50;
+
+  @include media-down(mobile) {
+    padding: 0 1em;
   }
 
-  nav {
-    margin: 0;
-    padding: 0;
-    border: none;
+  @include ie(6) {
+    width: 960px;
+  }
+
+  ol {
+    max-width: 960px;
+    margin: 0 30px;
+    padding: 0.75em 0;
+
+    @include ie-lte(7) {
+      padding: 0.75em 16px 0;
+      width: 900px;
+    }
+
+    @include media-down(mobile) {
+      margin: 0;
+    }
+
+    li {
+      @include core-16;
+      background-image: url("../images/separator.png");
+      background-position: 100% 50%;
+      background-repeat: no-repeat;
+      float: left;
+      list-style: none;
+      margin-left: 0;
+      margin-right: 0.5em;
+      margin-bottom: 0.4em;
+      padding-right: 1em;
+
+      @include device-pixel-ratio() {
+        background-image: url("../images/separator-2x.png");
+        background-size: 6px 11px;
+      }
+
+      a {
+        color: $text-colour;
+      }
+
+      strong {
+        font-weight: normal;
+      }
+
+      &:last-child {
+        background-image: none;
+        margin-right: 0
+      }
+    }
   }
 }

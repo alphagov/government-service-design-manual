@@ -38,7 +38,7 @@ are:
 Deploying software should be a low-risk activity. By deploying
 software frequently and in small increments, the risk is reduced in a
 number of ways. See
-[Regular Releases Reduce Risk](http://digital.cabinetoffice.gov.uk/2012/11/02/regular-releases-reduce-risk/)
+[Regular Releases Reduce Risk](https://gds.blog.gov.uk/2012/11/02/regular-releases-reduce-risk/)
 from the GDS blog for more on this.
 
 Deploying software frequently makes life better for the product
@@ -156,7 +156,7 @@ be deployed to production without having been tested in every previous
 environment first.
 
 This does not need to be a strict linear ordering. Some sets of tests
-may be run in parallel - such as user acceptance testing and
+may be run in parallel -- such as user acceptance testing and
 performance testing. However there is very often one single production
 environment which is later than all others, and one single entry point
 which precedes all others.
@@ -320,7 +320,7 @@ deployment pipeline as application code. They should be deployed to
 testing environments first, and only go to production once they have
 been applied and verified against all other environments.
 
-### Service depencencies ###
+### Service dependencies ###
 
 Services which depend on one another via an application programming interface (API) can experience similar
 deployment problems as applications which depend on a database. For
@@ -363,7 +363,7 @@ test failure and cancel the deployment or roll back to the previous
 version.
 
 An ideal solution would not even add the new version of the
-application to the production [load balancer](http://www.wikipedia.org/wiki/Load_balancer) until it has been smoke
+application to the production [load balancer](https://en.wikipedia.org/wiki/Load_balancer) until it has been smoke
 tested and verified good. If the application fails the smoke test, it
 is simply discarded; no rollback is necessary, and no interruption in
 service happens. This works particularly well with the immutable
@@ -386,15 +386,15 @@ deployment pipeline was not streamlined enough to accommodate a rapid
 deployment of a fix to production.
 
 [CFEngine]: http://cfengine.com/
-[Chef]: http://www.opscode.com/chef/
+[Chef]: https://www.chef.io/chef/
 [Puppet]: https://puppetlabs.com/
 [immutable server]: http://martinfowler.com/bliki/ImmutableServer.html
-[lxc]: http://lxc.sourceforge.net/
+[lxc]: https://linuxcontainers.org/
 [fabric]: http://docs.fabfile.org/en/1.6/
 [capistrano]: https://github.com/capistrano/capistrano
 [Hiera]: http://projects.puppetlabs.com/projects/hiera
 [hiera-gpg]: https://github.com/crayfishx/hiera-gpg
-[GPG]: http://www.gnupg.org/
-[chef data bags]: http://docs.opscode.com/essentials_data_bags.html
+[GPG]: https://www.gnupg.org/
+[chef data bags]: https://docs.chef.io/data_bags.html
 
 *[API]: application programming interface 

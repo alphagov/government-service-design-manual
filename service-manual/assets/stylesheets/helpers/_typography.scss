@@ -186,7 +186,7 @@ article ul, article ol {
 */
 article ul {
   list-style-type: circle;
-  list-style-image: image-url("bullet-disc-5px.gif");
+  list-style-image: url("../images/bullet-disc-5px.gif");
 }
 
 article ol {
@@ -262,4 +262,12 @@ article th {
   font-weight: 700;
   background-color: $panel-colour;
   border: solid 1px $border-colour;
+}
+
+article hr{
+  border: 0;
+  background-color: $border-colour;
+  height: 1px;
+  margin: 2em 0;
+  clear: right;
 }

@@ -28,6 +28,12 @@ Digital take-up is the proportion of transactions completed online.
 
 A digital transaction is one where the main interaction between the user and the service has been through a digital user interface. Classify transactions as digital only if a significant part of a transaction is completed online.
 
+## Assisted digital support
+
+Assisted digital support is provided for people who are not able to use digital services without help. Services should be designed so that the need for assisted digital support is minimal. Assisted digital transactions should be counted separately from digital transactions and should not count towards a service's digital take-up. 
+
+Read our [guidance on assisted digital](/service-manual/assisted-digital) for more information.
+
 ## How to measure digital take-up
 
 1.    Take the number of completed digital transactions in a calendar month.
@@ -37,7 +43,7 @@ The total number of transactions will be made up of all non-digital transactions
 
 ## The level of digital take-up to aim for
 
-The publication '[Digital Landscape research](http://publications.cabinetoffice.gov.uk/digital/research/)' found that 82% of adults in the UK are online, so it's sensible to aim for something in that region. However, about [a third](http://publications.cabinetoffice.gov.uk/digital/research/#fig-2) of those online have never accessed government information or services online, so this will involve a significant channel shift for most services.
+The [Digital Landscape Research](/government/publications/digital-landscape-research) found that 82% of adults in the UK are online, so it's sensible to aim for something in that region. However, about a third of those online have never accessed government information or services online, so this will involve a significant channel shift for most services.
 
 ## Services for users who are more or less than 82% online
 
@@ -47,11 +53,11 @@ Who's online, and how often, varies by:
 * gender
 * socio-economic status
 
-Use the 'Digital landscape research' as a guide. It has a [useful breakdown](http://publications.cabinetoffice.gov.uk/digital/research/#who-is-online-and-who-is-offline) of who's online and offline.
+Use the [Digital Landscape Research](/government/publications/digital-landscape-research) as a guide. It has a useful breakdown of who's online and offline.
 
 ## Achieving your digital take-up targets
 
-Digital take-up is a long-term strategic measure. Look to achieve the target level within 5 years of launch
+Digital take-up is a long-term strategic measure. Look to achieve the target level within 5 years of launch.
 
 ##How to increase digital take-up
 
@@ -61,6 +67,4 @@ Read our guidance on [increasing digital take-up](/service-manual/communications
 
 Read guidance on [ways of encouraging the use of digital by default services](/service-manual/communications/increasing-digital-takeup.html).
 
-## What about assisted digital?
 
-Some users will never use the digital service, but will still have to have access to the same level of service as those using your digital service. Departments will need to determine the appropriate mix of channels to support assisted digital users. Read our [guidance on assisted digital](/service-manual/assisted-digital) for more information.

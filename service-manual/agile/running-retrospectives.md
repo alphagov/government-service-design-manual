@@ -21,7 +21,7 @@ breadcrumbs:
     url: /service-manual/agile
 ---
 
-A central principle of agile is quick feedback loops – you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
+A central principle of agile is quick feedback loops -- you demonstrate something to the user as soon as possible so you can see how well it suits their needs. Retrospectives are the way we apply this to our own teams to find out what’s working and what isn’t, so a team can continuously improve.
 
 ## Retrospectives
 
@@ -42,7 +42,7 @@ This is a chance for everyone in your team to contribute to improving process/pr
 
 ![A retrospective plan](/service-manual/assets/images/planning_retro.jpg)
 
-All retrospectives must be facilitated. The facilitator’s role is to give everyone a chance to talk about their concerns and give positive feedback. 
+All retrospectives must be facilitated. The facilitator’s role is to give everyone a chance to talk about their concerns and give positive feedback.
 
 At the same time, they make sure the meeting remains a structured, productive meeting and doesn’t become overly negative. Ideally, your facilitator will be someone outside of your team so your whole team can contribute, but it’s not essential.
 
@@ -62,7 +62,7 @@ Working agreements could be that:
 
 * everyone contributes
 * no one speaks over the other (except for the facilitator)
-* no phones or laptops are allowed - everyone should be concentrating on the discussion
+* no phones or laptops are allowed -- everyone should be concentrating on the discussion
 
 ## Outcomes of a retrospective
 
@@ -96,29 +96,29 @@ Each of the activities is timeboxed (has a set time it will run for), and it’s
 
 Build in about 10% ‘shuffle time’ to move between activities to make sure it doesn’t overrun.
 
-### Setting the scene: 00:00 to 00:05 (5 mins)
+### Setting the scene: 00:00 to 00:05 (5 minutes)
 
 Explain the scope and, if necessary, purpose. If your team don’t know each other and/or are shy, include brief introductions.
 
-### Actions from the previous retrospective: 00:05 to 00:10 (5 mins)
+### Actions from the previous retrospective: 00:05 to 00:10 (5 minutes)
 
 Make sure they've been completed. If any haven't, ask if:
 
 * they still need to be done
-* why haven’t they been completed - set a new deadline if necessary, but don’t keep carrying actions over
+* why haven’t they been completed -- set a new deadline if necessary, but don’t keep carrying actions over
 
 {:.left}
 ![A Bad](https://farm9.staticflickr.com/8425/7739861570_ef1a5c745f_m_d.jpg)
 
-### The good: 00:10 to 00:20 (10 mins)
+### The good: 00:10 to 00:20 (10 minutes)
 
 Give your team around 10 minutes to write down all the things that went well in the previous 2 weeks on post-it notes.
 
 If anonymity is important to encourage free expression, collect them in and add them to the wall yourself. If not, have the team take turns adding their own post-its to the wall, possibly saying a few words about each.
 
-Don’t allow this to develop into a discussion at this point – you just want to gather data.
+Don’t allow this to develop into a discussion at this point -- you just want to gather data.
 
-### Discussion: 00:20 to 00:30 (10 mins)
+### Discussion: 00:20 to 00:30 (10 minutes)
 
 Group the post-its into common themes. If there are too many to discuss in the time you have then have the team prioritise, eg by voting with stickers.
 
@@ -128,11 +128,11 @@ Discuss each of the main areas in turn:
 * why did those things go well and what can we learn?
 * are there any actions we can draw out?
 
-### The bad: 00:30 to 00:45 (15 mins)
+### The bad: 00:30 to 00:45 (15 minutes)
 
 Give the team around 15 minutes to write post-its for anything that went badly.
 
-### Discussion: 00:45 to 01:05 (20 mins)
+### Discussion: 00:45 to 01:05 (20 minutes)
 
 Again, group the post-its, prioritise if necessary, and discuss the main areas:
 
@@ -142,13 +142,13 @@ Again, group the post-its, prioritise if necessary, and discuss the main areas:
 
 ![Post-its](https://farm9.staticflickr.com/8008/7465763890_49469afcfc_z_d.jpg)
 
-### Actions: 01:05 to 01:20 (15 mins)
+### Actions: 01:05 to 01:20 (15 minutes)
 
 Spend some time looking at the actions identified; assign them to people present and set realistic deadlines for completion.
 
 Total: 80 minutes with 10% shuffle time.
 
-It’s OK to finish early if people have said what they need to. It’s not OK to overrun – if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
+It’s OK to finish early if people have said what they need to. It’s not OK to overrun -- if there is too much to say, have the team prioritise the top areas for discussion and/or book more time for the next retrospective.
 
 ##Why we do this
 
@@ -163,7 +163,8 @@ Agile development practices will help you work better, and the retrospective all
 
 You may find these resources useful:
 
-* [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
-* [Agile Retrospectives: Making Good Teams Great](http://pragprog.com/book/dlret/agile-retrospectives).
+* [The Agile Retrospective Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) -- it has some very useful resources, including [plans for different types of retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans).
+* [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives).
+* [Getting Value out of Agile Retrospectives](https://leanpub.com/gettingvalueoutofagileretrospectives) -- Free eBook with many exercises for facilitating retrospectives, supported with the “what” and “why” of retrospectives, the business value and benefits that they bring, and advice for introducing and improving retrospectives.
 
 Retrospective plan photo by <a href="https://twitter.com/annashipman" target="_blank">Anna Shipman</a>. Voting with stickers photo by <a href="https://twitter.com/yahoo_pete" target="_blank">Pete Herlihy</a>. All other photographs by <a href="https://twitter.com/psd" target="_blank">Paul Downey</a>.

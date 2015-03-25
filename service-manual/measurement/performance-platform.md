@@ -61,7 +61,7 @@ Combining these sources will produce information that encourages a greater under
 ##Put data in
 
 You will be able to supply your service performance data via standard
-[Application Programming Interfaces (APIs)](http://www.techterms.com/definition/api).
+[Application Programming Interfaces (APIs)](http://techterms.com/definition/api).
 These APIs will be defined, documented and supported by the Performance
 Platform team. Your service will be responsible for collecting and supplying
 data to the API.
@@ -82,11 +82,11 @@ There will be default modules that are:
 
 * relevant to all services
 * relevant to similar groups of services (eg applying for something, requesting information, booking an appointment)
-* [Key Performance Indicators](/service-manual/measurement/index.html)
+* [Key Performance Indicators](/service-manual/measurement/)
 
 You’ll also have the ability to develop your own custom modules for your service.
 
 ##Further information
 
 * [The Performance Platform](/performance)
-* [Contact the team](mailto:Nayeema.Chowdhury@digital.cabinet-office.gov.uk)
+* [Contact the team](mailto:performance@digital.cabinet-office.gov.uk)

@@ -53,9 +53,9 @@ When you are considering an individual or company to work with, they should give
 * their commitment to work on-site with civil servants to share knowledge
 * how they will ‘bake in’ [quality](/service-manual/agile/quality.html) to the process
 
-They should also be aware of the [departmental digital strategies](http://publications.cabinetoffice.gov.uk/digital/#departmental-strategies) and how they will need to work with them.
+They should also be aware of the [departmental digital strategies](/government/collections/government-digital-strategy-reports-and-research) and how they will need to work with them.
 
-GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. Later in 2013, you will be able to use the Digital Procurement Framework.
+GDS can give you advice on buying this sort of capability through existing processes like G-Cloud, Spot-buy etc. You can now use the [Digital Marketplace](https://www.gov.uk/digital-marketplace).
 
 ##People, not process
 An underlying principle behind Agile development is that people are more important than process. It has been proven that great teams make great products whether they’re in government or business.
@@ -89,4 +89,4 @@ Your team structure and processes should centre around transferring knowledge to
 Don’t let a contractor become a single point of failure and treat all team members (permanent and contractors) the same.
 
 ##Further reading
-A blogpost by Meri Williams of GDS on [people management in an agile setting](http://digital.cabinetoffice.gov.uk/2012/11/27/people-management-in-an-agile-setting)
+A blog post by Meri Williams of GDS on [people management in an agile setting](https://gds.blog.gov.uk/2012/11/27/people-management-in-an-agile-setting/)

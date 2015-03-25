@@ -55,11 +55,11 @@ In the full cost of the transaction, include:
 * office equipment, including IT systems
 * postage, printing, telecommunications
 * total employment costs of those providing the service, including training
-* overheads, eg (shares of) payroll, audit, top management costs, legal services, etc
+* overheads, eg (shares of) payroll, audit, top management costs, legal services etc
 * raw materials and stocks
 * research and development
 * depreciation of start up and one-off capital items
-* taxes (VAT, council tax, stamp duty, etc)
+* taxes (VAT, council tax, stamp duty etc)
 * capital charges (if they were not met separately when the service was established)
 * speculative or actual insurance premiums
 * fees to sub-contractors
@@ -78,4 +78,4 @@ Exclude these costs from the transaction:
 
 Measure cost per transaction on a quarterly basis. It should cover the last 12 months to eliminate seasonal fluctuations.
 
-Measure cost per transaction for your existing service - if there is one - to create a baseline for comparing the future cost per transaction. When the digital service is exposed to real users (whether in alpha or beta) include it in the reported cost per transaction.
+Measure cost per transaction for your existing service -- if there is one -- to create a baseline for comparing the future cost per transaction. When the digital service is exposed to real users (whether in alpha or beta) include it in the reported cost per transaction.

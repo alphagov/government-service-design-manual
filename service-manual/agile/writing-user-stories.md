@@ -51,7 +51,7 @@ Your story cards can be virtual, as well as actual cards. On a large product/ser
 
 When writing a user story, make sure the story is well-formed. Don’t skip the part explaining why there’s a need for a service just because it can be difficult.
 
-You might want to include a list of acceptance criteria. These should be an aide-memoire for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
+You might want to include a list of acceptance criteria. These should be a reminder for things to test or check which may have come up during conversation, but they should not be used as a way of defining the scope of a story.
 
 If stories are too big then split them into smaller stories as they stand more chance of producing shippable (ready to use) code.
 
@@ -78,7 +78,7 @@ They don’t capture every detail, but you should have a more in-depth discussio
 
 Building useful software systems is hard, so you need to make sure you’re solving the right problem.
 
-Agile methodologies emphasise an outside-in approach – what outcome is your service user trying to achieve? If you dive into the solution without a good understanding of your users, you risk solving the wrong problem, or coming up with solutions which don’t really work for your users in the real world. That’s why the most important part of a user story is the goal.
+Agile methodologies emphasise an outside-in approach -- what outcome is your service user trying to achieve? If you dive into the solution without a good understanding of your users, you risk solving the wrong problem, or coming up with solutions which don’t really work for your users in the real world. That’s why the most important part of a user story is the goal.
 
 ###Goal
 
@@ -89,7 +89,7 @@ When writing stories with your development team, always start by thinking about 
 * why do they want to use your service?
 * what are they trying to achieve?
 * what need has motivated them to seek out your service?
-* in what context do they use it - at home/work/on a mobile phone/whilst caring for a child?
+* in what context do they use it -- at home/work/on a mobile phone/whilst caring for a child?
 * how often do they use it?
 
 Suzanne and James Robertson have excellent advice on this in the book *Mastering the Requirements Process* (3rd edition).
@@ -104,7 +104,9 @@ Make sure you already have a good understanding of your users from your initial 
 ###Narrative
 Use this as a reminder of the main interaction that needs to be addressed as part of the user experience. Remember that the story card does not need to spell out every detail.
 
-## Taking a rain check – the promise of a conversation
+<a name="promise-of-a-conversation"></a>
+
+## Taking a rain check -- the promise of a conversation
 
 [Agile teams prefer face-to-face conversation over detailed documentation](http://agilemanifesto.org/principles.html).
 
@@ -116,7 +118,7 @@ Face-to-face is:
 
 The story card is just a placeholder, a promise to have a conversation when the time is right. Use the story card and some brief initial conversations to estimate the amount of time a story needs to be completed and then put it into an agile backlog.
 
-When development work actually starts, consult the users or user representative to fill out the story details. A user story is the sum of all of these conversations, sketches and whiteboard diagrams - not just the card. You don’t need to write down or archive your conversations, but translate them directly into automated tests and working code.
+When development work actually starts, consult the users or user representative to fill out the story details. A user story is the sum of all of these conversations, sketches and whiteboard diagrams -- not just the card. You don’t need to write down or archive your conversations, but translate them directly into automated tests and working code.
 
 Using user stories in this way allows you to avoid ‘analysis paralysis’, the painful condition of trying to guess the details of some far-future goal.
 
@@ -136,16 +138,15 @@ Your service manager and other user representatives need to be available to deve
 
 Stories can come from many places, but the most common sources include:
 
-* story writing workshops - more commonly at the start of a project, the development team and stakeholders will get together to write stories
-* user interviews with real users - ideally, you will set up a user panel which the development team have ongoing access to
-* user representatives embedded within your team - this may include the service manager or product owner
-* observation - watch real users using your service
+* story writing workshops -- more commonly at the start of a project, the development team and stakeholders will get together to write stories
+* user interviews with real users -- ideally, you will set up a user panel which the development team have ongoing access to
+* user representatives embedded within your team -- this may include the service manager or product owner
+* observation -- watch real users using your service
 
 See [Chapter 4 of User Stories Applied](http://www.mountaingoatsoftware.com/books/user-stories-applied).
 
 ## Further reading
 
 1. Mastering the Requirements Process, 3rd Ed, Suzanne Robertson & James Robertson, 2012
-2. Agile Alliance, "Agile - What is it?", [http://www.jconne.com/agile1whatisit/](http://www.jconne.com/agile1whatisit/), accessed 7/1/2013
-3. Twelve Principles of the Agile Manifesto - [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
+3. Twelve Principles of the Agile Manifesto -- [http://agilemanifesto.org/principles.html](http://agilemanifesto.org/principles.html)
 4. User Stories Applied, Mike Cohn, 2004. Free chapter on "[Writing User Stories](http://www.mountaingoatsoftware.com/system/asset/file/259/User-Stories-Applied-Mike-Cohn.pdf)" available at [http://www.mountaingoatsoftware.com/books/user-stories-applied](http://www.mountaingoatsoftware.com/books/user-stories-applied)

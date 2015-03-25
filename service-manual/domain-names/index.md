@@ -22,7 +22,7 @@ breadcrumbs:
 
 ## Where services live on the web
 
-Every digital service offered by the UK government must have a single, well-known place on the web where users can locate and use the service. For public-facing services that will be the relevant start page on GOV.UK – for instance, the DVLA’s tax disc service is at https://www.gov.uk/tax-disc.
+Every digital service offered by the UK government must have a single, well-known place on the web where users can locate and use the service. For public-facing services that will be the relevant start page on GOV.UK -- for instance, the DVLA’s tax disc service is at https://www.gov.uk/tax-disc.
 
 Service Managers must not advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets advertised, whether digitally or in other media.
 
@@ -44,3 +44,4 @@ Services designed for an internal audience should also live on a domain of the f
 * [HTTPS](/service-manual/domain-names/https.html)
 * [Asset Hosts](/service-manual/domain-names/asset-hosts.html)
 * [Rules for operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains.html)
+* [Suggested names for service.gov.uk subdomains](/service-manual/domain-names/service-subdomain-names.html)
