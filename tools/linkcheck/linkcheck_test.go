@@ -42,3 +42,7 @@ func expectURLs(t *testing.T, f fixture, options []string) {
 		}
 	}
 }
+
+func TestBidirectionalNavigation(t *testing.T) {
+
+}

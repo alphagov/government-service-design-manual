@@ -4,11 +4,12 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/jabley/markdown"
 	"os"
 	"path/filepath"
 	"runtime"
 	"strings"
+
+	"github.com/jabley/markdown"
 )
 
 type link struct {
