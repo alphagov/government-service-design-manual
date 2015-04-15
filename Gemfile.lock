@@ -68,6 +68,7 @@ GEM
     mercenary (0.3.4)
     mime-types (1.25.1)
     mini_portile (0.6.0)
+    multi_json (1.11.0)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
     null_logger (0.0.1)
@@ -94,9 +95,9 @@ GEM
     rest-client (1.6.8)
       mime-types (~> 1.16)
       rdoc (>= 2.4.2)
-    rummageable (0.6.2)
-      json
-      plek (>= 0.5.0)
+    rummageable (1.2.0)
+      multi_json
+      null_logger
       rest-client
     safe_yaml (1.0.3)
     sass (3.3.11)
@@ -132,7 +133,7 @@ DEPENDENCIES
   nokogiri (= 1.6.3.1)
   plek (= 1.5.0)
   rake (= 10.3.2)
-  rummageable (= 0.6.2)
+  rummageable (= 1.2.0)
   sinatra (= 1.4.5)
   thin (= 1.6.2)
   unicorn (= 4.8.3)
