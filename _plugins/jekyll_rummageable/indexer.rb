@@ -6,6 +6,8 @@ module Jekyll
 
   class Indexer < Generator
 
+    MANUAL_TITLE = "Government Service Design Manual"
+
     def initialize(config = {})
       super(config)
 
@@ -34,12 +36,22 @@ module Jekyll
         page_paragraphs = extract_text(site, item)
 
         {
-          "title"             => item.data['title'] || item.name ,
+          "_type"             => "manual_section",
+          "organisations"     => ["government-digital-service"],
+          "manual"            => "service-manual",
+          "title"             => "#{MANUAL_TITLE}: #{item.data['title'] || item.name}",
           "indexable_content" => page_paragraphs.join(" ").gsub("\r"," ").gsub("\n"," "),
           "description"       => extract_summary(site, item),
           "link"              => item.url
         }
       end
+      index << {
+        "_type"             => "manual",
+        "organisations"     => ["government-digital-service"],
+        "title"             => MANUAL_TITLE,
+        "description"       => "All new digital services from the government must meet the Digital by Default Service Standard",
+        "link"              => "/service-manual",
+      }
       puts 'Indexing done, writing index to file'
       write_index_to_file(site, index)
       puts 'Index written to file'

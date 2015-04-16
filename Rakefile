@@ -81,6 +81,7 @@ end
 
 namespace :rummager do
   task :index do
+    require 'plek'
     require 'rummageable'
 
     search_index = File.expand_path('../.search-index.json', __FILE__)
@@ -90,6 +91,7 @@ namespace :rummager do
     parsed = JSON.parse(content)
     puts "Handling #{parsed.count} records from #{search_index}"
 
-    Rummageable.index(parsed, '/service-manual')
+    rummageable_index = Rummageable::Index.new(Plek.current.find('search'), '/service-manual')
+    rummageable_index.add_batch(parsed)
   end
 end

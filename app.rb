@@ -30,7 +30,9 @@ class ServiceManual < Sinatra::Base
         @results = []
       else
         res = search_client.search(@search_term)
-        @results = res['results']
+        @results = res['results'].map { |result|
+          result.merge({'title' => result['title'].gsub(/\AGovernment Service Design Manual: /, '')})
+        }
         @count = res['total']
         page_settings['title'] = "Search results for #{@search_term}"
       end
