@@ -91,7 +91,7 @@ namespace :rummager do
     parsed = JSON.parse(content)
     puts "Handling #{parsed.count} records from #{search_index}"
 
-    rummageable_index = Rummageable::Index.new(Plek.current.find('search'), '/service-manual')
+    rummageable_index = Rummageable::Index.new(Plek.current.find('rummager'), '/service-manual')
     rummageable_index.add_batch(parsed)
   end
 end

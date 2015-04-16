@@ -29,7 +29,7 @@ class ServiceManual < Sinatra::Base
       if @search_term.nil? or @search_term.strip.empty?
         @results = []
       else
-        res = search_client.search(@search_term)
+        res = search_client.unified_search(q: @search_term, filter_manual: "service-manual")
         @results = res['results'].map { |result|
           result.merge({'title' => result['title'].gsub(/\AGovernment Service Design Manual: /, '')})
         }
@@ -93,7 +93,7 @@ class ServiceManual < Sinatra::Base
   end
 
   def search_client
-    @search_client ||= GdsApi::Rummager.new(Plek.current.find('search') + '/service-manual')
+    @search_client ||= GdsApi::Rummager.new(Plek.current.find('rummager'))
   end
 
   # Start the server if this Ruby file is executed directly
