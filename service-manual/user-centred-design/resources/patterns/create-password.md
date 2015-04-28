@@ -20,13 +20,13 @@ Help people create secure passwords.
 
 ### On this page:
 
-1. [Help users create good passwords](#section-1)
-2. [Help users enter passwords securely and accurately](#section-2)
+1. [Help users to create good passwords](#section-1)
+2. [Help users to enter passwords securely and accurately](#section-2)
 3. [Help users who have forgotten their password](#section-3)
 
 ---
 
-<h2 class="heading-36" id="section-1">1. Help users create good passwords</h2>
+<h2 class="heading-36" id="section-1">1. Help users to create good passwords</h2>
 
 
 ### Password constraints
@@ -53,7 +53,7 @@ We are not currently recommending use of password strength indicators because so
 
 ---
 
-<h2 class="heading-36" id="section-2">2. Help users enter passwords securely and accurately</h2>
+<h2 class="heading-36" id="section-2">2. Help users to enter passwords securely and accurately</h2>
 
 
 When users are creating a password they need to know that they’ve entered it correctly, but they also need to know that no-one has seen what they’ve entered.

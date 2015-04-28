@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-Help people create a memorable and appropriate username for their user account.
+Help people to create a memorable and appropriate username for their user account.
 
 
 

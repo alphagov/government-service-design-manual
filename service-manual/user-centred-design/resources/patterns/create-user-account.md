@@ -14,7 +14,7 @@ breadcrumbs:
 ---
 
 {:.intro}
-Help people quickly and painlessly create user accounts.
+Help people to quickly and painlessly create user accounts.
 
 
 
@@ -25,7 +25,7 @@ Help people quickly and painlessly create user accounts.
 3. [Use consistent and unambiguous language](#section-3)
 4. [Use effective signposting](#section-4)
 5. [Minimise distractions](#section-5)
-6. [Help people choose good usernames and passwords](#section-6)
+6. [Help people to choose good usernames and passwords](#section-6)
 
 ---
 
