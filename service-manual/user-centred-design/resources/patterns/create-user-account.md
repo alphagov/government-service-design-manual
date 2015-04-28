@@ -73,9 +73,7 @@ If users fail to create an account they might not be able to use your service at
 
 <h2 class="heading-36" id="section-6">6. Help people choose good usernames and passwords</h2>  
 
-Help your users choose memorable usernames and secure passwords.
-
-<!-- Read our guides on creating [usernames](#) and [passwords](#). -->
+Read our guides on creating good [usernames](create-username) and [passwords](create-password).
 
 
 ---
