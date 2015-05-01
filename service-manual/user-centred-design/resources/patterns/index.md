@@ -20,28 +20,44 @@ Common design patterns for GOV.UK services.
 These patterns are based on the research and experience of the whole GOV.UK design community.
 Use them to create a consistent and usable experience across GOV.UK services.
 
+
+## Visual style
+
 For a visual style guide, including front-end code snippets, see the <br>
 [GOV.UK elements guide](/service-manual/user-centred-design/resources/elements).
 
 
-## Detail patterns
+## Form questions
 * [Names](/service-manual/user-centred-design/resources/patterns/names.html)
 * [Dates](/service-manual/user-centred-design/resources/patterns/dates.html)
 * [Addresses](/service-manual/user-centred-design/resources/patterns/addresses.html)
 * [National Insurance numbers](/service-manual/user-centred-design/resources/patterns/national-insurance-number.html)
+* [Email addresses](/service-manual/user-centred-design/resources/patterns/email-addresses.html)
+* [Gender and sex](/service-manual/user-centred-design/resources/patterns/gender-and-sex.html)
+* [Help text](/service-manual/user-centred-design/resources/patterns/help-text.html)
+
+
+## Account management
+* [Usernames](/service-manual/user-centred-design/resources/patterns/usernames.html)
+* [Create a user account](/service-manual/user-centred-design/resources/patterns/create-user-account.html)
+* [Create a username](/service-manual/user-centred-design/resources/patterns/create-username.html)
+* [Create a password](/service-manual/user-centred-design/resources/patterns/create-password.html)
+* [Email confirmation loops](/service-manual/user-centred-design/resources/patterns/email-confirmation-loop.html)
+* [Knowledge-based authentication](/service-manual/user-centred-design/resources/patterns/knowledge-based-authentication.html)
+
+
+# Transaction flow
+* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators.html)
+* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
 * [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages.html)
 * [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages.html)
-* [Help text](/service-manual/user-centred-design/resources/patterns/help-text.html)
-* [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators.html)
-
-
-## Process patterns
-These patterns are about things that you need to do, for example: ask for a start page.
-
-* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
-* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta.html)
-* [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
 * [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages.html)
+* [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
+
+
+## Other patterns
+
+* [Alpha and beta banners](/service-manual/user-centred-design/resources/patterns/alpha-beta.html)
 
 ---
 
