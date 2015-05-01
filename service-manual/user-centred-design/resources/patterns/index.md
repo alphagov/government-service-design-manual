@@ -15,11 +15,14 @@ breadcrumbs:
 ---
 
 {:.intro}
-Use these design patterns to maintain a consistent design across our services.
+Common design patterns for GOV.UK services.
 
-Start with [the GOV.UK elements](/service-manual/user-centred-design/resources/elements) page, to find out how to make your service look consistent with GOV.UK. It also includes links to code snippets.
+These patterns are based on the research and experience of the whole GOV.UK design community.
+Use them to create a consistent and usable experience across GOV.UK services.
 
-The patterns below describe our approach to services, transactions and forms.
+For a visual style guide, including front-end code snippets, see the <br>
+[GOV.UK elements guide](/service-manual/user-centred-design/resources/elements).
+
 
 ## Detail patterns
 * [Names](/service-manual/user-centred-design/resources/patterns/names.html)
