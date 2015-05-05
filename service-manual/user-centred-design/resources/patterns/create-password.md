@@ -23,6 +23,7 @@ Help people create secure passwords.
 1. [Help users to create good passwords](#section-1)
 2. [Help users to enter passwords securely and accurately](#section-2)
 3. [Help users who have forgotten their password](#section-3)
+4. [Examples](#section-4)
 
 ---
 
@@ -100,6 +101,21 @@ These are not particularly effective. The information they ask for is either too
 
 Password reminders are a bad idea because they encourage users to reveal information about their password and they don't work for very strong passwords involving random strings of characters.
 
+---
+
+<h2 class="heading-36" id="section-4">4. Examples</h2>
+
+An example with a 'show typing' toggle:
+
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/create-password.png" alt="An example of a password field with a 'show typing' toggle">
+</div>
+
+An example with a 're-type password' field:
+
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/create-password-2.png" alt="An example of a password field with a 're-type password field">
+</div>
 
 
 ---
