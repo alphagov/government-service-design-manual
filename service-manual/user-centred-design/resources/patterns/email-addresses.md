@@ -28,9 +28,9 @@ How to ask people for their email address.
 
 <h2 class="heading-36" id="section-1">1. Make the field long enough</h2>
 
-Some email addresses are very long. If you can, analyse your data to understand the distribution of email lengths of your users and use this information to set an appropriate field length. 
+Some email addresses are very long. Your email field should be able to fit at least 95% of email addresses.
 
-Alternatively, just make the field as long as your layout will allow.
+Two-thirds of the page width should be enough to do this, but analyse your user data to be sure.
 
 
 
