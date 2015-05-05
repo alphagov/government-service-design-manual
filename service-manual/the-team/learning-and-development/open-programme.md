@@ -27,7 +27,7 @@ breadcrumbs:
 | 2015 | Modules |
 |------------|
 | 14 May, 23 July | Supporting people to use your digital service |
-| 26 March, 21 May, 30 July| Design and improve your digital service |
+| 26 March, 17 June, 30 July| Design and improve your digital service |
 | 30 April, 22 June, 20 August | Practice, procurement and platforms for your digital service |
 
 #Who should take part
