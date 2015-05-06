@@ -21,7 +21,7 @@ Usernames must be unique and easy for people to recall.
 ### On this page:
 
 1. [The recommended approach](#section-1)
-2. [Use email address as username](#section-2)
+2. [Email address as username](#section-2)
 3. [Let people create their own username](#section-3)
 4. [Create a username for the user](#section-4)
 5. [Let people change their username](#section-5)
