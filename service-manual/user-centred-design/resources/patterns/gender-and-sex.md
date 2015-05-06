@@ -22,7 +22,9 @@ breadcrumbs:
 2. [Avoid asking about gender and sex](#section-2)
 3. [Do not try to infer gender from title](#section-3)
 4. [Allow users to declare an unspecified gender](#section-4)
-5. [Asking about sex instead of gender](#section-5)
+5. [Don't assume that 'male' first is the correct order](#section-5)
+6. [Asking about sex instead of gender](#section-6)
+7. [Further reading](#section-7)
 
 
 ---
@@ -70,19 +72,45 @@ Some people may also be in transition, or move between different genders frequen
 
 For a few people, being forced to declare themselves as 'female' or 'male' may lead to dropping out of a form. 
 
+
 ---
 
-<h2 class="heading-36" id="section-5">5. Asking about sex instead of gender</h2>
+<h2 class="heading-36" id="section-5">5. Don't assume that 'male' first is the correct order</h2>
+
+Historically, the assumption was that 'men' came before 'women' so the traditional order of options has been 'male first'. This is no-longer appropriate as an automatic assumption.
+
+Please test with 'female' as the first option and [report your findings on the wiki](https://designpatterns.hackpad.com/Gender-and-sex-NHY1Rl0kLD2).
+
+
+---
+
+<h2 class="heading-36" id="section-6">6. Asking about sex instead of gender</h2>
 
 It is only appropriate to ask for someone's sex in a context where the biological data is necessary - typically, only for medical transactions. Unfortunately, we also have to recognise that we have to deal with legislation that may require 'sex' as a legal identifier.
 
-If you must ask for 'sex' then ask for 'male' at least 3 of these options, depending on circumstances: 
+If you must ask for 'sex' then ask for 'female', 'male' and at least 1 of the remaining options, depending on circumstances:
 
 * female
 * male
-* neither
+* unspecified
 * intersex
 * prefer not to say
+
+
+---
+
+<h2 class="heading-36" id="section-7">7. Further reading</h2>
+
+
+### UK
+In the UK an [Early Day Motion](http://www.parliament.uk/edm/2014-15/47) has been submitted in support of giving legal recognition to those who do not associate with a particular gender.
+
+
+### Germany
+In Germany, the [Personal Status Law](http://www.gesetze-im-internet.de/pstg/BJNR012210007.html) (paragraph 22) states that if a child's sex cannot be determined at birth then the law allows for birth to be registered with the 'sex' box left blank.
+
+### Australia
+The [Australian Government guidelines on sex and gender](http://www.ag.gov.au/Publications/Pages/AustralianGovernmentGuidelinesontheRecognitionofSexandGender.aspx) specify that when a government form asks about sex or gender, then it must provide these options: M (male), F (female) or X (Indeterminate/Intersex/Unspecified).
 
 
 ---
