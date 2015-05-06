@@ -4,13 +4,13 @@ title: Usernames
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}

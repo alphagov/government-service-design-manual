@@ -4,13 +4,13 @@ title: Create a user account
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}
@@ -31,7 +31,7 @@ Help people to quickly and painlessly create user accounts.
 
 <h2 class="heading-36" id="section-1">1. Consider alternatives</h2>
 
-Account management systems are [hard to build and hard to use](/service-manual/making-software/logins.html), so consider other ways of giving people access to their data first.
+Account management systems are [hard to build and hard to use](/service-manual/making-software/logins), so consider other ways of giving people access to their data first.
 
 For example, delivery companies often let people track the status of a parcel by entering a unique order number and their email or name.
 
