@@ -78,7 +78,7 @@ It should:
 
 For blocking loops this should be the only page the user sees if they try to sign in before activating their account.
 
-For non-blocking loops, if a user signs in before activating their account you should:
+For non-blocking loops, if a user signs in before activating their account, you should:
 
 * let them use the service
 * remind them that they need to activate their account
