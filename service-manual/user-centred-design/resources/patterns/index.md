@@ -14,12 +14,10 @@ breadcrumbs:
     url: /service-manual/user-centred-design/index.html
 ---
 
-{:.intro}
-Common design patterns for GOV.UK services.
-
 These patterns are based on the research and experience of the whole GOV.UK design community.
-Use them to create a consistent and usable experience across GOV.UK services.
+If you can't find what you're looking for here, we're discussing many more on [designpatterns.hackpad.com](https://designpatterns.hackpad.com/List-of-design-patterns-0eUk1OdHvql).
 
+---
 
 ## Visual style
 
