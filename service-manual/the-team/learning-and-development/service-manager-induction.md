@@ -113,7 +113,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-To apply for a place on the programme please [email us](mailto:service-manager-programme@digital.cabinet-office.gov.uk).
+We are now fully booked for all Service Manager Programmes until July, please [email us](mailto:service-manager-programme@digital.cabinet-office.gov.uk) to register your interest in future programmes.
 
 Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
 
