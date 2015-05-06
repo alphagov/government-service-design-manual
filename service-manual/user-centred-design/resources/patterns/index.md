@@ -15,7 +15,7 @@ breadcrumbs:
 ---
 
 These patterns are based on the research and experience of the whole GOV.UK design community.
-If you can't find what you're looking for here, we're discussing many more on [designpatterns.hackpad.com](https://designpatterns.hackpad.com/List-of-design-patterns-0eUk1OdHvql).
+If you can't find the pattern you're looking for here, we're discussing many more on [designpatterns.hackpad.com](https://designpatterns.hackpad.com/List-of-design-patterns-0eUk1OdHvql).
 
 ---
 
