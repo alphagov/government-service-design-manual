@@ -42,7 +42,7 @@ Alternatively, use the existing [GOV.UK Verify sign-in service](/service-manual/
 <h2 class="heading-36" id="section-2">2. Don’t make people create an account until they have to</h2> 
 Let people use as much of your service as possible before they need to create an account. For example, most shopping cart sites let you browse without having to create an account first. 
 
-If people can avoid creating an account at all - even better.
+If people can avoid creating an account at all -- even better.
 
 
 ---
@@ -57,9 +57,9 @@ Similarly, use labels like ‘Create a username’ and ‘Create a password’ r
 
 <h2 class="heading-36" id="section-4">4. Use effective signposting</h2> 
 
-Creating an account is rarely a user goal. People come to your service to use it not to create an account - your calls to action should reflect this.
+Creating an account is rarely a user goal. People come to your service to use it not to create an account -- your calls to action should reflect this.
 
-Make the choice between creating an account and signing in explicit. Presenting the options side by side is not enough - people will miss one of them or not understand the difference.
+Make the choice between creating an account and signing in explicit. Presenting the options side by side is not enough -- people will miss one of them or not understand the difference.
 
 If you can, ask people if they’ve used the service before and then direct them to either sign in or create an account.
 

@@ -86,7 +86,7 @@ Please test with 'female' as the first option and [report your findings on the w
 
 <h2 class="heading-36" id="section-6">6. Asking about sex instead of gender</h2>
 
-It is only appropriate to ask for someone's sex in a context where the biological data is necessary - typically, only for medical transactions. Unfortunately, we also have to recognise that we have to deal with legislation that may require 'sex' as a legal identifier.
+It is only appropriate to ask for someone's sex in a context where the biological data is necessary -- typically, only for medical transactions. Unfortunately, we also have to recognise that we have to deal with legislation that may require 'sex' as a legal identifier.
 
 If you must ask for 'sex' then ask for 'female', 'male' and at least 1 of the remaining options, depending on circumstances:
 

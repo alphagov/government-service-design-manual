@@ -73,7 +73,7 @@ Use this option for services with a social element or in combination with the em
 ### The good:
 
 * people don't need an email address to use your service
-* people have control - good if the username will be part of their online identity
+* people have control -- good if the username will be part of their online identity
 
 
 ### The bad:

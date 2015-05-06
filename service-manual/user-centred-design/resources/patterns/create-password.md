@@ -78,7 +78,7 @@ This last approach is only appropriate when creating a password. It should not b
 
 ### Don’t disable paste
 
-Don’t disable paste on password fields. People may have very good reasons why they want to paste their password - they're using a password manager for example.
+Don’t disable paste on password fields. People may have very good reasons why they want to paste their password -- they're using a password manager for example.
 
 ---
 

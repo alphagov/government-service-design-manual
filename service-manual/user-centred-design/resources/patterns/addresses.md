@@ -81,8 +81,8 @@ Only use multiple address fields when you know which regions the addresses will 
 * let people enter postcodes with or without spaces
 * avoid making individual fields mandatory (but warn users if they don't fill in any fields)
 * Royal Mail do not need a county as long as the town and postcode are included
-* include a county field though - it lets people who don't know the postcode give a valid address
-* make the field lengths appropriate - it helps people understand the form
+* include a county field though -- it lets people who don't know the postcode give a valid address
+* make the field lengths appropriate -- it helps people understand the form
 
 
 ---
