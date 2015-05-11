@@ -4,13 +4,13 @@ title: Email addresses
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}
@@ -58,7 +58,7 @@ Check for common typos like 'gnail' instead of 'gmail' ([read a case study here]
 Users may have a perfectly good reason for pasting an email address (for example if it's very long).
 
 ### Ask for it twice
-By doing this you may capture some accidental mis-types. It's not failsafe though - users can make the same mistake twice, especially if they're typing quickly (or just misremembered their email address).
+By doing this you may capture some accidental mis-types. It's not failsafe though -- users can make the same mistake twice, especially if they're typing quickly (or just misremembered their email address).
 It also adds additional effort on to your users.
 
 ### Play it back

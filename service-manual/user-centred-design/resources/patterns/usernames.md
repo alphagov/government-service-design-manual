@@ -4,13 +4,13 @@ title: Usernames
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}
@@ -73,7 +73,7 @@ Use this option for services with a social element or in combination with the em
 ### The good:
 
 * people don't need an email address to use your service
-* people have control - good if the username will be part of their online identity
+* people have control -- good if the username will be part of their online identity
 
 
 ### The bad:

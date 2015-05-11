@@ -4,13 +4,13 @@ title: Email confirmation loops
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}
@@ -34,7 +34,7 @@ Email confirmation loops can be a very disruptive user experience, forcing peopl
 
 Confirmation loops tend to increase drop-off rates, because some users struggle to complete the loop. They don't notice the email, or it goes in to their spam folder, or they give up on the service before the email arrives.
 
-You decision should be based in part on what information you intend to send by email. Consider just [helping users enter their email correctly](email-addresses.html) instead.
+You decision should be based in part on what information you intend to send by email. Consider just [helping users enter their email correctly](email-addresses) instead.
 
 ---
 
@@ -78,7 +78,7 @@ It should:
 
 For blocking loops this should be the only page the user sees if they try to sign in before activating their account.
 
-For non-blocking loops, if a user signs in before activating their account you should:
+For non-blocking loops, if a user signs in before activating their account, you should:
 
 * let them use the service
 * remind them that they need to activate their account

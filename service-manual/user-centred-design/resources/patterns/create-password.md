@@ -4,13 +4,13 @@ title: Create a password
 breadcrumbs:
   -
     title: Home
-    url: /service-manual/index.html
+    url: /service-manual
   -
     title: User-centred design
-    url: /service-manual/user-centred-design/index.html
+    url: /service-manual/user-centred-design
   -
     title: Design patterns
-    url: /service-manual/user-centred-design/resources/patterns/index.html
+    url: /service-manual/user-centred-design/resources/patterns
 ---
 
 {:.intro}
@@ -46,11 +46,11 @@ Some users may give up. Others may regularly forget their password and have to r
 
 ### Password strength indicators
 
-We are not currently recommending use of password strength indicators because some evidence indicates that:
+We are not currently recommending use of password strength indicators because some evidence indicates that they:
 
-* they are distracting to some users
-* they encourage some users to create minimally secure passwords
-* they occasionally report easy-to-guess passwords as being strong
+* are distracting to some users
+* encourage some users to create minimally secure passwords
+* occasionally report easy-to-guess passwords as being strong
 
 ---
 
@@ -62,10 +62,10 @@ When users are creating a password they need to know that they’ve entered it c
 
 ### Hide passwords by default
 
-Users might be in a public space when entering or creating a password, so hide passwords by default. However, if they can't see what they're typing:
+Users might be in a public space when entering or creating a password, so hide passwords by default. However, if they can't see what they're typing, it's:
 
-* it’s easier to mistype a password
-* it's harder to meet strict password contraints
+* easier to mistype a password
+* harder to meet strict password contraints
 
 You can help by:
 
@@ -78,7 +78,7 @@ This last approach is only appropriate when creating a password. It should not b
 
 ### Don’t disable paste
 
-Don’t disable paste on password fields. People may have very good reasons why they want to paste their password - they're using a password manager for example.
+Don’t disable paste on password fields. People may have very good reasons why they want to paste their password -- they're using a password manager for example.
 
 ---
 
