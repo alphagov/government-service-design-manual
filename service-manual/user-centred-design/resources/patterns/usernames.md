@@ -40,7 +40,7 @@ We recommend that you:
 
 ---
 
-<h2 class="heading-36" id="section-2">1. Email addresses as usernames</h2>
+<h2 class="heading-36" id="section-2">2. Email addresses as usernames</h2>
 
 Using email addresses as usernames has a number of advantages, but make sure you thoroughly research the users of your service before making it the only option or you may end up excluding people.
 
@@ -66,7 +66,7 @@ Using email addresses as usernames has a number of advantages, but make sure you
 
 ---
 
-<h2 class="heading-36" id="section-3">2. Let people create their own username</h2>
+<h2 class="heading-36" id="section-3">3. Let people create their own username</h2>
 
 Use this option for services with a social element or in combination with the email option.
 
@@ -92,7 +92,7 @@ Use this option for services with a social element or in combination with the em
 
 ---
 
-<h2 class="heading-36" id="section-4">3. Create a username for the user</h2>
+<h2 class="heading-36" id="section-4">4. Create a username for the user</h2>
 
 You can have the service create a username for people from a reference number or similar.
 Only use this option for infrequent, short term interactions like checking the status of a transaction.
@@ -114,7 +114,7 @@ Only use this option for infrequent, short term interactions like checking the s
 
 ---
 
-<h2 class="heading-36" id="section-5">2. Let people change their username</h2>
+<h2 class="heading-36" id="section-5">5. Let people change their username</h2>
 
 Some people will wish to change their username. For example
 if it's an email address that's no longer available for them
