@@ -59,9 +59,8 @@ Using email addresses as usernames has a number of advantages, but make sure you
 * people can lose access to their email (eg when they leave school or work)
 * they can't be shared in public
 
-### Tips:
 
-* [Find out more about asking for an email address](#)
+[Find out more about asking for an email address](email-addresses)
 
 
 ---
