@@ -37,9 +37,9 @@ The foundation day is highly participative with group exercises and the chance t
 * Why government needs to change
 * What has happened so far including the launch of GOV.UK and adoption of the 25 exemplar transformations
 * What this means for your organisation and your role
-* User needs – what they are, how to identify them, and how to use them to drive service delivery
+* User needs -- what they are, how to identify them, and how to use them to drive service delivery
 * Agile as a mindset, its principles and disciplines and how that keeps teams focussed on outcomes
-* The Digital by Default Service Standard – how it was created, what are your department's gaps, and how can you meet them.
+* The Digital by Default Service Standard -- how it was created, what are your department's gaps, and how can you meet them.
 
 The day includes the following modules:
 
