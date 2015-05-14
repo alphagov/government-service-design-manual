@@ -18,8 +18,9 @@ breadcrumbs:
 
 ### On this page:
 
-1. [Definitions](#section-1)
-2. [Avoid asking about gender and sex](#section-2)
+
+1. [Avoid asking about gender and sex](#section-1)
+2. [Don't say 'sex' when you mean 'gender'](#section-2)
 3. [Do not try to infer gender from title](#section-3)
 4. [Allow users to declare an unspecified gender](#section-4)
 5. [Don't assume that 'male' first is the correct order](#section-5)
@@ -29,15 +30,7 @@ breadcrumbs:
 
 ---
 
-<h2 class="heading-36" id="section-1">1. Definitions</h2>
-
-**Gender** is a social construct about how people choose to present themselves in the world. 
-
-**Sex** is biologically determined, and can be male, female, or intersex.
-
----
-
-<h2 class="heading-36" id="section-2">2. Avoid asking about gender and sex</h2>
+<h2 class="heading-36" id="section-1">1. Avoid asking about gender and sex</h2>
 
 Think very carefully before you decide to ask your users about gender or sex.
 
@@ -50,6 +43,14 @@ Sex is a protected characteristic in the [Equalities Act 2010](http://www.legisl
 
 Many people consider that questions about gender or sex are sensitive or inappropriate in a government context. 
 For people who are coming to terms with differences between their sex and gender, being asked about sex or gender may be particularly difficult and stressful. 
+
+---
+
+<h2 class="heading-36" id="section-2">2. Don't say 'sex' when you mean 'gender'</h2>
+
+**Sex** is biologically determined, and can be male, female, or intersex.
+
+**Gender** is a social construct about how people choose to present themselves in the world. 
 
 ---
 
