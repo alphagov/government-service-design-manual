@@ -76,7 +76,7 @@ The definition of digital does not include content creation on existing sites, i
 
 ## Further information on the process
 
-Users should refer to Cabinet Office [controls guidance](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32), specifically the [digital and technology section](https://www.gov.uk/government/publications/cabinet-office-controls/cabinet-office-controls-guidance-version-32#digital-and-technology-including-id-assurance).
+Users should refer to Cabinet Office [controls guidance](https://www.gov.uk/government/publications/cabinet-office-controls), specifically the [digital and technology section](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/408148/5_Digital_and_Technology.pdf) (PDF).
 
 Departments should engage early with GDS to agree the appropriate points for approval, before the first approval is needed (usually after the discovery phase, at strategic outline case or before a prior information notice is issued).  This early engagement will avoid departments proceeding too far without approval and reduces the risk of irregular expenditure.
 
