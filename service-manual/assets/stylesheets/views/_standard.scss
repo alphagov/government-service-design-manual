@@ -96,6 +96,20 @@
 
   }
 
+  // Archived content notice
+  .status-block {
+    @include media(desktop) {
+      width: 67%;
+      margin: 30px auto;
+    }
+    margin-left: 0;
+    margin-right: 0;
+    border: 5px solid $govuk-blue;
+    padding: 30px 15px;
+
+    @include core-36;
+  }
+
   // The list of criteria
   .standard {
     //display: inline-block;
@@ -200,6 +214,18 @@
       }
     }
 
+  }
+
+  // The updated list of criteria
+  .updated-standard {
+    li {
+      .point {
+        // Increase width of point wrapper for tablet and up
+        @include media(tablet) {
+          width: 67%;
+        }
+      }
+    }
   }
 
   .link-list {
