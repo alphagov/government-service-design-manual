@@ -14,6 +14,10 @@ breadcrumbs:
     url: /service-manual
 ---
 
+<div class="status-block">
+  The information on this page has been replaced by the <a href="/service-manual/digital-by-default/"> 18 point Digital Service Standard</a>.
+</div>
+
 <div class="intro">
 
   <img src="/service-manual/assets/images/DbD-kitemark.png" />
