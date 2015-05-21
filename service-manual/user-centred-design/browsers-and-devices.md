@@ -28,14 +28,11 @@ Due to the large range of browsers, devices and screen sizes available, users' e
 
 These are the browsers we recommend testing on when developing your service.  This list strongly recommends testing on a range of browsers created within the last 3 years that cover the largest representation of the user base.
 
-The list is based upon usage statistics for GOV.UK and represents approximately 95% of the most popular
-browsers (the remaining browsers are individually insignificant).
+The list is based upon usage statistics for GOV.UK and represents approximately 95% of the most popular browsers (the remaining browsers are individually insignificant).
 
 Browsers not listed may still work well, and it should be noted that this is not a list that intends to suggest that these are the only browsers the service will work on -- this is simply a benchmark for testing against to ensure that the service will likely work for as many users as possible alongside appropriate cost-effectiveness and development overhead.
 
 Services should ensure there's an obvious way for users to report problems they may find, and additional testing and adjustments should be made upon receiving such a report.
-
-Note: An exception is made for IE6, as this is still in large-scale use in government departments.
 
 Two distinct levels of support are given and denoted next to each browser. Where 'latest version' is listed, it means the latest stable version plus one version back, as these browsers regularly update without intervention from the user.
 
@@ -48,10 +45,10 @@ Two distinct levels of support are given and denoted next to each browser. Where
     </tr>
   </thead>
   <tr>
-    <th scope="row" rowspan="4">Windows</th><td>Internet Explorer 7+</td><td>Compliant</td>
+    <th scope="row" rowspan="4">Windows</th><td>Internet Explorer 8+</td><td>Compliant</td>
   </tr>
   <tr>
-    <td>Internet Explorer 6</td><td>Functional</td>
+    <td>Internet Explorer 7</td><td>Functional</td>
   </tr>
   <tr>
     <td>Google Chrome (latest version)</td><td>Compliant</td>
@@ -79,31 +76,22 @@ Two distinct levels of support are given and denoted next to each browser. Where
     </tr>
   </thead>
   <tr>
-    <th scope="row" rowspan="4">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
+    <th scope="row" rowspan="3">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome</td><td>Compliant</td>
   </tr>
   <tr>
-    <td>6</td><td>Mobile Safari</td><td>Compliant</td>
+    <td>5 and 6</td><td>Mobile Safari</td><td>Functional</td>
   </tr>
   <tr>
-    <td>5</td><td>Mobile Safari</td><td>Functional</td>
-  </tr>
-  <tr>
-    <th scope="row" rowspan="3">Android</th><td rowspan="2">4.x</td><td>Google Chrome</td><td>Compliant</td>
+    <th scope="row" rowspan="2">Android</th><td rowspan="2">4.x</td><td>Google Chrome</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Android Browser</td><td>Compliant</td>
   </tr>
   <tr>
-    <td>2.3</td><td>Android Browser</td><td>Functional</td>
-  </tr>
-  <tr>
-    <th scope="row">Windows Phone</th><td>8</td><td>Internet Explorer 10+</td><td>Functional</td>
-  </tr>
-  <tr>
-    <th scope="col">BlackBerry</th><td>7.1</td><td>BlackBerry Browser</td><td>Functional</td>
+    <th scope="row">Windows Phone</th><td>8.1</td><td>Internet Explorer</td><td>Compliant</td>
   </tr>
 </table>
 
