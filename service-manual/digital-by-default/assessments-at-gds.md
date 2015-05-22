@@ -32,7 +32,7 @@ You can start the assessment process by asking GDS Approvals (gdsapprovals@digit
 
 ## Attending the assessment
 
-You should give a brief overview of the service including a live demonstration. Video screens and cables will be provided. The assessment panel will ask you to answer questions to show how the service meets the standard. You will normally bring other team members along to represent different aspects of the service and help answer questions. Often they will be a technical architect, a designer, a user researcher or a delivery manager, but that’s up to you. The assessment can last up to 3 hours depending on the service’s complexity, and will assess against all 26 points in the standard.
+You should give a brief overview of the service including a live demonstration. Video screens and cables will be provided. The assessment panel will ask you to answer questions to show how the service meets the standard. You will normally bring other team members along to represent different aspects of the service and help answer questions. Often they will be a technical architect, a designer, a user researcher or a delivery manager, but that’s up to you. The assessment can last up to 3 hours depending on the service’s complexity, and will assess against all 18 points in the standard.
 
 ## Outcomes from an assessment
 
