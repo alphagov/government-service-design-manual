@@ -1,6 +1,6 @@
 ---
 layout: standard
-title: Digital by Default Service Standard
+title: Digital by Default Service Standard (original 26 points)
 subtitle: Services so good that people prefer to use them
 audience:
   primary: service-manager
