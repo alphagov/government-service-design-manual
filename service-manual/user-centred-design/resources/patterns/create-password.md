@@ -84,7 +84,7 @@ Don’t disable paste on password fields. People may have very good reasons why 
 
 <h2 class="heading-36" id="section-3">3. Help users who have forgotten their password</h2>
 
-Passwords that are hard to guess can also be hard to remember. Help users who have forgotten their password to remember it or reset it.
+Passwords that are hard to guess can also be hard to remember. Help users who have forgotten their password to reset it.
 
 ### Reset passwords, don’t email them
 
