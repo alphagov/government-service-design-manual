@@ -24,12 +24,6 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
-| Cohort | 2015 |
-|------------|
-| V | May 5, 6, 11, 12 |
-| W | June 10, 11, 15, 16 |
-| X | July 1, 2, 7, 8 |
-
 #Who should take part
 
 The 4-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
@@ -113,7 +107,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-We are now fully booked for all Service Manager Programmes until July, please [email us](mailto:service-manager-programme@digital.cabinet-office.gov.uk) to register your interest in future programmes.
+We are now fully booked for all Service Manager Programmes until July, please [email us](mailto:digital.academy@DWP.GSI.GOV.UK) to register your interest in future programmes.
 
-Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
+Any questions? Please contact [digital.academy@DWP.GSI.GOV.UK](digital.academy@DWP.GSI.GOV.UK)
 
