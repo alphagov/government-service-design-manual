@@ -43,22 +43,24 @@ A question protocol forces you (and your department) to question why you’re as
 
 ## 2. Design for the most common scenarios first
 
-Once you have a question protocol you can start to decide how to order the questions, and identify ways to simplify the flow for the most common user scenarios.
+Once you have a question protocol you can start to decide how to order the questions.
 
-You’ll need to make difficult decisions about which scenarios to prioritise, so make sure you have good data from the business about your users.
+Structure the form so most users have a simple, quick path. Use branching questions to hide questions from people who don't need to answer them.
 
-You should:
+You’ll need to make difficult decisions about which users to prioritise, so make sure you have good data from the business about them.
 
-* structure the form so most users answer as few questions as possible
-* make sure users find out if they're ineligible as soon as possible
+
+
 
 
 ---
 
 ## 3. Start with one thing per page
 
+Most public-facing government service are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend that you:
 
-Most public-facing government service are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend having one thing per page.
+* having one thing per page
+* only merge pages when you have clear evidence from user research that this would improve the user experience
 
 'One thing' could be:
 
@@ -91,7 +93,9 @@ For page titles you can use either a question or a statement. For example - ‘W
 
 Use questions or statements consistently to help users get into a rhythm of answering. This lets them focus on the content of the questions rather than their presentation.
 
-We recommend that you start with each question on its own page, and only merge pages when you have clear evidence from user research that this would improve the user experience.
+Try to ask questions that might result in the user being ineligible for the service as soon as possible, so you don't waste people's time.
+
+
 
 
 ---
