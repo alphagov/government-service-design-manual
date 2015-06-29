@@ -109,5 +109,5 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 We are now fully booked for all Service Manager Programmes until July, please [email us](mailto:digital.academy@DWP.GSI.GOV.UK) to register your interest in future programmes.
 
-Any questions? Please contact [digital.academy@DWP.GSI.GOV.UK](digital.academy@DWP.GSI.GOV.UK)
+Any questions? Please contact [digital.academy@DWP.GSI.GOV.UK](mailto:digital.academy@DWP.GSI.GOV.UK)
 
