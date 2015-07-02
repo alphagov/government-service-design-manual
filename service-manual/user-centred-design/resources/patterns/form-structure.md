@@ -18,13 +18,15 @@ How to structure web forms for GOV.UK services.
 
 ### On this page:
 
-1. [Know why you’re asking every question](#one)
-2. [Design for the most common scenarios first](#two)
-3. [Start with one thing per page](#three)
+1. [Know why you’re asking every question](#section-1)
+2. [Design for the most common scenarios first](#section-2)
+3. [Start with one thing per page](#section-3)
+4. [Examples](#section-4)
+5. [Further reading](#section-5)
 
 ---
 
-## 1. Know why you’re asking every question
+<h2 class="heading-36" id="section-1">1. Know why you’re asking every question</h2>
 
 Before you start, make a list of all the questions you want to ask. For each question, you need to know:
 
@@ -41,7 +43,8 @@ A question protocol forces you (and your department) to question why you’re as
 
 ---
 
-## 2. Design for the most common scenarios first
+
+<h2 class="heading-36" id="section-2">2. Design for the most common scenarios first</h2>
 
 Once you have a question protocol you can start to decide how to order the questions.
 
@@ -50,12 +53,10 @@ Structure the form so most users have a simple, quick path. Use branching questi
 You’ll need to make difficult decisions about which users to prioritise, so make sure you have good data from the business about them.
 
 
-
-
-
 ---
 
-## 3. Start with one thing per page
+
+<h2 class="heading-36" id="section-3">3. Start with one thing per page</h2>
 
 Most public-facing government service are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend that you:
 
@@ -100,7 +101,9 @@ Try to ask questions that might result in the user being ineligible for the serv
 
 ---
 
-## 4. Examples
+
+<h2 class="heading-36" id="section-4">4. Examples</h2>
+
 
 For a good example of this approach, try the [Register to vote](https://www.gov.uk/register-to-vote) service on GOV.UK (you can get to the last page without submitting any data).
 
@@ -109,7 +112,9 @@ Joe Lanman has written more about the [things we learned designing 'Register to 
 
 ---
 
-## 5. Further reading
+
+<h2 class="heading-36" id="section-5">5. Further reading</h2>
+
 
 [The Question Protocol: How to Make Sure Every Form Field Is Necessary](http://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php)
 
