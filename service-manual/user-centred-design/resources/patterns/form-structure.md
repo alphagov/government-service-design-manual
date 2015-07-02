@@ -104,7 +104,7 @@ Try to ask questions that might result in the user being ineligible for the serv
 
 For a good example of this approach, try the [Register to vote](https://www.gov.uk/register-to-vote) service on GOV.UK (you can get to the last page without submitting any data).
 
-Joe Lanman has written more about [what we learned making Register to vote](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/).
+Joe Lanman has written more about the [things we learned designing 'Register to vote'](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/).
 
 
 ---
