@@ -14,137 +14,110 @@ breadcrumbs:
 ---
 
 {:.intro}
-Choose a structure for your forms that most naturally fits the way people need to use them.
+How to structure web forms for GOV.UK services.
 
 ### On this page:
 
-1. [Asking questions](#asking-questions)
-2. [Structuring forms](#structuring-forms)
-3. [Example structures](#example-structures)
+1. [Know why you’re asking every question](#section-1)
+2. [Design for the most common scenarios first](#section-2)
+3. [Start with one thing per page](#section-3)
+4. [Examples](#section-4)
+5. [Further reading](#section-5)
 
 ---
 
-## 1. Asking questions
+<h2 class="heading-36" id="section-1">1. Know why you’re asking every question</h2>
 
-You can use a question or statement format. 
-For example ‘What is your date of birth?’ or ‘Date of birth’.
-Just remember to be consistent across the transaction.
+Before you start, make a list of all the questions you want to ask. For each question, you need to know:
 
-Guidance:
+* why does the service need that information?
+* who uses the information and what for?
+* which users need to provide the information?
+* how will you check that the information is accurate?
+* how will you keep the information up to date?
 
-* use questions or statements, but be consistent
-* ask for as little information as you can
-* keep the questions short and straightforward 
-* explain why you're asking a question if it's not obvious
+We call this list a 'question protocol'; it’s different from the form itself, because it’s about *how* you use the answers.
 
----
+A question protocol forces you (and your department) to question why you’re asking users for each item of information, and gives you a way of challenging and pushing back if you need to.
 
-## 2. Structuring forms
-
-Ask yourself:
-
-* how many questions are there?
-* will users need to answer the questions in a fixed order?
-* will they need to complete the transaction in a single session?
-* will their answers affect other parts of the transaction?
-* will certain answers result in the user having to abandon the transaction?
-* will they need to add or remove items from a list, or change the order of items?
-* how many parties are involved in the transaction?
-* do any parts of the transaction take place offline?
-* at what point is the transaction regarded as complete?
 
 ---
 
-## 3. Example structures
 
-Thinking about the above will help you decide on an appropriate structure.
-Here are some of the more common approaches:
+<h2 class="heading-36" id="section-2">2. Design for the most common scenarios first</h2>
 
-### 1. Single page of questions
+Once you have a question protocol you can start to decide how to order the questions.
 
-All questions are placed on a single page.
+Structure the form so most users have a simple, quick path. Use branching questions to hide questions from people who don't need to answer them.
 
-{:.left}
-![Diagram showing all sections on a page](/service-manual/assets/images/designing-transactions/one-page.png)
+You’ll need to make difficult decisions about which users to prioritise, so make sure you have good data from the business about them.
 
-**The good:**
-
-* there's only one submit button to press
-* a single URL gives access to all form fields
-* it doesn't force a fixed order of completion
-* you benefit from context of neighbouring sections
-* progress is self-evident
-
-**The bad:**
-
-* long forms can be overwhelming and off-putting
-* it's less well suited to branching or non-linear flow
-* how do you save partial progress?
-* can be harder to track analytics like drop-off rates
-* making validation errors usable is harder
 
 ---
 
-### 2. One question per page
 
-Each question goes on its own page.
+<h2 class="heading-36" id="section-3">3. Start with one thing per page</h2>
 
-![Diagram showing each section on it's own page](/service-manual/assets/images/designing-transactions/wizard.png)
+Most public-facing government service are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend that you:
 
-**The good:**
+* having one thing per page
+* only merge pages when you have clear evidence from user research that this would improve the user experience
 
-* it's easier to handle branching and dependencies between questions
-* it's easier to let the user save progress
-* a transaction can feel more manageable
-* easier to guide a user through an unfamiliar process
-* easier to capture analytics like drop-off rates for each section
+'One thing' could be:
 
-**The bad:**
+* one piece of information to understand
+* one decision to make
+* one question to answer
 
-* harder to show progress
-* uers have to click more to progress through the questions
-* you lose the context of neighbouring questions
-* you need to build a seperate page to review and edit questions
-* doesn't naturally handle non-linear processes like looping, adding and removing
+We’ve found that this approach works for both high and low confidence internet users, and that people are generally very tolerant of clicking through multiple pages.
+
+Having only one thing on a page helps people to:
+
+* understand what they’re being asked to do 
+* focus on the specific question and its answer
+* find their way through an unfamiliar process
+* use the service on a mobile device
+* recover easily from form errors
+
+It also helps you to:
+
+* save people’s work automatically as they go
+* capture analytics about each question
+* handle branching questions and loops
+
+
+### Tips
+
+‘One question’ doesn’t necessarily mean one form field. For example, date of birth is best captured with three text fields.
+
+For page titles you can use either a question or a statement. For example - ‘What is your date of birth?’ or just ‘Date of birth’.
+
+Use questions or statements consistently to help users get into a rhythm of answering. This lets them focus on the content of the questions rather than their presentation.
+
+Try to ask questions that might result in the user being ineligible for the service as soon as possible, so you don't waste people's time.
+
+
+
 
 ---
 
-### 3. Accordion form
 
-All questions on a single page, but each new question only appears once the previous section has been completed.
+<h2 class="heading-36" id="section-4">4. Examples</h2>
 
-![Diagram showing an accordion form](/service-manual/assets/images/designing-transactions/accordion-3.png)
 
-**The good:**
+For a good example of this approach, try the [Register to vote](https://www.gov.uk/register-to-vote) service on GOV.UK (you can get to the last page without submitting any data).
 
-* can handle branching and dependencies between sections
-* users can review and edit previous questions at any time
-* can help guide a user through an unfamiliar process
-* user still benefits from some surrounding context
-* progress is clear
+Joe Lanman has written more about the [things we learned designing 'Register to vote'](https://designnotes.blog.gov.uk/2014/07/14/things-we-learnt-designing-register-to-vote/).
 
-**The bad:**
 
-* Implementation and interface is more complex
+---
 
-Done well, option 3 is a hybrid of the other two that has benefits of both the other options.
-Within this hybrid option there are still some important design decisions to make. For example:
 
-* Will future questions be shown in any way or will you only see the questions you've answered?
-* What happens if you go back and edit a previous question?
-    * Does the current question stay open or closed?
-    * How do you get back to the current question once you've edited a previous one?
-    * Do you lose all your answers to questions that follow the one you go back to edit?
+<h2 class="heading-36" id="section-5">5. Further reading</h2>
 
-### 4. Hybrid
 
-For more complicated transactions, some combination of the other options might be your best bet.
+[The Question Protocol: How to Make Sure Every Form Field Is Necessary](http://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php)
 
-![Diagram showing a hybrid transaction](/service-manual/assets/images/designing-transactions/hybrid.png)
-
-Again, done well this can give you the benefits of both the single page and wizard approaches. It also allows you to create a sense of rhythm to the overall flow, which can help people to understand when they have moved into a different part of the transaction, and break up the monotony of filling in forms.
-
-As always, these design decisions must have a strong, user-centred rationale behind them.
 
 ---
 
