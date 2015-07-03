@@ -22,7 +22,7 @@ namespace :router do
     ].each do |path, type|
       begin
         @logger.info "Registering #{type} route #{path}"
-        @router_api.add_route(path, type, @app_id, :skip_commit => true)
+        @router_api.add_route(path, type, @app_id)
       rescue => e
         @logger.error "Error registering route: #{e.message}"
         raise
@@ -66,7 +66,7 @@ namespace :router do
     ].each do |path, type, destination|
       begin
         @logger.info "Registering #{type} redirect route from #{path} -> #{destination}"
-        @router_api.add_redirect_route(path, type, destination, "permanent", :skip_commit => true)
+        @router_api.add_redirect_route(path, type, destination, "permanent")
       rescue => e
         @logger.error "Error registering route: #{e.message}"
         raise
