@@ -5,7 +5,7 @@ gem 'unicorn', '4.8.3'
 gem 'rake', '10.3.2'
 
 gem 'plek', '1.5.0'
-gem 'gds-api-adapters', '14.1.0'
+gem 'gds-api-adapters', '20.1.1'
 gem 'rummageable', '1.2.0'
 
 gem 'colorize', '0.7.3'
