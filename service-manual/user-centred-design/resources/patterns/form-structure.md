@@ -58,9 +58,9 @@ You’ll need to make difficult decisions about which users to prioritise, so ma
 
 <h2 class="heading-36" id="section-3">3. Start with one thing per page</h2>
 
-Most public-facing government service are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend that you:
+Most public-facing government services are used infrequently, by people with a broad range of digital skills and confidence. Because of this, we recommend that you:
 
-* having one thing per page
+* have one thing per page
 * only merge pages when you have clear evidence from user research that this would improve the user experience
 
 'One thing' could be:
