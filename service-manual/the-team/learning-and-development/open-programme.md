@@ -134,5 +134,5 @@ We need to know that users of digital services are who they say they are. In thi
 
 #Request a place
 
-The GDS Skills Team will invite all service manager induction and foundation day participants to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@DWP.GSI.GOV.UK)
+The GDS Skills Team will invite all service manager induction and foundation day participants to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk)
 
