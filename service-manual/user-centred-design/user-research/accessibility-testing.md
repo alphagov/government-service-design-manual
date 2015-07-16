@@ -66,7 +66,7 @@ Full lab-based accessibility testing is not necessary for every project. An acce
 
 Accessibility audits are an alternative to standard accessibility testing. An accessibility audit involves an accessibility expert reviewing your site or service, highlighting all accessibility issues and making recommendations for fixing them.
 
-They would typically use assistive software used by disabled web users (eg a screen reader) to effectively carry out the audit. See the [W3C accessibility guidelines](http://www.w3.org/TR/WCAG/) for further information.
+They would typically use assistive software used by disabled web users (eg a screen reader) to effectively carry out the audit. See the [W3C accessibility guidelines](http://www.w3.org/WAI/intro/wcag.php) for further information.
 
 Accessibility audits are cheaper and quicker than accessibility testing, but rely primarily on the expertise of the person doing them.
 
