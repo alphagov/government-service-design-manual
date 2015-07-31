@@ -43,6 +43,8 @@ For example:
 Calendar controls are not particularly useful for known dates and [some users struggle with select boxes](https://designnotes.blog.gov.uk/2013/12/05/asking-for-a-date-of-birth/).
 We're currently recommending using three fields as it's easier to reliably validate than a single field.
 
+Don't automatically tab between fields, as this can be unexpected behaviour that clashes with normal keyboard controls, and confuses users.
+
 **Tip:** If you want to trigger the num-pad on iPhones, add a pattern attribute to the input element like this: `pattern="[0-9]*"`
 
 ---
