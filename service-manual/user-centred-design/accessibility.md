@@ -34,7 +34,7 @@ You service should be tested for technical accessibility by an accessibility exp
 
 ## User-based accessibility testing
 
-Your service should be tested by disabled people, older people, and people who use assistive technologies. You should aim to do this at least twice as your service is developed.
+Your service should be tested with disabled people, older people, and people who use assistive technologies. You should aim to do this at least twice as your service is developed.
 
 [Find out more about how to conduct accessibility testing](/service-manual/user-centred-design/user-research/accessibility-testing.html)
 
