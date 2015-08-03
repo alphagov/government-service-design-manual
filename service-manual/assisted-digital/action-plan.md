@@ -80,7 +80,7 @@ You must be able to explain how you plan to ensure assisted digital support is s
 
 During alpha, you need to plan on how you’ll make sure that assisted digital support is in place for the entire user journey. This includes times when the user has to visit a third party site for identity assurance, such as [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify).
 
-Think about how this could affect or overlap with other central government transactions during their identity assurance. For example, talk to service managers of [exemplar services] in your department and other service managers in the service manager community to discuss what they are doing in this area.
+Think about how this could affect or overlap with other central government transactions during their identity assurance. For example, talk to service managers of [exemplar services](https://www.gov.uk/transformation) in your department and other service managers in the service manager community to discuss what they are doing in this area.
 
 ##Assisted digital support must be sustainably provided
 
