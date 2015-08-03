@@ -26,9 +26,13 @@ The services we provide are for the benefit of all citizens of the United Kingdo
 
 ## Accessibility standard
 
-As a starting point, your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/TR/WCAG/) (WCAG) 2.0.
+As a starting point, your service should aim to meet Level AA of the [Web Content Accessibility Guidelines](http://www.w3.org/WAI/intro/wcag.php) (WCAG) 2.0.
 
-## Accessibility testing
+## Technical accessibility testing
+
+You service should be tested for technical accessibility by an accessibility expert - W3C provides a range of [Accessibility Evaluation Resources](http://www.w3.org/WAI/eval/Overview.html).
+
+## User-based accessibility testing
 
 Your service should be tested by disabled people, older people, and people who use assistive technologies. You should aim to do this at least twice as your service is developed.
 
