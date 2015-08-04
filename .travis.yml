@@ -13,9 +13,8 @@ before_install:
 before_script:
   - git fetch origin
   - git submodule update --init
-  - bundle exec jekyll build
 script:
-  - make lint links
+  - make links
   - bundle exec ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
   - ./compile.sh
 branches:
