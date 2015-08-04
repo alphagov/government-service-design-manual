@@ -158,6 +158,7 @@ Your research into your users’ needs should also tell you what other governmen
 You must give your users training or guidance to help them complete transactions on their own in the future.
 
 This may include:
+
 * making it easy for assisted digital users to find digital skills training opportunities
 * running assisted digital support in such a way as to build the user’s skills and/or confidence (eg allow the user to see the screen during in-person support or reassure and encourage them to try completing the service themselves)
 
