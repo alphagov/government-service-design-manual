@@ -238,6 +238,34 @@
     }
   }
 
+  // Digital by Default downloads
+  .dbd-downloads {
+
+    h2 {
+      margin-bottom: 30px;
+      padding-bottom: 10px;
+
+      border-bottom: 5px solid #df3034;
+    }
+
+    ul {
+      padding-left: 0;
+    }
+
+    li,
+    .download {
+      display: block;
+
+      font-weight: 600;
+      background: url('/service-manual/assets/images/icon-file-download.png') 0 0 no-repeat;
+      background-size: 25px 25px;
+
+      min-height: 40px;
+      margin-left: 0;
+      padding: 0 0 0 40px;
+
+    }
+  }
 
   @if $is-print == true {
       a {

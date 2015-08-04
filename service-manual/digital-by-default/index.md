@@ -131,4 +131,33 @@ breadcrumbs:
   </li>
 </ol>
 
+<div class="dbd-downloads">
+
+  <h2 id="prompts-and-evidence">Service assessment: prompts and evidence</h2>
+
+  <h3 id="prompts-and-evidence-alpha">Alpha</h3>
+  <ul>
+    <li><a href="/service-manual/assets/documents/alpha-review-service-assessment-prompts-and-evidence.pdf">Alpha review (PDF)</a></li>
+    <li><a href="/service-manual/assets/documents/alpha-review-service-assessment-prompts-and-evidence.ods">Alpha review (ODS)</a></li>
+  </ul>
+
+  <h3 id="prompts-and-evidence-beta">Beta</h3>
+  <ul>
+    <li><a href="/service-manual/assets/documents/beta-assessment-service-assessment-prompts-and-evidence.pdf">Beta assessment (PDF)</a></li>
+    <li><a href="/service-manual/assets/documents/beta-assessment-service-assessment-prompts-and-evidence.ods">Beta assessment (ODS)</a></li>
+  </ul>
+
+  <h3 id="prompts-and-evidence-live">Live</h3>
+  <ul>
+    <li><a href="/service-manual/assets/documents/live-assessment-service-assessment-prompts-and-evidence.pdf">Live assessment (PDF)</a></li>
+    <li><a href="/service-manual/assets/documents/live-assessment-service-assessment-prompts-and-evidence.ods">Live assessment (ODS)</a></li>
+  </ul>
+
+  <h2 id="digital-service-standard-poster">Download the poster</h2>
+  <p class="download">
+    <a href="/service-manual/assets/documents/digital-service-standard.pdf">Digital Service Standard poster (PDF)</a>
+  </p>
+
+</div>
+
 <p class="print-footer"><span>Find out more at www.gov.uk/service-manual/digital-by-default</span></p>
