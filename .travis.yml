@@ -1,17 +1,20 @@
 language: ruby
+sudo: false
 rvm:
   - 2.1.2
 cache: bundler
+addons:
+  apt:
+    packages:
+    - aspell
+    - aspell-en
 before_install:
-  - sudo apt-get update
-  - sudo apt-get install aspell aspell-en golang
   - export GOPATH=$HOME/gopath
 before_script:
   - git fetch origin
   - git submodule update --init
-  - bundle exec jekyll build
 script:
-  - make lint links
+  - make links
   - bundle exec ruby ./tools/spellcheck/branch-spellcheck.rb $TRAVIS_BRANCH
   - ./compile.sh
 branches:
