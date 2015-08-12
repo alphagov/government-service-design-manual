@@ -1,6 +1,6 @@
 ---
 layout: detailed-guidance
-title: Key performance indicators
+title: Other metrics
 subtitle: Other metrics your service might measure or track
 status: draft
 category: measurement
@@ -20,17 +20,13 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-Think about other useful key performance indicators (KPIs), specific to your service, that will help you measure and improve its performance. Measure these in addition to the four core KPIs:
+Your service must measure [the 4 key performance indicators](/service-manual/measurement/index.html).
 
-* [cost per transaction](/service-manual/measurement/cost-per-transaction.html)
-* [user satisfaction](/service-manual/measurement/user-satisfaction.html)
-* [completion rate](/service-manual/measurement/completion-rate.html)
-* [digital take-up](/service-manual/measurement/digital-takeup.html)
+But there are other metrics that will help improve your service. Measure those things too.
 
 ##Understand user and stakeholder needs
 
 Different sets of users within each department will typically have their own requirements for each service. On a daily basis, a [service manager](/service-manual/the-team/service-manager.html) will need to see a range of metrics that help them make decisions about the service.
-
 
 Identify the various stakeholders in your organisation and prioritise their requirements. These could be:
 

@@ -23,20 +23,20 @@ It’s essential to measure how your service is performing, so you can make sure
 
 Do this by monitoring your metrics. Your metrics are a way to start discussing the strengths and weaknesses of your service, and will help your team to find ways of improving your service over time.
 
-## What you will measure
+## The 4 KPIs
 
-The [digital by default service standard](/service-manual/digital-by-default) states 4 key performance indicators (KPIs) which should be used to measure the success of your service:
+Your service must collect data on 4 key performance indicators (KPIs) to meet the [digital by default service standard](/service-manual/digital-by-default):
 
 * [cost per transaction](/service-manual/measurement/cost-per-transaction.html)
 * [user satisfaction](/service-manual/measurement/user-satisfaction.html)
 * [completion rate](/service-manual/measurement/completion-rate.html)
 * [digital take-up](/service-manual/measurement/digital-takeup.html)
 
-These aren’t the only things your service should measure. Identify unique indicators to your service to help judge its effectiveness. Read our [guidance on establishing KPIs specific to your service](/service-manual/measurement/other-kpis.html).
+If there are other metrics that will help you improve your service, measure those things too. Read our [guidance on KPIs specific to your service](/service-manual/measurement/other-kpis.html).
 
 ## What happens to your data
 
-Once live, the performance of your service will be monitored and displayed on the [Performance Platform](/service-manual/measurement/performance-platform.html). This data will be presented in modules capable of being uniquely configured, and (where possible) will be visible to the public.
+You will need to display the performance of your service publicly at [www.gov.uk/performance](/service-manual/measurement/performance-platform.html).
 
 Use this data to [investigate how well a service is performing, and as a prompt for further investigation and testing](/service-manual/measurement/using-data.html).
 
