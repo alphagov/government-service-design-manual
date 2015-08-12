@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: Completion rate
-subtitle: Services all users can finish
+subtitle: How many people manage to use the service successfully?
 status: draft
 category: measurement
 type: guide
@@ -20,117 +20,81 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-When users are unable to complete a digital transaction, they can be pushed to use other channels. This leads to low levels of digital take-up and customer satisfaction, and a higher cost per transaction.
+Completion rate shows how many people manage to use the service successfully.
 
-Measuring end-to-end completion rates helps to identify whether users have problems completing a transaction. Analysing the drop-out rate at each step of a transaction will pinpoint the specific processes that users fail to complete.
-
-## What you will be measuring
-
-The completion rate measures the proportion of people who start a transaction and are able to complete it.
-
-A transaction is a self-contained process that's defined by the service manager, and is typically only completed when a user has been through the whole thing end to end.
-
-A transaction completed only partially online means the user may complete a single process within the overall transaction, like booking an appointment or completing a part of an application.
+Once your service goes live, you’ll find steps that cause users to give up and bugs that make the service impossible to complete. As you fix these issues, your completion rate will rise.
 
 ## How to measure completion rate
 
-1.    Work out the number of completed transactions.
-2.    Divide it by the number of started transactions, expressed as a percentage.
+1. Count the number of completed transactions
+2. Divide it by the number of started transactions, as a percentage
 
-### Before the transaction starts
+## What is a completed transaction?
 
-Before the transaction has started, users should clearly be told:
+A transaction is completed when **the service did what it was supposed to do**.
 
-* what the outcome of the transaction will be
-* who can use it
-* how long it's likely to take
-* what they’ll need to complete it (eg a reference number or credit card)
+Often this will be because the user was successful in achieving their desired outcome, for example:
 
-Also provide users with the eligibility criteria and the costs to complete the transaction. This will help you to reduce dropouts later on in the transaction.
+* A user claimed Carer’s Allowance
+* A user paid their vehicle tax
 
-Typically the eligibility criteria will be given on a single page. In some cases, there may be a set of pages that checks a user’s eligibility based on information they provide.
+Sometimes, even though **the service did what it was supposed to do**, the user won’t be successful. These still count as completed transactions. For example:
 
-Don’t make it possible for users to bypass your service’s start page via links or search engine results. Users who try to directly access another page in the transaction should be sent back to your start page, unless they are resuming a previously saved transaction.
+* A user couldn’t claim Carer’s Allowance because they weren’t eligible
+* A user couldn’t pay their vehicle tax because they have already paid
 
-### Start and end points
+In all of these cases, the user will reach a [transaction end page](https://designpatterns.hackpad.com/Transaction-end-pages-xkOPGx6R1iM).
 
-Transactions will begin and end on GOV.UK to allow GDS to monitor completion rates. 
+You should be able list all your transaction end pages at your [Service Assessment](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html).
 
-A transaction is considered to have been started and completed only when the user:
+## What is a failed transaction?
 
-* begins at the start page
-* reaches the end page
+There are two reasons why transactions are counted as failed:
 
-Data on the number of started and completed transactions will be shared with service owners.
+* The user gave up before reaching a transaction end page
+* The user reached an error page
 
-![Completion rate](/service-manual/assets/images/measuring-completion-rates.png)
+For example:
 
-### Dropouts
+* A user couldn’t pay their vehicle tax because of a database error
+* A user abandoned trying to submit their Self Assessment tax return
 
-Service managers will be responsible for measuring and monitoring dropout rates within transactions which aren't hosted on GOV.UK. You should analyse this data and use it to improve your service.
+You should be able list all your error pages at your [Service Assessment](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html).
 
-Build your service with unique URLs for each step or page. This will make your service much easier to measure.
+## How to set up web analytics
 
-### Saving or resuming progress during a transaction
+Use web analytics to measure your completion rate:
 
-Some services allow users to save a transaction mid flow and to resume it another time.
+* in Google Analytics -- use [destination goals](https://support.google.com/analytics/answer/1116091) and funnels
+* in Piwik -- use [goals](http://piwik.org/docs/tracking-goals-web-analytics/)
+* in WebTrends -- use [scenario analysis](http://help.webtrends.com/en/analytics10/#configuring_scenario_analysis.html)
 
-For the purpose of completion rate, make it possible to match your saved transactions with resumed transactions so they can be treated as one continuous process.
+Make sure each step in the service has a unique URL so you can identify them in your analytics package.
 
-Consider applying a nominal time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed. Alternatively, saved transactions could be set to expire after a given length of time.                          
+Your goals/scenarios should always start from the GOV.UK start page. Don’t make it possible for users to bypass your service start page via links or search engine results. Users who try to access another page in the service should be sent back to your start page, unless they are resuming a previously saved transaction.
 
-### Multiple endpoints
+Your goals/scenarios should end with the endpoints where **the service did what it was supposed to do.** Define a separate goal/scenario for each one, then combine the completion scores to give an overall completion rate.
 
-Some services have complex journeys and there may be several points where a transaction can be successfully completed. Service managers define these areas, and make sure they point to appropriate end pages on GOV.UK so they count towards the completed transaction total.
+**Your completion rate should never be greater than 100%.**
 
-### Offline fulfilment
+## Saving and resuming progress
 
-Some transactional services have both digital and non-digital areas. For example, when granting a lasting power of attorney, users can start and finish the transaction online, but are required to print, sign and post a form in the middle of the process.
+Some services allow users to save a transaction mid-flow and resume another time.
+
+Match saved transactions with resumed transactions so they can be treated as one continuous process.
+
+To do this, make separate goals/scenarios for users who are resuming using the transaction. These don’t count as starts, but do count as completions if they complete.
+
+Apply a time limit to saved transactions after which, if they haven’t been resumed, they are classed as failed.
+
+## Non-digital channels and steps
+
+Some services have both digital and non-digital channels or steps. For example, when granting a lasting power of attorney, users can start and finish the transaction online, but are required to print, sign and post a form in the middle of the process.
 
 In these situations treat the second online part of the transaction as a user continuing on from the first part. Where it’s not possible to match the two, treat the single digital parts of the service as separate tasks, with the completion rate measured for each.
 
-Offline parts of the process can still be measured, but this is likely to be done through qualitative feedback (eg from surveys, diary studies, focus groups).
+It may not be practical to directly measure completion rate for non-digital channels or steps. For something like a paper form, usability testing will be more effective.
 
-## When to measure completion rate
+## Further reading
 
-To successfully measure your service completion rate, GDS recommend that:
-
-* during the discovery phase you
-  * make sure all transaction pages have unique URLs
-  * develop a plan to measure completion rate throughout product development
-  * assess the available analytics tools
-* in your alpha phase you
-  * benchmark task completion rate via usability testing and establish reasons for failed transactions
-  * procure digital analytics tools
-* during your beta phase you
-  * conduct another round of usability testing to ensure that task completion rates improve
-* when a service is live you
-  * analyse task completion rates so you can continually improve the service
-  * carry out further usability testing to continually identify any usability problems and feed into service design
-
-### Completion rate measurement frequency
-
-Completion rate should be measured continuously. Once the service is live this will be done on GOV.UK.
-
-### Testing the completion rate before launch
-
-Before launch, measure completion rates with usability testing. This should be iteratively tested with at least 5 people.
-
-This should identify [over 85%](http://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) of usability problems. Users will be given a pre-determined set of tasks that reflect what needs to be done to use the service. These tasks will include all aspects of using the service that apply, like:
-
-* registering
-* applying
-* submitting
-* verifying
-* amending
-* unsubscribing
-
-If users are having difficulty completing tasks, carry out more user testing after each new development.
-
-### Post-launch measurement
-
-Digital analytics will be the primary method for measuring task completion rates post launch. Please note that this relies on extra configuration in the analytics tool. It will not be available by default.
-
-The aim of your service team’s activities will be to continually improve completion rates by monitoring where users are dropping out of the transaction process, and testing out new designs for those pages. End-to-end completion rates will be piped automatically from GOV.UK’s digital analytics into the [Performance Platform](/service-manual/measurement/performance-platform.html) and will be publicly available from the point of launch.
-
-Further usability testing should also be carried out once a service has gone live to measure use of the service and identify any issues and improvements that can be made. 
+Blog post: [How good is your service? How many users give up? (August 2015)](https://designnotes.blog.gov.uk/2015/08/13/how-good-is-your-service-how-many-users-give-up/)
