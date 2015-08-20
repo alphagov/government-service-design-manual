@@ -25,7 +25,7 @@ GDS offers 3 highly practical learning and development programmes so you can str
 
 #[Service manager induction programme](/service-manual/the-team/learning-and-development/service-manager-induction)
 
-Four days to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
+Six days to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
 This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies.
 
@@ -39,8 +39,6 @@ It is not recommended for newly appointed service managers, who should book to a
 
 #[Open programme](/service-manual/the-team/learning-and-development/open-programme)
 
-Three days of more specialised modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
+Two days of more specialised modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).  These days are now encompassed within the Service Manager Induction Programme but are also open to participants who have completed the foundation day or those who are already very familiar with digital in government.
 
-Unless already very familiar with digital in government, participants should complete the foundation day or service manager induction before taking part in the open programme.
-
-Newly appointed service managers should attend the induction programme and all three days of the open programme. Others may choose to join any or all of the days as appropriate to their role and development needs.
+Newly appointed service managers will attend both days of the open programme as part of the induction programme. Others may choose to join any or all of the days as appropriate to their role and development needs.
