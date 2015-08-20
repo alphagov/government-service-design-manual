@@ -24,15 +24,22 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
+| Cohort   | Dates                                                |
+|----------|------------------------------------------------------|
+| Cohort 1 | 22nd, 23rd, 24th, 29th, 30th September & 1st October |
+| Cohort 2 | 20th, 21st, 22nd, 27th, 28th, 29th October           |
+| Cohort 3 | 3rd, 4th, 5th, 10th, 11th, 12th November             |
+| Cohort 4 | 1st, 2nd, 3rd, 8th, 9th, 10th December               |
+
 #Who should take part
 
-The 4-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
+The 6-day induction programme aims to equip [service managers](/service-manual/the-team/service-manager) with the basic knowledge, network and confidence to take the lead in transforming digital services.
 
-This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. After completing the induction programme, participants are also expected to join all 3 [open programme](/service-manual/the-team/learning-and-development/open-programme) days.
+This programme is designed specifically for newly appointed service managers who complete the programme in cohorts drawn from across government departments and agencies. As part of the induction programme, participants will complete the [open programme](/service-manual/the-team/learning-and-development/open-programme) days.
 
 All sessions will run at a central London location.
 
-The programme is funded centrally, but you or your department will need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
+Your place on the programme will need to be paid for by your department, so please ensure you have the required budgetary approval to attend.  If you have any queries please email digital.academy@dwp.gsi.gov.uk. Your department will also need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
 
 #What's covered
 
@@ -107,7 +114,7 @@ It's time to try out the methods and tools picked up on the programme so far. In
 
 #Request a place
 
-We are now fully booked for all Service Manager Programmes until July, please [email us](mailto:digital.academy@DWP.GSI.GOV.UK) to register your interest in future programmes.
+Please [email us](mailto:digital.academy@DWP.GSI.GOV.UK) to book a place on this programme.
 
 Any questions? Please contact [digital.academy@DWP.GSI.GOV.UK](mailto:digital.academy@DWP.GSI.GOV.UK)
 
