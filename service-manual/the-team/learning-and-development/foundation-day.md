@@ -87,5 +87,7 @@ As preparation before the day, we ask that participants:
 
 To request a place on the foundation day, please fill in this [Civil Service Learning request form](https://civilservicelearning.civilservice.gov.uk/learning-opportunities/digital-foundation-day)
 
-Any questions? Please contact the GDS Skills Team: [service-manager-programme@digital.cabinet-office.gov.uk](mailto:service-manager-programme@digital.cabinet-office.gov.uk)
+Any questions? Please contact: [
+digital.academy@dwp.gsi.gov.uk](mailto:
+digital.academy@dwp.gsi.gov.uk)
 
