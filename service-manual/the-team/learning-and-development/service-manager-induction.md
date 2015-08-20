@@ -23,11 +23,13 @@ breadcrumbs:
     title: Learning and development
     url: /service-manual/the-team/learning-and-development
 ---
-| Cohort | Dates|
-|Cohort 1|22nd, 23rd, 24th, 29th, 30th Septmeber & 1st October|
-|Cohort 2|20th, 21st, 22nd, 27th, 28th, 29th October|
-|Cohort 3|3rd, 4th, 5th, 10th, 11th, 12th November|
-|Cohort 4|1st, 2nd, 3rd, 8th, 9th, 10th December|
+
+| Cohort   | Dates                                                |
+|----------|------------------------------------------------------|
+| Cohort 1 | 22nd, 23rd, 24th, 29th, 30th September & 1st October |
+| Cohort 2 | 20th, 21st, 22nd, 27th, 28th, 29th October           |
+| Cohort 3 | 3rd, 4th, 5th, 10th, 11th, 12th November             |
+| Cohort 4 | 1st, 2nd, 3rd, 8th, 9th, 10th December               |
 
 #Who should take part
 
@@ -37,8 +39,7 @@ This programme is designed specifically for newly appointed service managers who
 
 All sessions will run at a central London location.
 
-Your place on the programme will need to be paid for by your department, so please ensure you have the required budgetary approval to attend.  If you have any queries please email 
-digital.academy@dwp.gsi.gov.uk.  Your department will also need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
+Your place on the programme will need to be paid for by your department, so please ensure you have the required budgetary approval to attend.  If you have any queries please email digital.academy@dwp.gsi.gov.uk. Your department will also need to pay for any accommodation, meals and subsistence expenses, in line with your departmental policies.
 
 #What's covered
 
