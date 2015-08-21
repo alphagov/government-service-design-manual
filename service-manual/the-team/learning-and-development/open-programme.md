@@ -24,12 +24,6 @@ breadcrumbs:
     url: /service-manual/the-team/learning-and-development
 ---
 
-| 2015 | Modules |
-|------------|
-| 14 May, 23 July | Supporting people to use your digital service |
-| 26 March, 17 June, 30 July| Design and improve your digital service |
-| 30 April, 22 June, 20 August | Practice, procurement and platforms for your digital service |
-
 #Who should take part
 
 These 3 days contain specialist modules to help you succeed and improve in particular areas of the [Digital by Default Service Standard](/service-manual/digital-by-default).
@@ -134,5 +128,7 @@ We need to know that users of digital services are who they say they are. In thi
 
 #Request a place
 
-The GDS Skills Team will invite all service manager induction and foundation day participants to book their places on the open programme. If you have not completed either of these, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk)
+All foundation day participants will be invited to book their places on the open programme. If you have not completed this, but are very familiar with digital in government and wish to book straight onto the open programme, please contact the Skills Team for an invitation: [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk).
+
+Please note that the 3 days outlined above have recently been reviewed and the content is now covered across 2 days. To find out about dates and for advice about which days will best suit your needs, please contact [digital.academy@dwp.gsi.gov.uk](mailto:digital.academy@dwp.gsi.gov.uk).
 
