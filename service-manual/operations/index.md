@@ -26,7 +26,7 @@ breadcrumbs:
 * [Cloud security](/service-manual/operations/cloud-security)
 * [Monitoring](/service-manual/operations/monitoring)
 * [Hosting](/service-manual/operations/hosting)
-* [Devops](/service-manual/operations/devops)
+* [DevOps](/service-manual/operations/devops)
 * [Availability](/service-manual/operations/uptime-and-availability)
 * [Operating service.gov.uk subdomains](/service-manual/operations/operating-servicegovuk-subdomains)
 
