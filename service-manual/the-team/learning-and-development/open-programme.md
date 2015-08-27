@@ -94,15 +94,19 @@ Using data to inform decision-making is vital to the development of your service
 
 This one day module will cover governance, procurement and spend control in an agile context, along with an overview of the GOV.UK Verify platform. These are all areas required by the Digital by Default Service Standard.
 
-##Procurement, spend control and governance
+##Procurement, spend controls and governance
 
-Delivering high quality digital services that improve continuously often depends on effective procurement. As a group you will:
+Delivering high quality digital services that can be improved continuously requires investment in the right capabilities. As a group you will:
 
 * consider how to procure tools and systems fit for the purpose of agile, user-centred development
 
 * discuss the range of options available, and how to determine make or buy decisions
 
 * hear the latest on the government procurement processes and frameworks available on digital transformations
+
+* discuss the prevailing investment approvals and spend controls
+ 
+... all in the context of governance that helps to direct, steer, monitor but above all else, enable service delivery.
 
 ##Being agile
 
