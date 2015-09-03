@@ -72,3 +72,8 @@ should mention that an SSL verification email will be sent to them. It also help
 to be secured and the name of the SSL certificate vendor.
 
 The infrastructure team are unable to validate requests sent to any @service.gov.uk address.
+
+### Further reading
+
+[CESG](https://www.gov.uk/government/organisations/cesg) has written some more comprehensive guidance on
+[using TLS for external-facing services](https://www.gov.uk/guidance/transport-layer-security-tls-for-external-facing-services).
