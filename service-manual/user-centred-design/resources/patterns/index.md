@@ -49,7 +49,7 @@ For a visual style guide, including front-end code snippets, see the <br>
 * [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
 * [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages.html)
 * [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages.html)
-* [Done pages](/service-manual/user-centred-design/resources/patterns/done-pages.html)
+* [Feedback pages](/service-manual/user-centred-design/resources/patterns/feedback-pages.html)
 * [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
 
 

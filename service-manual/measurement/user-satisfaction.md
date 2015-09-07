@@ -1,7 +1,7 @@
 ---
 layout: detailed-guidance
 title: User satisfaction
-subtitle: Are users happy with the service you’ve provided
+subtitle: How satisfied are the people who use your service?
 category: measurement
 type: guide
 audience:
@@ -20,68 +20,77 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-A good service makes it possible for users to successfully complete tasks. User satisfaction helps you to measure the overall quality of the service experience.
+User satisfaction helps you to measure the overall quality of your service.
 
-Many government transactions are mandatory for users, so they’re not naturally enjoyable, and are sometimes referred to as grudge transactions. Still, try to make them as pleasant as possible for users, who may be nervous or stressed when interacting with the government.
-
-Asking users how satisfied they are with a service can provide you with a measure of all the parts that contribute to the overall user experience, like ease of use, navigation and design.
-
-## What you will be measuring
-
-Define user satisfaction as the percentage of people who answered either “very satisfied” or “satisfied” on a 5-point scale in response to this question:
-
-Q: Overall, how satisfied were you with this [eg car tax] service today?
-
-* very satisfied
-* satisfied
-* neither satisfied or dissatisfied
-* dissatisfied
-* very dissatisfied
+User satisfaction can help you make sure the changes you make are improving the service for users. If your user satisfaction falls, you can investigate to find out why.
 
 ## How to measure user satisfaction
 
-GOV.UK will provide a user satisfaction survey at the end of your transactional service and make this data available.
+1. Get a feedback page on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/)
+2. Add links from to your service to the feedback page (more details below)
+3. Use the [Feedback Explorer](https://support.production.alphagov.co.uk/anonymous_feedback/explore) to see feedback on your service
 
-## What happens when a user exits the transaction midway through
+## Measure satisfaction across the whole service
 
-Measure all user journeys through your transaction to better understand dropout points.
+More often than not, the end of the transaction isn’t the end of the service. For example, if you claim Carer’s Allowance, the end of the transaction means you’ve finished filling in your claim. You’re still waiting for a decision.
 
-If a user drops out you should try and collect some data around the quality of your service to explain why they didn’t complete the transaction. For example,‘please tell us why are you unable to complete this transaction.’
+You must prompt users to give feedback at service endpoints. In the example above, this means prompting the user to give feedback when they get their benefit decision. This could be some time after they finish their transaction -- the prompt could be in an email or a letter.
 
-Although this survey will not be contribute to the overall measure of user satisfaction it will help you understand service dropout points and find ways to improve transactions.
+You must also allow users to give feedback from anywhere in the service, in case anything goes wrong.
 
-## When to measure user satisfaction
+And you must be able to show that you’re collecting user satisfaction data appropriately at your [Service Assessment](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html).
 
-To successfully measure the user satisfaction of your service, we recommend that you measure through all stages of your service.
+## Prompt users to give feedback at service endpoints
 
-###Discovery
-During the discovery phase you should:
+Add a feedback link to all your service endpoints, for example:
 
-* benchmark your existing service for future comparison
-* develop a plan to measure user satisfaction throughout product development
+* Your Carer’s Allowance claim has been successful
+* You are not eligible for Carer’s Allowance
+* Error -- we couldn’t find your National Insurance number
 
-###Alpha
-Benchmark user satisfaction via remote usability testing and/or a satisfaction survey.
+We recommend the following pattern to link to the feedback page:
 
-###Beta
-During your beta phase:
+> [What did you think of this service?]() (takes 30 seconds)
 
-* measure user satisfaction via remote usability testing and/or satisfaction survey
-* identify why people are dissatisfied completing transactions and take steps to improve user satisfaction levels
+> `<p><a href=“https://www.gov.uk/done/name-of-your-service”>What did you think of this service?</a> (takes 30 seconds)</p>`
 
-###Production (live)
-Once your service is live you should:
+If the service endpoint is an email or a letter, use the following pattern:
 
-* measure user satisfaction continually and monitor results on at least a monthly basis
-* carry out a more comprehensive user demographics, usage and attitudes survey every 6 months
+> What did you think of this service? (takes 2 minutes)
 
-## Post-launch measurement
+> Visit www.gov.uk/done/name-of-your-service
 
-An exit survey will be run continuously on your service, and will report on user satisfaction on a monthly basis. You can use this data to improve your service.
+## Allow users to give feedback from anywhere in the service
 
-Analyse the major factors generating satisfaction with the service. You can do this by asking additional questions (eg on ease of use, accuracy, look and feel).
+Add a ‘Feedback’ link to the footer on every page of your service.
 
-You can then determine which of those factors is most positively contributing to user satisfaction and prioritise where to direct ongoing design efforts.
+You can also link to the feedback page from your alpha or beta banner.
+
+This is a courtesy to your users -- if they have something to tell you, they should be able to do so.
+
+## GOV.UK feedback pages
+
+![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
+
+Feedback pages contain a simple survey with two questions:
+
+> Overall, how did you feel about the service you received today?
+
+> * Very satisfied
+> * Satisfied
+> * Neither satisfied or dissatisfied
+> * Dissatisfied
+> * Very dissatisfied
+
+> How could we improve this service?
+
+Feedback pages are hosted on GOV.UK. This is so satisfaction scores can be compared across services.
+
+## Measure user satisfaction continuously
+
+Your GOV.UK Feedback page will measure user satisfaction continuously.
 
 ## Further reading
-[Survey design](/service-manual/user-centred-design/user-research/survey-design.html)
+
+* [Discuss this page on Hackpad](https://designpatterns.hackpad.com/User-satisfaction-and-user-feedback-zfk4wUpWNj3)
+* Blog post: [How good is your service? How many users give up? (August 2015)](https://designnotes.blog.gov.uk/2015/08/13/how-good-is-your-service-how-many-users-give-up/)

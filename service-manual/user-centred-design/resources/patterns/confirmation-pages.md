@@ -24,7 +24,11 @@ These pages should let the user know:
 * who they should contact with any queries or complaints
 * about any related information and services
 
-A ‘Finished’ button at the bottom of the page should link to the [done page](/service-manual/user-centred-design/resources/patterns/done-pages) for the service.
+Use this pattern to link to the [feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages) for the service:
+
+> [What did you think of this service?]() (takes 30 seconds)
+
+> `<p><a href=“https://www.gov.uk/done/name-of-your-service”>What did you think of this service?</a> (takes 30 seconds)</p>`
 
 ---
 
