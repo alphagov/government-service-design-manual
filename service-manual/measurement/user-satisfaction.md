@@ -20,14 +20,14 @@ breadcrumbs:
     url: /service-manual/measurement
 ---
 
-User satisfaction helps you to measure the overall quality of your service.
+Measuring user satisfaction helps you to gauge the overall quality of your service.
 
-User satisfaction can help you make sure the changes you make are improving the service for users. If your user satisfaction falls, you can investigate to find out why.
+Tracking user satisfaction can help make sure the changes you make are improving the service for users. If your user satisfaction falls, then by asking for feedback, you can investigate to find out why.
 
 ## How to measure user satisfaction
 
 1. Get a feedback page on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/)
-2. Add links from to your service to the feedback page (more details below)
+2. Add links from your service to the feedback page (more details below)
 3. Use the [Feedback Explorer](https://support.production.alphagov.co.uk/anonymous_feedback/explore) to see feedback on your service
 
 ## Measure satisfaction across the whole service
@@ -48,6 +48,8 @@ Add a feedback link to all your service endpoints, for example:
 * You are not eligible for Carer’s Allowance
 * Error -- we couldn’t find your National Insurance number
 
+## What pattern to use
+
 We recommend the following pattern to link to the feedback page:
 
 > [What did you think of this service?]() (takes 30 seconds)
@@ -66,29 +68,7 @@ Add a ‘Feedback’ link to the footer on every page of your service.
 
 You can also link to the feedback page from your alpha or beta banner.
 
-This is a courtesy to your users -- if they have something to tell you, they should be able to do so.
-
-## GOV.UK feedback pages
-
-![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
-
-Feedback pages contain a simple survey with two questions:
-
-> Overall, how did you feel about the service you received today?
-
-> * Very satisfied
-> * Satisfied
-> * Neither satisfied or dissatisfied
-> * Dissatisfied
-> * Very dissatisfied
-
-> How could we improve this service?
-
-Feedback pages are hosted on GOV.UK. This is so satisfaction scores can be compared across services.
-
-## Measure user satisfaction continuously
-
-Your GOV.UK Feedback page will measure user satisfaction continuously.
+This is a courtesy to your users -- if they have something to tell you, they should be able to do so. And it will help make our services better.
 
 ## Further reading
 
