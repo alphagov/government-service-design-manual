@@ -13,7 +13,11 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-All digital services that government provides must have a Feedback page on GOV.UK. Every service must link to their Feedback page to collect user satisfaction and feedback.
+## GOV.UK Feedback pages
+
+All digital services that government provides must have a Feedback page on GOV.UK. Every service must link to their Feedback page to collect [user satisfaction](/service-manual/measurement/user-satisfaction.html) and feedback.
+
+![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
 
 Feedback pages are hosted on GOV.UK. This is so satisfaction scores can be compared across services.
 
