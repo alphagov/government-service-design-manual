@@ -259,7 +259,7 @@ provide some means of achieving this. For example, Puppet 3 provides
 ### Secrets ###
 
 Extra care must be taken when managing secrets such as database
-passwords or SSL keys. You want to ensure:
+passwords or TLS keys. You want to ensure:
 
  * at a coarse-grained level, secrets cannot be accessed outside of
    the environment which uses them
@@ -267,7 +267,7 @@ passwords or SSL keys. You want to ensure:
    in an environment which need to know them.
 
 For example, in a three-tier app with database, application and web
-servers, the database server does not need to know the  SSL (secure sockets layer) private
+servers, the database server does not need to know the TLS (Transport Layer Security) private
 keys for the site, nor does the web server need to know the database credentials.
 
 If you are using hiera, then [hiera-gpg][] provides a solution to this

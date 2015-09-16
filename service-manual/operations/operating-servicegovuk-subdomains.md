@@ -73,7 +73,7 @@ Regardless of the domain name used, web-based services on testing and developmen
 
 Many services will collect personal information from users. It’s very important that this information can’t be intercepted by malicious third parties as it travels over the internet.
 
-Therefore, all services accessed through `service.gov.uk` domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronyms TLS or SSL, which both refer to the protocol underpinning these secure connections). Services must not accept HTTP connections under any circumstances.
+Therefore, all services accessed through `service.gov.uk` domains (including APIs) MUST only be accessible through secure connections. For web-based services this means HTTPS only (often referred to by the acronym TLS, which refers to the protocol underpinning these secure connections). Services must not accept HTTP connections under any circumstances.
 
 Once a service manager has verified that their HTTPS setup is working fine they SHOULD enable [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) on the production domains (`www.`, `admin.` and `assets.`), by setting an HTTP response header such as
 
@@ -122,11 +122,11 @@ Detailed configuration advice for origin servers is outside of the scope of this
 - the DDOS protection provider’s servers
 - the locations where the service itself is being developed and/or managed
 
-At present we advise against allowing DDOS protection suppliers to terminate SSL connections for transactional services carrying personal information, but this behaviour isn't prohibited at present. Although SSL termination on the third party network would allow the supplier(s) to carry out additional analysis and potentially extra mitigations against certain types of attack, it would also give the supplier access to all the personal information being submitted to your service. 
+At present we advise against allowing DDOS protection suppliers to terminate TLS connections for transactional services carrying personal information, but this behaviour isn't prohibited at present. Although TLS termination on the third party network would allow the supplier(s) to carry out additional analysis and potentially extra mitigations against certain types of attack, it would also give the supplier access to all the personal information being submitted to your service. 
 
-There are obvious downsides to allowing this level of access, especially if the supplier’s network and processes have not been accredited to the same level as the rest of the service. It’s a risk-based decision, but if in doubt we suggest a presumption against SSL termination on third party networks.
+There are obvious downsides to allowing this level of access, especially if the supplier’s network and processes have not been accredited to the same level as the rest of the service. It’s a risk-based decision, but if in doubt we suggest a presumption against TLS termination on third party networks.
 
-Many suppliers offer IP forwarding DDOS protection, which does not have the same security issues as SSL termination, and is recommended in preference to SSL termination.  If your service requires transaction monitoring (which is not at all the same thing as DDOS protection) you should contact your CESG account manager for advice.
+Many suppliers offer IP forwarding DDOS protection, which does not have the same security issues as TLS termination, and is recommended in preference to TLS termination.  If your service requires transaction monitoring (which is not at all the same thing as DDOS protection) you should contact your CESG account manager for advice.
 
 ## Emails sent to service users
 
@@ -138,10 +138,10 @@ You SHOULD enable [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) o
 
 If your service should need to wind down for any reason, you MUST ensure continued useful service and information for users by:
 
-* continuing to use SSL
+* continuing to use TLS
 * serving a redirect from your service to the GOV.UK start page
 
-For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services that have been live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current SSL certificate, whichever comes first.
+For services that have been live for less than 6 months, you MUST continue to do the above for the remainder of a year total. For services that have been live longer than that you MUST continue to do the above for a further 12 months or until the expiry of the current TLS certificate, whichever comes first.
 
 The GOV.UK start page will be amended to explain that the service is no longer running, and cease to provide a start button pointing at the defunct service.
 
