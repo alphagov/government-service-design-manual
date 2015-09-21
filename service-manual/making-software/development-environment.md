@@ -54,11 +54,7 @@ We should be able to remotely provision new machines ourselves to meet our needs
 
 ### Suitable range of virtual machine options
 
-Support for 64 bit architectures and a range of virtual machine sizes at least up to 4 cores, 16GB RAM and 300GB disk.
-
-### Run own operating system
-
-The flexibility to run whatever operating system is deemed suitable for the project, rather than just a limited subset of those supported by a vendor.
+Support for 64 bit architectures and a range of virtual machine sizes at least up to 4 cores, 14GB RAM and 300GB disk.
 
 ### EU-based data centres
 
@@ -70,7 +66,7 @@ A suitable SLA should be in place with the service provider (whether internal or
 
 ### Development team access
 
-Approved development team members should have root access to manage virtual machines (eg to install and configure software).
+Approved development team members should have access to manage virtual machines (eg to install and configure software).
 
 ## Desired
 
@@ -79,6 +75,10 @@ Optional capabilities which would make a marked difference to the production of 
 ### Provisioning API
 
 The provisioning of virtual machines, storage, load balancing etc to be available via an application programming interface (API). Any API should have a suitable authentication mechanism in place, and should be accessible to development team members via the internet (optionally through a virtual private network (VPN)).
+
+### Run own operating system
+
+The flexibility to run whatever operating system is deemed suitable for the project, rather than just a limited subset of those supported by a vendor.
 
 ### Create virtual machine templates
 
