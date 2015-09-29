@@ -62,14 +62,14 @@ The verification methods that are commonly in use (in order of preference) are:
 2. Create a special DNS record with a code supplied by the SSL vendor
 3. Sending an email to the owner of the service.gov.uk domain
 
-The least preferred method of sending an email to the domain owner relies on the GDS Infrastructure Team
-seeing the verification email and responding. If this is necessary, then first send an email to the address that
-you intend to use for verification from your own email address warning that an SSL verification is needed for
-your service.
+Email verification is the least preferred method because it relies on the GOV.UK Infrastructure Team
+seeing the verification email and responding. If your SSL certificate vendor will only validate requests by
+email, please send an email to `hostmaster@digital.cabinet-office.gov.uk` before purchasing an
+SSL certificate that mentions:
 
-Your request should be sent to hostmaster@digital.cabinet-office.gov.uk, and
-should mention that an SSL verification email will be sent to them. It also helps if you include the domain name(s)
-to be secured and the name of the SSL certificate vendor.
+- What project you need an SSL certificate for
+- The domain name that needs to be secured
+- The name of the SSL certificate vendor
 
 The infrastructure team are unable to validate requests sent to any @service.gov.uk address.
 
