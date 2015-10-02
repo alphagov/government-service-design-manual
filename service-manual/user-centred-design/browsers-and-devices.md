@@ -139,6 +139,8 @@ Tom Byers explores the practical ways in which GOV.UK has been [designed for dif
 
 Dafydd Vaughan with an update on [browser usage on GOV.UK](https://gds.blog.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK -- Dafydd Vaughan, GDS') post-launch.
 
+Edd Sowden shows some of the [interesting browser stats](https://gds.blog.gov.uk/2013/03/11/interesting-browser-stats/ 'Interesting browser stats') on www.gov.uk (March 2013).
+
 The Guardian introduce their [use of responsive design](http://www.theguardian.com/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 
 [pp-govuk-device-type]: /performance/site-activity/device-type
