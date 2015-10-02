@@ -126,7 +126,7 @@ Before the launch of GOV.UK we noted a marked difference between the existing no
 ##Continuous compatibility
 It's important to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer version 8 is only used by a minority (3.6% of visits to GOV.UK in the last year) this still accounts for a significant number of individuals that government services must take into account.
 
-However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. The iPad Mini, Kindle Fire, Windows 8 and Internet Explorer 10 highlight this dilemma -- recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
+However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. Windows 10 and Microsoft Edge highlight this dilemma -- recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
 
 Decisions about compatibility can't be something you specify at the start of the project and then forget about. Transformed digital services need to reflect and adapt to the broader internet context of their users on an ongoing basis.
 
