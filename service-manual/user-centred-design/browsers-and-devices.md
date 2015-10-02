@@ -76,13 +76,10 @@ Two distinct levels of support are given and denoted next to each browser. Where
     </tr>
   </thead>
   <tr>
-    <th scope="row" rowspan="3">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
+    <th scope="row" rowspan="2">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome</td><td>Compliant</td>
-  </tr>
-  <tr>
-    <td>5 and 6</td><td>Mobile Safari</td><td>Functional</td>
   </tr>
   <tr>
     <th scope="row" rowspan="2">Android</th><td rowspan="2">4.x</td><td>Google Chrome</td><td>Compliant</td>
