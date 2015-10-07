@@ -14,106 +14,81 @@ breadcrumbs:
 ---
 
 {:.intro}
-Use these to reassure users that they're making progress and give an indication 
-of how much further there is to go.
+Help people understand where they are in a transaction and give them the confidence to continue.
 
 
 ### On this page:
 
-1. [Step indicator](#step-indicator)
-2. [Progress bar](#progress-bar)
-3. [Summary menu](#summary-menu)
+1. [Start without a progress indicator](#section-1)
+2. [If you do use one, keep it simple](#progress-bar)
+3. [Avoid complex progress indicators](#section-3)
 
 ---
 
-<h2 class="heading-36" id="step-indicator">1. Step indicator</h2>
+<h2 class="heading-36" id="section-1">1. Start without a progress indicator</h2>
 
-Tell the user what step they're on.
+Test your service first without any progress indicators at all. It may be simple enough that you don't need them. If it isn't, then at least you'll discover the point at which people start to struggle.
+
+It's often the order, type or number of questions that causes issues, so try improving these first.
+
+If people still have problems then try adding a simple progress indicator.
+
+---
+
+<h2 class="heading-36" id="section-2">2. If you do use one, keep it simple</h2>
+
+If you do need a progress indicator, just add the step or question number at the top of the page, like this:
 
 <div class="example">
-  <div class="ribbon">Recommended</div>
   <div class="inner-block">
-    
+
     <img src="/service-manual/assets/images/design-patterns/step-indicator.png" alt="Example of a step indicator" />
-    
+
   </div>
 </div>
 
-**The good:**
+Only include the total number if you can do so reliably.
 
-* simple, compact and accessible
+This approach is compact, accessible and usually enough to give people the confidence to continue.
 
-**The bad:**
-
-* doesn't give details of future steps
-
-As this is the simplest approach we recommend you try it before any others.
-It's often all users need to reassure them that they're making progress.
 
 
 ---
 
-<h2 class="heading-36" id="progress-bar">2. Progress bar</h2>
-
-Show the steps horizontally across the top of the page, with the current step highlighted.
+<h2 class="heading-36" id="section-3">3. Avoid complex progress indicators</h2>
 
 <div class="example">
   <div class="inner-block">
-    
-    <img src="/service-manual/assets/images/design-patterns/progress-bar.png" alt="Example of a progress bar" />
-    
+
+    <img src="/service-manual/assets/images/design-patterns/progress-bar.png" alt="Don't use horizontal progress bars" />
+
   </div>
 </div>
 
+We recommend against these because:
 
-**The good:**
+* they're rarely used
+* they take up valuable space
+* they don't scale well on small screens
+* they can distract and confuse some people
+* it's hard to write good labels for the steps
+* it's hard to handle conditional questions
 
-* provides an overiew of the entire process
-* steps can be used as navigation
-
-
-**The bad:**
-
-* takes up a lot of space, particularly on small screen devices
-* adds visual noise which may distract from the important content
+Complex progress indicators have been safely removed from a number of services on GOV.UK. For example, the Carer's Allowance team removed a 12-step horizontal progress indicator from their live service, with no effect on completion rates or times.
 
 
-**Guidance:**
+# Progress indicators as navigation
 
-* don't assume you'll need one of these
-* only use with a small, fixed sequence of steps
-* number the steps to reinforce their sequential nature
-* don't rely on progress bars for navigation - you'll still need to provide 'Back' and 'Next' links on each screen
+We occasionally see progress indicators (usually vertical ones) used as navigation. These suffer from many of the issues listed above.
+
+If people really need to be able to jump around the transaction, try meeting this need on a separate page.
+
 
 ---
 
-<h2 class="heading-36" id="summary-menu">3. Summary menu</h2>
+<h2 class="heading-36" id="section-4">Further reading</h2>
 
-[This pattern is still under discussion](https://designpatterns.hackpad.com/Progress-indicators-3AOrLoia9Us)
-
-Provide a vertical list of links to each section. Let users complete the sections in any order.
-
-<div class="example">
-  <div class="inner-block">
-  
-    <img src="/service-manual/assets/images/design-patterns/summary-menu.png" alt="Example of a summary menu" />
-
-  </div>
-</div>
-
-**The good:**
-
-* section titles can be longer
-* room for more sections
-* users can complete sections in an order that suits them
-* users can jump around and preview sections before completing them
-
-
-**The bad:**
-
-* takes up a lot of space
-* requires more effort to implement
-* some usability challenges - for example, letting users know they've finished all the sections
+* [Do Less: Problems as shared spaces](https://designnotes.blog.gov.uk/2014/07/07/do-less-problems-as-shared-spaces/). Ben Holliday talks about removing the progress indicator from the Carer's Allowance service.
 
 
 ---
