@@ -76,13 +76,10 @@ Two distinct levels of support are given and denoted next to each browser. Where
     </tr>
   </thead>
   <tr>
-    <th scope="row" rowspan="3">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
+    <th scope="row" rowspan="2">iOS</th><td rowspan="2">7+</td><td>Mobile Safari</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome</td><td>Compliant</td>
-  </tr>
-  <tr>
-    <td>5 and 6</td><td>Mobile Safari</td><td>Functional</td>
   </tr>
   <tr>
     <th scope="row" rowspan="2">Android</th><td rowspan="2">4.x</td><td>Google Chrome</td><td>Compliant</td>
@@ -99,7 +96,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
 
 Digital by default services must take into consideration the limitations of the browsers people use to access them. One important idea for achieving this is [progressive enhancement](/service-manual/making-software/progressive-enhancement.html). This recognises that different bits of technology have different capabilities. While everybody gets access to core functionality, those using more sophisticated technology get an enhanced experience.
 
-Progressive enhancement is also important in providing a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [17% of all internet use in the UK over the last year](http://gs.statcounter.com/#desktop+mobile-comparison-GB-monthly-201304-201403-bar 'Mobile vs Desktop in United Kingdom from April 2013 to March 2014 Statcounter Global Stats') and [20% of traffic to GOV.UK][pp-govuk-device-type], this mode of access is not an optional extra to consider.
+Progressive enhancement is also important in providing a consistent experience to people using mobile devices or those who may have limited bandwidth. Because mobile traffic now accounts for [30% of all internet use in the UK over the last year](http://gs.statcounter.com/#desktop+mobile-comparison-GB-monthly-201410-201509-bar 'Mobile vs Desktop in United Kingdom from October 2014 to September 2015 Statcounter Global Stats') and [40% of traffic to GOV.UK][pp-govuk-device-type], this mode of access is not an optional extra to consider.
 
 Where we might previously have developed separate mobile and desktop versions of a service, or bought bespoke apps, design should now be done with one website in mind. This should be done using a [responsive design](https://en.wikipedia.org/wiki/Responsive_design 'Responsive Web Design -- Wikipedia') approach. This means websites adapt to suit the dimension of the screen being used to view it.
 
@@ -124,9 +121,9 @@ Before the launch of GOV.UK we noted a marked difference between the existing no
 
 
 ##Continuous compatibility
-It's important to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer versions 6 and 7 are only used by a minority (2.5% of visits to GOV.UK in the last year) this still accounts for a significant number of individuals that government services must take into account.
+It's important to distinguish between those browsers and operating systems whose popularity is either increasing or holding steady and those for which the opposite is true. Although Internet Explorer version 8 is only used by a minority (3.6% of visits to GOV.UK in the last year) this still accounts for a significant number of individuals that government services must take into account.
 
-However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. The iPad Mini, Kindle Fire, Windows 8 and Internet Explorer 10 highlight this dilemma -- recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
+However, over time this will change. So it's important to set thresholds for abandoning support and for adopting new and emergent platforms. Windows 10 and Microsoft Edge highlight this dilemma -- recently launched products might not appear in any data but it is likely that they'll eventually enjoy widespread use.
 
 Decisions about compatibility can't be something you specify at the start of the project and then forget about. Transformed digital services need to reflect and adapt to the broader internet context of their users on an ongoing basis.
 
@@ -138,6 +135,8 @@ Ben Welby discusses [the operating systems, browsers and devices supported](http
 Tom Byers explores the practical ways in which GOV.UK has been [designed for different devices](https://gds.blog.gov.uk/2012/11/02/designing-for-different-devices/ 'Designing for different devices -- Tom Byers, GDS') (November 2012).
 
 Dafydd Vaughan with an update on [browser usage on GOV.UK](https://gds.blog.gov.uk/2012/12/12/browser-usage-on-gov-uk/ 'Browser usage on GOV.UK -- Dafydd Vaughan, GDS') post-launch.
+
+Edd Sowden shows some of the [interesting browser stats](https://gds.blog.gov.uk/2013/03/11/interesting-browser-stats/ 'Interesting browser stats') on www.gov.uk (March 2013).
 
 The Guardian introduce their [use of responsive design](http://www.theguardian.com/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction 'Responsive design at the Guardian: an introduction') (October 2012).
 
