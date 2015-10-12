@@ -23,7 +23,7 @@ breadcrumbs:
 
 ##Researching assisted digital users -- a guide for service managers
 
-To pass point 10 on the Digital by Default Service Standard, you will need to show that you have designed your assisted digital support based on your [users’ needs](/service-manual/user-centred-design/user-needs).
+To meet the Digital Service Standard, you will need to show that you have designed your assisted digital support based on your [users’ needs](/service-manual/user-centred-design/user-needs).
 
 You can gain a detailed understanding of your assisted digital users and their needs by carrying out lots of user research. This also means [learning how to plan and test your assisted digital support](/service-manual/assisted-digital/action-plan) and how to make sure that users know where to go for help.
 
