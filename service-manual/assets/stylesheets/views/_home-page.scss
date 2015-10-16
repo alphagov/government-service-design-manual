@@ -8,7 +8,7 @@
     padding: 0;
 
     .hgroup {
-      padding: 0;
+      padding: 0 0 2em 0;
     }
   }
 
@@ -70,7 +70,7 @@
     }
   }
 
-  .timeline {
+  .homepage-column-right {
     @include media(tablet) {
       width: 50%;
       float: right;
