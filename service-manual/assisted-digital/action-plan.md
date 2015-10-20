@@ -59,6 +59,7 @@ You'll need to show evidence of meeting your key performance indicators (KPIs) b
 During the alpha stage, you should carry out research to gain understanding of your assisted digital users’ current abilities, confidence and barriers to completing your service independently.
 
 You should remember the following key points when carrying out research into your users’ assisted digital support needs:
+
 * carry out research with users of this specific service
 * include potential users (not just current users)
 * include users with the lowest level of digital skills, confidence and access
@@ -79,6 +80,7 @@ During alpha, you need to consider how your assisted digital support will help t
 You must make sure that sustainable assisted digital support is in place for all users who need it and that no one is excluded from using the service on the basis of cost.
 
 You need to make sure that assisted digital support is sustainable, including support that isn’t funded by the department, for example support funded by:
+
 * a different government department
 * a non-government funding body
 * charitable donations
@@ -86,6 +88,7 @@ You need to make sure that assisted digital support is sustainable, including su
 
 ##The alpha review (assessment)
 This review takes place before the service can move to beta. You’ll be asked questions about the following topics:
+
 * your user research and the user needs you’ve found
 * your user research and usability testing plans
 * your service team
@@ -95,6 +98,7 @@ This review takes place before the service can move to beta. You’ll be asked q
 
 ##Your user research and the user needs you’ve found
 You’ll need to discuss:
+
 * the research you have you done to understand users’ assisted digital support needs
 * how you’re making sure that the users you research meet the following conditions:
   * they use (or would use) your specific service
@@ -107,35 +111,40 @@ You’ll need to discuss:
 
 ##Your user research and usability testing plans
 You’ll need to discuss:
+
 * how you’ve dedicated members of your team to do ongoing user research into your users’ assisted digital support needs and how you’ll pay for this
 * how you’re using what you’ve learned from research and support testing to change the way you develop the assisted digital support elements of your service
 
 ##Your service team
 You’ll need to discuss:
+
 * whether someone in your team is assisted digital lead for the service, responsible for including assisted digital support
 * whether your assisted digital lead has the time and the skills to design, build, operate and continuously improve the service’s assisted digital support model, including all routes (eg phone, face to face, web chat) and all providers
 
 ##Free and sustainable assisted digital support
 You’ll need to discuss:
+
 * how you’ll make sure that all assisted digital support for your service, including routes provided by third parties, are free to the user
 * how you’ll make sure they’re sustainably provided and not likely to close in the near future
 
-You’ll need to discuss:
 ##How you're designing the support elements of your service
+You’ll need to discuss:
+
 * how users of your service currently meet their assisted digital support needs
 * the support you’re considering for your assisted digital support model, the providers you intend to use, and why
 * the design challenges for your service’s support model
 
 ##Analysing performance data and KPIs of your assisted digital support
 You’ll need to discuss:
+
 * the person in your team that’s responsible for identifying data insights that you can use to improve your assisted digital support
 * how you’re measuring the performance of the existing service’s assisted digital support
-
 
 ##Beta: testing and measuring your service
 In beta, you need to thoroughly test your end-to-end assisted digital support. This will help you to gain accurate metrics and measurements.
 
 The beta phase has 2 distinct stages:
+
 * beta while testing in a closed environment to a limited user group (this is sometimes called private beta)
 * beta where the service is on the GOV.UK domain (this is sometimes called public beta)
 
@@ -147,6 +156,7 @@ Learn more about [how to conduct research and testing with your assisted digital
 Your research into your users’ needs should also tell you what other government services they’re using.
 
 You should:
+
 * consider how their use of those services might connect with your service
 * make sure that the user journey is consistent and joined up, where relevant and possible.
 
@@ -154,6 +164,7 @@ You should:
 You must give your users training or guidance to help them complete transactions on their own in the future.
 
 This may include:
+
 * making it easy for assisted digital users to find digital skills training
 * running assisted digital support in way that builds the user’s skills and confidence (eg allow the user to see the screen during in-person support or encourage them to try completing the service themselves)
 
@@ -166,6 +177,7 @@ Your service must pass a beta assessment before it can move to beta on the GOV.U
 To pass the beta assessment, you must explain how you’ve built on your work and evidence from the discovery, alpha and private beta phases.
 
 As a service manager, you’ll have to answer questions on the following topics:
+
 * your user research and the user needs you’ve found
 * your service team
 * your design for the assisted digital support elements of your service
@@ -175,22 +187,26 @@ As a service manager, you’ll have to answer questions on the following topics:
 You need to explain how your team’s research into user needs continues to meet the requirements you discussed in the alpha assessment.
 
 You’ll also need to show:
+
 * you have the resources to do regular user research with users who need assisted digital support
 * how often you’ll do this research
 
 ##Your service team
 You’ll need to discuss:
+
 * are you, as service manager, the single responsible person with the power and knowledge to make decisions to improve the assisted digital support elements of the service on a day-to-day basis during beta?
 * can you give an example of how you were empowered to make decisions on assisted digital support during alpha?
 
 ##How you’re testing the assisted digital support for your service
 You’ll need to discuss:
+
 * whether the resources in place to do regular usability testing of all assisted digital support, from all providers
 * how you’ll test the end-to-end user journey for your assisted digital support (all routes from all providers), including identity assurance segments like Verify? and how often you’re currently doing this
 * how you’re checking that all of the assisted digital support (all routes from all providers) will be able to handle the number of support requests you expect
 
 ##Your design for the assisted digital support elements of your service
 You’ll need to discuss:
+
 * the design options you’re considering for your assisted digital support
 * how the team is designing the service’s assisted digital support (all routes from all providers) to meet user needs
 * how you’re using what you’ve learned from user research and testing and what you’ve learned to influence the design of your service’s assisted digital support model
@@ -201,6 +217,7 @@ You’ll need to discuss:
 
 ##Analysing performance data and KPIs of your assisted digital support
 You’ll need to discuss:
+
 * the person in the team who’s responsible for identifying data insights during the beta that can be used to continuously improve the assisted digital support
 * how you’re measuring the performance of all of your assisted digital support (existing and beta) for your service
 * how you’ll analyse the performance of the assisted digital support for your service in future
@@ -250,6 +267,7 @@ You may need to discuss the following topics:
 As the service manager, you need to explain how your team’s work in these areas continues to meet the alpha and beta requirements, and how you’ll meet them when the service goes live.
 
 You’ll need to talk about:
+
 * how often you carried out user research and usability testing during public beta
 * what you learned, during public beta, from testing the end-to-end user journey for your assisted digital support (all routes from all providers), including any identity assurance like Verify
 * any changes you’ve made in response to what you learned, using examples
@@ -262,6 +280,7 @@ You’ll need to talk about:
 
 ##How you designed the assisted digital support elements of your service
 You’ll need to discuss:
+
 * whether your support model includes appropriate options for users currently choosing support from outside the model (eg from friends and family, paid intermediaries, or unsustainable, unmeasurable sources)
 * how the assisted digital support has been designed and continuously improved based on what you learned from testing, metrics and user feedback
 * how you chose routes and providers in the support model and why you excluded any routes (eg telephone, web chat or face by face, talk through or on-behalf-of)
@@ -276,6 +295,7 @@ You’ll need to discuss:
 
 ##Analysing performance data and KPIs for your assisted digital support
 You’ll have to discuss:
+
 * who in the team is responsible for identifying data that you can use to improve your assisted digital support and who’ll will do this once the service is live
 * the metrics and data sources you’ve chosen to measure your assisted digital support and its performance, and why
 * how you’ll measure performance of your service’s assisted digital support in future
