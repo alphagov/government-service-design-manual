@@ -26,9 +26,11 @@ Tracking user satisfaction can help make sure the changes you make are improving
 
 ## How to measure user satisfaction
 
-1. Get a feedback page on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/)
+1. Get a [Feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages.html) on GOV.UK -- [request a content change](https://support.production.alphagov.co.uk/)
 2. Add links from your service to the feedback page (more details below)
 3. Use the [Feedback Explorer](https://support.production.alphagov.co.uk/anonymous_feedback/explore) to see feedback on your service
+
+![A Feedback page on GOV.UK](/service-manual/assets/images/feedback-page.png)
 
 ## Measure satisfaction across the whole service
 
@@ -38,7 +40,7 @@ You must prompt users to give feedback at service endpoints. In the example abov
 
 You must also allow users to give feedback from anywhere in the service, in case anything goes wrong.
 
-And you must be able to show that you’re collecting user satisfaction data appropriately at your [Service Assessment](https://www.gov.uk/service-manual/digital-by-default/assessments-at-gds.html).
+And you must be able to show that you’re collecting user satisfaction data appropriately at your [Service Assessment](/service-manual/digital-by-default/assessments-at-gds.html).
 
 ## Prompt users to give feedback at service endpoints
 
@@ -50,7 +52,7 @@ Add a feedback link to all your service endpoints, for example:
 
 ## What pattern to use
 
-We recommend the following pattern to link to the feedback page:
+We recommend the following pattern to link to the [Feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages.html):
 
 > [What did you think of this service?]() (takes 30 seconds)
 
@@ -66,7 +68,7 @@ If the service endpoint is an email or a letter, use the following pattern:
 
 Add a ‘Feedback’ link to the footer on every page of your service.
 
-You can also link to the feedback page from your alpha or beta banner.
+You can also link to the Feedback page from your alpha or beta banner.
 
 This is a courtesy to your users -- if they have something to tell you, they should be able to do so. And it will help make our services better.
 
