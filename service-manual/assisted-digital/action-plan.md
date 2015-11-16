@@ -259,6 +259,7 @@ Before your service can go fully live on the GOV.UK domain, it must pass a live 
 To pass the live assessment, you must be able to show how you’ve built upon each phase - from discovery to alpha to the beta phases.
 
 You may need to discuss the following topics:
+
 * your user research, user testing and your service team
 * how you designed the assisted digital support elements of your service
 * how you analysed performance data and KPIs for your assisted digital support
