@@ -13,23 +13,35 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-The confirmation page should be the last page of the transaction.
+{:.intro}
+A confirmation page lets someone know they’ve completed a transaction and explains to them what will happen next, including any steps they need to take.
 
-These pages should let the user know:
+<div class="example">
+  <img src="/service-manual/assets/images/design-patterns/confirmation-page.png" alt="An example of a confirmation page">
+</div>
 
-* that they have successfully completed the transaction
-* their reference number if there is one
-* what further actions they need to perform, and when
-* what further actions they can expect from the service, and when
-* who they should contact with any queries or complaints
-* about any related information and services
+<h2 class="heading-36" id="section-1">Guidance</h2>
 
-Use this pattern to link to the [feedback page](/service-manual/user-centred-design/resources/patterns/feedback-pages) for the service:
+The page should include:
 
-> [What did you think of this service?]() (takes 30 seconds)
+* a reference number (if there is one)
+* details of what happens next and when
+* any actions the user needs to perform
+* contact details for the service
+* links to related information and services
+* a prompt to give [feedback](/service-manual/user-centred-design/resources/patterns/feedback-pages) on the service
+* a way of saving a record of the transaction (eg as a PDF)
 
-> `<p><a href=“https://www.gov.uk/done/name-of-your-service”>What did you think of this service?</a> (takes 30 seconds)</p>`
 
----
+<h2 class="heading-36" id="section-1">Implementation</h2>
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Transaction-end-pages-xkOPGx6R1iM)
+An example [confirmation page template](http://govuk-prototype-kit.herokuapp.com/examples/confirmation) is now available in the [GOV.UK Prototyping Kit](https://github.com/alphagov/govuk_prototype_kit).
+
+
+<h2 class="heading-36" id="section-1">Research</h2>
+
+You can help improve this pattern by sharing any relevant research on the [GOV.UK design patterns wiki](https://designpatterns.hackpad.com/Transaction-end-pages-xkOPGx6R1iM).
+
+
+
+
