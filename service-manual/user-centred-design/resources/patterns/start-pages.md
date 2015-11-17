@@ -27,7 +27,9 @@ Start pages consist of:
 <div class="example">
   <div class="inner-block">
 
-    <img src="/service-manual/assets/images/design-patterns/start-page.png" alt="Example of a start page" />
+    <a href="http://govuk-prototype-kit.herokuapp.com/examples/start-page">
+      <img src="/service-manual/assets/images/design-patterns/start-page.png" alt="Example of a start page" />
+    </a>
 
   </div>
 </div>
