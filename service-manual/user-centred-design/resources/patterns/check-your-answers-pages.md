@@ -52,5 +52,5 @@ You can help by researching the following questions:
 - what effect does the wording, styling and position of the ‘Change’ links have on their usage?
 - for long, multi-section transactions, do we need one of these pages at the end of each section?
 
-[Update the Hackpad with your findings]()
+[Update the Hackpad with your findings](https://designpatterns.hackpad.com/Check-Your-Answers-page-2DSpTH9J0wU)
 
