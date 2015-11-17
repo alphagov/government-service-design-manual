@@ -17,7 +17,9 @@ breadcrumbs:
 A confirmation page lets someone know they’ve completed a transaction and explains to them what will happen next, including any steps they need to take.
 
 <div class="example">
-  <img src="/service-manual/assets/images/design-patterns/confirmation-page.png" alt="An example of a confirmation page">
+  <a href="http://govuk-prototype-kit.herokuapp.com/examples/confirmation-page">
+    <img src="/service-manual/assets/images/design-patterns/confirmation-page.png" alt="An example of a confirmation page">
+  </a>
 </div>
 
 <h2 class="heading-36" id="section-1">Guidance</h2>
