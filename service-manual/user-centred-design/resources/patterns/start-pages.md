@@ -116,7 +116,9 @@ the start page can only be published after both:
 
 You can help improve this pattern by researching the following:
 
-- how effective is the copy below the green button?
+- how much do people read on these pages?
+- positioning of content above or below the button?
+- does the button style encourage people to not read?
 - what are the most important eligibility requirements to state up front?
 - how should start pages be positioned with regards to related guidance?
 
