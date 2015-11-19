@@ -32,6 +32,14 @@ The two main benefits of summary pages are:
 to drop out of the transaction before completing it
 * **reduced error rates** - users are given a second chance to spot and correct errors before submitting the data
 
+
+---
+
+# Code
+
+There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/check-your-answers-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
+
+
 ---
 
 # Guidance
@@ -44,17 +52,13 @@ Don’t just write the questions and answers out as they were originally given. 
 
 The submit button should fully state the action it performs, eg ‘Change your tax details’ or ‘Send your claim form’. You don’t need an explicit declaration checkbox as long as it’s made clear what will happen.
 
----
-
-# Code
-
-There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/check-your-answers-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
 ---
 
 # Accessibility
 
 Add hidden text to the ‘Change’ links, so that they make sense when read out of content by screen readers.
+
 
 ---
 
@@ -64,6 +68,7 @@ These pages play back information entered by your users. In some cases you might
 
 Each service is different. Work with your security team to make sure that there’s an acceptable level of risk.
 
+
 ---
 
 # Research
@@ -71,7 +76,7 @@ Each service is different. Work with your security team to make sure that there�
 You can help improve this pattern by researching the following:
 
 - what effect does the wording, styling and position of the ‘Change’ links have on their usage?
-- for long, multi-section transactions, do we need one of these pages at the end of each section?
+- for long, multi-section transactions, do people need one of these pages at the end of each section, or just at the end of the whole transaction?
 
 [Update the Hackpad with your findings](https://designpatterns.hackpad.com/Check-Your-Answers-page-2DSpTH9J0wU)
 
