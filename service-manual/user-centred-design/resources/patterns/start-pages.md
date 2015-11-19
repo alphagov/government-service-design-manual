@@ -17,6 +17,9 @@ breadcrumbs:
 Start pages are how people access transactions on GOV.UK. All services on GOV.UK must have a start page.
 
 
+Status: [Research required](#research)
+
+
 Start pages consist of:
 
 1. the name of the service
@@ -33,6 +36,15 @@ Start pages consist of:
 
   </div>
 </div>
+
+
+# Code
+
+There's a [start page template](http://govuk-prototype-kit.herokuapp.com/examples/start-page) in the [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit).
+
+---
+
+# Guidance
 
 
 ### 1. Service name
@@ -68,16 +80,16 @@ There’s no need to mention something that most users will already know or assu
 
 Don't try to get across complex eligibility criteria. Instead, deal with these inside the service itself.
 
+---
 
-## Examples on GOV.UK
+# Examples on GOV.UK
 
 
 * [Register to vote start page](https://www.gov.uk/register-to-vote)
 
+---
 
-## Implementing start pages
-
-There's a [start page template](http://govuk-prototype-kit.herokuapp.com/examples/start-page) in the [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit). This will help you test your service end-to-end during the alpha phase.
+# Getting a start page on GOV.UK 
 
 When you're close to your beta launch, [contact the GOV.UK content team](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page.
 
@@ -100,4 +112,15 @@ the start page can only be published after both:
 
 ---
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Transaction-start-pages-8fitVQYufJX)
+# Research
+
+You can help improve this pattern by researching the following:
+
+- how effective is the copy below the green button?
+- what are the most important eligibility requirements to state up front?
+- how should start pages be positioned with regards to related guidance?
+
+
+[Update the Hackpad with your findings](https://designpatterns.hackpad.com/Transaction-start-pages-8fitVQYufJX)
+
+
