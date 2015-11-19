@@ -47,7 +47,7 @@ For a visual style guide, including front-end code snippets, see the <br>
 # Transaction flow
 * [Progress indicators](/service-manual/user-centred-design/resources/patterns/progress-indicators.html)
 * [Start pages](/service-manual/user-centred-design/resources/patterns/start-pages.html)
-* [Summary pages](/service-manual/user-centred-design/resources/patterns/summary-pages.html)
+* [Check your answers pages](/service-manual/user-centred-design/resources/patterns/check-your-answers-pages.html)
 * [Confirmation pages](/service-manual/user-centred-design/resources/patterns/confirmation-pages.html)
 * [Feedback pages](/service-manual/user-centred-design/resources/patterns/feedback-pages.html)
 * [Form structure](/service-manual/user-centred-design/resources/patterns/form-structure.html)
