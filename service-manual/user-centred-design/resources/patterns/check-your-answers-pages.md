@@ -14,15 +14,25 @@ breadcrumbs:
 ---
 
 {:.intro}
-Use these at the end of a transaction to play back to users the information they have provided.
+Use these to play back to users the information they have provided, before they submit it.
 
-Seeing the information reassures people that the service is working and gives them an opportunity to check for errors and reflect on their answers.
+Status: [Research required](#research)
+
+<br>
 
 <div class="example">
   <a href="http://govuk-prototype-kit.herokuapp.com/examples/check-your-answers-page">
     <img src="/service-manual/assets/images/design-patterns/check-your-answers-page.png" alt="An example of a check your answers page">
   </a>
 </div>
+
+The two main benefits of summary pages are:
+
+* **increased completion rates** - users are reassured that the correct data has been captured so are less likely
+to drop out of the transaction before completing it
+* **reduced error rates** - users are given a second chance to spot and correct errors before submitting the data
+
+---
 
 # Guidance
 
@@ -32,22 +42,33 @@ Provide links back to the pages containing information they can change. The user
 
 Don’t just write the questions and answers out as they were originally given. Reword them for this particular format and context. For example, the individual elements of an address do not need labelling, and long questions can often be rewritten as shorter statements.
 
-Make it clear what will happen when the user clicks the button at the bottom of the screen. You don’t need an explicit declaration checkbox as long as it’s made clear what will happen.
+The submit button should fully state the action it performs, eg ‘Change your tax details’ or ‘Send your claim form’. You don’t need an explicit declaration checkbox as long as it’s made clear what will happen.
 
+---
 
-# Implementation
+# Code
 
 There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/check-your-answers-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
+---
 
 # Accessibility
 
 Add hidden text to the ‘Change’ links, so that they make sense when read out of content by screen readers.
 
+---
+
+# Security
+
+These pages play back information entered by your users. In some cases you might need to obfuscate parts of the data to reduce the risk that it’s read by the wrong people.
+
+Each service is different. Work with your security team to make sure that there’s an acceptable level of risk.
+
+---
 
 # Research
 
-You can help by researching the following questions:
+You can help improve this pattern by researching the following:
 
 - what effect does the wording, styling and position of the ‘Change’ links have on their usage?
 - for long, multi-section transactions, do we need one of these pages at the end of each section?
