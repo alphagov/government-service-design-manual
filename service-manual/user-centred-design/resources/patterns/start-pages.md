@@ -14,16 +14,85 @@ breadcrumbs:
 ---
 
 {:.intro}
+Start pages are how people access transactions on GOV.UK. All services on GOV.UK must have a start page.
 
-All digital services that government provides must start (and end) on
-GOV.UK. A start page is one way that this may happen.
 
-Start pages are written by the mainstream business as usual (BAU) content
-team at GDS. The start page and the content in your service should
-complement each other.
+Status: [Research required](#research)
 
-Contact the team the [GOV.UK Support form](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page when you're close to
-your beta launch. You should include:
+
+Start pages consist of:
+
+1. the name of the service
+2. a short introduction
+3. a call to action button
+4. additional information
+
+<div class="example">
+  <div class="inner-block">
+
+    <a href="http://govuk-prototype-kit.herokuapp.com/examples/start-page">
+      <img src="/service-manual/assets/images/design-patterns/start-page.png" alt="Example of a start page" />
+    </a>
+
+  </div>
+</div>
+
+
+# Code
+
+There's a [start page template](http://govuk-prototype-kit.herokuapp.com/examples/start-page) in the [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit).
+
+---
+
+# Guidance
+
+
+### 1. Service name
+
+The name of the service should tell people what it lets them do and who it's for.
+
+Avoid acronyms and noun phrases. The best service names start with a verb, like "Pay your car tax".
+
+
+
+### 2. Short introduction
+
+This should be no more than a few lines.
+
+Focus on things that most users will definitely need to know. For example, costs, or required documents.
+
+There’s no need to mention something that people will already know or assume.
+
+Don't try to get across complex eligibility criteria. Instead, deal with these inside the service itself.
+
+
+### 3. Call to action button
+
+This button text should contain a clear call to action to start the service.
+
+If the service is not hosted on GOV.UK then this should be made clear.
+
+
+### 4. Additional information
+
+Use this to tell people about other ways that people can access the service.
+
+
+
+---
+
+# Examples on GOV.UK
+
+
+* [Register to vote start page](https://www.gov.uk/register-to-vote)
+
+---
+
+# Getting a start page on GOV.UK 
+
+When you're close to your beta launch, [contact the GOV.UK content team](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page.
+
+You should tell them:
 
 + what the service is and who it's for
 + what user needs it addresses
@@ -42,4 +111,17 @@ the start page can only be published after both:
 
 ---
 
-[Discuss this page on Hackpad](https://designpatterns.hackpad.com/Transaction-start-pages-8fitVQYufJX)
+# Research
+
+You can help improve this pattern by researching the following:
+
+- how much do people read on these pages?
+- positioning of content above or below the button?
+- does the button style encourage people to not read?
+- what are the most important eligibility requirements to state up front?
+- how should start pages be positioned with regards to related guidance?
+
+
+[Update the Hackpad with your findings](https://designpatterns.hackpad.com/Transaction-start-pages-8fitVQYufJX)
+
+
