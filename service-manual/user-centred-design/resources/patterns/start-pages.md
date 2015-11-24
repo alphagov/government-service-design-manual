@@ -25,7 +25,7 @@ Start pages consist of:
 1. the name of the service
 2. a short introduction
 3. a call to action button
-4. any additional information
+4. additional information
 
 <div class="example">
   <div class="inner-block">
@@ -57,8 +57,13 @@ Avoid acronyms and noun phrases. The best service names start with a verb, like 
 
 ### 2. Short introduction
 
-If you need to, include a few lines of SEO friendly introductory text.
+This should be no more than a few lines.
 
+Focus on things that most users will definitely need to know. For example, costs, or required documents.
+
+There’s no need to mention something that people will already know or assume.
+
+Don't try to get across complex eligibility criteria. Instead, deal with these inside the service itself.
 
 
 ### 3. Call to action button
@@ -70,15 +75,9 @@ If the service is not hosted on GOV.UK then this should be made clear.
 
 ### 4. Additional information
 
-Tell people about:
+Use this to tell people about other ways that people can access the service.
 
-* information or documents they will need to use the service
-* anything that will help them decide whether to use the service (eg how much it costs, how long it takes)
-* other ways that people can access the service
 
-There’s no need to mention something that most users will already know or assume.
-
-Don't try to get across complex eligibility criteria. Instead, deal with these inside the service itself.
 
 ---
 
