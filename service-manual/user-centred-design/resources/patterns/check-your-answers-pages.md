@@ -28,9 +28,9 @@ Status: [Research required](#research)
 
 The two main benefits of summary pages are:
 
-* **increased completion rates** - users are reassured that the correct data has been captured so are less likely
+- **increased completion rates** -- users are reassured that the correct data has been captured so are less likely
 to drop out of the transaction before completing it
-* **reduced error rates** - users are given a second chance to spot and correct errors before submitting the data
+- **reduced error rates** -- users are given a second chance to spot and correct errors before submitting the data
 
 
 ---
