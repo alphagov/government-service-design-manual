@@ -14,7 +14,9 @@ breadcrumbs:
 ---
 
 {:.intro}
-Start pages are how people access transactions on GOV.UK. All services on GOV.UK must have a start page.
+All digital UK government services must start on GOV.UK and be findable by search engines.
+
+Linking to services is managed by GDS, typically by using a start page.
 
 
 Status: [Research required](#research)
@@ -26,6 +28,7 @@ Start pages consist of:
 2. a short introduction
 3. a call to action button
 4. additional information
+
 
 <div class="example">
   <div class="inner-block">
@@ -118,6 +121,7 @@ You can help improve this pattern by researching the following:
 - how much do people read on these pages?
 - positioning of content above or below the button?
 - does the button style encourage people to not read?
+- does the button wording put some users off?
 - what are the most important eligibility requirements to state up front?
 - how should start pages be positioned with regards to related guidance?
 
