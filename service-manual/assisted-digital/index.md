@@ -54,9 +54,11 @@ Assisted digital support must include advice on how to use the digital service. 
 ## Who needs assisted digital support
 Every service will have a different proportion of users who need assisted digital support. You will need to [carry out user research to understand your users](/service-manual/assisted-digital/assisted-digital-user-research), including users of your specific service with the lowest levels of digital skills.
 
-[The BBC Media Literacy study](http://www.bbc.co.uk/learning/overview/assets/digital_capabilities_2014.pdf) (2014) found that 20% of UK adults (around 10.5 million people) lack the four basic online skills, defined as the ability to send and receive emails, use a search engine, browse the internet, and fill out an online application form. [2014 ONS figures](http://www.ons.gov.uk/ons/rel/rdit2/internet-access---households-and-individuals/2014/stb-ia-2014.html) state that 13% of UK adults had not used the internet at all in the last 3 months.
+[The Go ON UK Basic Digital Skills report](https://goon-uk-prod.s3-eu-west-1.amazonaws.com/uploads/Basic%20Digital%20Skills_UK%20Report%202015_131015_FINAL.pdf) (2015) found that 23% of UK adults (around 12.6 million people) lack [basic digital skills as defined by Go ON UK](http://www.go-on.co.uk/get-involved/basic-digital-skills/). 
 
-And [Lloyds Bank UK Business Digital Index 2014](http://resources.lloydsbank.com/economic-research/uk-business-digital-index-2014/) found that 1 in 3 SMEs and charities also lack basic online skills.
+[2015 ONS figures](http://www.ons.gov.uk/ons/rel/rdit2/internet-users/2015/stb-ia-2015.html) state that 11% of UK adults had not used the internet at all in the last 3 months.
+
+And [Lloyds Bank UK Business Digital Index 2015](http://resources.lloydsbank.com/insight/uk-business-digital-index/) found that 1 in 3 SMEs and charities also lack basic online skills.
 
 Assisted digital support needs to be available to service users in Britain, or British citizens who are living overseas, who cannot access or complete a user journey on their own, such as:
 
