@@ -109,7 +109,7 @@ Each relying party will need to go through the programme’s induction process. 
 3. Planning -- complete a readiness assessment. Agree a detailed plan setting out what the service and GDS will each do and when. Get internal approvals within GDS and the relying party's organisation.
 4. Connect to hub -- agree a memorandum of understanding between the GOV.UK Verify Programme and the department responsible for the service.
 
-Government providers of digital services that want to find out more about GOV.UK Verify, with a view to becoming relying parties, should contact [Janet Hughes](mailto:janet.hughes@digital.cabinet-office.gov.uk).
+Government providers of digital services that want to find out more about GOV.UK Verify, with a view to becoming relying parties, should contact [Jess McEvoy](mailto:govukverify_engagement@digital.cabinet-office.gov.uk).
 
 ## How to match assured identities to service records
 
