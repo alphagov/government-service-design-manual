@@ -29,7 +29,7 @@ Status: [Research required](#research)
 
 # Code
 
-There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/confirmation) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
+There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/confirmation-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
 ---
 
