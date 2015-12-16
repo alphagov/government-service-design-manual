@@ -14,8 +14,9 @@ breadcrumbs:
 ---
 
 {:.intro}
-Start pages are how people access transactions on GOV.UK. All services on GOV.UK must have a start page.
+All services must have a starting point on GOV.UK, unless they're 'invitation only' services.
 
+Usually (but not always), this will mean asking the GOV.UK content team to create a GOV.UK start page.
 
 Status: [Research required](#research)
 
@@ -90,9 +91,9 @@ Use this to tell people about other ways that people can access the service.
 
 # Getting a start page on GOV.UK 
 
-When you're close to your beta launch, [contact the GOV.UK content team](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page.
+Well before your beta launch, [contact the GOV.UK content team](https://support.production.alphagov.co.uk/new_feature_request/new).
 
-You should tell them:
+Tell them:
 
 + what the service is and who it's for
 + what user needs it addresses
@@ -103,8 +104,10 @@ You should tell them:
 + a demo URL (with a username and password if necessary)
 + when the service is expected to pass its beta assessment
 
+They will either create a start page for you - or if that's not the best way of meeting the user need, recommend another way of joining up your service with the rest of GOV.UK.
+
 Factor in time it'll take for the content to be written and fact-checked -
-the start page can only be published after both:
+a start page can only be published after both:
 
 + the service passes its [beta assessment](https://www.gov.uk/service-manual/phases/beta.html) or self-certification
 + the service goes live
