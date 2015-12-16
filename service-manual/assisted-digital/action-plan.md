@@ -107,7 +107,7 @@ You’ll need to discuss:
   * they include people who will seek assisted digital support from third parties (like friends and family, colleagues, companies, charities or trade bodies)
 * how your recruitment and research methods are appropriate for reaching users most likely to need assisted digital support
 * the user needs you’ve identified for users who need assisted digital support
-* the stories, personas, profiles or other ways of telling the stories of users who will need assisted digital support do you have
+* the stories, personas, profiles or other ways you're describing users who will need assisted digital
 
 ###Your user research and usability testing plans
 You’ll need to discuss:
