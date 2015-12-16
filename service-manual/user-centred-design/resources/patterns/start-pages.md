@@ -14,7 +14,9 @@ breadcrumbs:
 ---
 
 {:.intro}
-All services must have a starting point on GOV.UK. Usually (but not always), the best way to do this is to ask the GOV.UK content team to create a start page.
+All services must have a starting point on GOV.UK, unless they're 'invitation only' services.
+
+Usually (but not always), this will mean asking the GOV.UK content team to create a GOV.UK start page.
 
 Status: [Research required](#research)
 
@@ -102,7 +104,7 @@ Tell them:
 + a demo URL (with a username and password if necessary)
 + when the service is expected to pass its beta assessment
 
-They will either create a start page for you - or if that's not the best way of meeting the user need, recommend another way of joining up your service with GOV.UK.
+They will either create a start page for you - or if that's not the best way of meeting the user need, recommend another way of joining up your service with the rest of GOV.UK.
 
 Factor in time it'll take for the content to be written and fact-checked -
 a start page can only be published after both:
