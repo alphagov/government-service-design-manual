@@ -23,7 +23,7 @@ Government offers a number of different digital services to citizens. While the 
 
 ## One entry point
 
-Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK -- for instance, the DVLA’s tax disc service is at [https://www.gov.uk/tax-disc](https://www.gov.uk/tax-disc).
+Every digital service offered by the UK government MUST have a single, well-known place on the internet where users can go to when they want to use the service. That well-known place will be the relevant start page on GOV.UK -- for instance, the DVLA’s vehicle tax service is at [https://www.gov.uk/vehicle-tax](https://www.gov.uk/vehicle-tax).
 
 Service managers MUST NOT advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets printed in literature and used in email signatures, TV adverts etc.
 
@@ -35,9 +35,9 @@ The transactional part of a service -- the dynamically generated pages where use
 
 > Note: This does not apply to the set of interactive tools on GOV.UK known as 'smart answers' which are developed and maintained by GDS in partnership with other government departments.
 
-For all new digital government services going live from 1 April 2013 GDS will create a domain name of the form `servicename.service.gov.uk` (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
+For all new digital government services GDS will create a domain name of the form `servicename.service.gov.uk` (where "servicename" is a plain English description of the service agreed between the relevant dept/agency and the Government Digital Service). This will introduce consistency across central government domains for digital services and remove the dependency on departmental subdomains (which are of course vulnerable to machinery of government changes) and the now-retired DirectGov and BusinessLink online brands.
 
-The process of obtaining a `service.gov.uk` subdomain begins either when the service manager asks a Government Digital Service product manager for a start page on GOV.UK (for services already under development as of 13 March 2013) or when the service manager asks for a subdomain to be created via the GOV.UK service desks’s government contact form (for services where development starts after 13 March 2013).  Subdomains of `service.gov.uk` SHOULD describe the service (eg `lastingpowerofattorney.service.gov.uk`) and should not contain the name of the service owning department or agency (eg `ministryofmagicwandregistration.service.gov.uk`)
+The process of obtaining a `service.gov.uk` subdomain begins when the service manager emails [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk).  Subdomains of `service.gov.uk` SHOULD describe the service (eg `lastingpowerofattorney.service.gov.uk`) and should not contain the name of the service owning department or agency (eg `ministryofmagicwandregistration.service.gov.uk`)
 
 The service-owning dept/agency will be given delegated authority to manage the domain and its subdomains, although in some cases this work will be carried out by third party suppliers.
 

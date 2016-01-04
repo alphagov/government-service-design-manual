@@ -22,7 +22,7 @@ breadcrumbs:
 
 ## Where services live on the web
 
-Every digital service offered by the UK government must have a single, well-known place on the web where users can locate and use the service. For public-facing services that will be the relevant start page on GOV.UK -- for instance, the DVLA’s tax disc service is at https://www.gov.uk/tax-disc.
+Every digital service offered by the UK government must have a single, well-known place on the web where users can locate and use the service. For public-facing services that will be the relevant start page on GOV.UK -- for instance, the DVLA’s vehicle tax service is at https://www.gov.uk/vehicle-tax.
 
 Service Managers must not advertise any URL other than that of the GOV.UK start page as the starting point for the relevant service. This is what gets advertised, whether digitally or in other media.
 
