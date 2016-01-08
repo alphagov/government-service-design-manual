@@ -154,7 +154,7 @@ So, when working with third parties, Avoid contracts that:
 * allow third parties to retain ownership of IP in software that’s been developed for government
 * restrict government’s ability to share software under a permissive, GPL-compatible open source licence
 
-On other occasions a team may take a risk-based decision not to share some of the software they‘ve created, eg to avoid exposing the details of a particular risk-assessment algorithm or process to the public.
+On other occasions a team may take a risk-based decision not to share some of the software they‘ve created, eg to avoid exposing the details of a particular algorithm or process to the public.
 
 It’s good engineering practice in any case to encapsulate software, and so often in this situation a large portion of the software for a given system or service can still be shared in public.
 
