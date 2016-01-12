@@ -51,7 +51,7 @@ If people can avoid creating an account at all -- even better.
 
 For consistency with other GOV.UK services, use the phrase ‘Create an account’ on the appropriate screens rather than ‘Register’, ‘Sign-up’ or something else.
 
-Similarly, use labels like ‘Create a username’ and ‘Create a password’ rather than ‘Username’ and ‘Password’, so people understand that they're not being asked enter existing ones. 
+Similarly, use labels like ‘Create a username’ and ‘Create a password’ rather than ‘Username’ and ‘Password’, so people understand that they're not being asked to enter existing ones.
 
 ---
 
