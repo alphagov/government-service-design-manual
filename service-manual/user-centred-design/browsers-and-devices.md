@@ -48,7 +48,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
     <th scope="row" rowspan="4">Windows</th><td>Internet Explorer 8+</td><td>Compliant</td>
   </tr>
   <tr>
-    <td>Internet Explorer 7</td><td>Functional</td>
+    <td>Edge (latest version)</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome (latest version)</td><td>Compliant</td>
@@ -57,7 +57,7 @@ Two distinct levels of support are given and denoted next to each browser. Where
     <td>Mozilla Firefox (latest version)</td><td>Compliant</td>
   </tr>
   <tr>
-    <th scope="row" rowspan="3">Mac OS X</th><td>Safari 7+</td><td>Compliant</td>
+    <th scope="row" rowspan="3">Mac OS X</th><td>Safari 8+</td><td>Compliant</td>
   </tr>
   <tr>
     <td>Google Chrome (latest version)</td><td>Compliant</td>
