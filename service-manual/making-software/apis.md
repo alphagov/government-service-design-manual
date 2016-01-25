@@ -63,13 +63,7 @@ Consider creating URLs for different granularity of resources. For example, `/me
 These principles enable network effects which arise through linking and allow information published beyond the web, sent in alerts email, SMS, XMPP and other messages, to link back to the canonical content on the web.
 
 ### Use HTTP methods as Tim intended
-Ensure all [HTTP GET](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html) and actions which change state are conducted using a [POST](https://en.wikipedia.org/wiki/POST_(HTTP)), PUT or DELETE method.
-
-Use PUT and DELETE with caution, as they are commonly blocked by firewalls,
-intranet proxies, hotel Wi-Fi and mobile operators: always offer a POST
-alternative.
-
-Avoid HTTP methods which are not well defined, such as PATCH.
+Ensure all [HTTP GET](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) requests are [safe](http://www.w3.org/2001/tag/doc/whenToUseGet.html) and actions which change state are conducted using a [POST](https://en.wikipedia.org/wiki/POST_(HTTP)), PUT, PATCH or DELETE method.
 
 ### Representations are for the consumer
 Offer content for each thing as a human-readable HTML, with links to content in alternative machine-readable representations:
