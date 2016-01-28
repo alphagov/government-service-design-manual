@@ -65,6 +65,10 @@ You will leave the discovery phase with:
 * understanding of existing services, including those run by non-government sources
 * understanding of how many of your users will need assisted digital support, and what their user needs are
 
+## See Also
+
+The [Australian Digital Transformation Office](https://www.dto.gov.au/) has written in [more detail about their Discovery process](http://ausdto.github.io/discovery-guide/).
+
 {:.phase-nav}
 * **[Next phase: alpha](/service-manual/phases/alpha.html)**
 
