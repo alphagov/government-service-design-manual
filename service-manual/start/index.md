@@ -50,14 +50,8 @@ And the [Digital by Default Service Standard](/service-manual/digital-by-default
 
 Another good way of finding out what's going on in the government around digital is through the [SPRINT initiative](https://gds.blog.gov.uk/sprint-14/), organised by the [Cabinet Office](/government/organisations/cabinet-office).
 
-At SPRINT13, Minister for the Cabinet Office Francis Maude discussed the [current landscape of digital within government](https://www.youtube.com/watch?v=pa07ltj4K4w). Watch that video below.
-
-<figure class="media-player-wrapper video">
-  <a href="https://www.youtube.com/watch?v=pa07ltj4K4w">Watch Francis Maude at SPRINT13</a>
-</figure>
-
-SPRINT 13 also saw a talk by [Stephen
-Kelly](https://www.gov.uk/government/people/stephen-kelly--2) in which he paints a picture of [what service redesign could mean for users](https://www.youtube.com/watch?v=X1A8cg__LpM).
+At SPRINT 13, [Stephen
+Kelly](https://www.gov.uk/government/people/stephen-kelly--2) gave a talk in which he paints a picture of [what service redesign could mean for users](https://www.youtube.com/watch?v=X1A8cg__LpM).
 
 <figure class="media-player-wrapper video">
   <a href="https://www.youtube.com/watch?v=X1A8cg__LpM">Watch Stephen Kelly at SPRINT13</a>
