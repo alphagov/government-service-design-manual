@@ -31,7 +31,7 @@ You'll need to think about user needs for digital and assisted digital users. As
 
 The high-level business context will become clear, and you'll begin setting targets for [your KPIs](/service-manual/measurement).
 
-You'll also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing process are in place for [replacing or decommissioning these](/service-manual/phases/retirement.html).
+You'll also get a better understanding of the legacy interfaces and infrastructure you must deal with, and what existing processes are in place for [replacing or decommissioning these](/service-manual/phases/retirement.html).
 
 This information is found through:
 
@@ -56,8 +56,8 @@ You will leave the discovery phase with:
 
 * a prioritised list of [user needs](/service-manual/user-centred-design/user-needs.html)
 * a prioritised list of [story cards](/service-manual/agile/writing-user-stories.html) to feed into project teams
-* understanding of [team](/service-manual/the-team) and capability required to complete the project
-* ability to scope and plan an [alpha](/service-manual/phases/alpha.html)
+* an understanding of the [team](/service-manual/the-team) and the capabilities required to complete the project
+* the ability to scope and plan an [alpha](/service-manual/phases/alpha.html)
 * a decision to progress to next phase
 * maybe some rough prototypes
 * maybe some user personas
