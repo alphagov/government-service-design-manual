@@ -19,7 +19,7 @@ breadcrumbs:
 {:.intro}
 When designing a service it's impossible to predict everything upfront. Each project features many challenges, and in your alpha you will start exploring solutions for these.
 
-You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centred-design/working-with-prototypes) and possible solutions for your [users needs](/service-manual/user-centred-design/user-needs).
+You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centred-design/working-with-prototypes) and possible solutions for your [users‘ needs](/service-manual/user-centred-design/user-needs).
 
 By the end of the alpha you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta). The whole phase should not last longer than about 6 to 8 weeks.
 
@@ -30,13 +30,13 @@ By the end of the alpha you should have a clear idea of what's required to build
 The objective is to build a working prototype. This will be used by stakeholders or a closed group of end users to:
 
 * gain greater understanding of a service
-* test [design approach](/service-manual/user-centred-design/working-with-prototypes)
+* test your [design approach](/service-manual/user-centred-design/working-with-prototypes)
 * test some [technologies](/service-manual/making-software/choosing-technology)
 * begin to form [the team](/service-manual/the-team)
 * gain shared understanding of the service at a coding and integrations level
 * understand what or who you will need to deliver a [beta](/service-manual/phases/beta)
 
-Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open, engagement process with your stakeholders. Involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
+Continue to build upon and analyse the research you have commissioned on user needs and use this to set up an open engagement process with your stakeholders. Involve a wide range of stakeholders from the private, voluntary and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
 
 Following demonstration of your alpha, you may choose to discard the code and start fresh in the [beta](/service-manual/phases/beta). If, however, your code is effective you may continue to iterate against your prototype.
 
@@ -50,7 +50,7 @@ Think of it as a proof of concept:
 
 * is the solution appropriate?
 * is your approach viable?
-* do you have enough understanding of your users' needs to meet them?
+* do you have enough understanding of your users‘ needs to meet them?
 
 If not, find out more and make a new prototype.
 
@@ -66,13 +66,13 @@ This core team will be a mix of stakeholders, and makers (designers and develope
 
 The outputs for the alpha phase are:
 
-* high level [story cards](/service-manual/agile/writing-user-stories)
-* plan for [beta](/service-manual/phases/beta) and running of the [live](/service-manual/phases/live) service (decreasingly detailed)
-* working basic system that provides limited functionality that can be shown to a number of users
-* understanding around legacy systems to replace or wrap or integrate with
+* a high level [story cards](/service-manual/agile/writing-user-stories)
+* a plan for [beta](/service-manual/phases/beta) and the running of the [live](/service-manual/phases/live) service (decreasingly detailed)
+* a working basic system that provides limited functionality that can be shown to a number of users
+* an understanding around legacy systems to replace or wrap or integrate with
 * cross-functional requirements
-* decision to progress to [beta phase](/service-manual/phases/beta)
-* final analysis on the research you have commissioned on user needs
+* a decision to progress to the [beta phase](/service-manual/phases/beta)
+* a final analysis on the research you have commissioned on user needs
 * options for the assisted digital support for your service
 
 ## An ideal alpha
