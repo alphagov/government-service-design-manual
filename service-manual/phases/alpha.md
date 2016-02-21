@@ -19,7 +19,7 @@ breadcrumbs:
 {:.intro}
 When designing a service it's impossible to predict everything upfront. Each project features many challenges, and in your alpha you will start exploring solutions for these.
 
-You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centred-design/working-with-prototypes) and possible solutions for your [users needs](/service-manual/user-centred-design/user-needs).
+You may need to bring more [developers](/service-manual/the-team/developer) and [designers](/service-manual/the-team/designer) into [the team](/service-manual/the-team), who will help you to build and test [prototypes](/service-manual/user-centred-design/working-with-prototypes) and possible solutions for your [users' needs](/service-manual/user-centred-design/user-needs).
 
 By the end of the alpha you should have a clear idea of what's required to build a [beta](/service-manual/phases/beta). The whole phase should not last longer than about 6 to 8 weeks.
 
