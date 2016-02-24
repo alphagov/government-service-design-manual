@@ -132,7 +132,7 @@ Many suppliers offer IP forwarding DDOS protection, which does not have the same
 
 Emails to users of your service SHOULD be sent from a human-monitored email address that originates from the domain `servicename.service.gov.uk` (and not the dept/agency or any other domain name).
 
-You SHOULD enable [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) on the sending domain. You MAY also want to use [DKIM](http://www.dkim.org/) on the sending domain; it can provide additional guarantees about message authenticity and help recipients to more easily distinguish genuine mail from forgery.
+You SHOULD apply the [Common Technology Services email blueprint](https://www.gov.uk/guidance/common-technology-services-cts-secure-email-blueprint) on the sending domain, including implementing [Domain-based Message Authentication, Reporting and Conformance (DMARC)](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc).
 
 ## Lifecycle of service subdomains
 
