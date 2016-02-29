@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Agile
     url: /service-manual/agile
+exclude_from_search: true
 ---
 
 Some common features of the agile development methods we’ve used at GDS.

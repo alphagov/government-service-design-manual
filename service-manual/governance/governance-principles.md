@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Governance
     url: /service-manual/governance
+exclude_from_search: true
 ---
 
 GDS has defined 6 principles for governing service delivery. Following them should help you create the right culture within your service. They are:

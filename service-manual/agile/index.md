@@ -17,6 +17,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 Agile methodologies will help you and your team to build world-class, user-centred services quickly and affordably. 

@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Governance
     url: /service-manual/governance
+exclude_from_search: true
 ---
 
 Teams using agile approaches often manage their work on a wall in their work area. The wall creates a physical focus for the team and for collaboration -- people gather round it at their daily stand-up and refer to and update it during the day. This lets them collaborate effectively with each other and shows the status of their work to anyone who looks at the wall. This is called ‘visual management’. 

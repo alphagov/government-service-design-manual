@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: Agile
     url: /service-manual/agile
+exclude_from_search: true
 ---
 
 Agile can be a liberating way of working. It won’t stop you from using existing skills and knowledge, but it will require your team, users and stakeholders to start working together in new ways.
