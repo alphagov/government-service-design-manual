@@ -85,6 +85,7 @@ The following keys are used throughout:
 | `audience: secondary:` | | Secondary audience. Link to page will appear in bottom half of audience index |
 | `phases:` | `discovery`, `alpha`, `beta`, `live` | An array of values. Adds links to page header and lists pages in relevant phase page |
 | `breadcrumbs:` | An array of objects with `title:` and `url:` values | Adds a breadcrumb trail to the top of the page |
+| `exclude_from_search:` | `true` | Exclude the page from search. The default behaviour is to include the page in search. |
 
 Index page meta data
 --------------------
