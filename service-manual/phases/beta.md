@@ -17,13 +17,13 @@ breadcrumbs:
 ---
 
 {:.intro}
-You've tested your solutions to [user needs](/service-manual/user-centred-design/user-needs) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end prototype, test it in public and prepare to run it.
+You've tested your solutions to [user needs](/service-manual/user-centred-design/user-needs) and built up a clear picture of what it will take to [build](/service-manual/making-software) and [operate](/service-manual/operations) your service. Now you will build an end-to-end service, test it in public and prepare to go live.
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=s0l8HauO_PM">Watch Martyn Inglis, GDS technical architect, describe what happens during the beta phase.</a></figure>
 
 ## The objective of a beta
 
-The objective of this phase is to build a fully working prototype which you test with users. You'll continuously improve on the prototype until it's ready to go live, replacing or integrating with any existing services.
+The objective of this phase is to build a fully working service which you test with users. You'll continuously improve on the service until it's ready to go live, replacing or integrating with any existing services.
 
 This is achieved by providing the [user stories](/service-manual/agile/writing-user-stories) in the backlog created in the [alpha phase](/service-manual/phases/alpha). This is the time to resolve any outstanding technical or process-related challenges, get the service [accredited](/service-manual/making-software/information-security) and plan to [go live](/service-manual/phases/live).
 
@@ -64,7 +64,7 @@ You'll now know [what size team](/service-manual/the-team) you need to create th
 ## Outputs
 At the end of the beta phase, you'll have:
 
-* delivered a (private or public) end-to-end prototype of the service
+* delivered a (private or public) end-to-end service
 * a collection of prioritised work to be done (your backlog)
 * a [user testing plan](/service-manual/user-centred-design/user-research)
 * [accurate metrics and measurements](/service-manual/measurement) to monitor your KPIs
