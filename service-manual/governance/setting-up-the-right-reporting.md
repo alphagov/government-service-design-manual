@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Governance
     url: /service-manual/governance
+exclude_from_search: true
 ---
 
 ###Getting started

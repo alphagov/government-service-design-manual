@@ -17,6 +17,7 @@ breadcrumbs:
   -
     title: The team
     url: /service-manual/the-team
+exclude_from_search: true
 ---
 
 Working spaces for digital projects will vary, but there are some things you can do to ensure that the space you have available can be used in the way your team needs.

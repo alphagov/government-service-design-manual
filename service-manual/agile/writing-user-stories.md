@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: Agile
     url: /service-manual/agile
+exclude_from_search: true
 ---
 
 A user story briefly explains:
