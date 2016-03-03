@@ -74,5 +74,5 @@ Assurance should be done in line with the governance principles for digital serv
 
 **Get involved**
 
-To give feedback, make a suggestion or share your experience, use the [governance guidance hackpad](https://gds-governance-guidance.hackpad.com/Assurance-for-digital-services-mnH2GMxxMGD).
+To give feedback, make a suggestion or share your experience, use the [governance guidance hackpad](https://gds-governance-guidance.hackpad.com/Introduction-to-governance-for-service-delivery-KvxJZEmVmdb).
 
