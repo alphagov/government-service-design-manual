@@ -34,7 +34,7 @@ Browsers not listed may still work well, and it should be noted that this is not
 
 Services should ensure there's an obvious way for users to report problems they may find, and additional testing and adjustments should be made upon receiving such a report.
 
-Two distinct levels of support are given and denoted next to each browser: 'compliant' or 'functional'. Compliant means that the service should look as good in this browser as in other modern browsers. Functional means that while it might not look perfect the service is still usable. In both cases the user should be able to access the information they need or complete their service.
+Two distinct levels of support are given and denoted next to each browser: 'compliant' or 'functional'. Compliant means that the service should look and work as well in this browser as in other modern browsers. Functional means that while it might not look perfect the service is still usable. In both cases the user should be able to access the information they need or complete their service.
 
 Where 'latest version' is listed, it means the latest stable version plus one version back, as these browsers regularly update without intervention from the user.
 
