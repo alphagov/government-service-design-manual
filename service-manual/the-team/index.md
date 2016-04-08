@@ -14,6 +14,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 The right team needs to be in place to deliver a digital by default service. Teams are multidisciplinary, meet regularly, and often work close together to deliver rapid iterations of user-centred products.

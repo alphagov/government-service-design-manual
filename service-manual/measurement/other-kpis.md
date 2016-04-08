@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement
+exclude_from_search: true
 ---
 
 Your service must measure [the 4 key performance indicators](/service-manual/measurement/index.html).

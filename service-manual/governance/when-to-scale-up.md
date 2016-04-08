@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Governance
     url: /service-manual/governance
+exclude_from_search: true
 ---
 
 You should only consider scaling up when everyone is already working well together. Adding more people, particularly when done quickly, is likely to magnify any problems if the team isn’t working well.

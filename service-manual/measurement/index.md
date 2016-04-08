@@ -17,6 +17,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 It’s essential to measure how your service is performing, so you can make sure that your service continues to meet user needs in a cost-effective and efficient way.

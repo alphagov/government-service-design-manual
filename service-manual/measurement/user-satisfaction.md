@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement
+exclude_from_search: true
 ---
 
 Measuring user satisfaction helps you to gauge the overall quality of your service.

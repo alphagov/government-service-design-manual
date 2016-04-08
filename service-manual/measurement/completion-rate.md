@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement
+exclude_from_search: true
 ---
 
 Completion rate shows how many people manage to use the service successfully.
