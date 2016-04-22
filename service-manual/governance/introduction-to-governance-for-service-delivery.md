@@ -16,6 +16,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 ###What governance is and why we need it

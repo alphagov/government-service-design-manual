@@ -13,6 +13,7 @@ breadcrumbs:
   -
     title: The team
     url: /service-manual/the-team
+exclude_from_search: true
 ---
 
 ## Job description

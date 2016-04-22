@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement
+exclude_from_search: true
 ---
 
 Cost per transaction is an important measure of a service’s efficiency. As services become more efficient, the cost per transaction will fall.

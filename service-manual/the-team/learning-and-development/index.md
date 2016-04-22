@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: The team
     url: /service-manual/the-team
+exclude_from_search: true
 ---
 
 GDS offers 3 highly practical learning and development programmes so you can strengthen the skills, knowledge and network you will need to succeed in your digital role.

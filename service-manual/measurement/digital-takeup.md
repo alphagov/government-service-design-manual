@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement
+exclude_from_search: true
 ---
 
 Digital take-up is a long term strategic measure of how well digital by default service is working. You'll monitor this on a monthly basis to track that it's on course with the desired performance levels.

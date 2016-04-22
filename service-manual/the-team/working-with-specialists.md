@@ -17,6 +17,7 @@ breadcrumbs:
   -
     title: The team
     url: /service-manual/the-team
+exclude_from_search: true
 ---
 
 You may need specialist help to design, develop, build or improve your service. When buying in these services, there's support GDS may be able to provide.

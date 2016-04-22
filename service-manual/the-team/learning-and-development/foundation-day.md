@@ -22,6 +22,7 @@ breadcrumbs:
   -
     title: Learning and development
     url: /service-manual/the-team/learning-and-development
+exclude_from_search: true
 ---
 
 #Who should take part

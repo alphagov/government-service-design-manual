@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Measurement
     url: /service-manual/measurement/performance-platform
+exclude_from_search: true
 ---
 
 The [Performance Platform](https://www.gov.uk/performance) is for service
