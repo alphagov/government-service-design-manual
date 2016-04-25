@@ -72,7 +72,7 @@ The programme business case can be used for projects or programmes that have agi
 
 However, these still apply for large investment decisions involving lengthy public sector OJEU (Official Journal of the European Union) procurement processes. 
 
-There’s more information about this in the [HM Treasury clarification on business cases for agile](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent/agile-systems-projects-a-clarification-of-business-case-guidance).
+There’s more information about this in the [HM Treasury clarification on business cases for agile](https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-governent/agile-digital-and-it-projects-clarification-of-business-case-guidance).
 
 <hr>
 
