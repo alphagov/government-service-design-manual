@@ -88,10 +88,6 @@ Once you have decided on the questions that you want to be included, it is neces
 
 It is recommended that all surveys are tested thoroughly to ensure the correct data data is collected.
 
-## GDS Example
-
-[GOV.UK Survey](/service-manual/assets/documents/GOVUK-Survey.pdf) (PDF, 213KB)
-
 ## Further reading
 
 [University of Leeds -- Guide to design of questionnaires](http://iss.leeds.ac.uk/downloads/file/125/guide_to_the_design_of_questionnaires)
