@@ -38,7 +38,7 @@ module Jekyll
         {
           "_type"             => "manual_section",
           "organisations"     => ["government-digital-service"],
-          "manual"            => "service-manual",
+          "manual"            => "/service-manual",
           "title"             => "#{MANUAL_TITLE}: #{item.data['title'] || item.name}",
           "indexable_content" => page_paragraphs.join(" ").gsub("\r"," ").gsub("\n"," "),
           "description"       => extract_summary(site, item),
