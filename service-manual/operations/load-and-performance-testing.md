@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Operations
     url: /service-manual/operations
+exclude_from_search: true
 ---
 
 History is littered with countless government projects that collapsed under load or worked so slowly it frustrated users.

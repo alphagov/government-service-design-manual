@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 When creating web pages, the only part of a page that you can rely upon working is the HTML. Even that can fail, but without HTML there is no web page and everything else becomes moot. The attitude towards building for the web with this in mind is called [progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement).

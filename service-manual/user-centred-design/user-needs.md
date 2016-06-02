@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: User-centred design
     url: /service-manual/user-centred-design
+exclude_from_search: true
 ---
 
 Deep understanding of your users' needs is crucial for building a successful digital service.

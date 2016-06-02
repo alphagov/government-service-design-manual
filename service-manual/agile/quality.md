@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: Agile
     url: /service-manual/agile
+exclude_from_search: true
 ---
 
 Put quality at the forefront of your project if you want people to use and enjoy your service.

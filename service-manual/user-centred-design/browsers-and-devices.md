@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: User-centred design
     url: /service-manual/user-centred-design
+exclude_from_search: true
 ---
 
 Services should be universally accessible, regardless of how the user is choosing to access them.

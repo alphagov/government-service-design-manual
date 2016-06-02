@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: User-centred design
     url: /service-manual/user-centred-design
+exclude_from_search: true
 ---
 
 <figure class="media-player-wrapper video"><a href="https://www.youtube.com/watch?v=1hbnPCdM4ls">Watch Angela Collins-Rees, GDS User Research Specialist, describing the importance of user research.</a></figure>

@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Where services live on the web
     url: /service-manual/domain-names
+exclude_from_search: true
 ---
 
 ## HTTPS

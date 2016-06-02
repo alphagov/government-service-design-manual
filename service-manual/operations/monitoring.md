@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Operations
     url: /service-manual/operations
+exclude_from_search: true
 ---
 
 Any online application should have tools dedicated to alerting any problems to those running the service. These can be low-level issues involving the infrastructure supporting the service, to a sudden high rate of user errors.

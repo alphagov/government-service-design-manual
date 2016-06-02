@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
+exclude_from_search: true
 ---
 
 Assessments for services that have (or are likely to have) fewer than 100,000 transactions a year are completed by an assessor within the service’s responsible department. The department will be responsible for the assessment of a service and the process to arrange this will vary by department. The digital leader will then certify the service conforms to the Digital by Default service standard.

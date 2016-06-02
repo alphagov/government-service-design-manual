@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 The basics of any testing approach still apply in the agile world, but the aim of testing can be quite different.

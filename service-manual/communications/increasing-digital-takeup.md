@@ -12,6 +12,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 It’s essential to increase the take-up of government digital services so more users can benefit from improved government services. Increased take-up will also make it possible for [assisted digital](/service-manual/assisted-digital/index.html) support to be focused on those who are unable to use the digital service.

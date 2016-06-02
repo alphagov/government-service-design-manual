@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 Most software projects, especially those using open source technologies, will

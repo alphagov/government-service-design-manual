@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
+exclude_from_search: true
 ---
 
 While the information and guidance within the manual will be useful for teams in all services, [the standard](/service-manual/digital-by-default) itself will not apply to all government services. As described in the [Government Digital Strategy](/government/collections/government-digital-strategy-reports-and-research), only high-volume transactions being released after April 2014 will need to meet it.

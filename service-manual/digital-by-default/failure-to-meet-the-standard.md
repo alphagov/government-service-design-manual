@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
+exclude_from_search: true
 ---
 
 A service may fail to meet [the standard](/service-manual/digital-by-default/index.html) at three points:

@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 As software developers, the environments we use every day matter greatly. Below are a set of guidelines for development environments to enable the [exemplar projects][] (service transformations committed to in the [Government Digital Strategy](/government/publications/government-digital-strategy)) to:

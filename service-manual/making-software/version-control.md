@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 Every software development project has to use a version control system. Version control allows you to track changes to code over time, which means you can:

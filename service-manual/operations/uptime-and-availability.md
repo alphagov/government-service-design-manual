@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Operations
     url: /service-manual/operations
+exclude_from_search: true
 ---
 
 

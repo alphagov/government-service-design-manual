@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
+exclude_from_search: true
 ---
 
 Assessments for services that have (or are likely to have) more than 100,000 transactions a year are completed by GDS. Planning ahead is very important as it can take up to 4 weeks to complete the assessment process.

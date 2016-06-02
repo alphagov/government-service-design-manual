@@ -16,6 +16,7 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
 
 Service teams must ensure appropriate assisted digital support is in place for their service. This support must be aimed towards users who need it. [Read more about how to develop assisted digital support that meets the Digital Service Standard](https://www.gov.uk/service-manual/assisted-digital/action-plan).

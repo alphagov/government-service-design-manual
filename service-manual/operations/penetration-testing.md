@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Operations
     url: /service-manual/operations
+exclude_from_search: true
 ---
 
 Making sure your web-based systems and applications are secure requires more than just good design and development.

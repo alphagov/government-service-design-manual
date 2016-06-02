@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 This is for guidance purposes only, so don’t take it as legal advice.

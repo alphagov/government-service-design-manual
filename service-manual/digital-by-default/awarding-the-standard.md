@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Digital by Default Service Standard
     url: /service-manual/digital-by-default
+exclude_from_search: true
 ---
 
 All services within the [scope of the standard](/service-manual/digital-by-default/scope-of-the-standard.html) will be assessed against the [criteria of the standard](/service-manual/digital-by-default). This includes the [25 exemplar services](https://www.gov.uk/transformation).

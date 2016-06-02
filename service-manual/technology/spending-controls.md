@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: Technology
     url: /service-manual/technology
+exclude_from_search: true
 ---
 
 Organisations should follow the rules set out in [Managing public money](/government/publications/managing-public-money) which explains the overriding principles for dealing with resources used by public sector organisations in the UK.
