@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 The goal of exploratory testing is to explore a system as a user would, possibly finding new defects as you go.

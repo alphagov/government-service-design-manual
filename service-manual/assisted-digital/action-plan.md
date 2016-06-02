@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Assisted digital
     url: /service-manual/assisted-digital
+exclude_from_search: true
 ---
 Find out [what assisted digital support is](https://www.gov.uk/service-manual/assisted-digital), and whether you need to include it in your service design.
 

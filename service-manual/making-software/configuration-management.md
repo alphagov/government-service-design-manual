@@ -19,6 +19,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 Configuration management is about managing how the pieces of your software and/or service work together.

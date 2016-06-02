@@ -14,6 +14,7 @@ breadcrumbs:
   -
     title: Chief technology officer
     url: /service-manual/technology
+exclude_from_search: true
 ---
 
 Architecture is not just about the design and deployment of technology -- to be successful you need to consider the utility, sustainability and attractiveness of the system as a whole. 

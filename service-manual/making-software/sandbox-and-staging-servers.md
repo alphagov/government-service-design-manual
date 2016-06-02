@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 
 Everyone working on the design, development or maintenance of your service should have a clear, easily accessible place to review the latest version of the software. Those working hands-on to build the software should be able to run their own reasonable replica of the entire service.

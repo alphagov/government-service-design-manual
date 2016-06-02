@@ -20,6 +20,7 @@ breadcrumbs:
   -
     title: User-centred design
     url: /service-manual/user-centred-design
+exclude_from_search: true
 ---
 
 The services we provide are for the benefit of all citizens of the United Kingdom. No user should be excluded on the basis of disability. To do so would breach the [Equality Act 2010](http://www.legislation.gov.uk/ukpga/2010/15/contents). Your services must also comply with any other legal requirements, including providing services in accordance with your Welsh Language Scheme, if you have one.

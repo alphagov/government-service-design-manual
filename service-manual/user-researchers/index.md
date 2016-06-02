@@ -8,4 +8,5 @@ breadcrumbs:
   -
     title: Home
     url: /service-manual
+exclude_from_search: true
 ---
