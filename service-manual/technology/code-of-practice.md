@@ -62,4 +62,4 @@ There are a number of aspects, which indicate that a project or programme is sig
 
 Further information can be found in [our blog post about red lines](https://gds.blog.gov.uk/2014/02/26/red-lines-for-it-procurement/).
 
-However, there will always be exceptions to these red lines and we are pragmatic, where there is genuine need. If you have any doubt please contact GDS on gdsapprovals@digital.cabinet-office.gov.uk.
+However, there will always be exceptions to these red lines and we are pragmatic, where there is genuine need. If you have any doubt please contact GDS at [gdsapprovals@digital.cabinet-office.gov.uk](mailto:gdsapprovals@digital.cabinet-office.gov.uk).
