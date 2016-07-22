@@ -72,9 +72,8 @@ Make sure it's obvious how to correct any errors they might spot.
 
 If email is an integral part of your service, you can confirm whether the user has access to the email address they give you using an email confirmation loop.
 
-[Find out more about email confirmation loops](#).
+[Find out more about email confirmation loops](/service-manual/user-centred-design/resources/patterns/email-confirmation-loop).
 
 ---
 
 [Discuss this page on Hackpad](https://designpatterns.hackpad.com/Knowledge-based-authentication-Nc91dMM61BZ)
-
