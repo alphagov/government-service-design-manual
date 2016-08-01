@@ -74,8 +74,8 @@ The web is a hostile environment, and the nature of government services means th
 
 Exploits of web application tend to follow a relatively small number of common patterns. Automated and manual testing, as well as awareness of these common problems, can have a drastic effect on the security of your system.
 
-[The Government Accreditation processes](https://www.cesg.gov.uk/policyguidance/PGA/Pages/index.aspx) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](https://www.cesg.gov.uk/finda/Pages/CHECKSearch.aspx). View this as the minimum amount of effort required.
+[The Government Accreditation processes](https://www.cesg.gov.uk/articles/pan-government-accreditation-service-pga) mandate some form of vulnerability testing, often working with [CHECK approved suppliers](https://www.cesg.gov.uk/scheme/penetration-testing). View this as the minimum amount of effort required.
 
 ## Further reading
 
-* [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2010)
+* [OWASP Top 10](https://www.owasp.org/index.php/OWASP_Top_10)
