@@ -91,7 +91,7 @@ Use this to tell people about other ways that people can access the service.
 
 # Getting a start page on GOV.UK 
 
-Well before your beta launch, [contact the GOV.UK content team](https://support.production.alphagov.co.uk/new_feature_request/new).
+Well before your beta launch, [contact the GOV.UK content team](https://support.publishing.service.gov.uk/).
 
 Tell them:
 
