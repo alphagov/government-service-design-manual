@@ -18,6 +18,7 @@ breadcrumbs:
   -
     title: Making software
     url: /service-manual/making-software
+exclude_from_search: true
 ---
 # Principles for software deployment
 

@@ -14,6 +14,7 @@ breadcrumbs:
   -
     title: Service design phases
     url: /service-manual/phases
+exclude_from_search: true
 ---
 
 {:.intro}
