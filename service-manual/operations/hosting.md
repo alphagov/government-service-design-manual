@@ -15,6 +15,7 @@ breadcrumbs:
   -
     title: Operations
     url: /service-manual/operations
+exclude_from_search: true
 ---
 
 You need servers to run your software. The information here will help you decide how you host your applications and the things to consider when selecting a vendor.
