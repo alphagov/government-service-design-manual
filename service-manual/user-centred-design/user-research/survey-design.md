@@ -50,10 +50,10 @@ Surveys are normally composed of the following types of questions:
 
 eg:
 
-Q. What is your gender?
+Q. How old are you?
 
-*  Male
-*  Female
+*  Seventeen or younger
+*  Eighteen or older
 *  Prefer not to answer
 
 **Multiple choice questions** (respondents can select more than one answer)
