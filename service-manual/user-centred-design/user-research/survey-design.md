@@ -52,8 +52,8 @@ eg:
 
 Q. How old are you?
 
-*  Under Eighteen
-*  Eighteen or older
+*  Under 18
+*  18 or older
 *  Prefer not to answer
 
 **Multiple choice questions** (respondents can select more than one answer)
