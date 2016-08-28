@@ -52,7 +52,7 @@ eg:
 
 Q. How old are you?
 
-*  Seventeen or younger
+*  Under Eighteen
 *  Eighteen or older
 *  Prefer not to answer
 
