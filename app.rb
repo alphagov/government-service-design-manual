@@ -29,7 +29,7 @@ class ServiceManual < Sinatra::Base
       if @search_term.nil? or @search_term.strip.empty?
         @results = []
       else
-        res = search_client.unified_search(q: @search_term, filter_manual: "service-manual")
+        res = search_client.search(q: @search_term, filter_manual: "service-manual")
         @results = res['results'].map { |result|
           result.merge({'title' => result['title'].gsub(/\AGovernment Service Design Manual: /, '')})
         }
