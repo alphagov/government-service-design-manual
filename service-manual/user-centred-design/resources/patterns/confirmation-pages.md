@@ -21,7 +21,7 @@ Status: [Research required](#research)
 <br>
 
 <div class="example">
-  <a href="http://govuk-prototype-kit.herokuapp.com/examples/confirmation-page">
+  <a href="https://govuk-prototype-kit.herokuapp.com/docs/examples/confirmation-page">
     <img src="/service-manual/assets/images/design-patterns/confirmation-page.png" alt="An example of a confirmation page">
   </a>
 </div>
@@ -29,7 +29,7 @@ Status: [Research required](#research)
 
 # Code
 
-There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/confirmation-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
+There's a [coded example of this page](https://govuk-prototype-kit.herokuapp.com/docs/examples/confirmation-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
 ---
 
