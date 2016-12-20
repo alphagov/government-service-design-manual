@@ -1,3 +1,5 @@
+> :rotating_light: **This repository is no longer maintained. This is the source of the [first version of the Service Manual](http://webarchive.nationalarchives.gov.uk/20160609173223/https://gov.uk/service-manual) which was [replaced in December 2016](https://gds.blog.gov.uk/2016/12/19/introducing-the-next-stage-of-the-service-manual/). You can follow what we're doing now at alphagov/service-manual-publisher and alphagov/service-manual-frontend.**
+
 [![Build Status](https://travis-ci.org/alphagov/government-service-design-manual.svg?branch=master)](https://travis-ci.org/alphagov/government-service-design-manual)
 
 # Government Service Design Manual
