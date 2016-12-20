@@ -22,8 +22,7 @@ Help people to create a memorable and appropriate username for their user accoun
 
 1. [Use the phrase 'Create a username'](#section-1)
 2. [Explain what the username is for](#section-2)
-3. [Try asking for username and password on separate pages](#section-3)
-4. [Examples](#section-4)
+3. [Examples](#section-3)
 
 ---
 
@@ -44,18 +43,7 @@ This also helps people decide on a username. It's particularly important to tell
 
 ---
 
-<h2 class="heading-36" id="section-3">3. Try asking for username and password on separate pages</h2>
-
-If your service has users with low digital skills or low confidence online, then consider asking for the username and for the password on separate pages.
-
-In research for GOV.UK Verify we found that:
-
-* people with high digital skills did not notice that the two questions were separated, and completed them easily
-* people with low digital skills found the questions much easier when they could concentrate on them one at a time
-
----
-
-<h2 class="heading-36" id="section-4">4. Examples</h2>
+<h2 class="heading-36" id="section-3">3. Examples</h2>
 
 
 <div class="example">
