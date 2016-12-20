@@ -22,7 +22,7 @@ Assessments for services that have (or are likely to have) more than 100,000 tra
 
 ## Arranging an assessment with GDS
 
-You can start the assessment process by asking GDS Approvals (gdsapprovals@digital.cabinet-office.gov.uk) to arrange a Digital by Default Standard Service assessment. GDS will agree a date and time within 4 weeks and confirm the attendees from the service. The service team should give:
+You can start the assessment process by asking GDS Approvals (gdsapprovals@digital.cabinet-office.gov.uk) to arrange a Digital by Default Standard Service assessment. GDS will agree to a date and time within 4 weeks and confirm the attendees from the service. The service team should give:
 
 * a brief description of the service and its intended users
 * the current development phase
