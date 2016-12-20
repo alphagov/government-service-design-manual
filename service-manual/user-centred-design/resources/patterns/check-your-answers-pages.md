@@ -37,7 +37,7 @@ to drop out of the transaction before completing it
 
 # Code
 
-There's a [coded example of this page](http://govuk-prototype-kit.herokuapp.com/examples/check-your-answers-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
+There's a [coded example of this page](https://govuk-prototype-kit.herokuapp.com/docs/examples/check-your-answers-page) in the [GOV.UK prototyping kit](https://github.com/alphagov/govuk_prototype_kit).
 
 
 ---
