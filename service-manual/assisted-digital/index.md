@@ -76,7 +76,7 @@ Your service doesn’t need to provide assisted digital support if:
 * your service is being completed by a third party intermediary who benefits commercially for engaging with the service on behalf of the end user.
   * Note that if an intermediary is the intended end user (rather than completing the service on behalf of the end user), you may need to provide assisted digital support.
 
-##Responsibilities and liabilities
+##Responsibilities and liabilities 
 As a service manager, you will need to make sure that:
 
 * assisted digital support is delivered within legal and policy constraints, such as the Equality Act 2010
