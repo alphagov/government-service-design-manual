@@ -27,7 +27,7 @@ This means in essence that each extra layer (images, styling, behaviour, video, 
 
 ## First, just make it work
 
-Make any new page or feature work with HTML alone -- no images, no CSS, no JavaScript, nothing but HTML. Interactive elements are only those capable of being implemented with [forms](https://en.wikipedia.org/wiki/Form_(HTML)) and server-side processing.
+Make any new page or feature work with HTML alone -- no images, no CSS, no JavaScript, nothing but HTML. Interactive elements are only those capable of being implemented with [forms](http://www.w3.org/TR/html5/forms.html) and server-side processing.
 
 This gives a baseline experience, which will work in practically every browser. It allows your site to work for as many people and devices as possible, including older legacy browsers and devices.
 
